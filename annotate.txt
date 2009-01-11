@@ -1,0 +1,56 @@
+Class-DBI-Plugin-Type-0.02              4 years ago reported
+GPS-Point-Filter-0.01                   42133
+Compress-unLZMA-0.02                    42132
+Acme-Boolean-0.1                        42134
+Acme-Abuse-0.02                         always fails, nothing to report
+GPS-Point-0.12                          too old
+GPS-Point-0.10                          too old
+Acme-CPANAuthors-French-0.07            cpants not reachable, no point reporting
+Acme-MetaSyntactic-0.99                 40946
+Config-Model-CursesUI-1.007             42142
+Business-ISBN-2.04                      too old, 2.04_01 already seen
+WWW-Search-News-2.05                    unauthorized upload by JSMYSER, ignore
+WWW-Search-News-1.077                   spielverderber=party-pooper 42145
+Email-Store-0.255                       no idea @2009-01-04:  revisit some day!
+DBIx-Class-Tokenize-0.01                42158
+VCI-0.4.1                               fails w/ Git.pm which isn't on CPAN, NKH pinged
+Template-Plugin-Autoformat-2.71         41796 by frank wiegand
+Tie-Array-FileWriter-0.1                too old: released 2001
+Math-Currency-0.46                      32805 by JROBINSON
+Math-Systems-0.01                       42173
+MooseX-Compile-0.01                     42203
+ConfigReader-Simple-1.27                !!! looked too early for --solve only fails at dagolden 5.10.0
+IPC-Run-0.82                            nothing to see
+ParallelUserAgent-2.57                  rt.cpan.org/40216
+FramesReady-1.020                       rt.cpan.org/42272: 5.6.2
+DBM-Deep-1.0013                         too old, 1.0014 is current
+ex-lib-zip-0.04                         rt.cpan.org/40236
+Acme-use-strict-with-pride-0.04         42273
+HTML-FormFu-0.01006                     too old, 0.03007 is current
+WebService-Google-Suggest-0.03          42274
+Puppet-Body-1.018                       released 1999
+IO-Handle-Record-0.13                   no idea
+Linux-Inotify-0.05                      the "I don't care" notify module
+DateTimeX-Easy-0.084                    rt.cpan.org/42118
+Catalyst-Plugin-OrderedParams-0.06i386-freebsd-thread-multi-64int reported to cpan-testers-discuss
+Catalyst-Plugin-Static-0.10             rt.cpan.org/19351
+Catalyst-Controller-WrapCGI-0.0025      !!! looked too early for solve
+Net-Server-Framework-1.0                only fails, not worth reporting
+AnyEvent-HTTPD-0.03                     too old, 0.04 is current
+Test-Continuous-0.60                    42290
+Rubyish-0.31                            42291
+Encode-Detect-1.01                      42293
+POE-Component-SmokeBox-Dists-0.08darwin-thread-multi-64int-2level reported to cpan-testers-discuss
+Term-Interact-0.50                      !!! looked too early for solve
+REST-Resource-0.5.2.4                   only fails, not worth reporting
+WWW-Search-News-1.078                   maybe testers had no internet access
+Mail-RBL-1.10                           -solve says it's CPAN.pm version, cannot explain:-(
+SQL-Statement-1.16_04                   only fails, not worth reporting
+Mediawiki-POD-0.06                      Dated Module::Install 0.65; ignored
+CGI-PathRequest-1.18                    only fails, not worth reporting
+HTML-XHTML-DVSM-1.0                     42296
+Perl6-Caller-0.04                       rt.cpan.org/27554
+Template-Provider-Markdown-0.03         42297
+Kwiki-CachedDisplay-0.07                42301
+Parse-ErrorString-Perl-0.11             obviously only failing on 5.8.9; ignored
+Apache-TopicMaps-0.02                   only fails, not worth reporting
