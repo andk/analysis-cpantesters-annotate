@@ -54,3 +54,4 @@ Template-Provider-Markdown-0.03         42297
 Kwiki-CachedDisplay-0.07                42301
 Parse-ErrorString-Perl-0.11             obviously only failing on 5.8.9; ignored
 Apache-TopicMaps-0.02                   only fails, not worth reporting
+WWW-YahooJapan-KanaAddress-0.1.2        42325
