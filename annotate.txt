@@ -57,4 +57,12 @@ Apache-TopicMaps-0.02                   only fails, not worth reporting
 WWW-YahooJapan-KanaAddress-0.1.2        42325
 WPA-CLI-0.1.0                           42356
 WWW-FreshBooks-API-v0.0.1               rt.cpan.org/29447
-Tree-Trie-1.5                           pod-coverage changed somewhere between 24660 and 24724
+Tree-Trie-1.5                           42448: patch 24714 broke a pod-coverage related test 
+Cache-FastMmap-1.28                     has tickets, -solve has no insights
+CatalystX-CRUD-Model-DBIC-0.03          only fails
+Tcl-0.97                                solve does not solve well despite -q qr:"(FailedFailed to load .*)" -q qr:"(Can't load .*)" -q qr:"(.*could not find.*)"
+WWW-TinySong-0.04                       !!! looked too early for solve
+EAFDSS-0.12                             42460
+NetSuite-1.03                           only fails
+Dotiac-0.1                              only fails
+Mouse-0.14:                             105ae85=fail;0159319=pass; hrmmm
