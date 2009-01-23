@@ -72,3 +72,7 @@ Acme-Boolean-0.2                        patch seen on RT
 XML-ExtOn-0.07                          fails on 5.6.2
 Gearman-Client-Async-0.94               42493
 Binding-0.02                            seen 0.03 on RT
+Hardware-Simulator-MIX-0.4              seen 0.5 on RT
+Digest-CMAC-0.03                        42603
+XML-Atom-0.33                           42696
+XML-RSS-1.43                            42700
