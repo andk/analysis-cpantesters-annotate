@@ -76,3 +76,8 @@ Hardware-Simulator-MIX-0.4              seen 0.5 on RT
 Digest-CMAC-0.03                        42603
 XML-Atom-0.33                           42696
 XML-RSS-1.43                            42700
+URI-Escape-XS-0.04                      42702
+XML-Amazon-0.03                         42751
+WWW-Shorten-2.01                        42752
+Test-More-UTF8-0.01                     42753
+Test-Continuous-0.62                    42755
