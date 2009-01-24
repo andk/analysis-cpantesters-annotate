@@ -81,3 +81,5 @@ XML-Amazon-0.03                         42751
 WWW-Shorten-2.01                        42752
 Test-More-UTF8-0.01                     42753
 Test-Continuous-0.62                    42755
+Continuation-Escape-0.02                42761
+DSlib-2.12                              seen 2.13 on CPAN
