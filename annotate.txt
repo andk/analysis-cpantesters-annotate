@@ -33,7 +33,6 @@ Linux-Inotify-0.05                      the "I don't care" notify module
 DateTimeX-Easy-0.084                    rt.cpan.org/42118
 Catalyst-Plugin-OrderedParams-0.06i386-freebsd-thread-multi-64int reported to cpan-testers-discuss
 Catalyst-Plugin-Static-0.10             rt.cpan.org/19351
-Catalyst-Controller-WrapCGI-0.0025      !!! looked too early for solve
 Net-Server-Framework-1.0                only fails, not worth reporting
 AnyEvent-HTTPD-0.03                     too old, 0.04 is current
 Test-Continuous-0.60                    42290
@@ -83,3 +82,15 @@ Test-More-UTF8-0.01                     42753
 Test-Continuous-0.62                    42755
 Continuation-Escape-0.02                42761
 DSlib-2.12                              seen 2.13 on CPAN
+File-DesktopEntry-0.04                  42770
+Net-LDAP-Makepath-1.0.0                 42775
+B-OPCheck-0.27                          42784
+Parallel-Depend-3.05                    42785
+CGI-Session-YAML-0.3                    42787
+MouseX-Object-Pluggable-0.01            42719
+OOTools-2.21                            29824 by Chorny, a 5.10 thing, with full explain
+DB_File-Lock-0.05                       30942
+Dotiac-addon-json-0.1.1                 42960
+XML-TinyXML-0.09                        42946
+Biblio-COUNTER-0.09                     42952
+Pod-Weaver-2.001                        embarrassingly 42923 missed Pod/Elemental/Document.pm
