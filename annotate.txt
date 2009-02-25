@@ -108,3 +108,11 @@ Proc-ProcessTable-0.45                  too many RT tickets to be interesting
 WWW-Modbot-0.01                         43350
 Number-Format-1.70                      43351
 CSS-Squish-0.07                         43419
+any-feature-0.01                        43526
+SVGraph-0.02                            43528
+WWW-Hanako-0.03                         43565
+Search-Sitemap-2.04                     43593
+Provision-Unix-0.45                     fails on bsd,solaris,irix and quite a few linuxes
+Video-FrameGrab-0.01                    depends on mplayer
+DateTime-Format-Strptime-1.0900         a google evangelist
+Zymurgy-0.03                            43596
