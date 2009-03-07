@@ -116,3 +116,13 @@ Provision-Unix-0.45                     fails on bsd,solaris,irix and quite a fe
 Video-FrameGrab-0.01                    depends on mplayer
 DateTime-Format-Strptime-1.0900         a google evangelist
 Zymurgy-0.03                            43596
+UMLS-Interface-0.21                     43648
+Path-Resource-0.072                     43649
+Tie-DxHash-1.05                         43723
+MediaWiki-Bot-2.1.2                     43726
+Encode-compat-MIME-Header-ISO_2022_JP-0.01 43722
+RSSycklr-0.09                           43727
+Module-Install-0.79                     43567
+JS-Chicken-0.02                         43760
+CPS-0.02                                43799
+MooseX-Types-0.09                       43873
