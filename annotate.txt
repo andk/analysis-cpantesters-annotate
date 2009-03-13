@@ -128,3 +128,6 @@ CPS-0.02                                43799
 MooseX-Types-0.09                       43873
 Data-NDS-Multisource-2.02               43923
 MFor-0.052                              43935
+Pod-Abstract-0.14                       43942
+Util-Properties-0.18                    39175
+Test-Base-0.56                          44057
