@@ -1,4 +1,3 @@
-Compress-unLZMA-0.02                    42132
 Acme-MetaSyntactic-0.99                 40946
 Config-Model-CursesUI-1.007             42142
 WWW-Search-News-1.077                   42145
