@@ -1,99 +1,45 @@
-Class-DBI-Plugin-Type-0.02              4 years ago reported
-GPS-Point-Filter-0.01                   42133
 Compress-unLZMA-0.02                    42132
-Acme-Boolean-0.1                        42134
-Acme-Abuse-0.02                         always fails, nothing to report
-GPS-Point-0.12                          too old
-GPS-Point-0.10                          too old
-Acme-CPANAuthors-French-0.07            cpants not reachable, no point reporting
 Acme-MetaSyntactic-0.99                 40946
 Config-Model-CursesUI-1.007             42142
-Business-ISBN-2.04                      too old, 2.04_01 already seen
-WWW-Search-News-2.05                    unauthorized upload by JSMYSER, ignore
-WWW-Search-News-1.077                   spielverderber=party-pooper 42145
-Email-Store-0.255                       no idea @2009-01-04:  revisit some day!
+WWW-Search-News-1.077                   42145
 DBIx-Class-Tokenize-0.01                42158
-VCI-0.4.1                               fails w/ Git.pm which isn't on CPAN, NKH pinged
-Template-Plugin-Autoformat-2.71         41796 by frank wiegand
-Tie-Array-FileWriter-0.1                too old: released 2001
-Math-Currency-0.46                      32805 by JROBINSON
+Template-Plugin-Autoformat-2.71         41796
+Math-Currency-0.46                      32805
 Math-Systems-0.01                       42173
 MooseX-Compile-0.01                     42203
-IPC-Run-0.82                            nothing to see
-ParallelUserAgent-2.57                  rt.cpan.org/40216
-FramesReady-1.020                       rt.cpan.org/42272: 5.6.2
-DBM-Deep-1.0013                         too old, 1.0014 is current
-ex-lib-zip-0.04                         rt.cpan.org/40236
+ParallelUserAgent-2.57                  40216
+FramesReady-1.020                       42272
+ex-lib-zip-0.04                         40236
 Acme-use-strict-with-pride-0.04         42273
-HTML-FormFu-0.01006                     too old, 0.03007 is current
 WebService-Google-Suggest-0.03          42274
-Puppet-Body-1.018                       released 1999
-IO-Handle-Record-0.13                   no idea
-Linux-Inotify-0.05                      the "I don't care" notify module
-DateTimeX-Easy-0.084                    rt.cpan.org/42118
-Catalyst-Plugin-OrderedParams-0.06i386-freebsd-thread-multi-64int reported to cpan-testers-discuss
-Catalyst-Plugin-Static-0.10             rt.cpan.org/19351
-Net-Server-Framework-1.0                only fails, not worth reporting
-AnyEvent-HTTPD-0.03                     too old, 0.04 is current
+DateTimeX-Easy-0.084                    42118
+Catalyst-Plugin-Static-0.10             19351
 Test-Continuous-0.60                    42290
-Rubyish-0.31                            42291
 Encode-Detect-1.01                      42293
-POE-Component-SmokeBox-Dists-0.08darwin-thread-multi-64int-2level reported to cpan-testers-discuss
-REST-Resource-0.5.2.4                   only fails, not worth reporting
-WWW-Search-News-1.078                   maybe testers had no internet access
-Mail-RBL-1.10                           -solve says it's CPAN.pm version, cannot explain:-(
-SQL-Statement-1.16_04                   only fails, not worth reporting
-Mediawiki-POD-0.06                      Dated Module::Install 0.65; ignored
-CGI-PathRequest-1.18                    only fails, not worth reporting
 HTML-XHTML-DVSM-1.0                     42296
-Perl6-Caller-0.04                       rt.cpan.org/27554
-Template-Provider-Markdown-0.03         42297
+Perl6-Caller-0.04                       27554
 Kwiki-CachedDisplay-0.07                42301
-Parse-ErrorString-Perl-0.11             obviously only failing on 5.8.9; ignored
-Apache-TopicMaps-0.02                   only fails, not worth reporting
 WWW-YahooJapan-KanaAddress-0.1.2        42325
 WPA-CLI-0.1.0                           42356
-WWW-FreshBooks-API-v0.0.1               rt.cpan.org/29447
-Tree-Trie-1.5                           42448: patch 24714 broke a pod-coverage related test 
-Cache-FastMmap-1.28                     has tickets, -solve has no insights
-CatalystX-CRUD-Model-DBIC-0.03          only fails
-Tcl-0.97                                solve does not solve well despite -q qr:"(FailedFailed to load .*)" -q qr:"(Can't load .*)" -q qr:"(.*could not find.*)"
-EAFDSS-0.12                             42460
-NetSuite-1.03                           only fails
-Dotiac-0.1                              only fails
-Mouse-0.14                              105ae85=fail;0159319=pass; hrmmm
-Tripletail-0.45                         42488 (LWP.pm)
-Parse-ISF-0.0102                        42490 (byteorder: 1234,12345678 pass; 4321,87654321 fail)
-WWW-TinySong-0.04                       0.04_01 already seen
+WWW-FreshBooks-API-v0.0.1               29447
+Tree-Trie-1.5                           42448
 Net-IMAP-Client-0.7                     42495
 Catalyst-Model-Estraier-0.0.5           42501
-Acme-Boolean-0.2                        patch seen on RT
-XML-ExtOn-0.07                          fails on 5.6.2
 Gearman-Client-Async-0.94               42493
-Binding-0.02                            seen 0.03 on RT
-Hardware-Simulator-MIX-0.4              seen 0.5 on RT
-Digest-CMAC-0.03                        42603
-XML-Atom-0.33                           42696
-XML-RSS-1.43                            42700
-URI-Escape-XS-0.04                      42702
-XML-Amazon-0.03                         42751
 WWW-Shorten-2.01                        42752
 Test-More-UTF8-0.01                     42753
-Test-Continuous-0.62                    42755
 Continuation-Escape-0.02                42761
-DSlib-2.12                              seen 2.13 on CPAN
 File-DesktopEntry-0.04                  42770
 Net-LDAP-Makepath-1.0.0                 42775
 B-OPCheck-0.27                          42784
 Parallel-Depend-3.05                    42785
 CGI-Session-YAML-0.3                    42787
 MouseX-Object-Pluggable-0.01            42719
-OOTools-2.21                            29824 by Chorny, a 5.10 thing, with full explain
+OOTools-2.21                            29824
 DB_File-Lock-0.05                       30942
 Dotiac-addon-json-0.1.1                 42960
-XML-TinyXML-0.09                        42946
 Biblio-COUNTER-0.09                     42952
-Pod-Weaver-2.001                        embarrassingly 42923 missed Pod/Elemental/Document.pm
+Pod-Weaver-2.001                        42923
 File-Finder-0.53                        43280
 Params-Profile-0.10                     43284
 Catalyst-Plugin-Geography-0.03          43283
@@ -104,33 +50,41 @@ Lemonldap-Config-Parameters-3.2.3       43286
 Array-Transpose-0.02                    43301
 IPTables-ChainMgr-0.9                   43302
 Net-Netmask-1.9015                      43348
-Proc-ProcessTable-0.45                  too many RT tickets to be interesting
 WWW-Modbot-0.01                         43350
 Number-Format-1.70                      43351
-CSS-Squish-0.07                         43419
 any-feature-0.01                        43526
 SVGraph-0.02                            43528
-WWW-Hanako-0.03                         43565
-Search-Sitemap-2.04                     43593
-Provision-Unix-0.45                     fails on bsd,solaris,irix and quite a few linuxes
-Video-FrameGrab-0.01                    depends on mplayer
-DateTime-Format-Strptime-1.0900         a google evangelist
 Zymurgy-0.03                            43596
 UMLS-Interface-0.21                     43648
 Path-Resource-0.072                     43649
 Tie-DxHash-1.05                         43723
 MediaWiki-Bot-2.1.2                     43726
 Encode-compat-MIME-Header-ISO_2022_JP-0.01 43722
-RSSycklr-0.09                           43727
-Module-Install-0.79                     43567
 JS-Chicken-0.02                         43760
-CPS-0.02                                43799
-MooseX-Types-0.09                       43873
 Data-NDS-Multisource-2.02               43923
 MFor-0.052                              43935
 Pod-Abstract-0.14                       43942
 Util-Properties-0.18                    39175
-Test-Base-0.56                          44057
-Getopt-Euclid-v0.2.0                    34807 and countless more tickets
-Mouse-0.19                              44181
+Getopt-Euclid-v0.2.0                    34807
 Object-LocalVars-0.18                   44183
+B-XSUB-Dumber-0.01                      41451
+SVG-Calendar-0.1.3                      50084
+TRD-WebRelayMail-0.0.4                  50085
+Interpolation-0.73                      50105
+Filter-Crypto-1.24                      50107
+Lexical-Util-0.8                        50114
+Kwiki-DisableWikiNames-0.02             50115
+MooseX-Types-CPF-0.01                   50177
+Data-PackageName-0.01                   50186
+WWW-Nike-NikePlus-0.02                  50189
+Video-FrameGrab-0.06                    50194
+Lingua-EN-AffectiveNorms-0.01           50195
+Lingua-FR-Ladl-v0.0.4                   50200
+CSS-LESSp-0.03                          50274
+Religion-Bible-Regex-Config-0.6         50275
+Religion-Bible-Regex-Reference-0.95     50276
+Variable-Magic-0.38                     fixed again in blead
+CatalystX-Features-0.13                 50318
+Unicode-LineBreak-1.003_09              48585
+DBIx-Class-CustomPrefetch-0.02.tar.gz   50385
+Crypt-Password-0.01                     50387
