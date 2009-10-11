@@ -1,5 +1,4 @@
 Acme-MetaSyntactic-0.99                 40946
-WWW-Search-News-1.077                   42145
 DBIx-Class-Tokenize-0.01                42158
 Template-Plugin-Autoformat-2.71         41796
 Math-Currency-0.46                      32805
@@ -14,19 +13,16 @@ Catalyst-Plugin-Static-0.10             19351
 Encode-Detect-1.01                      42293
 Perl6-Caller-0.04                       27554
 Kwiki-CachedDisplay-0.07                42301
-WWW-YahooJapan-KanaAddress-0.1.2        42325
 WPA-CLI-0.1.0                           42356
 Tree-Trie-1.5                           42448
 Catalyst-Model-Estraier-0.0.5           42501
 Gearman-Client-Async-0.94               42493
-Continuation-Escape-0.02                42761
 File-DesktopEntry-0.04                  42770
 Net-LDAP-Makepath-1.0.0                 42775
 CGI-Session-YAML-0.3                    42787
 OOTools-2.21                            29824
 DB_File-Lock-0.05                       30942
 Dotiac-addon-json-0.1.1                 42960
-Biblio-COUNTER-0.09                     42952
 Pod-Weaver-2.001                        42923
 File-Finder-0.53                        43280
 Params-Profile-0.10                     43284
@@ -34,7 +30,6 @@ Catalyst-Plugin-Geography-0.03          43283
 Time-Duration-1.06                      21523
 Convert-PEM-0.07                        43300
 Lemonldap-Config-Parameters-3.2.3       43286
-Array-Transpose-0.02                    43301
 IPTables-ChainMgr-0.9                   43302
 Net-Netmask-1.9015                      43348
 Number-Format-1.70                      43351
@@ -63,7 +58,6 @@ Religion-Bible-Regex-Config-0.6         50275
 Religion-Bible-Regex-Reference-0.95     50276
 Variable-Magic-0.38                     fixed again in blead
 CatalystX-Features-0.13                 50318
-Unicode-LineBreak-1.003_09              48585
 Crypt-Password-0.01                     50387
 CatalystX-InjectComponent-0.022         50389
-Net-Twitter-3.07002                     ?
+Data-Locations-5.5                      50394
