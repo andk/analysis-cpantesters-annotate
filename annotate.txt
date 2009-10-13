@@ -61,3 +61,4 @@ Crypt-Password-0.01                     50387
 CatalystX-InjectComponent-0.022         50389
 Data-Locations-5.5                      50394
 CSS-Parse-Packed-0.04                   50399
+MooseX-LexicalRoleApplication-0.01      50431
