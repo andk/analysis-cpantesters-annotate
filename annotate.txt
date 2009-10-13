@@ -62,3 +62,7 @@ CatalystX-InjectComponent-0.022         50389
 Data-Locations-5.5                      50394
 CSS-Parse-Packed-0.04                   50399
 MooseX-LexicalRoleApplication-0.01      50431
+App-CLI-Plugin-Log-Message-0.4          50432
+JSON-Util-0.02                          50434
+Geo-Google-MapObject-0.02               50435
+Algorithm-BayesianSets-0.01             50437
