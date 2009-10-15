@@ -66,3 +66,14 @@ App-CLI-Plugin-Log-Message-0.4          50432
 JSON-Util-0.02                          50434
 Geo-Google-MapObject-0.02               50435
 Algorithm-BayesianSets-0.01             50437
+AnyEvent-MPRPC-0.03                     50463
+CGI-Application-Structured-Tools-0.006  50477
+Data-Iter-0.01.13                       50478
+Calendar-Slots-0.03                     50479
+SQL-Bibliosoph-2.03                     50481
+KiokuDB-0.33                            50482
+POE-Component-RemoteTail-0.01010        50484
+ORLite-Array-0.01                       50499
+MojoX-Fixup-XHTML-0.05                  50501
+Osgood-Client-2.0.3                     43154
+TweetHook-API-0.01                      50502
