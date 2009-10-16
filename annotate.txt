@@ -66,9 +66,15 @@ Data-Iter-0.01.13                       50478
 Calendar-Slots-0.03                     50479
 KiokuDB-0.33                            50482
 POE-Component-RemoteTail-0.01010        50484
-ORLite-Array-0.01                       50499
 TweetHook-API-0.01                      50502
 TAP-DOM-0.05                            50510
 Pod-Elemental-0.092500                  50511
 HTML-GUI-0.02                           50512
 Tie-Hash-Random-1.0                     50514
+MojoX-Renderer-HTP-0.032                50516
+Test-DBIx-Class-Schema-0.01006          50522
+Filter-Crypto-1.25                      50533
+DBIx-Class-EasyConf-YAML-0.11           50536
+Geo-Distance-XS-0.06                    50545
+Plack-Server-Coro-0.01                  50546
+CGI-Application-Plugin-DBIx-Class-0.092830 Weird. Declaring the dependency on SQL::Translator but most of the testers do not care about it.
