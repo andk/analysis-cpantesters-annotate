@@ -75,3 +75,5 @@ Perl6-Feeds-0.12                        50551
 App-Textcast-0.05.13                    43380
 Ante-Deluvian-Dialog-0.02               50552
 WebService-MusicBrainz-0.90             50581
+package-watchdog-0.07                   now Package-Watchdog-(0.08)?
+WWW-DreamHost-API-1.00                  50584
