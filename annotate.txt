@@ -79,3 +79,5 @@ package-watchdog-0.07                   now Package-Watchdog-(0.08)?
 WWW-DreamHost-API-1.00                  50584
 IPTables-Log-0.0001                     50585
 Catalyst-Plugin-Server-JSONRPC-0.06     50586
+HTTP-MobileAttribute-0.20               50588
+XML-Reader-0.27                         50589
