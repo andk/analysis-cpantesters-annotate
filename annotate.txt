@@ -38,7 +38,6 @@ Path-Resource-0.072                     43649
 Tie-DxHash-1.05                         43723
 Encode-compat-MIME-Header-ISO_2022_JP-0.01 43722
 JS-Chicken-0.02                         43760
-Data-NDS-Multisource-2.02               43923
 MFor-0.052                              43935
 Util-Properties-0.18                    39175
 B-XSUB-Dumber-0.01                      41451
