@@ -81,3 +81,4 @@ IPTables-Log-0.0001                     50585
 Catalyst-Plugin-Server-JSONRPC-0.06     50586
 HTTP-MobileAttribute-0.20               50588
 XML-Reader-0.27                         50589
+SQL-DB-0.18                             50591
