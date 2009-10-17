@@ -82,3 +82,8 @@ Catalyst-Plugin-Server-JSONRPC-0.06     50586
 HTTP-MobileAttribute-0.20               50588
 XML-Reader-0.27                         50589
 SQL-DB-0.18                             50591
+Catalyst-View-PDF-API2-0.02             50592
+Tie-Hash-Random-1.01                    50593
+DateTime-Format-Mail-0.3001             ?
+Config-Checker-0.41                     50595
+TAP-Formatter-TextMate-0.1              50599
