@@ -87,3 +87,13 @@ Tie-Hash-Random-1.01                    50593
 DateTime-Format-Mail-0.3001             ?
 Config-Checker-0.41                     50595
 TAP-Formatter-TextMate-0.1              50599
+DBIx-QueryByName-0.01                   50605
+WebService-Eulerian-Analytics-0.7       50606
+WebService-Eulerian-Analytics-v0.6.1    50606
+HTTP-Parser-XS-0.04                     50607
+Sslscan-Parser-0.01                     50608
+Dirbuster-Parser-0.01                   50609
+Net-FluidDB-0.08                        50610
+WTB-0.01                                50611
+Lingua-Translit-0.14                    50613
+Filter-Crypto-1.26                      ?
