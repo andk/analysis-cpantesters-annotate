@@ -97,3 +97,15 @@ Net-FluidDB-0.08                        50610
 WTB-0.01                                50611
 Lingua-Translit-0.14                    50613
 Filter-Crypto-1.26                      ?
+List-Analyse-Sequence-Analyser-OL-RomanNumerals-0.01 50624
+DBIx-Class-Tree-CalculateSets-0.01      50626
+CGI-Application-Plugin-Routes-1.02      50627
+DBIx-Mysql-InformationSchema-0.04       50635
+Supervisor-0.01                         50636
+Pod-Parser-I18N-0.00001                 49540
+CGI-Application-Plugin-Authentication-0.14 50670
+Test-Aggregate-0.36                     50673
+Simo-Constrain-0.0301                   50687
+Test-Kit-0.100                          50688
+Test-SharedFork-0.08                    50689
+Date-Holidays-CA-0.01                   50695
