@@ -92,3 +92,4 @@ HTML-GUI-0.03                           50512
 Supervisor-0.02                         50636
 Net-LDAP-posixGroup-0.0.1               50782
 Object-Simple-Mixin-AttrOptions-0.0301  50783
+MooseX-Types-DateTime-ButMaintained-0.09 50786
