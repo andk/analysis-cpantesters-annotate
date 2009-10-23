@@ -27,11 +27,9 @@ Params-Profile-0.10                     43284
 Catalyst-Plugin-Geography-0.03          43283
 Time-Duration-1.06                      21523
 Convert-PEM-0.07                        43300
-Lemonldap-Config-Parameters-3.2.3       43286
 IPTables-ChainMgr-0.9                   43302
 Net-Netmask-1.9015                      43348
 SVGraph-0.02                            43528
-Zymurgy-0.03                            43596
 Path-Resource-0.072                     43649
 Tie-DxHash-1.05                         43723
 Encode-compat-MIME-Header-ISO_2022_JP-0.01 43722
@@ -50,7 +48,7 @@ Lingua-FR-Ladl-v0.0.4                   50200
 CSS-LESSp-0.03                          50274
 Religion-Bible-Regex-Config-0.6         50275
 Religion-Bible-Regex-Reference-0.95     50276
-Variable-Magic-0.38                     fixed again in blead
+Variable-Magic-0.38                     50720
 CatalystX-Features-0.13                 50318
 Data-Locations-5.5                      50394
 Data-Iter-0.01.13                       50478
@@ -59,13 +57,10 @@ KiokuDB-0.33                            50482
 POE-Component-RemoteTail-0.01010        50484
 TweetHook-API-0.01                      50502
 TAP-DOM-0.05                            50510
-HTML-GUI-0.02                           50512
 MojoX-Renderer-HTP-0.032                50516
 Test-DBIx-Class-Schema-0.01006          50522
 DBIx-Class-EasyConf-YAML-0.11           50536
 Plack-Server-Coro-0.01                  50546
-CGI-Application-Plugin-DBIx-Class-0.092830 Weird. Declaring the dependency on SQL::Translator but most of the testers do not care about it.
-IPC-System-Simple-1.18                  ?
 Perl6-Feeds-0.12                        50551
 App-Textcast-0.05.13                    43380
 Ante-Deluvian-Dialog-0.02               50552
@@ -73,16 +68,12 @@ package-watchdog-0.07                   now Package-Watchdog-(0.08)?
 Catalyst-Plugin-Server-JSONRPC-0.06     50586
 SQL-DB-0.18                             50591
 Catalyst-View-PDF-API2-0.02             50592
-DateTime-Format-Mail-0.3001             ?
 Config-Checker-0.41                     50595
 TAP-Formatter-TextMate-0.1              50599
-DBIx-QueryByName-0.01                   50605
 WebService-Eulerian-Analytics-0.7       50606
 WebService-Eulerian-Analytics-v0.6.1    50606
-HTTP-Parser-XS-0.04                     50607
 Net-FluidDB-0.08                        50610
 WTB-0.01                                50611
-Filter-Crypto-1.27                      ?
 List-Analyse-Sequence-Analyser-OL-RomanNumerals-0.01 50624
 DBIx-Class-Tree-CalculateSets-0.01      50626
 CGI-Application-Plugin-Routes-1.02      50627
@@ -95,7 +86,6 @@ Date-Holidays-CA-0.01                   50695
 Lemonldap-Portal-Standard-3.2.1         50730
 Lemonldap-Config-Parameters-3.2.4       43286
 URI-Amazon-APA-0.03                     50731
-Perl6-Pod-0.10                          50732
 WWW-Search-Scrape-0.05                  50759
 Tk-JBrowseEntry-4.74                    50767
 HTML-GUI-0.03                           50512
