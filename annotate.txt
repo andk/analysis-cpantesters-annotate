@@ -9,9 +9,7 @@ FramesReady-1.020                       42272
 ex-lib-zip-0.04                         40236
 Acme-use-strict-with-pride-0.04         42273
 WebService-Google-Suggest-0.03          42274
-Catalyst-Plugin-Static-0.10             19351
 Encode-Detect-1.01                      42293
-Perl6-Caller-0.04                       27554
 Kwiki-CachedDisplay-0.07                42301
 WPA-CLI-0.1.0                           42356
 Tree-Trie-1.5                           42448
@@ -55,18 +53,15 @@ Religion-Bible-Regex-Reference-0.95     50276
 Variable-Magic-0.38                     fixed again in blead
 CatalystX-Features-0.13                 50318
 Data-Locations-5.5                      50394
-App-CLI-Plugin-Log-Message-0.4          50432
 Data-Iter-0.01.13                       50478
 Calendar-Slots-0.03                     50479
 KiokuDB-0.33                            50482
 POE-Component-RemoteTail-0.01010        50484
 TweetHook-API-0.01                      50502
 TAP-DOM-0.05                            50510
-Pod-Elemental-0.092500                  50511
 HTML-GUI-0.02                           50512
 MojoX-Renderer-HTP-0.032                50516
 Test-DBIx-Class-Schema-0.01006          50522
-Filter-Crypto-1.25                      50533
 DBIx-Class-EasyConf-YAML-0.11           50536
 Plack-Server-Coro-0.01                  50546
 CGI-Application-Plugin-DBIx-Class-0.092830 Weird. Declaring the dependency on SQL::Translator but most of the testers do not care about it.
@@ -74,16 +69,10 @@ IPC-System-Simple-1.18                  ?
 Perl6-Feeds-0.12                        50551
 App-Textcast-0.05.13                    43380
 Ante-Deluvian-Dialog-0.02               50552
-WebService-MusicBrainz-0.90             50581
 package-watchdog-0.07                   now Package-Watchdog-(0.08)?
-WWW-DreamHost-API-1.00                  50584
-IPTables-Log-0.0001                     50585
 Catalyst-Plugin-Server-JSONRPC-0.06     50586
-HTTP-MobileAttribute-0.20               50588
-XML-Reader-0.27                         50589
 SQL-DB-0.18                             50591
 Catalyst-View-PDF-API2-0.02             50592
-Tie-Hash-Random-1.01                    50593
 DateTime-Format-Mail-0.3001             ?
 Config-Checker-0.41                     50595
 TAP-Formatter-TextMate-0.1              50599
@@ -91,21 +80,23 @@ DBIx-QueryByName-0.01                   50605
 WebService-Eulerian-Analytics-0.7       50606
 WebService-Eulerian-Analytics-v0.6.1    50606
 HTTP-Parser-XS-0.04                     50607
-Sslscan-Parser-0.01                     50608
-Dirbuster-Parser-0.01                   50609
 Net-FluidDB-0.08                        50610
 WTB-0.01                                50611
-Lingua-Translit-0.14                    50613
-Filter-Crypto-1.26                      ?
+Filter-Crypto-1.27                      ?
 List-Analyse-Sequence-Analyser-OL-RomanNumerals-0.01 50624
 DBIx-Class-Tree-CalculateSets-0.01      50626
 CGI-Application-Plugin-Routes-1.02      50627
 DBIx-Mysql-InformationSchema-0.04       50635
-Supervisor-0.01                         50636
 Pod-Parser-I18N-0.00001                 49540
 CGI-Application-Plugin-Authentication-0.14 50670
-Test-Aggregate-0.36                     50673
 Simo-Constrain-0.0301                   50687
-Test-Kit-0.100                          50688
 Test-SharedFork-0.08                    50689
 Date-Holidays-CA-0.01                   50695
+Lemonldap-Portal-Standard-3.2.1         50730
+Lemonldap-Config-Parameters-3.2.4       43286
+URI-Amazon-APA-0.03                     50731
+Perl6-Pod-0.10                          50732
+WWW-Search-Scrape-0.05                  50759
+Tk-JBrowseEntry-4.74                    50767
+HTML-GUI-0.03                           50512
+Supervisor-0.02                         50636
