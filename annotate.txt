@@ -21,7 +21,6 @@ CGI-Session-YAML-0.3                    42787
 OOTools-2.21                            29824
 DB_File-Lock-0.05                       30942
 Dotiac-addon-json-0.1.1                 42960
-Pod-Weaver-2.001                        42923
 File-Finder-0.53                        43280
 Params-Profile-0.10                     43284
 Catalyst-Plugin-Geography-0.03          43283
@@ -53,15 +52,12 @@ CatalystX-Features-0.13                 50318
 Data-Locations-5.5                      50394
 Data-Iter-0.01.13                       50478
 Calendar-Slots-0.03                     50479
-KiokuDB-0.33                            50482
 POE-Component-RemoteTail-0.01010        50484
 TweetHook-API-0.01                      50502
 TAP-DOM-0.05                            50510
 MojoX-Renderer-HTP-0.032                50516
 Test-DBIx-Class-Schema-0.01006          50522
 DBIx-Class-EasyConf-YAML-0.11           50536
-Plack-Server-Coro-0.01                  50546
-Perl6-Feeds-0.12                        50551
 App-Textcast-0.05.13                    43380
 Ante-Deluvian-Dialog-0.02               50552
 package-watchdog-0.07                   now Package-Watchdog-(0.08)?
@@ -75,7 +71,6 @@ WebService-Eulerian-Analytics-v0.6.1    50606
 Net-FluidDB-0.08                        50610
 WTB-0.01                                50611
 List-Analyse-Sequence-Analyser-OL-RomanNumerals-0.01 50624
-DBIx-Class-Tree-CalculateSets-0.01      50626
 CGI-Application-Plugin-Routes-1.02      50627
 DBIx-Mysql-InformationSchema-0.04       50635
 Pod-Parser-I18N-0.00001                 49540
@@ -88,8 +83,8 @@ Lemonldap-Config-Parameters-3.2.4       43286
 URI-Amazon-APA-0.03                     50731
 WWW-Search-Scrape-0.05                  50759
 Tk-JBrowseEntry-4.74                    50767
-HTML-GUI-0.03                           50512
 Supervisor-0.02                         50636
 Net-LDAP-posixGroup-0.0.1               50782
 Object-Simple-Mixin-AttrOptions-0.0301  50783
-MooseX-Types-DateTime-ButMaintained-0.09 50786
+DAIA-0.25                               50801
+Net-Zemanta-0.4                         50802
