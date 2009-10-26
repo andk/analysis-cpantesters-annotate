@@ -88,3 +88,4 @@ Net-LDAP-posixGroup-0.0.1               50782
 Object-Simple-Mixin-AttrOptions-0.0301  50783
 DAIA-0.25                               50801
 Net-Zemanta-0.4                         50802
+Catalyst-Plugin-XMLRPC-2.01             50810
