@@ -89,3 +89,9 @@ Object-Simple-Mixin-AttrOptions-0.0301  50783
 DAIA-0.25                               50801
 Net-Zemanta-0.4                         50802
 Catalyst-Plugin-XMLRPC-2.01             50810
+Geo-ReadGRIB-1                          50820
+Mail-Builder-Simple-0.11                50821
+Catalyst-Engine-PSGI-0.04               50822
+DBIx-Class-Helpers-0.092970             50853
+Finance-Bank-LaPoste-7.00               50854
+AProf-0.6                               50855
