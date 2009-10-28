@@ -76,7 +76,6 @@ DBIx-Mysql-InformationSchema-0.04       50635
 Pod-Parser-I18N-0.00001                 49540
 CGI-Application-Plugin-Authentication-0.14 50670
 Simo-Constrain-0.0301                   50687
-Test-SharedFork-0.08                    50689
 Date-Holidays-CA-0.01                   50695
 Lemonldap-Portal-Standard-3.2.1         50730
 Lemonldap-Config-Parameters-3.2.4       43286
@@ -87,11 +86,9 @@ Supervisor-0.02                         50636
 Net-LDAP-posixGroup-0.0.1               50782
 Object-Simple-Mixin-AttrOptions-0.0301  50783
 DAIA-0.25                               50801
-Net-Zemanta-0.4                         50802
 Catalyst-Plugin-XMLRPC-2.01             50810
-Geo-ReadGRIB-1                          50820
 Mail-Builder-Simple-0.11                50821
-Catalyst-Engine-PSGI-0.04               50822
-DBIx-Class-Helpers-0.092970             50853
 Finance-Bank-LaPoste-7.00               50854
 AProf-0.6                               50855
+Devel-Leak-Object-1.00                  50898
+PerlIO-via-gzip-0.01                    50905
