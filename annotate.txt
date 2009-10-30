@@ -91,4 +91,6 @@ Mail-Builder-Simple-0.11                50821
 Finance-Bank-LaPoste-7.00               50854
 AProf-0.6                               50855
 Devel-Leak-Object-1.00                  50898
-PerlIO-via-gzip-0.01                    50905
+File-Slurp-9999.13                      50939
+CatalystX-CMS-0.007                     50940
+Catalyst-Engine-PSGI-0.05               50822
