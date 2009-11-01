@@ -75,7 +75,6 @@ CGI-Application-Plugin-Routes-1.02      50627
 DBIx-Mysql-InformationSchema-0.04       50635
 Pod-Parser-I18N-0.00001                 49540
 CGI-Application-Plugin-Authentication-0.14 50670
-Simo-Constrain-0.0301                   50687
 Date-Holidays-CA-0.01                   50695
 Lemonldap-Portal-Standard-3.2.1         50730
 Lemonldap-Config-Parameters-3.2.4       43286
@@ -94,3 +93,16 @@ Devel-Leak-Object-1.00                  50898
 File-Slurp-9999.13                      50939
 CatalystX-CMS-0.007                     50940
 Catalyst-Engine-PSGI-0.05               50822
+IPC-Run-Fused-0.01000514                50979
+Plack-Request-0.05                      50982
+IP-Country-DB_File-1.02                 50983
+Net-Zemanta-0.5                         50984
+LWP-Authen-Negotiate-0.07               50985
+Plack-0.9008                            50986
+Statistics-SDT-0.035                    50987
+CairoX-Pager-0.02                       50988
+CPAN-WWW-Top100-Generator-0.08          50989
+Config-MVP-0.093000                     50995
+WWW-NicoSound-Download-1.02             51013
+JSAN-Client-0.23                        51014
+VIM-Packager-0.05                       51015
