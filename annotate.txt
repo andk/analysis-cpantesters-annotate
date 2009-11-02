@@ -81,7 +81,6 @@ Lemonldap-Config-Parameters-3.2.4       43286
 URI-Amazon-APA-0.03                     50731
 WWW-Search-Scrape-0.05                  50759
 Tk-JBrowseEntry-4.74                    50767
-Supervisor-0.02                         50636
 Net-LDAP-posixGroup-0.0.1               50782
 Object-Simple-Mixin-AttrOptions-0.0301  50783
 DAIA-0.25                               50801
@@ -109,3 +108,4 @@ Email-ECGListe-0.06                     51026
 Acme-CPANAuthors-European-2009102802    51028
 Mac-iTunes-Library-0.6                  51029
 Pod-Wordlist-hanekomu-0.02              51030
+CGI-Application-Plugin-TmplInnerOuter-1.13 51034
