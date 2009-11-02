@@ -106,3 +106,9 @@ Config-MVP-0.093000                     50995
 WWW-NicoSound-Download-1.02             51013
 JSAN-Client-0.23                        51014
 VIM-Packager-0.05                       51015
+Verilog-Perl-3.221                      51024
+HPSG-Mason-0.03                         51025
+Email-ECGListe-0.06                     51026
+Acme-CPANAuthors-European-2009102802    51028
+Mac-iTunes-Library-0.6                  51029
+Pod-Wordlist-hanekomu-0.02              51030
