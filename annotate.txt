@@ -86,14 +86,12 @@ Net-LDAP-posixGroup-0.0.1               50782
 Object-Simple-Mixin-AttrOptions-0.0301  50783
 DAIA-0.25                               50801
 Catalyst-Plugin-XMLRPC-2.01             50810
-Mail-Builder-Simple-0.11                50821
 Finance-Bank-LaPoste-7.00               50854
 AProf-0.6                               50855
 Devel-Leak-Object-1.00                  50898
 File-Slurp-9999.13                      50939
 CatalystX-CMS-0.007                     50940
 Catalyst-Engine-PSGI-0.05               50822
-IPC-Run-Fused-0.01000514                50979
 Plack-Request-0.05                      50982
 IP-Country-DB_File-1.02                 50983
 Net-Zemanta-0.5                         50984
@@ -103,7 +101,6 @@ Statistics-SDT-0.035                    50987
 CairoX-Pager-0.02                       50988
 CPAN-WWW-Top100-Generator-0.08          50989
 Config-MVP-0.093000                     50995
-WWW-NicoSound-Download-1.02             51013
 JSAN-Client-0.23                        51014
 VIM-Packager-0.05                       51015
 Verilog-Perl-3.221                      51024
