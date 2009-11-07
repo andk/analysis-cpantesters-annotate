@@ -107,7 +107,8 @@ CGI-Application-Plugin-TmplInnerOuter-1.13 51034
 IPDR-0.19                               51118
 Auth-Yubikey_WebClient-0.03             51121
 Event-ScreenSaver-0.0.3                 51122
-Text-MicroMason-2.03                    51150
 HTTP-DetectUserAgent-0.02               51152
 XHTML-Util-0.99_05                      51158
 Perl6-Feeds-0.20                        50551
+Email-Received-1.00                     43376
+Module-Compile-Simple-0.24              20380
