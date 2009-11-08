@@ -49,7 +49,6 @@ Variable-Magic-0.38                     50720
 CatalystX-Features-0.13                 50318
 Data-Locations-5.5                      50394
 Data-Iter-0.01.13                       50478
-Calendar-Slots-0.03                     50479
 POE-Component-RemoteTail-0.01010        50484
 TweetHook-API-0.01                      50502
 TAP-DOM-0.05                            50510
@@ -88,11 +87,9 @@ Devel-Leak-Object-1.00                  50898
 File-Slurp-9999.13                      50939
 CatalystX-CMS-0.007                     50940
 Net-Zemanta-0.5                         50984
-Plack-0.9008                            50986
 Statistics-SDT-0.035                    50987
 CairoX-Pager-0.02                       50988
 CPAN-WWW-Top100-Generator-0.08          50989
-Config-MVP-0.093000                     50995
 JSAN-Client-0.23                        51014
 Verilog-Perl-3.221                      51024
 HPSG-Mason-0.03                         51025
@@ -114,3 +111,7 @@ Devel-CoverReport-0.01                  51194
 WebService-OkiLab-ExtractPlace-0.02     51195
 Math-Function-Roots-0.063               51196
 XS-MRO-Compat-0.14                      51197
+opts-0.01                               51203
+Benchmark-Serialize-0.02                51205
+Test-CompanionClasses-0.05              51206
+Net-Amazon-0.59                         51207
