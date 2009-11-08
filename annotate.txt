@@ -87,8 +87,6 @@ AProf-0.6                               50855
 Devel-Leak-Object-1.00                  50898
 File-Slurp-9999.13                      50939
 CatalystX-CMS-0.007                     50940
-Catalyst-Engine-PSGI-0.05               50822
-Plack-Request-0.05                      50982
 Net-Zemanta-0.5                         50984
 Plack-0.9008                            50986
 Statistics-SDT-0.035                    50987
@@ -96,7 +94,6 @@ CairoX-Pager-0.02                       50988
 CPAN-WWW-Top100-Generator-0.08          50989
 Config-MVP-0.093000                     50995
 JSAN-Client-0.23                        51014
-VIM-Packager-0.05                       51015
 Verilog-Perl-3.221                      51024
 HPSG-Mason-0.03                         51025
 Email-ECGListe-0.06                     51026
