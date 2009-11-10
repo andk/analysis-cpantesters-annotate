@@ -115,3 +115,8 @@ opts-0.01                               51203
 Benchmark-Serialize-0.02                51205
 Test-CompanionClasses-0.05              51206
 Net-Amazon-0.59                         51207
+TRD-Watch-Web-0.0.4                     51220
+Supervisor-0.03                         51221
+Catalyst-Authentication-Credential-Authen-Simple-0.06 51223
+Google-Chart-0.09000_03                 51225
+BSD-arc4random-1.41                     51262
