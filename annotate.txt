@@ -102,7 +102,7 @@ Perl6-Feeds-0.20                        50551
 Email-Received-1.00                     43376
 Module-Compile-Simple-0.24              20380
 HTML-TableExtract-2.10                  20709
-HTTP-MobileAgent-Flash-0.07             51185
+HTTP-MobileAgent-Flash-0.08             51185
 Devel-CoverReport-0.01                  51194
 WebService-OkiLab-ExtractPlace-0.02     51195
 Math-Function-Roots-0.063               51196
@@ -128,3 +128,10 @@ Gtk2-Ex-Email-AttachmentVBox-0.0.0      51565
 Locales-0.11                            51583
 Crypt-Keyczar-0.04                      51584
 DateTime-TimeZone-HPUX-1.03             51589
+File-PathInfo-Ext-1.29                  51674
+NEKOKAK/​Qudo-​0.01_02                    (sent mail)
+Parse-MediaWikiDump-1.0.2               51607
+MooseX-Types-PortNumber-0.01            51785
+LWP-Protocol-http-SocksChain10-1.5      51786
+FormValidator-LazyWay-0.08              51797
+DBIx-QueryByName-0.08                   51798
