@@ -135,3 +135,5 @@ MooseX-Types-PortNumber-0.01            51785
 LWP-Protocol-http-SocksChain10-1.5      51786
 FormValidator-LazyWay-0.08              51797
 DBIx-QueryByName-0.08                   51798
+CSS-Adaptor-Whitelist-0.002             51805
+Data-PrefixMerge-0.09                   51799
