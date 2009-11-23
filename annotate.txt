@@ -137,3 +137,7 @@ FormValidator-LazyWay-0.08              51797
 DBIx-QueryByName-0.08                   51798
 CSS-Adaptor-Whitelist-0.002             51805
 Data-PrefixMerge-0.09                   51799
+Find-Lib-1.01                           51808
+Class-MOP-0.95                          51811
+Osgood-Client-2.0.5                     51815
+GD-Window-0.01                          51816
