@@ -154,3 +154,4 @@ XML-Easy-Transform-RationalizeNamespacePrefixes-1.20 52140
 Spreadsheet-ParseExcel_XLHTML-0.03      52151
 HTTP-Link-Parser-0.02                   52152
 MooseX-AttributeCloner-0.17             52153
+Data-PrefixMerge-0.12                   52157
