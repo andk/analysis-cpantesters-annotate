@@ -151,3 +151,6 @@ Net-GPSD3-0.07                          52057
 Catalyst-Runtime-5.80014_01             52100
 illguts-0.13                            52138,52139
 XML-Easy-Transform-RationalizeNamespacePrefixes-1.20 52140
+Spreadsheet-ParseExcel_XLHTML-0.03      52151
+HTTP-Link-Parser-0.02                   52152
+MooseX-AttributeCloner-0.17             52153
