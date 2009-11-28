@@ -149,3 +149,5 @@ HTML-Field-1.18                         52055
 Lingua-JA-Regular-0.09                  37871
 Net-GPSD3-0.07                          52057
 Catalyst-Runtime-5.80014_01             52100
+illguts-0.13                            52138,52139
+XML-Easy-Transform-RationalizeNamespacePrefixes-1.20 52140
