@@ -155,3 +155,5 @@ Spreadsheet-ParseExcel_XLHTML-0.03      52151
 HTTP-Link-Parser-0.02                   52152
 MooseX-AttributeCloner-0.17             52153
 Data-PrefixMerge-0.12                   52157
+Date-Manip-6.04                         52162
+HTML-FormFu-0.05002                     52163
