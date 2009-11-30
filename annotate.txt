@@ -158,3 +158,4 @@ Data-PrefixMerge-0.12                   52157
 Date-Manip-6.04                         52162
 HTML-FormFu-0.05002                     52163
 Mail-IMAPTalk-SortHelper-0.0.0          52167
+Test-WWW-Mechanize-Catalyst-0.51        52270
