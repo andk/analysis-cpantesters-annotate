@@ -160,3 +160,7 @@ HTML-FormFu-0.05002                     52163
 Mail-IMAPTalk-SortHelper-0.0.0          52167
 Test-WWW-Mechanize-Catalyst-0.51        52270
 Test-HTTP-Response-0.02                 52292
+Crypt-SKey-0.10                         41015
+Crypt-MatrixSSL-1.86.0                  28698
+HTML-Template-Associate-2.00            52300
+MojoX-Encode-Gzip-1.00                  52301
