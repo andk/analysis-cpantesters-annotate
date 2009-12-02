@@ -167,3 +167,4 @@ MojoX-Encode-Gzip-1.00                  52301
 PJob-0.31                               52340
 Data-Transform-Zlib-0.01                52341
 Catalyst-Plugin-ConfigLoader-Environment-0.05 52343
+Perl-Metrics2-0.06                      52347
