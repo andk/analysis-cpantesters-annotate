@@ -166,3 +166,4 @@ HTML-Template-Associate-2.00            52300
 MojoX-Encode-Gzip-1.00                  52301
 PJob-0.31                               52340
 Data-Transform-Zlib-0.01                52341
+Catalyst-Plugin-ConfigLoader-Environment-0.05 52343
