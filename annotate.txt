@@ -174,4 +174,5 @@ Font-TTF-Scripts-0.13                   52417
 Pod-ToDocBook-0.7                       52418
 Tree-Numbered-Tools-1.03                52419
 Imager-0.71_02                          52425
-Email-Sender-0.093110                   52436
+Email-Sender-0.093110                   5243
+XML-Easy-Transform-RationalizeNamespacePrefixes-1.21 randir set PERL_TEST_CRITIC=1
