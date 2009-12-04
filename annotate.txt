@@ -170,3 +170,6 @@ Catalyst-Plugin-ConfigLoader-Environment-0.05 52343
 Perl-Metrics2-0.06                      52347
 AnyEvent-Postfix-Logs-0.01              52415
 Math-WalshTransform-1.13                52416
+Font-TTF-Scripts-0.13                   52417
+Pod-ToDocBook-0.7                       52418
+Tree-Numbered-Tools-1.03                52419
