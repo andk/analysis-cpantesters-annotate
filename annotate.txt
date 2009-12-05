@@ -181,3 +181,6 @@ Feed-Pipe-1.001                         52449
 CPANPLUS-Dist-Gentoo-0.09               52450
 CPAN-PackageDetails-0.2401              52455
 HTTP-Request-AsCGI-1.0                  52456
+POE-Component-Client-MPD-1.093320       52457
+RDF-Trine-Node-Literal-XML-0.13         52471
+Color-Mix-0.01                          52472
