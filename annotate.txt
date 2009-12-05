@@ -179,3 +179,4 @@ XML-Easy-Transform-RationalizeNamespacePrefixes-1.21 randir set PERL_TEST_CRITIC
 SQL-Abstract-Plugin-InsertReturning-0.02 52448
 Feed-Pipe-1.001                         52449
 CPANPLUS-Dist-Gentoo-0.09               52450
+CPAN-PackageDetails-0.2401              52455
