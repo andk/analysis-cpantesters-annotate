@@ -174,5 +174,8 @@ Font-TTF-Scripts-0.13                   52417
 Pod-ToDocBook-0.7                       52418
 Tree-Numbered-Tools-1.03                52419
 Imager-0.71_02                          52425
-Email-Sender-0.093110                   5243
+Email-Sender-0.093110                   52436
 XML-Easy-Transform-RationalizeNamespacePrefixes-1.21 randir set PERL_TEST_CRITIC=1
+SQL-Abstract-Plugin-InsertReturning-0.02 52448
+Feed-Pipe-1.001                         52449
+CPANPLUS-Dist-Gentoo-0.09               52450
