@@ -189,3 +189,5 @@ IO-Socket-Multicast6-0.03               52497
 Sepia-0.991_01                          52522
 POE-Component-SNMP-1.1003               52541
 Tk-804.028_501                          52335
+Net-Whois-Raw-2.11                      52546
+DBR-1.0.7rc6                            52547
