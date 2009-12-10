@@ -142,7 +142,6 @@ Class-MOP-0.95                          51811
 Osgood-Client-2.0.5                     51815
 GD-Window-0.01                          51816
 Data-SearchEngine-Solr-0.01             52008
-URI-1.50                                52009
 LWP-Protocol-http-SocksChain10-1.6      52010
 SparkX-Form-BasicValidators-0.01        52011
 HTML-Field-1.18                         52055
@@ -195,3 +194,4 @@ List-Step-0.10                          52621
 MIME-Lite-HT-HTML-0.02                  52622
 Color-Mix-0.02                          52631
 DBIx-RewriteDSN-0.02                    52634
+URI-1.51                                52009
