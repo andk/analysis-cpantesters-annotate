@@ -183,7 +183,6 @@ CPAN-PackageDetails-0.2401              52455
 HTTP-Request-AsCGI-1.0                  52456
 POE-Component-Client-MPD-1.093320       52457
 RDF-Trine-Node-Literal-XML-0.13         52471
-Color-Mix-0.01                          52472
 Dist-Zilla-1.093371                     52479
 IO-Socket-Multicast6-0.03               52497
 Sepia-0.991_01                          52522
@@ -192,3 +191,7 @@ Tk-804.028_501                          52335
 Net-Whois-Raw-2.11                      52546
 DBR-1.0.7rc6                            52547
 DateTime-Format-DateParse-0.04          52598
+List-Step-0.10                          52621
+MIME-Lite-HT-HTML-0.02                  52622
+Color-Mix-0.02                          52631
+DBIx-RewriteDSN-0.02                    52634
