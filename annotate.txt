@@ -196,3 +196,8 @@ Color-Mix-0.02                          52631
 DBIx-RewriteDSN-0.02                    52634
 URI-1.51                                52009
 Attribute-Util-1.05                     52643
+Algorithm-Diff-Any-1.000                52656
+RPC-XML-0.71                            52662
+DBIx-Encoding-0.05                      52663
+Catalyst-ActionRole-RequireSSL-0.02     52664
+POE-Component-Schedule-0.92             52666
