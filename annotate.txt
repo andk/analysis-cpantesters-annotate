@@ -201,3 +201,6 @@ RPC-XML-0.71                            52662
 DBIx-Encoding-0.05                      52663
 Catalyst-ActionRole-RequireSSL-0.02     52664
 POE-Component-Schedule-0.92             52666
+MooseX-UndefTolerant-0.02               52668
+Parse-FixedRecord-0.02                  52701
+Project-Euler-v0.1.4                    52708
