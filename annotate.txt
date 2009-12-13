@@ -206,3 +206,5 @@ Parse-FixedRecord-0.02                  52701
 Project-Euler-v0.1.4                    52708
 Catalyst-TraitFor-View-MarkupValidation-0.002 52710
 App-Pm2Port-0.26                        52726
+Unicode-Stringprep-1.01                 52734
+Plack-Request-0.08                      50982
