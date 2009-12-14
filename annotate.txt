@@ -208,3 +208,6 @@ Catalyst-TraitFor-View-MarkupValidation-0.002 52710
 App-Pm2Port-0.26                        52726
 Unicode-Stringprep-1.01                 52734
 Plack-Request-0.08                      50982
+Color-Calc-1.051                        52744
+Mail-DeliveryStatus-BounceParser-1.520_001 52745
+File-LinkDir-0.03                       52747
