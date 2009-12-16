@@ -215,3 +215,4 @@ LWP-Protocol-http-SocksChain-1.6        52770
 Devel-NYTProf-2.11_949                  52773
 Tie-Hash-MultiValue-1.01                52791
 Number-Object-Plugin-Tax-AU-0.02        52823
+Lexical-Attributes-2009040801           52824
