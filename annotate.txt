@@ -88,7 +88,7 @@ Net-Zemanta-0.5                         50984
 Statistics-SDT-0.035                    50987
 CairoX-Pager-0.02                       50988
 CPAN-WWW-Top100-Generator-0.08          50989
-JSAN-Client-0.23                        51014
+JSAN-Client-0.24                        51014
 Verilog-Perl-3.221                      51024
 HPSG-Mason-0.03                         51025
 Pod-Wordlist-hanekomu-0.02              51030
