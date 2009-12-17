@@ -219,3 +219,6 @@ Lexical-Attributes-2009040801           52824
 Plack-Middleware-Header-0.01            52852
 Array-RemoveElements-0.02               52853
 CPS-Governor-IOAsync-0.01               all FAILs from a broken smoker
+Business-OnlinePayment-SagePay-0.10     all FAILs from a broken smoker
+Graphics-ColorNames-WWW-1.11            52870
+Function-Parameters-0.03                all FAILs from a broken smoker
