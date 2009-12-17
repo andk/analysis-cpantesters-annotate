@@ -217,3 +217,5 @@ Tie-Hash-MultiValue-1.01                52791
 Number-Object-Plugin-Tax-AU-0.02        52823
 Lexical-Attributes-2009040801           52824
 Plack-Middleware-Header-0.01-           52852
+Array-RemoveElements-0.02               52853
+CPS-Governor-IOAsync-0.01               all FAILs from a broken smoker
