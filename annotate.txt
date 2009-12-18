@@ -232,3 +232,4 @@ like-0.02                               52892
 Variable-Magic-0.39                     52894
 CGI-PSGI-0.04                           all FAILs from a broken smoker
 Data-Section-0.093410                   all FAILs from a broken smoker
+IO-Multiplex-KQueue-0.02                52897
