@@ -141,7 +141,6 @@ Find-Lib-1.01                           51808
 Class-MOP-0.95                          51811
 Osgood-Client-2.0.5                     51815
 GD-Window-0.01                          51816
-Data-SearchEngine-Solr-0.01             52008
 LWP-Protocol-http-SocksChain10-1.6      52010
 SparkX-Form-BasicValidators-0.01        52011
 HTML-Field-1.18                         52055
@@ -229,3 +228,5 @@ Data-Localize-0.00011                   52890
 MojoX-Session-Store-MongoDB-0.50        all FAILs from a broken smoker
 GPS-Point-0.16                          all FAILs from a broken smoker
 Plack-Middleware-Session-0.01           52891
+like-0.02                               52892
+Variable-Magic-0.39                     52894
