@@ -222,3 +222,10 @@ CPS-Governor-IOAsync-0.01               all FAILs from a broken smoker
 Business-OnlinePayment-SagePay-0.10     all FAILs from a broken smoker
 Graphics-ColorNames-WWW-1.11            52870
 Function-Parameters-0.03                all FAILs from a broken smoker
+Class-Std-0.0.9                         52885
+Catalyst-Plugin-Snippets-0.01           52887
+Log-Dispatch-Config-TestLog-0.01        52889
+Data-Localize-0.00011                   52890
+MojoX-Session-Store-MongoDB-0.50        all FAILs from a broken smoker
+GPS-Point-0.16                          all FAILs from a broken smoker
+Plack-Middleware-Session-0.01           52891
