@@ -236,3 +236,4 @@ IO-Multiplex-KQueue-0.02                52897
 File-LinkDir-0.04                       52912
 TimeDate-1.20                           all but one FAILs from a broken smoker
 Template-Plugin-YAML-Encode-0.02        reported to perl5-porters as bleadperl bug; no ticket yet
+Object-Wrapper-0.03                     52918
