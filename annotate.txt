@@ -241,3 +241,4 @@ Error-0.17016                           bogus FAIL reports
 DateTime-Format-Human-Duration-0.0.1    52920
 MooseX-Traits-Attribute-CascadeClear-0.03 52921
 Catalyst-Plugin-OrderedParams-0.06      52922
+Acme-MUDLike-0.02                       52923
