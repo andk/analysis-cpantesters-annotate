@@ -239,3 +239,4 @@ Template-Plugin-YAML-Encode-0.02        reported to perl5-porters as bleadperl b
 Object-Wrapper-0.03                     52918
 Error-0.17016                           bogus FAIL reports
 DateTime-Format-Human-Duration-0.0.1    52920
+MooseX-Traits-Attribute-CascadeClear-0.03 52921
