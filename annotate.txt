@@ -217,23 +217,24 @@ Number-Object-Plugin-Tax-AU-0.02        52823
 Lexical-Attributes-2009040801           52824
 Plack-Middleware-Header-0.01            52852
 Array-RemoveElements-0.02               52853
-CPS-Governor-IOAsync-0.01               all FAILs from a broken smoker
-Business-OnlinePayment-SagePay-0.10     all FAILs from a broken smoker
+CPS-Governor-IOAsync-0.01               FAILs from a broken smoker
+Business-OnlinePayment-SagePay-0.10     FAILs from a broken smoker
 Graphics-ColorNames-WWW-1.11            52870
-Function-Parameters-0.03                all FAILs from a broken smoker
+Function-Parameters-0.03                FAILs from a broken smoker
 Class-Std-0.0.9                         52885
 Catalyst-Plugin-Snippets-0.01           52887
 Log-Dispatch-Config-TestLog-0.01        52889
 Data-Localize-0.00011                   52890
-MojoX-Session-Store-MongoDB-0.50        all FAILs from a broken smoker
-GPS-Point-0.16                          all FAILs from a broken smoker
+MojoX-Session-Store-MongoDB-0.50        FAILs from a broken smoker
+GPS-Point-0.16                          FAILs from a broken smoker
 Plack-Middleware-Session-0.01           52891
 like-0.02                               52892
 Variable-Magic-0.39                     52894
 CGI-PSGI-0.04                           all FAILs from a broken smoker
-Data-Section-0.093410                   all FAILs from a broken smoker
+Data-Section-0.093410                   FAILs from a broken smoker
 IO-Multiplex-KQueue-0.02                52897
 File-LinkDir-0.04                       52912
-TimeDate-1.20                           all but one FAILs from a broken smoker
+TimeDate-1.20                           FAILs from a broken smoker
 Template-Plugin-YAML-Encode-0.02        reported to perl5-porters as bleadperl bug; no ticket yet
 Object-Wrapper-0.03                     52918
+Error-0.17016                           bogus FAIL reports
