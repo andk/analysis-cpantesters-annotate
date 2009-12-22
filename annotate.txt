@@ -247,3 +247,5 @@ Perl6-Gather-0.041                      52959
 Math-StochasticProcess-0.03             52963
 Catalyst-Controller-Rose-0.05           52964
 OOP-Perlish-Class-0.02                  52965
+Tatsumaki-0.1006                        52967
+Class-Trait-0.3                         52968
