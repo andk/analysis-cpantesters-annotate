@@ -243,3 +243,4 @@ MooseX-Traits-Attribute-CascadeClear-0.03 52921
 Catalyst-Plugin-OrderedParams-0.06      52922
 Acme-MUDLike-0.02                       52923
 WWW-phpBB-Poster-0.02                   52934
+Perl6-Gather-0.041                      52959
