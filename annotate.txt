@@ -189,7 +189,6 @@ Tk-804.028_501                          52335
 Net-Whois-Raw-2.11                      52546
 DBR-1.0.7rc6                            52547
 DateTime-Format-DateParse-0.04          52598
-List-Step-0.10                          52621
 MIME-Lite-HT-HTML-0.02                  52622
 Color-Mix-0.02                          52631
 DBIx-RewriteDSN-0.02                    52634
@@ -249,3 +248,6 @@ Catalyst-Controller-Rose-0.05           52964
 OOP-Perlish-Class-0.02                  52965
 Tatsumaki-0.1006                        52967
 Class-Trait-0.3                         52968
+Catalyst-Controller-RateLimit-0.25      52970
+List-Step-0.20                          52621
+Catalyst-Model-Data-Localize-0.00007    52981
