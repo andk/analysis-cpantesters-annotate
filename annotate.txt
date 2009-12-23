@@ -254,3 +254,5 @@ Catalyst-Model-Data-Localize-0.00007    52981
 FreezeThaw-0.45                         33844
 File-Path-Hashed-0.01                   52991
 Catalyst-Plugin-Config-YAML-0.04        52993
+Catalyst-Engine-XMPP2-0.3               52995
+WWW-Scramble-0.01                       52996
