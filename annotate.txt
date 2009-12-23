@@ -256,3 +256,5 @@ File-Path-Hashed-0.01                   52991
 Catalyst-Plugin-Config-YAML-0.04        52993
 Catalyst-Engine-XMPP2-0.3               52995
 WWW-Scramble-0.01                       52996
+checkbot-1.80                           52999
+MooseX-Types-0.20                       53016
