@@ -260,3 +260,4 @@ checkbot-1.80                           52999
 MooseX-Types-0.20                       53016
 Business-OnlinePayment-WorldPay-0.9     53017
 Regexp-Box-0.02                         53019
+Test-CPAN-Meta-0.16                     53020
