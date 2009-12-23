@@ -258,3 +258,4 @@ Catalyst-Engine-XMPP2-0.3               52995
 WWW-Scramble-0.01                       52996
 checkbot-1.80                           52999
 MooseX-Types-0.20                       53016
+Business-OnlinePayment-WorldPay-0.9     53017
