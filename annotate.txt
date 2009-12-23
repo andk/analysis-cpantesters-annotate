@@ -252,3 +252,4 @@ Catalyst-Controller-RateLimit-0.25      52970
 List-Step-0.20                          52621
 Catalyst-Model-Data-Localize-0.00007    52981
 FreezeThaw-0.45                         33844
+File-Path-Hashed-0.01                   52991
