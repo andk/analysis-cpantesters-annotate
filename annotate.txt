@@ -151,7 +151,6 @@ illguts-0.13                            52138,52139
 XML-Easy-Transform-RationalizeNamespacePrefixes-1.20 52140
 Spreadsheet-ParseExcel_XLHTML-0.03      52151
 HTTP-Link-Parser-0.02                   52152
-MooseX-AttributeCloner-0.17             52153
 Data-PrefixMerge-0.12                   52157
 Date-Manip-6.04                         52162
 HTML-FormFu-0.05002                     52163
@@ -263,3 +262,4 @@ Regexp-Box-0.02                         53019
 Test-CPAN-Meta-0.16                     53020
 MooseX-Has-Sugar-0.0405                 randir set AUTHOR_TESTING
 Test-TempDir-0.05                       randir set AUTHOR_TESTING
+MooseX-AttributeCloner-0.18             52153
