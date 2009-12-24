@@ -261,3 +261,5 @@ MooseX-Types-0.20                       53016
 Business-OnlinePayment-WorldPay-0.9     53017
 Regexp-Box-0.02                         53019
 Test-CPAN-Meta-0.16                     53020
+MooseX-Has-Sugar-0.0405                 randir set AUTHOR_TESTING
+Test-TempDir-0.05                       randir set AUTHOR_TESTING
