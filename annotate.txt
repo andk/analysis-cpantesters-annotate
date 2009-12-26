@@ -63,7 +63,6 @@ SQL-DB-0.18                             50591
 Catalyst-View-PDF-API2-0.02             50592
 Config-Checker-0.41                     50595
 TAP-Formatter-TextMate-0.1              50599
-WebService-Eulerian-Analytics-0.7       50606
 WebService-Eulerian-Analytics-v0.6.1    50606
 WTB-0.01                                50611
 List-Analyse-Sequence-Analyser-OL-RomanNumerals-0.01 50624
@@ -264,3 +263,4 @@ MooseX-Has-Sugar-0.0405                 randir set AUTHOR_TESTING
 Test-TempDir-0.05                       randir set AUTHOR_TESTING
 MooseX-AttributeCloner-0.18             52153
 Module-Setup-0.07                       53093
+WebService-Eulerian-Analytics-0.8       50606
