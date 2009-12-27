@@ -265,3 +265,7 @@ MooseX-AttributeCloner-0.18             52153
 Module-Setup-0.07                       53093
 WebService-Eulerian-Analytics-0.8       50606
 List-Gen-0.31                           53117
+Audio-Scan-0.56                         53118
+DBD-PO-2.09                             53120
+Data-Decode-0.00007_01                  53121
+HTML-Feature-3.00010                    53122
