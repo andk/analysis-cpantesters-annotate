@@ -269,3 +269,4 @@ Audio-Scan-0.56                         53118
 DBD-PO-2.09                             53120
 Data-Decode-0.00007_01                  53121
 HTML-Feature-3.00010                    53122
+Catalyst-Controller-RateLimit-0.26      53154
