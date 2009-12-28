@@ -275,3 +275,4 @@ Net-eNom-0.02                           53158
 HTML-HTML5-Sanity-0.02                  53160
 Data-Util-0.55                          53167
 Class-Accessor-Installer-0.06           53171
+Aspect-0.23                             53175
