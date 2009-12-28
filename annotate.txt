@@ -273,3 +273,4 @@ Catalyst-Controller-RateLimit-0.26      53154
 DBIx-Skinny-InflateColumn-DateTime-0.03 deleted by author
 Net-eNom-0.02                           53158
 HTML-HTML5-Sanity-0.02                  53160
+Data-Util-0.55                          53167
