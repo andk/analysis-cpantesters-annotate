@@ -278,3 +278,4 @@ Class-Accessor-Installer-0.06           53171
 Aspect-0.23                             53175
 WWW-OPG-1.000                           53179
 DateTime-Format-ISO8601-0.06            53194
+Pod-Weaver-3.093530                     FAILs from a broken smoker
