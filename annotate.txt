@@ -281,3 +281,4 @@ DateTime-Format-ISO8601-0.06            53194
 Pod-Weaver-3.093530                     FAILs from a broken smoker
 YATT-0.0.2                              53206
 Template-Plugin-YAML-Encode-0.02        http://rt.perl.org/rt3/Public/Bug/Display.html?id=71748
+Net-Hulu-0.02                           53248
