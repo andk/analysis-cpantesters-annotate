@@ -282,3 +282,4 @@ YATT-0.0.2                              53206
 Template-Plugin-YAML-Encode-0.02        http://rt.perl.org/rt3/Public/Bug/Display.html?id=71748
 Net-Hulu-0.02                           53248
 Form-Maker-0.03                         53262
+JavaScript-Ectype-0.01                  53274
