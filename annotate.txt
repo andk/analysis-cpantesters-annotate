@@ -285,3 +285,6 @@ Form-Maker-0.03                         53262
 JavaScript-Ectype-0.01                  53274
 SWISH-Prog-0.32                         53275
 File-Locate-Iterator-6                  53287
+Class-C3-XS-0.13                        53294
+Module-Build-0.3601                     53296
+B-Hooks-EndOfScope-0.08                 53298
