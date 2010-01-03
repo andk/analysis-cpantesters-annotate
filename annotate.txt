@@ -291,3 +291,4 @@ Text-ToSentences-0.91                   53313
 Data-FormValidator-4.65                 53314
 Data-Iter-0.02                          50478
 String-Urandom-0.11                     53318
+Crypt-OpenPGP-1.04                      53323
