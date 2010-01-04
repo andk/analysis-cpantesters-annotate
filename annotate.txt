@@ -105,7 +105,6 @@ Devel-CoverReport-0.01                  51194
 WebService-OkiLab-ExtractPlace-0.02     51195
 Math-Function-Roots-0.063               51196
 XS-MRO-Compat-0.14                      51197
-Benchmark-Serialize-0.02                51205
 Net-Amazon-0.59                         51207
 TRD-Watch-Web-0.0.4                     51220
 Catalyst-Authentication-Credential-Authen-Simple-0.06 51223
@@ -294,3 +293,4 @@ String-Urandom-0.11                     53318
 Crypt-OpenPGP-1.04                      53323
 Crypt-RIPEMD160-0.04                    19138
 Crypt-Random-Source-0.05                ?????
+Benchmark-Serialize-0.03                51205
