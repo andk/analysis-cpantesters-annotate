@@ -292,3 +292,5 @@ Data-FormValidator-4.65                 53314
 Data-Iter-0.02                          50478
 String-Urandom-0.11                     53318
 Crypt-OpenPGP-1.04                      53323
+Crypt-RIPEMD160-0.04                    19138
+Crypt-Random-Source-0.05                ?????
