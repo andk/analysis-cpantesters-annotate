@@ -81,7 +81,6 @@ Catalyst-Plugin-XMLRPC-2.01             50810
 AProf-0.6                               50855
 Devel-Leak-Object-1.00                  50898
 File-Slurp-9999.13                      50939
-CatalystX-CMS-0.007                     50940
 Net-Zemanta-0.5                         50984
 Statistics-SDT-0.035                    50987
 CairoX-Pager-0.02                       50988
@@ -197,7 +196,6 @@ POE-Component-Schedule-0.92             52666
 MooseX-UndefTolerant-0.02               52668
 Parse-FixedRecord-0.02                  52701
 Project-Euler-v0.1.4                    52708
-Catalyst-TraitFor-View-MarkupValidation-0.002 52710
 App-Pm2Port-0.26                        52726
 Unicode-Stringprep-1.01                 52734
 Plack-Request-0.08                      50982
@@ -215,7 +213,6 @@ CPS-Governor-IOAsync-0.01               FAILs from a broken smoker
 Business-OnlinePayment-SagePay-0.10     FAILs from a broken smoker
 Graphics-ColorNames-WWW-1.11            52870
 Function-Parameters-0.03                FAILs from a broken smoker
-Class-Std-0.0.9                         52885
 Catalyst-Plugin-Snippets-0.01           52887
 Log-Dispatch-Config-TestLog-0.01        52889
 Data-Localize-0.00011                   52890
@@ -241,7 +238,6 @@ Math-StochasticProcess-0.03             52963
 Catalyst-Controller-Rose-0.05           52964
 OOP-Perlish-Class-0.02                  52965
 Tatsumaki-0.1006                        52967
-Class-Trait-0.3                         52968
 Catalyst-Controller-RateLimit-0.25      52970
 List-Step-0.20                          52621
 Catalyst-Model-Data-Localize-0.00007    52981
@@ -293,3 +289,6 @@ Crypt-OpenPGP-1.04                      53323
 Crypt-RIPEMD160-0.04                    19138
 Crypt-Random-Source-0.05                ?????
 Benchmark-Serialize-0.03                51205
+XML-IODEF-0.07_1                        53386
+Net-SMTP-Multipart-1.5.4                53389
+Net-KashFlow-0.01                       53410
