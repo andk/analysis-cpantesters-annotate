@@ -191,7 +191,6 @@ DBIx-RewriteDSN-0.02                    52634
 URI-1.51                                52009
 Attribute-Util-1.05                     52643
 Algorithm-Diff-Any-1.000                52656
-RPC-XML-0.71                            52662
 DBIx-Encoding-0.05                      52663
 Catalyst-ActionRole-RequireSSL-0.02     52664
 POE-Component-Schedule-0.92             52666
@@ -288,7 +287,7 @@ Module-Build-0.3601                     53296
 B-Hooks-EndOfScope-0.08                 53298
 Text-ToSentences-0.91                   53313
 Data-FormValidator-4.65                 53314
-Data-Iter-0.02                          50478
+Data-Iter-0.2                           50478
 String-Urandom-0.11                     53318
 Crypt-OpenPGP-1.04                      53323
 Crypt-RIPEMD160-0.04                    19138
