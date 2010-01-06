@@ -132,7 +132,6 @@ LWP-Protocol-http-SocksChain10-1.5      51786
 FormValidator-LazyWay-0.08              51797
 DBIx-QueryByName-0.08                   51798
 CSS-Adaptor-Whitelist-0.002             51805
-Data-PrefixMerge-0.09                   51799
 Find-Lib-1.01                           51808
 Class-MOP-0.95                          51811
 Osgood-Client-2.0.5                     51815
@@ -147,7 +146,7 @@ illguts-0.13                            52138,52139
 XML-Easy-Transform-RationalizeNamespacePrefixes-1.20 52140
 Spreadsheet-ParseExcel_XLHTML-0.03      52151
 HTTP-Link-Parser-0.02                   52152
-Data-PrefixMerge-0.12                   52157
+Data-PrefixMerge-0.12                   52157; changed name to Data-ModeMerge
 Date-Manip-6.04                         52162
 HTML-FormFu-0.05002                     52163
 Mail-IMAPTalk-SortHelper-0.0.0          52167
@@ -167,7 +166,6 @@ Font-TTF-Scripts-0.13                   52417
 Pod-ToDocBook-0.7                       52418
 Tree-Numbered-Tools-1.03                52419
 Imager-0.71_02                          52425
-Email-Sender-0.093110                   52436
 XML-Easy-Transform-RationalizeNamespacePrefixes-1.21 randir set PERL_TEST_CRITIC=1
 SQL-Abstract-Plugin-InsertReturning-0.02 52448
 Feed-Pipe-1.001                         52449
@@ -203,7 +201,6 @@ Color-Calc-1.051                        52744
 Mail-DeliveryStatus-BounceParser-1.520_001 52745
 File-LinkDir-0.03                       52747
 LWP-Protocol-http-SocksChain-1.6        52770
-Devel-NYTProf-2.11_949                  52773
 Tie-Hash-MultiValue-1.01                52791
 Number-Object-Plugin-Tax-AU-0.02        52823
 Lexical-Attributes-2009040801           52824
@@ -224,7 +221,6 @@ Variable-Magic-0.39                     52894
 CGI-PSGI-0.04                           all FAILs from a broken smoker
 Data-Section-0.093410                   FAILs from a broken smoker
 IO-Multiplex-KQueue-0.02                52897
-File-LinkDir-0.04                       52912
 TimeDate-1.20                           FAILs from a broken smoker
 Object-Wrapper-0.03                     52918
 Error-0.17016                           bogus FAIL reports
@@ -292,3 +288,5 @@ Benchmark-Serialize-0.03                51205
 XML-IODEF-0.07_1                        53386
 Net-SMTP-Multipart-1.5.4                53389
 Net-KashFlow-0.01                       53410
+DBIx-Array-0.18                         53418
+MooseX-Role-WithOverloading-0.04        53417
