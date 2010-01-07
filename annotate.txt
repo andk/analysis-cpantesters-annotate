@@ -107,7 +107,6 @@ XS-MRO-Compat-0.14                      51197
 Net-Amazon-0.59                         51207
 TRD-Watch-Web-0.0.4                     51220
 Catalyst-Authentication-Credential-Authen-Simple-0.06 51223
-BSD-arc4random-1.41                     51262
 Project-Easy-0.14                       51274
 Traceroute-Similar-0.13                 51275
 DOCSIS-ConfigFile-0.57                  51462
@@ -118,7 +117,6 @@ Test-Run-Plugin-TrimDisplayedFilenames-0.0120 51518
 SeeAlso-Server-0.57                     51520
 AnyEvent-Gmail-Feed-0.02                51521
 Net-Server-Framework-1.2                51524
-STUN-Client-0.01                        51530
 NetAthlon2-RAW-0.12                     51551
 Gtk2-Ex-Email-AttachmentVBox-0.0.0      51565
 Locales-0.11                            51583
@@ -208,7 +206,6 @@ Plack-Middleware-Header-0.01            52852
 Array-RemoveElements-0.02               52853
 CPS-Governor-IOAsync-0.01               FAILs from a broken smoker
 Business-OnlinePayment-SagePay-0.10     FAILs from a broken smoker
-Graphics-ColorNames-WWW-1.11            52870
 Function-Parameters-0.03                FAILs from a broken smoker
 Catalyst-Plugin-Snippets-0.01           52887
 Log-Dispatch-Config-TestLog-0.01        52889
@@ -290,3 +287,4 @@ Net-SMTP-Multipart-1.5.4                53389
 Net-KashFlow-0.01                       53410
 DBIx-Array-0.18                         53418
 MooseX-Role-WithOverloading-0.04        53417
+DBIx-Simple-Batch-1.65                  53470
