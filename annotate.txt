@@ -289,3 +289,4 @@ DBIx-Array-0.18                         53418
 MooseX-Role-WithOverloading-0.04        53417
 DBIx-Simple-Batch-1.65                  53470
 Net-IDN-Encode-0.99_20091231            53485
+HTTP-Body-1.05                          53424
