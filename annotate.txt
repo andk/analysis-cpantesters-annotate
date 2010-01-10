@@ -255,7 +255,6 @@ Net-eNom-0.02                           53158
 HTML-HTML5-Sanity-0.02                  53160
 Data-Util-0.55                          53167
 Class-Accessor-Installer-0.06           53171
-Aspect-0.23                             53175
 DateTime-Format-ISO8601-0.06            53194
 Pod-Weaver-3.093530                     FAILs from a broken smoker
 YATT-0.0.2                              53206
@@ -286,3 +285,4 @@ WWW-AdventCalendar-0.100010             53505
 DateTimeX-Subspan-Weekly-0.04           53548
 Guard-1.021                             rt.perl.org #71992
 CGI-Compile-0.07                        53562
+/DBIx-Skinny-InflateColumn-DateTime-0.04 53563
