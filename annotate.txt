@@ -118,7 +118,6 @@ SeeAlso-Server-0.57                     51520
 AnyEvent-Gmail-Feed-0.02                51521
 Net-Server-Framework-1.2                51524
 Gtk2-Ex-Email-AttachmentVBox-0.0.0      51565
-Locales-0.11                            51583
 Crypt-Keyczar-0.04                      51584
 DateTime-TimeZone-HPUX-1.03             51589
 File-PathInfo-Ext-1.29                  51674
@@ -144,7 +143,6 @@ Spreadsheet-ParseExcel_XLHTML-0.03      52151
 HTTP-Link-Parser-0.02                   52152
 Data-PrefixMerge-0.12                   52157; changed name to Data-ModeMerge
 Date-Manip-6.04                         52162
-HTML-FormFu-0.05002                     52163
 Mail-IMAPTalk-SortHelper-0.0.0          52167
 Test-WWW-Mechanize-Catalyst-0.51        52270
 Test-HTTP-Response-0.02                 52292
@@ -258,7 +256,6 @@ HTML-HTML5-Sanity-0.02                  53160
 Data-Util-0.55                          53167
 Class-Accessor-Installer-0.06           53171
 Aspect-0.23                             53175
-WWW-OPG-1.000                           53179
 DateTime-Format-ISO8601-0.06            53194
 Pod-Weaver-3.093530                     FAILs from a broken smoker
 YATT-0.0.2                              53206
@@ -285,6 +282,6 @@ DBIx-Array-0.18                         53418
 MooseX-Role-WithOverloading-0.04        53417
 DBIx-Simple-Batch-1.65                  53470
 Net-IDN-Encode-0.99_20091231            53485
-HTTP-Body-1.05                          53424
 WWW-AdventCalendar-0.100010             53505
 DateTimeX-Subspan-Weekly-0.04           53548
+Guard-1.021                             rt.perl.org #71992
