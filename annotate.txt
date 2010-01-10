@@ -274,7 +274,7 @@ Crypt-OpenPGP-1.04                      53323
 Crypt-RIPEMD160-0.04                    19138
 Crypt-Random-Source-0.05                ?????
 Benchmark-Serialize-0.03                51205
-XML-IODEF-0.07_1                        53386
+XML-IODEF-0.07_2                        53386
 Net-SMTP-Multipart-1.5.4                53389
 Net-KashFlow-0.01                       53410
 DBIx-Array-0.18                         53418
@@ -285,4 +285,5 @@ WWW-AdventCalendar-0.100010             53505
 DateTimeX-Subspan-Weekly-0.04           53548
 Guard-1.021                             rt.perl.org #71992
 CGI-Compile-0.07                        53562
-/DBIx-Skinny-InflateColumn-DateTime-0.04 53563
+DBIx-Skinny-InflateColumn-DateTime-0.04 53563
+ParseLex-2.17                           53574
