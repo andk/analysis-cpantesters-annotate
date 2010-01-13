@@ -289,3 +289,9 @@ DBIx-Skinny-InflateColumn-DateTime-0.04 53563
 ParseLex-2.17                           53574
 Finance-Bank-ID-BCA-0.05.tar.gz         53630
 Rose-DB-Object-0.785                    53631
+pler-1.02                               53638
+Gantry-3.63                             53639
+Arff-1.0                                53640
+catalyst-traitfor-controller-breadcrumb-followed-0.01 53641
+SWISH-Prog-0.35                         53275
+Unicode-Stringprep-1.102                53643
