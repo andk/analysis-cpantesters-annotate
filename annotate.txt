@@ -236,7 +236,6 @@ Catalyst-Engine-XMPP2-0.3               52995
 WWW-Scramble-0.01                       52996
 checkbot-1.80                           52999
 MooseX-Types-0.20                       53016
-Business-OnlinePayment-WorldPay-0.9     53017
 Regexp-Box-0.02                         53019
 Test-CPAN-Meta-0.16                     53020
 MooseX-Has-Sugar-0.0405                 randir set AUTHOR_TESTING
@@ -295,3 +294,5 @@ Arff-1.0                                53640
 catalyst-traitfor-controller-breadcrumb-followed-0.01 53641
 SWISH-Prog-0.35                         53275
 Unicode-Stringprep-1.102                53643
+Business-OnlinePayment-WorldPay-0.10    53017
+DBIx-Thin-0.05                          deleted from CPAN
