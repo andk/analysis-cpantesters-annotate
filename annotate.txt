@@ -297,3 +297,5 @@ Unicode-Stringprep-1.102                53643
 Business-OnlinePayment-WorldPay-0.10    53017
 DBIx-Thin-0.05                          deleted from CPAN
 Business-OnlinePayment-PaymenTech-2.01  53646
+Graphics-ColorNames-2.11                there were wrong reports submitted
+CPAN-Testers-ParseReport-0.1.11         there were wrong reports submitted
