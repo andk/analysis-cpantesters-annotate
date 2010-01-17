@@ -121,7 +121,6 @@ Gtk2-Ex-Email-AttachmentVBox-0.0.0      51565
 Crypt-Keyczar-0.04                      51584
 DateTime-TimeZone-HPUX-1.03             51589
 File-PathInfo-Ext-1.29                  51674
-NEKOKAK/​Qudo-​0.01_02                    (sent mail)
 Parse-MediaWikiDump-1.0.2               51607
 MooseX-Types-PortNumber-0.01            51785
 LWP-Protocol-http-SocksChain10-1.5      51786
@@ -135,7 +134,7 @@ LWP-Protocol-http-SocksChain10-1.6      52010
 SparkX-Form-BasicValidators-0.01        52011
 HTML-Field-1.18                         52055
 Lingua-JA-Regular-0.09                  37871
-illguts-0.13                            52138,52139
+illguts-0.19                            52138,52139
 XML-Easy-Transform-RationalizeNamespacePrefixes-1.20 52140
 Spreadsheet-ParseExcel_XLHTML-0.03      52151
 HTTP-Link-Parser-0.02                   52152
@@ -148,7 +147,6 @@ Crypt-SKey-0.10                         41015
 Crypt-MatrixSSL-1.86.0                  28698
 HTML-Template-Associate-2.00            52300
 MojoX-Encode-Gzip-1.00                  52301
-PJob-0.31                               52340
 Data-Transform-Zlib-0.01                52341
 Catalyst-Plugin-ConfigLoader-Environment-0.05 52343
 Perl-Metrics2-0.06                      52347
@@ -185,8 +183,6 @@ POE-Component-Schedule-0.92             52666
 MooseX-UndefTolerant-0.02               52668
 Parse-FixedRecord-0.02                  52701
 Project-Euler-v0.1.4                    52708
-App-Pm2Port-0.26                        52726
-Unicode-Stringprep-1.01                 52734
 Plack-Request-0.08                      50982
 Color-Calc-1.051                        52744
 Mail-DeliveryStatus-BounceParser-1.520_001 52745
@@ -208,7 +204,6 @@ GPS-Point-0.16                          FAILs from a broken smoker
 Plack-Middleware-Session-0.01           52891
 like-0.02                               52892
 Variable-Magic-0.39                     52894
-CGI-PSGI-0.04                           all FAILs from a broken smoker
 Data-Section-0.093410                   FAILs from a broken smoker
 IO-Multiplex-KQueue-0.02                52897
 TimeDate-1.20                           FAILs from a broken smoker
@@ -224,7 +219,6 @@ Math-StochasticProcess-0.03             52963
 Catalyst-Controller-Rose-0.05           52964
 OOP-Perlish-Class-0.02                  52965
 Tatsumaki-0.1006                        52967
-Catalyst-Controller-RateLimit-0.25      52970
 List-Step-0.20                          52621
 Catalyst-Model-Data-Localize-0.00007    52981
 FreezeThaw-0.45                         33844
@@ -301,3 +295,4 @@ Catalyst-ActionRole-RequireSSL-0.04     53712
 Text-Todo-0.0.1                         53713
 DateTime-0.53                           53702
 API-ISPManager-0.07                     53750
+Search-Query-0.03                       53772
