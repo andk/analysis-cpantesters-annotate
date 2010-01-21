@@ -299,3 +299,4 @@ XML-Twig-3.33                           53773
 CGI-Application-Plugin-Authentication-0.15 50670
 Data-Clone-0.001                        53775
 Sub-Attribute-0.04                      53776
+MooseX-Role-Cmd-0.06                    Moose 0.94 breaks this officially, waiting for new release
