@@ -300,3 +300,6 @@ CGI-Application-Plugin-Authentication-0.15 50670
 Data-Clone-0.001                        53775
 Sub-Attribute-0.04                      53776
 MooseX-Role-Cmd-0.06                    Moose 0.94 breaks this officially, waiting for new release
+Locale-TextDomain-OO-0.06               53931
+HTML-Formulate-0.15                     53932
+Net-SRCDS-Queries-0.0.2                 53936
