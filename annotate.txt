@@ -303,3 +303,5 @@ MooseX-Role-Cmd-0.06                    Moose 0.94 breaks this officially, waiti
 Locale-TextDomain-OO-0.06               53931
 HTML-Formulate-0.15                     53932
 Net-SRCDS-Queries-0.0.2                 53936
+Data-Munge-0.031                        53937
+XML-ExtOn-0.12                          53939
