@@ -305,3 +305,6 @@ HTML-Formulate-0.15                     53932
 Net-SRCDS-Queries-0.0.2                 53936
 Data-Munge-0.031                        53937
 XML-ExtOn-0.12                          53939
+RPC-Lite-0.20                           53941
+Catalyst-Model-DBI-0.25                 53946
+CSS-1.08                                53948
