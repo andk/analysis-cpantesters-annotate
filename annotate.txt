@@ -311,3 +311,4 @@ CSS-1.08                                53948
 WWW-Tumblr-ThemeParser-0.01             53950
 Plack-Server-AnyEvent-Server-Starter-0.00001 53954
 ORLite-Mirror-1.18                      53989
+Maypole-Config-YAML-0.1                 53999
