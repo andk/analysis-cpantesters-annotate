@@ -45,7 +45,6 @@ Lingua-FR-Ladl-v0.0.4                   50200
 CSS-LESSp-0.03                          50274
 Religion-Bible-Regex-Config-0.6         50275
 Religion-Bible-Regex-Reference-0.95     50276
-Variable-Magic-0.38                     50720
 CatalystX-Features-0.13                 50318
 Data-Locations-5.5                      50394
 POE-Component-RemoteTail-0.01010        50484
@@ -182,7 +181,6 @@ POE-Component-Schedule-0.92             52666
 MooseX-UndefTolerant-0.02               52668
 Parse-FixedRecord-0.02                  52701
 Project-Euler-v0.1.4                    52708
-Plack-Request-0.08                      50982
 Color-Calc-1.051                        52744
 Mail-DeliveryStatus-BounceParser-1.520_001 52745
 File-LinkDir-0.03                       52747
@@ -313,3 +311,7 @@ Plack-Server-AnyEvent-Server-Starter-0.00001 53954
 ORLite-Mirror-1.18                      53989
 Maypole-Config-YAML-0.1                 53999
 Devel-PartialDump-0.13                  broken Test::Harness test
+Devel-Cover-0.65                        35246
+MooseX-MetaDescription-0.03             54159
+Plack-Request-0.09                      50982
+Catalyst-View-Mason-0.18                Calculations may be wrong due to broken NNTP upstream
