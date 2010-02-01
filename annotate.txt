@@ -315,3 +315,4 @@ Devel-Cover-0.65                        35246
 MooseX-MetaDescription-0.03             54159
 Plack-Request-0.09                      50982
 Catalyst-View-Mason-0.18                Calculations may be wrong due to broken NNTP upstream
+Devel-Declare-0.005011                  52894
