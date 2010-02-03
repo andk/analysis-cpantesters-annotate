@@ -316,3 +316,5 @@ MooseX-MetaDescription-0.03             54159
 Plack-Request-0.09                      50982
 Catalyst-View-Mason-0.18                Calculations may be wrong due to broken NNTP upstream
 Devel-Declare-0.005011                  52894
+Template-Plugin-Time-Duration-0.01      54236
+Data-Maker-0.08                         54237
