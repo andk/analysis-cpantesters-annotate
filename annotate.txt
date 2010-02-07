@@ -320,3 +320,4 @@ Template-Plugin-Time-Duration-0.01      54236
 Data-Maker-0.08                         54237
 File-Find-Flex-0.60                     has been deleted from CPAN
 HTML-HTML5-Microdata-ToRDFa-0.01        54359
+XML-xmlapi-0.02                         54373
