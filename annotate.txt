@@ -322,3 +322,8 @@ File-Find-Flex-0.60                     has been deleted from CPAN
 HTML-HTML5-Microdata-ToRDFa-0.01        54359
 XML-xmlapi-0.02                         54373
 Nagios-Object-0.21.9                    54464
+Net-Whois-Parser-0.03                   54467
+Snapback2-0.915                         54468
+DateTime-Event-Predict-0.01_04          54469
+Purple-1.2                              54470
+Bot-NotSoBasicBot-0.01                  54471
