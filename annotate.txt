@@ -321,3 +321,4 @@ Data-Maker-0.08                         54237
 File-Find-Flex-0.60                     has been deleted from CPAN
 HTML-HTML5-Microdata-ToRDFa-0.01        54359
 XML-xmlapi-0.02                         54373
+Nagios-Object-0.21.9                    54464
