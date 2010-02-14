@@ -333,3 +333,4 @@ Test-Run-0.0122                         54534
 Net-PicApp-0.1                          54535
 Workflow-1.33                           53909 note that the version numbering is unusual (1.33_08 came before 1.33)
 LinkedList-Single-0.99.1                54581
+SOAP-ISIWoK-1.01                        54608
