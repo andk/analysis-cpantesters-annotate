@@ -335,3 +335,4 @@ Workflow-1.33                           53909 note that the version numbering is
 LinkedList-Single-0.99.1                54581
 SOAP-ISIWoK-1.01                        54608
 Net-Amazon-MechanicalTurk-1.01_01       54652
+POE-Component-FastCGI-0.1               like 53314: keyword as labels forbidden in bleadperl
