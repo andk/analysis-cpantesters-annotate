@@ -330,7 +330,8 @@ Bot-NotSoBasicBot-0.01                  54471
 Parse-RecDescent-Simple-0.01            54506
 PPI-1.209                               54508
 Test-Run-0.0122                         54534
-Net-PicApp-0.1                          54535
+Net-PicApp-0.2                          54535
 Workflow-1.33                           53909 note that the version numbering is unusual (1.33_08 came before 1.33)
 LinkedList-Single-0.99.1                54581
 SOAP-ISIWoK-1.01                        54608
+Net-Amazon-MechanicalTurk-1.01_01       54652
