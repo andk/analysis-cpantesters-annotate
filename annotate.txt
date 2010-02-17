@@ -277,7 +277,6 @@ DBIx-Skinny-InflateColumn-DateTime-0.04 53563
 ParseLex-2.17                           53574
 Finance-Bank-ID-BCA-0.05.tar.gz         53630
 Rose-DB-Object-0.785                    53631
-pler-1.02                               53638
 Gantry-3.63                             53639
 Arff-1.0                                53640
 catalyst-traitfor-controller-breadcrumb-followed-0.01 53641
@@ -297,14 +296,12 @@ XML-Twig-3.33                           53773
 CGI-Application-Plugin-Authentication-0.15 50670
 Data-Clone-0.001                        53775
 Sub-Attribute-0.04                      53776
-MooseX-Role-Cmd-0.06                    Moose 0.94 breaks this officially, waiting for new release
 Locale-TextDomain-OO-0.06               53931
 HTML-Formulate-0.15                     53932
 Net-SRCDS-Queries-0.0.2                 53936
 Data-Munge-0.031                        53937
 XML-ExtOn-0.12                          53939
 RPC-Lite-0.20                           53941
-Catalyst-Model-DBI-0.25                 53946
 CSS-1.08                                53948
 WWW-Tumblr-ThemeParser-0.01             53950
 Plack-Server-AnyEvent-Server-Starter-0.00001 53954
@@ -337,3 +334,4 @@ SOAP-ISIWoK-1.01                        54608
 Net-Amazon-MechanicalTurk-1.01_01       54652
 POE-Component-FastCGI-0.1               like 53314: keyword as labels forbidden in bleadperl
 Exception-Died-0.06                     54724
+Class-Factory-Enhanced-0.08             54726
