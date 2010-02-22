@@ -338,3 +338,4 @@ Class-Factory-Enhanced-0.08             54726
 Catalyst-Plugin-ConfigLoader-Remote-0.01 54736
 Text-RecordParser-1.4.0                 54816
 ObjectDB-0.990102                       54830
+Tie-CArray-0.14                         54864
