@@ -339,3 +339,6 @@ Text-RecordParser-1.4.0                 54816
 ObjectDB-0.990102                       54830
 Tie-CArray-0.14                         54864
 Plack-Server-AnyEvent-Server-Starter-0.00002 53954 (maybe dated?)
+OAuth-Lite-1.25                         54965
+Plack-Middleware-Session-0.10           55035
+Bitmask-Data-2.03                       55034
