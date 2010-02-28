@@ -342,3 +342,4 @@ Plack-Server-AnyEvent-Server-Starter-0.00002 53954 (maybe dated?)
 OAuth-Lite-1.25                         54965
 Plack-Middleware-Session-0.10           55035
 Bitmask-Data-2.03                       55034
+Catalyst-Plugin-Static-Simple-ByClass-0.003 55057
