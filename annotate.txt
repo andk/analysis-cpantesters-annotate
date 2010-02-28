@@ -343,3 +343,4 @@ OAuth-Lite-1.25                         54965
 Plack-Middleware-Session-0.10           55035
 Bitmask-Data-2.03                       55034
 Catalyst-Plugin-Static-Simple-ByClass-0.003 55057
+Locale-Maketext-Lexicon-0.78            54881
