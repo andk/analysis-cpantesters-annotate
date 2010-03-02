@@ -274,7 +274,6 @@ DateTimeX-Subspan-Weekly-0.04           53548
 Guard-1.021                             rt.perl.org #71992
 CGI-Compile-0.07                        53562
 DBIx-Skinny-InflateColumn-DateTime-0.04 53563
-ParseLex-2.17                           53574
 Finance-Bank-ID-BCA-0.05.tar.gz         53630
 Rose-DB-Object-0.785                    53631
 Gantry-3.63                             53639
@@ -344,3 +343,4 @@ Plack-Middleware-Session-0.10           55035
 Bitmask-Data-2.03                       55034
 Catalyst-Plugin-Static-Simple-ByClass-0.003 55057
 Locale-Maketext-Lexicon-0.78            54881
+ParseLex-2.18                           53574
