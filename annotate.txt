@@ -344,3 +344,4 @@ Bitmask-Data-2.03                       55034
 Catalyst-Plugin-Static-Simple-ByClass-0.003 55057
 Locale-Maketext-Lexicon-0.78            54881
 ParseLex-2.18                           53574
+AnyEvent-Worker-0.03                    55167
