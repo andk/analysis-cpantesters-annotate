@@ -346,3 +346,5 @@ Locale-Maketext-Lexicon-0.78            54881
 ParseLex-2.18                           53574
 AnyEvent-Worker-0.03                    55167
 Orochi-0.00008                          55237
+WWW-USF-Directory-0.001                 55245
+Hessian-Translator-1.00                 55276
