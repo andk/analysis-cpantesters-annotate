@@ -348,3 +348,7 @@ AnyEvent-Worker-0.03                    55167
 Orochi-0.00008                          55237
 WWW-USF-Directory-0.001                 55245
 Hessian-Translator-1.00                 55276
+CGI-Session-Auth-1.07                   55307
+VANAMBURG-SEMPROG-SimpleGraph-0.009     55308
+Text-TypingEffort-0.25                  55325
+Test-Class-0.33                         55324
