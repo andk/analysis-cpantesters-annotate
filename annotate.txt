@@ -354,3 +354,4 @@ Text-TypingEffort-0.25                  55325
 Test-Class-0.33                         55324
 ActiveResource-0.01                     55456
 MooseX-Types-Locale-Country-0.02        55482
+IRC-RemoteControl-0.01                  55493
