@@ -357,3 +357,6 @@ MooseX-Types-Locale-Country-0.02        55482
 IRC-RemoteControl-0.01                  55493
 Cantella-Worker-0.002001                55513
 Pod-Elemental-Transformer-Include-1.000 55517
+Locale-Maketext-TieHash-L10N-0.12       55461
+List-Rubyish-0.03                       55524
+DBIx-Skinny-0.0703                      55529
