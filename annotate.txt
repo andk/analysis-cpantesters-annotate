@@ -362,4 +362,4 @@ List-Rubyish-0.03                       55524
 DBIx-Skinny-0.0703                      55529
 SimpleXlsx-0.0.1                        55546
 AnyEvent-Beanstalk-1.100750             55731
-DateTime-Format-DateManip               55771
+DateTime-Format-DateManip-0.04          55771
