@@ -59,7 +59,6 @@ package-watchdog-0.07                   now Package-Watchdog-(0.08)?
 Catalyst-Plugin-Server-JSONRPC-0.06     50586
 SQL-DB-0.18                             50591
 Catalyst-View-PDF-API2-0.02             50592
-Config-Checker-0.41                     50595
 TAP-Formatter-TextMate-0.1              50599
 WebService-Eulerian-Analytics-v0.6.1    50606
 WTB-0.01                                50611
@@ -74,7 +73,6 @@ URI-Amazon-APA-0.03                     50731
 WWW-Search-Scrape-0.05                  50759
 Net-LDAP-posixGroup-0.0.1               50782
 Object-Simple-Mixin-AttrOptions-0.0301  50783
-DAIA-0.25                               50801
 Catalyst-Plugin-XMLRPC-2.01             50810
 AProf-0.6                               50855
 Devel-Leak-Object-1.00                  50898
@@ -107,7 +105,6 @@ TRD-Watch-Web-0.0.4                     51220
 Catalyst-Authentication-Credential-Authen-Simple-0.06 51223
 Project-Easy-0.14                       51274
 Traceroute-Similar-0.13                 51275
-DOCSIS-ConfigFile-0.57                  51462
 Weather-Google-0.04                     49887
 opts-0.021                              51203
 Mac-iTunes-Library-0.61                 51029
@@ -149,11 +146,9 @@ Data-Transform-Zlib-0.01                52341
 Catalyst-Plugin-ConfigLoader-Environment-0.05 52343
 Perl-Metrics2-0.06                      52347
 AnyEvent-Postfix-Logs-0.01              52415
-Math-WalshTransform-1.13                52416
 Font-TTF-Scripts-0.13                   52417
 Pod-ToDocBook-0.7                       52418
 Tree-Numbered-Tools-1.03                52419
-Imager-0.71_02                          52425
 XML-Easy-Transform-RationalizeNamespacePrefixes-1.21 randir set PERL_TEST_CRITIC=1
 SQL-Abstract-Plugin-InsertReturning-0.02 52448
 CPANPLUS-Dist-Gentoo-0.09               52450
@@ -181,7 +176,6 @@ POE-Component-Schedule-0.92             52666
 MooseX-UndefTolerant-0.02               52668
 Parse-FixedRecord-0.02                  52701
 Project-Euler-v0.1.4                    52708
-Color-Calc-1.051                        52744
 Mail-DeliveryStatus-BounceParser-1.520_001 52745
 File-LinkDir-0.03                       52747
 LWP-Protocol-http-SocksChain-1.6        52770
@@ -234,7 +228,6 @@ Module-Setup-0.07                       53093
 WebService-Eulerian-Analytics-0.8       50606
 List-Gen-0.31                           53117
 Audio-Scan-0.56                         53118
-DBD-PO-2.09                             53120
 Data-Decode-0.00007_01                  53121
 HTML-Feature-3.00010                    53122
 Catalyst-Controller-RateLimit-0.26      53154
@@ -287,7 +280,6 @@ Business-OnlinePayment-PaymenTech-2.01  53646
 Graphics-ColorNames-2.11                there were wrong reports submitted
 CPAN-Testers-ParseReport-0.1.11         there were wrong reports submitted
 Catalyst-ActionRole-RequireSSL-0.04     53712
-Text-Todo-0.0.1                         53713
 DateTime-0.53                           53702
 API-ISPManager-0.07                     53750
 Search-Query-0.03                       53772
@@ -299,14 +291,11 @@ Locale-TextDomain-OO-0.06               53931
 HTML-Formulate-0.15                     53932
 Net-SRCDS-Queries-0.0.2                 53936
 Data-Munge-0.031                        53937
-XML-ExtOn-0.12                          53939
 RPC-Lite-0.20                           53941
 CSS-1.08                                53948
 WWW-Tumblr-ThemeParser-0.01             53950
-ORLite-Mirror-1.18                      53989
 Maypole-Config-YAML-0.1                 53999
 Devel-PartialDump-0.13                  broken Test::Harness test
-Devel-Cover-0.65                        35246
 MooseX-MetaDescription-0.03             54159
 Plack-Request-0.09                      50982
 Catalyst-View-Mason-0.18                Calculations may be wrong due to broken NNTP upstream
@@ -335,7 +324,6 @@ Exception-Died-0.06                     54724
 Class-Factory-Enhanced-0.08             54726
 Catalyst-Plugin-ConfigLoader-Remote-0.01 54736
 Text-RecordParser-1.4.0                 54816
-ObjectDB-0.990102                       54830
 Tie-CArray-0.14                         54864
 Plack-Server-AnyEvent-Server-Starter-0.00002 53954 (maybe dated?)
 OAuth-Lite-1.25                         54965
