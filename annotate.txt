@@ -5,14 +5,12 @@ Math-Currency-0.46                      32805
 Math-Systems-0.01                       42173
 MooseX-Compile-0.01                     42203
 ParallelUserAgent-2.57                  40216
-FramesReady-1.020                       42272
 ex-lib-zip-0.04                         40236
 Acme-use-strict-with-pride-0.04         42273
 WebService-Google-Suggest-0.03          42274
 Encode-Detect-1.01                      42293
 Kwiki-CachedDisplay-0.07                42301
 WPA-CLI-0.1.0                           42356
-Tree-Trie-1.5                           42448
 Catalyst-Model-Estraier-0.0.5           42501
 Gearman-Client-Async-0.94               42493
 File-DesktopEntry-0.04                  42770
@@ -51,9 +49,7 @@ POE-Component-RemoteTail-0.01010        50484
 TweetHook-API-0.01                      50502
 TAP-DOM-0.05                            50510
 MojoX-Renderer-HTP-0.032                50516
-Test-DBIx-Class-Schema-0.01006          50522
 DBIx-Class-EasyConf-YAML-0.11           50536
-App-Textcast-0.05.13                    43380
 Ante-Deluvian-Dialog-0.02               50552
 package-watchdog-0.07                   now Package-Watchdog-(0.08)?
 Catalyst-Plugin-Server-JSONRPC-0.06     50586
@@ -75,18 +71,12 @@ Net-LDAP-posixGroup-0.0.1               50782
 Object-Simple-Mixin-AttrOptions-0.0301  50783
 Catalyst-Plugin-XMLRPC-2.01             50810
 AProf-0.6                               50855
-Devel-Leak-Object-1.00                  50898
 File-Slurp-9999.13                      50939
 Net-Zemanta-0.5                         50984
 Statistics-SDT-0.035                    50987
 CairoX-Pager-0.02                       50988
 CPAN-WWW-Top100-Generator-0.08          50989
-JSAN-Client-0.24                        51014
-Verilog-Perl-3.221                      51024
-HPSG-Mason-0.03                         51025
-Pod-Wordlist-hanekomu-0.02              51030
 CGI-Application-Plugin-TmplInnerOuter-1.13 51034
-IPDR-0.19                               51118
 Auth-Yubikey_WebClient-0.03             51121
 Event-ScreenSaver-0.0.3                 51122
 HTTP-DetectUserAgent-0.02               51152
@@ -95,8 +85,6 @@ Perl6-Feeds-0.20                        50551
 Email-Received-1.00                     43376
 Module-Compile-Simple-0.24              20380
 HTML-TableExtract-2.10                  20709
-HTTP-MobileAgent-Flash-0.08             51185
-Devel-CoverReport-0.01                  51194
 WebService-OkiLab-ExtractPlace-0.02     51195
 Math-Function-Roots-0.063               51196
 XS-MRO-Compat-0.14                      51197
@@ -119,12 +107,9 @@ File-PathInfo-Ext-1.29                  51674
 Parse-MediaWikiDump-1.0.2               51607
 MooseX-Types-PortNumber-0.01            51785
 LWP-Protocol-http-SocksChain10-1.5      51786
-FormValidator-LazyWay-0.08              51797
 CSS-Adaptor-Whitelist-0.002             51805
 Find-Lib-1.01                           51808
-Class-MOP-0.95                          51811
 Osgood-Client-2.0.5                     51815
-GD-Window-0.01                          51816
 LWP-Protocol-http-SocksChain10-1.6      52010
 SparkX-Form-BasicValidators-0.01        52011
 HTML-Field-1.18                         52055
@@ -137,7 +122,6 @@ Data-PrefixMerge-0.12                   52157; changed name to Data-ModeMerge
 Date-Manip-6.04                         52162
 Mail-IMAPTalk-SortHelper-0.0.0          52167
 Test-WWW-Mechanize-Catalyst-0.51        52270
-Test-HTTP-Response-0.02                 52292
 Crypt-SKey-0.10                         41015
 Crypt-MatrixSSL-1.86.0                  28698
 HTML-Template-Associate-2.00            52300
@@ -147,7 +131,6 @@ Catalyst-Plugin-ConfigLoader-Environment-0.05 52343
 Perl-Metrics2-0.06                      52347
 AnyEvent-Postfix-Logs-0.01              52415
 Font-TTF-Scripts-0.13                   52417
-Pod-ToDocBook-0.7                       52418
 Tree-Numbered-Tools-1.03                52419
 XML-Easy-Transform-RationalizeNamespacePrefixes-1.21 randir set PERL_TEST_CRITIC=1
 SQL-Abstract-Plugin-InsertReturning-0.02 52448
@@ -156,18 +139,14 @@ CPAN-PackageDetails-0.2401              52455
 HTTP-Request-AsCGI-1.0                  52456
 POE-Component-Client-MPD-1.093320       52457
 RDF-Trine-Node-Literal-XML-0.13         52471
-Dist-Zilla-1.093371                     52479
 IO-Socket-Multicast6-0.03               52497
 Sepia-0.991_01                          52522
 POE-Component-SNMP-1.1003               52541
-Tk-804.028_501                          52335
 Net-Whois-Raw-2.11                      52546
 DBR-1.0.7rc6                            52547
 DateTime-Format-DateParse-0.04          52598
-MIME-Lite-HT-HTML-0.02                  52622
 Color-Mix-0.02                          52631
 DBIx-RewriteDSN-0.02                    52634
-URI-1.51                                52009
 Attribute-Util-1.05                     52643
 Algorithm-Diff-Any-1.000                52656
 DBIx-Encoding-0.05                      52663
@@ -175,7 +154,6 @@ Catalyst-ActionRole-RequireSSL-0.02     52664
 POE-Component-Schedule-0.92             52666
 MooseX-UndefTolerant-0.02               52668
 Parse-FixedRecord-0.02                  52701
-Project-Euler-v0.1.4                    52708
 Mail-DeliveryStatus-BounceParser-1.520_001 52745
 File-LinkDir-0.03                       52747
 LWP-Protocol-http-SocksChain-1.6        52770
@@ -189,13 +167,9 @@ Business-OnlinePayment-SagePay-0.10     FAILs from a broken smoker
 Function-Parameters-0.03                FAILs from a broken smoker
 Catalyst-Plugin-Snippets-0.01           52887
 Log-Dispatch-Config-TestLog-0.01        52889
-Data-Localize-0.00011                   52890
 MojoX-Session-Store-MongoDB-0.50        FAILs from a broken smoker
-GPS-Point-0.16                          FAILs from a broken smoker
 Plack-Middleware-Session-0.01           52891
 like-0.02                               52892
-Variable-Magic-0.39                     52894
-Data-Section-0.093410                   FAILs from a broken smoker
 IO-Multiplex-KQueue-0.02                52897
 TimeDate-1.20                           FAILs from a broken smoker
 Object-Wrapper-0.03                     52918
@@ -204,53 +178,38 @@ DateTime-Format-Human-Duration-0.0.1    52920
 MooseX-Traits-Attribute-CascadeClear-0.03 52921
 Catalyst-Plugin-OrderedParams-0.06      52922
 Acme-MUDLike-0.02                       52923
-WWW-phpBB-Poster-0.02                   52934
 Perl6-Gather-0.041                      52959
-Math-StochasticProcess-0.03             52963
 Catalyst-Controller-Rose-0.05           52964
 OOP-Perlish-Class-0.02                  52965
-Tatsumaki-0.1006                        52967
 List-Step-0.20                          52621
 Catalyst-Model-Data-Localize-0.00007    52981
 FreezeThaw-0.45                         33844
 File-Path-Hashed-0.01                   52991
 Catalyst-Plugin-Config-YAML-0.04        52993
-Catalyst-Engine-XMPP2-0.3               52995
 WWW-Scramble-0.01                       52996
 checkbot-1.80                           52999
 MooseX-Types-0.20                       53016
 Regexp-Box-0.02                         53019
 Test-CPAN-Meta-0.16                     53020
-MooseX-Has-Sugar-0.0405                 randir set AUTHOR_TESTING
 Test-TempDir-0.05                       randir set AUTHOR_TESTING
-MooseX-AttributeCloner-0.18             52153
 Module-Setup-0.07                       53093
 WebService-Eulerian-Analytics-0.8       50606
-List-Gen-0.31                           53117
-Audio-Scan-0.56                         53118
 Data-Decode-0.00007_01                  53121
 HTML-Feature-3.00010                    53122
-Catalyst-Controller-RateLimit-0.26      53154
 DBIx-Skinny-InflateColumn-DateTime-0.03 deleted by author
 Net-eNom-0.02                           53158
-HTML-HTML5-Sanity-0.02                  53160
-Data-Util-0.55                          53167
 Class-Accessor-Installer-0.06           53171
 DateTime-Format-ISO8601-0.06            53194
-Pod-Weaver-3.093530                     FAILs from a broken smoker
 YATT-0.0.2                              53206
 Template-Plugin-YAML-Encode-0.02        http://rt.perl.org/rt3/Public/Bug/Display.html?id=71748
-Net-Hulu-0.02                           53248
 Form-Maker-0.03                         53262
 JavaScript-Ectype-0.01                  53274
-File-Locate-Iterator-6                  53287
 Class-C3-XS-0.13                        53294
 Module-Build-0.3601                     53296
 B-Hooks-EndOfScope-0.08                 53298
 Text-ToSentences-0.91                   53313
 Data-FormValidator-4.65                 53314
 Data-Iter-0.2                           50478
-String-Urandom-0.11                     53318
 Crypt-OpenPGP-1.04                      53323
 Crypt-RIPEMD160-0.04                    19138
 Crypt-Random-Source-0.05                ?????
@@ -258,31 +217,22 @@ Benchmark-Serialize-0.03                51205
 XML-IODEF-0.07_2                        53386
 Net-SMTP-Multipart-1.5.4                53389
 Net-KashFlow-0.01                       53410
-DBIx-Array-0.18                         53418
-MooseX-Role-WithOverloading-0.04        53417
-DBIx-Simple-Batch-1.65                  53470
 Net-IDN-Encode-0.99_20091231            53485
 WWW-AdventCalendar-0.100010             53505
-DateTimeX-Subspan-Weekly-0.04           53548
 Guard-1.021                             rt.perl.org #71992
-CGI-Compile-0.07                        53562
 DBIx-Skinny-InflateColumn-DateTime-0.04 53563
 Finance-Bank-ID-BCA-0.05.tar.gz         53630
 Rose-DB-Object-0.785                    53631
-Gantry-3.63                             53639
 Arff-1.0                                53640
 catalyst-traitfor-controller-breadcrumb-followed-0.01 53641
 SWISH-Prog-0.35                         53275
-Unicode-Stringprep-1.102                53643
 Business-OnlinePayment-WorldPay-0.10    53017
 DBIx-Thin-0.05                          deleted from CPAN
 Business-OnlinePayment-PaymenTech-2.01  53646
 Graphics-ColorNames-2.11                there were wrong reports submitted
 CPAN-Testers-ParseReport-0.1.11         there were wrong reports submitted
 Catalyst-ActionRole-RequireSSL-0.04     53712
-DateTime-0.53                           53702
 API-ISPManager-0.07                     53750
-Search-Query-0.03                       53772
 XML-Twig-3.33                           53773
 CGI-Application-Plugin-Authentication-0.15 50670
 Data-Clone-0.001                        53775
@@ -301,7 +251,6 @@ Plack-Request-0.09                      50982
 Catalyst-View-Mason-0.18                Calculations may be wrong due to broken NNTP upstream
 Devel-Declare-0.005011                  52894
 Template-Plugin-Time-Duration-0.01      54236
-Data-Maker-0.08                         54237
 File-Find-Flex-0.60                     has been deleted from CPAN
 HTML-HTML5-Microdata-ToRDFa-0.01        54359
 XML-xmlapi-0.02                         54373
@@ -311,10 +260,7 @@ Snapback2-0.915                         54468
 DateTime-Event-Predict-0.01_04          54469
 Purple-1.2                              54470
 Bot-NotSoBasicBot-0.01                  54471
-Parse-RecDescent-Simple-0.01            54506
 PPI-1.209                               54508
-Test-Run-0.0122                         54534
-Net-PicApp-0.2                          54535
 Workflow-1.33                           53909 note that the version numbering is unusual (1.33_08 came before 1.33)
 LinkedList-Single-0.99.1                54581
 SOAP-ISIWoK-1.01                        54608
@@ -328,14 +274,10 @@ Tie-CArray-0.14                         54864
 Plack-Server-AnyEvent-Server-Starter-0.00002 53954 (maybe dated?)
 OAuth-Lite-1.25                         54965
 Plack-Middleware-Session-0.10           55035
-Bitmask-Data-2.03                       55034
 Catalyst-Plugin-Static-Simple-ByClass-0.003 55057
-Locale-Maketext-Lexicon-0.78            54881
 ParseLex-2.18                           53574
 AnyEvent-Worker-0.03                    55167
 Orochi-0.00008                          55237
-WWW-USF-Directory-0.001                 55245
-Hessian-Translator-1.00                 55276
 CGI-Session-Auth-1.07                   55307
 VANAMBURG-SEMPROG-SimpleGraph-0.009     55308
 Text-TypingEffort-0.25                  55325
@@ -343,11 +285,8 @@ Test-Class-0.33                         55324
 ActiveResource-0.01                     55456
 MooseX-Types-Locale-Country-0.02        55482
 IRC-RemoteControl-0.01                  55493
-Cantella-Worker-0.002001                55513
 Pod-Elemental-Transformer-Include-1.000 55517
 Locale-Maketext-TieHash-L10N-0.12       55461
 List-Rubyish-0.03                       55524
-DBIx-Skinny-0.0703                      55529
 SimpleXlsx-0.0.1                        55546
-AnyEvent-Beanstalk-1.100750             55731
 DateTime-Format-DateManip-0.04          55771
