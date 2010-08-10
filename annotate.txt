@@ -38,7 +38,6 @@ Kwiki-DisableWikiNames-0.02             50115
 Data-PackageName-0.01                   50186
 Lingua-EN-AffectiveNorms-0.01           50195
 Lingua-FR-Ladl-v0.0.4                   50200
-Religion-Bible-Regex-Config-0.6         50275
 Religion-Bible-Regex-Reference-0.95     50276
 Data-Locations-5.5                      50394
 TweetHook-API-0.01                      50502
@@ -57,7 +56,6 @@ Pod-Parser-I18N-0.00001                 49540
 Lemonldap-Portal-Standard-3.2.1         50730
 Lemonldap-Config-Parameters-3.2.4       43286
 URI-Amazon-APA-0.03                     50731
-WWW-Search-Scrape-0.05                  50759
 Net-LDAP-posixGroup-0.0.1               50782
 Catalyst-Plugin-XMLRPC-2.01             50810
 AProf-0.6                               50855
@@ -80,37 +78,30 @@ XS-MRO-Compat-0.14                      51197
 Net-Amazon-0.59                         51207
 TRD-Watch-Web-0.0.4                     51220
 Catalyst-Authentication-Credential-Authen-Simple-0.06 51223
-opts-0.021                              51203
 Test-Run-Plugin-TrimDisplayedFilenames-0.0120 51518
 SeeAlso-Server-0.57                     51520
 AnyEvent-Gmail-Feed-0.02                51521
 Net-Server-Framework-1.2                51524
 Gtk2-Ex-Email-AttachmentVBox-0.0.0      51565
 File-PathInfo-Ext-1.29                  51674
-MooseX-Types-PortNumber-0.01            51785
 CSS-Adaptor-Whitelist-0.002             51805
 Find-Lib-1.01                           51808
 LWP-Protocol-http-SocksChain10-1.6      52010
 SparkX-Form-BasicValidators-0.01        52011
 Lingua-JA-Regular-0.09                  37871
-XML-Easy-Transform-RationalizeNamespacePrefixes-1.20 52140
-Spreadsheet-ParseExcel_XLHTML-0.03      52151
 Data-PrefixMerge-0.12                   52157; changed name to Data-ModeMerge
-Date-Manip-6.04                         52162
 Mail-IMAPTalk-SortHelper-0.0.0          52167
 Test-WWW-Mechanize-Catalyst-0.51        52270
 Crypt-SKey-0.10                         41015
 Crypt-MatrixSSL-1.86.0                  28698
 HTML-Template-Associate-2.00            52300
 Data-Transform-Zlib-0.01                52341
-Catalyst-Plugin-ConfigLoader-Environment-0.05 52343
 Perl-Metrics2-0.06                      52347
 AnyEvent-Postfix-Logs-0.01              52415
 Font-TTF-Scripts-0.13                   52417
 Tree-Numbered-Tools-1.03                52419
 XML-Easy-Transform-RationalizeNamespacePrefixes-1.21 randir set PERL_TEST_CRITIC=1
 SQL-Abstract-Plugin-InsertReturning-0.02 52448
-CPANPLUS-Dist-Gentoo-0.09               52450
 POE-Component-Client-MPD-1.093320       52457
 IO-Socket-Multicast6-0.03               52497
 POE-Component-SNMP-1.1003               52541
@@ -125,12 +116,7 @@ Mail-DeliveryStatus-BounceParser-1.520_001 52745
 LWP-Protocol-http-SocksChain-1.6        52770
 Number-Object-Plugin-Tax-AU-0.02        52823
 Plack-Middleware-Header-0.01            52852
-Array-RemoveElements-0.02               52853
-Business-OnlinePayment-SagePay-0.10     FAILs from a broken smoker
-Function-Parameters-0.03                FAILs from a broken smoker
-Catalyst-Plugin-Snippets-0.01           52887
 Log-Dispatch-Config-TestLog-0.01        52889
-MojoX-Session-Store-MongoDB-0.50        FAILs from a broken smoker
 like-0.02                               52892
 IO-Multiplex-KQueue-0.02                52897
 TimeDate-1.20                           FAILs from a broken smoker
@@ -144,76 +130,52 @@ List-Step-0.20                          52621
 Catalyst-Model-Data-Localize-0.00007    52981
 Catalyst-Plugin-Config-YAML-0.04        52993
 checkbot-1.80                           52999
-MooseX-Types-0.20                       53016
 Regexp-Box-0.02                         53019
 Test-TempDir-0.05                       randir set AUTHOR_TESTING
 WebService-Eulerian-Analytics-0.8       50606
 Data-Decode-0.00007_01                  53121
-HTML-Feature-3.00010                    53122
 DBIx-Skinny-InflateColumn-DateTime-0.03 deleted by author
 Net-eNom-0.02                           53158
 Class-Accessor-Installer-0.06           53171
-DateTime-Format-ISO8601-0.06            53194
 YATT-0.0.2                              53206
 Template-Plugin-YAML-Encode-0.02        http://rt.perl.org/rt3/Public/Bug/Display.html?id=71748
 Form-Maker-0.03                         53262
 JavaScript-Ectype-0.01                  53274
 Class-C3-XS-0.13                        53294
-B-Hooks-EndOfScope-0.08                 53298
 Text-ToSentences-0.91                   53313
 Data-FormValidator-4.65                 53314
 Data-Iter-0.2                           50478
 Crypt-OpenPGP-1.04                      53323
 Crypt-RIPEMD160-0.04                    19138
 Crypt-Random-Source-0.05                ?????
-Benchmark-Serialize-0.03                51205
 Net-KashFlow-0.01                       53410
 Guard-1.021                             rt.perl.org #71992
 Finance-Bank-ID-BCA-0.05.tar.gz         53630
-Rose-DB-Object-0.785                    53631
 Arff-1.0                                53640
 catalyst-traitfor-controller-breadcrumb-followed-0.01 53641
 DBIx-Thin-0.05                          deleted from CPAN
 Graphics-ColorNames-2.11                there were wrong reports submitted
 API-ISPManager-0.07                     53750
 Data-Clone-0.001                        53775
-Sub-Attribute-0.04                      53776
-Locale-TextDomain-OO-0.06               53931
-HTML-Formulate-0.15                     53932
-Net-SRCDS-Queries-0.0.2                 53936
-Data-Munge-0.031                        53937
 RPC-Lite-0.20                           53941
 CSS-1.08                                53948
 Maypole-Config-YAML-0.1                 53999
 Devel-PartialDump-0.13                  broken Test::Harness test
 Plack-Request-0.09                      50982
 Catalyst-View-Mason-0.18                Calculations may be wrong due to broken NNTP upstream
-Devel-Declare-0.005011                  52894
 File-Find-Flex-0.60                     has been deleted from CPAN
 HTML-HTML5-Microdata-ToRDFa-0.01        54359
-Nagios-Object-0.21.9                    54464
 Net-Whois-Parser-0.03                   54467
 DateTime-Event-Predict-0.01_04          54469
-Purple-1.2                              54470
-Bot-NotSoBasicBot-0.01                  54471
-PPI-1.209                               54508
 Workflow-1.33                           53909 note that the version numbering is unusual (1.33_08 came before 1.33)
 SOAP-ISIWoK-1.01                        54608
 Net-Amazon-MechanicalTurk-1.01_01       54652
-POE-Component-FastCGI-0.1               like 53314: keyword as labels forbidden in bleadperl
 Exception-Died-0.06                     54724
-Class-Factory-Enhanced-0.08             54726
-Catalyst-Plugin-ConfigLoader-Remote-0.01 54736
 Text-RecordParser-1.4.0                 54816
-Tie-CArray-0.14                         54864
 Plack-Server-AnyEvent-Server-Starter-0.00002 53954 (maybe dated?)
-OAuth-Lite-1.25                         54965
 Plack-Middleware-Session-0.10           55035
-ParseLex-2.18                           53574
 CGI-Session-Auth-1.07                   55307
-VANAMBURG-SEMPROG-SimpleGraph-0.009     55308
 Text-TypingEffort-0.25                  55325
-Test-Class-0.33                         55324
 Pod-Elemental-Transformer-Include-1.000 55517
 Locale-Maketext-TieHash-L10N-0.12       55461
 List-Rubyish-0.03                       55524
