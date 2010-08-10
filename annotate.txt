@@ -11,10 +11,8 @@ WebService-Google-Suggest-0.03          42274
 Encode-Detect-1.01                      42293
 Kwiki-CachedDisplay-0.07                42301
 WPA-CLI-0.1.0                           42356
-Catalyst-Model-Estraier-0.0.5           42501
 Gearman-Client-Async-0.94               42493
 File-DesktopEntry-0.04                  42770
-Net-LDAP-Makepath-1.0.0                 42775
 CGI-Session-YAML-0.3                    42787
 OOTools-2.21                            29824
 DB_File-Lock-0.05                       30942
@@ -40,35 +38,27 @@ Kwiki-DisableWikiNames-0.02             50115
 Data-PackageName-0.01                   50186
 Lingua-EN-AffectiveNorms-0.01           50195
 Lingua-FR-Ladl-v0.0.4                   50200
-CSS-LESSp-0.03                          50274
 Religion-Bible-Regex-Config-0.6         50275
 Religion-Bible-Regex-Reference-0.95     50276
-CatalystX-Features-0.13                 50318
 Data-Locations-5.5                      50394
-POE-Component-RemoteTail-0.01010        50484
 TweetHook-API-0.01                      50502
-TAP-DOM-0.05                            50510
 MojoX-Renderer-HTP-0.032                50516
 DBIx-Class-EasyConf-YAML-0.11           50536
 Ante-Deluvian-Dialog-0.02               50552
 package-watchdog-0.07                   now Package-Watchdog-(0.08)?
-Catalyst-Plugin-Server-JSONRPC-0.06     50586
 SQL-DB-0.18                             50591
 Catalyst-View-PDF-API2-0.02             50592
 TAP-Formatter-TextMate-0.1              50599
-WebService-Eulerian-Analytics-v0.6.1    50606
 WTB-0.01                                50611
 List-Analyse-Sequence-Analyser-OL-RomanNumerals-0.01 50624
 CGI-Application-Plugin-Routes-1.02      50627
 DBIx-Mysql-InformationSchema-0.04       50635
 Pod-Parser-I18N-0.00001                 49540
-Date-Holidays-CA-0.01                   50695
 Lemonldap-Portal-Standard-3.2.1         50730
 Lemonldap-Config-Parameters-3.2.4       43286
 URI-Amazon-APA-0.03                     50731
 WWW-Search-Scrape-0.05                  50759
 Net-LDAP-posixGroup-0.0.1               50782
-Object-Simple-Mixin-AttrOptions-0.0301  50783
 Catalyst-Plugin-XMLRPC-2.01             50810
 AProf-0.6                               50855
 File-Slurp-9999.13                      50939
@@ -77,7 +67,6 @@ Statistics-SDT-0.035                    50987
 CairoX-Pager-0.02                       50988
 CPAN-WWW-Top100-Generator-0.08          50989
 CGI-Application-Plugin-TmplInnerOuter-1.13 51034
-Auth-Yubikey_WebClient-0.03             51121
 Event-ScreenSaver-0.0.3                 51122
 HTTP-DetectUserAgent-0.02               51152
 XHTML-Util-0.99_05                      51158
@@ -91,33 +80,21 @@ XS-MRO-Compat-0.14                      51197
 Net-Amazon-0.59                         51207
 TRD-Watch-Web-0.0.4                     51220
 Catalyst-Authentication-Credential-Authen-Simple-0.06 51223
-Project-Easy-0.14                       51274
-Traceroute-Similar-0.13                 51275
-Weather-Google-0.04                     49887
 opts-0.021                              51203
-Mac-iTunes-Library-0.61                 51029
 Test-Run-Plugin-TrimDisplayedFilenames-0.0120 51518
 SeeAlso-Server-0.57                     51520
 AnyEvent-Gmail-Feed-0.02                51521
 Net-Server-Framework-1.2                51524
 Gtk2-Ex-Email-AttachmentVBox-0.0.0      51565
-Crypt-Keyczar-0.04                      51584
-DateTime-TimeZone-HPUX-1.03             51589
 File-PathInfo-Ext-1.29                  51674
-Parse-MediaWikiDump-1.0.2               51607
 MooseX-Types-PortNumber-0.01            51785
-LWP-Protocol-http-SocksChain10-1.5      51786
 CSS-Adaptor-Whitelist-0.002             51805
 Find-Lib-1.01                           51808
-Osgood-Client-2.0.5                     51815
 LWP-Protocol-http-SocksChain10-1.6      52010
 SparkX-Form-BasicValidators-0.01        52011
-HTML-Field-1.18                         52055
 Lingua-JA-Regular-0.09                  37871
-illguts-0.19                            52138,52139
 XML-Easy-Transform-RationalizeNamespacePrefixes-1.20 52140
 Spreadsheet-ParseExcel_XLHTML-0.03      52151
-HTTP-Link-Parser-0.02                   52152
 Data-PrefixMerge-0.12                   52157; changed name to Data-ModeMerge
 Date-Manip-6.04                         52162
 Mail-IMAPTalk-SortHelper-0.0.0          52167
@@ -125,7 +102,6 @@ Test-WWW-Mechanize-Catalyst-0.51        52270
 Crypt-SKey-0.10                         41015
 Crypt-MatrixSSL-1.86.0                  28698
 HTML-Template-Associate-2.00            52300
-MojoX-Encode-Gzip-1.00                  52301
 Data-Transform-Zlib-0.01                52341
 Catalyst-Plugin-ConfigLoader-Environment-0.05 52343
 Perl-Metrics2-0.06                      52347
@@ -135,64 +111,42 @@ Tree-Numbered-Tools-1.03                52419
 XML-Easy-Transform-RationalizeNamespacePrefixes-1.21 randir set PERL_TEST_CRITIC=1
 SQL-Abstract-Plugin-InsertReturning-0.02 52448
 CPANPLUS-Dist-Gentoo-0.09               52450
-CPAN-PackageDetails-0.2401              52455
-HTTP-Request-AsCGI-1.0                  52456
 POE-Component-Client-MPD-1.093320       52457
-RDF-Trine-Node-Literal-XML-0.13         52471
 IO-Socket-Multicast6-0.03               52497
-Sepia-0.991_01                          52522
 POE-Component-SNMP-1.1003               52541
-Net-Whois-Raw-2.11                      52546
 DBR-1.0.7rc6                            52547
-DateTime-Format-DateParse-0.04          52598
 Color-Mix-0.02                          52631
 DBIx-RewriteDSN-0.02                    52634
 Attribute-Util-1.05                     52643
-Algorithm-Diff-Any-1.000                52656
 DBIx-Encoding-0.05                      52663
-Catalyst-ActionRole-RequireSSL-0.02     52664
-POE-Component-Schedule-0.92             52666
 MooseX-UndefTolerant-0.02               52668
 Parse-FixedRecord-0.02                  52701
 Mail-DeliveryStatus-BounceParser-1.520_001 52745
-File-LinkDir-0.03                       52747
 LWP-Protocol-http-SocksChain-1.6        52770
-Tie-Hash-MultiValue-1.01                52791
 Number-Object-Plugin-Tax-AU-0.02        52823
-Lexical-Attributes-2009040801           52824
 Plack-Middleware-Header-0.01            52852
 Array-RemoveElements-0.02               52853
-CPS-Governor-IOAsync-0.01               FAILs from a broken smoker
 Business-OnlinePayment-SagePay-0.10     FAILs from a broken smoker
 Function-Parameters-0.03                FAILs from a broken smoker
 Catalyst-Plugin-Snippets-0.01           52887
 Log-Dispatch-Config-TestLog-0.01        52889
 MojoX-Session-Store-MongoDB-0.50        FAILs from a broken smoker
-Plack-Middleware-Session-0.01           52891
 like-0.02                               52892
 IO-Multiplex-KQueue-0.02                52897
 TimeDate-1.20                           FAILs from a broken smoker
 Object-Wrapper-0.03                     52918
 Error-0.17016                           bogus FAIL reports
-DateTime-Format-Human-Duration-0.0.1    52920
-MooseX-Traits-Attribute-CascadeClear-0.03 52921
 Catalyst-Plugin-OrderedParams-0.06      52922
 Acme-MUDLike-0.02                       52923
 Perl6-Gather-0.041                      52959
 Catalyst-Controller-Rose-0.05           52964
-OOP-Perlish-Class-0.02                  52965
 List-Step-0.20                          52621
 Catalyst-Model-Data-Localize-0.00007    52981
-FreezeThaw-0.45                         33844
-File-Path-Hashed-0.01                   52991
 Catalyst-Plugin-Config-YAML-0.04        52993
-WWW-Scramble-0.01                       52996
 checkbot-1.80                           52999
 MooseX-Types-0.20                       53016
 Regexp-Box-0.02                         53019
-Test-CPAN-Meta-0.16                     53020
 Test-TempDir-0.05                       randir set AUTHOR_TESTING
-Module-Setup-0.07                       53093
 WebService-Eulerian-Analytics-0.8       50606
 Data-Decode-0.00007_01                  53121
 HTML-Feature-3.00010                    53122
@@ -205,7 +159,6 @@ Template-Plugin-YAML-Encode-0.02        http://rt.perl.org/rt3/Public/Bug/Displa
 Form-Maker-0.03                         53262
 JavaScript-Ectype-0.01                  53274
 Class-C3-XS-0.13                        53294
-Module-Build-0.3601                     53296
 B-Hooks-EndOfScope-0.08                 53298
 Text-ToSentences-0.91                   53313
 Data-FormValidator-4.65                 53314
@@ -214,27 +167,15 @@ Crypt-OpenPGP-1.04                      53323
 Crypt-RIPEMD160-0.04                    19138
 Crypt-Random-Source-0.05                ?????
 Benchmark-Serialize-0.03                51205
-XML-IODEF-0.07_2                        53386
-Net-SMTP-Multipart-1.5.4                53389
 Net-KashFlow-0.01                       53410
-Net-IDN-Encode-0.99_20091231            53485
-WWW-AdventCalendar-0.100010             53505
 Guard-1.021                             rt.perl.org #71992
-DBIx-Skinny-InflateColumn-DateTime-0.04 53563
 Finance-Bank-ID-BCA-0.05.tar.gz         53630
 Rose-DB-Object-0.785                    53631
 Arff-1.0                                53640
 catalyst-traitfor-controller-breadcrumb-followed-0.01 53641
-SWISH-Prog-0.35                         53275
-Business-OnlinePayment-WorldPay-0.10    53017
 DBIx-Thin-0.05                          deleted from CPAN
-Business-OnlinePayment-PaymenTech-2.01  53646
 Graphics-ColorNames-2.11                there were wrong reports submitted
-CPAN-Testers-ParseReport-0.1.11         there were wrong reports submitted
-Catalyst-ActionRole-RequireSSL-0.04     53712
 API-ISPManager-0.07                     53750
-XML-Twig-3.33                           53773
-CGI-Application-Plugin-Authentication-0.15 50670
 Data-Clone-0.001                        53775
 Sub-Attribute-0.04                      53776
 Locale-TextDomain-OO-0.06               53931
@@ -243,26 +184,20 @@ Net-SRCDS-Queries-0.0.2                 53936
 Data-Munge-0.031                        53937
 RPC-Lite-0.20                           53941
 CSS-1.08                                53948
-WWW-Tumblr-ThemeParser-0.01             53950
 Maypole-Config-YAML-0.1                 53999
 Devel-PartialDump-0.13                  broken Test::Harness test
-MooseX-MetaDescription-0.03             54159
 Plack-Request-0.09                      50982
 Catalyst-View-Mason-0.18                Calculations may be wrong due to broken NNTP upstream
 Devel-Declare-0.005011                  52894
-Template-Plugin-Time-Duration-0.01      54236
 File-Find-Flex-0.60                     has been deleted from CPAN
 HTML-HTML5-Microdata-ToRDFa-0.01        54359
-XML-xmlapi-0.02                         54373
 Nagios-Object-0.21.9                    54464
 Net-Whois-Parser-0.03                   54467
-Snapback2-0.915                         54468
 DateTime-Event-Predict-0.01_04          54469
 Purple-1.2                              54470
 Bot-NotSoBasicBot-0.01                  54471
 PPI-1.209                               54508
 Workflow-1.33                           53909 note that the version numbering is unusual (1.33_08 came before 1.33)
-LinkedList-Single-0.99.1                54581
 SOAP-ISIWoK-1.01                        54608
 Net-Amazon-MechanicalTurk-1.01_01       54652
 POE-Component-FastCGI-0.1               like 53314: keyword as labels forbidden in bleadperl
@@ -274,17 +209,11 @@ Tie-CArray-0.14                         54864
 Plack-Server-AnyEvent-Server-Starter-0.00002 53954 (maybe dated?)
 OAuth-Lite-1.25                         54965
 Plack-Middleware-Session-0.10           55035
-Catalyst-Plugin-Static-Simple-ByClass-0.003 55057
 ParseLex-2.18                           53574
-AnyEvent-Worker-0.03                    55167
-Orochi-0.00008                          55237
 CGI-Session-Auth-1.07                   55307
 VANAMBURG-SEMPROG-SimpleGraph-0.009     55308
 Text-TypingEffort-0.25                  55325
 Test-Class-0.33                         55324
-ActiveResource-0.01                     55456
-MooseX-Types-Locale-Country-0.02        55482
-IRC-RemoteControl-0.01                  55493
 Pod-Elemental-Transformer-Include-1.000 55517
 Locale-Maketext-TieHash-L10N-0.12       55461
 List-Rubyish-0.03                       55524
