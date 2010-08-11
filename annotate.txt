@@ -150,3 +150,4 @@ List-Rubyish-0.03                       55524
 SimpleXlsx-0.0.1                        55546
 DateTime-Format-DateManip-0.04          55771
 LinkedList-Single-0.99.10               60203
+LEOCHARRE-Basename-1.06                 60259
