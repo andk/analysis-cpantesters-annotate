@@ -154,3 +154,4 @@ LEOCHARRE-Basename-1.06                 60259
 Aspect-Loader-0.03                      60262
 Perl-Critic-Bangs-1.06                  59880
 CatalystX-FacebookURI-0.01              60264
+any-feature-1.100840                    60265
