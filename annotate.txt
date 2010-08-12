@@ -152,3 +152,5 @@ DateTime-Format-DateManip-0.04          55771
 LinkedList-Single-0.99.10               60203
 LEOCHARRE-Basename-1.06                 60259
 Aspect-Loader-0.03                      60262
+Perl-Critic-Bangs-1.06                  59880
+CatalystX-FacebookURI-0.01              60264
