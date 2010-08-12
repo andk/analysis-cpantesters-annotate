@@ -156,3 +156,6 @@ Perl-Critic-Bangs-1.06                  59880
 CatalystX-FacebookURI-0.01              60264
 any-feature-1.100840                    60265
 Reflex-0.070                            60268
+FusionInventory-Agent-Task-OcsDeploy-1.0.4 60286
+File-Locate-Iterator-11                 60291
+Net-FullAuto-0.29                       60293
