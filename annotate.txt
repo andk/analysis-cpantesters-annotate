@@ -160,3 +160,4 @@ FusionInventory-Agent-Task-OcsDeploy-1.0.4 60286
 File-Locate-Iterator-11                 60291
 Net-FullAuto-0.29                       60293
 Plack-App-Proxy-Selective-0.02          60294
+Geo-ECEF-1.10                           60329
