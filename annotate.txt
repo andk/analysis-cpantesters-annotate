@@ -167,3 +167,6 @@ Papery-0.01                             60336
 Test-Class-0.35                         55324
 MooseX-Types-ISO8601-0.03               60356
 Dancer-Plugin-SiteMap-0.03              60357
+Bread-Board-0.13                        57760
+IO-All-0.39                             57708
+HTML-Parser-3.66                        60368
