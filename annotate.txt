@@ -172,3 +172,4 @@ IO-All-0.39                             57708
 HTML-Parser-3.66                        60368
 Switch-2.16                             60380
 POE-API-Peek-1.34                       ?
+Dancer-1.1806_02                        60403
