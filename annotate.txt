@@ -170,3 +170,5 @@ Dancer-Plugin-SiteMap-0.03              60357
 Bread-Board-0.13                        57760
 IO-All-0.39                             57708
 HTML-Parser-3.66                        60368
+Switch-2.16                             60380
+POE-API-Peek-1.34                       ?
