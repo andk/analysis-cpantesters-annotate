@@ -168,3 +168,4 @@ WWW-Search-Ebay-3.021                   60493
 DBIx-DBHResolver-Strategy-RoundRobin-0.01 60580
 POE-Component-IRC-Plugin-MegaHAL-0.39   60581
 File-LinkDir-0.06                       52912
+Data-MessagePack-0.14                   60625
