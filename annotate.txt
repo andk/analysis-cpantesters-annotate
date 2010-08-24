@@ -154,7 +154,6 @@ Aspect-Loader-0.03                      60262
 Perl-Critic-Bangs-1.06                  59880
 any-feature-1.100840                    60265
 Reflex-0.070                            60268
-FusionInventory-Agent-Task-OcsDeploy-1.0.4 60286
 Geo-ECEF-1.10                           60329
 Business-OnlinePayment-SynapseGateway-0.01 60332
 Stlgen-0.012                            60334
@@ -163,7 +162,6 @@ Dancer-Plugin-SiteMap-0.04              60357
 Bread-Board-0.13                        57760
 Switch-2.16                             60380
 POE-API-Peek-1.34                       ?
-Dancer-1.1806_02                        60403
 WWW-Search-Ebay-3.021                   60493
 DBIx-DBHResolver-Strategy-RoundRobin-0.01 60580
 POE-Component-IRC-Plugin-MegaHAL-0.39   60581
