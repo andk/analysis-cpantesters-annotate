@@ -172,3 +172,4 @@ POE-Component-Server-Twirc-0.11         60669
 Lingua-EN-Bigram-0.02                   60670
 Test-Mini-Unit-0.050300                 distro renamed to Test-Mini
 File-Map-0.27                           60710
+ELLIOTJS/Perl-Critic-1.108              60699
