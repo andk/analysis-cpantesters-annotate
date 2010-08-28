@@ -178,3 +178,5 @@ App-DoubleUp-v0.2.1                     60753
 WWW-Scraper-Typo3-1.00                  60754
 WebService-Blogger-0.11                 60781
 Xymon-Monitor-SNMP-0.03                 60816
+autobox-2.70                            60821
+Data-Predicate-2.0.0                    60822
