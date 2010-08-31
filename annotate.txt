@@ -180,3 +180,4 @@ WebService-Blogger-0.11                 60781
 Xymon-Monitor-SNMP-0.03                 60816
 autobox-2.70                            60821
 Data-Predicate-2.0.0                    60822
+Devel-Cover-0.70                        60901
