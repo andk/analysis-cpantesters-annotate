@@ -1,11 +1,7 @@
 Acme-MetaSyntactic-0.99                 40946
 DBIx-Class-Tokenize-0.01                42158
 Template-Plugin-Autoformat-2.71         41796
-Math-Systems-0.01                       42173
 MooseX-Compile-0.01                     42203
-ParallelUserAgent-2.57                  40216
-ex-lib-zip-0.04                         40236
-Acme-use-strict-with-pride-0.04         42273
 WebService-Google-Suggest-0.03          42274
 Encode-Detect-1.01                      42293
 Kwiki-CachedDisplay-0.07                42301
@@ -13,14 +9,9 @@ WPA-CLI-0.1.0                           42356
 Gearman-Client-Async-0.94               42493
 File-DesktopEntry-0.04                  42770
 CGI-Session-YAML-0.3                    42787
-OOTools-2.21                            29824
-DB_File-Lock-0.05                       30942
 Dotiac-addon-json-0.1.1                 42960
-File-Finder-0.53                        43280
-Params-Profile-0.10                     43284
 Catalyst-Plugin-Geography-0.03          43283
 Time-Duration-1.06                      21523
-Convert-PEM-0.07                        43300
 IPTables-ChainMgr-0.9                   43302
 Net-Netmask-1.9015                      43348
 SVGraph-0.02                            43528
@@ -32,8 +23,6 @@ MFor-0.052                              43935
 Util-Properties-0.18                    39175
 B-XSUB-Dumber-0.01                      41451
 SVG-Calendar-0.1.3                      50084
-Lexical-Util-0.8                        50114
-Kwiki-DisableWikiNames-0.02             50115
 Data-PackageName-0.01                   50186
 Lingua-EN-AffectiveNorms-0.01           50195
 Lingua-FR-Ladl-v0.0.4                   50200
@@ -43,7 +32,6 @@ TweetHook-API-0.01                      50502
 MojoX-Renderer-HTP-0.032                50516
 DBIx-Class-EasyConf-YAML-0.11           50536
 Ante-Deluvian-Dialog-0.02               50552
-package-watchdog-0.07                   now Package-Watchdog-(0.08)?
 SQL-DB-0.18                             50591
 Catalyst-View-PDF-API2-0.02             50592
 TAP-Formatter-TextMate-0.1              50599
@@ -65,9 +53,6 @@ CGI-Application-Plugin-TmplInnerOuter-1.13 51034
 Event-ScreenSaver-0.0.3                 51122
 HTTP-DetectUserAgent-0.02               51152
 Perl6-Feeds-0.20                        50551
-Email-Received-1.00                     43376
-Module-Compile-Simple-0.24              20380
-HTML-TableExtract-2.10                  20709
 WebService-OkiLab-ExtractPlace-0.02     51195
 Math-Function-Roots-0.063               51196
 XS-MRO-Compat-0.14                      51197
@@ -96,10 +81,8 @@ Color-Mix-0.02                          52631
 DBIx-RewriteDSN-0.02                    52634
 DBIx-Encoding-0.05                      52663
 Parse-FixedRecord-0.02                  52701
-Mail-DeliveryStatus-BounceParser-1.520_001 52745
 Log-Dispatch-Config-TestLog-0.01        52889
 like-0.02                               52892
-IO-Multiplex-KQueue-0.02                52897
 TimeDate-1.20                           FAILs from a broken smoker
 Error-0.17016                           bogus FAIL reports
 Catalyst-Plugin-OrderedParams-0.06      52922
@@ -107,7 +90,6 @@ Acme-MUDLike-0.02                       52923
 Catalyst-Controller-Rose-0.05           52964
 List-Step-0.20                          52621
 Catalyst-Model-Data-Localize-0.00007    52981
-Catalyst-Plugin-Config-YAML-0.04        52993
 checkbot-1.80                           52999
 Regexp-Box-0.02                         53019
 Test-TempDir-0.05                       randir set AUTHOR_TESTING
@@ -117,11 +99,9 @@ Net-eNom-0.02                           53158
 Template-Plugin-YAML-Encode-0.02        http://rt.perl.org/rt3/Public/Bug/Display.html?id=71748
 Form-Maker-0.03                         53262
 JavaScript-Ectype-0.01                  53274
-Class-C3-XS-0.13                        53294
 Text-ToSentences-0.91                   53313
 Data-Iter-0.2                           50478
 Crypt-OpenPGP-1.04                      53323
-Crypt-RIPEMD160-0.04                    19138
 Crypt-Random-Source-0.05                ?????
 Net-KashFlow-0.01                       53410
 Guard-1.021                             rt.perl.org #71992
@@ -148,7 +128,6 @@ Text-TypingEffort-0.25                  55325
 Locale-Maketext-TieHash-L10N-0.12       55461
 List-Rubyish-0.03                       55524
 SimpleXlsx-0.0.1                        55546
-DateTime-Format-DateManip-0.04          55771
 LinkedList-Single-0.99.10               60203
 Aspect-Loader-0.03                      60262
 Perl-Critic-Bangs-1.06                  59880
@@ -161,17 +140,12 @@ Papery-0.01                             60336
 Dancer-Plugin-SiteMap-0.04              60357
 Bread-Board-0.14                        57760
 Switch-2.16                             60380
-POE-API-Peek-1.34                       ?
 WWW-Search-Ebay-3.021                   60493
-DBIx-DBHResolver-Strategy-RoundRobin-0.01 60580
 POE-Component-IRC-Plugin-MegaHAL-0.39   60581
 File-LinkDir-0.06                       52912
 Data-MessagePack-0.14                   60625
-AnyEvent-Cron-0.02                      60668
-POE-Component-Server-Twirc-0.11         60669
 Lingua-EN-Bigram-0.03                   60670
 Test-Mini-Unit-0.050300                 distro renamed to Test-Mini
-File-Map-0.27                           60710
 ELLIOTJS/Perl-Critic-1.108              60699
 Data-Dmap-0.04                          60752
 App-DoubleUp-v0.2.1                     60753
@@ -181,3 +155,4 @@ Xymon-Monitor-SNMP-0.03                 60816
 autobox-2.70                            60821
 Data-Predicate-2.0.0                    60822
 Devel-Cover-0.70                        60901
+Proc-Forking-1.48                       60331
