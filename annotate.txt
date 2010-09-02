@@ -156,3 +156,5 @@ autobox-2.70                            60821
 Data-Predicate-2.0.0                    60822
 Devel-Cover-0.70                        60901
 Proc-Forking-1.48                       60331
+Clone-Closure-0.04_01                   60928
+Acme-Compress-0.04                      60963,60964
