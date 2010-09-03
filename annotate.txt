@@ -159,3 +159,4 @@ Proc-Forking-1.48                       60331
 Clone-Closure-0.04_01                   60928
 Acme-Compress-0.04                      60963,60964
 Devel-NYTProf-4.04                      61009
+Sub-Filter-0.001                        61012
