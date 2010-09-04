@@ -155,3 +155,4 @@ Devel-NYTProf-4.04                      61009
 Sub-Filter-0.001                        61012
 Net-Twitter-3.13008_01                  61059
 WWW-Google-Contacts-0.11                61061
+WWW-Lovefilm-API-0.11                   61023
