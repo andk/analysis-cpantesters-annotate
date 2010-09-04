@@ -143,7 +143,7 @@ Switch-2.16                             60380
 WWW-Search-Ebay-3.021                   60493
 POE-Component-IRC-Plugin-MegaHAL-0.39   60581
 File-LinkDir-0.06                       52912
-Data-MessagePack-0.14                   60625
+Data-MessagePack-0.15                   60625
 Lingua-EN-Bigram-0.03                   60670
 Test-Mini-Unit-0.050300                 distro renamed to Test-Mini
 ELLIOTJS/Perl-Critic-1.108              60699
@@ -160,3 +160,4 @@ Clone-Closure-0.04_01                   60928
 Acme-Compress-0.04                      60963,60964
 Devel-NYTProf-4.04                      61009
 Sub-Filter-0.001                        61012
+Net-Twitter-3.13008_01                  61059
