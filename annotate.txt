@@ -154,3 +154,4 @@ Acme-Compress-0.04                      60963,60964
 Devel-NYTProf-4.04                      61009
 Sub-Filter-0.001                        61012
 Net-Twitter-3.13008_01                  61059
+WWW-Google-Contacts-0.11                61061
