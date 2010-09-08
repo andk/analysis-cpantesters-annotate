@@ -128,7 +128,6 @@ Text-TypingEffort-0.25                  55325
 Locale-Maketext-TieHash-L10N-0.12       55461
 List-Rubyish-0.03                       55524
 SimpleXlsx-0.0.1                        55546
-LinkedList-Single-0.99.10               60203
 Aspect-Loader-0.03                      60262
 Perl-Critic-Bangs-1.06                  59880
 any-feature-1.100840                    60265
@@ -146,9 +145,7 @@ App-DoubleUp-v0.2.1                     60753
 WebService-Blogger-0.11                 60781
 Xymon-Monitor-SNMP-0.03                 60816
 autobox-2.70                            60821
-Data-Predicate-2.0.0                    60822
 Devel-Cover-0.70                        60901
-Proc-Forking-1.48                       60331
 Clone-Closure-0.04_01                   60928
 Acme-Compress-0.04                      60963,60964
 Devel-NYTProf-4.04                      61009
@@ -158,3 +155,5 @@ WWW-Google-Contacts-0.11                61061
 WWW-Lovefilm-API-0.11                   61023
 PAR-Repository-Web-0.02                 61075
 Data-Dmap-0.07                          61128
+ack-1.93_01.tar.gz                      61158
+Cache-Memcached-AnyEvent-0.00018_03     61159
