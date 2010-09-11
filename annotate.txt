@@ -155,8 +155,11 @@ WWW-Google-Contacts-0.11                61061
 WWW-Lovefilm-API-0.11                   61023
 PAR-Repository-Web-0.02                 61075
 Data-Dmap-0.07                          61128
-ack-1.93_01.tar.gz                      61158
+ack-1.93_01                             61158
 Cache-Memcached-AnyEvent-0.00018_03     61159
 Google-GeoCoder-Smart-1.12              61181
 OpenOffice-Parse-SXC-0.03               61192
 SQL-Abstract-1.67_02                    61193
+Apache-Session-NoSQL-0.02               61226
+Statistics-SocialNetworks-0.03          61250
+Statistics-FisherPitman-0.033           61255
