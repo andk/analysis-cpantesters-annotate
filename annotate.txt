@@ -164,3 +164,4 @@ Apache-Session-NoSQL-0.02               61226
 Statistics-SocialNetworks-0.03          61250
 Statistics-FisherPitman-0.033           61255
 DOCSIS-ConfigFile-0.6003                61267
+FusionInventory-Agent-Task-OcsDeploy-1.0.8 61282
