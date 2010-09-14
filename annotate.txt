@@ -46,7 +46,6 @@ Net-LDAP-posixGroup-0.0.1               50782
 Catalyst-Plugin-XMLRPC-2.01             50810
 AProf-0.6                               50855
 File-Slurp-9999.13                      50939
-Statistics-SDT-0.035                    50987
 CairoX-Pager-0.02                       50988
 CPAN-WWW-Top100-Generator-0.08          50989
 CGI-Application-Plugin-TmplInnerOuter-1.13 51034
