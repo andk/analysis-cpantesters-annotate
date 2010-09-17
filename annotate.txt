@@ -144,13 +144,10 @@ App-DoubleUp-v0.2.1                     60753
 WebService-Blogger-0.11                 60781
 Xymon-Monitor-SNMP-0.04                 60816
 autobox-2.70                            60821
-Devel-Cover-0.70                        60901
+Devel-Cover-0.71                        60901
 Clone-Closure-0.04_01                   60928
 Acme-Compress-0.04                      60963,60964
-Devel-NYTProf-4.04                      61009
 Sub-Filter-0.001                        61012
-Net-Twitter-3.13008_01                  61059
-WWW-Google-Contacts-0.11                61061
 WWW-Lovefilm-API-0.11                   61023
 PAR-Repository-Web-0.02                 61075
 Data-Dmap-0.07                          61128
