@@ -164,3 +164,5 @@ FusionInventory-Agent-Task-OcsDeploy-1.0.8 61282
 WWW-Formspring-0.01-2                   61336
 Test-Ranger-v0.0.1                      61337
 Template-Toolkit-Simple-0.08            61411
+Spreadsheet-ParseExcel-0.58             61462
+Twiggy-0.1007                           61462
