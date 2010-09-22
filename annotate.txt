@@ -141,7 +141,6 @@ WWW-Search-Ebay-3.021                   60493
 Lingua-EN-Bigram-0.03                   60670
 Test-Mini-Unit-0.050300                 distro renamed to Test-Mini
 App-DoubleUp-v0.2.1                     60753
-WebService-Blogger-0.11                 60781
 Xymon-Monitor-SNMP-0.04                 60816
 autobox-2.70                            60821
 Devel-Cover-0.71                        60901
@@ -165,3 +164,4 @@ Spreadsheet-ParseExcel-0.58             61462
 Twiggy-0.1007                           61462
 DBIx-Skinny-0.0720                      61529
 Net-FullAuto-0.45                       61546
+Data-Dump-1.17                          61552
