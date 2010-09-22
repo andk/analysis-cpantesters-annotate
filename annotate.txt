@@ -164,3 +164,4 @@ Template-Toolkit-Simple-0.08            61411
 Spreadsheet-ParseExcel-0.58             61462
 Twiggy-0.1007                           61462
 DBIx-Skinny-0.0720                      61529
+Net-FullAuto-0.45                       61546
