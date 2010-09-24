@@ -149,7 +149,7 @@ Acme-Compress-0.04                      60963,60964
 Sub-Filter-0.001                        61012
 ack-1.93_01                             61158
 Google-GeoCoder-Smart-1.12              61181
-OpenOffice-Parse-SXC-0.03               61192
+OpenOffice-Parse-SXC-0.03               61192,+XML::Parser
 SQL-Abstract-1.67_02                    61193
 Apache-Session-NoSQL-0.02               61226
 Statistics-SocialNetworks-0.03          61250
