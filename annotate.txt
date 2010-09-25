@@ -167,3 +167,4 @@ Data-Dump-1.17                          61552
 DBIx-MultiDB-0.04                       61572
 ObjectDBI-0.14                          61594
 Fennec-Assert-Wrapper-Deep-0.02         61595
+Data-Dmap-0.08                          61128
