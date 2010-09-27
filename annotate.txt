@@ -170,3 +170,4 @@ Fennec-Assert-Wrapper-Deep-0.02         61595
 Data-Dmap-0.08                          61128
 ZConf-4.0.1                             61646
 Test-Warn-0.22                          61649
+Test-Exception-LessClever-0.005         61686
