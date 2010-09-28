@@ -118,7 +118,6 @@ Plack-Request-0.09                      50982
 Catalyst-View-Mason-0.18                Calculations may be wrong due to broken NNTP upstream
 File-Find-Flex-0.60                     has been deleted from CPAN
 DateTime-Event-Predict-0.01_04          54469
-SOAP-ISIWoK-1.01                        54608
 Net-Amazon-MechanicalTurk-1.01_01       54652
 Exception-Died-0.06                     54724
 Plack-Server-AnyEvent-Server-Starter-0.00002 53954 (maybe dated?)
@@ -134,7 +133,6 @@ Geo-ECEF-1.10                           60329
 Business-OnlinePayment-SynapseGateway-0.01 60332
 Stlgen-0.012                            60334
 Papery-0.01                             60336
-Dancer-Plugin-SiteMap-0.04              60357
 Bread-Board-0.14                        57760
 Switch-2.16                             60380
 WWW-Search-Ebay-3.021                   60493
