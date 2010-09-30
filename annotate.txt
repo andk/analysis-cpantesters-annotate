@@ -74,7 +74,6 @@ Perl-Metrics2-0.06                      52347
 AnyEvent-Postfix-Logs-0.01              52415
 Font-TTF-Scripts-0.13                   52417
 Tree-Numbered-Tools-1.03                52419
-XML-Easy-Transform-RationalizeNamespacePrefixes-1.21 randir set PERL_TEST_CRITIC=1
 IO-Socket-Multicast6-0.03               52497
 Color-Mix-0.02                          52631
 DBIx-RewriteDSN-0.02                    52634
@@ -140,8 +139,6 @@ Lingua-EN-Bigram-0.03                   60670
 Test-Mini-Unit-0.050300                 distro renamed to Test-Mini
 App-DoubleUp-v0.2.1                     60753
 Xymon-Monitor-SNMP-0.04                 60816
-autobox-2.70                            60821
-Devel-Cover-0.71                        60901
 Clone-Closure-0.04_01                   60928
 Acme-Compress-0.04                      60963,60964
 Sub-Filter-0.001                        61012
