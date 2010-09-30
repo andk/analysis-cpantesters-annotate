@@ -168,3 +168,4 @@ Test-Warn-0.22                          61649
 Test-Exception-LessClever-0.005         61686
 MooseX-ConsistentHash-0.01              61739
 Test-Deep-0.106                         61741
+POEx-ProxySession-0.092360              61785
