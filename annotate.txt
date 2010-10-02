@@ -172,3 +172,4 @@ POEx-ProxySession-0.092360              61785
 Test-Group-0.19_01                      61462
 HTML-Hyphenate-0.03                     61801
 DBIx-Class-0.08123                      58225
+JE-0.049                                61853
