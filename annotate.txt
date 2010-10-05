@@ -176,3 +176,4 @@ JE-0.049                                61853
 Fennec-Assert-Wrapper-Differences-0.02  61854
 HTML-Tree-4.0                           61857
 Slay-Makefile-Gress-0.07                61858
+Monitoring-Livestatus-0.60              61913
