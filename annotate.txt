@@ -160,7 +160,7 @@ DBIx-Skinny-0.0720                      61529
 Net-FullAuto-0.45                       61546
 Data-Dump-1.17                          61552
 DBIx-MultiDB-0.04                       61572
-ObjectDBI-0.14                          61594
+ObjectDBI-0.15                          61594
 Fennec-Assert-Wrapper-Deep-0.02         61595
 Data-Dmap-0.08                          61128
 ZConf-4.0.1                             61646
