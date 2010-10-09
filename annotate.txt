@@ -180,3 +180,4 @@ Monitoring-Livestatus-0.60              61913
 Method-Workflow-0.202                   61919
 Parse-RPN-2.54                          61920
 MooseX-ClassAttribute-0.19              61957
+Data-Float-0.010                        62009
