@@ -181,3 +181,4 @@ Method-Workflow-0.202                   61919
 Parse-RPN-2.54                          61920
 MooseX-ClassAttribute-0.19              61957
 Data-Float-0.010                        62009
+WWW-Ohloh-API-1.0_1                     62023
