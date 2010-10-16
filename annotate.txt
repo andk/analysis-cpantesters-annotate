@@ -184,3 +184,4 @@ Data-Float-0.010                        62009
 WWW-Ohloh-API-1.0_1                     62023
 DateTime-Format-Excel-0.30              62185
 AI-NaiveBayes1-1.9                      62186
+MooseX-AuthorizedMethods-0.005          62188
