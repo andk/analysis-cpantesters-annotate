@@ -190,3 +190,4 @@ WWW-Mechanize-Firefox-0.35              62199
 Dancer-Plugin-DBIC-0.1501               62200
 KyotoTycoon-0.01                        removed from CPAN
 Finance-Bank-IE-0.22                    62201
+autobox-Core-1.2                        62202
