@@ -185,3 +185,8 @@ WWW-Ohloh-API-1.0_1                     62023
 DateTime-Format-Excel-0.30              62185
 AI-NaiveBayes1-1.9                      62186
 MooseX-AuthorizedMethods-0.005          62188
+Pod-Weaver-3.101631                     62198
+WWW-Mechanize-Firefox-0.35              62199
+Dancer-Plugin-DBIC-0.1501               62200
+KyotoTycoon-0.01                        removed from CPAN
+Finance-Bank-IE-0.22                    62201
