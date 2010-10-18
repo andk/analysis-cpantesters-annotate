@@ -191,3 +191,5 @@ Dancer-Plugin-DBIC-0.1501               62200
 KyotoTycoon-0.01                        removed from CPAN
 Finance-Bank-IE-0.22                    62201
 autobox-Core-1.2                        62202
+MooseX-Role-Parameterized-0.19          62219
+opts-0.04                               62220
