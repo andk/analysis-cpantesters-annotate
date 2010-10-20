@@ -193,3 +193,4 @@ Finance-Bank-IE-0.22                    62201
 autobox-Core-1.2                        62202
 MooseX-Role-Parameterized-0.19          62219
 opts-0.04                               62220
+List-Enumerator-0.08                    62321
