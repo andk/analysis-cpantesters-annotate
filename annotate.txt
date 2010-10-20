@@ -194,3 +194,12 @@ autobox-Core-1.2                        62202
 MooseX-Role-Parameterized-0.19          62219
 opts-0.04                               62220
 List-Enumerator-0.08                    62321
+Fennec-0.032                            62264
+YAML-LibYAML-0.34                       62266
+Test-Base-0.59                          62265
+CGI-Alert-2.03                          62263
+Regexp-Assemble-0.34                    62262
+Regexp-Log-0.05                         62260
+YAML-0.72                               62258
+Aspect-0.92                             62257
+Test-Log-Log4perl-0.29                  62256
