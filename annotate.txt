@@ -203,3 +203,8 @@ Regexp-Log-0.05                         62260
 YAML-0.72                               62258
 Aspect-0.92                             62257
 Test-Log-Log4perl-0.29                  62256
+Data-AMF-0.09                           62407
+Template-Plugin-HighlightPerl-0.04      62410
+MooseX-Method-Signatures-0.36           62412
+PFIX-0.03                               62413
+WebDAO-2.0_1                            61462
