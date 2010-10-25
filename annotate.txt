@@ -210,3 +210,5 @@ PFIX-0.03                               62413
 WebDAO-2.0_1                            61462
 Search-Tools-0.53                       62417
 Protocol-Notifo-0.003                   62428
+Date-Holidays-EnglandWales-0.05         62445
+Regexp-RegGrp-0.0203                    62447
