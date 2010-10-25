@@ -208,3 +208,5 @@ Template-Plugin-HighlightPerl-0.04      62410
 MooseX-Method-Signatures-0.36           62412
 PFIX-0.03                               62413
 WebDAO-2.0_1                            61462
+Search-Tools-0.53                       62417
+Protocol-Notifo-0.003                   62428
