@@ -212,3 +212,5 @@ Search-Tools-0.53                       62417
 Protocol-Notifo-0.003                   62428
 Date-Holidays-EnglandWales-0.05         62445
 Regexp-RegGrp-0.0203                    62447
+DBD-mysql-4.018                         60085
+Directory-Transactional-0.09            62532
