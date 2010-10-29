@@ -214,3 +214,4 @@ Date-Holidays-EnglandWales-0.05         62445
 Regexp-RegGrp-0.0203                    62447
 DBD-mysql-4.018                         60085
 Directory-Transactional-0.09            62532
+Flea-0.03                               62539
