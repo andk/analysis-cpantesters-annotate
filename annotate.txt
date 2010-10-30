@@ -215,3 +215,8 @@ Regexp-RegGrp-0.0203                    62447
 DBD-mysql-4.018                         60085
 Directory-Transactional-0.09            62532
 Flea-0.03                               62539
+Data-Dump-PHP-0.04                      62570
+Variable-Magic-0.44                     62571
+Catalyst-Model-REST-0.11                62572
+DBR-1.0.7rc7                            52547
+Lingua-Boolean-0.002                    62574
