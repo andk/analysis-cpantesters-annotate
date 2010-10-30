@@ -221,3 +221,4 @@ Catalyst-Model-REST-0.11                62572
 DBR-1.0.7rc7                            52547
 Lingua-Boolean-0.002                    62574
 RDF-Notation3-0.91                      62575
+InterMine-Item-0.943                    62585
