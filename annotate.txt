@@ -222,3 +222,6 @@ DBR-1.0.7rc7                            52547
 Lingua-Boolean-0.002                    62574
 RDF-Notation3-0.91                      62575
 InterMine-Item-0.943                    62585
+Net-OpenSSH-0.49                        62594
+File-Lockfile-v1.0.5                    62595
+AnyEvent-JSONRPC-0.15                   62598
