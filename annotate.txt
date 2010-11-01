@@ -225,3 +225,5 @@ InterMine-Item-0.943                    62585
 Net-OpenSSH-0.49                        62594
 File-Lockfile-v1.0.5                    62595
 AnyEvent-JSONRPC-0.15                   62598
+Data-Dump-Streamer-2.22                 62605
+Net-ManageSieve-0.10                    62606
