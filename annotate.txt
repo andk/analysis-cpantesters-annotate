@@ -227,3 +227,4 @@ File-Lockfile-v1.0.5                    62595
 AnyEvent-JSONRPC-0.15                   62598
 Data-Dump-Streamer-2.22                 62605
 Net-ManageSieve-0.10                    62606
+Data-PrefixMerge-0.12                   62653
