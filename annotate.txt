@@ -228,3 +228,17 @@ AnyEvent-JSONRPC-0.15                   62598
 Data-Dump-Streamer-2.22                 62605
 Net-ManageSieve-0.10                    62606
 Data-PrefixMerge-0.12                   62653
+Getopt-LL-1.0.0                         62713
+HTML-HTML5-Writer-0.100                 62714
+Treex-PML-2.04                          62715
+HTTP-Parser-XS-0.11                     62716
+DateTime-Format-CLDR-1.12               62717
+JSON-Path-0.100                         62730
+Icon-FamFamFam-Silk-0.001.001.003       62729
+HTTP-Link-Parser-0.100                  62728
+HTML-HTML5-Microdata-Parser-0.031       62726
+Finance-Bitcoin-0.001                   62724
+POSIX-strptime-0.10                     62734
+RDF-Crypt-0.001                         62735
+RDF-Prefixes-0.001                      62736
+Spreadsheet-Wright-0.102                62737
