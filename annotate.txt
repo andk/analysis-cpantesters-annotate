@@ -242,3 +242,13 @@ POSIX-strptime-0.10                     62734
 RDF-Crypt-0.001                         62735
 RDF-Prefixes-0.001                      62736
 Spreadsheet-Wright-0.102                62737
+Lingua-Sentence-1.02                    57339
+Locale-PO-Utils-0.08                    62765
+POE-Filter-SSL-0.20                     62767
+Pod-Constants-0.16                      61780
+TM-1.54                                 62768
+Tail-Stat-0.06                          62769
+Template-Alloy-1.013                    62770
+Test-Unit-0.25                          62771
+Test-Wrapper-0.2.0                      62772
+WWW-Search-Rambler-0.07                 62773
