@@ -256,3 +256,5 @@ Net-OperaLink-0.03                      62777
 XML-Twig-3.37                           62781
 MooseX-NonMoose-0.16                    62246
 Dancer-Plugin-Browser-Detect-0.3        62796
+MojoX-Session-0.21                      62797
+autovivification-0.06                   62800
