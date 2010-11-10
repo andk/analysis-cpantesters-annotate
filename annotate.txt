@@ -258,3 +258,6 @@ MooseX-NonMoose-0.16                    62246
 Dancer-Plugin-Browser-Detect-0.3        62796
 MojoX-Session-0.21                      62797
 autovivification-0.06                   62800
+Locale-PO-Callback-0.04                 62882
+Github-Fork-Parent-0.10                 62884
+overload-eval-0.08                      62904
