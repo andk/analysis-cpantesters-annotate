@@ -261,3 +261,4 @@ autovivification-0.06                   62800
 Locale-PO-Callback-0.04                 62882
 Github-Fork-Parent-0.10                 62884
 overload-eval-0.08                      62904
+Class-Trait-0.31                        62906
