@@ -264,3 +264,4 @@ overload-eval-0.08                      62904
 Class-Trait-0.31                        62906
 XML-TreePP-XMLPath-0.62                 63006
 AnyEvent-Connection-0.05                63015
+Class-Injection-1.06                    63016
