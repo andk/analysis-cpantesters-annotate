@@ -262,3 +262,5 @@ Locale-PO-Callback-0.04                 62882
 Github-Fork-Parent-0.10                 62884
 overload-eval-0.08                      62904
 Class-Trait-0.31                        62906
+XML-TreePP-XMLPath-0.62                 63006
+AnyEvent-Connection-0.05                63015
