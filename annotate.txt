@@ -265,3 +265,9 @@ Class-Trait-0.31                        62906
 XML-TreePP-XMLPath-0.62                 63006
 AnyEvent-Connection-0.05                63015
 Class-Injection-1.06                    63016
+POE-Component-Supervisor-0.06           63025
+Test-Smoke-1.44                         63073
+Text-RecordParser-v1.5.0                54816
+Log-Dispatch-Config-TestLog-0.02        61462
+Digest-MD6-0.11                         63103
+Net-IP-Range-0.01_1                     Fails when Pod::Coverage is installed, no RT queue yet
