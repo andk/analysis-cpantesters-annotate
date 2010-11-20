@@ -274,3 +274,4 @@ Net-IP-Range-0.01_1                     Fails when Pod::Coverage is installed, n
 ASG/Test-Magic-0.20                     63138
 App-Stash-0.01                          63179
 Pod-POM-Web-1.14                        63181
+Config-General-Hierarchical-0.06        63182
