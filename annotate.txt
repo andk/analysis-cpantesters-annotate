@@ -272,3 +272,4 @@ Log-Dispatch-Config-TestLog-0.02        61462
 Digest-MD6-0.11                         63103
 Net-IP-Range-0.01_1                     Fails when Pod::Coverage is installed, no RT queue yet
 ASG/Test-Magic-0.20                     63138
+App-Stash-0.01                          63179
