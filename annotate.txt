@@ -276,3 +276,5 @@ App-Stash-0.01                          63179
 Pod-POM-Web-1.14                        63181
 Config-General-Hierarchical-0.06        63182
 TEI-Lite-0.60                           63186
+Data-Validate-0.08                      63213
+Catalyst-Model-Cronolog-0.01            63214
