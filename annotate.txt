@@ -264,7 +264,7 @@ overload-eval-0.08                      62904
 Class-Trait-0.31                        62906
 XML-TreePP-XMLPath-0.62                 63006
 AnyEvent-Connection-0.05                63015
-Class-Injection-1.06                    63016
+Class-Injection-1.07                    63016
 POE-Component-Supervisor-0.06           63025
 Test-Smoke-1.44                         63073
 Text-RecordParser-v1.5.0                54816
@@ -279,3 +279,5 @@ TEI-Lite-0.60                           63186
 Data-Validate-0.08                      63213
 Catalyst-Model-Cronolog-0.01            63214
 Math-ModInt-0.004                       63215
+Text-Sass-0.9                           63256
+Algorithm-KernelKMeans-XS-0.02_01       63315
