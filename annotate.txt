@@ -287,3 +287,4 @@ WWW-Sitemap-XML-1.103270                communicated in email, floating point mi
 Net-LDAP-Filter-SQL-0.01                63369
 DomainOperations-0.02                   63370
 MojoX-Run-0.13                          63371
+Filter-CommaEquals-0.01                 63373
