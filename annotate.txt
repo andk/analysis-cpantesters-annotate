@@ -288,3 +288,6 @@ Net-LDAP-Filter-SQL-0.01                63369
 DomainOperations-0.02                   63370
 MojoX-Run-0.13                          63371
 Filter-CommaEquals-0.01                 63373
+Net-SMS-MunduSMS-0.02                   63376
+Scope-Upper-0.12                        63378
+Jonk-0.02                               63394
