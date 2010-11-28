@@ -291,3 +291,5 @@ Filter-CommaEquals-0.01                 63373
 Net-SMS-MunduSMS-0.02                   63376
 Scope-Upper-0.12                        63378
 Jonk-0.02                               63394
+Log4Perl-ImportHandle-0.02              63404
+Try-Tiny-0.07                           63410
