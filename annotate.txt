@@ -293,3 +293,4 @@ Scope-Upper-0.12                        63378
 Jonk-0.02                               63394
 Log4Perl-ImportHandle-0.02              63404
 Try-Tiny-0.07                           63410
+Lemonldap-NG-Manager-1.0.0              63413
