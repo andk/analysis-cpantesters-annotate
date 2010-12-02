@@ -230,7 +230,7 @@ Net-ManageSieve-0.10                    62606
 Data-PrefixMerge-0.12                   62653
 Getopt-LL-1.0.0                         62713
 HTML-HTML5-Writer-0.100                 62714
-Treex-PML-2.04                          62715
+Treex-PML-2.05                          62715
 HTTP-Parser-XS-0.11                     62716
 DateTime-Format-CLDR-1.12               62717
 JSON-Path-0.100                         62730
