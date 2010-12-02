@@ -298,3 +298,4 @@ WWW-NicoSound-Download-1.09             63476
 HTML-Template-Compiled-0.94_002         63515
 RTDevSys-0.06                           63522
 Attribute-Lexical-0.002                 63531
+MooseX-Role-Cmd-0.09                    63552
