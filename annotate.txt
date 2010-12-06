@@ -300,3 +300,4 @@ RTDevSys-0.06                           63522
 Attribute-Lexical-0.002                 63531
 MooseX-Role-Cmd-0.09                    63552
 Digest-EdonR-0.04                       63679
+XML-Toolkit-0.10                        63681
