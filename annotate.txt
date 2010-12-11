@@ -303,3 +303,4 @@ Digest-EdonR-0.04                       63679
 XML-Toolkit-0.10                        63681
 YAPE-Regex-Explain-4.01                 63713
 SQL-Easy-0.01                           63714
+Perl-Critic-1.109                       63815
