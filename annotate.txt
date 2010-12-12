@@ -306,3 +306,5 @@ SQL-Easy-0.01                           63714
 Perl-Critic-1.109                       63815
 Catalyst-Model-Akismet-0.04             54995
 Socialtext-WikiTest-0.07                63827
+Dancer-Plugin-MobileDevice-0.01         63844
+Module-Install-1.00                     63849
