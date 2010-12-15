@@ -311,3 +311,4 @@ Module-Install-1.00                     63849
 Business-OnlinePayment-CardFortress-0.01 63891
 Chat-Envolve-1.0001                     63892
 String-Boolean-0.02                     undeclared dependency on boolean
+Lingua-JA-Kana-0.04                     63929
