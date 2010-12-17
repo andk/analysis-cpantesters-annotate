@@ -310,7 +310,7 @@ Dancer-Plugin-MobileDevice-0.01         63844
 Module-Install-1.00                     63849
 Business-OnlinePayment-CardFortress-0.01 63891
 Chat-Envolve-1.0001                     63892
-String-Boolean-0.02                     undeclared dependency on boolean
+String-Boolean-0.02                     64007
 Lingua-JA-Kana-0.04                     63929
 Regexp-Compare-0.12                     63964
 Dancer-Plugin-Authorize-1.103430        63971
