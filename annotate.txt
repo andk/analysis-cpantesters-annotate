@@ -315,3 +315,4 @@ Lingua-JA-Kana-0.04                     63929
 Regexp-Compare-0.12                     63964
 Dancer-Plugin-Authorize-1.103430        63971
 Attribute-Constant-0.02                 63846
+Devel-Assert-0.02                       64006
