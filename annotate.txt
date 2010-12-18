@@ -319,3 +319,4 @@ Devel-Assert-0.02                       64006
 HTML-ExtractMain-0.62                   only three irrelevant fails with rare HTML::TreeBuilder 4.0
 Package-Alias-0.04                      64020
 Perl6-Perldoc-v0.0.5                    64024
+Devel-BeginLift-0.001003                64033
