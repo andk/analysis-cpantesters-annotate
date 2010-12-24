@@ -328,3 +328,5 @@ POE-Wheel-Sendfile-0.0100               64100
 Math-Pari-2.01080604                    61271
 MooseX-WithCache-0.01002                64188
 DateTime-Calendar-FrenchRevolutionary-0.08 61230
+Text-MicroMason-2.12                    64192
+TryCatch-1.003000                       64200
