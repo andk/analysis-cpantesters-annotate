@@ -333,3 +333,5 @@ TryCatch-1.003000                       64200
 Morpheus-0.36                           64203
 Scope-Upper-0.13                        known to be broken with perl in the range v5.13.7-{15,514}
 Devel-Cover-0.73                        64210
+Data-Verifier-0.38                      64223
+Config-Path-0.08                        64226
