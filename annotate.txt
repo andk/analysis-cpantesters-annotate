@@ -336,3 +336,12 @@ Devel-Cover-0.73                        64210
 Data-Verifier-0.38                      64223
 Config-Path-0.08                        64226
 Vimana-2.22                             64235
+Acme-Archive-Mbox-0.01                  64244
+WWW-Ebay-0.094                          64245
+Scalar-Cycle-Manual-0.03.6              57679
+Collision-2D-0.06.tar.gz                57785
+PICA-Record-0.54                        64249
+SOAP-Lite-0.712                         64250
+File-Filename-1.05                      61462
+DBIx-Class-0.08124                      64251
+Data-ModeMerge-0.25                     61462
