@@ -335,3 +335,4 @@ Scope-Upper-0.13                        known to be broken with perl in the rang
 Devel-Cover-0.73                        64210
 Data-Verifier-0.38                      64223
 Config-Path-0.08                        64226
+Vimana-2.22                             64235
