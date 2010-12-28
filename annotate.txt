@@ -345,3 +345,4 @@ SOAP-Lite-0.712                         64250
 File-Filename-1.05                      61462
 DBIx-Class-0.08124                      64251
 Data-ModeMerge-0.25                     61462
+Catalyst-Plugin-ErrorCatcher-0.0.8.2    64278
