@@ -347,3 +347,6 @@ DBIx-Class-0.08124                      64251
 Data-ModeMerge-0.25                     61462
 Catalyst-Plugin-ErrorCatcher-0.0.8.2    64278
 Scope-Session-0.02                      64292
+Net-Jifty-0.12                          64308
+Rapid7-NeXpose-API-0.01                 64320
+WWW-Ruten-0.02                          64321
