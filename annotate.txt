@@ -352,3 +352,4 @@ Rapid7-NeXpose-API-0.01                 64320
 WWW-Ruten-0.02                          64321
 Text-Textile-Plaintext-0.101            64333
 XML-Parser-Lite-Tree-0.12               64338
+Net-Stitcho-0.03                        64379
