@@ -353,3 +353,6 @@ WWW-Ruten-0.02                          64321
 Text-Textile-Plaintext-0.101            64333
 XML-Parser-Lite-Tree-0.12               64338
 Net-Stitcho-0.03                        64379
+Cog-0.05                                64391
+HTML-Hyphenate-0.05                     bug in irrelevant HTML::TreeBuilder 4.0
+App-StaticImageGallery-0.001            64392
