@@ -366,3 +366,5 @@ Math-BigInt-GMP-1.32                    64566
 NetAddr-MAC-0.7                         64568
 rig-0.01_04                             undeclared dependencies on List::MoreUtils and Moose but no RT queue
 Redis-hiredis-0.9.2.2                   64614
+Geo-Coordinates-Converter-Format-Geohash-0.02 64677
+Catalyst-View-JSON-0.32                 64681
