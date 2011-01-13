@@ -370,3 +370,5 @@ Geo-Coordinates-Converter-Format-Geohash-0.02 64677
 Catalyst-View-JSON-0.32                 64681
 MooseX-Types-Locale-BR-0.01             64703
 HTTP-Session-0.40                       64727
+SQL-Translator-0.11007                  64728
+Catalyst-Runtime-5.80030                64730
