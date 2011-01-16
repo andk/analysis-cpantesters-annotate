@@ -374,3 +374,5 @@ SQL-Translator-0.11007                  64728
 Catalyst-Runtime-5.80030                64730
 Net-Facebook-API-0.07                   64755
 Unicode-LineBreak-1.011                 64818
+Lyrics-Fetcher-LyricWiki-0.09           64823
+Weather-WWO-0.03                        one report arrived truncated, investigating
