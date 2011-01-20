@@ -377,3 +377,4 @@ Unicode-LineBreak-1.011                 64818
 Lyrics-Fetcher-LyricWiki-0.09           64823
 Weather-WWO-0.03                        one report had arrived truncated, fixed 2011-01-16
 Devel-StackTrace-1.26                   64828
+Email-Abstract-3.003                    64946
