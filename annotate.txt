@@ -22,7 +22,6 @@ JS-Chicken-0.02                         43760
 MFor-0.052                              43935
 Util-Properties-0.18                    39175
 B-XSUB-Dumber-0.01                      41451
-SVG-Calendar-0.1.3                      50084
 Data-PackageName-0.01                   50186
 Lingua-EN-AffectiveNorms-0.01           50195
 Lingua-FR-Ladl-v0.0.4                   50200
