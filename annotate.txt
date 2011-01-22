@@ -378,3 +378,6 @@ Weather-WWO-0.03                        one report had arrived truncated, fixed 
 Devel-StackTrace-1.26                   64828
 Email-Abstract-3.003                    64946
 AnyEvent-JSONRPC-Lite-0.13              65014
+Data-Babel-Client-0.01                  65016
+Text-Glob-0.08                          65018
+RDF-KML-Exporter-0.001                  65023
