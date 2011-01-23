@@ -382,3 +382,4 @@ Text-Glob-0.08                          65018
 RDF-KML-Exporter-0.001                  65023
 Data-OpenGraph-0.01                     65024
 Data-Verifier-0.40                      64223
+Device-Dynamixel-0.022                  65028
