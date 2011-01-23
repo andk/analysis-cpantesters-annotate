@@ -288,7 +288,6 @@ DomainOperations-0.02                   63370
 MojoX-Run-0.13                          63371
 Filter-CommaEquals-0.01                 63373
 Net-SMS-MunduSMS-0.02                   63376
-Scope-Upper-0.12                        63378
 Jonk-0.02                               63394
 Log4Perl-ImportHandle-0.02              63404
 Try-Tiny-0.07                           63410
@@ -330,7 +329,6 @@ DateTime-Calendar-FrenchRevolutionary-0.08 61230
 Text-MicroMason-2.12                    64192
 TryCatch-1.003000                       64200
 Morpheus-0.36                           64203
-Scope-Upper-0.13                        known to be broken with perl in the range v5.13.7-{15,514}
 Devel-Cover-0.73                        64210
 Config-Path-0.08                        64226
 Vimana-2.22                             64235
@@ -383,3 +381,15 @@ RDF-KML-Exporter-0.001                  65023
 Data-OpenGraph-0.01                     65024
 Data-Verifier-0.40                      64223
 Device-Dynamixel-0.022                  65028
+Dancer-Plugin-ValidationClass-0.110190  65032
+subs-auto-0.06                          65000
+mod_perl-1.31                           64999
+Sub-Op-0.02                             64998
+Scope-Upper-0.13                        64997, additionally known to be broken with perl in the range v5.13.7-{15,514}
+SWF-0.4.0-beta6_02                      64996
+Package-Stash-XS-0.20                   64995
+Mouse-0.88                              64994
+Embperl-2.4.0                           64990
+Data-Alias-1.11                         64989
+Alias-2.32                              64987
+Method-Cumulative-0.05                  64993
