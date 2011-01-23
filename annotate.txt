@@ -332,7 +332,6 @@ TryCatch-1.003000                       64200
 Morpheus-0.36                           64203
 Scope-Upper-0.13                        known to be broken with perl in the range v5.13.7-{15,514}
 Devel-Cover-0.73                        64210
-Data-Verifier-0.38                      64223
 Config-Path-0.08                        64226
 Vimana-2.22                             64235
 Acme-Archive-Mbox-0.01                  64244
@@ -382,3 +381,4 @@ Data-Babel-Client-0.01                  65016
 Text-Glob-0.08                          65018
 RDF-KML-Exporter-0.001                  65023
 Data-OpenGraph-0.01                     65024
+Data-Verifier-0.40                      64223
