@@ -402,3 +402,5 @@ Log-Dispatch-2.28                       pjacklam set AUTHOR_TESTING
 Module-Manifest-1.08                    pjacklam set AUTHOR_TESTING
 Devel-StackTrace-1.27                   pjacklam set AUTHOR_TESTING
 Text-Balanced-2.02                      pjacklam set AUTHOR_TEST and AUTHOR_TESTS
+PerlIO-via-EscStatus-9                  65141
+Pod-Advent-0.23                         65142
