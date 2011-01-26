@@ -395,3 +395,10 @@ Alias-2.32                              64987
 Method-Cumulative-0.05                  64993
 Data-FormValidator-Constraints-Words-0.04 65123
 Business-OnlinePayment-IPPay-0.05       65138
+Class-Adapter-1.07                      pjacklam set AUTHOR_TESTING
+Method-Signatures-Simple-0.06           pjacklam set AUTHOR_TESTING
+Net-SNMP-v6.0.1                         pjacklam set AUTHOR_TESTING
+Log-Dispatch-2.28                       pjacklam set AUTHOR_TESTING
+Module-Manifest-1.08                    pjacklam set AUTHOR_TESTING
+Devel-StackTrace-1.27                   pjacklam set AUTHOR_TESTING
+Text-Balanced-2.02                      pjacklam set AUTHOR_TEST and AUTHOR_TESTS
