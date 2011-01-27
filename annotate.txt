@@ -404,3 +404,6 @@ Devel-StackTrace-1.27                   pjacklam set AUTHOR_TESTING
 Text-Balanced-2.02                      pjacklam set AUTHOR_TEST and AUTHOR_TESTS
 PerlIO-via-EscStatus-9                  65141
 Pod-Advent-0.23                         65142
+Smart-Args-0.09                         https://github.com/schwern/test-more/issues/issue/128
+DBIx-TransactionManager-1.03            https://github.com/schwern/test-more/issues/issue/129
+Bio-KEGGI-v0.1.2                        65197
