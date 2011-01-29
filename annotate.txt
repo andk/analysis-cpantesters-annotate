@@ -408,3 +408,4 @@ Smart-Args-0.09                         https://github.com/schwern/test-more/iss
 DBIx-TransactionManager-1.03            https://github.com/schwern/test-more/issues/issue/129
 Bio-KEGGI-v0.1.2                        65197
 Data-TxnBuffer-0.05                     https://github.com/schwern/test-more/issues/issue/130
+Devel-StackTrace-WithLexicals-0.08      65238
