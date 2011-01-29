@@ -409,3 +409,4 @@ DBIx-TransactionManager-1.03            https://github.com/schwern/test-more/iss
 Bio-KEGGI-v0.1.2                        65197
 Data-TxnBuffer-0.05                     https://github.com/schwern/test-more/issues/issue/130
 Devel-StackTrace-WithLexicals-0.08      65238
+Feersum-1.000                           65239
