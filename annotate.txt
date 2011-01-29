@@ -372,7 +372,6 @@ Net-Facebook-API-0.07                   64755
 Unicode-LineBreak-1.011                 64818
 Lyrics-Fetcher-LyricWiki-0.09           64823
 Weather-WWO-0.03                        one report had arrived truncated, fixed 2011-01-16
-Devel-StackTrace-1.26                   64828
 Email-Abstract-3.003                    64946
 AnyEvent-JSONRPC-Lite-0.13              65014
 Data-Babel-Client-0.01                  65016
@@ -410,3 +409,4 @@ Bio-KEGGI-v0.1.2                        65197
 Data-TxnBuffer-0.05                     https://github.com/schwern/test-more/issues/issue/130
 Devel-StackTrace-WithLexicals-0.08      65238
 Feersum-1.000                           65239
+Template-Parser-CET-0.05                65241
