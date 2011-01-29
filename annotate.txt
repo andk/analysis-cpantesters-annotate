@@ -385,7 +385,7 @@ Dancer-Plugin-ValidationClass-0.110190  65032
 subs-auto-0.06                          65000
 mod_perl-1.31                           64999
 Sub-Op-0.02                             64998
-Scope-Upper-0.13                        64997, additionally known to be broken with perl in the range v5.13.7-{15,514}
+Scope-Upper-0.13                        64997; additionally known to be broken with perl in the range v5.13.7-{15,514}
 SWF-0.4.0-beta6_02                      64996
 Package-Stash-XS-0.20                   64995
 Mouse-0.88                              64994
@@ -407,3 +407,4 @@ Pod-Advent-0.23                         65142
 Smart-Args-0.09                         https://github.com/schwern/test-more/issues/issue/128
 DBIx-TransactionManager-1.03            https://github.com/schwern/test-more/issues/issue/129
 Bio-KEGGI-v0.1.2                        65197
+Data-TxnBuffer-0.05                     https://github.com/schwern/test-more/issues/issue/130
