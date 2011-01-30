@@ -410,3 +410,7 @@ Data-TxnBuffer-0.05                     https://github.com/schwern/test-more/iss
 Devel-StackTrace-WithLexicals-0.08      65238
 Feersum-1.000                           65239
 Template-Parser-CET-0.05                65241
+Test-Able-0.10                          https://github.com/schwern/test-more/issues#issue/134
+POE-1.294_272                           https://github.com/schwern/test-more/issues#issue/131
+autouse-1.06                            https://github.com/schwern/test-more/issues#issue/133
+Net-Squid-Auth-Plugin-SimpleLDAP-v0.1.82 https://github.com/schwern/test-more/issues#issue/132
