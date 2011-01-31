@@ -414,3 +414,4 @@ Test-Able-0.10                          https://github.com/schwern/test-more/iss
 POE-1.294_272                           https://github.com/schwern/test-more/issues#issue/131
 autouse-1.06                            https://github.com/schwern/test-more/issues#issue/133
 Net-Squid-Auth-Plugin-SimpleLDAP-v0.1.82 https://github.com/schwern/test-more/issues#issue/132
+YAML-Tiny-1.46                          65270
