@@ -416,3 +416,4 @@ autouse-1.06                            https://github.com/schwern/test-more/iss
 Net-Squid-Auth-Plugin-SimpleLDAP-v0.1.82 https://github.com/schwern/test-more/issues#issue/132
 YAML-Tiny-1.46                          65270
 DBIx-PasswordIniFile-2.00               65320,65321
+Perl-Critic-1.112_001                   65322
