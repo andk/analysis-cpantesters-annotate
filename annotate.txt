@@ -420,3 +420,4 @@ Perl-Critic-1.112_001                   65322
 String-Errf-0.006                       https://github.com/schwern/test-more/issues/issue/136
 Test-WWW-Mechanize-JSON-0.4             65432
 Parse-ACNS-0.01                         65434
+HTML-Transmorgify-0.04                  65459
