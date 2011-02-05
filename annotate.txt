@@ -300,3 +300,4 @@ Test-WWW-Mechanize-JSON-0.4             65432
 Parse-ACNS-0.01                         65434
 HTML-Transmorgify-0.04                  65459
 Test-DeepFile-0.001                     65468
+Net-Async-XMPP-0.001                    65473
