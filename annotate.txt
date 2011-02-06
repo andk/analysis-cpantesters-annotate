@@ -258,7 +258,6 @@ RDF-KML-Exporter-0.001                  65023
 Data-OpenGraph-0.01                     65024
 Data-Verifier-0.40                      64223
 Device-Dynamixel-0.022                  65028
-Dancer-Plugin-ValidationClass-0.110190  65032
 subs-auto-0.06                          65000
 mod_perl-1.31                           64999
 Sub-Op-0.02                             64998
@@ -304,3 +303,4 @@ Net-Async-XMPP-0.001                    65473
 WebService-NiigataUnyu-v0.0.2           65474
 DBD-SQLAnywhere-2.07                    65480
 MIME-tools-5.500                        64659
+Dancer-Plugin-ValidationClass-0.110280  65032
