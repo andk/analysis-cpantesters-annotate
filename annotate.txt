@@ -304,3 +304,4 @@ WebService-NiigataUnyu-v0.0.2           65474
 DBD-SQLAnywhere-2.07                    65480
 MIME-tools-5.500                        64659
 Dancer-Plugin-ValidationClass-0.110280  65032
+Net-Daemon-0.43                         65550
