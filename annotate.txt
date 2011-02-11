@@ -229,48 +229,26 @@ XML-Parser-Lite-Tree-0.12               64338
 Net-Stitcho-0.03                        64379
 Cog-0.05                                64391
 HTML-Hyphenate-0.05                     bug in irrelevant HTML::TreeBuilder 4.0
-App-StaticImageGallery-0.001            64392
 Google-Spreadsheet-Agent-0.02           64393
-Geo-Address-Mail-0.02                   64400
 Flame-Palette-0.02                      64425
-Weather-Underground-Forecast-0.03       64442
 Tk-804.029                              64475
 AnyEvent-MongoDB-0.103620_001           undeclared dependency on aliased but no RT queue
-Math-BigInt-GMP-1.32                    64566
-NetAddr-MAC-0.7                         64568
 rig-0.01_04                             undeclared dependencies on List::MoreUtils and Moose but no RT queue
-Redis-hiredis-0.9.2.2                   64614
-Geo-Coordinates-Converter-Format-Geohash-0.02 64677
 Catalyst-View-JSON-0.32                 64681
 MooseX-Types-Locale-BR-0.01             64703
-HTTP-Session-0.40                       64727
 SQL-Translator-0.11007                  64728
-Catalyst-Runtime-5.80030                64730
 Net-Facebook-API-0.07                   64755
-Unicode-LineBreak-1.011                 64818
-Lyrics-Fetcher-LyricWiki-0.09           64823
 Weather-WWO-0.03                        one report had arrived truncated, fixed 2011-01-16
 Email-Abstract-3.003                    64946
 AnyEvent-JSONRPC-Lite-0.13              65014
-Data-Babel-Client-0.01                  65016
 Text-Glob-0.08                          65018
 RDF-KML-Exporter-0.001                  65023
 Data-OpenGraph-0.01                     65024
-Data-Verifier-0.40                      64223
-Device-Dynamixel-0.022                  65028
-subs-auto-0.06                          65000
 mod_perl-1.31                           64999
 Sub-Op-0.02                             64998
 Scope-Upper-0.13                        64997; additionally known to be broken with perl in the range v5.13.7-{15,514}
-SWF-0.4.0-beta6_02                      64996
-Package-Stash-XS-0.20                   64995
-Mouse-0.88                              64994
-Embperl-2.4.0                           64990
-Data-Alias-1.11                         64989
-Alias-2.32                              64987
 Method-Cumulative-0.05                  64993
 Data-FormValidator-Constraints-Words-0.04 65123
-Business-OnlinePayment-IPPay-0.05       65138
 Class-Adapter-1.07                      pjacklam set AUTHOR_TESTING
 Method-Signatures-Simple-0.06           pjacklam set AUTHOR_TESTING
 Net-SNMP-v6.0.1                         pjacklam set AUTHOR_TESTING
@@ -278,30 +256,20 @@ Log-Dispatch-2.28                       pjacklam set AUTHOR_TESTING
 Module-Manifest-1.08                    pjacklam set AUTHOR_TESTING
 Devel-StackTrace-1.27                   pjacklam set AUTHOR_TESTING
 Text-Balanced-2.02                      pjacklam set AUTHOR_TEST and AUTHOR_TESTS
-PerlIO-via-EscStatus-9                  65141
 Pod-Advent-0.23                         65142
 Smart-Args-0.09                         https://github.com/schwern/test-more/issues/issue/128
-DBIx-TransactionManager-1.03            https://github.com/schwern/test-more/issues/issue/129
 Bio-KEGGI-v0.1.2                        65197
 Data-TxnBuffer-0.05                     https://github.com/schwern/test-more/issues/issue/130
 Devel-StackTrace-WithLexicals-0.08      65238
-Feersum-1.000                           65239
 Template-Parser-CET-0.05                65241
 Test-Able-0.10                          https://github.com/schwern/test-more/issues#issue/134
-POE-1.294_272                           https://github.com/schwern/test-more/issues#issue/131
 autouse-1.06                            https://github.com/schwern/test-more/issues#issue/133
 Net-Squid-Auth-Plugin-SimpleLDAP-v0.1.82 https://github.com/schwern/test-more/issues#issue/132
-YAML-Tiny-1.46                          65270
 DBIx-PasswordIniFile-2.00               65320,65321
-Perl-Critic-1.112_001                   65322
 String-Errf-0.006                       https://github.com/schwern/test-more/issues/issue/136
 Test-WWW-Mechanize-JSON-0.4             65432
-Parse-ACNS-0.01                         65434
 HTML-Transmorgify-0.04                  65459
-Test-DeepFile-0.001                     65468
-Net-Async-XMPP-0.001                    65473
 WebService-NiigataUnyu-v0.0.2           65474
-DBD-SQLAnywhere-2.07                    65480
 MIME-tools-5.500                        64659
 Dancer-Plugin-ValidationClass-0.110280  65032
 Net-Daemon-0.43                         65550
