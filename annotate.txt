@@ -278,4 +278,4 @@ AnyEvent-Subprocess-1.102910            65613
 B-C-1.29                                65628
 jsonpretty-1                            65638
 AnyEvent-HTTPD-0.91                     65639
-Lexical-Var-0.004                       RTed at perl.org
+Lexical-Var-0.004                       http://rt.perl.org/rt3/Ticket/Display.html?id=83920
