@@ -281,3 +281,4 @@ AnyEvent-HTTPD-0.91                     65639
 Lexical-Var-0.004                       65667
 App-Termcast-0.09                       65666
 App-SD-0.74                             65668
+DBIx-Skinny-ProxyTable-0.09             65669
