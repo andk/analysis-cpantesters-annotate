@@ -284,3 +284,4 @@ App-SD-0.74                             65668
 DBIx-Skinny-ProxyTable-0.09             65669
 Benchmark-Timer-0.7102                  65673
 Filter-Arguments-0.14                   65675
+Data-Rand-Obscure-0.021                 65676
