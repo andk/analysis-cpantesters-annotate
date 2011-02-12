@@ -282,3 +282,5 @@ Lexical-Var-0.004                       65667
 App-Termcast-0.09                       65666
 App-SD-0.74                             65668
 DBIx-Skinny-ProxyTable-0.09             65669
+Benchmark-Timer-0.7102                  65673
+Filter-Arguments-0.14                   65675
