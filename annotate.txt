@@ -289,3 +289,4 @@ IO-Async-Loop-POE-0.03                  65706
 Finance-TW-TAIFEX-0.33                  65792
 Data-Show-0.001_003                     65886
 Project-Libs-0.01                       65910
+MooseX-ComposedBehavior-0.003           65911
