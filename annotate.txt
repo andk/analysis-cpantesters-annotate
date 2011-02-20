@@ -293,3 +293,5 @@ MooseX-ComposedBehavior-0.003           65911
 Plack-Middleware-Auth-Digest-0.04       65912
 Crypt-OpenSSL-RSA-0.26                  65947
 Catalyst-TraitFor-Component-ConfigPerSite-0.03 65949
+DBIx-Class-Result-ColumnData-0.06       65956
+DBIx-Class-Result-Validation-0.04       65957
