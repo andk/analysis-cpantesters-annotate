@@ -295,3 +295,7 @@ Crypt-OpenSSL-RSA-0.26                  65947
 Catalyst-TraitFor-Component-ConfigPerSite-0.03 65949
 DBIx-Class-Result-ColumnData-0.06       65956
 DBIx-Class-Result-Validation-0.04       65957
+MySQL-Easy-PYH-0.01                     65958
+DBIx-Class-ResultSet-RecursiveUpdate-0.22 65959
+Dancer-Plugin-REST-0.04                 65962
+Graph-Chart-0.63                        65964
