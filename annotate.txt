@@ -300,3 +300,4 @@ DBIx-Class-ResultSet-RecursiveUpdate-0.22 65959
 Dancer-Plugin-REST-0.04                 65962
 Graph-Chart-0.63                        65964
 Math-BigInt-GMP-1.35                    65980
+DBIx-SimpleQuery-0.04                   65983
