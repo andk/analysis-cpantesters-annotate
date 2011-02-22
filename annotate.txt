@@ -302,3 +302,4 @@ Graph-Chart-0.63                        65964
 Math-BigInt-GMP-1.35                    65980
 DBIx-SimpleQuery-0.04                   65983
 KiokuDB-Backend-CouchDB-0.10            66022
+Devel-TraceUse-2.03                     66027
