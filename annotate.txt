@@ -304,3 +304,4 @@ DBIx-SimpleQuery-0.04                   65983
 KiokuDB-Backend-CouchDB-0.10            66022
 Devel-TraceUse-2.03                     66027
 AnyMongo-0.03                           66148
+Dao-Map-Helper-0.04                     66161
