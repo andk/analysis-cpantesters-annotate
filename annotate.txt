@@ -306,3 +306,4 @@ Devel-TraceUse-2.03                     66027
 AnyMongo-0.03                           66148
 Dao-Map-Helper-0.04                     66161
 Class-MethodMaker-2.16                  66196
+Project-Easy-0.26                       66218
