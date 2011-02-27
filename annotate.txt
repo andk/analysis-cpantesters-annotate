@@ -308,3 +308,4 @@ Dao-Map-Helper-0.04                     66161
 Class-MethodMaker-2.16                  66196
 Project-Easy-0.26                       66218
 MIME-tools-5.501                        fails if AUTHOR_TESTING is on and test-pod-coverage is installed
+Dancer-Plugin-ProxyPath-0.01            66222
