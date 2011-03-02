@@ -310,3 +310,6 @@ Project-Easy-0.26                       66218
 MIME-tools-5.501                        fails if AUTHOR_TESTING is on and test-pod-coverage is installed
 Dancer-Plugin-ProxyPath-0.01            66222
 App-I18N-0.033                          66314
+Contextual-Return-0.003001              66315
+Sub-Spec-0.06                           66317
+InterMine-Model-0.9604                  66318
