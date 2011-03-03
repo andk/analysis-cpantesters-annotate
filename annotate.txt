@@ -313,3 +313,5 @@ App-I18N-0.033                          66314
 Contextual-Return-0.003001              66315
 Sub-Spec-0.06                           66317
 InterMine-Model-0.9604                  66318
+MongoDBx-AutoDeref-1.110560             66343
+Dancer-1.3012                           66342
