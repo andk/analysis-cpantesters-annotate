@@ -315,3 +315,4 @@ Sub-Spec-0.06                           66317
 InterMine-Model-0.9604                  66318
 MongoDBx-AutoDeref-1.110560             66343
 Dancer-1.3012                           66342
+Mojolicious-Plugin-Cache-0.0013         66370
