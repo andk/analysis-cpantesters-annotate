@@ -317,3 +317,4 @@ MongoDBx-AutoDeref-1.110560             66343
 Dancer-1.3012                           66342
 Mojolicious-Plugin-Cache-0.0013         66370
 Acme-CPANAuthors-0.14                   66394
+AnyEvent-OWNet-1.110430                 66402
