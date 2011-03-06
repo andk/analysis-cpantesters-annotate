@@ -272,7 +272,6 @@ HTML-Transmorgify-0.04                  65459
 WebService-NiigataUnyu-v0.0.2           65474
 MIME-tools-5.500                        64659
 Dancer-Plugin-ValidationClass-0.110280  65032
-Net-Daemon-0.43                         65550
 Test-Mini-v1.1.1                        65610
 AnyEvent-Subprocess-1.102910            65613
 B-C-1.29                                65628
@@ -318,3 +317,5 @@ Dancer-1.3012                           66342
 Mojolicious-Plugin-Cache-0.0013         66370
 Acme-CPANAuthors-0.14                   66394
 AnyEvent-OWNet-1.110430                 66402
+Net-Daemon-0.47                         65550
+Tapper-Remote-3.000001                  66409
