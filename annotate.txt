@@ -292,7 +292,6 @@ MooseX-ComposedBehavior-0.003           65911
 Plack-Middleware-Auth-Digest-0.04       65912
 Crypt-OpenSSL-RSA-0.26                  65947
 Catalyst-TraitFor-Component-ConfigPerSite-0.03 65949
-DBIx-Class-Result-ColumnData-0.06       65956
 DBIx-Class-Result-Validation-0.04       65957
 MySQL-Easy-PYH-0.01                     65958
 DBIx-Class-ResultSet-RecursiveUpdate-0.22 65959
@@ -320,3 +319,4 @@ AnyEvent-OWNet-1.110430                 66402
 Net-Daemon-0.47                         65550
 Tapper-Remote-3.000001                  66409
 WWW-3Taps-API-0.01                      66410
+DBIx-Class-Result-ColumnData-0.07       65956
