@@ -320,3 +320,4 @@ Net-Daemon-0.47                         65550
 Tapper-Remote-3.000001                  66409
 WWW-3Taps-API-0.01                      66410
 DBIx-Class-Result-ColumnData-0.07       65956
+R-YapRI-0.03                            66484
