@@ -325,3 +325,4 @@ Algorithm-FloodControl-2.000000         66562
 CGI-FormBuilder-3.0501                  66563
 Image-PNG-Rewriter-0.8                  66575
 JavaScript-Framework-jQuery-0.07        66586
+Catalyst-View-SVGTTGraph-0.02           66587
