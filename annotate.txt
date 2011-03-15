@@ -160,7 +160,6 @@ AnyEvent-JSONRPC-0.15                   62598
 Net-ManageSieve-0.10                    62606
 Data-PrefixMerge-0.12                   62653
 Getopt-LL-1.0.0                         62713
-Treex-PML-2.05                          62715
 HTTP-Parser-XS-0.11                     62716
 DateTime-Format-CLDR-1.12               62717
 JSON-Path-0.100                         62730
@@ -326,3 +325,5 @@ CGI-FormBuilder-3.0501                  66563
 Image-PNG-Rewriter-0.8                  66575
 JavaScript-Framework-jQuery-0.07        66586
 Catalyst-View-SVGTTGraph-0.02           66587
+Sub-Spec-0.08                           66616
+Treex-PML-2.06                          62715
