@@ -328,3 +328,4 @@ Catalyst-View-SVGTTGraph-0.02           66587
 Sub-Spec-0.08                           66616
 Treex-PML-2.06                          62715
 Parse-PhoneNumber-ID-0.02               66617
+Mediawiki-Blame-0.0.3                   66679
