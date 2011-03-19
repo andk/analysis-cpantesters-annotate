@@ -329,3 +329,5 @@ Sub-Spec-0.08                           66616
 Treex-PML-2.06                          62715
 Parse-PhoneNumber-ID-0.02               66617
 Mediawiki-Blame-0.0.3                   66679
+MooseX-ExtJS-Reflection-0.01            has been deleted from CPAN
+GDS2-3.00                               66729
