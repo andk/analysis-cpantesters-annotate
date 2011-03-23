@@ -333,3 +333,5 @@ MooseX-ExtJS-Reflection-0.01            has been deleted from CPAN
 GDS2-3.00                               66729
 Geo-Coder-Many-0.23                     66731
 Math-Complex_C-0.03                     66735
+WebService-Blekko-1.00_07               undeclared dependency on List::MoreUtils but no RT queue
+PITA-XML-0.50                           66799
