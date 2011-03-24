@@ -337,3 +337,5 @@ WebService-Blekko-1.00_07               undeclared dependency on List::MoreUtils
 PITA-XML-0.50                           66799
 Tapper-Testplan-3.000004                66800
 InterMine-Model-0.9607                  66801
+Catalyst-Plugin-Navigation-1.001        66834
+MouseX-Foreign-0.003                    66836
