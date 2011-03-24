@@ -341,3 +341,4 @@ Catalyst-Plugin-Navigation-1.001        66834
 MouseX-Foreign-0.003                    66836
 Test-Wrapper-0.2.1                      66837
 AnyEvent-Twitter-0.52                   66839
+Math-GSL-0.23                           66882
