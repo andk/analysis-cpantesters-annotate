@@ -342,3 +342,5 @@ Math-GSL-0.23                           66882
 Class-MethodMaker-2.17                  66196
 Plack-Middleware-SocketIO-0.00900       66906
 Chess-FIDE-1.10                         66972
+Encode-First-0.01                       66976
+Lingua-LO-Romanize-0.08                 66952
