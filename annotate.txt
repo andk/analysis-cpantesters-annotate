@@ -346,3 +346,4 @@ Encode-First-0.01                       66976
 Lingua-LO-Romanize-0.08                 66952
 Tie-Scalar-Random-0.02                  66951
 DataFlow-0.950000                       current version is > 1
+Term-Animation-2.5                      67023
