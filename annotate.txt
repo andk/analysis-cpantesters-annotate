@@ -350,3 +350,4 @@ Term-Animation-2.5                      67023
 Padre-Plugin-RunPerlExternal-0.52       67171
 Math-Polynom-0.13                       67229
 Finance-GeniusTrader-0.00_50            undeclared dependency on Data::Calc but no RT queue
+Dist-Zooky-0.06                         67390
