@@ -339,7 +339,7 @@ MouseX-Foreign-0.003                    66836
 Test-Wrapper-0.2.1                      66837
 AnyEvent-Twitter-0.52                   66839
 Math-GSL-0.23                           66882
-Class-MethodMaker-2.17                  66196
+Class-MethodMaker-2.18                  59189
 Plack-Middleware-SocketIO-0.00900       66906
 Chess-FIDE-1.10                         66972
 Encode-First-0.01                       66976
@@ -353,3 +353,5 @@ Finance-GeniusTrader-0.00_50            undeclared dependency on Data::Calc but 
 Dist-Zooky-0.06                         67390
 overload-eval-0.09                      67194,62904
 RDF-Trine-0.134                         67502
+Dancer-Plugin-Feed-0.1                  67537
+Frost-0.70                              67547
