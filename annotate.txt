@@ -355,3 +355,4 @@ overload-eval-0.09                      67194,62904
 RDF-Trine-0.134                         67502
 Dancer-Plugin-Feed-0.1                  67537
 Frost-0.70                              67547
+HTTP-WebTest-2.04                       66940
