@@ -357,3 +357,5 @@ Dancer-Plugin-Feed-0.1                  67537
 Frost-0.70                              67547
 HTTP-WebTest-2.04                       66940
 Hailo                                   67548
+KiokuDB-0.51                            67267
+Catalyst-Controller-HTML-FormFu-0.09000 67571
