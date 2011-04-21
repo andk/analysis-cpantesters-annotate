@@ -360,3 +360,4 @@ Hailo                                   67548
 KiokuDB-0.51                            67267
 Catalyst-Controller-HTML-FormFu-0.09000 67571
 ORDB-CPANMeta-Generator-0.11            67599
+Doorman-0.06                            67651
