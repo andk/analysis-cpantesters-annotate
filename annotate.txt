@@ -364,3 +364,4 @@ Doorman-0.06                            67651
 Gzip-BinarySearch-0.9                   67652
 AnyEvent-Inotify-Simple-0.02            67725
 HTTP-Proxy-0.24                         56259
+Test-Builder-Clutch-0.02                67828
