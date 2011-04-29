@@ -363,3 +363,4 @@ ORDB-CPANMeta-Generator-0.11            67599
 Doorman-0.06                            67651
 Gzip-BinarySearch-0.9                   67652
 AnyEvent-Inotify-Simple-0.02            67725
+HTTP-Proxy-0.24                         56259
