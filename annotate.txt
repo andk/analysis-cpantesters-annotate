@@ -368,3 +368,4 @@ Test-Builder-Clutch-0.02                67828
 Acme-Base64-0.03                        fixed in perl 5.14
 DynGig-Multiplex-0.01                   68257
 DynGig-RCE-0.01                         68307
+Mojolicious-Plugin-Bundle-0.004         68368
