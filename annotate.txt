@@ -370,3 +370,4 @@ DynGig-Multiplex-0.01                   68257
 DynGig-RCE-0.01                         68307
 Mojolicious-Plugin-Bundle-0.004         68368
 helm-0.3                                68519
+Math-MatrixDecomposition-1.01           68556
