@@ -373,3 +373,4 @@ helm-0.3                                68519
 Math-MatrixDecomposition-1.01           68556
 String-FilenameStatic-0.02              68558
 Arff-Util-1.22                          68561
+Spreadsheet-ExcelHashTable-0.02         68584
