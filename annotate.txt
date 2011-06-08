@@ -375,3 +375,4 @@ Arff-Util-1.22                          68561
 Spreadsheet-ExcelHashTable-0.02         68584
 Treex-PML-2.07                          62715
 HTML-Template-Parser-0.1002             68622
+Bio-Tools-Primer3Redux-0.05             68695
