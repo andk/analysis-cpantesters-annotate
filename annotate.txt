@@ -378,3 +378,4 @@ HTML-Template-Parser-0.1002             68622
 Bio-Tools-Primer3Redux-0.05             68695
 Lite-8                                  now known as WWW-Scraper-Lite
 POE-Component-Server-REST-1.02          68728
+WWW-NicoSound-Download-1.12             69012
