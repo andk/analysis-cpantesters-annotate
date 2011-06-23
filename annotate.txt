@@ -380,3 +380,4 @@ Lite-8                                  now known as WWW-Scraper-Lite
 POE-Component-Server-REST-1.02          68728
 WWW-NicoSound-Download-1.12             69012
 Geometry-Formula-0.02                   69043
+POE-SAPI-LocalAuth-0.02                 69046
