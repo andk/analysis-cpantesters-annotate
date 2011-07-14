@@ -385,3 +385,4 @@ App-Slackeria-0.1                       69247
 MojoX-Session-0.23                      69379
 Data-YUID-0.06                          68215
 YAWF-0.01                               69395
+Perlude-0.42                            69458
