@@ -389,3 +389,4 @@ Perlude-0.42                            69458
 MooseX-Attribute-ValidateWithException-0.1.1 69461
 Catalyst-View-RDF-0.01                  69462
 WWW-GoodData-1.1                        69490
+Math-BigInt-GMP-1.36                    68989
