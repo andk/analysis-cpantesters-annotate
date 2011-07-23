@@ -397,3 +397,4 @@ Template-Mustache-v0.5.1                69709
 Sub-Args-0.08                           69710
 Dancer-Plugin-FormattedOutput-0.01      69711
 Perlanet-0.54                           63183
+Sub-Spec-RunDeps-0.03                   removed from cpan
