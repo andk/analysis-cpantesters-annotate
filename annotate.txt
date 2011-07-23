@@ -392,3 +392,4 @@ WWW-GoodData-1.1                        69490
 Math-BigInt-GMP-1.36                    68989
 App-TemplateCMD-v0.1.0                  69700
 Dist-Zilla-Plugin-Git-1.111590          69701
+IPC-Mmap-0.21                           39962
