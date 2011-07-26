@@ -401,3 +401,4 @@ Sub-Spec-RunDeps-0.03                   removed from cpan
 IhasQuery-0.022                         69716
 PNI-0.15                                69733
 Regexp-Grammars-1.013                   69404
+CDP-0.031                               69805
