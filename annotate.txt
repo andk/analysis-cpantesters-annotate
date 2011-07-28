@@ -166,7 +166,6 @@ JSON-Path-0.100                         62730
 Icon-FamFamFam-Silk-0.001.001.003       62729
 HTTP-Link-Parser-0.100                  62728
 HTML-HTML5-Microdata-Parser-0.031       62726
-Finance-Bitcoin-0.001                   62724
 POSIX-strptime-0.10                     62734
 RDF-Crypt-0.001                         62735
 RDF-Prefixes-0.001                      62736
@@ -404,3 +403,4 @@ Regexp-Grammars-1.013                   69404
 CDP-0.031                               69805
 App-envfile-0.03                        69806
 Parse-Perl-0.005                        69857
+Finance-Bitcoin-0.002                   68329
