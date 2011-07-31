@@ -404,3 +404,4 @@ CDP-0.031                               69805
 App-envfile-0.03                        69806
 Parse-Perl-0.005                        69857
 Finance-Bitcoin-0.002                   68329
+File-Find-Rule-Perl-1.10                67101
