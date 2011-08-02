@@ -405,3 +405,4 @@ App-envfile-0.03                        69806
 Parse-Perl-0.005                        69857
 Finance-Bitcoin-0.002                   68329
 File-Find-Rule-Perl-1.10                67101
+Devel-DProf-20110228.00                 69954
