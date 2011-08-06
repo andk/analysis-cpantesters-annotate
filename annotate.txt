@@ -409,3 +409,5 @@ Devel-DProf-20110228.00                 69954
 HTML-Feature-3.00011                    53122
 Template-Nes-Inject-0.00_1              has no RT queue (being dev release)
 Log-Log4perl-Layout-GELF-0.02           69977
+Travel-UK-London-Tube-0.02              70093
+Graph-Easy-0.70                         70101
