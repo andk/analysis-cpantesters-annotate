@@ -413,3 +413,4 @@ Travel-UK-London-Tube-0.02              70093
 Graph-Easy-0.70                         70101
 Apache-SiteConfig-0.03                  70206
 Mouse-0.93                              70518
+Yahoo-Search-1.11.3                     70630
