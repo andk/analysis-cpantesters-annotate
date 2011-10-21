@@ -423,3 +423,4 @@ Sub-Spec-Wrapper-0.03                   71749
 HTML-HTML5-Outline-0.005                71785
 Filesys-Notify-KQueue-0.03              71788
 Plack-Middleware-QRCode-0.01            71802
+Test-Pod-Content-0.0.5                  71827
