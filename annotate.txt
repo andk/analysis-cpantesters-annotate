@@ -100,9 +100,7 @@ DBIx-Thin-0.05                          deleted from CPAN
 Graphics-ColorNames-2.11                there were wrong reports submitted
 API-ISPManager-0.07                     53750
 RPC-Lite-0.20                           53941
-CSS-1.08                                53948
 Maypole-Config-YAML-0.1                 53999
-Devel-PartialDump-0.13                  broken Test::Harness test
 Plack-Request-0.09                      50982
 Catalyst-View-Mason-0.18                Calculations may be wrong due to broken NNTP upstream
 File-Find-Flex-0.60                     has been deleted from CPAN
@@ -115,7 +113,6 @@ Text-TypingEffort-0.25                  55325
 List-Rubyish-0.03                       55524
 SimpleXlsx-0.0.1                        55546
 Aspect-Loader-0.03                      60262
-Perl-Critic-Bangs-1.06                  59880
 any-feature-1.100840                    60265
 Geo-ECEF-1.10                           60329
 Business-OnlinePayment-SynapseGateway-0.01 60332
@@ -223,7 +220,6 @@ Data-ModeMerge-0.25                     61462
 Scope-Session-0.02                      64292
 WWW-Ruten-0.02                          64321
 Text-Textile-Plaintext-0.101            64333
-XML-Parser-Lite-Tree-0.12               64338
 Net-Stitcho-0.03                        64379
 Cog-0.05                                64391
 HTML-Hyphenate-0.05                     bug in irrelevant HTML::TreeBuilder 4.0
@@ -307,7 +303,6 @@ Contextual-Return-0.003001              66315
 Sub-Spec-0.06                           66317
 InterMine-Model-0.9604                  66318
 MongoDBx-AutoDeref-1.110560             66343
-Dancer-1.3012                           66342
 Mojolicious-Plugin-Cache-0.0013         66370
 Acme-CPANAuthors-0.14                   66394
 AnyEvent-OWNet-1.110430                 66402
