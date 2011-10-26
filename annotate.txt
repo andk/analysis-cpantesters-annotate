@@ -403,3 +403,5 @@ Filesys-Notify-KQueue-0.03              71788
 Plack-Middleware-QRCode-0.01            71802
 Test-Pod-Content-0.0.5                  71827
 Form-Factory-0.020                      71854
+RTSP-Server-0.05                        71941
+Pegex-0.18                              71942
