@@ -408,3 +408,5 @@ Pegex-0.18                              71942
 Fennec-Assert-Wrapper-Differences-0.03  removed from CPAN
 WWW-Yahoo-Smushit-0.03                  72028
 WWW-3172-Crawler-WebInterface-0.001     72029
+Module-Install-RDF-0.002                72030
+Tie-CHI-0.01                            72031
