@@ -405,3 +405,6 @@ Test-Pod-Content-0.0.5                  71827
 Form-Factory-0.020                      71854
 RTSP-Server-0.05                        71941
 Pegex-0.18                              71942
+Fennec-Assert-Wrapper-Differences-0.03  removed from CPAN
+WWW-Yahoo-Smushit-0.03                  72028
+WWW-3172-Crawler-WebInterface-0.001     72029
