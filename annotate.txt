@@ -429,3 +429,4 @@ Rinchi-XMLSchema-0.02                   69276
 Memoize-Expire-ByInstance-0.500001      66988
 Debug-Client-0.12                       active development in 0.13_*
 Perl6-Perldoc-v0.0.5                    fixed in 0.000007
+Apache-LogRegex-1.5                     66947
