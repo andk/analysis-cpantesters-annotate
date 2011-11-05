@@ -425,3 +425,5 @@ Class-Sniff-0.09                        72158
 Alias-2.32                              64987
 Test-HTML-Content-0.08                  70099
 App-Context-0.968                       72129
+Acme-Perl-VM-0.006                      66999
+Rinchi-XMLSchema-0.02                   69276
