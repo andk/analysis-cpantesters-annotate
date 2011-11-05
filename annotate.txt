@@ -420,3 +420,5 @@ String-FriendlyID-0.019                 72161
 Bit-Vector-7.1                          71052
 Acme-EyeDrops-1.55                      72163
 Sub-Mutate-0.003                        works again with v5.15.4-128-g18e3e9c
+Perl6-Perldoc-v0.0.5                    fixed in 0.000_006
+Class-Sniff-0.09                        72158
