@@ -427,9 +427,10 @@ App-Context-0.968                       72129
 Acme-Perl-VM-0.006                      66999
 Rinchi-XMLSchema-0.02                   69276
 Memoize-Expire-ByInstance-0.500001      66988
-Debug-Client-0.12                       active development in 0.13_*
+Debug-Client-0.12                       active development in 0.13_* (BOWTIE)
 Perl6-Perldoc-v0.0.5                    fixed in 0.000007
 Apache-LogRegex-1.5                     66947
 Want-0.18                               72083
 WebService-Solr-0.16                    maybe related to 72043?
 ORMesque-1.110422                       72202
+KinoSearch-0.313                        72220
