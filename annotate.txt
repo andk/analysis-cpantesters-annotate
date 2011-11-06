@@ -41,25 +41,18 @@ TRD-Watch-Web-0.0.4                     51220
 SeeAlso-Server-0.57                     51520
 AnyEvent-Gmail-Feed-0.02                51521
 Net-Server-Framework-1.2                51524
-Gtk2-Ex-Email-AttachmentVBox-0.0.0      51565
-Find-Lib-1.01                           51808
 SparkX-Form-BasicValidators-0.01        52011
-Data-PrefixMerge-0.12                   52157; changed name to Data-ModeMerge
-Mail-IMAPTalk-SortHelper-0.0.0          52167
 Crypt-SKey-0.10                         41015
-Crypt-MatrixSSL-1.86.0                  28698
 HTML-Template-Associate-2.00            52300
 Data-Transform-Zlib-0.01                52341
 Perl-Metrics2-0.06                      52347
 AnyEvent-Postfix-Logs-0.01              52415
 IO-Socket-Multicast6-0.03               52497
 Color-Mix-0.02                          52631
-DBIx-Encoding-0.05                      52663
 Parse-FixedRecord-0.02                  52701
 like-0.02                               52892
 TimeDate-1.20                           FAILs from a broken smoker
 Error-0.17016                           bogus FAIL reports
-Catalyst-Plugin-OrderedParams-0.06      52922
 Acme-MUDLike-0.02                       52923
 Catalyst-Controller-Rose-0.05           52964
 List-Step-0.20                          52621
@@ -69,14 +62,12 @@ Regexp-Box-0.02                         53019
 Test-TempDir-0.05                       randir set AUTHOR_TESTING
 WebService-Eulerian-Analytics-0.8       50606
 Data-Decode-0.00007_01                  53121
-Net-eNom-0.02                           53158
 Template-Plugin-YAML-Encode-0.02        http://rt.perl.org/rt3/Public/Bug/Display.html?id=71748
 Form-Maker-0.03                         53262
 JavaScript-Ectype-0.01                  53274
 Text-ToSentences-0.91                   53313
 Data-Iter-0.2                           50478
 Net-KashFlow-0.01                       53410
-Guard-1.021                             rt.perl.org #71992
 Arff-1.0                                53640
 catalyst-traitfor-controller-breadcrumb-followed-0.01 53641
 DBIx-Thin-0.05                          deleted from CPAN
@@ -94,8 +85,6 @@ Plack-Server-AnyEvent-Server-Starter-0.00002 53954 (maybe dated?)
 CGI-Session-Auth-1.07                   55307
 Text-TypingEffort-0.25                  55325
 List-Rubyish-0.03                       55524
-SimpleXlsx-0.0.1                        55546
-Aspect-Loader-0.03                      60262
 any-feature-1.100840                    60265
 Geo-ECEF-1.10                           60329
 Business-OnlinePayment-SynapseGateway-0.01 60332
@@ -104,24 +93,16 @@ Papery-0.01                             60336
 Switch-2.16                             60380
 WWW-Search-Ebay-3.021                   60493
 Lingua-EN-Bigram-0.03                   60670
-Test-Mini-Unit-0.050300                 distro renamed to Test-Mini
-App-DoubleUp-v0.2.1                     60753
 Xymon-Monitor-SNMP-0.04                 60816
 Acme-Compress-0.04                      60963,60964
-Google-GeoCoder-Smart-1.12              61181
 Statistics-SocialNetworks-0.03          61250
-Spreadsheet-ParseExcel-0.58             61462
 ObjectDBI-0.15                          61594
 Fennec-Assert-Wrapper-Deep-0.02         61595
 Data-Dmap-0.08                          61128
-Test-Warn-0.22                          61649
-Test-Exception-LessClever-0.005         61686
 MooseX-ConsistentHash-0.01              61739
 Test-Group-0.19_01                      61462
 WWW-Ohloh-API-1.0_1                     62023
-AI-NaiveBayes1-1.9                      62186
 KyotoTycoon-0.01                        removed from CPAN
-autobox-Core-1.2                        62202
 YAML-LibYAML-0.34                       62266
 Test-Base-0.59                          62265
 CGI-Alert-2.03                          62263
