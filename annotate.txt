@@ -415,3 +415,11 @@ Want-0.18                               72083
 WebService-Solr-0.16                    maybe related to 72043?
 ORMesque-1.110422                       72202
 KinoSearch-0.313                        72220
+DBIx-Class-0.08195                      72221
+File-MimeInfo-0.15                      66841
+signatures-0.06                         66997
+Devel-Cover-0.72                        fixed in 0.79
+Thread-Bless-0.06                       72205
+ThreatNet-0.20                          72194
+TaskForest-1.37                         72193
+Perldoc-0.20                            72191
