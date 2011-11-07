@@ -331,7 +331,6 @@ Math-MatrixDecomposition-1.01           68556
 String-FilenameStatic-0.02              68558
 Arff-Util-1.22                          68561
 Spreadsheet-ExcelHashTable-0.02         68584
-Treex-PML-2.07                          62715
 HTML-Template-Parser-0.1002             68622
 Bio-Tools-Primer3Redux-0.05             68695
 Lite-8                                  now known as WWW-Scraper-Lite
@@ -423,3 +422,21 @@ Thread-Bless-0.06                       72205
 ThreatNet-0.20                          72194
 TaskForest-1.37                         72193
 Perldoc-0.20                            72191
+BioPerl-Network-1.006901                72227
+AnyEvent-MPRPC-0.11                     maybe related to 72043?
+Config-Model-TkUi-1.329                 72229
+WebService-TWFY-API-0.06                72228
+Text-Karma-0.04                         72230
+WWW-Wunderground-API-0.02               maybe related to 72043?
+Dancer-Plugin-Bcrypt-0.4.0              maybe related to 72043 via Crypt::Random::Source?
+Proc-Class-0.05                         maybe related to 72043?
+Net-GitHub-0.40_04                      maybe related to 72043?
+XML-Feed-Deduper-0.05                   maybe related to 72043?
+Parse-FieldPath-0.004                   72231
+Piddy-0.01                              72232
+Data-MessagePack-0.38_02                72233
+DBIx-Encoding-0.06                      52663
+Treex-PML-2.09                          62715
+SQLx-Core-0.11                          gone from CPAN
+PITA-Image-0.60                         72235
+Geo-Forward-0.12                        72236
