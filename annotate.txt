@@ -443,3 +443,4 @@ Geo-Forward-0.12                        72236
 RPC-Async-1.05                          72325
 MARC-Record-2.0.3                       works in bleadperl v5.15.4-321-g0765b2b
 PDL-2.4.9                               see PDL-2.4.9_009
+Proc-Pidfile-1.005                      66873
