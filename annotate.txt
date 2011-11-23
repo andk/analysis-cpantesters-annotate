@@ -380,7 +380,6 @@ POE-SAPI-Scheduler-0.03                 71672
 Sub-Spec-Wrapper-0.03                   71749
 HTML-HTML5-Outline-0.005                71785
 Filesys-Notify-KQueue-0.03              71788
-Plack-Middleware-QRCode-0.01            71802
 Test-Pod-Content-0.0.5                  71827
 Form-Factory-0.020                      71854
 RTSP-Server-0.05                        71941
@@ -448,3 +447,11 @@ Class-Value-Net-1.110250                72367
 Table-Wave-0.02                         72510
 Pod-Trac-0.0.1                          72547
 Lexical-SealRequireHints-0.005          https://rt.perl.org/rt3/Ticket/Display.html?id=104088
+Imager-Font-FT2-0.83                    72643
+Google-Fusion-0.06                      72644
+Vimana-2.25                             64235
+Acme-SList-Utilities-0.01               72645
+Data-BitStream-XS-0.02                  72646
+Module-Install-PrePAN-0.03              72647
+Plack-Middleware-QRCode-0.02            71802
+App-PPI-Dumper-0.11                     72648
