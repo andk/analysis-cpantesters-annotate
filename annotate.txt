@@ -456,3 +456,4 @@ Module-Install-PrePAN-0.03              72647
 Plack-Middleware-QRCode-0.02            71802
 App-PPI-Dumper-0.11                     72648
 Primeval-0.01                           72650
+Devel-ChangePackage-0.07                72708
