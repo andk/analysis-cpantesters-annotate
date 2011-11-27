@@ -458,3 +458,4 @@ App-PPI-Dumper-0.11                     72648
 Primeval-0.01                           72650
 Devel-ChangePackage-0.07                72708
 WWW-Sitemapper-1.110340                 72738
+File-Dir-Hash-0.01_0                    missing dependency decl on Class::XSAccessor (but has no RT queue)
