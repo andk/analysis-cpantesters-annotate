@@ -461,3 +461,5 @@ WWW-Sitemapper-1.110340                 72738
 File-Dir-Hash-0.01_0                    missing dependency decl on Class::XSAccessor (but has no RT queue)
 DBD-mysqlPPrawSjis-0.06                 undeclared dependency on DBI and Net::MySQL; it is in META.yml but missing in the Makefile.PL; distro had no RT queue last time I looked
 Angle-Omega-1.00                        72760
+Dist-Zilla-Plugin-Version-Git-Flowish-0.05 72764
+Eval-WithLexicals-1.002000              72766; 72767
