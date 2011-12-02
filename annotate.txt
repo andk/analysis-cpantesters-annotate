@@ -469,3 +469,4 @@ Encode-Base58-GMP-0.07                  72797
 RDF-Notation3-0.91                      62575; 72828
 B-Keywords-1.10                         72583
 DBIx-Class-Graph-1.03                   72864
+DBIx-Class-RandomColumns-0.003000       72881
