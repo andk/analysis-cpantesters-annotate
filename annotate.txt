@@ -2,7 +2,6 @@ DBIx-Class-Tokenize-0.01                42158
 Template-Plugin-Autoformat-2.71         41796
 MooseX-Compile-0.01                     42203
 Encode-Detect-1.01                      42293
-File-DesktopEntry-0.04                  42770
 CGI-Session-YAML-0.3                    42787
 Dotiac-addon-json-0.1.1                 42960
 Catalyst-Plugin-Geography-0.03          43283
@@ -103,129 +102,68 @@ MooseX-ConsistentHash-0.01              61739
 Test-Group-0.19_01                      61462
 WWW-Ohloh-API-1.0_1                     62023
 KyotoTycoon-0.01                        removed from CPAN
-YAML-LibYAML-0.34                       62266
-Test-Base-0.59                          62265
-CGI-Alert-2.03                          62263
-Regexp-Assemble-0.34                    62262
-Regexp-Log-0.05                         62260
-YAML-0.72                               62258
 Data-AMF-0.09                           62407
 Template-Plugin-HighlightPerl-0.04      62410
-MooseX-Method-Signatures-0.36           62412
 PFIX-0.03                               62413
-DBD-mysql-4.018                         60085
 Directory-Transactional-0.09            62532
-DBR-1.0.7rc7                            52547
 File-Lockfile-v1.0.5                    62595
 AnyEvent-JSONRPC-0.15                   62598
-Net-ManageSieve-0.10                    62606
 Data-PrefixMerge-0.12                   62653
 Getopt-LL-1.0.0                         62713
-HTTP-Parser-XS-0.11                     62716
-DateTime-Format-CLDR-1.12               62717
-JSON-Path-0.100                         62730
-Icon-FamFamFam-Silk-0.001.001.003       62729
-HTTP-Link-Parser-0.100                  62728
-HTML-HTML5-Microdata-Parser-0.031       62726
 POSIX-strptime-0.10                     62734
 RDF-Crypt-0.001                         62735
-RDF-Prefixes-0.001                      62736
-Spreadsheet-Wright-0.102                62737
-Lingua-Sentence-1.02                    57339
 Locale-PO-Utils-0.08                    62765
-WWW-Search-Rambler-0.07                 62773
-XML-Twig-3.37                           62781
 Dancer-Plugin-Browser-Detect-0.3        62796
 Locale-PO-Callback-0.04                 62882
-Github-Fork-Parent-0.10                 62884
-overload-eval-0.08                      62904
 Test-Smoke-1.44                         63073
 Text-RecordParser-v1.5.0                54816
 Log-Dispatch-Config-TestLog-0.02        61462
 Digest-MD6-0.11                         63103
 Net-IP-Range-0.01_1                     Fails when Pod::Coverage is installed, no RT queue yet
-Test-Magic-0.20                         63138
 Config-General-Hierarchical-0.06        63182
-Data-Validate-0.08                      63213
 Math-ModInt-0.004                       63215
 Algorithm-KernelKMeans-XS-0.02_01       63315
 Web-App-1.20                            63324
 DBIx-MultiDB-0.06                       63326
 DomainOperations-0.02                   63370
-Lemonldap-NG-Manager-1.0.0              63413
-HTML-Template-Compiled-0.94_002         63515
 RTDevSys-0.06                           63522
-XML-Toolkit-0.13                        63681
 YAPE-Regex-Explain-4.01                 63713
 Catalyst-Model-Akismet-0.04             54995
 Socialtext-WikiTest-0.07                63827
-Module-Install-1.00                     63849
 String-Boolean-0.02                     64007
-Lingua-JA-Kana-0.04                     63929
-Dancer-Plugin-Authorize-1.103430        63971
 Attribute-Constant-0.02                 63846
 Devel-Assert-0.02                       64006
 HTML-ExtractMain-0.62                   only three irrelevant fails with rare HTML::TreeBuilder 4.0
 Devel-BeginLift-0.001003                64033
 constant-our-0.01                       64064
-POE-Wheel-Sendfile-0.0100               64100
-Math-Pari-2.01080604                    61271
 MooseX-WithCache-0.01002                64188
-DateTime-Calendar-FrenchRevolutionary-0.08 61230
 TryCatch-1.003000                       64200
-Devel-Cover-0.73                        64210
 Acme-Archive-Mbox-0.01                  64244
 WWW-Ebay-0.094                          64245
 Scalar-Cycle-Manual-0.03.6              57679
-PICA-Record-0.54                        64249
-SOAP-Lite-0.712                         64250
 File-Filename-1.05                      61462
-Data-ModeMerge-0.25                     61462
 Scope-Session-0.02                      64292
-WWW-Ruten-0.02                          64321
 Text-Textile-Plaintext-0.101            64333
 Net-Stitcho-0.03                        64379
-Cog-0.05                                64391
 HTML-Hyphenate-0.05                     bug in irrelevant HTML::TreeBuilder 4.0
 Google-Spreadsheet-Agent-0.02           64393
 Flame-Palette-0.02                      64425
-Tk-804.029                              64475
 AnyEvent-MongoDB-0.103620_001           undeclared dependency on aliased but no RT queue
-rig-0.01_04                             undeclared dependencies on List::MoreUtils and Moose but no RT queue
-Catalyst-View-JSON-0.32                 64681
 MooseX-Types-Locale-BR-0.01             64703
 SQL-Translator-0.11007                  64728
 Net-Facebook-API-0.07                   64755
-Weather-WWO-0.03                        one report had arrived truncated, fixed 2011-01-16
-Email-Abstract-3.003                    64946
 AnyEvent-JSONRPC-Lite-0.13              65014
-RDF-KML-Exporter-0.001                  65023
 Data-OpenGraph-0.01                     65024
-mod_perl-1.31                           64999
 Sub-Op-0.02                             64998
-Scope-Upper-0.13                        64997; additionally known to be broken with perl in the range v5.13.7-{15,514}
 Method-Cumulative-0.05                  64993
-Data-FormValidator-Constraints-Words-0.04 65123
-Class-Adapter-1.07                      pjacklam set AUTHOR_TESTING
-Method-Signatures-Simple-0.06           pjacklam set AUTHOR_TESTING
 Net-SNMP-v6.0.1                         pjacklam set AUTHOR_TESTING
-Log-Dispatch-2.28                       pjacklam set AUTHOR_TESTING
 Module-Manifest-1.08                    pjacklam set AUTHOR_TESTING
 Devel-StackTrace-1.27                   pjacklam set AUTHOR_TESTING
 Text-Balanced-2.02                      pjacklam set AUTHOR_TEST and AUTHOR_TESTS
-Pod-Advent-0.23                         65142
-Smart-Args-0.09                         https://github.com/schwern/test-more/issues/issue/128
-Bio-KEGGI-v0.1.2                        65197
 Data-TxnBuffer-0.05                     https://github.com/schwern/test-more/issues/issue/130
-Devel-StackTrace-WithLexicals-0.08      65238
-Template-Parser-CET-0.05                65241
-Test-Able-0.10                          https://github.com/schwern/test-more/issues#issue/134
 autouse-1.06                            https://github.com/schwern/test-more/issues#issue/133
-Net-Squid-Auth-Plugin-SimpleLDAP-v0.1.82 https://github.com/schwern/test-more/issues#issue/132
 DBIx-PasswordIniFile-2.00               65320,65321
 String-Errf-0.006                       https://github.com/schwern/test-more/issues/issue/136
-Test-WWW-Mechanize-JSON-0.4             65432
-HTML-Transmorgify-0.04                  65459
 WebService-NiigataUnyu-v0.0.2           65474
 MIME-tools-5.500                        64659
 Dancer-Plugin-ValidationClass-0.110280  65032
@@ -265,7 +203,6 @@ Dancer-Plugin-ProxyPath-0.01            66222
 App-I18N-0.033                          66314
 Contextual-Return-0.003001              66315
 Sub-Spec-0.06                           66317
-InterMine-Model-0.9604                  66318
 MongoDBx-AutoDeref-1.110560             66343
 Mojolicious-Plugin-Cache-0.0013         66370
 Acme-CPANAuthors-0.14                   66394
@@ -290,7 +227,6 @@ Math-Complex_C-0.03                     66735
 WebService-Blekko-1.00_07               undeclared dependency on List::MoreUtils but no RT queue
 PITA-XML-0.50                           66799
 Tapper-Testplan-3.000004                66800
-InterMine-Model-0.9607                  66801
 Catalyst-Plugin-Navigation-1.001        66834
 MouseX-Foreign-0.003                    66836
 Test-Wrapper-0.2.1                      66837
@@ -476,3 +412,4 @@ Config-Model-OpenSsh-1.218              72916
 WWW-Google-Time-0.0117                  72927
 Config-KingKong-0.001                   72952
 Class-Entangle-0.06                     72985
+HTML-HTML5-Sanity-0.102                 72960
