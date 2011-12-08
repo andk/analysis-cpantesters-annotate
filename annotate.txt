@@ -415,3 +415,4 @@ Class-Entangle-0.06                     72985
 HTML-HTML5-Sanity-0.102                 72960
 Dancer-Logger-PSGI-0.03                 73113
 Dancer-Plugin-Params-Normalization-0.4  73114
+Amazon-SQS-ProducerConsumer-0.02        73116
