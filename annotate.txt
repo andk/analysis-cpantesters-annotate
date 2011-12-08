@@ -413,3 +413,4 @@ WWW-Google-Time-0.0117                  72927
 Config-KingKong-0.001                   72952
 Class-Entangle-0.06                     72985
 HTML-HTML5-Sanity-0.102                 72960
+Dancer-Logger-PSGI-0.03                 73113
