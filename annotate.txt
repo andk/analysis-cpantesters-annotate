@@ -34,7 +34,6 @@ CGI-Application-Plugin-TmplInnerOuter-1.13 51034
 Event-ScreenSaver-0.0.3                 51122
 HTTP-DetectUserAgent-0.02               51152
 Perl6-Feeds-0.20                        50551
-WebService-OkiLab-ExtractPlace-0.02     51195
 XS-MRO-Compat-0.14                      51197
 TRD-Watch-Web-0.0.4                     51220
 SeeAlso-Server-0.57                     51520
@@ -43,7 +42,6 @@ Net-Server-Framework-1.2                51524
 SparkX-Form-BasicValidators-0.01        52011
 Crypt-SKey-0.10                         41015
 HTML-Template-Associate-2.00            52300
-Data-Transform-Zlib-0.01                52341
 Perl-Metrics2-0.06                      52347
 AnyEvent-Postfix-Logs-0.01              52415
 IO-Socket-Multicast6-0.03               52497
@@ -78,7 +76,6 @@ Plack-Request-0.09                      50982
 Catalyst-View-Mason-0.18                Calculations may be wrong due to broken NNTP upstream
 File-Find-Flex-0.60                     has been deleted from CPAN
 DateTime-Event-Predict-0.01_04          54469
-Net-Amazon-MechanicalTurk-1.01_01       54652
 Exception-Died-0.06                     54724
 Plack-Server-AnyEvent-Server-Starter-0.00002 53954 (maybe dated?)
 CGI-Session-Auth-1.07                   55307
@@ -95,7 +92,6 @@ Lingua-EN-Bigram-0.03                   60670
 Xymon-Monitor-SNMP-0.04                 60816
 Acme-Compress-0.04                      60963,60964
 Statistics-SocialNetworks-0.03          61250
-ObjectDBI-0.15                          61594
 Fennec-Assert-Wrapper-Deep-0.02         61595
 Data-Dmap-0.08                          61128
 MooseX-ConsistentHash-0.01              61739
@@ -104,7 +100,6 @@ WWW-Ohloh-API-1.0_1                     62023
 KyotoTycoon-0.01                        removed from CPAN
 Data-AMF-0.09                           62407
 Template-Plugin-HighlightPerl-0.04      62410
-PFIX-0.03                               62413
 Directory-Transactional-0.09            62532
 File-Lockfile-v1.0.5                    62595
 AnyEvent-JSONRPC-0.15                   62598
@@ -120,7 +115,6 @@ Text-RecordParser-v1.5.0                54816
 Log-Dispatch-Config-TestLog-0.02        61462
 Digest-MD6-0.11                         63103
 Net-IP-Range-0.01_1                     Fails when Pod::Coverage is installed, no RT queue yet
-Config-General-Hierarchical-0.06        63182
 Math-ModInt-0.004                       63215
 Algorithm-KernelKMeans-XS-0.02_01       63315
 Web-App-1.20                            63324
@@ -150,9 +144,6 @@ Google-Spreadsheet-Agent-0.02           64393
 Flame-Palette-0.02                      64425
 AnyEvent-MongoDB-0.103620_001           undeclared dependency on aliased but no RT queue
 MooseX-Types-Locale-BR-0.01             64703
-SQL-Translator-0.11007                  64728
-Net-Facebook-API-0.07                   64755
-AnyEvent-JSONRPC-Lite-0.13              65014
 Data-OpenGraph-0.01                     65024
 Sub-Op-0.02                             64998
 Method-Cumulative-0.05                  64993
@@ -163,11 +154,6 @@ Text-Balanced-2.02                      pjacklam set AUTHOR_TEST and AUTHOR_TEST
 Data-TxnBuffer-0.05                     https://github.com/schwern/test-more/issues/issue/130
 autouse-1.06                            https://github.com/schwern/test-more/issues#issue/133
 DBIx-PasswordIniFile-2.00               65320,65321
-String-Errf-0.006                       https://github.com/schwern/test-more/issues/issue/136
-WebService-NiigataUnyu-v0.0.2           65474
-MIME-tools-5.500                        64659
-Dancer-Plugin-ValidationClass-0.110280  65032
-AnyEvent-Subprocess-1.102910            65613
 B-C-1.29                                65628
 jsonpretty-1                            65638
 AnyEvent-HTTPD-0.91                     65639
