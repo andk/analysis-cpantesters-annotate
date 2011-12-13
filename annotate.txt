@@ -412,3 +412,4 @@ Data-Plist-0.100_001                    73156,73157
 FusionInventory-Agent-2.1.12            73164
 SharePoint-SOAPHandler-0.0011           73166
 Business-OnlinePayment-SagePay-0.14     73168
+Dancer-Plugin-Dispatcher-0.1133101      73221
