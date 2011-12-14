@@ -425,3 +425,4 @@ Search-Tools-0.65                       was a bleadperl bug
 String-Dump-0.02                        was a bleadperl bug
 String-ToIdentifier-EN-0.05             was a bleadperl bug
 Text-CSV-R-0.3                          was a bleadperl bug
+MooseX-Graph-Easy-StateMachine-0.01     73267
