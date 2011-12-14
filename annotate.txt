@@ -413,3 +413,15 @@ FusionInventory-Agent-2.1.12            73164
 SharePoint-SOAPHandler-0.0011           73166
 Business-OnlinePayment-SagePay-0.14     73168
 Dancer-Plugin-Dispatcher-0.1133101      73221
+Roman-Unicode-1.02_03                   was a bleadperl bug
+Encode-JP-Mobile-0.27                   was a bleadperl bug
+Locale-Utils-PlaceholderMaketext-0.001  was a bleadperl bug
+Messaging-Message-0.7                   was a bleadperl bug
+MIME-EncWords-1.012.4                   was a bleadperl bug
+Perl6-Perldoc-To-Ansi-0.11              was a bleadperl bug
+Perl6-Pod-0.35                          was a bleadperl bug
+Regexp-Parser-0.21                      was a bleadperl bug
+Search-Tools-0.65                       was a bleadperl bug
+String-Dump-0.02                        was a bleadperl bug
+String-ToIdentifier-EN-0.05             was a bleadperl bug
+Text-CSV-R-0.3                          was a bleadperl bug
