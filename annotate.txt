@@ -427,3 +427,6 @@ String-ToIdentifier-EN-0.05             was a bleadperl bug
 Text-CSV-R-0.3                          was a bleadperl bug
 MooseX-Graph-Easy-StateMachine-0.01     73267
 namespace-clean-0.21                    73274
+List-Gen-0.974                          73294
+Template-Plugin-ScalarUtil-1.110920     73305
+Devel-PtrTable-0.02                     73306
