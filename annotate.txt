@@ -431,3 +431,4 @@ List-Gen-0.974                          73294
 Template-Plugin-ScalarUtil-1.110920     73305
 Devel-PtrTable-0.02                     73306
 TEI-Lite-0.60                           63186
+WebService-Sprint-0.01                  73309
