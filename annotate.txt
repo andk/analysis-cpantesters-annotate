@@ -437,3 +437,4 @@ Search-Tools-0.66                       was a bleadperl bug
 Regexp-Optimizer-0.16_001               was a bleadperl bug
 Net-ZooTool-0.0031                      73331
 MooseX-Types-DateTime-ButMaintained-0.13 73332
+WWW-MobileCarrierJP-0.61                was a bleadperl bug
