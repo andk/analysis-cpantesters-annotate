@@ -421,7 +421,7 @@ MIME-EncWords-1.012.4                   was a bleadperl bug
 Perl6-Perldoc-To-Ansi-0.11              was a bleadperl bug
 Perl6-Pod-0.35                          was a bleadperl bug
 Regexp-Parser-0.21                      was a bleadperl bug
-String-Dump-0.02                        was a bleadperl bug
+String-Dump-0.04                        was a bleadperl bug
 String-ToIdentifier-EN-0.05             was a bleadperl bug
 Text-CSV-R-0.3                          was a bleadperl bug
 MooseX-Graph-Easy-StateMachine-0.01     73267
