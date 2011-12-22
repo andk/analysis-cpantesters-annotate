@@ -443,3 +443,6 @@ Geo-Location-TimeZone-0.1               73354
 Devel-Plumber-0.3.3                     message id 87liq6blwh.fsf@franz.ak.mind.de
 Weather-YR-0.24                         73403
 Net-Inspect-0.02                        73417
+ParseLex-2.20                           73422
+WWW-RobotRules-Extended-0.01            73439
+Text-Perfide-WordBags-0.01_01           undeclared dependency on utf8::all but no RT queue
