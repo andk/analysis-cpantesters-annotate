@@ -447,3 +447,4 @@ ParseLex-2.20                           73422
 WWW-RobotRules-Extended-0.01            73439
 Text-Perfide-WordBags-0.01_01           undeclared dependency on utf8::all but no RT queue
 ClearPress-414                          73440
+Devel-Cover-0.79                        73452
