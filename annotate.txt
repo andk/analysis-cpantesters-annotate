@@ -448,3 +448,5 @@ WWW-RobotRules-Extended-0.01            73439
 Text-Perfide-WordBags-0.01_01           undeclared dependency on utf8::all but no RT queue
 ClearPress-414                          73440
 Devel-Cover-0.79                        73452
+POE-API-Peek-2.19                       73393
+MooseX-Types-DateTimeX-0.10             73467
