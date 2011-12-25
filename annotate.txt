@@ -450,3 +450,4 @@ ClearPress-414                          73440
 Devel-Cover-0.79                        73452
 POE-API-Peek-2.19                       73393
 MooseX-Types-DateTimeX-0.10             73467
+Catalyst-Example-InstantCRUD-0.038      73475
