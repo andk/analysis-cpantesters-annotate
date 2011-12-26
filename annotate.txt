@@ -451,3 +451,5 @@ Devel-Cover-0.79                        73452
 POE-API-Peek-2.19                       73393
 MooseX-Types-DateTimeX-0.10             73467
 Catalyst-Example-InstantCRUD-0.038      73475
+String-ToIdentifier-EN-0.06             was a bleadperl bug
+YAML-0.77                               73483
