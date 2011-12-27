@@ -453,3 +453,5 @@ MooseX-Types-DateTimeX-0.10             73467
 Catalyst-Example-InstantCRUD-0.038      73475
 String-ToIdentifier-EN-0.06             was a bleadperl bug
 YAML-0.77                               73483
+Tk-804.030                              73487
+Clone-Closure-0.06                      69111
