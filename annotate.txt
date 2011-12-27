@@ -462,3 +462,4 @@ WebService-FreeDB-0.78                  73496
 ASP4x-Captcha-Imager-0.003              73499
 Term-ProgressBar-2.10                   73502
 JS-0.17                                 73503
+WWW-Scraper-ISBN-AmazonDE_Driver-0.21   73504
