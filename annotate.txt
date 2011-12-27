@@ -455,3 +455,9 @@ String-ToIdentifier-EN-0.06             was a bleadperl bug
 YAML-0.77                               73483
 Tk-804.030                              73487
 Clone-Closure-0.06                      69111
+eBay-API-Simple-0.27                    73493
+Crypt-PWSafe3-1.01                      73494
+basis-0.04                              73495
+WebService-FreeDB-0.78                  73496
+ASP4x-Captcha-Imager-0.003              73499
+Term-ProgressBar-2.10                   73502
