@@ -465,3 +465,7 @@ JS-0.17                                 73503
 WWW-Scraper-ISBN-AmazonDE_Driver-0.21   73504
 Log-Any-Adapter-0.05                    73512
 Mojolicious-Plugin-HTMLTemplateRenderer-0.01 73513
+PNI-0.21.1                              73548
+Toader-0.0.1                            73549
+Webservice-InterMine-Bio-0.9802         73557
+Ukigumo-0.01                            73558
