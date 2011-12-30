@@ -469,3 +469,7 @@ PNI-0.21.1                              73548
 Toader-0.0.1                            73549
 Webservice-InterMine-Bio-0.9802         73557
 Ukigumo-0.01                            73558
+Config-Model-1.265                      73611
+UNIVERSAL-cant-v0.0.1                   73613
+Jemplate-0.261                          73617
+File-MimeInfo-0.15                      33097
