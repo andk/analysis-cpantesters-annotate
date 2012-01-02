@@ -483,3 +483,4 @@ DBIx-Class-Indexer-WebService-Dezi-0.05 73651,73652
 HTML-GenToc-3.20                        73653
 PDL-Stats-0.5.5                         73656
 IO-Ppoll-0.10                           73665
+String-Defer-2                          73666
