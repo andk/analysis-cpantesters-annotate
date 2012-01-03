@@ -484,3 +484,9 @@ HTML-GenToc-3.20                        73653
 PDL-Stats-0.5.5                         73656
 IO-Ppoll-0.10                           73665
 String-Defer-2                          73666
+HTTP-MobileAgent-Plugin-CIDR-0.0.1      73710
+Ham-Scraper-0.9                         67392
+IO-Epoll-0.02                           70924
+MojoX-AIO-0.04                          73713
+XHTML-Util-0.99_08                      73714
+YAML-LibYAML-0.37                       73716
