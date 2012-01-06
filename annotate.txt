@@ -490,3 +490,10 @@ IO-Epoll-0.02                           70924
 MojoX-AIO-0.04                          73713
 XHTML-Util-0.99_08                      73714
 YAML-LibYAML-0.37                       73716
+Class-Scaffold-1.102280                 73772
+perl-ldap-0.43                          73771
+Kwiki-JSLog-0.01                        73773
+PDL-CCS-1.17                            73739
+Modern-Perl-1.20120105                  73777
+MorboDB-0.001001                        73782
+Parse-WBXML-0.004                       73783
