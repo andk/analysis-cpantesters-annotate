@@ -463,7 +463,6 @@ ASP4x-Captcha-Imager-0.003              73499
 Term-ProgressBar-2.10                   73502
 JS-0.17                                 73503
 WWW-Scraper-ISBN-AmazonDE_Driver-0.21   73504
-Log-Any-Adapter-0.05                    73512
 Mojolicious-Plugin-HTMLTemplateRenderer-0.01 73513
 PNI-0.21.1                              73548
 Toader-0.0.1                            73549
@@ -497,3 +496,5 @@ PDL-CCS-1.17                            73739
 Modern-Perl-1.20120105                  73777
 MorboDB-0.001001                        73782
 Parse-WBXML-0.004                       73783
+Sub-Stubber-0.03                        73784
+Log-Any-Adapter-0.06                    73512
