@@ -494,6 +494,7 @@ perl-ldap-0.43                          73771
 Kwiki-JSLog-0.01                        73773
 PDL-CCS-1.17                            73739
 Modern-Perl-1.20120105                  73777
+Modern-Perl-1.20120106                  73777
 MorboDB-0.001001                        73782
 Parse-WBXML-0.004                       73783
 Sub-Stubber-0.03                        73784
