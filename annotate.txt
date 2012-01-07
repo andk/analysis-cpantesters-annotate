@@ -502,3 +502,6 @@ Cycle-Detect-0.002                      73805,73808
 uni-perl-0.03                           73806
 Clutch-0.01                             73807
 basis-0.05002                           73495,73808
+MooseX-Attribute-Prototype-0.10         55248
+Nitesi-0.0033                           73809
+OODoc-Template-0.14                     73810
