@@ -457,7 +457,6 @@ Tk-804.030                              73487
 Clone-Closure-0.06                      69111
 eBay-API-Simple-0.27                    73493
 Crypt-PWSafe3-1.01                      73494
-basis-0.04                              73495
 WebService-FreeDB-0.78                  73496
 ASP4x-Captcha-Imager-0.003              73499
 Term-ProgressBar-2.10                   73502
@@ -499,5 +498,7 @@ MorboDB-0.001001                        73782
 Parse-WBXML-0.004                       73783
 Sub-Stubber-0.03                        73784
 Log-Any-Adapter-0.06                    73512
-Cycle-Detect-0.002                      73805
+Cycle-Detect-0.002                      73805,73808
 uni-perl-0.03                           73806
+Clutch-0.01                             73807
+basis-0.05002                           73495,73808
