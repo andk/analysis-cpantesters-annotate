@@ -507,3 +507,7 @@ Nitesi-0.0033                           73809
 OODoc-Template-0.14                     73810
 Template-Plugin-Ligature-0.03           73811
 POSIX-pselect-0.02                      73818
+MooseX-Params-0.005                     73819
+MasonX-Request-HTMLTemplate-0.06        73820
+AI-NeuralNet-Kohonen-Visual-0.3         73821
+PlackX-Engine-0.01                      73822
