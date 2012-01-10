@@ -518,3 +518,6 @@ warnings-unused-0.04                    66929
 Text-Perfide-BookPairs-0.01_01          https://plus.google.com/103105256782700019624/posts/QxRCnrsao17
 Switch-Perlish-1.0.5                    66877
 Template-Parser-CET-0.05                65241
+Tie-RegexpHash-0.15                     66875
+warnings-method-0.10                    66930
+Pod-Weaver-Section-ClassMopper-1.112250 73869
