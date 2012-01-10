@@ -516,3 +516,5 @@ Text-PO-Parser-0.0.1                    73833
 Tk-Tree-JSON-0.01                       73839
 warnings-unused-0.04                    66929
 Text-Perfide-BookPairs-0.01_01          https://plus.google.com/103105256782700019624/posts/QxRCnrsao17
+Switch-Perlish-1.0.5                    66877
+Template-Parser-CET-0.05                65241
