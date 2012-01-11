@@ -522,3 +522,4 @@ Tie-RegexpHash-0.15                     66875
 warnings-method-0.10                    66930
 Pod-Weaver-Section-ClassMopper-1.112250 73869
 Bio-Phylo-0.45                          73887
+Locales-0.25                            73892
