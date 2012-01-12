@@ -525,3 +525,5 @@ Bio-Phylo-0.45                          73887
 Locales-0.25                            73892
 App-TLSMe-0.009003                      73902
 POEIKC-Plugin-IRC-0.00_02               undeclared dependency on POEIKC::Daemon::Utility but no RT queue; https://plus.google.com/103105256782700019624/posts/QxRCnrsao17
+CGI-IDS-1.0214                          73962
+JavaScript-V8-0.06                      73963
