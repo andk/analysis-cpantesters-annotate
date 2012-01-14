@@ -431,8 +431,6 @@ Template-Plugin-ScalarUtil-1.110920     73305
 Devel-PtrTable-0.02                     73306
 TEI-Lite-0.60                           63186
 WebService-Sprint-0.01                  73309
-FarmBalance-0.0.1                       73311
-FarmBalance-0.01                        73311
 Search-Tools-0.66                       was a bleadperl bug
 Regexp-Optimizer-0.16_001               was a bleadperl bug
 Net-ZooTool-0.0031                      73331
@@ -530,3 +528,7 @@ JavaScript-V8-0.06                      73963
 SMS-Send-US-TMobile-v0.0.3              73967
 Text-Transliterator-1.00                73969
 Net-DHCP-0.67_1                         73972
+FarmBalance-0.03                        73311
+BokkaKumiai-0.02                        73986
+Geo-Coordinates-Converter-0.10          73468
+Pod-Inherit-0.07                        73992
