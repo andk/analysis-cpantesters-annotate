@@ -532,3 +532,6 @@ FarmBalance-0.03                        73311
 BokkaKumiai-0.02                        73986
 Geo-Coordinates-Converter-0.10          73468
 Pod-Inherit-0.07                        73992
+HTML-Element-Library-5.120100           73995
+Test-Copyright-0.0_1                    https://rt.perl.org/rt3/Public/Bug/Display.html?id=107656
+Store-CouchDB-2.0                       74007
