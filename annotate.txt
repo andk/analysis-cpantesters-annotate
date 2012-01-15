@@ -535,3 +535,5 @@ Pod-Inherit-0.07                        73992
 HTML-Element-Library-5.120100           73995
 Test-Copyright-0.0_1                    https://rt.perl.org/rt3/Public/Bug/Display.html?id=107656
 Store-CouchDB-2.0                       74007
+ParseUtil-Domain-2.09                   74008
+Reflexive-Stream-Filtering-1.103450     74010
