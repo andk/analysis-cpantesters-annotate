@@ -541,3 +541,4 @@ Devel-ebug-0.52                         74020
 TextLinkAds-0.01                        74027
 YAML-0.78                               73673
 Web-App-1.21                            63324
+Dist-Zilla-Plugin-ChangelogFromGit-CPAN-Changes-0.0.1 74028
