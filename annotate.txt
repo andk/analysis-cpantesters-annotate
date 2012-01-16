@@ -117,7 +117,6 @@ Digest-MD6-0.11                         63103
 Net-IP-Range-0.01_1                     Fails when Pod::Coverage is installed, no RT queue yet
 Math-ModInt-0.004                       63215
 Algorithm-KernelKMeans-XS-0.02_01       63315
-Web-App-1.20                            63324
 DBIx-MultiDB-0.06                       63326
 DomainOperations-0.02                   63370
 RTDevSys-0.06                           63522
@@ -541,3 +540,4 @@ Tapper-Installer-3.000010               74015
 Devel-ebug-0.52                         74020
 TextLinkAds-0.01                        74027
 YAML-0.78                               73673
+Web-App-1.21                            63324
