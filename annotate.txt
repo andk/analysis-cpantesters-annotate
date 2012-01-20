@@ -545,3 +545,4 @@ Dist-Zilla-Plugin-ChangelogFromGit-CPAN-Changes-0.0.1 74028
 Test-Mini-v1.1.3                        74139
 Opsview-REST-0.002                      74140
 Devel-EvalContext-0.09                  74142
+Games-Lacuna-Task-2.00                  74177
