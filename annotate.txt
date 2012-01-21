@@ -548,3 +548,4 @@ Devel-EvalContext-0.09                  74142
 Games-Lacuna-Task-2.00                  74177
 Audio-File-0.11                         74197
 Text-CSV_XS-0.85                        known bleadperl issue without ticket
+IPC-Locker-1.489                        74223
