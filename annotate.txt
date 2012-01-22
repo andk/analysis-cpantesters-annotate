@@ -441,7 +441,6 @@ Devel-Plumber-0.3.3                     message id 87liq6blwh.fsf@franz.ak.mind.
 Weather-YR-0.24                         73403
 Net-Inspect-0.02                        73417
 ParseLex-2.20                           73422
-WWW-RobotRules-Extended-0.01            73439
 Text-Perfide-WordBags-0.01_01           undeclared dependency on utf8::all but no RT queue
 ClearPress-414                          73440
 Devel-Cover-0.79                        73452
@@ -549,3 +548,6 @@ Games-Lacuna-Task-2.00                  74177
 Audio-File-0.11                         74197
 Text-CSV_XS-0.85                        known bleadperl issue without ticket
 IPC-Locker-1.489                        74223
+Config-NameValue-1.01                   74228
+WWW-RobotRules-Extended-0.02            73439
+Test-HexDifferences-0.002               74230
