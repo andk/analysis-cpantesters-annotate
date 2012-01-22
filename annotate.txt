@@ -551,3 +551,5 @@ IPC-Locker-1.489                        74223
 Config-NameValue-1.01                   74228
 WWW-RobotRules-Extended-0.02            73439
 Test-HexDifferences-0.002               74230
+XIRCD-0.0.1                             74231
+Attribute-Util-1.06                     74232
