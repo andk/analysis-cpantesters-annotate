@@ -557,3 +557,6 @@ PPI-1.215                               74234
 DBIx-Class-Schema-Loader-0.07015        74236
 Data-Dump-Streamer-2.32                 74198
 CGI-Application-Plugin-AJAXUpload-v0.0.3 74284
+Carp-Diagnostics-0.05.3                 74295
+File-ANVL-1.01                          74297
+Jifty-DBI-0.72                          74298
