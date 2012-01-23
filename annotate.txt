@@ -555,3 +555,5 @@ XIRCD-0.0.1                             74231
 Attribute-Util-1.06                     74232
 PPI-1.215                               74234
 DBIx-Class-Schema-Loader-0.07015        74236
+Data-Dump-Streamer-2.32                 74198
+CGI-Application-Plugin-AJAXUpload-v0.0.3 74284
