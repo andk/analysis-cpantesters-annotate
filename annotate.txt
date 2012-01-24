@@ -571,3 +571,4 @@ Test-Assert-0.0504                      74341
 Portable-1.15                           74342
 Module-Find-0.10                        74251
 Text-Phonetic-2.03                      74251
+URI-Escape-XS-0.08                      74344
