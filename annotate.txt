@@ -560,3 +560,7 @@ CGI-Application-Plugin-AJAXUpload-v0.0.3 74284
 Carp-Diagnostics-0.05.3                 74295
 File-ANVL-1.01                          74297
 Jifty-DBI-0.72                          74298
+Image-ExifTool-8.75                     74304
+REST-Client-Simple-0.1                  74305
+Log-Dispatch-2.29                       74289
+Image-Base-GD-13                        74307
