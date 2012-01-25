@@ -567,13 +567,13 @@ Image-Base-GD-13                        74307
 Template-Toolkit-2.23                   74335
 Plack-Middleware-Reproxy-0.00002        74339
 Net-Whois-Parser-0.07                   74340
-Test-Assert-0.0504                      74341
-Portable-1.15                           74342
+Test-Assert-0.0504                      74341 (Class::Inspector)
+Portable-1.15                           74342 (Class::Inspector)
 Module-Find-0.10                        74251
-Text-Phonetic-2.03                      74251
-URI-Escape-XS-0.08                      74344
-Test-Pod-No404s-0.01                    74347
-Reflex-0.093                            74350
+Text-Phonetic-2.03                      74251 (Module::Find)
+URI-Escape-XS-0.08                      74344 (Net::IDN::Encode)
+Test-Pod-No404s-0.01                    74347 (Pod::Simple)
+Reflex-0.093                            74350 (MooseX::Role::Parameterized)
 Sub-Spec-DepChecker-0.02                74351
 Validate-Tiny-0.37                      74352
 Validation-Class-3.3.2                  74251
