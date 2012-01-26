@@ -578,3 +578,6 @@ Sub-Spec-DepChecker-0.02                74351
 Validate-Tiny-0.37                      74352
 Validation-Class-3.3.2                  74251
 EPublisher-0.3                          74414
+Sys-Config-Manage-0.3.0                 74415
+ObjectDB-InflateColumn-0.01             74416
+Module-CPANTS-Analyse-0.85              74251,74252,Module::Find,File::MMagic
