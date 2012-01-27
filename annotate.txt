@@ -582,3 +582,4 @@ Sys-Config-Manage-0.3.0                 74415
 ObjectDB-InflateColumn-0.01             74416
 Module-CPANTS-Analyse-0.85              74251,74252,Module::Find,File::MMagic
 File-Map-0.42                           74436
+Package-Variant-1.000000                74437
