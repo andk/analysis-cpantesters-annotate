@@ -576,10 +576,11 @@ Test-Pod-No404s-0.01                    74347, Pod::Simple
 Reflex-0.093                            74350, MooseX::Role::Parameterized
 Sub-Spec-DepChecker-0.02                74351
 Validate-Tiny-0.37                      74352
-Validation-Class-3.3.2                  74251
 EPublisher-0.3                          74414
 Sys-Config-Manage-0.3.0                 74415
 ObjectDB-InflateColumn-0.01             74416
 Module-CPANTS-Analyse-0.85              74251,74252,Module::Find,File::MMagic
 File-Map-0.42                           74436
 Package-Variant-1.000000                74437
+POE-Declare-0.58                        74474
+Validation-Class-3.4.3                  74251, Module::Find
