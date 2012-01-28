@@ -584,3 +584,4 @@ File-Map-0.42                           74436
 Package-Variant-1.000000                74437
 POE-Declare-0.58                        74474
 Validation-Class-3.4.3                  74251 Module::Find
+PocketIO-0.12                           74475
