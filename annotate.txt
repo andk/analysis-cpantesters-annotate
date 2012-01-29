@@ -588,3 +588,4 @@ PocketIO-0.12                           74475
 Plack-App-Proxy-Selective-0.10          https://github.com/schwern/test-more/issues/249
 POE-Component-ResourcePool-0.04         74476
 WWW-DirectAdmin-API-0.02                74438
+Dist-Zilla-PluginBundle-AVAR-0.26       74490
