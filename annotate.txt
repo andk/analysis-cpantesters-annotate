@@ -594,3 +594,4 @@ SOAP-WSDL-2.00.10                       74257
 Module-Compile-Simple-0.24              20380
 Pod-Generated-0.05                      74509
 Template-Plugin-KwikiFormat-1.04        74512
+Modern-Perl-1.20120126                  74523
