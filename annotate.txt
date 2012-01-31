@@ -173,58 +173,27 @@ GDS2-3.00                               66729
 WebService-Blekko-1.00_07               undeclared dependency on List::MoreUtils but no RT queue
 Test-Wrapper-0.2.1                      66837
 Class-MethodMaker-2.18                  59189
-Plack-Middleware-SocketIO-0.00900       66906
 Chess-FIDE-1.10                         66972
 Encode-First-0.01                       66976
-Lingua-LO-Romanize-0.08                 66952
 Tie-Scalar-Random-0.02                  66951
-DataFlow-0.950000                       current version is > 1
-Term-Animation-2.5                      67023
-Padre-Plugin-RunPerlExternal-0.52       67171
 Math-Polynom-0.13                       67229
 Finance-GeniusTrader-0.00_50            undeclared dependency on Data::Calc but no RT queue
-Dist-Zooky-0.06                         67390
-overload-eval-0.09                      67194,62904
-RDF-Trine-0.134                         67502
-Dancer-Plugin-Feed-0.1                  67537
 Frost-0.70                              67547
-HTTP-WebTest-2.04                       66940
-Hailo                                   67548
-KiokuDB-0.51                            67267
-Catalyst-Controller-HTML-FormFu-0.09000 67571
 ORDB-CPANMeta-Generator-0.11            67599
 Doorman-0.06                            67651
-Gzip-BinarySearch-0.9                   67652
 AnyEvent-Inotify-Simple-0.02            67725
-HTTP-Proxy-0.24                         56259
-Test-Builder-Clutch-0.02                67828
 Acme-Base64-0.03                        fixed in perl 5.14
 DynGig-Multiplex-0.01                   68257
 DynGig-RCE-0.01                         68307
 Mojolicious-Plugin-Bundle-0.004         68368
-helm-0.3                                68519
-Math-MatrixDecomposition-1.01           68556
 String-FilenameStatic-0.02              68558
-Arff-Util-1.22                          68561
 Spreadsheet-ExcelHashTable-0.02         68584
-HTML-Template-Parser-0.1002             68622
-Bio-Tools-Primer3Redux-0.05             68695
 Lite-8                                  now known as WWW-Scraper-Lite
-POE-Component-Server-REST-1.02          68728
 WWW-NicoSound-Download-1.12             69012
 Geometry-Formula-0.02                   69043
-POE-SAPI-LocalAuth-0.02                 69046
-App-Slackeria-0.1                       69247
-MojoX-Session-0.23                      69379
 Data-YUID-0.06                          68215
 YAWF-0.01                               69395
-Perlude-0.42                            69458
-MooseX-Attribute-ValidateWithException-0.1.1 69461
 Catalyst-View-RDF-0.01                  69462
-WWW-GoodData-1.1                        69490
-Math-BigInt-GMP-1.36                    68989
-App-TemplateCMD-v0.1.0                  69700
-Dist-Zilla-Plugin-Git-1.111590          69701
 IPC-Mmap-0.21                           39962
 Template-Mustache-v0.5.1                69709
 Sub-Args-0.08                           69710
