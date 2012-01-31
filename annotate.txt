@@ -46,7 +46,6 @@ Perl-Metrics2-0.06                      52347
 AnyEvent-Postfix-Logs-0.01              52415
 IO-Socket-Multicast6-0.03               52497
 Color-Mix-0.02                          52631
-Parse-FixedRecord-0.02                  52701
 like-0.02                               52892
 TimeDate-1.20                           FAILs from a broken smoker
 Error-0.17016                           bogus FAIL reports
@@ -128,7 +127,6 @@ Attribute-Constant-0.02                 63846
 Devel-Assert-0.02                       64006
 HTML-ExtractMain-0.62                   only three irrelevant fails with rare HTML::TreeBuilder 4.0
 Devel-BeginLift-0.001003                64033
-constant-our-0.01                       64064
 MooseX-WithCache-0.01002                64188
 TryCatch-1.003000                       64200
 Acme-Archive-Mbox-0.01                  64244
@@ -153,70 +151,27 @@ Text-Balanced-2.02                      pjacklam set AUTHOR_TEST and AUTHOR_TEST
 Data-TxnBuffer-0.05                     https://github.com/schwern/test-more/issues/issue/130
 autouse-1.06                            https://github.com/schwern/test-more/issues#issue/133
 DBIx-PasswordIniFile-2.00               65320,65321
-B-C-1.29                                65628
 jsonpretty-1                            65638
-AnyEvent-HTTPD-0.91                     65639
-Lexical-Var-0.004                       65667
-App-Termcast-0.09                       65666
-App-SD-0.74                             65668
-DBIx-Skinny-ProxyTable-0.09             65669
-Benchmark-Timer-0.7102                  65673
 Filter-Arguments-0.14                   65675
 Data-Rand-Obscure-0.021                 65676
-IO-Async-Loop-POE-0.03                  65706
-Finance-TW-TAIFEX-0.33                  65792
-Data-Show-0.001_003                     65886
 Project-Libs-0.01                       65910
 MooseX-ComposedBehavior-0.003           65911
 Plack-Middleware-Auth-Digest-0.04       65912
-Crypt-OpenSSL-RSA-0.26                  65947
 Catalyst-TraitFor-Component-ConfigPerSite-0.03 65949
-DBIx-Class-Result-Validation-0.04       65957
 MySQL-Easy-PYH-0.01                     65958
-DBIx-Class-ResultSet-RecursiveUpdate-0.22 65959
-Dancer-Plugin-REST-0.04                 65962
 Graph-Chart-0.63                        65964
-Math-BigInt-GMP-1.35                    65980
-DBIx-SimpleQuery-0.04                   65983
 KiokuDB-Backend-CouchDB-0.10            66022
-Devel-TraceUse-2.03                     66027
 AnyMongo-0.03                           66148
 Dao-Map-Helper-0.04                     66161
-Class-MethodMaker-2.16                  66196
-Project-Easy-0.26                       66218
-Dancer-Plugin-ProxyPath-0.01            66222
-App-I18N-0.033                          66314
-Contextual-Return-0.003001              66315
-Sub-Spec-0.06                           66317
 MongoDBx-AutoDeref-1.110560             66343
-Mojolicious-Plugin-Cache-0.0013         66370
-Acme-CPANAuthors-0.14                   66394
 AnyEvent-OWNet-1.110430                 66402
-Net-Daemon-0.47                         65550
-Tapper-Remote-3.000001                  66409
-WWW-3Taps-API-0.01                      66410
-DBIx-Class-Result-ColumnData-0.07       65956
-R-YapRI-0.03                            66484
-Algorithm-FloodControl-2.000000         66562
-CGI-FormBuilder-3.0501                  66563
-Image-PNG-Rewriter-0.8                  66575
 JavaScript-Framework-jQuery-0.07        66586
 Catalyst-View-SVGTTGraph-0.02           66587
-Sub-Spec-0.08                           66616
-Parse-PhoneNumber-ID-0.02               66617
 Mediawiki-Blame-0.0.3                   66679
 MooseX-ExtJS-Reflection-0.01            has been deleted from CPAN
 GDS2-3.00                               66729
-Geo-Coder-Many-0.23                     66731
-Math-Complex_C-0.03                     66735
 WebService-Blekko-1.00_07               undeclared dependency on List::MoreUtils but no RT queue
-PITA-XML-0.50                           66799
-Tapper-Testplan-3.000004                66800
-Catalyst-Plugin-Navigation-1.001        66834
-MouseX-Foreign-0.003                    66836
 Test-Wrapper-0.2.1                      66837
-AnyEvent-Twitter-0.52                   66839
-Math-GSL-0.23                           66882
 Class-MethodMaker-2.18                  59189
 Plack-Middleware-SocketIO-0.00900       66906
 Chess-FIDE-1.10                         66972
