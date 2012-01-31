@@ -552,3 +552,4 @@ Template-Plugin-KwikiFormat-1.04        74512
 Modern-Perl-1.20120126                  74523
 PerlIO-Util-0.72                        74539
 WebPrototypes-Registration-0.001        74546
+Finance-Quant-Quotes-0.01               74548
