@@ -554,3 +554,4 @@ PerlIO-Util-0.72                        74539
 WebPrototypes-Registration-0.001        74546
 Finance-Quant-Quotes-0.01               74548
 CPAN-Mini-Extract-1.21                  74549
+Data-Feed-0.00015                       74551
