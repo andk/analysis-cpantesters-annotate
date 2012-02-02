@@ -524,3 +524,8 @@ WebPrototypes-Registration-0.001        74546
 Finance-Quant-Quotes-0.01               74548
 CPAN-Mini-Extract-1.21                  74549
 Data-Feed-0.00015                       74551
+Config-Scoped-0.13                      74618
+File-Unpack-0.52                        74636
+Cindy-0.18                              74637
+Template-Plugin-MP3-Tag-0.01            74638
+CSS-1.09                                74640
