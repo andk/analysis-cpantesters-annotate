@@ -532,3 +532,5 @@ CSS-1.09                                74640
 IPC-Lite-0.4.37                         74648
 Dancer-OO-0.01                          replaced with filename Dancer-OO-depfix.tar.gz
 Sub-Uplevel-0.22                        74677
+iTransact-Lite-0.0100                   https://github.com/rizen/Ouch/issues/4
+Ouch-0.0401                             https://github.com/rizen/Ouch/issues/4
