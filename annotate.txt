@@ -529,3 +529,6 @@ File-Unpack-0.52                        74636
 Cindy-0.18                              74637
 Template-Plugin-MP3-Tag-0.01            74638
 CSS-1.09                                74640
+IPC-Lite-0.4.37                         74648
+Dancer-OO-0.01                          replaced with filename Dancer-OO-depfix.tar.gz
+Sub-Uplevel-0.22                        74677
