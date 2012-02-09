@@ -539,3 +539,4 @@ TeX-Encode-1.3                          74712
 HTML-AutoPagerize-0.02                  74713
 REST-Client-240                         74715
 Mail-IMAPClient-3.30                    74733
+DateTime-Factory-0.01                   renamed to DateTimeX-Factory
