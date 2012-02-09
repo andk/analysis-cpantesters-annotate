@@ -540,3 +540,5 @@ HTML-AutoPagerize-0.02                  74713
 REST-Client-240                         74715
 Mail-IMAPClient-3.30                    74733
 DateTime-Factory-0.01                   renamed to DateTimeX-Factory
+CGI-Info-0.18                           74801
+Text-SimpleVaddrbook-0.01               74802
