@@ -542,3 +542,5 @@ Mail-IMAPClient-3.30                    74733
 DateTime-Factory-0.01                   renamed to DateTimeX-Factory
 CGI-Info-0.18                           74801
 Text-SimpleVaddrbook-0.01               74802
+Math-Clipper-1.03                       74828
+Image-PNG-FileConvert-0.02              74840
