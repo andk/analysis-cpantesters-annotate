@@ -462,7 +462,7 @@ Reflexive-Stream-Filtering-1.103450     74010
 Tapper-Installer-3.000010               74015
 Devel-ebug-0.52                         74020
 TextLinkAds-0.01                        74027
-YAML-0.78                               73673
+YAML-0.80                               73673
 Web-App-1.21                            63324
 Dist-Zilla-Plugin-ChangelogFromGit-CPAN-Changes-0.0.1 74028
 Test-Mini-v1.1.3                        74139
@@ -547,3 +547,6 @@ Image-PNG-FileConvert-0.02              74840
 Geo-Distance-Google-0.01                74841
 Arepa-0.91                              74842
 Parallol-0.2                            74844
+Reddit-0.30                             74867
+Pod-Coverage-MethodSignatures-0.02      74873
+Contextual-Return-0.003002              74874
