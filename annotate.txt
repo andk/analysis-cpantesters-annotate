@@ -557,3 +557,4 @@ File-Fingerprint-Huge-1.3               74911
 Store-CouchDB-2.1                       74007
 Text-Ngramize-1.03                      74983
 mysubs-1.14                             74985
+Module-Install-ReadmeFromPod-0.16       74988
