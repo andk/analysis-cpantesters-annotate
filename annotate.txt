@@ -555,3 +555,5 @@ SQLite-Work-0.12                        70416
 Scalar-Construct-0.000                  74910
 File-Fingerprint-Huge-1.3               74911
 Store-CouchDB-2.1                       74007
+Text-Ngramize-1.03                      74983
+mysubs-1.14                             74985
