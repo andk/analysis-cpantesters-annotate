@@ -558,3 +558,5 @@ Store-CouchDB-2.1                       74007
 Text-Ngramize-1.03                      74983
 mysubs-1.14                             74985
 Module-Install-ReadmeFromPod-0.16       74988
+Text-Extract-Word-0.03                  75040
+EBI-FGPT-FuzzyRecogniser-0.06           75041
