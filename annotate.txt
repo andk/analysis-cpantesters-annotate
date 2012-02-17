@@ -524,7 +524,6 @@ Finance-Quant-Quotes-0.01               74548
 CPAN-Mini-Extract-1.21                  74549
 Data-Feed-0.00015                       74551
 Config-Scoped-0.13                      74618
-File-Unpack-0.52                        74636
 Cindy-0.18                              74637
 Template-Plugin-MP3-Tag-0.01            74638
 CSS-1.09                                74640
@@ -561,3 +560,6 @@ Module-Install-ReadmeFromPod-0.16       74988
 Text-Extract-Word-0.03                  75040
 EBI-FGPT-FuzzyRecogniser-0.06           75041
 App-Framework-Lite-1.07                 75081
+Data-FlexSerializer-1.02                75082
+File-Unpack-0.53                        74636
+Test-WWW-Selenium-1.32                  75084
