@@ -560,3 +560,4 @@ mysubs-1.14                             74985
 Module-Install-ReadmeFromPod-0.16       74988
 Text-Extract-Word-0.03                  75040
 EBI-FGPT-FuzzyRecogniser-0.06           75041
+App-Framework-Lite-1.07                 75081
