@@ -563,3 +563,7 @@ App-Framework-Lite-1.07                 75081
 Data-FlexSerializer-1.02                75082
 File-Unpack-0.53                        74636
 Test-WWW-Selenium-1.32                  75084
+Capture-Tiny-0.16                       75129
+Net-Amazon-MechanicalTurk-1.01_01       54652
+Module-ExtractUse-0.24                  75130
+WebService-Strava-0.01                  75131
