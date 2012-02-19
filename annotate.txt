@@ -567,3 +567,4 @@ Capture-Tiny-0.16                       75129
 Net-Amazon-MechanicalTurk-1.01_01       54652
 Module-ExtractUse-0.24                  75130
 WebService-Strava-0.01                  75131
+Unicode-EastAsianWidth-1.30             75132
