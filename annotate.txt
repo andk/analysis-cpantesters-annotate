@@ -568,3 +568,4 @@ Net-Amazon-MechanicalTurk-1.01_01       54652
 Module-ExtractUse-0.24                  75130
 WebService-Strava-0.01                  75131
 Unicode-EastAsianWidth-1.30             75132
+WWW-Scraper-ISBN-TWSanmin_Driver-0.02   75133
