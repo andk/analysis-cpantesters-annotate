@@ -157,7 +157,6 @@ Data-Rand-Obscure-0.021                 65676
 Project-Libs-0.01                       65910
 MooseX-ComposedBehavior-0.003           65911
 Plack-Middleware-Auth-Digest-0.04       65912
-Catalyst-TraitFor-Component-ConfigPerSite-0.03 65949
 MySQL-Easy-PYH-0.01                     65958
 Graph-Chart-0.63                        65964
 KiokuDB-Backend-CouchDB-0.10            66022
@@ -569,3 +568,4 @@ WebService-Strava-0.01                  75131
 Unicode-EastAsianWidth-1.30             75132
 WWW-Scraper-ISBN-TWSanmin_Driver-0.02   75133
 Contextual-Return-0.004001              74874
+Catalyst-TraitFor-Component-ConfigPerSite-0.05 65949
