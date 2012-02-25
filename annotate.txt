@@ -571,3 +571,4 @@ Catalyst-TraitFor-Component-ConfigPerSite-0.05 65949
 rss2leafnode-61                         harmless: fails due to new warning caused by XML::Twig
 MooseX-RW-0.002                         75242
 Log-Any-Adapter-Mojo-0.05               75290
+AnyEvent-Processor-0.002                75306
