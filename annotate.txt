@@ -574,3 +574,4 @@ Log-Any-Adapter-Mojo-0.05               75290
 AnyEvent-Processor-0.002                75306
 CGI-Buffer-0.31                         75309
 CatalystX-AuthenCookie-0.02             harmless: a few fails due to old B::Hooks::EndOfScope
+MooseX-Struct-0.06                      75321
