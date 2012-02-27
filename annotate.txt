@@ -576,3 +576,4 @@ CGI-Buffer-0.31                         75309
 CatalystX-AuthenCookie-0.02             harmless: a few fails due to old B::Hooks::EndOfScope
 MooseX-Struct-0.06                      75321
 Log-Dispatch-Log-Syslog-Fast-1.01       75331
+Lingua-Phonology-0.352                  75334
