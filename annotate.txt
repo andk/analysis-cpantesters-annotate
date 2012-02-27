@@ -577,3 +577,6 @@ CatalystX-AuthenCookie-0.02             harmless: a few fails due to old B::Hook
 MooseX-Struct-0.06                      75321
 Log-Dispatch-Log-Syslog-Fast-1.01       75331
 Lingua-Phonology-0.352                  75334
+CGI-Application-Plugin-CaptureIO-0.01   67178
+CPS-0.13                                75355
+POE-Component-Server-SimpleXMLRPC-0.02  works with 5.15.8, so unlikely to be a Carp issue
