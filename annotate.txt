@@ -585,3 +585,8 @@ ParseTemplate-3.07                      75363
 Thread-Pool-0.33                        works with 5.15.8, so unlikely to be a Carp issue
 Script-Carp-0.04                        75364
 TAP-Formatter-HTML-0.09                 74364
+Class-Std-Slots-0.31                    75379
+Devel-LeakGuard-Object-0.06             75381
+Slay-Makefile-0.12                      75383
+Log-Info-2.00                           75385
+Devel-ebug-0.52                         75310
