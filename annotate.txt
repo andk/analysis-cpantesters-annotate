@@ -590,3 +590,6 @@ Devel-LeakGuard-Object-0.06             75381
 Slay-Makefile-0.12                      75383
 Log-Info-2.00                           75385
 Devel-ebug-0.52                         75310
+Module-Mask-0.03                        75464
+DBIx-DBO-0.13                           fixed in 0.14
+Mason-2.15                              fixed in 2.16
