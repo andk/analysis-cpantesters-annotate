@@ -599,3 +599,8 @@ Getopt-Mixed-Help-0.22                  75492
 Kwalify-1.21                            https://rt.perl.org:443/rt3/Ticket/Display.html?id=111500
 Geo-BUFR-1.21                           75499
 Variable-Magic-0.48                     74801
+CGI-Untaint-CountyStateProvince-0.04    74801
+YAML-Accessor-0.44                      75500
+Weblogic-WLST-0.01                      75501
+Selenium-Remote-Driver-0.14             75502
+Parse-Readelf-0.11                      75503
