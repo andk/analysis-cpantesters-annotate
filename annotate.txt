@@ -593,3 +593,9 @@ Devel-ebug-0.52                         75310
 Module-Mask-0.03                        75464
 DBIx-DBO-0.13                           fixed in 0.14
 Mason-2.15                              fixed in 2.16
+XML-FOAF-0.04                           75490
+MooseX-MetaDescription-0.04             75491
+Getopt-Mixed-Help-0.22                  75492
+Kwalify-1.21                            https://rt.perl.org:443/rt3/Ticket/Display.html?id=111500
+Geo-BUFR-1.21                           75499
+Variable-Magic-0.48                     74801
