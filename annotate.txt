@@ -615,3 +615,4 @@ Unicode-Digits-20090607                 75525
 XML-Checker-0.13                        75526
 autodie-2.10                            75527
 selfvars-0.32                           75528
+AnyEvent-Blackboard-v0.2.4              75529
