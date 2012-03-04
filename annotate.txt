@@ -605,3 +605,13 @@ Weblogic-WLST-0.01                      75501
 Selenium-Remote-Driver-0.14             75502
 Parse-Readelf-0.11                      75503
 Time-Business-0.18                      75512
+Package-DeprecationManager-0.11         75520
+Set-Toolkit-0.11                        67343
+Devel-Carnivore-0.09                    75522
+Gravatar-URL-1.05                       75523
+Log-Agent-0.307                         75324
+Test-Pockito-0.02                       75524
+Unicode-Digits-20090607                 75525
+XML-Checker-0.13                        75526
+autodie-2.10                            75527
+selfvars-0.32                           75528
