@@ -616,3 +616,6 @@ XML-Checker-0.13                        75526
 autodie-2.10                            75527
 selfvars-0.32                           75528
 AnyEvent-Blackboard-v0.2.4              75529
+MouseX-Types-Path-Class-0.06            75534
+File-Stat-Moose-0.06                    75535
+Acme-MetaSyntactic-0.99_02              75537
