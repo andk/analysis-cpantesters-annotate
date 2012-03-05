@@ -619,3 +619,4 @@ AnyEvent-Blackboard-v0.2.4              75529
 MouseX-Types-Path-Class-0.06            75534
 File-Stat-Moose-0.06                    75535
 Acme-MetaSyntactic-0.99_02              75537
+Hash-AutoHash-Record-1.11               75538
