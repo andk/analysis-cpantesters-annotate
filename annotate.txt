@@ -619,3 +619,4 @@ Acme-MetaSyntactic-0.99_02              75537
 Hash-AutoHash-Record-1.11               75538
 Carp-Always-0.10                        75320
 Config-Model-2.008                      74900
+Catalyst-Plugin-AccessLog-1.04          75564
