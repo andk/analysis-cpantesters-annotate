@@ -563,7 +563,7 @@ Module-ExtractUse-0.24                  75130
 WebService-Strava-0.01                  75131
 Unicode-EastAsianWidth-1.30             75132
 WWW-Scraper-ISBN-TWSanmin_Driver-0.02   75133
-Contextual-Return-0.004001              74874
+Contextual-Return-0.004002              74874
 Catalyst-TraitFor-Component-ConfigPerSite-0.05 65949
 rss2leafnode-61                         harmless: fails due to new warning caused by XML::Twig
 MooseX-RW-0.002                         75242
@@ -620,3 +620,5 @@ Hash-AutoHash-Record-1.11               75538
 Carp-Always-0.10                        75320
 Config-Model-2.008                      74900
 Catalyst-Plugin-AccessLog-1.04          75564
+Image-MetaData-JPEG-0.153               75640
+XML-Declare-0.05                        75654
