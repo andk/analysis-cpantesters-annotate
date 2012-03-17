@@ -622,3 +622,4 @@ Config-Model-2.008                      74900
 Catalyst-Plugin-AccessLog-1.04          75564
 Image-MetaData-JPEG-0.153               75640
 XML-Declare-0.05                        75654
+Siebel-Srvrmgr-0.01                     75702
