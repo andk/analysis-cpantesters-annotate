@@ -626,3 +626,5 @@ Siebel-Srvrmgr-0.01                     75702
 Cond-Expr-0.02                          75844
 Text-Summarize-0.50                     75845
 Module-ExtractUse-0.24                  74879
+RDF-Endpoint-0.04                       fixed in LibXML 1.93
+ORLite-1.96                             75549
