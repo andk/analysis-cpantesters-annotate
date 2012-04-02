@@ -634,3 +634,10 @@ Test-DBIx-Class-0.31                    76041
 HTTP-Engine-Middleware-0.22             76058
 Data-Page-FlickrLike-2.00               76059
 Catalyst-View-Templated-0.02            76064
+WebService-Flattr-0.53                  76076
+Acme-eng2kor-v0.0.2                     76079
+PITA-Test-Dummy-Perl5-MI-0.77           76084
+Perinci-0.12                            76207
+Test-Fixture-KyotoTycoon-0.1            76208
+Data-Faker-0.10_01                      76209
+IPC-Pipeline-0.5                        76211
