@@ -641,3 +641,4 @@ Perinci-0.12                            76207
 Test-Fixture-KyotoTycoon-0.1            76208
 Data-Faker-0.10_01                      76209
 IPC-Pipeline-0.5                        76211
+Search-OpenSearch-Engine-Lucy-0.06      76252
