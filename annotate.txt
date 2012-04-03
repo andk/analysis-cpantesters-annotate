@@ -642,3 +642,4 @@ Data-Faker-0.10_01                      76209
 IPC-Pipeline-0.5                        76211
 Search-OpenSearch-Engine-Lucy-0.06      76252
 Config-Model-2.011                      74900,75313
+Test-EasyMock-0.01                      76284
