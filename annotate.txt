@@ -648,3 +648,4 @@ Data-Util-0.59                          76380
 MooseX-hasn-t-0.001                     76399
 MetaCPAN-API-Tiny-1.120920              76400
 MooseX-Constructor-AllErrors-0.019      76250
+Toader-0.2.0                            73549
