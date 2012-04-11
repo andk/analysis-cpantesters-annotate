@@ -649,3 +649,9 @@ MooseX-hasn-t-0.001                     76399
 MetaCPAN-API-Tiny-1.120920              76400
 MooseX-Constructor-AllErrors-0.019      76250
 Toader-0.2.0                            73549
+Net-SSH-Perl-1.34                       76482
+Role-Basic-0.13                         76486
+AnyEvent-Connection-0.06                76403
+Date-Pcalc-6.1                          76442
+AnyEvent-FlashSocketPolicy-0.03         removed from CPAN
+IO-Prompter-0.002000                    76487
