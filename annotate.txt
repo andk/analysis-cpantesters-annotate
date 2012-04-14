@@ -656,3 +656,4 @@ Date-Pcalc-6.1                          76442
 AnyEvent-FlashSocketPolicy-0.03         removed from CPAN
 IO-Prompter-0.002000                    76487
 HOP-Parser-0.02_04                      76544
+Net-Stream-0.28                         76545
