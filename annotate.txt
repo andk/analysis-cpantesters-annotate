@@ -659,3 +659,4 @@ HOP-Parser-0.02_04                      76544
 Net-Stream-0.28                         76545
 Catalyst-Controller-SOAP-1.23           75774
 Net-Fluidinfo-0.45                      76547
+PDL-EditDistance-0.05001                76461
