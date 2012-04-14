@@ -660,3 +660,6 @@ Catalyst-Controller-SOAP-1.23           75774
 Net-Fluidinfo-0.45                      76547
 PDL-EditDistance-0.05001                76461
 Pod-Inherit-0.10                        73992
+Math-Geometry-Planar-Offset-1.05        42045
+DateTime-Format-CLDR-1.12               62717
+Data-Validate-0.08                      63213
