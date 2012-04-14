@@ -663,3 +663,6 @@ Pod-Inherit-0.10                        73992
 Math-Geometry-Planar-Offset-1.05        42045
 DateTime-Format-CLDR-1.12               62717
 Data-Validate-0.08                      63213
+nextgen-0.06                            https://rt.perl.org:443/rt3/Ticket/Display.html?id=112444
+Lingua-FR-Numbers-0.04                  too old for analysis?
+AtomBus-1.0404                          https://github.com/ironcamel/AtomBus/issues/4
