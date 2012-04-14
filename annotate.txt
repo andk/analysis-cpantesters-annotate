@@ -450,7 +450,6 @@ Net-DHCP-0.67_1                         73972
 FarmBalance-0.03                        73311
 BokkaKumiai-0.02                        73986
 Geo-Coordinates-Converter-0.10          73468
-Pod-Inherit-0.07                        73992
 HTML-Element-Library-5.120100           73995
 Test-Copyright-0.0_1                    https://rt.perl.org/rt3/Public/Bug/Display.html?id=107656
 ParseUtil-Domain-2.09                   74008
@@ -660,3 +659,4 @@ Net-Stream-0.28                         76545
 Catalyst-Controller-SOAP-1.23           75774
 Net-Fluidinfo-0.45                      76547
 PDL-EditDistance-0.05001                76461
+Pod-Inherit-0.10                        73992
