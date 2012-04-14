@@ -657,3 +657,5 @@ AnyEvent-FlashSocketPolicy-0.03         removed from CPAN
 IO-Prompter-0.002000                    76487
 HOP-Parser-0.02_04                      76544
 Net-Stream-0.28                         76545
+Catalyst-Controller-SOAP-1.23           75774
+Net-Fluidinfo-0.45                      76547
