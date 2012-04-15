@@ -675,3 +675,4 @@ App-Toodledo-2.12                       depends on MooseX-Method-Signatures-0.41
 JSON-HPack-0.0.2                        76565
 Data-Beacon-0.2.7                       76566
 MojoX-AIO-0.05                          76568
+MojoX-Renderer-Alloy-1.112200           76569
