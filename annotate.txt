@@ -667,3 +667,11 @@ nextgen-0.06                            https://rt.perl.org:443/rt3/Ticket/Displ
 Lingua-FR-Numbers-0.04                  too old for analysis?
 AtomBus-1.0404                          https://github.com/ironcamel/AtomBus/issues/4
 Text-KnuthPlass-1.02                    76548
+Test-Cmd-1.05                           76556
+MooseX-Types-Data-Serializer-0.02       76557
+Mojito-0.17                             76558
+MooseX-Method-Signatures-0.41           76427
+App-Toodledo-2.12                       depends on MooseX-Method-Signatures-0.41
+JSON-HPack-0.0.2                        76565
+Data-Beacon-0.2.7                       76566
+MojoX-AIO-0.05                          76568
