@@ -676,3 +676,4 @@ JSON-HPack-0.0.2                        76565
 Data-Beacon-0.2.7                       76566
 MojoX-AIO-0.05                          76568
 MojoX-Renderer-Alloy-1.112200           76569
+WWW-Class-0.03                          removed from cpan
