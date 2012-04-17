@@ -677,3 +677,5 @@ Data-Beacon-0.2.7                       76566
 MojoX-AIO-0.05                          76568
 MojoX-Renderer-Alloy-1.112200           76569
 WWW-Class-0.03                          removed from cpan
+UNIVERSAL-Acme-0.01                     Test::More at https://github.com/schwern/test-more/issues/280
+Scalar-Vec-Util-0.06                    66946
