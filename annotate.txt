@@ -671,7 +671,7 @@ Test-Cmd-1.05                           76556
 MooseX-Types-Data-Serializer-0.02       76557
 Mojito-0.17                             76558
 MooseX-Method-Signatures-0.41           76427
-App-Toodledo-2.12                       depends on MooseX-Method-Signatures-0.41
+App-Toodledo-2.14                       depends on MooseX-Method-Signatures-0.41
 JSON-HPack-0.0.2                        76565
 Data-Beacon-0.2.7                       76566
 MojoX-AIO-0.05                          76568
@@ -679,3 +679,7 @@ MojoX-Renderer-Alloy-1.112200           76569
 WWW-Class-0.03                          removed from cpan
 UNIVERSAL-Acme-0.01                     Test::More at https://github.com/schwern/test-more/issues/280
 Scalar-Vec-Util-0.06                    66946
+Net-Google-FederatedLogin-0.7.0         76617
+Parallel-Downloader-0.120120            76620
+rss2leafnode-62                         76669
+HTTP-Response-Maker-0.01                76671
