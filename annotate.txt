@@ -683,3 +683,7 @@ Net-Google-FederatedLogin-0.7.0         76617
 Parallel-Downloader-0.120120            76620
 rss2leafnode-62                         76669
 HTTP-Response-Maker-0.01                76671
+Validation-Class-6.05                   76718
+String-Validator-Email-0.94             76719
+DBIx-Class-DynamicDefault-0.04          76721
+Role-Tiny-1.000_901                     76734
