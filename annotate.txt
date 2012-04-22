@@ -236,7 +236,6 @@ Tie-CHI-0.01                            72031
 WebService-Yahoo-BOSS-0.06              72043
 Pegex-Crontab-0.10                      72044
 YAML-Syck-1.17                          72078
-Net-Twitter-Stream-0.27                 72105
 Test-Vars-0.001                         72133
 Test-Unit-0.25                          fixed in 0.25_1325
 String-FriendlyID-0.019                 72161
@@ -689,3 +688,6 @@ DBIx-Class-DynamicDefault-0.04          76721
 Role-Tiny-1.000_901                     76734
 Sakai-Nakamura-0.12                     76741
 MediaWiki-Bot-3.005001                  https://github.com/MediaWiki-Bot/MediaWiki-Bot/issues/40
+Net-Twitter-Stream-0.28                 72105
+XML-Toolkit-0.15                        76755
+Time-Piece-Over24-0.014                 76359
