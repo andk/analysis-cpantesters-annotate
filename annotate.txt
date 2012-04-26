@@ -693,3 +693,4 @@ Net-SSLeay-1.47                         76757
 Drogo-0.07                              76762
 MooseX-Semantic-0.004                   76763
 Test-HTTP-0.16                          76783
+Catalyst-Plugin-Session-AsObject-0.04   76811
