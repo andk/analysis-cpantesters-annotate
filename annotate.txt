@@ -701,4 +701,4 @@ Template-Plugin-Colour-0.05             76917
 File-Map-0.49                           76920
 RDF-NS-20120426                         76935
 Imager-Graph-0.09                       76955
-Lingua-EN-Sentences-Offsets-0.01_03     bugtracker returns a 404
+Lingua-EN-Sentences-Offsets-0.01_03     fails with perl prior 5.14; bugtracker returns a 404; report sent to author
