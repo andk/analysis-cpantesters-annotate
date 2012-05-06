@@ -707,3 +707,5 @@ Unicode-Diacritic-Strip-0.01            76980
 XML-LibXSLT-Easy-0.03                   76982
 Fey-Loader-0.13                         76983
 Scalar-List-Utils-1.25                  https://github.com/schwern/test-more/issues/297
+MAS-TIFF-0.4                            77023
+Catalyst-ActionRole-JMS-1.0             77014 (involved: Sort::Naturally, CPANPLUS)
