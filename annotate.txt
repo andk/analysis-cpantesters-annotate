@@ -706,3 +706,4 @@ Test-Spec-0.44                          https://github.com/schwern/test-more/iss
 Unicode-Diacritic-Strip-0.01            76980
 XML-LibXSLT-Easy-0.03                   76982
 Fey-Loader-0.13                         76983
+Scalar-List-Utils-1.25                  https://github.com/schwern/test-more/issues/297
