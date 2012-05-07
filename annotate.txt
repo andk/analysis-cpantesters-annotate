@@ -534,7 +534,6 @@ Mail-IMAPClient-3.30                    74733
 DateTime-Factory-0.01                   renamed to DateTimeX-Factory
 CGI-Info-0.18                           74801
 Text-SimpleVaddrbook-0.01               74802
-Math-Clipper-1.05                       74828
 Image-PNG-FileConvert-0.02              74840
 Geo-Distance-Google-0.01                74841
 Arepa-0.91                              74842
@@ -709,3 +708,4 @@ Fey-Loader-0.13                         76983
 Scalar-List-Utils-1.25                  https://github.com/schwern/test-more/issues/297
 MAS-TIFF-0.4                            77023
 Catalyst-ActionRole-JMS-1.0             77014 (involved: Sort::Naturally, CPANPLUS)
+Math-Clipper-1.07                       74828
