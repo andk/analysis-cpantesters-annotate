@@ -709,3 +709,4 @@ Scalar-List-Utils-1.25                  https://github.com/schwern/test-more/iss
 MAS-TIFF-0.4                            77023
 Catalyst-ActionRole-JMS-1.0             77014 (involved: Sort::Naturally, CPANPLUS)
 Math-Clipper-1.07                       74828
+Role-Tiny-1.001002                      77049
