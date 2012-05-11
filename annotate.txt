@@ -711,3 +711,5 @@ Catalyst-ActionRole-JMS-1.0             77014 (involved: Sort::Naturally, CPANPL
 Math-Clipper-1.07                       74828
 Role-Tiny-1.001002                      77049
 Class-Accessor-Lite-Lazy-0.01           https://github.com/schwern/test-more/issues/298
+Plack-Client-0.06                       77123
+PHP-Functions-File-0.01                 77124
