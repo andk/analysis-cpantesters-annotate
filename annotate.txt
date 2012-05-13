@@ -713,3 +713,7 @@ Role-Tiny-1.001002                      77049
 Class-Accessor-Lite-Lazy-0.01           https://github.com/schwern/test-more/issues/298
 Plack-Client-0.06                       77123
 PHP-Functions-File-0.01                 77124
+App-Prove-Plugin-Cluster-0.01           77153
+Test-BoostUnit-0.01                     77155
+Feed-Find-0.07                          77144
+Plack-Middleware-ReverseProxy-0.11      77158
