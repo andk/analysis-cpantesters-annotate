@@ -725,3 +725,4 @@ DBI-Easy-0.24                           was Test::Mode but dixed in later 1.005
 GD-2.46                                 49053
 AI-Genetic-Pro-0.401                    https://github.com/schwern/test-more/issues/303
 AnyEvent-Groonga-0.07                   https://github.com/schwern/test-more/issues/304
+Catalyst-Engine-HTTP-Prefork-0.51       72131
