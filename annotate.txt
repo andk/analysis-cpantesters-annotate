@@ -722,3 +722,5 @@ MooseX-Types-Locale-Country-0.04        https://github.com/schwern/test-more/iss
 Test-Dist-VersionSync-1.0.2             https://github.com/schwern/test-more/issues/301
 Test-Able-0.11                          https://github.com/schwern/test-more/issues/302
 DBI-Easy-0.24                           was Test::Mode but dixed in later 1.005
+GD-2.46                                 49053
+AI-Genetic-Pro-0.401                    https://github.com/schwern/test-more/issues/303
