@@ -730,3 +730,13 @@ Class-StateMachine-0.18                 was Test::More but fixed in recent 1.005
 CGI-Emulate-PSGI-0.14                   https://github.com/schwern/test-more/issues/305
 App-mgen-0.16                           https://github.com/schwern/test-more/issues/307
 Data-Monad-0.02                         https://github.com/schwern/test-more/issues/308
+Catalyst-Log-Log4perl-1.05              https://github.com/schwern/test-more/issues/309
+AnyEvent-Twitter-0.62                   https://github.com/schwern/test-more/issues/310
+Game-TextPacMonster-0.03                https://github.com/schwern/test-more/issues/311
+Log-Sigil-0.15                          https://github.com/schwern/test-more/issues/312
+Proc-Guard-0.06                         was Test::More but fixed in recent 1.005x
+WWW-PGXN-v0.12.2                        was Test::More but fixed in recent 1.005x
+Date-Holidays-PAK-0.06                  was Test::More but fixed in recent 1.005x
+HTML-LinkFilter-0.03                    https://github.com/schwern/test-more/issues/313
+Unicode-Properties-0.04                 was Test::More but fixed in recent 1.005x
+HTML-Barcode-Code93-0.10                https://github.com/schwern/test-more/issues/314
