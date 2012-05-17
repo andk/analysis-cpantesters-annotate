@@ -721,8 +721,12 @@ Test-WWW-Mechanize-Catalyst-0.57        77181
 MooseX-Types-Locale-Country-0.04        https://github.com/schwern/test-more/issues/300
 Test-Dist-VersionSync-1.0.2             https://github.com/schwern/test-more/issues/301
 Test-Able-0.11                          https://github.com/schwern/test-more/issues/302
-DBI-Easy-0.24                           was Test::Mode but dixed in later 1.005
+DBI-Easy-0.24                           was Test::More but fixed in recent 1.005x
 GD-2.46                                 49053
 AI-Genetic-Pro-0.401                    https://github.com/schwern/test-more/issues/303
 AnyEvent-Groonga-0.07                   https://github.com/schwern/test-more/issues/304
 Catalyst-Engine-HTTP-Prefork-0.51       72131
+Class-StateMachine-0.18                 was Test::More but fixed in recent 1.005x
+CGI-Emulate-PSGI-0.14                   https://github.com/schwern/test-more/issues/305
+App-mgen-0.16                           https://github.com/schwern/test-more/issues/307
+Data-Monad-0.02                         https://github.com/schwern/test-more/issues/308
