@@ -372,7 +372,6 @@ String-ToIdentifier-EN-0.06             was a bleadperl bug
 YAML-0.77                               73483
 Tk-804.030                              73487
 Clone-Closure-0.06                      69111
-eBay-API-Simple-0.27                    73493
 Crypt-PWSafe3-1.01                      73494
 WebService-FreeDB-0.78                  73496
 ASP4x-Captcha-Imager-0.003              73499
@@ -609,7 +608,6 @@ Unicode-Digits-20090607                 75525
 XML-Checker-0.13                        75526
 autodie-2.10                            75527
 selfvars-0.32                           75528
-AnyEvent-Blackboard-v0.2.4              75529
 MouseX-Types-Path-Class-0.06            75534
 File-Stat-Moose-0.06                    75535
 Acme-MetaSyntactic-0.99_02              75537
@@ -721,12 +719,12 @@ Test-WWW-Mechanize-Catalyst-0.57        77181
 MooseX-Types-Locale-Country-0.04        https://github.com/schwern/test-more/issues/300
 Test-Dist-VersionSync-1.0.2             https://github.com/schwern/test-more/issues/301
 Test-Able-0.11                          https://github.com/schwern/test-more/issues/302
-DBI-Easy-0.24                           was Test::More but fixed in recent 1.005x
+DBI-Easy-0.24                           was Test::More but fixed in recent 1.5...05
 GD-2.46                                 49053
 AI-Genetic-Pro-0.401                    https://github.com/schwern/test-more/issues/303
 AnyEvent-Groonga-0.07                   https://github.com/schwern/test-more/issues/304
 Catalyst-Engine-HTTP-Prefork-0.51       72131
-Class-StateMachine-0.18                 was Test::More but fixed in recent 1.005x
+Class-StateMachine-0.18                 was Test::More but fixed in recent 1.5...05
 CGI-Emulate-PSGI-0.14                   https://github.com/schwern/test-more/issues/305
 App-mgen-0.16                           https://github.com/schwern/test-more/issues/307
 Data-Monad-0.02                         https://github.com/schwern/test-more/issues/308
@@ -734,9 +732,17 @@ Catalyst-Log-Log4perl-1.05              https://github.com/schwern/test-more/iss
 AnyEvent-Twitter-0.62                   https://github.com/schwern/test-more/issues/310
 Game-TextPacMonster-0.03                https://github.com/schwern/test-more/issues/311
 Log-Sigil-0.15                          https://github.com/schwern/test-more/issues/312
-Proc-Guard-0.06                         was Test::More but fixed in recent 1.005x
-WWW-PGXN-v0.12.2                        was Test::More but fixed in recent 1.005x
-Date-Holidays-PAK-0.06                  was Test::More but fixed in recent 1.005x
+Proc-Guard-0.06                         was Test::More but fixed in recent 1.5...05
+WWW-PGXN-v0.12.2                        was Test::More but fixed in recent 1.5...05
+Date-Holidays-PAK-0.06                  was Test::More but fixed in recent 1.5...05
 HTML-LinkFilter-0.03                    https://github.com/schwern/test-more/issues/313
-Unicode-Properties-0.04                 was Test::More but fixed in recent 1.005x
+Unicode-Properties-0.04                 was Test::More but fixed in recent 1.5...05
 HTML-Barcode-Code93-0.10                https://github.com/schwern/test-more/issues/314
+Test-Script-Shebang-0.02                was Test::More but fixed in recent 1.5...05
+Spiffy-0.30                             72542
+AnyEvent-Blackboard-v0.2.6              75529
+Command-Do-0.08                         77268
+eBay-API-Simple-0.28                    73493
+Ruby-VersionManager-0.003009            77269
+Cisco-UCS-Common-SwitchCard-0.1         77270
+Net-TinyIp-0.07                         77271
