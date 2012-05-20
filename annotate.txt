@@ -705,7 +705,7 @@ XML-LibXSLT-Easy-0.03                   76982
 Fey-Loader-0.13                         76983
 Scalar-List-Utils-1.25                  https://github.com/schwern/test-more/issues/297
 MAS-TIFF-0.4                            77023
-Catalyst-ActionRole-JMS-1.0             77014 (involved: Sort::Naturally, CPANPLUS)
+Catalyst-ActionRole-JMS-1.0             77014, Sort::Naturally, CPANPLUS
 Math-Clipper-1.07                       74828
 Role-Tiny-1.001002                      77049
 Class-Accessor-Lite-Lazy-0.01           https://github.com/schwern/test-more/issues/298
@@ -749,3 +749,4 @@ Net-TinyIp-0.07                         77271
 Mojolicious-Plugin-DOCRenderer-2.00     77272
 PostScript-Report-0.10                  77299
 File-LinkDir-1.02                       77300
+IO-Async-Loop-Glib-0.20                 71422
