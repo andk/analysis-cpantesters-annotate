@@ -497,7 +497,6 @@ Sys-Config-Manage-0.3.0                 74415
 ObjectDB-InflateColumn-0.01             74416
 Module-CPANTS-Analyse-0.85              74251 Module::Find, 74252 File::MMagic
 File-Map-0.42                           74436
-Package-Variant-1.000000                74437
 POE-Declare-0.58                        74474
 Validation-Class-3.4.3                  74251 Module::Find, 74478
 PocketIO-0.12                           74475
@@ -751,3 +750,5 @@ File-LinkDir-1.02                       77300
 IO-Async-Loop-Glib-0.20                 71422
 MediaWiki-Bot-3.005002                  https://github.com/MediaWiki-Bot/MediaWiki-Bot/issues/40
 WWW-Translate-Apertium-0.16             77418
+Package-Variant-1.001001                74437
+Rose-DB-0.768                           77420
