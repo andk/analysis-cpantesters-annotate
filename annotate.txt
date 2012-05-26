@@ -752,3 +752,6 @@ MediaWiki-Bot-3.005002                  https://github.com/MediaWiki-Bot/MediaWi
 WWW-Translate-Apertium-0.16             77418
 Package-Variant-1.001001                74437
 Rose-DB-0.768                           77420
+Date-Period-Human-v0.4.2                77434
+Math-Assistant-0.04                     77441
+Math-PlanePath-74                       77442
