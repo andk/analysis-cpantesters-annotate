@@ -760,3 +760,5 @@ File-ANVL-1.04                          77492
 HTML-StripScripts-1.05                  https://rt.perl.org/rt3//Public/Bug/Display.html?id=113094
 Crypt-X509-0.51                         77679
 URI-Fetch-0.09                          77131
+Sys-Filesystem-1.30                     77699
+Text-Sass-0.95                          77718
