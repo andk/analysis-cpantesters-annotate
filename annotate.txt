@@ -765,3 +765,4 @@ Text-Sass-0.95                          77718
 Toader-0.3.0                            77729
 Perl-Node-Interface-0.35                77731
 CatalystX-OAuth2-0.001002               77742
+Class-InsideOut-1.10                    77860
