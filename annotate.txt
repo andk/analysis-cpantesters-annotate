@@ -766,3 +766,6 @@ Toader-0.3.0                            77729
 Perl-Node-Interface-0.35                77731
 CatalystX-OAuth2-0.001002               77742
 Class-InsideOut-1.10                    77860
+DBIx-Pg-CallFunction-0.011              77968
+Plack-Middleware-Test-StashWarnings-0.06 77970
+POE-Component-IRC-Plugin-WubWubWub-0.1  77981
