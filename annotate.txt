@@ -769,3 +769,4 @@ Class-InsideOut-1.10                    77860
 DBIx-Pg-CallFunction-0.011              77968
 Plack-Middleware-Test-StashWarnings-0.06 77970
 POE-Component-IRC-Plugin-WubWubWub-0.1  77981
+MendeleySQLite-0.001                    77986
