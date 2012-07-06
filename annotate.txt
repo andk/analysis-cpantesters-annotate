@@ -704,7 +704,6 @@ Fey-Loader-0.13                         76983
 Scalar-List-Utils-1.25                  https://github.com/schwern/test-more/issues/297
 MAS-TIFF-0.4                            77023
 Catalyst-ActionRole-JMS-1.0             77014, Sort::Naturally, CPANPLUS
-Math-Clipper-1.07                       74828
 Role-Tiny-1.001002                      77049
 Class-Accessor-Lite-Lazy-0.01           https://github.com/schwern/test-more/issues/298
 Plack-Client-0.06                       77123
@@ -758,6 +757,7 @@ Math-PlanePath-74                       77442
 nana-0.22                               77470
 File-ANVL-1.04                          77492
 HTML-StripScripts-1.05                  https://rt.perl.org/rt3//Public/Bug/Display.html?id=113094
+Math-Clipper-1.09                       74828
 Crypt-X509-0.51                         77679
 URI-Fetch-0.09                          77131
 Sys-Filesystem-1.30                     77699
