@@ -772,3 +772,4 @@ POE-Component-IRC-Plugin-WubWubWub-0.1  77981
 MendeleySQLite-0.001                    77986
 Test-Class-Filter-Tags-0.11             78083
 perl5-0.09                              78255
+Olson-Abbreviations-0.03                78625
