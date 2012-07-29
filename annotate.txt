@@ -773,3 +773,7 @@ MendeleySQLite-0.001                    77986
 Test-Class-Filter-Tags-0.11             78083
 perl5-0.09                              78255
 Olson-Abbreviations-0.03                78625
+CPAN-Testers-Config-0.001               https://rt.perl.org:443/rt3/Ticket/Display.html?id=114304
+HTML-FormHandler-0.40013                https://rt.perl.org:443/rt3/Ticket/Display.html?id=114292
+HTML-Perlinfo-1.62                      78637
+Tree-XPathEngine-0.05                   78638
