@@ -778,3 +778,5 @@ HTML-FormHandler-0.40013                https://rt.perl.org:443/rt3/Ticket/Displ
 HTML-Perlinfo-1.62                      78637
 Tree-XPathEngine-0.05                   78638
 text-anagram-0.0                        78651
+Template-Toolkit-2.24                   78731
+Test-TinyMocker-0.03                    77680
