@@ -780,3 +780,4 @@ Tree-XPathEngine-0.05                   78638
 text-anagram-0.0                        78651
 Template-Toolkit-2.24                   78731
 Test-TinyMocker-0.03                    77680
+String-Comments-Extract-0.023           78756
