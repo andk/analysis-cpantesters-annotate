@@ -781,3 +781,4 @@ text-anagram-0.0                        78651
 Template-Toolkit-2.24                   78731
 Test-TinyMocker-0.03                    77680
 String-Comments-Extract-0.023           78756
+Lingua-EN-Titlecase-0.14                78773
