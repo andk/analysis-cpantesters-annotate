@@ -782,3 +782,5 @@ Template-Toolkit-2.24                   78731
 Test-TinyMocker-0.03                    77680
 String-Comments-Extract-0.023           78756
 Lingua-EN-Titlecase-0.14                78773
+Org-Parser-0.26                         78795
+Test-Simpler-0.000002                   78796
