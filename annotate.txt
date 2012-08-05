@@ -785,3 +785,4 @@ Lingua-EN-Titlecase-0.14                78773
 Org-Parser-0.26                         78795
 Test-Simpler-0.000002                   78796
 marc-mir-template-0.0                   78797
+Parse-EDID-1.0.1                        78798
