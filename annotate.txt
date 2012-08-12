@@ -787,3 +787,4 @@ Test-Simpler-0.000002                   78796
 marc-mir-template-0.0                   78797
 Parse-EDID-1.0.1                        78798
 I18N-Charset-1.401                      78917
+XML-RSS-Feed-2.32                       78918
