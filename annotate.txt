@@ -789,3 +789,4 @@ Parse-EDID-1.0.1                        78798
 I18N-Charset-1.401                      78917
 XML-RSS-Feed-2.32                       78918
 Markup-Unified-0.03                     78925
+Config-Find-0.26                        78944
