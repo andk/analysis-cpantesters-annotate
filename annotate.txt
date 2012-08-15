@@ -791,3 +791,4 @@ XML-RSS-Feed-2.32                       78918
 Markup-Unified-0.03                     78925
 Config-Find-0.26                        78944
 Lingua-RU-Inflect-0.02                  78884
+Data-StreamDeserializer-0.06            78969
