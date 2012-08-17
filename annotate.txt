@@ -804,3 +804,15 @@ Device-TLSPrinter-0.50                  79038
 DBIx-Connect-FromConfig-0.05            79039
 Finance-Currency-Convert-XE-0.21        79040
 DateTime-Event-Easter-1.04              79041
+Locale-Maketext-Lexicon-DBI-v0.2.1      79049
+Net-Radius-2.103                        79050
+Catalyst-View-PDF-Reuse-0.04            79051
+Lingua-LO-Romanize-0.09                 79052
+Lingua-StarDict-Gen-0.09                79053
+Math-Polynomial-Solve-2.62_2            79054
+SVG-Sparkline-0.35                      79055
+LaTeX-Decode-0.03                       79056
+Shell-Perl-0.0022                       79057
+Carp-Always-0.11                        77656
+WWW-3Taps-API-0.06                      79058
+Music-Tag-0.4103                        79059
