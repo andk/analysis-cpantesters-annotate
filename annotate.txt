@@ -794,3 +794,13 @@ Lingua-RU-Inflect-0.02                  78884
 Data-StreamDeserializer-0.06            78969
 App-Taskflow-0.5                        79011
 Data-Abridge-0.02.04                    79012
+Mail-Transport-Dbx-0.07                 79031
+Games-Pentago-0.01                      79032
+Lingua-HU-Numbers-0.07                  79033
+Math-Symbolic-0.606                     79034
+Test-Regression-0.06                    79036
+Finnigan-0.0206d                        79037
+Device-TLSPrinter-0.50                  79038
+DBIx-Connect-FromConfig-0.05            79039
+Finance-Currency-Convert-XE-0.21        79040
+DateTime-Event-Easter-1.04              79041
