@@ -830,3 +830,4 @@ Geo-Postcodes-0.32                      79083
 Lingua-PT-ProperNames-0.09              79084
 Lingua-PT-Abbrev-0.07                   79084
 Lingua-PT-Inflect-0.06                  79080
+PGXN-Site-v0.10.0                       79086
