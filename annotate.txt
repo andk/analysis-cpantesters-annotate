@@ -835,3 +835,4 @@ Module-Release-2.06                     78442
 Math-Polynomial-Solve-2.61              79054
 CGI-Auth-Basic-1.21                     79094
 Regexp-Grammars-1.020                   79095
+Data-UUID-Base64URLSafe-0.34            79096
