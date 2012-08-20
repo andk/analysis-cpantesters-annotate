@@ -831,3 +831,7 @@ Lingua-PT-ProperNames-0.09              79084
 Lingua-PT-Abbrev-0.07                   79084
 Lingua-PT-Inflect-0.06                  79080
 PGXN-Site-v0.10.0                       79086
+Module-Release-2.06                     78442
+Math-Polynomial-Solve-2.61              79054
+CGI-Auth-Basic-1.21                     79094
+Regexp-Grammars-1.020                   79095
