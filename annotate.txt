@@ -839,3 +839,4 @@ Data-UUID-Base64URLSafe-0.34            79096
 Validation-Class-7.82                   https://github.com/alnewkirk/Validation-Class/issues/27
 Catalyst-Engine-Embeddable-0.000003     79128
 AI-Calibrate-1.5                        79145
+Eval-Compile-0.10                       79153
