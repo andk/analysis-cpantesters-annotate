@@ -840,3 +840,4 @@ Validation-Class-7.82                   https://github.com/alnewkirk/Validation-
 Catalyst-Engine-Embeddable-0.000003     79128
 AI-Calibrate-1.5                        79145
 Eval-Compile-0.10                       79153
+DBIx-Class-InflateColumn-Boolean-0.001001 79181
