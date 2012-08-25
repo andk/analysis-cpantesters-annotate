@@ -841,3 +841,4 @@ Catalyst-Engine-Embeddable-0.000003     79128
 AI-Calibrate-1.5                        79145
 Eval-Compile-0.10                       79153
 DBIx-Class-InflateColumn-Boolean-0.001001 79181
+MojoX-Renderer-Haml-0.990103            79209
