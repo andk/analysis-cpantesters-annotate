@@ -847,3 +847,8 @@ Role-Log-Syslog-Fast-0.14               79255
 Moose-2.0603                            https://rt.perl.org/rt3/Ticket/Display.html?id=114628
 CSS-DOM-0.14                            https://rt.perl.org/rt3/Ticket/Display.html?id=114628
 B-Generate-1.46                         https://rt.perl.org/rt3/Ticket/Display.html?id=114632
+Scope-Escape-0.004                      https://rt.perl.org/rt3/Ticket/Display.html?id=114556
+Sub-Mutate-0.004                        https://rt.perl.org/rt3/Ticket/Display.html?id=114556
+Scope-Upper-0.18                        https://rt.perl.org/rt3/Ticket/Display.html?id=114556
+B-Hooks-Parser-0.11                     https://rt.perl.org/rt3/Ticket/Display.html?id=114658
+Mojolicious-3.35                        https://rt.perl.org/rt3/Ticket/Display.html?id=114658
