@@ -852,3 +852,7 @@ Sub-Mutate-0.004                        https://rt.perl.org/rt3/Ticket/Display.h
 Scope-Upper-0.18                        https://rt.perl.org/rt3/Ticket/Display.html?id=114556
 B-Hooks-Parser-0.11                     https://rt.perl.org/rt3/Ticket/Display.html?id=114658
 Mojolicious-3.35                        https://rt.perl.org/rt3/Ticket/Display.html?id=114658
+Math-BigInt-Lite-0.14                   75667
+MooseX-Documenter-0.01                  79319
+Text-Filter-Froggy-0.0.0                79320
+Mojo-Command-Generate-InitScript-0.03   79321
