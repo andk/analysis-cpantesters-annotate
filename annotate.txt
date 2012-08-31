@@ -856,3 +856,4 @@ Math-BigInt-Lite-0.14                   75667
 MooseX-Documenter-0.01                  79319
 Text-Filter-Froggy-0.0.0                79320
 Mojo-Command-Generate-InitScript-0.03   79321
+HTML-FormHandlerX-Form-JQueryValidator-0.01 79323
