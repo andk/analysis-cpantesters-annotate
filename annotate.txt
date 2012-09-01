@@ -858,3 +858,4 @@ Text-Filter-Froggy-0.0.0                79320
 Mojo-Command-Generate-InitScript-0.03   79321
 HTML-FormHandlerX-Form-JQueryValidator-0.01 79323
 MooseX-CoercePerAttribute-0.802         79336
+autobox-Core-1.24                       79337
