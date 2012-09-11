@@ -864,3 +864,4 @@ MooseX-Semantic-0.006                   79349
 Net-GDrive-0.01                         79362
 App-Mypp-0.13                           79493
 Net-GoogleDrive-0.02                    79545
+LaTeX-Encode-0.06                       79559
