@@ -866,3 +866,5 @@ Net-GoogleDrive-0.02                    79545
 LaTeX-Encode-0.06                       79559
 Bio-SSRTool-0.01                        79654
 Test-Simpler-0.000004                   78796
+CGI-Snapp-1.01                          79660
+Unicode-Support-0.001                   79669
