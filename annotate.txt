@@ -871,3 +871,4 @@ Unicode-Support-0.001                   79669
 RDF-NS-20120905                         79670
 File-DirWalk-0.4                        79738
 Data-Rx-TypeBundle-Rx-0.103520          79743
+Mojolicious-Plugin-ParamCondition-0.003 79768
