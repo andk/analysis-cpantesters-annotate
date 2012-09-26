@@ -178,7 +178,6 @@ Tie-Scalar-Random-0.02                  66951
 Math-Polynom-0.13                       67229
 Finance-GeniusTrader-0.00_50            undeclared dependency on Data::Calc but no RT queue
 Frost-0.70                              67547
-ORDB-CPANMeta-Generator-0.11            67599
 Doorman-0.06                            67651
 AnyEvent-Inotify-Simple-0.02            67725
 Acme-Base64-0.03                        fixed in perl 5.14
@@ -881,3 +880,4 @@ Data-Model-0.00007                      76404
 Search-Tools-0.81                       https://rt.perl.org/rt3/Ticket/Display.html?id=115010
 WebService-Pastefire-0.02               79857
 HTTP-Headers-ActionPack-0.04            79859
+ORDB-CPANMeta-Generator-0.12            67599
