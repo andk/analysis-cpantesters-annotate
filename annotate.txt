@@ -351,7 +351,6 @@ Template-Plugin-ScalarUtil-1.110920     73305
 Devel-PtrTable-0.02                     73306
 TEI-Lite-0.60                           63186
 WebService-Sprint-0.01                  73309
-Search-Tools-0.66                       was a bleadperl bug
 Regexp-Optimizer-0.16_001               was a bleadperl bug
 Net-ZooTool-0.0031                      73331
 MooseX-Types-DateTime-ButMaintained-0.13 73332
@@ -879,3 +878,5 @@ autobox-2.75                            https://rt.perl.org/rt3/Ticket/Display.h
 Object-Import-1.002                     https://rt.perl.org/rt3/Ticket/Display.html?id=114998
 Lexical-Var-0.007                       https://rt.perl.org/rt3/Ticket/Display.html?id=114556
 Data-Model-0.00007                      76404
+Search-Tools-0.81                       https://rt.perl.org/rt3/Ticket/Display.html?id=115010
+WebService-Pastefire-0.02               79857
