@@ -880,3 +880,4 @@ Lexical-Var-0.007                       https://rt.perl.org/rt3/Ticket/Display.h
 Data-Model-0.00007                      76404
 Search-Tools-0.81                       https://rt.perl.org/rt3/Ticket/Display.html?id=115010
 WebService-Pastefire-0.02               79857
+HTTP-Headers-ActionPack-0.04            79859
