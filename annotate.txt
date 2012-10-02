@@ -884,3 +884,4 @@ Store-CouchDB-2.3                       74007
 Net-WebCL-0.02                          79954
 Shatterproof-0.001                      79955
 DataCube-1.01                           79957
+Package-Stash-XS-0.25                   tester has set AUTOR_TESTING
