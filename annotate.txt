@@ -744,7 +744,6 @@ Mojolicious-Plugin-DOCRenderer-2.00     77272
 PostScript-Report-0.10                  77299
 File-LinkDir-1.02                       77300
 IO-Async-Loop-Glib-0.20                 71422
-MediaWiki-Bot-3.005002                  https://github.com/MediaWiki-Bot/MediaWiki-Bot/issues/40
 WWW-Translate-Apertium-0.16             77418
 Package-Variant-1.001001                74437
 Rose-DB-0.768                           77420
@@ -887,3 +886,4 @@ DataCube-1.01                           79957
 Package-Stash-XS-0.25                   tester set AUTOR_TESTING
 Test-Trivial-1.9                        79972
 Net-Thumper-0.02                        80001
+MediaWiki-Bot-3.005003                  https://github.com/MediaWiki-Bot/MediaWiki-Bot/issues/40
