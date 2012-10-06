@@ -893,3 +893,4 @@ HTML-FromArrayref-1.03                  fixed in 1.05
 Time-Format-1.12                        a case for strace, Date::Manip only a "recommends"
 Message-Passing-0.109                   80034
 Parallel-Runner-0.012                   fails on solaris
+Test-Nginx-0.21                         80035
