@@ -894,3 +894,4 @@ Time-Format-1.12                        a case for strace, Date::Manip only a "r
 Message-Passing-0.109                   80034
 Parallel-Runner-0.012                   fails on solaris
 Test-Nginx-0.21                         80035
+Catalyst-Controller-Atompub-0.5.4       80038
