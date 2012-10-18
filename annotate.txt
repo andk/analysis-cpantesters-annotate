@@ -897,3 +897,4 @@ Test-Nginx-0.21                         80035
 Catalyst-Controller-Atompub-0.5.4       80038
 HTTP-Response-Encoding-0.06             80051
 RDF-TriN3-0.202                         80255
+Dancer-Plugin-FakeCGI-0.23              80256
