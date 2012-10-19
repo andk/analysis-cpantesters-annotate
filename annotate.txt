@@ -898,3 +898,7 @@ Catalyst-Controller-Atompub-0.5.4       80038
 HTTP-Response-Encoding-0.06             80051
 RDF-TriN3-0.202                         80255
 Dancer-Plugin-FakeCGI-0.23              80256
+Log-Any-Adapter-0.09                    80287
+Furl-Cookies-0.02                       80288
+Clone-Fast-0.97                         43248
+Lorem-0.200                             80289
