@@ -907,3 +907,4 @@ Char-GBK-0.83                           https://rt.perl.org/rt3//Public/Bug/Disp
 XML-Rules-1.13                          80308
 Role-Tiny-1.002000                      80310
 Proc-ProcessTable-0.46                  80436
+Time-Simple-0.06                        80461
