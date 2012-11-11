@@ -912,3 +912,5 @@ Config-Hash-0.912                       81103
 MooseX-ClassCompositor-0.005            81104
 Lexical-Types-0.12                      https://rt.perl.org/rt3//Public/Bug/Display.html?id=115684
 Math-Cephes-0.5301                      81105
+Devel-Caller-2.05                       https://rt.perl.org/rt3//Public/Bug/Display.html?id=115684
+Function-Parameters-1.00                https://rt.perl.org/rt3//Public/Bug/Display.html?id=115684
