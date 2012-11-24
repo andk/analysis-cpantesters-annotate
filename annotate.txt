@@ -914,3 +914,4 @@ Lexical-Types-0.12                      https://rt.perl.org/rt3//Public/Bug/Disp
 Math-Cephes-0.5301                      81105
 Devel-Caller-2.05                       https://rt.perl.org/rt3//Public/Bug/Display.html?id=115684
 Function-Parameters-1.00                https://rt.perl.org/rt3//Public/Bug/Display.html?id=115684
+Runops-Trace-0.14                       https://rt.perl.org/rt3//Public/Bug/Display.html?id=115684
