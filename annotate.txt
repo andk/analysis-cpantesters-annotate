@@ -915,3 +915,13 @@ Math-Cephes-0.5301                      81105
 Devel-Caller-2.05                       https://rt.perl.org/rt3//Public/Bug/Display.html?id=115684
 Function-Parameters-1.00                https://rt.perl.org/rt3//Public/Bug/Display.html?id=115684
 Runops-Trace-0.14                       https://rt.perl.org/rt3//Public/Bug/Display.html?id=115684
+Aspect-1.03                             81400
+Data-Printer-0.34                       81401
+ElasticSearch-SearchBuilder-0.17        https://github.com/clintongormley/ElasticSearch-SearchBuilder/issues/5
+CGI-Struct-1.20                         81402
+CatalystX-Controller-Sugar-0.0901       81407
+Net-Qiita-0.03                          81408
+cPanel-PublicAPI-1.002                  81409
+XML-LibXML-LazyBuilder-0.06             81411
+Class-AutoClass-1.54                    81420
+CGI-Easy-1.0.0                          81422
