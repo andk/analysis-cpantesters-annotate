@@ -936,3 +936,4 @@ Lingua-Boolean-0.006                    https://github.com/doherty/Lingua-Boolea
 Google-AJAX-Library-0.022               81440
 FormValidator-LazyWay-0.19              81441
 Crypt-OpenPGP-1.06                      81442
+POEx-Inotify-0.0100                     81446
