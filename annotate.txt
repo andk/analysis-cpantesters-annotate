@@ -929,3 +929,9 @@ Hash-AutoHash-Args-1.15                 81429
 Params-Validate-Checks-0.01             81430
 DateTime-Format-Flexible-0.23           81432
 Autocache-0.004                         81433
+Dancer-Plugin-Auth-Krb5-0.02            81436
+Term-GentooFunctions-1.3605             81438
+Socialtext-Resting-0.38                 81439
+Lingua-Boolean-0.006                    https://github.com/doherty/Lingua-Boolean/issues/4
+Google-AJAX-Library-0.022               81440
+FormValidator-LazyWay-0.19              81441
