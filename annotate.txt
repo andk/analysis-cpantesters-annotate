@@ -937,3 +937,7 @@ Google-AJAX-Library-0.022               81440
 FormValidator-LazyWay-0.19              81441
 Crypt-OpenPGP-1.06                      81442
 POEx-Inotify-0.0100                     81446
+XML-TinyXML-0.30                        81447
+WebService-Simple-0.18                  81448
+Tie-Hash-Indexed-0.05                   81449
+Test-Inline-2.212                       81450
