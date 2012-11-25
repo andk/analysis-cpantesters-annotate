@@ -925,3 +925,7 @@ cPanel-PublicAPI-1.002                  81409
 XML-LibXML-LazyBuilder-0.06             81411
 Class-AutoClass-1.54                    81420
 CGI-Easy-1.0.0                          81422
+Hash-AutoHash-Args-1.15                 81429
+Params-Validate-Checks-0.01             81430
+DateTime-Format-Flexible-0.23           81432
+Autocache-0.004                         81433
