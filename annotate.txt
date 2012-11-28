@@ -948,3 +948,5 @@ Test-Weaken-3.020000                    81498
 XML-ExtOn-0.17                          81500
 Verilog-Perl-3.317                      81501
 Text-vCard-2.12                         81502
+DBI-1.622_921                           81516
+XML-Rabbit-0.1.1                        81519
