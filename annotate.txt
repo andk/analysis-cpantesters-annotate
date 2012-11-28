@@ -941,3 +941,10 @@ XML-TinyXML-0.30                        81447
 WebService-Simple-0.18                  81448
 Tie-Hash-Indexed-0.05                   81449
 Test-Inline-2.212                       81450
+SQL-Abstract-More-1.07                  81485
+Parse-CPAN-Packages-2.37                81486
+Reflex-0.098                            81497
+Test-Weaken-3.020000                    81498
+XML-ExtOn-0.17                          81500
+Verilog-Perl-3.317                      81501
+Text-vCard-2.12                         81502
