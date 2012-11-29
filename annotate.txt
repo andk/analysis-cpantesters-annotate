@@ -952,3 +952,6 @@ DBI-1.622_921                           81516
 XML-Rabbit-0.1.1                        81519
 Graph-Easy-0.72                         81524
 YUI-Loader-0.071                        81525
+WebService-Solr-0.19                    81527
+Search-Tools-0.84                       81528
+Net-FastCGI-0.13                        81543
