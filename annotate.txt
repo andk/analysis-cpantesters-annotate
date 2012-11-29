@@ -950,3 +950,5 @@ Verilog-Perl-3.317                      81501
 Text-vCard-2.12                         81502
 DBI-1.622_921                           81516
 XML-Rabbit-0.1.1                        81519
+Graph-Easy-0.72                         81524
+YUI-Loader-0.071                        81525
