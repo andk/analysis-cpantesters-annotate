@@ -960,3 +960,22 @@ POE-Filter-JSON-0.04                    Hmmm, not a randomization problem it see
 RDF-NS-20120917                         https://github.com/nichtich/RDF-NS/issues/2
 TAP-Formatter-JUnit-0.09                81552
 Test-Module-Used-0.2.3                  81553
+Transmission-Client-0.0603              81561
+WebService-LastFM-SimilarArtists-0.02   Hmmm, not a randomization problem it seems
+Locale-Maketext-Lexicon-0.91            81562
+Mojolicious-Plugin-ShareHelpers-0.52    81563
+MooseX-Attribute-Deflator-2.2.1         https://github.com/monken/p5-moosex-attribute-deflator/issues/4
+MooseX-AttributeHelpers-0.23            81564
+Net-Google-FederatedLogin-0.7.1         81565
+Net-HTTP-API-0.14                       81566
+Net-HTTP-Spore-0.04                     https://github.com/franckcuny/net-http-spore/issues/19
+Net-ISC-DHCPd-0.14                      81567
+ObjectDBI-0.15                          suspect of being randomization victim; waiting on DBI
+ONTO-PERL-1.40                          PREREQ_FATAL
+Package-Watchdog-0.09                   81568
+PDF-API2-2.019                          81569
+PHP-HTTPBuildQuery-0.05                 81570
+Pod-WSDL-0.061                          81571
+POE-Component-Client-BigBrother-1.00    81572
+POE-Component-Client-SMTP-0.22          Hmmm, not a randomization problem it seems
+RDF-Trine-1.002                         suspect of being randomization victim; waiting on DBI
