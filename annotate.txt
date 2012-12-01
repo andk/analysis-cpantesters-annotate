@@ -987,3 +987,5 @@ Su-0.100                                81595
 Tie-FieldVals-0.6202                    81596
 Ubic-1.46                               https://github.com/berekuk/Ubic/issues/45
 Validation-Class-7.86                   https://github.com/alnewkirk/Validation-Class/issues/30
+Class-Trait-0.31                        81598
+Catalyst-Runtime-5.90018                81601
