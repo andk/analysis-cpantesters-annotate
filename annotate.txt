@@ -1014,3 +1014,9 @@ Hash-SafeKeys-0.02                      81632
 HTML-StickyQuery-DoCoMoGUID-0.03        81633
 HTML-Transmorgify-0.09                  81634
 Internals-DumpArenas-0.12               81635
+Brickyard-1.111750                      81636
+Data-Dump-XML-1.19                      81637
+DBIx-Class-0.08204                      81638
+DBIx-ObjectMapper-0.3013                81639
+DBIx-Simple-OO-0.02                     81642
+DBIx-Skinny-0.0742                      81643
