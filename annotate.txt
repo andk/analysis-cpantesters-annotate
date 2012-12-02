@@ -1020,3 +1020,13 @@ DBIx-Class-0.08204                      81638
 DBIx-ObjectMapper-0.3013                81639
 DBIx-Simple-OO-0.02                     81642
 DBIx-Skinny-0.0742                      81643
+Data-Beacon-0.2.5                       https://github.com/nichtich/p5-data-beacon/issues/5
+Net-MQTT-1.112330                       https://github.com/beanz/net-mqtt-perl/issues/1
+Test-HTTP-Response-0.04                 81644
+XML-Hash-LX-0.0603                      81645
+CGI-Application-Plugin-Stream-2.10      81646
+CGI-FormBuilder-3.08                    81650
+Data-PowerSet-Hash-0.02                 81651
+HTML-FillInForm-2.1                     81652
+MojoX-Dispatcher-Qooxdoo-Jsonrpc-0.88   81653
+autobox-JSON-0.0003                     81654
