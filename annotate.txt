@@ -653,7 +653,6 @@ Net-Fluidinfo-0.45                      76547
 PDL-EditDistance-0.05001                76461
 Pod-Inherit-0.10                        73992
 Math-Geometry-Planar-Offset-1.05        42045
-DateTime-Format-CLDR-1.12               62717
 Data-Validate-0.08                      63213
 nextgen-0.06                            https://rt.perl.org:443/rt3/Ticket/Display.html?id=112444
 Lingua-FR-Numbers-0.04                  too old for analysis?
@@ -753,7 +752,6 @@ Math-PlanePath-74                       77442
 nana-0.22                               77470
 File-ANVL-1.04                          77492
 HTML-StripScripts-1.05                  https://rt.perl.org/rt3//Public/Bug/Display.html?id=113094
-Math-Clipper-1.09                       74828
 Crypt-X509-0.51                         77679
 URI-Fetch-0.09                          77131
 Sys-Filesystem-1.30                     77699
@@ -1030,3 +1028,9 @@ Data-PowerSet-Hash-0.02                 81651
 HTML-FillInForm-2.1                     81652
 MojoX-Dispatcher-Qooxdoo-Jsonrpc-0.88   81653
 autobox-JSON-0.0003                     81654
+Gtk2-1.245                              81656
+DateTime-Format-CLDR-1.14               62717
+Math-Clipper-1.15                       74828
+Mojolicious-Plugin-KossyValidator-0.02  81657
+Mojolicious-Command-listdeps-0.05       81659
+Smart-Dispatch-0.003                    81658
