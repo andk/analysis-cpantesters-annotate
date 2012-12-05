@@ -1036,3 +1036,8 @@ Mojolicious-Command-listdeps-0.05       81659
 Smart-Dispatch-0.003                    81658
 InterMine-Item-0.98                     81677
 Collection-0.55                         81678
+Mojolicious-Plugin-SQLMaker-0.02        81705
+Pod-POM-0.27                            81707
+MooseX-Traits-Attribute-MergeHashRef-1.002 81712
+MooseX-MetaDescription-0.05             81713
+JS-YUI-Loader-0.06                      obsolete namespace (now YUI-Loader)
