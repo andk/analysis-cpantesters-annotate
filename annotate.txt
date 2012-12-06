@@ -966,7 +966,7 @@ MooseX-Attribute-Deflator-2.2.1         https://github.com/monken/p5-moosex-attr
 MooseX-AttributeHelpers-0.23            81564
 Net-Google-FederatedLogin-0.7.1         81565
 Net-HTTP-API-0.14                       81566
-Net-HTTP-Spore-0.04                     https://github.com/franckcuny/net-http-spore/issues/19
+Net-HTTP-Spore-0.05                     https://github.com/franckcuny/net-http-spore/issues/19
 Net-ISC-DHCPd-0.14                      81567
 ObjectDBI-0.15                          suspect of being randomization victim; waiting on DBI
 ONTO-PERL-1.40                          PREREQ_FATAL
@@ -980,7 +980,6 @@ RDF-Trine-1.002                         suspect of being randomization victim; w
 MooseX-Net-API-0.12                     deprecated; see Net::HTTP::API
 Net-Bot-IRC-NumericCodes-0.05           81591
 PITA-XML-0.51                           81592
-DateTime-TimeZone-1.55                  81593
 Su-0.100                                81595
 Tie-FieldVals-0.6202                    81596
 Ubic-1.46                               https://github.com/berekuk/Ubic/issues/45
@@ -1042,3 +1041,6 @@ MooseX-Traits-Attribute-MergeHashRef-1.002 81712
 MooseX-MetaDescription-0.05             81713
 JS-YUI-Loader-0.06                      obsolete namespace (now YUI-Loader)
 Dist-Zilla-Role-Stash-Plugins-1.005     81716
+Getopt-Euclid-0.2.7                     81630
+Data-DPath-0.47                         obsolete version
+DBI-1.622                               has newer dev version
