@@ -1044,3 +1044,6 @@ Dist-Zilla-Role-Stash-Plugins-1.005     81716
 Getopt-Euclid-0.2.7                     81630
 Data-DPath-0.47                         obsolete version
 DBI-1.622                               has newer dev version
+MooseX-AttributeCloner-0.25             81749
+Dancer-Plugin-TimeRequests-0.04         81750
+Catalyst-Plugin-Moostash-v0.1.0         81751
