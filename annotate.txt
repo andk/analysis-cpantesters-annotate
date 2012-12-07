@@ -1056,3 +1056,4 @@ Convert-yEnc-1.04                       81431
 Spreadsheet-WriteExcelXML-0.13          81766
 Code-Splice-0.02                        81768
 Catalyst-Plugin-Text-Xatena-0.02        81769
+Test-WWW-Selenium-1.34                  81770
