@@ -1052,3 +1052,5 @@ List-Cycle-1.00                         81762
 Monitoring-Livestatus-Class-0.03        obsolete version
 MooseX-Method-Signatures-0.43           obsolete version
 POE-Component-DirWatch-0.300001         81765
+Convert-yEnc-1.04                       81431
+Spreadsheet-WriteExcelXML-0.13          81766
