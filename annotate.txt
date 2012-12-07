@@ -1047,3 +1047,4 @@ DBI-1.622                               has newer dev version
 MooseX-AttributeCloner-0.25             81749
 Dancer-Plugin-TimeRequests-0.04         81750
 Catalyst-Plugin-Moostash-v0.1.0         81751
+SWISH-Prog-0.65                         81761
