@@ -1048,3 +1048,7 @@ MooseX-AttributeCloner-0.25             81749
 Dancer-Plugin-TimeRequests-0.04         81750
 Catalyst-Plugin-Moostash-v0.1.0         81751
 SWISH-Prog-0.65                         81761
+List-Cycle-1.00                         81762
+Monitoring-Livestatus-Class-0.03        obsolete version
+MooseX-Method-Signatures-0.43           obsolete version
+POE-Component-DirWatch-0.300001         81765
