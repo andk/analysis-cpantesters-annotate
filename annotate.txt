@@ -1057,3 +1057,12 @@ Spreadsheet-WriteExcelXML-0.13          81766
 Code-Splice-0.02                        81768
 Catalyst-Plugin-Text-Xatena-0.02        81769
 Test-WWW-Selenium-1.34                  81770
+I18N-Handle-0.051                       81798
+Role-REST-Client-0.13                   81803,81804
+HTML-TagCloud-0.37                      81805
+Data-ModeMerge-0.28                     81807
+WebDAO-2.14                             81823
+MooseX-Registry-0.01                    removed from CPAN
+Catalyst-Action-REST-1.05               81825
+Flow-0.8                                81826
+Algorithm-Bitonic-Sort-0.01             81827
