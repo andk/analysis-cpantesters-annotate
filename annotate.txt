@@ -1066,3 +1066,5 @@ MooseX-Registry-0.01                    removed from CPAN
 Catalyst-Action-REST-1.05               81825
 Flow-0.8                                81826
 Algorithm-Bitonic-Sort-0.01             81827
+Dancer-Plugin-DictionaryCheck-0.02      81830
+Config-YAARG-0.023                      81831
