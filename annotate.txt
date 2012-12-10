@@ -1068,3 +1068,9 @@ Flow-0.8                                81826
 Algorithm-Bitonic-Sort-0.01             81827
 Dancer-Plugin-DictionaryCheck-0.02      81830
 Config-YAARG-0.023                      81831
+App-DoubleUp-v0.4.0                     81842
+IO-Digest-0.10                          81846
+Test-CGI-Multipart-v0.0.3               81847
+Tapper-TestSuite-Netperf-4.1.1          81848
+R-Comment2DocDraft-0.2                  81850
+SQL-Interp-1.21                         81857
