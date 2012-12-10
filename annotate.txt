@@ -976,7 +976,7 @@ PHP-HTTPBuildQuery-0.05                 81570
 Pod-WSDL-0.061                          81571
 POE-Component-Client-BigBrother-1.00    81572
 POE-Component-Client-SMTP-0.22          Hmmm, not a randomization problem it seems
-RDF-Trine-1.002                         suspect of being randomization victim; waiting on DBI
+RDF-Trine-1.002                         https://github.com/kasei/perlrdf/issues/76
 MooseX-Net-API-0.12                     deprecated; see Net::HTTP::API
 Net-Bot-IRC-NumericCodes-0.05           81591
 PITA-XML-0.51                           81592
