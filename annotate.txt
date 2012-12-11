@@ -915,7 +915,6 @@ Function-Parameters-1.00                https://rt.perl.org/rt3//Public/Bug/Disp
 Runops-Trace-0.14                       https://rt.perl.org/rt3//Public/Bug/Display.html?id=115684
 Aspect-1.03                             81400
 Data-Printer-0.34                       81401
-ElasticSearch-SearchBuilder-0.17        https://github.com/clintongormley/ElasticSearch-SearchBuilder/issues/5
 CGI-Struct-1.20                         81402
 CatalystX-Controller-Sugar-0.0901       81407
 Net-Qiita-0.03                          81408
@@ -930,7 +929,6 @@ Autocache-0.004                         81433
 Dancer-Plugin-Auth-Krb5-0.02            81436
 Term-GentooFunctions-1.3605             81438
 Socialtext-Resting-0.38                 81439
-Lingua-Boolean-0.006                    https://github.com/doherty/Lingua-Boolean/issues/4
 Google-AJAX-Library-0.022               81440
 FormValidator-LazyWay-0.19              81441
 Crypt-OpenPGP-1.06                      81442
@@ -955,18 +953,15 @@ WebService-Solr-0.19                    81527
 Search-Tools-0.84                       81528
 Net-FastCGI-0.13                        81543
 POE-Filter-JSON-0.04                    Hmmm, not a randomization problem it seems
-RDF-NS-20120917                         https://github.com/nichtich/RDF-NS/issues/2
 TAP-Formatter-JUnit-0.09                81552
 Test-Module-Used-0.2.3                  81553
 Transmission-Client-0.0603              81561
 WebService-LastFM-SimilarArtists-0.02   Hmmm, not a randomization problem it seems
 Locale-Maketext-Lexicon-0.91            81562
 Mojolicious-Plugin-ShareHelpers-0.52    81563
-MooseX-Attribute-Deflator-2.2.1         https://github.com/monken/p5-moosex-attribute-deflator/issues/4
 MooseX-AttributeHelpers-0.23            81564
 Net-Google-FederatedLogin-0.7.1         81565
 Net-HTTP-API-0.14                       81566
-Net-HTTP-Spore-0.05                     https://github.com/franckcuny/net-http-spore/issues/19
 Net-ISC-DHCPd-0.14                      81567
 ObjectDBI-0.15                          suspect of being randomization victim; waiting on DBI
 ONTO-PERL-1.40                          PREREQ_FATAL
@@ -976,14 +971,11 @@ PHP-HTTPBuildQuery-0.05                 81570
 Pod-WSDL-0.061                          81571
 POE-Component-Client-BigBrother-1.00    81572
 POE-Component-Client-SMTP-0.22          Hmmm, not a randomization problem it seems
-RDF-Trine-1.002                         https://github.com/kasei/perlrdf/issues/76
 MooseX-Net-API-0.12                     deprecated; see Net::HTTP::API
 Net-Bot-IRC-NumericCodes-0.05           81591
 PITA-XML-0.51                           81592
 Su-0.100                                81595
 Tie-FieldVals-0.6202                    81596
-Ubic-1.46                               https://github.com/berekuk/Ubic/issues/45
-Validation-Class-7.86                   https://github.com/alnewkirk/Validation-Class/issues/30
 Class-Trait-0.31                        81598
 Catalyst-Runtime-5.90018                81601
 CGI-Alert-2.05                          81602
@@ -992,7 +984,6 @@ API-Plesk-2.01                          81603
 App-Hachero-0.13                        81604
 App-OpenVZ-BCWatch-0.03                 81605
 Bio-NEXUS-0.78                          81606
-Bio-Phylo-0.52                          https://github.com/rvosa/bio-phylo/issues/4
 Bio-SDRS-0.08                           81607
 Brannigan-0.9                           81608
 Business-RO-CNP-0.03                    81609
@@ -1017,8 +1008,6 @@ DBIx-Class-0.08204                      81638
 DBIx-ObjectMapper-0.3013                81639
 DBIx-Simple-OO-0.02                     81642
 DBIx-Skinny-0.0742                      81643
-Data-Beacon-0.2.5                       https://github.com/nichtich/p5-data-beacon/issues/5
-Net-MQTT-1.112330                       https://github.com/beanz/net-mqtt-perl/issues/1
 Test-HTTP-Response-0.04                 81644
 XML-Hash-LX-0.0603                      81645
 CGI-Application-Plugin-Stream-2.10      81646
@@ -1074,3 +1063,18 @@ Test-CGI-Multipart-v0.0.3               81847
 Tapper-TestSuite-Netperf-4.1.1          81848
 R-Comment2DocDraft-0.2                  81850
 SQL-Interp-1.21                         81857
+Sub-Call-Tail-0.05                      81860
+ElasticSearch-SearchBuilder-0.17        https://github.com/clintongormley/ElasticSearch-SearchBuilder/issues/5 closed
+Lingua-Boolean-0.006                    https://github.com/doherty/Lingua-Boolean/issues/4
+RDF-NS-20120917                         https://github.com/nichtich/RDF-NS/issues/2
+MooseX-Attribute-Deflator-2.2.1         https://github.com/monken/p5-moosex-attribute-deflator/issues/4 closed
+Net-HTTP-Spore-0.05                     https://github.com/franckcuny/net-http-spore/issues/19
+Ubic-1.46                               https://github.com/berekuk/Ubic/issues/45 closed
+Validation-Class-7.86                   https://github.com/alnewkirk/Validation-Class/issues/30 closed
+Bio-Phylo-0.52                          https://github.com/rvosa/bio-phylo/issues/4 closed
+Data-Beacon-0.2.5                       https://github.com/nichtich/p5-data-beacon/issues/5
+RDF-Trine-1.002                         https://github.com/kasei/perlrdf/issues/76
+Net-MQTT-1.112330                       https://github.com/beanz/net-mqtt-perl/issues/1
+Pod-Weaver-Section-ClassMopper-1.120100 81875
+MooseX-Does-Delegated-0.002             81876
+WWW-Analytics-MultiTouch-0.34           81877
