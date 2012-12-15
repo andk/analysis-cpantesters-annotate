@@ -1092,3 +1092,6 @@ Text-Xslate-1.6001                      https://rt.perl.org:443/rt3/Ticket/Displ
 Module-Mask-0.04                        https://rt.perl.org:443/rt3/Ticket/Display.html?id=116092
 Try-0.02                                81985
 Git-Hooks-0.022                         requires App::gh 0.63 but cannot know, blame within App::gh::Git
+Class-ErrorHandler-0.01                 79124
+Tie-IxHash-FromText-0.02                82000
+IO-Statistics-0.12                      82002
