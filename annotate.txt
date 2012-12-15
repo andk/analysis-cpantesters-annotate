@@ -1078,3 +1078,17 @@ Net-MQTT-1.112330                       https://github.com/beanz/net-mqtt-perl/i
 Pod-Weaver-Section-ClassMopper-1.120100 81875
 MooseX-Does-Delegated-0.002             81876
 WWW-Analytics-MultiTouch-0.34           81877
+Test-Unit-Lite-0.1201                   81879
+MooseX-TrackDirty-Attributes-2.002      https://github.com/RsrchBoy/MooseX-TrackDirty-Attributes/issues/3
+Sereal-Encoder-0.20                     https://rt.perl.org:443/rt3/Ticket/Display.html?id=116052
+Elastic-Model-0.23                      https://github.com/clintongormley/Elastic-Model/issues/29
+Pithub-0.01016                          81916
+Pod-Inherit-0.16                        81902
+Geo-GoogleMaps-FitBoundsZoomer-1.02     81917
+Data-Dumper-Perltidy-0.02               81933
+MooX-Attributes-Shadow-0.01_05          81957
+Data-Util-0.60                          https://rt.perl.org:443/rt3/Ticket/Display.html?id=116088
+Text-Xslate-1.6001                      https://rt.perl.org:443/rt3/Ticket/Display.html?id=116090
+Module-Mask-0.04                        https://rt.perl.org:443/rt3/Ticket/Display.html?id=116092
+Try-0.02                                81985
+Git-Hooks-0.022                         requires App::gh 0.63 but cannot know, blame within App::gh::Git
