@@ -1077,7 +1077,7 @@ RDF-Trine-1.002                         https://github.com/kasei/perlrdf/issues/
 Net-MQTT-1.112330                       https://github.com/beanz/net-mqtt-perl/issues/1
 Pod-Weaver-Section-ClassMopper-1.120100 81875
 MooseX-Does-Delegated-0.002             81876
-WWW-Analytics-MultiTouch-0.34           81877
+WWW-Analytics-MultiTouch-0.35           81877
 Test-Unit-Lite-0.1201                   81879
 MooseX-TrackDirty-Attributes-2.002      https://github.com/RsrchBoy/MooseX-TrackDirty-Attributes/issues/3
 Sereal-Encoder-0.20                     https://rt.perl.org:443/rt3/Ticket/Display.html?id=116052
@@ -1095,3 +1095,9 @@ Git-Hooks-0.022                         requires App::gh 0.63 but cannot know, b
 Class-ErrorHandler-0.01                 79124
 Tie-IxHash-FromText-0.02                82000
 IO-Statistics-0.12                      82002
+Finance-Bank-IE-0.28                    82004
+Finance-Bank-IE-0.28.1                  82004
+Crypt-IDEA-1.08                         82010
+Crypt-Twofish-2.15                      82012
+App-Unliner-0.006                       82013
+Mojolicious-Plugin-AccessLog-0.001      82015
