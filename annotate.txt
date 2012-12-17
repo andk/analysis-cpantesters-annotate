@@ -1101,3 +1101,7 @@ Crypt-IDEA-1.08                         82010
 Crypt-Twofish-2.15                      82012
 App-Unliner-0.006                       82013
 Mojolicious-Plugin-AccessLog-0.001      82015
+Data-Alias-1.16                         78148
+Net-DNS-SEC-0.16                        82031
+Net-DNS-ZoneFile-Fast-1.17              81757
+Method-Signatures-20121201              82043
