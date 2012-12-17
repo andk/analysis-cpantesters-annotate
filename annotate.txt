@@ -662,7 +662,6 @@ Test-Cmd-1.05                           76556
 MooseX-Types-Data-Serializer-0.02       76557
 Mojito-0.17                             76558
 JSON-HPack-0.0.2                        76565
-Data-Beacon-0.2.7                       76566
 MojoX-AIO-0.05                          76568
 MojoX-Renderer-Alloy-1.112200           76569
 WWW-Class-0.03                          removed from cpan
@@ -974,7 +973,7 @@ POE-Component-Client-SMTP-0.22          Hmmm, not a randomization problem it see
 MooseX-Net-API-0.12                     deprecated; see Net::HTTP::API
 Net-Bot-IRC-NumericCodes-0.05           81591
 PITA-XML-0.51                           81592
-Su-0.100                                81595
+Su-0.110                                81595
 Tie-FieldVals-0.6202                    81596
 Class-Trait-0.31                        81598
 Catalyst-Runtime-5.90018                81601
@@ -1105,3 +1104,6 @@ Data-Alias-1.16                         78148
 Net-DNS-SEC-0.16                        82031
 Net-DNS-ZoneFile-Fast-1.17              81757
 Method-Signatures-20121201              82043
+DBIx-DisconnectAll-0.01                 obsolete version
+Data-Beacon-0.3.0                       76566
+Geo-WKT-Simple-0.03                     82059
