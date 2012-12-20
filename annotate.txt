@@ -1112,3 +1112,4 @@ App-CSV-0.06                            81767
 Math-Prime-Util-0.16                    fails up to 5.8.7
 Net-Icecast2-0.003                      obsolete version
 Scrappy-0.94112090                      82142
+DateTime-TimeZone-1.55                  obsolete version
