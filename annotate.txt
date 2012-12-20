@@ -433,7 +433,6 @@ Switch-Perlish-1.0.5                    66877
 Template-Parser-CET-0.05                65241
 Tie-RegexpHash-0.15                     66875
 warnings-method-0.10                    66930
-Pod-Weaver-Section-ClassMopper-1.112250 73869
 Bio-Phylo-0.45                          73887
 Locales-0.25                            73892
 App-TLSMe-0.009003                      73902
@@ -1107,3 +1106,6 @@ Method-Signatures-20121201              82043
 DBIx-DisconnectAll-0.01                 obsolete version
 Data-Beacon-0.3.0                       76566
 Geo-WKT-Simple-0.03                     82059
+Module-Build-Bundle-0.09                82128
+rss2leafnode-68                         81767
+App-CSV-0.06                            81767
