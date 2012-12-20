@@ -1110,3 +1110,4 @@ Module-Build-Bundle-0.09                82128
 rss2leafnode-68                         81767
 App-CSV-0.06                            81767
 Math-Prime-Util-0.16                    fails up to 5.8.7
+Net-Icecast2-0.003                      obsolete version
