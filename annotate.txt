@@ -1109,3 +1109,4 @@ Geo-WKT-Simple-0.03                     82059
 Module-Build-Bundle-0.09                82128
 rss2leafnode-68                         81767
 App-CSV-0.06                            81767
+Math-Prime-Util-0.16                    fails up to 5.8.7
