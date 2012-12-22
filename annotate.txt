@@ -1116,4 +1116,4 @@ DateTime-TimeZone-1.55                  obsolete version
 Mail-Box-IMAP4-SSL-0.02                 82150
 EntityModel-0.017                       82151
 Mail-GnuPG-0.18                         82152
-VANAMBURG-SEMPROG-SimpleGraph-0.010     many fails on 20121221, something to do with geodata?
+VANAMBURG-SEMPROG-SimpleGraph-0.010     82176
