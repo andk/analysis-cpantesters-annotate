@@ -1118,3 +1118,4 @@ EntityModel-0.017                       82151
 Mail-GnuPG-0.18                         82152
 VANAMBURG-SEMPROG-SimpleGraph-0.010     82176
 DBIx-ActiveRecord-0.03                  82219
+Data-Format-Pretty-Console-0.18         82225
