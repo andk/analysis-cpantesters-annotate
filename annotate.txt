@@ -1121,3 +1121,4 @@ DBIx-ActiveRecord-0.03                  82219
 Data-Format-Pretty-Console-0.18         82225
 MooseX-Getopt-0.48                      82246
 Catalyst-Runtime-5.90019                82249
+Brackup-1.10                            82273
