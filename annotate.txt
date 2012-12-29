@@ -1123,3 +1123,5 @@ MooseX-Getopt-0.48                      82246
 Catalyst-Runtime-5.90019                82249
 Brackup-1.10                            82273
 Pod-Inherit-0.90                        82275
+Text-Ngrams-2.003                       82323
+Graph-0.94                              82324
