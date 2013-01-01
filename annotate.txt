@@ -1127,4 +1127,5 @@ Text-Ngrams-2.003                       82323
 Graph-0.94                              82324
 Path-Class-Rule-0.013                   6 fails with v5.13.{9,10} that can be ignored
 Net-Amazon-EMR-0.10                     82345
-Devel-Trepan-0.47                       candidate for randomization report
+Devel-Trepan-0.47                       https://github.com/rocky/Perl-Devel-Trepan/issues/20
+Net-Netcat-0.05                         82357
