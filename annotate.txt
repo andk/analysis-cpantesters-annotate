@@ -89,7 +89,7 @@ Switch-2.16                             60380
 WWW-Search-Ebay-3.021                   60493
 Lingua-EN-Bigram-0.03                   60670
 Xymon-Monitor-SNMP-0.04                 60816
-Acme-Compress-0.04                      60963,60964
+Acme-Compress-0.04                      60963, 60964
 Statistics-SocialNetworks-0.03          61250
 Fennec-Assert-Wrapper-Deep-0.02         61595
 Data-Dmap-0.08                          61128
@@ -150,7 +150,7 @@ Devel-StackTrace-1.27                   pjacklam set AUTHOR_TESTING
 Text-Balanced-2.02                      pjacklam set AUTHOR_TEST and AUTHOR_TESTS
 Data-TxnBuffer-0.05                     https://github.com/schwern/test-more/issues/issue/130
 autouse-1.06                            https://github.com/schwern/test-more/issues#issue/133
-DBIx-PasswordIniFile-2.00               65320,65321
+DBIx-PasswordIniFile-2.00               65320, 65321
 jsonpretty-1                            65638
 Filter-Arguments-0.14                   65675
 Data-Rand-Obscure-0.021                 65676
@@ -304,11 +304,11 @@ File-Dir-Hash-0.01_0                    missing dependency decl on Class::XSAcce
 DBD-mysqlPPrawSjis-0.06                 undeclared dependency on DBI and Net::MySQL; it is in META.yml but missing in the Makefile.PL; distro had no RT queue last time I looked, https://plus.google.com/103105256782700019624/posts/QxRCnrsao17
 Angle-Omega-1.00                        72760
 Dist-Zilla-Plugin-Version-Git-Flowish-0.05 72764
-Eval-WithLexicals-1.002000              72766,72767
+Eval-WithLexicals-1.002000              72766, 72767
 Locales-0.20                            72788
 Tree-SEMETrie-0.03                      72789
 Encode-Base58-GMP-0.07                  72797
-RDF-Notation3-0.91                      62575,72828
+RDF-Notation3-0.91                      62575, 72828
 B-Keywords-1.10                         72583
 DBIx-Class-Graph-1.03                   72864
 DBIx-Class-RandomColumns-0.003000       72881
@@ -327,7 +327,7 @@ Web-oEmbed-Common-0.05                  73125
 ACME-Require-Require-v0.0.1             73148
 List-Maker-0.003_000                    harmless: was failing with File::Glob 1.14
 LinkedList-Single-v0.99.21              73155
-Data-Plist-0.100_001                    73156,73157
+Data-Plist-0.100_001                    73156, 73157
 FusionInventory-Agent-2.1.12            73164
 SharePoint-SOAPHandler-0.0011           73166
 Business-OnlinePayment-SagePay-0.14     73168
@@ -390,7 +390,7 @@ RPC-EPC-Service-v0.0.3                  73647
 CPANPLUS-Shell-Default-Plugins-Repo-v0.0.2 73648
 CPS-0.12                                73649
 Gtk2-1.241                              73650
-DBIx-Class-Indexer-WebService-Dezi-0.05 73651,73652
+DBIx-Class-Indexer-WebService-Dezi-0.05 73651, 73652
 HTML-GenToc-3.20                        73653
 PDL-Stats-0.5.5                         73656
 IO-Ppoll-0.10                           73665
@@ -411,10 +411,10 @@ MorboDB-0.001001                        73782
 Parse-WBXML-0.004                       73783
 Sub-Stubber-0.03                        73784
 Log-Any-Adapter-0.06                    73512
-Cycle-Detect-0.002                      73805,73808
+Cycle-Detect-0.002                      73805, 73808
 uni-perl-0.03                           73806
 Clutch-0.01                             73807
-basis-0.05002                           73495,73808
+basis-0.05002                           73495, 73808
 MooseX-Attribute-Prototype-0.10         55248
 Nitesi-0.0033                           73809
 OODoc-Template-0.14                     73810
@@ -567,17 +567,17 @@ Log-Dispatch-Log-Syslog-Fast-1.01       75331
 Lingua-Phonology-0.352                  75334
 CGI-Application-Plugin-CaptureIO-0.01   67178
 CPS-0.13                                75355
-POE-Component-Server-SimpleXMLRPC-0.02  works with 5.15.8, so unlikely to be a Carp issue
+POE-Component-Server-SimpleXMLRPC-0.02  works with 5.15.8, unlikely to be a Carp issue
 Devel-LineName-0.02                     75362
 ParseTemplate-3.07                      75363
-Thread-Pool-0.33                        works with 5.15.8, so unlikely to be a Carp issue
+Thread-Pool-0.33                        works with 5.15.8, unlikely to be a Carp issue
 Script-Carp-0.04                        75364
 TAP-Formatter-HTML-0.09                 74364
 Class-Std-Slots-0.31                    75379
 Devel-LeakGuard-Object-0.06             75381
 Slay-Makefile-0.12                      75383
 Log-Info-2.00                           75385
-Devel-ebug-0.52                         75310,74020
+Devel-ebug-0.52                         75310, 74020
 Module-Mask-0.03                        75464
 DBIx-DBO-0.13                           fixed in 0.14
 Mason-2.15                              fixed in 2.16
@@ -632,7 +632,7 @@ Data-Faker-0.10_01                      76209
 IPC-Pipeline-0.5                        76211
 Search-OpenSearch-Engine-Lucy-0.06      76252
 Test-EasyMock-0.01                      76284
-Config-Model-2.012                      74900,75313
+Config-Model-2.012                      74900, 75313
 Pod-Html-HtmlTree-0.92                  76344
 Data-Util-0.59                          76380
 MooseX-hasn-t-0.001                     76399
@@ -770,7 +770,7 @@ HTML-FormHandler-0.40013                https://rt.perl.org:443/rt3/Ticket/Displ
 HTML-Perlinfo-1.62                      78637
 Tree-XPathEngine-0.05                   78638
 text-anagram-0.0                        78651
-Template-Toolkit-2.24                   78731,79232,81995
+Template-Toolkit-2.24                   78731, 79232, 81995
 Test-TinyMocker-0.03                    77680
 String-Comments-Extract-0.023           78756
 Lingua-EN-Titlecase-0.14                78773
@@ -950,11 +950,11 @@ YUI-Loader-0.071                        81525
 WebService-Solr-0.19                    81527
 Search-Tools-0.84                       81528
 Net-FastCGI-0.13                        81543
-POE-Filter-JSON-0.04                    Hmmm, not a randomization problem it seems
+POE-Filter-JSON-0.04                    not a randomization problem it seems
 TAP-Formatter-JUnit-0.09                81552
 Test-Module-Used-0.2.3                  81553
 Transmission-Client-0.0603              81561
-WebService-LastFM-SimilarArtists-0.02   Hmmm, not a randomization problem it seems
+WebService-LastFM-SimilarArtists-0.02   not a randomization problem it seems
 Locale-Maketext-Lexicon-0.91            81562
 Mojolicious-Plugin-ShareHelpers-0.52    81563
 MooseX-AttributeHelpers-0.23            81564
@@ -968,7 +968,7 @@ PDF-API2-2.019                          81569
 PHP-HTTPBuildQuery-0.05                 81570
 Pod-WSDL-0.061                          81571
 POE-Component-Client-BigBrother-1.00    81572
-POE-Component-Client-SMTP-0.22          Hmmm, not a randomization problem it seems
+POE-Component-Client-SMTP-0.22          not a randomization problem it seems
 MooseX-Net-API-0.12                     deprecated; see Net::HTTP::API
 Net-Bot-IRC-NumericCodes-0.05           81591
 PITA-XML-0.51                           81592
@@ -977,7 +977,7 @@ Tie-FieldVals-0.6202                    81596
 Class-Trait-0.31                        81598
 Catalyst-Runtime-5.90018                81601
 CGI-Alert-2.05                          81602
-Acme-Hello-0.05                         Hmmm, not a randomization problem it seems
+Acme-Hello-0.05                         not a randomization problem it seems
 API-Plesk-2.01                          81603
 App-Hachero-0.13                        81604
 App-OpenVZ-BCWatch-0.03                 81605
@@ -1045,7 +1045,7 @@ Code-Splice-0.02                        81768
 Catalyst-Plugin-Text-Xatena-0.02        81769
 Test-WWW-Selenium-1.34                  81770
 I18N-Handle-0.051                       81798
-Role-REST-Client-0.13                   81803,81804
+Role-REST-Client-0.13                   81803, 81804
 HTML-TagCloud-0.37                      81805
 Data-ModeMerge-0.28                     81807
 WebDAO-2.14                             81823
@@ -1125,7 +1125,7 @@ Brackup-1.10                            82273
 Pod-Inherit-0.90                        82275
 Text-Ngrams-2.003                       82323
 Graph-0.94                              82324
-Path-Class-Rule-0.013                   6 fails with v5.13.{9,10} that can be ignored
+Path-Class-Rule-0.013                   6 fails with v5.13.9 and .10 that can be ignored
 Net-Amazon-EMR-0.10                     82345
 Devel-Trepan-0.47                       https://github.com/rocky/Perl-Devel-Trepan/issues/20
 Net-Netcat-0.05                         82357
