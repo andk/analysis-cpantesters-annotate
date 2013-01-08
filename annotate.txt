@@ -1133,3 +1133,5 @@ Attribute-Contract-0.01                 82370
 GnuPG-Crypticle-0.020                   82371
 CGI-Untaint-Facebook-0.06               82387
 DB-SQL-Migrations-0.01                  82504
+Locale-MO-File-0.02                     82555
+Test-HTTP-Response-0.05                 82557
