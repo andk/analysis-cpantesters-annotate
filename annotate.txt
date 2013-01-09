@@ -1136,3 +1136,4 @@ DB-SQL-Migrations-0.01                  82504
 Locale-MO-File-0.02                     82555
 Test-HTTP-Response-0.05                 82557
 Data-Pipeline-0.02                      82577
+GVF-Parser-1.07                         82578
