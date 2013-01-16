@@ -1141,3 +1141,4 @@ Hubot-0.1.3                             81555
 App-Getconf-0.01                        82648
 Furl-1.02                               82654
 Catalyst-View-TT-0.39                   82703
+WWW-Shopify-0.04                        82735
