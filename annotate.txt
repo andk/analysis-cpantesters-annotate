@@ -1142,3 +1142,4 @@ App-Getconf-0.01                        82648
 Furl-1.02                               82654
 Catalyst-View-TT-0.39                   82703
 WWW-Shopify-0.04                        82735
+Namespace-Dispatch-0.05                 82779
