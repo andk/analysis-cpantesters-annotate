@@ -1145,3 +1145,4 @@ WWW-Shopify-0.04                        82735
 Namespace-Dispatch-0.05                 82779
 WWW-OpenSearch-0.16                     82796
 PathTools-3.40                          82895
+Bread-Board-Declare-0.12                82926
