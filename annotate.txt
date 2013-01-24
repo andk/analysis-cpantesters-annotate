@@ -1144,3 +1144,4 @@ Catalyst-View-TT-0.39                   82703
 WWW-Shopify-0.04                        82735
 Namespace-Dispatch-0.05                 82779
 WWW-OpenSearch-0.16                     82796
+PathTools-3.40                          82895
