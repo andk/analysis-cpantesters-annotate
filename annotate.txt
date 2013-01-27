@@ -1146,3 +1146,7 @@ Namespace-Dispatch-0.05                 82779
 WWW-OpenSearch-0.16                     82796
 PathTools-3.40                          82895
 Bread-Board-Declare-0.12                82926
+Crypt-DES-2.05                          82943
+Jifty-DBI-0.74                          82978
+Fey-ORM-0.44                            82980
+marc-mir-0.3                            82985
