@@ -1150,3 +1150,5 @@ Crypt-DES-2.05                          82943
 Jifty-DBI-0.74                          82978
 Fey-ORM-0.44                            82980
 marc-mir-0.3                            82985
+Tree-Template-Declare-0.4               82989
+Redis-RdbParser-0.04                    83022
