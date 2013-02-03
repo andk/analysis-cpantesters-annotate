@@ -1152,3 +1152,5 @@ Fey-ORM-0.44                            82980
 marc-mir-0.3                            82985
 Tree-Template-Declare-0.4               82989
 Redis-RdbParser-0.04                    83022
+Compress-Bzip2-2.09                     82308
+EV-Hiredis-0.01                         83106
