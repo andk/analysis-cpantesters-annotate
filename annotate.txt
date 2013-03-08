@@ -983,7 +983,6 @@ App-Hachero-0.13                        81604
 App-OpenVZ-BCWatch-0.03                 81605
 Bio-NEXUS-0.78                          81606
 Bio-SDRS-0.08                           81607
-Brannigan-0.9                           81608
 Business-RO-CNP-0.03                    81609
 CatalystX-Declare-0.015                 81610
 CGI-Application-Plugin-Session-1.03     81611
@@ -1157,3 +1156,4 @@ EV-Hiredis-0.01                         83106
 CloudPAN-1.130120                       83148
 Entities-0.2                            83234
 Dancer-Routes-20130114.125429           83802
+Brannigan-1.0                           81608
