@@ -1159,3 +1159,6 @@ Dancer-Routes-20130114.125429           83802
 Brannigan-1.0                           81608
 Data-Format-Pretty-HTML-0.05            83989
 JSON-T-0.101                            84038
+DateTime-Format-DateManip-0.04          55771
+HTML-HTML5-Sanity-0.103                 84038 (implicit)
+JSON-JOM-0.501                          84038 (implicit)
