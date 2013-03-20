@@ -1157,3 +1157,5 @@ CloudPAN-1.130120                       83148
 Entities-0.2                            83234
 Dancer-Routes-20130114.125429           83802
 Brannigan-1.0                           81608
+Data-Format-Pretty-HTML-0.05            83989
+JSON-T-0.101                            84038
