@@ -1180,3 +1180,4 @@ SOAP-Lite-0.715                         84168
 SOAP-Transport-TCP-0.715                78495
 Test-Mock-LWP-Dispatch-0.03             84280
 WebService-Aladdin-0.0706               84281
+MooseX-Storage-0.32                     84287
