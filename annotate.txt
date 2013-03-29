@@ -1162,3 +1162,21 @@ JSON-T-0.101                            84038
 DateTime-Format-DateManip-0.04          55771
 HTML-HTML5-Sanity-0.103                 84038 (implicit)
 JSON-JOM-0.501                          84038 (implicit)
+Classic-Perl-0.05                       84248
+CSS-DOM-0.15                            84253
+Acme-CPANAuthors-Korean-0.09            84255
+Data-Schema-0.135                       84256
+DBD-SQLAnywhere-2.08                    84257
+JSON-PPdev-2.27100                      84258
+Lingua-KO-TypoCorrector-0.03            84259
+Locale-Object-0.79                      84261
+Parse-FSM-1.06                          84262
+Perl-Squish-1.06                        66958
+Plack-Middleware-StaticShared-0.05      84264
+ResourcePool-1.0106                     84265
+Rose-HTML-Objects-0.617                 84279
+SOAP-Lite-0.714                         84168
+SOAP-Lite-0.715                         84168
+SOAP-Transport-TCP-0.715                78495
+Test-Mock-LWP-Dispatch-0.03             84280
+WebService-Aladdin-0.0706               84281
