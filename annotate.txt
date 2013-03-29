@@ -1182,3 +1182,4 @@ Test-Mock-LWP-Dispatch-0.03             84280
 WebService-Aladdin-0.0706               84281
 MooseX-Storage-0.32                     84287
 XML-RSS-1.49                            84296
+Device-Leap-0.01                        84297
