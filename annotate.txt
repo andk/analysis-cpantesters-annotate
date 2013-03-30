@@ -1015,7 +1015,6 @@ MojoX-Dispatcher-Qooxdoo-Jsonrpc-0.88   81653
 autobox-JSON-0.0003                     81654
 Gtk2-1.245                              81656
 DateTime-Format-CLDR-1.14               62717
-Math-Clipper-1.15                       74828
 Mojolicious-Plugin-KossyValidator-0.02  81657
 Mojolicious-Command-listdeps-0.05       81659
 Smart-Dispatch-0.003                    81658
@@ -1183,3 +1182,5 @@ WebService-Aladdin-0.0706               84281
 MooseX-Storage-0.32                     84287
 XML-RSS-1.49                            84296
 Device-Leap-0.01                        84297
+Dancer-Plugin-Passphrase-2.0.0          84298
+Math-Clipper-1.17                       74828
