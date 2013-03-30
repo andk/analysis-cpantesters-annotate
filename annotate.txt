@@ -897,7 +897,7 @@ Dancer-Plugin-FakeCGI-0.23              80256
 Log-Any-Adapter-0.09                    80287
 Furl-Cookies-0.02                       80288
 Clone-Fast-0.97                         43248
-Lorem-0.200                             80289
+Lorem-0.22                              80289
 Char-EUCJP-0.83                         https://rt.perl.org/rt3//Public/Bug/Display.html?id=115080
 Char-GBK-0.83                           https://rt.perl.org/rt3//Public/Bug/Display.html?id=115080
 XML-Rules-1.13                          80308
