@@ -1184,3 +1184,6 @@ XML-RSS-1.49                            84296
 Device-Leap-0.01                        84297
 Dancer-Plugin-Passphrase-2.0.0          84298
 Math-Clipper-1.17                       74828
+Class-Prototyped-1.11                   84317
+AppConfig-1.66                          84318
+App-Nopaste-0.91                        84157
