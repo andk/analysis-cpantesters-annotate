@@ -1194,3 +1194,10 @@ Event-RPC-1.03                          84333
 WebService-Strava-0.02                  84334
 FSM-Simple-0.02                         84335
 POE-Component-IKC-0.2304                82830
+Alien-BWIPP-0.006                       https://github.com/daxim/Alien-BWIPP/issues/1
+App-perlhl-0.005                        https://github.com/doherty/App-perlhl/issues/2
+Text-Keywords-0.900                     84339
+Business-UPS-Tracking-1.09              84340
+Org-Parser-0.30                         84341
+EntityModel-Log-0.004                   84342
+HTML-Inject-0.002                       84343
