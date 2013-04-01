@@ -1192,3 +1192,4 @@ Regexp-Grammars-1.026                   https://rt.perl.org/rt3/Public/Bug/Displ
 Net-StackExchange-0.01_1                no RT queue (being dev release)
 Event-RPC-1.03                          84333
 WebService-Strava-0.02                  84334
+FSM-Simple-0.02                         84335
