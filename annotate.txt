@@ -1187,3 +1187,8 @@ Math-Clipper-1.17                       74828
 Class-Prototyped-1.11                   84317
 AppConfig-1.66                          84318
 App-Nopaste-0.91                        84157
+AnyEvent-DateTime-Cron-0.05             84332
+Regexp-Grammars-1.026                   https://rt.perl.org/rt3/Public/Bug/Display.html?id=116823
+Net-StackExchange-0.01_1                no RT queue (being dev release)
+Event-RPC-1.03                          84333
+WebService-Strava-0.02                  84334
