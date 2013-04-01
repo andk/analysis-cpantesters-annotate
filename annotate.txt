@@ -1193,3 +1193,4 @@ Net-StackExchange-0.01_1                no RT queue (being dev release)
 Event-RPC-1.03                          84333
 WebService-Strava-0.02                  84334
 FSM-Simple-0.02                         84335
+POE-Component-IKC-0.2304                82830
