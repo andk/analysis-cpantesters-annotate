@@ -1205,3 +1205,4 @@ Net-Nakamap-0.02                        84457
 URL-Signature-0.01                      84459
 YAML-Syck-1.25                          84466
 WWW-Bizowie-API-0.01                    84474
+Statistics-Data-0.01                    removed from cpan
