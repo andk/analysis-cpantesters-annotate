@@ -1209,3 +1209,4 @@ Statistics-Data-0.01                    removed from cpan
 MooX-HandlesVia-0.001000                84508
 AnyEvent-Net-Curl-Queued-0.043          https://github.com/creaktive/AnyEvent-Net-Curl-Queued/issues/1
 Mouse-1.05                              84518
+Module-Pluggable-4.7                    84534
