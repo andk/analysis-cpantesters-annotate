@@ -1212,3 +1212,4 @@ Module-Pluggable-4.7                    84534
 Wiki-Toolkit-0.80                       84680
 DBIx-Class-VirtualColumns-1.03          68863
 Flow-0.9                                81826
+Business-CPI-Gateway-MercadoPago-0.102  84702
