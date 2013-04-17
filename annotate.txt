@@ -1049,7 +1049,6 @@ Data-ModeMerge-0.28                     81807
 WebDAO-2.14                             81823
 MooseX-Registry-0.01                    removed from CPAN
 Catalyst-Action-REST-1.05               81825
-Flow-0.8                                81826
 Algorithm-Bitonic-Sort-0.01             81827
 Dancer-Plugin-DictionaryCheck-0.02      81830
 Config-YAARG-0.023                      81831
@@ -1212,3 +1211,4 @@ Mouse-1.05                              84518
 Module-Pluggable-4.7                    84534
 Wiki-Toolkit-0.80                       84680
 DBIx-Class-VirtualColumns-1.03          68863
+Flow-0.9                                81826
