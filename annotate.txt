@@ -988,7 +988,6 @@ CatalystX-Declare-0.015                 81610
 CGI-Application-Plugin-Session-1.03     81611
 CGI-Cookie-Splitter-0.02                81612
 Class-Generate-1.11                     81623
-Class-Injection-1.08                    81624
 cPanel-SyncUtil-0.7                     81625
 Data-Dump-Partial-0.03                  81626
 DJabberd-0.85                           81628
@@ -1218,3 +1217,4 @@ KiokuDB-0.52                            84763
 Test-Fixture-DBIC-Schema-0.03           84867
 Algorithm-LibLinear-0.02                84881
 FormValidator-Lite-0.32                 84910
+Class-Injection-1.09                    81624
