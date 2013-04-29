@@ -1217,3 +1217,4 @@ Hash-StoredIterator-0.003               84710
 KiokuDB-0.52                            84763
 Test-Fixture-DBIC-Schema-0.03           84867
 Algorithm-LibLinear-0.02                84881
+FormValidator-Lite-0.32                 84910
