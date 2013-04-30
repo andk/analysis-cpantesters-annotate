@@ -1218,3 +1218,4 @@ Test-Fixture-DBIC-Schema-0.03           84867
 Algorithm-LibLinear-0.02                84881
 FormValidator-Lite-0.32                 84910
 Class-Injection-1.09                    81624
+DBIx-Class-Result-ColumnData-0.15       84928
