@@ -1220,3 +1220,4 @@ FormValidator-Lite-0.32                 84910
 Class-Injection-1.09                    81624
 DBIx-Class-Result-ColumnData-0.15       84928
 XML-Smart-1.77                          84929
+Dist-Zilla-Plugin-GitHub-0.32           bug in CPANPLUS, it should not report when declared dependency feature.pm is missing
