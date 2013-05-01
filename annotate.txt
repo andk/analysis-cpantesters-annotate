@@ -1011,7 +1011,6 @@ CGI-FormBuilder-3.08                    81650
 Data-PowerSet-Hash-0.02                 81651
 HTML-FillInForm-2.1                     81652
 MojoX-Dispatcher-Qooxdoo-Jsonrpc-0.88   81653
-autobox-JSON-0.0003                     81654
 Gtk2-1.245                              81656
 DateTime-Format-CLDR-1.14               62717
 Mojolicious-Plugin-KossyValidator-0.02  81657
@@ -1228,3 +1227,4 @@ Dist-Zilla-PluginBundle-BESSARABV-0.02  29789255
 Validation-Class-Document-0.000015      https://github.com/alnewkirk/Validation-Class-Document/issues/1
 Catalyst-Controller-ElasticSearch-0.1.0 84962
 Uninets-Check-Modules-HTTP-0.01         84968
+autobox-JSON-0.0004                     81654
