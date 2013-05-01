@@ -1225,3 +1225,4 @@ Dancer-Plugin-SporeDefinitionControl-0.13 84948
 Lingua-RUS-Number-0.0708                http://www.nntp.perl.org/group/perl.cpan.testers.discuss/2013/04/msg3102.html
 App-Goto-0.07                           was only a temporary bleadperl 5.17 problem
 Dist-Zilla-PluginBundle-BESSARABV-0.02  29789255
+Validation-Class-Document-0.000015      https://github.com/alnewkirk/Validation-Class-Document/issues/1
