@@ -1227,3 +1227,4 @@ App-Goto-0.07                           was only a temporary bleadperl 5.17 prob
 Dist-Zilla-PluginBundle-BESSARABV-0.02  29789255
 Validation-Class-Document-0.000015      https://github.com/alnewkirk/Validation-Class-Document/issues/1
 Catalyst-Controller-ElasticSearch-0.1.0 84962
+Uninets-Check-Modules-HTTP-0.01         84968
