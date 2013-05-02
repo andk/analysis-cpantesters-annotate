@@ -1230,3 +1230,4 @@ Uninets-Check-Modules-HTTP-0.01         84968
 autobox-JSON-0.0004                     81654
 TemplateM-3.02                          84978
 File-Temp-Rename-0.01                   84985
+MooseX-App-1.21                         84986
