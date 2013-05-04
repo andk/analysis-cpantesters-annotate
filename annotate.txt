@@ -1177,7 +1177,6 @@ SOAP-Transport-TCP-0.715                78495
 Test-Mock-LWP-Dispatch-0.03             84280
 WebService-Aladdin-0.0706               84281
 MooseX-Storage-0.32                     84287
-XML-RSS-1.49                            84296
 Device-Leap-0.01                        84297
 Dancer-Plugin-Passphrase-2.0.0          84298
 Math-Clipper-1.17                       74828
@@ -1234,3 +1233,4 @@ MooseX-App-1.21                         84986
 Test-Class-0.39                         85004
 Class-Lite-v0.1.0                       85039
 constant-tiny-1.00                      85043
+XML-RSS-1.50                            84296
