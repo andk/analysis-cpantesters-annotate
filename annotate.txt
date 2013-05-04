@@ -1233,3 +1233,4 @@ File-Temp-Rename-0.01                   84985
 MooseX-App-1.21                         84986
 Test-Class-0.39                         85004
 Class-Lite-v0.1.0                       85039
+constant-tiny-1.00                      85043
