@@ -1234,3 +1234,4 @@ Test-Class-0.39                         85004
 Class-Lite-v0.1.0                       85039
 constant-tiny-1.00                      85043
 XML-RSS-1.50                            84296
+Config-Options-0.08                     85067
