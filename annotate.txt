@@ -1237,3 +1237,4 @@ Config-Options-0.08                     85067
 Math-Clipper-1.20                       74828
 Net-CampaignMonitor-v2.2.0              https://github.com/campaignmonitor/createsend-perl/issues/13
 MySQL-QueryMulti-0.08                   85142
+CGI-Application-Plugin-DBH-4.01         84815
