@@ -1245,3 +1245,4 @@ Acme-CPANAuthors-Chinese-0.26           85218
 DBIx-Class-InflateColumn-Serializer-CompressJSON-0.004 85219
 WWW-MobileCarrierJP-0.63                85220
 WebService-Cmis-0.08                    85221
+URI-ParseSearchString-3.5               85222
