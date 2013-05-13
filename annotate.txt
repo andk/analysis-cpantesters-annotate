@@ -1242,3 +1242,4 @@ WebService-Embedly-0.09                 https://github.com/jwieland/embedly-perl
 MojoMojo-1.09                           https://github.com/mojomojo/mojomojo/pull/112
 Regexp-Assemble-0.35                    85209
 Acme-CPANAuthors-Chinese-0.26           85218
+DBIx-Class-InflateColumn-Serializer-CompressJSON-0.004 85219
