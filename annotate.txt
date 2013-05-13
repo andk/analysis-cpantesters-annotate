@@ -1243,3 +1243,4 @@ MojoMojo-1.09                           https://github.com/mojomojo/mojomojo/pul
 Regexp-Assemble-0.35                    85209
 Acme-CPANAuthors-Chinese-0.26           85218
 DBIx-Class-InflateColumn-Serializer-CompressJSON-0.004 85219
+WWW-MobileCarrierJP-0.63                85220
