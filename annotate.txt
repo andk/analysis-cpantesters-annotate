@@ -1241,3 +1241,4 @@ CGI-Application-Plugin-DBH-4.01         84815
 WebService-Embedly-0.09                 https://github.com/jwieland/embedly-perl/issues/3
 MojoMojo-1.09                           https://github.com/mojomojo/mojomojo/pull/112
 Regexp-Assemble-0.35                    85209
+Acme-CPANAuthors-Chinese-0.26           85218
