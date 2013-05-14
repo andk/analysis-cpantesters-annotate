@@ -1256,3 +1256,7 @@ Convert-Binary-C-0.76                   85264
 DBIx-Class-InflateColumn-Serializer-0.03 85265
 Dancer-Plugin-Auth-Twitter-0.02         85266
 Audio-M4P-0.51                          85267
+WWW-Scraper-Wikipedia-ISO3166-1.01      85268
+YellowBot-API-0.96                      85269
+Math-Telephony-ErlangB-1.0.1            85270
+WWW-EFA-0.04                            85271
