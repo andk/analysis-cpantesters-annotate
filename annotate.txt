@@ -1250,3 +1250,4 @@ DBM-Deep-2.0008                         85252
 HTML-TokeParser-Simple-3.15             85256
 SQL-Statement-1.402                     85257
 XML-XPathEngine-0.13                    85259
+Log-Unrotate-1.29                       85260
