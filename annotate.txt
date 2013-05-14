@@ -1251,3 +1251,8 @@ HTML-TokeParser-Simple-3.15             85256
 SQL-Statement-1.402                     85257
 XML-XPathEngine-0.13                    85259
 Log-Unrotate-1.29                       85260
+Imager-0.95                             85262
+Convert-Binary-C-0.76                   85264
+DBIx-Class-InflateColumn-Serializer-0.03 85265
+Dancer-Plugin-Auth-Twitter-0.02         85266
+Audio-M4P-0.51                          85267
