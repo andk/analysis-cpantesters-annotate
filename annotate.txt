@@ -1260,3 +1260,8 @@ WWW-Scraper-Wikipedia-ISO3166-1.01      85268
 YellowBot-API-0.96                      85269
 Math-Telephony-ErlangB-1.0.1            85270
 WWW-EFA-0.04                            85271
+WWW-Yandex-BarTIC-0.04                  85273
+WWW-Txodds-0.68                         85274
+Webservice-InterMine-Simple-0.9800      85275
+Math-Symbolic-Custom-LaTeXDumper-0.207  85276
+WWW-SuperAgent-0.01                     85300
