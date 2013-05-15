@@ -1270,3 +1270,5 @@ Acme-SWUECHO-Meta-0.01                  https://github.com/swuecho/meta/issues/1
 CPAN-Mini-Inject-0.32                   85303
 Plack-App-PgREST-0.06                   85304
 Function-Composition-0.0.2              85305
+LittleORM-0.07                          85330
+Config-Model-2.035                      85331
