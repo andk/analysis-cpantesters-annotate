@@ -1265,3 +1265,5 @@ WWW-Txodds-0.68                         85274
 Webservice-InterMine-Simple-0.9800      85275
 Math-Symbolic-Custom-LaTeXDumper-0.207  85276
 WWW-SuperAgent-0.01                     85300
+IO-Async-SSL-0.09                       85301
+Acme-SWUECHO-Meta-0.01                  https://github.com/swuecho/meta/issues/1
