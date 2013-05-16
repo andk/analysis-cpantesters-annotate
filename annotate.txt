@@ -1275,3 +1275,5 @@ Config-Model-2.035                      85331
 Net-MW-API-0.02                         https://github.com/swuecho/-Net-MW-API-/issues/1
 Inline-0.53                             85336
 Set-Definition-0.01                     85337
+Web-Library-0.01                        https://github.com/marcelgruenauer/Web-Library/issues/1
+Escort-0.002                            85338
