@@ -1277,3 +1277,6 @@ Inline-0.53                             85336
 Set-Definition-0.01                     85337
 Web-Library-0.01                        https://github.com/marcelgruenauer/Web-Library/issues/1
 Escort-0.002                            85338
+Validation-Class-Document-0.000016      removed from CPAN
+Lingua-KO-TypoCorrector-0.04            85371
+Mojo-Base-XS-0.07                       https://github.com/yko/mojo-base-xs/issues/2
