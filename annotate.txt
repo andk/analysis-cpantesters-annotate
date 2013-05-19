@@ -1283,3 +1283,5 @@ Mojo-Base-XS-0.07                       https://github.com/yko/mojo-base-xs/issu
 Test-More-Hooks-0.11                    https://github.com/ainame/p5-Test-More-Hooks/issues/1
 WWW-Workflowy-0.2                       85393
 Bio-Align-Subset-1.27                   85394
+Toadfarm-0.08                           85435
+Amon2-Plugin-L10N-v0.1.3                https://github.com/yappo/p5-Amon2-Plugin-L10N/issues/1
