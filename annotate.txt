@@ -1290,3 +1290,4 @@ DBIx-SecureCGI-2.0.4                    85450
 Lingua-FR-Phonemise-1.0                 has no queue (maybe because of blib directory?)
 Parse-RPN-2.74                          85531
 Algorithm-RankAggregate-0.0.3_00        has no queue
+WWW-SourceForge-0.66                    85532
