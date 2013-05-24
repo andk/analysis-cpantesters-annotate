@@ -1291,3 +1291,5 @@ Lingua-FR-Phonemise-1.0                 has no queue (maybe because of blib dire
 Parse-RPN-2.74                          85531
 Algorithm-RankAggregate-0.0.3_00        has no queue
 WWW-SourceForge-0.66                    85532
+Org-Parser-0.31                         85533
+Text-LevenshteinXS-0.04                 85564,85565,85590
