@@ -1279,7 +1279,6 @@ Escort-0.002                            85338
 Validation-Class-Document-0.000016      removed from CPAN
 Lingua-KO-TypoCorrector-0.04            85371
 Mojo-Base-XS-0.07                       https://github.com/yko/mojo-base-xs/issues/2
-Test-More-Hooks-0.11                    https://github.com/ainame/p5-Test-More-Hooks/issues/1
 WWW-Workflowy-0.2                       85393
 Bio-Align-Subset-1.27                   85394
 Toadfarm-0.08                           85435
@@ -1301,3 +1300,5 @@ sanity-0.96                             http://www.cpantesters.org/cpan/report/3
 Test-DBIx-Class-Schema-1.0.4            fails only with broken Test::More 0.9805 at tester
 ansi-unicode-0.02                       https://github.com/revmischa/ansi-unicode/issues/1
 IPC-Transit-0.72                        https://github.com/dana/perl-IPC-Transit/issues/2
+Test-More-Hooks-0.1                     https://github.com/ainame/p5-Test-More-Hooks/issues/1
+Test-More-Hooks-0.11                    https://github.com/ainame/p5-Test-More-Hooks/issues/1
