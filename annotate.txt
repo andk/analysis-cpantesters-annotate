@@ -1299,3 +1299,4 @@ Config-Source-0.06                      has a smartmatch TODO on 5.18+ already i
 Text-ANSITable-0.13                     85618
 sanity-0.96                             http://www.cpantesters.org/cpan/report/31030055
 Test-DBIx-Class-Schema-1.0.4            fails only with broken Test::More 0.9805 at tester
+ansi-unicode-0.02                       https://github.com/revmischa/ansi-unicode/issues/1
