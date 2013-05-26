@@ -1294,3 +1294,7 @@ Org-Parser-0.31                         85533
 Text-LevenshteinXS-0.04                 85564,85565,85590
 Math-Clipper-1.22                       74828
 Mojito-0.21                             85605
+Dist-Zilla-Plugin-AutoMetaResources-1.20 84878
+Config-Source-0.06                      has a smartmatch TODO on 5.18+ already in the code
+Text-ANSITable-0.13                     85618
+sanity-0.96                             http://www.cpantesters.org/cpan/report/31030055
