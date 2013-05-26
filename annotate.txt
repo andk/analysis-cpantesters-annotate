@@ -1274,7 +1274,7 @@ Config-Model-2.035                      85331
 Net-MW-API-0.02                         https://github.com/swuecho/-Net-MW-API-/issues/1
 Inline-0.53                             85336
 Set-Definition-0.01                     85337
-Web-Library-0.01                        https://github.com/marcelgruenauer/Web-Library/issues/1
+Web-Library-0.02                        https://github.com/marcelgruenauer/Web-Library/issues/1
 Escort-0.002                            85338
 Validation-Class-Document-0.000016      removed from CPAN
 Lingua-KO-TypoCorrector-0.04            85371
@@ -1298,3 +1298,4 @@ Dist-Zilla-Plugin-AutoMetaResources-1.20 84878
 Config-Source-0.06                      has a smartmatch TODO on 5.18+ already in the code
 Text-ANSITable-0.13                     85618
 sanity-0.96                             http://www.cpantesters.org/cpan/report/31030055
+Test-DBIx-Class-Schema-1.0.4            fails only with broken Test::More 0.9805 at tester
