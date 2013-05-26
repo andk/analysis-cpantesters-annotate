@@ -1234,7 +1234,6 @@ Class-Lite-v0.1.0                       85039
 constant-tiny-1.00                      85043
 XML-RSS-1.50                            84296
 Config-Options-0.08                     85067
-Math-Clipper-1.21                       74828
 Net-CampaignMonitor-v2.2.0              https://github.com/campaignmonitor/createsend-perl/issues/13
 MySQL-QueryMulti-0.08                   85142
 CGI-Application-Plugin-DBH-4.01         84815
@@ -1293,3 +1292,5 @@ Algorithm-RankAggregate-0.0.3_00        has no queue
 WWW-SourceForge-0.66                    85532
 Org-Parser-0.31                         85533
 Text-LevenshteinXS-0.04                 85564,85565,85590
+Math-Clipper-1.22                       74828
+Mojito-0.21                             85605
