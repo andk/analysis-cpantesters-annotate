@@ -1304,3 +1304,4 @@ Test-More-Hooks-0.1                     https://github.com/ainame/p5-Test-More-H
 Test-More-Hooks-0.11                    https://github.com/ainame/p5-Test-More-Hooks/issues/1
 YATT-Lite-0.0.6                         85635,85636
 MojoX-Session-0.27                      85640
+MojoX-Validator-0.0013                  85641
