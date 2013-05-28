@@ -1307,3 +1307,4 @@ MojoX-Session-0.27                      85640
 MojoX-Validator-0.0013                  85641
 Data-Morph-1.113280                     85653
 Time-Format-MySQL-0.01                  https://github.com/Cside/Time-Format-MySQL/issues/1
+EntityModel-Class-0.013                 85664
