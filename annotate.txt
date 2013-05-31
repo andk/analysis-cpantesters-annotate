@@ -1310,3 +1310,4 @@ EntityModel-Class-0.013                 85664
 ClearCase-Argv-1.53                     85666
 Module-Build-Pluggable-PDL-0.22         85721
 DBIx-SecureCGI-2.0.5                    85724
+Acme-Warn-LOLCAT-0.02                   85750
