@@ -1312,3 +1312,4 @@ Module-Build-Pluggable-PDL-0.22         85721
 DBIx-SecureCGI-2.0.5                    85724
 Acme-Warn-LOLCAT-0.02                   85750
 PDF-TextBlock-0.06                      85783
+SOAP-Transport-TCP-0.717                85787
