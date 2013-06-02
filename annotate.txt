@@ -1313,3 +1313,4 @@ DBIx-SecureCGI-2.0.5                    85724
 Acme-Warn-LOLCAT-0.02                   85750
 PDF-TextBlock-0.06                      85783
 SOAP-Transport-TCP-0.717                85787
+Dancer2-0.04                            https://github.com/PerlDancer/Dancer2/issues/274
