@@ -1314,5 +1314,6 @@ Acme-Warn-LOLCAT-0.02                   85750
 PDF-TextBlock-0.06                      85783
 SOAP-Transport-TCP-0.717                85787
 Dancer2-0.04                            https://github.com/PerlDancer/Dancer2/issues/274, https://github.com/PerlDancer/Dancer2/issues/275
-MooseX-App-1.22                         fails only for v5.17.11
+MooseX-App-1.22                         failed only for v5.17.11
 File-Dropbox-0.2                        85873
+Exception-Base-0.25                     failed only for v5.17.11
