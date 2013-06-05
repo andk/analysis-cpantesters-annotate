@@ -1319,3 +1319,5 @@ File-Dropbox-0.2                        85873
 Exception-Base-0.25                     failed only for v5.17.11
 Nginx-Log-Entry-0.02                    85874
 autobox-Core-1.25                       http://matrix.cpantesters.org/?dist=autobox-Core-1.25
+The-synthesizer-0.01                    85900
+Regexp-Debugger-0.001013                85903
