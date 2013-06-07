@@ -1322,3 +1322,4 @@ autobox-Core-1.25                       http://matrix.cpantesters.org/?dist=auto
 The-synthesizer-0.01                    85900
 Regexp-Debugger-0.001013                85903
 CatalystX-Widget-Paginator-0.04         85914
+Search-Tools-0.94                       85940
