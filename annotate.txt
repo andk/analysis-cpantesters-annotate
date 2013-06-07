@@ -956,7 +956,6 @@ Test-Module-Used-0.2.3                  81553
 Transmission-Client-0.0603              81561
 WebService-LastFM-SimilarArtists-0.02   not a randomization problem it seems
 Locale-Maketext-Lexicon-0.91            81562
-Mojolicious-Plugin-ShareHelpers-0.52    81563
 MooseX-AttributeHelpers-0.23            81564
 Net-Google-FederatedLogin-0.7.1         81565
 Net-HTTP-API-0.14                       81566
@@ -1323,3 +1322,4 @@ The-synthesizer-0.01                    85900
 Regexp-Debugger-0.001013                85903
 CatalystX-Widget-Paginator-0.04         85914
 Search-Tools-0.94                       85940
+Mojolicious-Plugin-ShareHelpers-0.6     81563
