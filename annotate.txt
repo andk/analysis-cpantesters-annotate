@@ -1324,3 +1324,4 @@ CatalystX-Widget-Paginator-0.04         85914
 Search-Tools-0.94                       85940
 Mojolicious-Plugin-ShareHelpers-0.6     81563
 Data-UUID-1.218                         85978
+POE-Component-IRC-Plugin-WWW-Vim-Tips-0.08 https://github.com/aggrolite/POE-Component-IRC-Plugin-WWW-Vim-Tips/issues/1
