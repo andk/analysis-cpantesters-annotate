@@ -1326,3 +1326,5 @@ Mojolicious-Plugin-ShareHelpers-0.6     81563
 Data-UUID-1.218                         85978
 POE-Component-IRC-Plugin-WWW-Vim-Tips-0.08 https://github.com/aggrolite/POE-Component-IRC-Plugin-WWW-Vim-Tips/issues/1
 WebService-GData-0.0501                 86028
+Search-Sitemap-2.13                     86048
+Test-RDF-1.14                           https://github.com/kjetilk/Test-RDF/issues/2
