@@ -1328,3 +1328,4 @@ POE-Component-IRC-Plugin-WWW-Vim-Tips-0.08 https://github.com/aggrolite/POE-Comp
 WebService-GData-0.0501                 86028
 Search-Sitemap-2.13                     86048
 Test-RDF-1.14                           https://github.com/kjetilk/Test-RDF/issues/2
+Email-Stuffer-0.001                     86106
