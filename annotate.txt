@@ -1329,3 +1329,5 @@ WebService-GData-0.0501                 86028
 Search-Sitemap-2.13                     86048
 Test-RDF-1.14                           https://github.com/kjetilk/Test-RDF/issues/2
 Email-Stuffer-0.001                     86106
+Catalyst-Runtime-5.90040                86128
+Search-OpenSearch-Server-0.26           86129
