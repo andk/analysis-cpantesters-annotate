@@ -1340,3 +1340,4 @@ HTML-Robot-Scrapper-0.07                86323
 SOAP-Lite-0.716                         86340
 Config-General-2.51                     85132,85668
 POE-Filter-DHCPd-Lease-0.0502           86507
+Config-Perl-V-0.18                      85811
