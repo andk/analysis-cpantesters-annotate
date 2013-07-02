@@ -1347,3 +1347,4 @@ Moose-2.0802                            https://rt.perl.org:443/rt3/Ticket/Displ
 Paper-Specs-0.10                        https://rt.perl.org:443/rt3/Ticket/Display.html?id=118655
 GCC-TranslationUnit-1.00                https://rt.perl.org:443/rt3/Ticket/Display.html?id=118655
 JE-0.060                                https://rt.perl.org:443/rt3/Ticket/Display.html?id=118659
+Lingua-Stem-Snowball-Lt-0.02            86655
