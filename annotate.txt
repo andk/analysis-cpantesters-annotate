@@ -1350,3 +1350,5 @@ JE-0.060                                https://rt.perl.org:443/rt3/Ticket/Displ
 Lingua-Stem-Snowball-Lt-0.02            86655
 Data-Handle-0.02001002                  86922
 Net-Server-2.007                        86707
+Perl-Tidy-20121207                      https://rt.perl.org/rt3/Ticket/Display.html?id=118911
+Data-Peek-0.38                          https://rt.perl.org/rt3/Ticket/Display.html?id=118911
