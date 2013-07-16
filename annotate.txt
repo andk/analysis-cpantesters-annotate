@@ -1352,3 +1352,4 @@ Data-Handle-0.02001002                  86922
 Net-Server-2.007                        86707
 Perl-Tidy-20121207                      https://rt.perl.org/rt3/Ticket/Display.html?id=118911
 Data-Peek-0.38                          https://rt.perl.org/rt3/Ticket/Display.html?id=118911
+Metabase-1.001                          86957
