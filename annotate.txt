@@ -1356,3 +1356,5 @@ Metabase-1.001                          86957
 HTTP-Proxy-0.300                        56259
 Mojolicious-Plugin-AutoIndex-0.0005     86982
 CGI-Application-Plugin-Authentication-0.20 85969
+Graph-Simple-0.02                       https://github.com/sukria/Graph-Simple/issues/1
+HTML-HeadParser-Liberal-0.01            https://github.com/lestrrat/p5-HTML-HeadParser-Liberal/issues/1
