@@ -1354,3 +1354,5 @@ Perl-Tidy-20121207                      https://rt.perl.org/rt3/Ticket/Display.h
 Data-Peek-0.38                          https://rt.perl.org/rt3/Ticket/Display.html?id=118911
 Metabase-1.001                          86957
 HTTP-Proxy-0.300                        56259
+Mojolicious-Plugin-AutoIndex-0.0005     86982
+CGI-Application-Plugin-Authentication-0.20 85969
