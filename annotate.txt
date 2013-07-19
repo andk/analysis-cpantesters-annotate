@@ -1359,3 +1359,5 @@ CGI-Application-Plugin-Authentication-0.20 85969
 Graph-Simple-0.02                       https://github.com/sukria/Graph-Simple/issues/1
 HTML-HeadParser-Liberal-0.01            https://github.com/lestrrat/p5-HTML-HeadParser-Liberal/issues/1
 Typed-0.05                              removed?
+B-Generate-1.47                         87035
+Smart-Comments-1.000004                 87039
