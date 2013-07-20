@@ -1361,3 +1361,5 @@ HTML-HeadParser-Liberal-0.01            https://github.com/lestrrat/p5-HTML-Head
 Typed-0.05                              removed?
 B-Generate-1.47                         87035
 Smart-Comments-1.000004                 87039
+AnyEvent-Ping-TCP-1.00                  87088
+Catalyst-Plugin-C3-0.03                 87090
