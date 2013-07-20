@@ -1363,3 +1363,4 @@ B-Generate-1.47                         87035
 Smart-Comments-1.000004                 87039
 AnyEvent-Ping-TCP-1.00                  87088
 Catalyst-Plugin-C3-0.03                 87090
+Dist-Zilla-Plugin-Test-Kwalitee-2.03    https://github.com/harleypig/Dist-Zilla-Plugin-Test-Kwalitee/issues/4
