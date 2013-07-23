@@ -1370,3 +1370,4 @@ MIME-tools-5.504                        87094
 Asm-Preproc-0.07                        87173
 Class-DBI-FormBuilder-0.483             87214
 CSS-Sass-v0.6.0                         87215
+Dancer-Plugin-FontSubset-0.1.1          87217
