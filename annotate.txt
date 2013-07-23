@@ -1368,3 +1368,5 @@ Geo-Coordinates-KKJ-0.01                87092
 Log-Syslog-Abstract-1.200               87093
 MIME-tools-5.504                        87094
 Asm-Preproc-0.07                        87173
+Class-DBI-FormBuilder-0.483             87214
+CSS-Sass-v0.6.0                         87215
