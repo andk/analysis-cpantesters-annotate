@@ -882,7 +882,7 @@ DataCube-1.01                           79957
 Package-Stash-XS-0.25                   tester set AUTOR_TESTING
 Test-Trivial-1.9                        79972
 Net-Thumper-0.02                        80001
-MediaWiki-Bot-3.005006                  https://github.com/MediaWiki-Bot/MediaWiki-Bot/issues/40
+MediaWiki-Bot-5.005006                  https://github.com/MediaWiki-Bot/MediaWiki-Bot/issues/40
 Net-Stripe-0.07                         80008
 Geo-Coordinates-Converter-0.13          80033
 HTML-FromArrayref-1.03                  fixed in 1.05
