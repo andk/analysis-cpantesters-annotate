@@ -1371,3 +1371,5 @@ Asm-Preproc-0.07                        87173
 Class-DBI-FormBuilder-0.483             87214
 CSS-Sass-v0.6.0                         87215
 Dancer-Plugin-FontSubset-0.1.1          87217
+XML-Atom-Server-PSGI-0.03               https://github.com/lestrrat/p5-XML-Atom-Server-PSGI/issues/1
+App-CPRReporter-0.01                    https://github.com/hollie/app-cprreporter-perl/issues/1
