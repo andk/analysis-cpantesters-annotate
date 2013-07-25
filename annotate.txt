@@ -1374,3 +1374,4 @@ Dancer-Plugin-FontSubset-0.1.1          87217
 XML-Atom-Server-PSGI-0.03               https://github.com/lestrrat/p5-XML-Atom-Server-PSGI/issues/1
 App-CPRReporter-0.01                    https://github.com/hollie/app-cprreporter-perl/issues/1
 HTML-FormFu-0.09010                     87240
+LaTeX-TikZ-0.02                         87282
