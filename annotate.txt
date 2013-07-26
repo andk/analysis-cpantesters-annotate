@@ -1375,3 +1375,4 @@ XML-Atom-Server-PSGI-0.03               https://github.com/lestrrat/p5-XML-Atom-
 App-CPRReporter-0.01                    https://github.com/hollie/app-cprreporter-perl/issues/1
 HTML-FormFu-0.09010                     87240
 LaTeX-TikZ-0.02                         87282
+Mojolicious-Plugin-RESTRoutes-0.0100065 87336
