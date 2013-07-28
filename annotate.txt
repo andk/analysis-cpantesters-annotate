@@ -1376,3 +1376,7 @@ App-CPRReporter-0.01                    https://github.com/hollie/app-cprreporte
 HTML-FormFu-0.09010                     87240
 LaTeX-TikZ-0.02                         87282
 Mojolicious-Plugin-RESTRoutes-0.0100065 87336
+MyCPAN-Indexer-1.28_12                  87376
+Glib-1.301                              https://rt.perl.org/rt3/Ticket/Display.html?id=119043
+Marpa-R2-2.064000                       https://rt.perl.org/rt3/Ticket/Display.html?id=119047
+Text-Aligner-0.07                       https://rt.perl.org/rt3/Ticket/Display.html?id=119045
