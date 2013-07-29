@@ -1382,3 +1382,4 @@ Marpa-R2-2.064000                       https://rt.perl.org/rt3/Ticket/Display.h
 Text-Aligner-0.07                       https://rt.perl.org/rt3/Ticket/Display.html?id=119045
 Math-GSL-0.27                           87388
 Moose-Autobox-0.13                      https://rt.perl.org/rt3/Ticket/Display.html?id=119055
+App-Framework-1.06                      87390
