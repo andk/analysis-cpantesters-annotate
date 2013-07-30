@@ -1383,3 +1383,5 @@ Text-Aligner-0.07                       https://rt.perl.org/rt3/Ticket/Display.h
 Math-GSL-0.27                           87388
 Moose-Autobox-0.13                      https://rt.perl.org/rt3/Ticket/Display.html?id=119055
 App-Framework-1.06                      87390
+Statistics-MVA-0.0.2                    87426
+WordLists-0.013                         87427
