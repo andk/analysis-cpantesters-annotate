@@ -1387,3 +1387,4 @@ Statistics-MVA-0.0.2                    87426
 WordLists-0.013                         87427
 Test-CPAN-Changes-ReallyStrict-0.1.5    https://github.com/kentfredric/Test-CPAN-Changes-ReallyStrict/issues/1
 DBM-Deep-2.0009                         https://github.com/robkinyon/dbm-deep/pull/7
+PDF-TableX-0.013                        87512
