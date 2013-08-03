@@ -1390,3 +1390,6 @@ DBM-Deep-2.0009                         https://github.com/robkinyon/dbm-deep/pu
 PDF-TableX-0.013                        87512
 Catalyst-Plugin-Params-Profile-0.05     87533
 RDF-NS-20130402                         https://github.com/nichtich/RDF-NS/issues/4
+Getopt-Euclid-0.4.3                     https://rt.perl.org/rt3/Ticket/Display.html?id=119125
+LaTeX-Encode-0.08                       https://rt.perl.org/rt3/Ticket/Display.html?id=119125
+HTTP-CookieJar-0.004                    https://github.com/dagolden/http-cookiejar/issues/2
