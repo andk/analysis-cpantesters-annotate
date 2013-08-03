@@ -1067,7 +1067,6 @@ Bio-Phylo-0.52                          https://github.com/rvosa/bio-phylo/issue
 Data-Beacon-0.2.5                       https://github.com/nichtich/p5-data-beacon/issues/5
 RDF-Trine-1.002                         https://github.com/kasei/perlrdf/issues/76
 Net-MQTT-1.112330                       https://github.com/beanz/net-mqtt-perl/issues/1
-Pod-Weaver-Section-ClassMopper-1.120100 81875
 MooseX-Does-Delegated-0.002             81876
 WWW-Analytics-MultiTouch-0.35           81877
 Test-Unit-Lite-0.1201                   81879
@@ -1393,3 +1392,4 @@ RDF-NS-20130402                         https://github.com/nichtich/RDF-NS/issue
 Getopt-Euclid-0.4.3                     https://rt.perl.org/rt3/Ticket/Display.html?id=119125
 LaTeX-Encode-0.08                       https://rt.perl.org/rt3/Ticket/Display.html?id=119125
 HTTP-CookieJar-0.004                    https://github.com/dagolden/http-cookiejar/issues/2
+Pod-Weaver-Section-ClassMopper-1.123462 87570
