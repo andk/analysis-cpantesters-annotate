@@ -1393,3 +1393,4 @@ Getopt-Euclid-0.4.3                     https://rt.perl.org/rt3/Ticket/Display.h
 LaTeX-Encode-0.08                       https://rt.perl.org/rt3/Ticket/Display.html?id=119125
 HTTP-CookieJar-0.004                    https://github.com/dagolden/http-cookiejar/issues/2
 Pod-Weaver-Section-ClassMopper-1.123462 87570
+Catalyst-Plugin-Static-Simple-0.30      87577
