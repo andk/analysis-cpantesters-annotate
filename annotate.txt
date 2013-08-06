@@ -1404,3 +1404,4 @@ DBIx-Query-1.02                         87608
 UNIVERSAL-AUTHORITY-Lexical-0.003       87640
 PBS-Logs-0.05                           https://rt.perl.org/rt3/Ticket/Display.html?id=119169
 TPath-0.020                             87642
+LWP-Protocol-connect-6.03               87652
