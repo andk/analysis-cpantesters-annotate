@@ -1409,3 +1409,6 @@ DBD-CSV-0.41                            87684
 Email-Outlook-Message-0.912             87760
 Dist-Zilla-Plugin-SurgicalPodWeaver-0.0020 87624,87625
 Class-Std-0.011                         78196
+CGI-Application-4.50                    https://rt.perl.org:443/rt3/Ticket/Display.html?id=119241
+Devel-TrackSIG-0.03                     https://rt.perl.org:443/rt3/Ticket/Display.html?id=119241
+Object-Lazy-0.13                        https://rt.perl.org:443/rt3/Ticket/Display.html?id=119241
