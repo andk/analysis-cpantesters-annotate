@@ -1408,3 +1408,4 @@ LWP-Protocol-connect-6.03               87652
 DBD-CSV-0.41                            87684
 Email-Outlook-Message-0.912             87760
 Dist-Zilla-Plugin-SurgicalPodWeaver-0.0020 87624,87625
+Class-Std-0.011                         78196
