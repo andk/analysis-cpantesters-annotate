@@ -1412,3 +1412,6 @@ Class-Std-0.011                         78196
 CGI-Application-4.50                    https://rt.perl.org:443/rt3/Ticket/Display.html?id=119241
 Devel-TrackSIG-0.03                     https://rt.perl.org:443/rt3/Ticket/Display.html?id=119241
 Object-Lazy-0.13                        https://rt.perl.org:443/rt3/Ticket/Display.html?id=119241
+Scope-Upper-0.22                        https://rt.perl.org:443/rt3/Ticket/Display.html?id=119281
+Dash-Leak-0.06                          https://rt.perl.org:443/rt3/Ticket/Display.html?id=119295
+Devel-SizeMe-0.16                       https://rt.perl.org:443/rt3/Ticket/Display.html?id=119295
