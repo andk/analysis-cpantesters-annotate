@@ -1420,3 +1420,4 @@ Statistics-DependantTTest-0.03          87926
 rss2leafnode-72                         fixed in 73 (bug in analysis!)
 Error-Pure-NoDie-0.01                   87927
 CGI-Snapp-1.05                          87933
+Mojolicious-Plugin-DBICAdmin-0.0005     87947
