@@ -1417,3 +1417,5 @@ Dash-Leak-0.06                          https://rt.perl.org:443/rt3/Ticket/Displ
 Devel-SizeMe-0.16                       https://rt.perl.org:443/rt3/Ticket/Display.html?id=119295
 Metabase-Backend-SQL-1.000              87925
 Statistics-DependantTTest-0.03          87926
+rss2leafnode-72                         fixed in 73 (bug in analysis!)
+Error-Pure-NoDie-0.01                   87927
