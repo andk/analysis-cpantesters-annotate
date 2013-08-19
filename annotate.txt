@@ -1416,3 +1416,4 @@ Scope-Upper-0.22                        https://rt.perl.org:443/rt3/Ticket/Displ
 Dash-Leak-0.06                          https://rt.perl.org:443/rt3/Ticket/Display.html?id=119295
 Devel-SizeMe-0.16                       https://rt.perl.org:443/rt3/Ticket/Display.html?id=119295
 Metabase-Backend-SQL-1.000              87925
+Statistics-DependantTTest-0.03          87926
