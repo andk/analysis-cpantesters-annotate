@@ -1421,3 +1421,5 @@ rss2leafnode-72                         fixed in 73 (bug in analysis!)
 Error-Pure-NoDie-0.01                   87927
 CGI-Snapp-1.05                          87933
 Mojolicious-Plugin-DBICAdmin-0.0005     87947
+Data-PrintUtils-0.11                    87948
+SQL-Smart-0.06                          87950
