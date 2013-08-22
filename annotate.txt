@@ -1424,3 +1424,4 @@ Mojolicious-Plugin-DBICAdmin-0.0005     87947
 Data-PrintUtils-0.11                    87948
 SQL-Smart-0.06                          87950
 Data-Serializer-0.59                    87966
+POE-Session-PlainCall-0.0300            88018
