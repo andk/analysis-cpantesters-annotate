@@ -1426,3 +1426,4 @@ SQL-Smart-0.06                          87950
 Data-Serializer-0.59                    87966
 POE-Session-PlainCall-0.0300            88018
 Aspect-Loader-0.03                      60262
+Crypt-OpenSSL-X509-1.803                https://rt.perl.org/rt3/Ticket/Display.html?id=119497
