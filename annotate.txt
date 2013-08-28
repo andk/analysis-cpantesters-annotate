@@ -1425,3 +1425,4 @@ Data-PrintUtils-0.11                    87948
 SQL-Smart-0.06                          87950
 Data-Serializer-0.59                    87966
 POE-Session-PlainCall-0.0300            88018
+Aspect-Loader-0.03                      60262
