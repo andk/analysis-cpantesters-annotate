@@ -1430,3 +1430,7 @@ Crypt-OpenSSL-X509-1.803                https://rt.perl.org/rt3/Ticket/Display.h
 Error-0.17020                           https://rt.perl.org/rt3/Ticket/Display.html?id=119463
 Dancer-1.3117                           https://rt.perl.org/rt3/Ticket/Display.html?id=119463
 Tk-804.031                              88210
+Module-Pluggable-Singleton-0.04         88226
+Regexp-Grammars-1.032                   88300
+Contextual-Return-Wrapper-0.01          88301
+DBIx-Class-TopoSort-0.02                88302
