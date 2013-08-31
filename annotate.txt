@@ -1434,3 +1434,5 @@ Module-Pluggable-Singleton-0.04         88226
 Regexp-Grammars-1.032                   88300
 Contextual-Return-Wrapper-0.01          88301
 DBIx-Class-TopoSort-0.02                88302
+Convert-Bencode_XS-0.06                 87012
+Text-CSV-Encoded-0.22                   88307
