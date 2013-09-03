@@ -1445,3 +1445,5 @@ XML-Validate-1.025                      88161
 Regexp-VerbalExpression-0.01            88334
 Net-Evernote-0.081                      88335
 Net-Google-SafeBrowsing2-1.09           88354
+Dancer-Plugin-Authen-Simple-0.130500    88368
+Dancer2-Session-Sereal-0.001            https://github.com/dagolden/dancer2-session-sereal/issues/1
