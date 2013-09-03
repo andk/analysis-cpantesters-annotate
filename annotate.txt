@@ -1444,3 +1444,4 @@ WWW-Search-Ebay-3.031                   88330
 XML-Validate-1.025                      88161
 Regexp-VerbalExpression-0.01            88334
 Net-Evernote-0.081                      88335
+Net-Google-SafeBrowsing2-1.09           88354
