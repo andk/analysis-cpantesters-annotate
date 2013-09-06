@@ -1459,3 +1459,4 @@ Mojolicious-Plugin-GoogleAnalytics-1.003 https://github.com/battlemidget/Mojolic
 MooX-ClassAttribute-0.009               88459
 WebService-Eventful-1.04                88461
 Data-Undump-0.15                        88462
+EntityModel-0.101                       88466
