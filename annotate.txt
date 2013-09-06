@@ -1462,3 +1462,4 @@ Data-Undump-0.15                        88462
 EntityModel-0.101                       88466
 Dependencies-Searcher-0.02              88467
 Geo-Coder-Cloudmade-0.6                 88469
+Pod-POM-0.28                            88474
