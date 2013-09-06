@@ -1460,3 +1460,4 @@ MooX-ClassAttribute-0.009               88459
 WebService-Eventful-1.04                88461
 Data-Undump-0.15                        88462
 EntityModel-0.101                       88466
+Dependencies-Searcher-0.02              88467
