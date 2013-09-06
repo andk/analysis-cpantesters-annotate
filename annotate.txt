@@ -1456,3 +1456,4 @@ Cake-0.006                              no RT queue
 Dist-Zilla-Plugin-SurgicalPodWeaver-0.0021 87624
 HTML-Grabber-0.7                        88433
 Mojolicious-Plugin-GoogleAnalytics-1.003 https://github.com/battlemidget/Mojolicious-Plugin-GoogleAnalytics/issues/1
+MooX-ClassAttribute-0.009               88459
