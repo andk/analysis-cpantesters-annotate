@@ -1365,7 +1365,7 @@ Catalyst-Plugin-C3-0.03                 87090
 Dist-Zilla-Plugin-Test-Kwalitee-2.03    https://github.com/harleypig/Dist-Zilla-Plugin-Test-Kwalitee/issues/4
 Geo-Coordinates-KKJ-0.01                87092
 Log-Syslog-Abstract-1.200               87093
-MIME-tools-5.504                        87094
+MIME-tools-5.504                        87094,87563
 Asm-Preproc-0.07                        87173
 Class-DBI-FormBuilder-0.483             87214
 CSS-Sass-v0.6.0                         87215
@@ -1465,3 +1465,4 @@ Geo-Coder-Cloudmade-0.6                 88469
 Pod-POM-0.28                            88474
 URI-ParseSearchString-3.51              88479
 Devel-Trepan-0.50                       https://github.com/rocky/Perl-Devel-Trepan/issues/23
+autodie-2.20                            88076
