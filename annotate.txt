@@ -1469,3 +1469,4 @@ autodie-2.20                            88076
 Dancer-Serializer-Messagepack-0.01      88532
 Math-Evol-1.12                          88539
 Text-LTSV-0.07                          88545
+Dancer2-Plugin-Feed-1.131470            88556
