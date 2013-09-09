@@ -1466,3 +1466,4 @@ Pod-POM-0.28                            88474
 URI-ParseSearchString-3.51              88479
 Devel-Trepan-0.50                       https://github.com/rocky/Perl-Devel-Trepan/issues/23
 autodie-2.20                            88076
+Dancer-Serializer-Messagepack-0.01      88532
