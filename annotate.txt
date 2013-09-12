@@ -1472,3 +1472,4 @@ Text-LTSV-0.07                          88545
 Dancer2-Plugin-Feed-1.131470            88556
 Parse-Path-0.91                         https://github.com/SineSwiper/Parse-Path/issues/1
 Parser-Combinators-0.03                 https://github.com/wimvanderbauwhede/Perl-Parser-Combinators/issues/1
+W3C-SOAP-0.06                           88625
