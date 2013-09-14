@@ -1476,3 +1476,4 @@ W3C-SOAP-0.06                           88625
 MooseX-Getopt-0.57                      88627
 Math-Random-MT-Perl-1.11                88637
 Rose-DBx-Object-Builder-0.09            88649
+Algorithm-DecisionTree-2.1              88667
