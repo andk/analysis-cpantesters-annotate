@@ -1480,3 +1480,4 @@ Amon2-Web-Dispatcher-RouterSimple-Extended-0.05 88668
 Business-UPS-Tracking-1.10              84340
 Parse-RPN-2.80                          88671
 MooseX-ConfigFromFile-0.11              88674
+Perl-Critic-1.118                       88679
