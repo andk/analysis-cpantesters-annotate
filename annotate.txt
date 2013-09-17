@@ -1483,3 +1483,4 @@ MooseX-ConfigFromFile-0.11              88674
 Perl-Critic-1.118                       88679
 Net-Google-Calendar-1.04                88720
 WebService-HabitRPG-0.21                88399
+HTML-Zoom-Parser-HH5P-0.002             88721
