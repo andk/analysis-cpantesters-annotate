@@ -1485,3 +1485,4 @@ Net-Google-Calendar-1.04                88720
 WebService-HabitRPG-0.21                88399
 HTML-Zoom-Parser-HH5P-0.002             88721
 HTML-EmbeddedPerl-0.91                  88731
+WebService-MobileMe-0.006               https://github.com/mikegrb/WebService-MobileMe/issues/2
