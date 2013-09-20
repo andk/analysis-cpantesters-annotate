@@ -1488,3 +1488,4 @@ HTML-EmbeddedPerl-0.91                  88731
 WebService-MobileMe-0.006               https://github.com/mikegrb/WebService-MobileMe/issues/2
 Paranoid-0.36                           88773
 Facebook-Graph-1.0600                   https://github.com/rizen/Facebook-Graph/issues/40
+WWW-Shorten-3.04                        85418,88052
