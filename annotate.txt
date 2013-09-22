@@ -1490,3 +1490,4 @@ Paranoid-0.36                           88773
 Facebook-Graph-1.0600                   https://github.com/rizen/Facebook-Graph/issues/40
 WWW-Shorten-3.04                        85418,88052
 Dist-Zilla-4.300039                     https://github.com/rjbs/Dist-Zilla/issues/215
+Net-Sendy-API-0.02                      88883
