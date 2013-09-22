@@ -1491,3 +1491,7 @@ Facebook-Graph-1.0600                   https://github.com/rizen/Facebook-Graph/
 WWW-Shorten-3.04                        85418,88052
 Dist-Zilla-4.300039                     https://github.com/rjbs/Dist-Zilla/issues/215
 Net-Sendy-API-0.02                      88883
+Error-Pure-0.12                         88884
+Devel-Cover-1.08                        https://rt.perl.org/rt3/Ticket/Display.html?id=119939
+Mojolicious-4.41                        https://rt.perl.org/rt3/Ticket/Display.html?id=119939
+Acme-Pythonic-0.47                      https://rt.perl.org/rt3/Ticket/Display.html?id=119941
