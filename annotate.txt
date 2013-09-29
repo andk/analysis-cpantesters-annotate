@@ -1498,3 +1498,4 @@ Acme-Pythonic-0.47                      https://rt.perl.org/rt3/Ticket/Display.h
 XML-Ordered-0.01                        renamed to XML::Struct
 Module-ScanDeps-1.10                    89000
 Perl-Critic-Pulp-80                     88866
+Feersum-1.400                           65239
