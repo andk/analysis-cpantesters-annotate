@@ -1497,3 +1497,4 @@ Mojolicious-4.41                        https://rt.perl.org/rt3/Ticket/Display.h
 Acme-Pythonic-0.47                      https://rt.perl.org/rt3/Ticket/Display.html?id=119941
 XML-Ordered-0.01                        renamed to XML::Struct
 Module-ScanDeps-1.10                    89000
+Perl-Critic-Pulp-80                     88866
