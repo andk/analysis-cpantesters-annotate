@@ -1478,7 +1478,6 @@ Rose-DBx-Object-Builder-0.09            88649
 Algorithm-DecisionTree-2.1              88667
 Amon2-Web-Dispatcher-RouterSimple-Extended-0.05 88668
 Business-UPS-Tracking-1.10              84340
-Parse-RPN-2.81                          88671
 MooseX-ConfigFromFile-0.11              88674
 Perl-Critic-1.118                       88679
 Net-Google-Calendar-1.04                88720
@@ -1501,3 +1500,4 @@ Perl-Critic-Pulp-80                     88866
 Feersum-1.400                           65239
 Class-Utils-0.04                        89090
 App-lookup-0.05                         89091
+Parse-RPN-2.83                          88671
