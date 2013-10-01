@@ -1499,3 +1499,5 @@ XML-Ordered-0.01                        renamed to XML::Struct
 Module-ScanDeps-1.10                    89000
 Perl-Critic-Pulp-80                     88866
 Feersum-1.400                           65239
+Class-Utils-0.04                        89090
+App-lookup-0.05                         89091
