@@ -1502,3 +1502,4 @@ Class-Utils-0.04                        89090
 App-lookup-0.05                         89091
 Parse-RPN-2.83                          88671
 Geo-TigerLine-Abbreviations-0.04        89187
+Acme-CPANAuthors-French-0.09            89290
