@@ -1436,7 +1436,6 @@ DBIx-Class-TopoSort-0.02                88302
 Convert-Bencode_XS-0.06                 87012
 Text-CSV-Encoded-0.22                   88307
 Net-Braintree-0.15.0                    88317
-Enterasys-NetSight-0.10                 88318
 Scalar-Compare-0.01                     88319
 WebService-UMLSKS-Similarity-0.23       88329
 WWW-Search-Ebay-3.031                   88330
@@ -1503,3 +1502,4 @@ App-lookup-0.05                         89091
 Parse-RPN-2.83                          88671
 Geo-TigerLine-Abbreviations-0.04        89187
 Acme-CPANAuthors-French-0.09            89290
+Enterasys-NetSight-1.0                  88318
