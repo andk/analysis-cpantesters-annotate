@@ -1510,3 +1510,5 @@ Type-Libraries-0.001                    89581
 Statistics-LineFit-0.07                 89588
 Algorithm-SetSimilarity-0.0.0_03        https://github.com/overlast/p5-Algorithm-SetSimilarity/issues/1
 stockmonkey-2.9400                      89645
+Net-isoHunt-0.102770                    89668
+ClearPress-443                          89707
