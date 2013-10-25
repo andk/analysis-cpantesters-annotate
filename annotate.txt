@@ -1512,3 +1512,6 @@ Algorithm-SetSimilarity-0.0.0_03        https://github.com/overlast/p5-Algorithm
 stockmonkey-2.9400                      89645
 Net-isoHunt-0.102770                    89668
 ClearPress-443                          89707
+Device-USB-0.35                         89760
+Locale-Maketext-Gettext-1.28            89768
+Getopt-ArgParse-1.0.2                   89780
