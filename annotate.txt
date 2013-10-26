@@ -1515,3 +1515,4 @@ ClearPress-443                          89707
 Device-USB-0.35                         89760
 Locale-Maketext-Gettext-1.28            89768
 Getopt-ArgParse-1.0.2                   89780
+JavaScript-Shell-0.02                   89784
