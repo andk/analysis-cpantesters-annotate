@@ -1516,3 +1516,5 @@ Device-USB-0.35                         89760
 Locale-Maketext-Gettext-1.28            89768
 Getopt-ArgParse-1.0.2                   89780
 JavaScript-Shell-0.02                   89784
+Exherbo-Packager-1.122480               89787
+MooseX-Validation-Doctypes-0.05         89815
