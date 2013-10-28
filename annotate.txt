@@ -1521,3 +1521,4 @@ MooseX-Validation-Doctypes-0.05         89815
 MouseX-App-Cmd-0.11                     http://www.cpantesters.org/cpan/report/35746157
 marc-moose-1.0.1                        89817
 MooseX-XSAccessor-0.005                 89818
+Fun-0.05                                89825
