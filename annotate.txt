@@ -1522,3 +1522,4 @@ MouseX-App-Cmd-0.11                     http://www.cpantesters.org/cpan/report/3
 marc-moose-1.0.1                        89817
 MooseX-XSAccessor-0.005                 89818
 Fun-0.05                                89825
+Loop-Sustainable-0.02                   89842
