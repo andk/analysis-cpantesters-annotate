@@ -1525,3 +1525,4 @@ Fun-0.05                                89825
 Loop-Sustainable-0.02                   89842
 ExtJS-AutoForm-Moose-0.01               89864
 Carp-1.32                               88494
+App-RunCron-0.05                        https://github.com/Songmu/p5-App-RunCron/issues/1
