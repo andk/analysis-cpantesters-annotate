@@ -1523,3 +1523,4 @@ marc-moose-1.0.1                        89817
 MooseX-XSAccessor-0.005                 89818
 Fun-0.05                                89825
 Loop-Sustainable-0.02                   89842
+ExtJS-AutoForm-Moose-0.01               89864
