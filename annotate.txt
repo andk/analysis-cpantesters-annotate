@@ -105,7 +105,6 @@ AnyEvent-JSONRPC-0.15                   62598
 Data-PrefixMerge-0.12                   62653
 Getopt-LL-1.0.0                         62713
 POSIX-strptime-0.10                     62734
-RDF-Crypt-0.001                         62735
 Locale-PO-Utils-0.08                    62765
 Dancer-Plugin-Browser-Detect-0.3        62796
 Locale-PO-Callback-0.04                 62882
@@ -230,7 +229,6 @@ Pegex-0.18                              71942
 Fennec-Assert-Wrapper-Differences-0.03  removed from CPAN
 WWW-Yahoo-Smushit-0.03                  72028
 WWW-3172-Crawler-WebInterface-0.001     72029
-Module-Install-RDF-0.002                72030
 Tie-CHI-0.01                            72031
 WebService-Yahoo-BOSS-0.06              72043
 Pegex-Crontab-0.10                      72044
@@ -243,7 +241,6 @@ Acme-EyeDrops-1.55                      72163
 Sub-Mutate-0.003                        works again with v5.15.4-128-g18e3e9c
 Class-Sniff-0.09                        72158
 Alias-2.32                              64987
-Test-HTML-Content-0.08                  70099
 App-Context-0.968                       72129
 Acme-Perl-VM-0.006                      66999
 Rinchi-XMLSchema-0.02                   69276
@@ -366,7 +363,6 @@ POE-API-Peek-2.19                       73393
 MooseX-Types-DateTimeX-0.10             73467
 Catalyst-Example-InstantCRUD-0.038      73475
 String-ToIdentifier-EN-0.06             was a bleadperl bug
-YAML-0.77                               73483
 Tk-804.030                              73487
 Clone-Closure-0.06                      69111
 Crypt-PWSafe3-1.01                      73494
@@ -377,7 +373,6 @@ JS-0.17                                 73503
 WWW-Scraper-ISBN-AmazonDE_Driver-0.21   73504
 Mojolicious-Plugin-HTMLTemplateRenderer-0.01 73513
 PNI-0.21.1                              73548
-Toader-0.0.1                            73549
 Webservice-InterMine-Bio-0.9802         73557
 Ukigumo-0.01                            73558
 UNIVERSAL-cant-v0.0.1                   73613
@@ -423,7 +418,6 @@ MooseX-Params-0.005                     73819
 MasonX-Request-HTMLTemplate-0.06        73820
 AI-NeuralNet-Kohonen-Visual-0.3         73821
 PlackX-Engine-0.01                      73822
-Physics-Water-SoundSpeed-0.91           73826
 Text-PO-Parser-0.0.1                    73833
 Tk-Tree-JSON-0.01                       73839
 warnings-unused-0.04                    66929
@@ -450,7 +444,6 @@ ParseUtil-Domain-2.09                   74008
 Reflexive-Stream-Filtering-1.103450     74010
 Tapper-Installer-3.000010               74015
 TextLinkAds-0.01                        74027
-YAML-0.80                               73673
 Web-App-1.21                            63324
 Dist-Zilla-Plugin-ChangelogFromGit-CPAN-Changes-0.0.1 74028
 Test-Mini-v1.1.3                        74139
@@ -481,7 +474,6 @@ Plack-Middleware-Reproxy-0.00002        74339
 Net-Whois-Parser-0.07                   74340
 Test-Assert-0.0504                      74341 Class::Inspector
 Portable-1.15                           74342 Class::Inspector
-Module-Find-0.10                        74251
 Text-Phonetic-2.03                      74251 Module::Find
 URI-Escape-XS-0.08                      74344 Net::IDN::Encode
 Test-Pod-No404s-0.01                    74347 Pod::Simple
@@ -531,7 +523,6 @@ Text-SimpleVaddrbook-0.01               74802
 Image-PNG-FileConvert-0.02              74840
 Geo-Distance-Google-0.01                74841
 Arepa-0.91                              74842
-Parallol-0.2                            74844
 Reddit-0.30                             74867
 Pod-Coverage-MethodSignatures-0.02      74873
 overload-substr-0.02                    74888
@@ -606,7 +597,6 @@ File-Stat-Moose-0.06                    75535
 Acme-MetaSyntactic-0.99_02              75537
 Hash-AutoHash-Record-1.11               75538
 Carp-Always-0.10                        75320
-Catalyst-Plugin-AccessLog-1.04          75564
 Image-MetaData-JPEG-0.153               75640
 XML-Declare-0.05                        75654
 Siebel-Srvrmgr-0.01                     75702
@@ -636,7 +626,6 @@ Data-Util-0.59                          76380
 MooseX-hasn-t-0.001                     76399
 MetaCPAN-API-Tiny-1.120920              76400
 MooseX-Constructor-AllErrors-0.019      76250
-Toader-0.2.0                            73549
 Net-SSH-Perl-1.34                       76482
 Role-Basic-0.13                         76486
 AnyEvent-Connection-0.06                76403
@@ -671,7 +660,6 @@ HTTP-Response-Maker-0.01                76671
 Validation-Class-6.05                   76718
 String-Validator-Email-0.94             76719
 DBIx-Class-DynamicDefault-0.04          76721
-Role-Tiny-1.000_901                     76734
 Sakai-Nakamura-0.12                     76741
 Net-Twitter-Stream-0.28                 72105
 XML-Toolkit-0.15                        76755
@@ -686,7 +674,6 @@ WWW-YourFileHost-0.08                   76887
 Data-Context-v0.0.1                     76915
 Template-Plugin-Colour-0.05             76917
 File-Map-0.49                           76920
-RDF-NS-20120426                         76935
 Imager-Graph-0.09                       76955
 Lingua-EN-Sentences-Offsets-0.01_03     fails with perl prior 5.14; bugtracker returns a 404; report sent to author
 Test-Spec-0.44                          https://github.com/schwern/test-more/issues/295
@@ -696,7 +683,6 @@ Fey-Loader-0.13                         76983
 Scalar-List-Utils-1.25                  https://github.com/schwern/test-more/issues/297
 MAS-TIFF-0.4                            77023
 Catalyst-ActionRole-JMS-1.0             77014, Sort::Naturally, CPANPLUS
-Role-Tiny-1.001002                      77049
 Class-Accessor-Lite-Lazy-0.01           https://github.com/schwern/test-more/issues/298
 Plack-Client-0.06                       77123
 PHP-Functions-File-0.01                 77124
@@ -752,11 +738,9 @@ Crypt-X509-0.51                         77679
 URI-Fetch-0.09                          77131
 Sys-Filesystem-1.30                     77699
 Text-Sass-0.95                          77718
-Toader-0.3.0                            77729
 Perl-Node-Interface-0.35                77731
 CatalystX-OAuth2-0.001002               77742
 Class-InsideOut-1.10                    77860
-DBIx-Pg-CallFunction-0.011              77968
 Plack-Middleware-Test-StashWarnings-0.06 77970
 POE-Component-IRC-Plugin-WubWubWub-0.1  77981
 MendeleySQLite-0.001                    77986
@@ -858,7 +842,6 @@ Bio-SSRTool-0.01                        79654
 Test-Simpler-0.000004                   78796
 CGI-Snapp-1.01                          79660
 Unicode-Support-0.001                   79669
-RDF-NS-20120905                         79670
 File-DirWalk-0.4                        79738
 Data-Rx-TypeBundle-Rx-0.103520          79743
 Mojolicious-Plugin-ParamCondition-0.003 79768
@@ -899,7 +882,6 @@ Lorem-0.22                              80289
 Char-EUCJP-0.83                         https://rt.perl.org/rt3//Public/Bug/Display.html?id=115080
 Char-GBK-0.83                           https://rt.perl.org/rt3//Public/Bug/Display.html?id=115080
 XML-Rules-1.13                          80308
-Role-Tiny-1.002000                      80310
 Proc-ProcessTable-0.46                  80436
 Time-Simple-0.06                        80461
 Config-Hash-0.912                       81103
@@ -1056,7 +1038,6 @@ SQL-Interp-1.21                         81857
 Sub-Call-Tail-0.05                      81860
 ElasticSearch-SearchBuilder-0.17        https://github.com/clintongormley/ElasticSearch-SearchBuilder/issues/5 closed
 Lingua-Boolean-0.006                    https://github.com/doherty/Lingua-Boolean/issues/4
-RDF-NS-20120917                         https://github.com/nichtich/RDF-NS/issues/2
 MooseX-Attribute-Deflator-2.2.1         https://github.com/monken/p5-moosex-attribute-deflator/issues/4 closed
 Net-HTTP-Spore-0.05                     https://github.com/franckcuny/net-http-spore/issues/19
 Ubic-1.46                               https://github.com/berekuk/Ubic/issues/45 closed
@@ -1143,14 +1124,12 @@ Fey-ORM-0.44                            82980
 marc-mir-0.3                            82985
 Tree-Template-Declare-0.4               82989
 Redis-RdbParser-0.04                    83022
-Compress-Bzip2-2.09                     82308
 EV-Hiredis-0.01                         83106
 CloudPAN-1.130120                       83148
 Entities-0.2                            83234
 Dancer-Routes-20130114.125429           83802
 Brannigan-1.0                           81608
 Data-Format-Pretty-HTML-0.05            83989
-JSON-T-0.101                            84038
 DateTime-Format-DateManip-0.04          55771
 HTML-HTML5-Sanity-0.103                 84038 (implicit)
 JSON-JOM-0.501                          84038 (implicit)
@@ -1347,7 +1326,6 @@ Lingua-Stem-Snowball-Lt-0.02            86655
 Data-Handle-0.02001002                  86922
 Net-Server-2.007                        86707
 Perl-Tidy-20121207                      https://rt.perl.org/rt3/Ticket/Display.html?id=118911
-Data-Peek-0.38                          https://rt.perl.org/rt3/Ticket/Display.html?id=118911
 Metabase-1.001                          86957
 HTTP-Proxy-0.300                        56259
 Mojolicious-Plugin-AutoIndex-0.0005     86982
@@ -1385,7 +1363,6 @@ Test-CPAN-Changes-ReallyStrict-0.1.5    https://github.com/kentfredric/Test-CPAN
 DBM-Deep-2.0009                         https://github.com/robkinyon/dbm-deep/pull/7
 PDF-TableX-0.013                        87512
 Catalyst-Plugin-Params-Profile-0.05     87533
-RDF-NS-20130402                         https://github.com/nichtich/RDF-NS/issues/4
 Getopt-Euclid-0.4.3                     87804
 LaTeX-Encode-0.08                       87805
 HTTP-CookieJar-0.004                    https://github.com/dagolden/http-cookiejar/issues/2
@@ -1522,7 +1499,6 @@ Fun-0.05                                89825
 Loop-Sustainable-0.02                   89842
 ExtJS-AutoForm-Moose-0.01               89864
 Carp-1.32                               88494
-App-RunCron-0.05                        https://github.com/Songmu/p5-App-RunCron/issues/1
 Mojolicious-Plugin-PPI-0.04             https://github.com/jberger/Mojolicious-Plugin-PPI/issues/2
 p5-Text-Xslate-Syntax-Any-1.5015        89873
 Typed-0.06                              89874
