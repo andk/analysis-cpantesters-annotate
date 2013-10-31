@@ -256,7 +256,6 @@ WebService-Solr-0.16                    72043
 ORMesque-1.110422                       72202
 KinoSearch-0.313                        72220
 DBIx-Class-0.08195                      72221
-File-MimeInfo-0.15                      66841
 signatures-0.06                         66997
 Devel-Cover-0.72                        fixed in 0.79
 Thread-Bless-0.06                       72205
@@ -550,7 +549,6 @@ File-Unpack-0.53                        74636
 Test-WWW-Selenium-1.32                  75084
 Capture-Tiny-0.16                       75129
 Net-Amazon-MechanicalTurk-1.01_01       54652
-Module-ExtractUse-0.24                  75130
 WebService-Strava-0.01                  75131
 Unicode-EastAsianWidth-1.30             75132
 WWW-Scraper-ISBN-TWSanmin_Driver-0.02   75133
@@ -1502,7 +1500,6 @@ App-lookup-0.05                         89091
 Parse-RPN-2.83                          88671
 Geo-TigerLine-Abbreviations-0.04        89187
 Acme-CPANAuthors-French-0.09            89290
-Enterasys-NetSight-1.1                  88318
 Google-Chart-0.05014                    89516
 Scalar-List-Utils-1.33                  89517
 RSS-Parser-Lite-0.12                    89579
@@ -1529,3 +1526,4 @@ App-RunCron-0.05                        https://github.com/Songmu/p5-App-RunCron
 Mojolicious-Plugin-PPI-0.04             https://github.com/jberger/Mojolicious-Plugin-PPI/issues/2
 p5-Text-Xslate-Syntax-Any-1.5015        89873
 Typed-0.06                              89874
+Enterasys-NetSight-1.1                  88318
