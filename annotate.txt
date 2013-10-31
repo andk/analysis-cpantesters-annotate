@@ -1401,7 +1401,6 @@ POE-Session-PlainCall-0.0300            88018
 Aspect-Loader-0.03                      60262
 Crypt-OpenSSL-X509-1.803                https://rt.perl.org/rt3/Ticket/Display.html?id=119497
 Error-0.17020                           https://rt.perl.org/rt3/Ticket/Display.html?id=119463
-Dancer-1.3117                           https://rt.perl.org/rt3/Ticket/Display.html?id=119463
 Tk-804.031                              88210
 Module-Pluggable-Singleton-0.04         88226
 Regexp-Grammars-1.032                   88300
@@ -1503,3 +1502,4 @@ p5-Text-Xslate-Syntax-Any-1.5015        89873
 Typed-0.06                              89874
 Enterasys-NetSight-1.1                  88318
 Doorman-0.07                            89924
+Dancer-1.3119                           https://github.com/PerlDancer/Dancer/issues/969
