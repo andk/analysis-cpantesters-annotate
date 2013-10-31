@@ -1527,3 +1527,5 @@ ExtJS-AutoForm-Moose-0.01               89864
 Carp-1.32                               88494
 App-RunCron-0.05                        https://github.com/Songmu/p5-App-RunCron/issues/1
 Mojolicious-Plugin-PPI-0.04             https://github.com/jberger/Mojolicious-Plugin-PPI/issues/2
+p5-Text-Xslate-Syntax-Any-1.5015        89873
+Typed-0.06                              89874
