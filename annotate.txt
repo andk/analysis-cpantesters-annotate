@@ -177,7 +177,6 @@ Tie-Scalar-Random-0.02                  66951
 Math-Polynom-0.13                       67229
 Finance-GeniusTrader-0.00_50            undeclared dependency on Data::Calc but no RT queue
 Frost-0.70                              67547
-Doorman-0.06                            67651
 AnyEvent-Inotify-Simple-0.02            67725
 Acme-Base64-0.03                        fixed in perl 5.14
 DynGig-Multiplex-0.01                   68257
@@ -1503,3 +1502,4 @@ Mojolicious-Plugin-PPI-0.04             https://github.com/jberger/Mojolicious-P
 p5-Text-Xslate-Syntax-Any-1.5015        89873
 Typed-0.06                              89874
 Enterasys-NetSight-1.1                  88318
+Doorman-0.07                            89924
