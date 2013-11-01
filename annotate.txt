@@ -816,7 +816,6 @@ DBIx-Class-InflateColumn-Boolean-0.001001 79181
 MojoX-Renderer-Haml-0.990103            79209
 DBIx-Class-Helpers-2.015000             79237
 Role-Log-Syslog-Fast-0.14               79255
-Moose-2.0603                            https://rt.perl.org/rt3/Ticket/Display.html?id=114628
 CSS-DOM-0.14                            https://rt.perl.org/rt3/Ticket/Display.html?id=114628
 B-Generate-1.46                         https://rt.perl.org/rt3/Ticket/Display.html?id=114632
 Scope-Escape-0.004                      https://rt.perl.org/rt3/Ticket/Display.html?id=114556
@@ -1317,7 +1316,6 @@ POE-Filter-DHCPd-Lease-0.0502           86507
 Config-Perl-V-0.18                      85811
 POE-Component-Server-Twirc-0.16         86509
 JSYNC-0.15                              86510
-Moose-2.0802                            https://rt.perl.org:443/rt3/Ticket/Display.html?id=118655
 Paper-Specs-0.10                        https://rt.perl.org:443/rt3/Ticket/Display.html?id=118655
 GCC-TranslationUnit-1.00                https://rt.perl.org:443/rt3/Ticket/Display.html?id=118655
 JE-0.060                                https://rt.perl.org:443/rt3/Ticket/Display.html?id=118659
@@ -1491,7 +1489,6 @@ JavaScript-Shell-0.02                   89784
 Exherbo-Packager-1.122480               89787
 MooseX-Validation-Doctypes-0.05         89815
 MouseX-App-Cmd-0.11                     http://www.cpantesters.org/cpan/report/35746157
-marc-moose-1.0.1                        89817
 MooseX-XSAccessor-0.005                 89818
 Fun-0.05                                89825
 Loop-Sustainable-0.02                   89842
