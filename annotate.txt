@@ -1505,3 +1505,4 @@ App-Unicheck-Modules-MySQL-0.02         89937
 HTML-ExtractMeta-0.10                   89946
 AnyEvent-MultiDownload-0.90             89950
 WWW-TheEchoNest-0.3                     89951
+Devel-Declare-Lexer-0.012               89952
