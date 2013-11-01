@@ -1503,3 +1503,4 @@ Dancer-1.3119                           https://github.com/PerlDancer/Dancer/iss
 Config-Environment-0.000008             https://github.com/alnewkirk/Config-Environment/issues/1
 App-Unicheck-Modules-MySQL-0.02         89937
 HTML-ExtractMeta-0.10                   89946
+AnyEvent-MultiDownload-0.90             89950
