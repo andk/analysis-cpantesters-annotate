@@ -710,3 +710,4 @@ AnyEvent-MultiDownload-0.90             89950
 WWW-TheEchoNest-0.3                     89951
 Devel-Declare-Lexer-0.012               89952
 WWW-CPANRatings-RSS-0.0305              89980
+LWP-Protocol-Hosts-0.01                 removed from CPAN
