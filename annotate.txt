@@ -247,7 +247,6 @@ Memoize-Expire-ByInstance-0.500001      66988
 Debug-Client-0.12                       active development in 0.13_* (BOWTIE)
 Perl6-Perldoc-v0.0.5                    fixed in 0.000007
 Apache-LogRegex-1.5                     66947
-Want-0.18                               72083
 WebService-Solr-0.16                    72043
 ORMesque-1.110422                       72202
 KinoSearch-0.313                        72220
@@ -277,7 +276,6 @@ SQLx-Core-0.11                          gone from CPAN
 PITA-Image-0.60                         72235
 Geo-Forward-0.12                        72236
 RPC-Async-1.05                          72325
-MARC-Record-2.0.3                       works in bleadperl v5.15.4-321-g0765b2b
 PDL-2.4.9                               see PDL-2.4.9_009
 Proc-Pidfile-1.005                      66873
 Class-Value-Net-1.110250                72367
@@ -287,7 +285,6 @@ Lexical-SealRequireHints-0.005          https://rt.perl.org/rt3/Ticket/Display.h
 Imager-Font-FT2-0.83                    72643
 Google-Fusion-0.06                      72644
 Vimana-2.25                             64235
-Acme-SList-Utilities-0.01               72645
 Data-BitStream-XS-0.02                  72646
 Module-Install-PrePAN-0.03              72647
 Plack-Middleware-QRCode-0.02            71802
@@ -372,7 +369,6 @@ JS-0.17                                 73503
 WWW-Scraper-ISBN-AmazonDE_Driver-0.21   73504
 Mojolicious-Plugin-HTMLTemplateRenderer-0.01 73513
 PNI-0.21.1                              73548
-Webservice-InterMine-Bio-0.9802         73557
 Ukigumo-0.01                            73558
 UNIVERSAL-cant-v0.0.1                   73613
 Jemplate-0.261                          73617
@@ -645,7 +641,6 @@ AtomBus-1.0404                          https://github.com/ironcamel/AtomBus/iss
 Text-KnuthPlass-1.02                    76548
 Test-Cmd-1.05                           76556
 MooseX-Types-Data-Serializer-0.02       76557
-Mojito-0.17                             76558
 JSON-HPack-0.0.2                        76565
 MojoX-AIO-0.05                          76568
 MojoX-Renderer-Alloy-1.112200           76569
@@ -655,7 +650,6 @@ Scalar-Vec-Util-0.06                    66946
 Net-Google-FederatedLogin-0.7.0         76617
 Parallel-Downloader-0.120120            76620
 rss2leafnode-62                         76669
-HTTP-Response-Maker-0.01                76671
 Validation-Class-6.05                   76718
 String-Validator-Email-0.94             76719
 DBIx-Class-DynamicDefault-0.04          76721
@@ -718,7 +712,6 @@ AnyEvent-Blackboard-v0.2.6              75529
 Command-Do-0.08                         77268
 eBay-API-Simple-0.28                    73493
 Ruby-VersionManager-0.003009            77269
-Cisco-UCS-Common-SwitchCard-0.1         77270
 Net-TinyIp-0.07                         77271
 Mojolicious-Plugin-DOCRenderer-2.00     77272
 PostScript-Report-0.10                  77299
@@ -793,7 +786,6 @@ IO-Util-1.5                             79063
 Module-Want-0.4                         77417
 Config-Model-OpenSsh-1.224              79077
 Perl6-Perldoc-0.000007                  79078
-Pod-POM-Web-1.17                        79079
 Lingua-PT-Words2Nums-1.04               79080
 XML-Compare-0.04                        79081
 Module-Release-2.06_01                  78442
@@ -954,7 +946,6 @@ Tie-FieldVals-0.6202                    81596
 Class-Trait-0.31                        81598
 Catalyst-Runtime-5.90018                81601
 CGI-Alert-2.05                          81602
-Acme-Hello-0.05                         not a randomization problem it seems
 API-Plesk-2.01                          81603
 App-Hachero-0.13                        81604
 App-OpenVZ-BCWatch-0.03                 81605
@@ -1002,7 +993,6 @@ MooseX-MetaDescription-0.05             81713
 JS-YUI-Loader-0.06                      obsolete namespace (now YUI-Loader)
 Dist-Zilla-Role-Stash-Plugins-1.005     81716
 Getopt-Euclid-0.2.7                     81630
-Data-DPath-0.47                         obsolete version
 DBI-1.622                               has newer dev version
 MooseX-AttributeCloner-0.25             81749
 Dancer-Plugin-TimeRequests-0.04         81750
@@ -1028,7 +1018,6 @@ Algorithm-Bitonic-Sort-0.01             81827
 Dancer-Plugin-DictionaryCheck-0.02      81830
 Config-YAARG-0.023                      81831
 App-DoubleUp-v0.4.0                     81842
-IO-Digest-0.10                          81846
 Test-CGI-Multipart-v0.0.3               81847
 Tapper-TestSuite-Netperf-4.1.1          81848
 R-Comment2DocDraft-0.2                  81850
@@ -1127,7 +1116,6 @@ CloudPAN-1.130120                       83148
 Entities-0.2                            83234
 Dancer-Routes-20130114.125429           83802
 Brannigan-1.0                           81608
-Data-Format-Pretty-HTML-0.05            83989
 DateTime-Format-DateManip-0.04          55771
 HTML-HTML5-Sanity-0.103                 84038 (implicit)
 JSON-JOM-0.501                          84038 (implicit)
@@ -1224,7 +1212,6 @@ XML-XPathEngine-0.13                    85259
 Log-Unrotate-1.29                       85260
 Imager-0.95                             85262
 Convert-Binary-C-0.76                   85264
-DBIx-Class-InflateColumn-Serializer-0.03 85265
 Dancer-Plugin-Auth-Twitter-0.02         85266
 Audio-M4P-0.51                          85267
 WWW-Scraper-Wikipedia-ISO3166-1.01      85268
@@ -1263,7 +1250,6 @@ WWW-SourceForge-0.66                    85532
 Org-Parser-0.31                         85533
 Text-LevenshteinXS-0.04                 85564,85565,85590
 Math-Clipper-1.22                       74828
-Mojito-0.21                             85605
 Dist-Zilla-Plugin-AutoMetaResources-1.20 84878
 Config-Source-0.06                      has a smartmatch TODO on 5.18+ already in the code
 Text-ANSITable-0.13                     85618
