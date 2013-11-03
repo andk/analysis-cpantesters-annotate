@@ -712,3 +712,4 @@ Devel-Declare-Lexer-0.012               89952
 WWW-CPANRatings-RSS-0.0305              89980
 LWP-Protocol-Hosts-0.01                 removed from CPAN
 RT-Client-REST-0.44                     89988
+Pod-Loom-0.06                           89996
