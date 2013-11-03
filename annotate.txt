@@ -34,7 +34,6 @@ Event-ScreenSaver-0.0.3                 51122
 Perl6-Feeds-0.20                        50551
 XS-MRO-Compat-0.14                      51197
 TRD-Watch-Web-0.0.4                     51220
-SeeAlso-Server-0.57                     51520
 AnyEvent-Gmail-Feed-0.02                51521
 Net-Server-Framework-1.2                51524
 SparkX-Form-BasicValidators-0.01        52011
@@ -263,7 +262,6 @@ Audio-File-0.11                         74197
 WWW-RobotRules-Extended-0.02            73439
 XIRCD-0.0.1                             74231
 PPI-1.215                               74234
-DBIx-Class-Schema-Loader-0.07015        74236
 CGI-Application-Plugin-AJAXUpload-v0.0.3 74284
 Carp-Diagnostics-0.05.3                 74295
 Plack-Middleware-Reproxy-0.00002        74339
@@ -280,7 +278,6 @@ Template-Plugin-KwikiFormat-1.04        74512
 PerlIO-Util-0.72                        74539
 Finance-Quant-Quotes-0.01               74548
 Data-Feed-0.00015                       74551
-Config-Scoped-0.13                      74618
 Template-Plugin-MP3-Tag-0.01            74638
 CSS-1.09                                74640
 Dancer-OO-0.01                          replaced with filename Dancer-OO-depfix.tar.gz
@@ -371,7 +368,6 @@ nana-0.22                               77470
 HTML-StripScripts-1.05                  https://rt.perl.org/rt3//Public/Bug/Display.html?id=113094
 Crypt-X509-0.51                         77679
 URI-Fetch-0.09                          77131
-Sys-Filesystem-1.30                     77699
 Perl-Node-Interface-0.35                77731
 CatalystX-OAuth2-0.001002               77742
 POE-Component-IRC-Plugin-WubWubWub-0.1  77981
@@ -414,7 +410,6 @@ MooseX-Semantic-0.006                   79349
 Net-GDrive-0.01                         79362
 Net-GoogleDrive-0.02                    79545
 Unicode-Support-0.001                   79669
-File-DirWalk-0.4                        79738
 Data-Rx-TypeBundle-Rx-0.103520          79743
 Mojolicious-Plugin-ParamCondition-0.003 79768
 UNIVERSAL-DOES-0.004                    https://rt.perl.org/rt3/Ticket/Display.html?id=114998
@@ -422,7 +417,6 @@ WebService-Pastefire-0.02               79857
 ORDB-CPANMeta-Generator-0.12            67599
 DataCube-1.01                           79957
 MediaWiki-Bot-5.005006                  https://github.com/MediaWiki-Bot/MediaWiki-Bot/issues/40
-HTML-FromArrayref-1.03                  fixed in 1.05
 Time-Format-1.12                        a case for strace, Date::Manip only a "recommends"
 Catalyst-Controller-Atompub-0.5.4       80038
 HTTP-Response-Encoding-0.06             80051
@@ -441,7 +435,6 @@ Google-AJAX-Library-0.022               81440
 Crypt-OpenPGP-1.06                      81442
 Tie-Hash-Indexed-0.05                   81449
 XML-ExtOn-0.17                          81500
-Graph-Easy-0.72                         81524
 YUI-Loader-0.071                        81525
 POE-Filter-JSON-0.04                    not a randomization problem it seems
 TAP-Formatter-JUnit-0.09                81552
@@ -450,7 +443,6 @@ Net-HTTP-API-0.14                       81566
 Net-ISC-DHCPd-0.14                      81567
 ObjectDBI-0.15                          suspect of being randomization victim; waiting on DBI
 Package-Watchdog-0.09                   81568
-PDF-API2-2.019                          81569
 POE-Component-Client-BigBrother-1.00    81572
 POE-Component-Client-SMTP-0.22          not a randomization problem it seems
 MooseX-Net-API-0.12                     deprecated; see Net::HTTP::API
@@ -474,7 +466,6 @@ Gtk2-Ex-WidgetBits-48                   81631
 HTML-StickyQuery-DoCoMoGUID-0.03        81633
 Internals-DumpArenas-0.12               81635
 Data-Dump-XML-1.19                      81637
-DBIx-Class-0.08204                      81638
 DBIx-ObjectMapper-0.3013                81639
 DBIx-Skinny-0.0742                      81643
 XML-Hash-LX-0.0603                      81645
@@ -500,9 +491,7 @@ MooseX-TrackDirty-Attributes-2.002      https://github.com/RsrchBoy/MooseX-Track
 Class-ErrorHandler-0.01                 79124
 Tie-IxHash-FromText-0.02                82000
 IO-Statistics-0.12                      82002
-Crypt-Twofish-2.15                      82012
 Net-DNS-SEC-0.16                        82031
-Method-Signatures-20121201              82043
 DBIx-DisconnectAll-0.01                 obsolete version
 Data-Beacon-0.3.0                       76566
 App-CSV-0.06                            81767
@@ -527,7 +516,6 @@ JSON-PPdev-2.27100                      84258
 Locale-Object-0.79                      84261
 Perl-Squish-1.06                        66958
 Plack-Middleware-StaticShared-0.05      84264
-MooseX-Storage-0.32                     84287
 Device-Leap-0.01                        84297
 Dancer-Plugin-Passphrase-2.0.0          84298
 AppConfig-1.66                          84318
@@ -585,7 +573,6 @@ Exception-Base-0.25                     failed only for v5.17.11
 CatalystX-Widget-Paginator-0.04         85914
 Mojolicious-Plugin-ShareHelpers-0.6     81563
 Search-Sitemap-2.13                     86048
-DBD-CSV-0.38                            86130
 Business-OnlinePayment-IPPay-0.08       86161
 RPC-XML-0.77                            86187
 POE-Filter-DHCPd-Lease-0.0502           86507
@@ -597,7 +584,6 @@ JE-0.060                                https://rt.perl.org:443/rt3/Ticket/Displ
 Lingua-Stem-Snowball-Lt-0.02            86655
 Net-Server-2.007                        86707
 HTTP-Proxy-0.300                        56259
-Mojolicious-Plugin-AutoIndex-0.0005     86982
 CGI-Application-Plugin-Authentication-0.20 85969
 HTML-HeadParser-Liberal-0.01            https://github.com/lestrrat/p5-HTML-HeadParser-Liberal/issues/1
 AnyEvent-Ping-TCP-1.00                  87088
@@ -633,7 +619,6 @@ Dash-Leak-0.06                          https://rt.perl.org:443/rt3/Ticket/Displ
 Metabase-Backend-SQL-1.000              87925
 Statistics-DependantTTest-0.03          87926
 SQL-Smart-0.06                          87950
-Aspect-Loader-0.03                      60262
 Crypt-OpenSSL-X509-1.803                https://rt.perl.org/rt3/Ticket/Display.html?id=119497
 Tk-804.031                              88210
 Contextual-Return-Wrapper-0.01          88301
@@ -661,10 +646,8 @@ Math-Evol-1.12                          88539
 Text-LTSV-0.07                          88545
 Parser-Combinators-0.03                 https://github.com/wimvanderbauwhede/Perl-Parser-Combinators/issues/1
 W3C-SOAP-0.06                           88625
-MooseX-Getopt-0.57                      88627
 Rose-DBx-Object-Builder-0.09            88649
 Algorithm-DecisionTree-2.1              88667
-Amon2-Web-Dispatcher-RouterSimple-Extended-0.05 88668
 Business-UPS-Tracking-1.10              84340
 WebService-HabitRPG-0.21                88399
 HTML-Zoom-Parser-HH5P-0.002             88721
@@ -675,22 +658,18 @@ WWW-Shorten-3.04                        85418,88052
 Devel-Cover-1.08                        https://rt.perl.org/rt3/Ticket/Display.html?id=119939
 Acme-Pythonic-0.47                      https://rt.perl.org/rt3/Ticket/Display.html?id=119941
 XML-Ordered-0.01                        renamed to XML::Struct
-Module-ScanDeps-1.10                    89000
 Perl-Critic-Pulp-80                     88866
 Feersum-1.400                           65239
 Parse-RPN-2.83                          88671
 Geo-TigerLine-Abbreviations-0.04        89187
 Acme-CPANAuthors-French-0.09            89290
 Google-Chart-0.05014                    89516
-Scalar-List-Utils-1.33                  89517
 RSS-Parser-Lite-0.12                    89579
 Statistics-LineFit-0.07                 89588
 Algorithm-SetSimilarity-0.0.0_03        https://github.com/overlast/p5-Algorithm-SetSimilarity/issues/1
-stockmonkey-2.9400                      89645
 Net-isoHunt-0.102770                    89668
 ClearPress-443                          89707
 Locale-Maketext-Gettext-1.28            89768
-Getopt-ArgParse-1.0.2                   89780
 JavaScript-Shell-0.02                   89784
 MooseX-Validation-Doctypes-0.05         89815
 MouseX-App-Cmd-0.11                     http://www.cpantesters.org/cpan/report/35746157
