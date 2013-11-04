@@ -694,3 +694,4 @@ RT-Client-REST-0.44                     89988
 Pod-Loom-0.06                           89996
 Pod-Weaver-Plugin-StopWords-1.007       90024
 Mojolicious-Plugin-SQLiteViewerLite-0.11 90031
+Mojolicious-Plugin-DOCRenderer-3.01     https://github.com/viliampucik/Mojolicious-Plugin-DocRenderer/issues/2
