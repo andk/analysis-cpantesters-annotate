@@ -697,3 +697,4 @@ Mojolicious-Plugin-SQLiteViewerLite-0.11 90031
 Mojolicious-Plugin-DOCRenderer-3.01     https://github.com/viliampucik/Mojolicious-Plugin-DocRenderer/issues/2
 Dancer2-Plugin-Auth-Tiny-0.003          https://github.com/dagolden/Dancer2-Plugin-Auth-Tiny/issues/3
 Dancer2-Plugin-Paginator-1.000000       https://github.com/blabos/Dancer2-Plugin-Paginator/issues/1
+DBIx-DBHResolver-0.17                   90039
