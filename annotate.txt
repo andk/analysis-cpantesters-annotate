@@ -249,7 +249,6 @@ warnings-method-0.10                    66930
 POEIKC-Plugin-IRC-0.00_02               undeclared dependency on POEIKC::Daemon::Utility but no RT queue, https://plus.google.com/103105256782700019624/posts/QxRCnrsao17
 CGI-IDS-1.0214                          73962
 JavaScript-V8-0.07                      73963
-SMS-Send-US-TMobile-v0.0.3              73967
 FarmBalance-0.03                        73311
 BokkaKumiai-0.02                        73986
 HTML-Element-Library-5.120100           73995
@@ -306,7 +305,6 @@ Weblogic-WLST-0.01                      75501
 Time-Business-0.18                      75512
 Set-Toolkit-0.11                        67343
 Devel-Carnivore-0.09                    75522
-Gravatar-URL-1.05                       75523
 Log-Agent-0.307                         75324
 Test-Pockito-0.02                       75524
 Unicode-Digits-20090607                 75525
@@ -405,7 +403,6 @@ Math-BigInt-Lite-0.14                   75667
 MooseX-Documenter-0.01                  79319
 Text-Filter-Froggy-0.0.0                79320
 Mojo-Command-Generate-InitScript-0.03   79321
-MooseX-CoercePerAttribute-0.802         79336
 MooseX-Semantic-0.006                   79349
 Net-GDrive-0.01                         79362
 Net-GoogleDrive-0.02                    79545
@@ -525,7 +522,6 @@ WebService-Strava-0.02                  84334
 FSM-Simple-0.02                         84335
 Alien-BWIPP-0.006                       https://github.com/daxim/Alien-BWIPP/issues/1
 Text-Keywords-0.900                     84339
-Mouse-1.05                              84518
 DBIx-Class-VirtualColumns-1.03          68863
 Flow-0.9                                81826
 Business-CPI-Gateway-MercadoPago-0.102  84702
@@ -543,7 +539,6 @@ MySQL-QueryMulti-0.08                   85142
 CGI-Application-Plugin-DBH-4.01         84815
 Regexp-Assemble-0.35                    85209
 DBIx-Class-InflateColumn-Serializer-CompressJSON-0.004 85219
-SQL-Statement-1.402                     85257
 Convert-Binary-C-0.76                   85264
 Audio-M4P-0.51                          85267
 YellowBot-API-0.96                      85269
@@ -597,7 +592,6 @@ LaTeX-TikZ-0.02                         87282
 Mojolicious-Plugin-RESTRoutes-0.0100065 87336
 MyCPAN-Indexer-1.28_12                  87376
 Math-GSL-0.27                           87388
-Moose-Autobox-0.13                      https://rt.perl.org/rt3/Ticket/Display.html?id=119055
 App-Framework-1.06                      87390
 Statistics-MVA-0.0.2                    87426
 WordLists-0.013                         87427
@@ -663,7 +657,6 @@ Feersum-1.400                           65239
 Parse-RPN-2.83                          88671
 Geo-TigerLine-Abbreviations-0.04        89187
 Acme-CPANAuthors-French-0.09            89290
-Google-Chart-0.05014                    89516
 RSS-Parser-Lite-0.12                    89579
 Statistics-LineFit-0.07                 89588
 Algorithm-SetSimilarity-0.0.0_03        https://github.com/overlast/p5-Algorithm-SetSimilarity/issues/1
@@ -688,7 +681,6 @@ HTML-ExtractMeta-0.10                   89946
 AnyEvent-MultiDownload-0.90             89950
 WWW-TheEchoNest-0.3                     89951
 Devel-Declare-Lexer-0.012               89952
-WWW-CPANRatings-RSS-0.0305              89980
 LWP-Protocol-Hosts-0.01                 removed from CPAN
 RT-Client-REST-0.44                     89988
 Pod-Loom-0.06                           89996
