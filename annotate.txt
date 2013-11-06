@@ -181,7 +181,6 @@ Form-Factory-0.020                      71854
 Fennec-Assert-Wrapper-Differences-0.03  removed from CPAN
 WWW-Yahoo-Smushit-0.03                  72028
 WWW-3172-Crawler-WebInterface-0.001     72029
-Test-Unit-0.25                          fixed in 0.25_1325
 String-FriendlyID-0.019                 72161
 Class-Sniff-0.09                        72158
 Alias-2.32                              64987
@@ -221,7 +220,6 @@ List-Gen-0.974                          73294
 TEI-Lite-0.60                           63186
 Net-ZooTool-0.0031                      73331
 Geo-Location-TimeZone-0.1               73354
-Devel-Cover-0.79                        73452
 MooseX-Types-DateTimeX-0.10             73467
 Catalyst-Example-InstantCRUD-0.038      73475
 Clone-Closure-0.06                      69111
@@ -235,7 +233,6 @@ Ham-Scraper-0.9                         67392
 XHTML-Util-0.99_08                      73714
 Class-Scaffold-1.102280                 73772
 Kwiki-JSLog-0.01                        73773
-MorboDB-0.001001                        73782
 Cycle-Detect-0.002                      73805, 73808
 MooseX-Attribute-Prototype-0.10         55248
 MasonX-Request-HTMLTemplate-0.06        73820
@@ -263,7 +260,6 @@ XIRCD-0.0.1                             74231
 PPI-1.215                               74234
 CGI-Application-Plugin-AJAXUpload-v0.0.3 74284
 Carp-Diagnostics-0.05.3                 74295
-Plack-Middleware-Reproxy-0.00002        74339
 Net-Whois-Parser-0.07                   74340
 Test-Assert-0.0504                      74341 Class::Inspector
 Test-Pod-No404s-0.01                    74347 Pod::Simple
@@ -305,7 +301,6 @@ Weblogic-WLST-0.01                      75501
 Time-Business-0.18                      75512
 Set-Toolkit-0.11                        67343
 Devel-Carnivore-0.09                    75522
-Log-Agent-0.307                         75324
 Test-Pockito-0.02                       75524
 Unicode-Digits-20090607                 75525
 XML-Checker-0.13                        75526
@@ -485,9 +480,7 @@ R-Comment2DocDraft-0.2                  81850
 Sub-Call-Tail-0.05                      81860
 WWW-Analytics-MultiTouch-0.35           81877
 MooseX-TrackDirty-Attributes-2.002      https://github.com/RsrchBoy/MooseX-TrackDirty-Attributes/issues/3
-Class-ErrorHandler-0.01                 79124
 Tie-IxHash-FromText-0.02                82000
-IO-Statistics-0.12                      82002
 Net-DNS-SEC-0.16                        82031
 DBIx-DisconnectAll-0.01                 obsolete version
 Data-Beacon-0.3.0                       76566
