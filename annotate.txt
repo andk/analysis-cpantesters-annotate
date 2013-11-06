@@ -692,3 +692,4 @@ Dancer2-Plugin-Paginator-1.000000       https://github.com/blabos/Dancer2-Plugin
 DBIx-DBHResolver-0.17                   90039
 Catalyst-Plugin-ExternalURI-0.01        90078
 Net-OpenID-Connect-IDToken-0.01         https://github.com/zentooo/Net-OpenID-Connect-IDToken/issues/1
+Env-Browser-0.02                        90080
