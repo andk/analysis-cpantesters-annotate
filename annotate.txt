@@ -688,3 +688,4 @@ Net-OpenID-Connect-IDToken-0.01         https://github.com/zentooo/Net-OpenID-Co
 Env-Browser-0.02                        90080
 Text-GuessEncoding-0.07                 90110
 Net-Google-FederatedLogin-0.7.2         90111
+Text-MediawikiFormat-v1.0               90115
