@@ -687,3 +687,4 @@ Catalyst-Plugin-ExternalURI-0.01        90078
 Net-OpenID-Connect-IDToken-0.01         https://github.com/zentooo/Net-OpenID-Connect-IDToken/issues/1
 Env-Browser-0.02                        90080
 Text-GuessEncoding-0.07                 90110
+Net-Google-FederatedLogin-0.7.2         90111
