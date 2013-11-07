@@ -410,7 +410,6 @@ ORDB-CPANMeta-Generator-0.12            67599
 DataCube-1.01                           79957
 MediaWiki-Bot-5.005006                  https://github.com/MediaWiki-Bot/MediaWiki-Bot/issues/40
 Time-Format-1.12                        a case for strace, Date::Manip only a "recommends"
-Catalyst-Controller-Atompub-0.5.4       80038
 HTTP-Response-Encoding-0.06             80051
 Clone-Fast-0.97                         43248
 Time-Simple-0.06                        80461
@@ -525,7 +524,6 @@ Lingua-RUS-Number-0.0708                http://www.nntp.perl.org/group/perl.cpan
 App-Goto-0.07                           was only a temporary bleadperl 5.17 problem
 Catalyst-Controller-ElasticSearch-0.1.0 84962
 autobox-JSON-0.0004                     81654
-Test-Class-0.39                         85004
 Class-Lite-v0.1.0                       85039
 Config-Options-0.08                     85067
 MySQL-QueryMulti-0.08                   85142
@@ -550,7 +548,6 @@ Text-LevenshteinXS-0.04                 85564,85565,85590
 Math-Clipper-1.22                       74828
 Dist-Zilla-Plugin-AutoMetaResources-1.20 84878
 Config-Source-0.06                      has a smartmatch TODO on 5.18+ already in the code
-Test-DBIx-Class-Schema-1.0.4            fails only with broken Test::More 0.9805 at tester
 Data-Morph-1.113280                     85653
 DBIx-SecureCGI-2.0.5                    85724
 Acme-Warn-LOLCAT-0.02                   85750
@@ -646,7 +643,6 @@ Devel-Cover-1.08                        https://rt.perl.org/rt3/Ticket/Display.h
 Acme-Pythonic-0.47                      https://rt.perl.org/rt3/Ticket/Display.html?id=119941
 XML-Ordered-0.01                        renamed to XML::Struct
 Perl-Critic-Pulp-80                     88866
-Feersum-1.400                           65239
 Parse-RPN-2.83                          88671
 Geo-TigerLine-Abbreviations-0.04        89187
 Acme-CPANAuthors-French-0.09            89290
@@ -673,19 +669,15 @@ App-Unicheck-Modules-MySQL-0.02         89937
 HTML-ExtractMeta-0.10                   89946
 AnyEvent-MultiDownload-0.90             89950
 WWW-TheEchoNest-0.3                     89951
-Devel-Declare-Lexer-0.012               89952
 LWP-Protocol-Hosts-0.01                 removed from CPAN
 RT-Client-REST-0.44                     89988
 Pod-Loom-0.06                           89996
-Pod-Weaver-Plugin-StopWords-1.007       90024
-Mojolicious-Plugin-SQLiteViewerLite-0.11 90031
 Mojolicious-Plugin-DOCRenderer-3.01     https://github.com/viliampucik/Mojolicious-Plugin-DocRenderer/issues/2
 Dancer2-Plugin-Auth-Tiny-0.003          https://github.com/dagolden/Dancer2-Plugin-Auth-Tiny/issues/3
 Dancer2-Plugin-Paginator-1.000000       https://github.com/blabos/Dancer2-Plugin-Paginator/issues/1
 DBIx-DBHResolver-0.17                   90039
 Catalyst-Plugin-ExternalURI-0.01        90078
 Net-OpenID-Connect-IDToken-0.01         https://github.com/zentooo/Net-OpenID-Connect-IDToken/issues/1
-Env-Browser-0.02                        90080
 Text-GuessEncoding-0.07                 90110
 Net-Google-FederatedLogin-0.7.2         90111
 Text-MediawikiFormat-v1.0               90115
