@@ -682,3 +682,5 @@ Text-GuessEncoding-0.07                 90110
 Net-Google-FederatedLogin-0.7.2         90111
 Text-MediawikiFormat-v1.0               90115
 List-Pairwise-1.01                      90143
+XML-Tidy-1.12.B55J2qn                   85592
+KiokuDB-Backend-MongoDB-0.03            90173
