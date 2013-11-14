@@ -686,3 +686,5 @@ XML-Tidy-1.12.B55J2qn                   85592
 KiokuDB-Backend-MongoDB-0.03            90173
 Paludis-ResumeState-Serialization-0.01000409 90180
 Dist-Zilla-Plugin-PodLoom-4.10          90330
+Tree-Walker-0.01                        90348
+WebService-CloudPT-1.00                 90349
