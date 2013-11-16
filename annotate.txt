@@ -682,3 +682,5 @@ Dist-Zilla-Plugin-PodLoom-4.10          90330
 Tree-Walker-0.01                        90348
 WebService-CloudPT-1.00                 90349
 Geo-Coordinates-Converter-0.13          80033
+Memoize-1.03                            90430
+Debuggit-2.05                           90433
