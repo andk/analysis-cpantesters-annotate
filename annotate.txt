@@ -349,7 +349,6 @@ AI-Genetic-Pro-0.401                    https://github.com/schwern/test-more/iss
 Catalyst-Engine-HTTP-Prefork-0.51       72131
 App-mgen-0.16                           https://github.com/schwern/test-more/issues/307
 Game-TextPacMonster-0.03                https://github.com/schwern/test-more/issues/311
-Log-Sigil-0.15                          https://github.com/schwern/test-more/issues/312
 Proc-Guard-0.06                         was Test::More but fixed in recent 1.5...05
 Date-Holidays-PAK-0.06                  was Test::More but fixed in recent 1.5...05
 HTML-LinkFilter-0.03                    https://github.com/schwern/test-more/issues/313
@@ -447,7 +446,6 @@ Bio-NEXUS-0.78                          81606
 Bio-SDRS-0.08                           81607
 Business-RO-CNP-0.03                    81609
 CatalystX-Declare-0.015                 81610
-CGI-Application-Plugin-Session-1.03     81611
 CGI-Cookie-Splitter-0.02                81612
 Class-Generate-1.11                     81623
 cPanel-SyncUtil-0.7                     81625
@@ -575,7 +573,6 @@ AnyEvent-Ping-TCP-1.00                  87088
 Catalyst-Plugin-C3-0.03                 87090
 Geo-Coordinates-KKJ-0.01                87092
 Log-Syslog-Abstract-1.200               87093
-MIME-tools-5.504                        87094,87563
 Class-DBI-FormBuilder-0.483             87214
 HTML-FormFu-0.09010                     87240
 LaTeX-TikZ-0.02                         87282
@@ -586,7 +583,6 @@ App-Framework-1.06                      87390
 Statistics-MVA-0.0.2                    87426
 WordLists-0.013                         87427
 Test-CPAN-Changes-ReallyStrict-0.1.5    https://github.com/kentfredric/Test-CPAN-Changes-ReallyStrict/issues/1
-DBM-Deep-2.0009                         https://github.com/robkinyon/dbm-deep/pull/7
 PDF-TableX-0.013                        87512
 Catalyst-Plugin-Params-Profile-0.05     87533
 LaTeX-Encode-0.08                       87805
@@ -672,15 +668,12 @@ WWW-TheEchoNest-0.3                     89951
 LWP-Protocol-Hosts-0.01                 removed from CPAN
 RT-Client-REST-0.44                     89988
 Pod-Loom-0.06                           89996
-Mojolicious-Plugin-DOCRenderer-3.01     https://github.com/viliampucik/Mojolicious-Plugin-DocRenderer/issues/2
 Dancer2-Plugin-Auth-Tiny-0.003          https://github.com/dagolden/Dancer2-Plugin-Auth-Tiny/issues/3
 Dancer2-Plugin-Paginator-1.000000       https://github.com/blabos/Dancer2-Plugin-Paginator/issues/1
 DBIx-DBHResolver-0.17                   90039
 Catalyst-Plugin-ExternalURI-0.01        90078
-Net-OpenID-Connect-IDToken-0.01         https://github.com/zentooo/Net-OpenID-Connect-IDToken/issues/1
 Text-GuessEncoding-0.07                 90110
 Net-Google-FederatedLogin-0.7.2         90111
-Text-MediawikiFormat-v1.0               90115
 List-Pairwise-1.01                      90143
 XML-Tidy-1.12.B55J2qn                   85592
 KiokuDB-Backend-MongoDB-0.03            90173
@@ -688,3 +681,4 @@ Paludis-ResumeState-Serialization-0.01000409 90180
 Dist-Zilla-Plugin-PodLoom-4.10          90330
 Tree-Walker-0.01                        90348
 WebService-CloudPT-1.00                 90349
+Geo-Coordinates-Converter-0.13          80033
