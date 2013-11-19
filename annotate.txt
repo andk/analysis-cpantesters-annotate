@@ -684,3 +684,5 @@ WebService-CloudPT-1.00                 90349
 Geo-Coordinates-Converter-0.13          80033
 Memoize-1.03                            90430
 Debuggit-2.05                           90433
+Protocol-IMAP-0.004                     90529
+Chorus-Expert-0.01                      90530
