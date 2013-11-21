@@ -681,3 +681,4 @@ Debuggit-2.05                           90433
 Protocol-IMAP-0.004                     90529
 Chorus-Expert-0.01                      90530
 Child-Socket-0.002                      https://github.com/exodist/Child-Socket/issues/1
+ActiveRecord-Simple-0.51                90568
