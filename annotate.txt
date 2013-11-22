@@ -685,3 +685,5 @@ ActiveRecord-Simple-0.51                90568
 Catalyst-View-PDF-API2-Simple-0.01      90579
 Template-Flute-Style-CSS-0.0031         90610
 CSS-Tiny-1.19                           90611
+WebService-Nestoria-Search-1.021003     90617
+XT-Manager-0.004                        90620
