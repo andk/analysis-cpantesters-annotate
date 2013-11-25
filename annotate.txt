@@ -687,3 +687,5 @@ Template-Flute-Style-CSS-0.0031         90610
 CSS-Tiny-1.19                           90611
 WebService-Nestoria-Search-1.021003     90617
 XT-Manager-0.004                        90620
+Devel-MAT-0.09                          90784
+Enterasys-NetSight-1.2                  88318
