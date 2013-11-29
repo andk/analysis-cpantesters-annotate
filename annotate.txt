@@ -692,3 +692,4 @@ Enterasys-NetSight-1.2                  88318
 Data-Model-0.00008                      76404
 Finance-Bank-IE-0.29                    90846
 RTF-Tokenizer-1.13                      90858
+Redis-1.964                             https://github.com/PerlRedis/perl-redis/issues/60
