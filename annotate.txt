@@ -694,3 +694,4 @@ Finance-Bank-IE-0.29                    90846
 RTF-Tokenizer-1.13                      90858
 Redis-1.964                             https://github.com/PerlRedis/perl-redis/issues/60
 Jifty-DBI-0.76                          91050
+Dancer2-Template-Haml-0.02              https://github.com/TheAthlete/Dancer2-Template-Haml/issues/1
