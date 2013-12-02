@@ -696,3 +696,4 @@ Redis-1.964                             https://github.com/PerlRedis/perl-redis/
 Jifty-DBI-0.76                          91050
 Dancer2-Template-Haml-0.02              https://github.com/TheAthlete/Dancer2-Template-Haml/issues/1
 Jemplate-0.27                           91108
+MooX-Cmd-0.008                          91111
