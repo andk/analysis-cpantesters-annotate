@@ -700,3 +700,4 @@ MooX-Cmd-0.008                          91111
 MarpaX-Languages-ECMAScript-AST-0.005   91120
 HTML-TagHelper-0.03                     91121
 Tk-HyperText-0.09                       91122
+WebService-Pocket-0.003                 91166
