@@ -702,3 +702,4 @@ HTML-TagHelper-0.03                     91121
 Tk-HyperText-0.09                       91122
 WebService-Pocket-0.003                 91166
 Business-CompanyDesignator-0.04         91207
+Mojolicious-Plugin-TagHelpers-NoCaching-0.02 91208
