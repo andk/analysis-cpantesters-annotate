@@ -707,3 +707,4 @@ Mojolicious-Plugin-FormValidator-0.01   91209
 XT-Manager-0.006                        91233
 DBIx-Class-FormTools-0.000009           91234
 MooseX-Getopt-Usage-0.18                91235
+Path-Mapper-0.01                        90582; removed from cpan
