@@ -708,3 +708,4 @@ XT-Manager-0.006                        91233
 DBIx-Class-FormTools-0.000009           91234
 MooseX-Getopt-Usage-0.18                91235
 Path-Mapper-0.01                        90582; removed from cpan
+IPC-Transit-1.133280                    https://github.com/dana/perl-IPC-Transit/issues/4
