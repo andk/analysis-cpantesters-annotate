@@ -128,7 +128,6 @@ Sub-Op-0.02                             64998
 Method-Cumulative-0.05                  64993
 Net-SNMP-v6.0.1                         pjacklam set AUTHOR_TESTING
 Module-Manifest-1.08                    pjacklam set AUTHOR_TESTING
-Text-Balanced-2.02                      pjacklam set AUTHOR_TEST and AUTHOR_TESTS
 Data-TxnBuffer-0.05                     https://github.com/schwern/test-more/issues/issue/130
 DBIx-PasswordIniFile-2.00               65320, 65321
 jsonpretty-1                            65638
@@ -407,7 +406,6 @@ UNIVERSAL-DOES-0.004                    https://rt.perl.org/rt3/Ticket/Display.h
 WebService-Pastefire-0.02               79857
 ORDB-CPANMeta-Generator-0.12            67599
 DataCube-1.01                           79957
-MediaWiki-Bot-5.005006                  https://github.com/MediaWiki-Bot/MediaWiki-Bot/issues/40
 Time-Format-1.12                        a case for strace, Date::Manip only a "recommends"
 HTTP-Response-Encoding-0.06             80051
 Clone-Fast-0.97                         43248
@@ -459,7 +457,6 @@ DBIx-ObjectMapper-0.3013                81639
 DBIx-Skinny-0.0742                      81643
 XML-Hash-LX-0.0603                      81645
 CGI-Application-Plugin-Stream-2.10      81646
-CGI-FormBuilder-3.08                    81650
 InterMine-Item-0.98                     81677
 MooseX-Traits-Attribute-MergeHashRef-1.002 81712
 JS-YUI-Loader-0.06                      obsolete namespace (now YUI-Loader)
@@ -478,7 +475,6 @@ Sub-Call-Tail-0.05                      81860
 WWW-Analytics-MultiTouch-0.35           81877
 MooseX-TrackDirty-Attributes-2.002      https://github.com/RsrchBoy/MooseX-TrackDirty-Attributes/issues/3
 Tie-IxHash-FromText-0.02                82000
-Net-DNS-SEC-0.16                        82031
 DBIx-DisconnectAll-0.01                 obsolete version
 Data-Beacon-0.3.0                       76566
 App-CSV-0.06                            81767
@@ -563,7 +559,6 @@ JSYNC-0.15                              86510
 Paper-Specs-0.10                        https://rt.perl.org:443/rt3/Ticket/Display.html?id=118655
 GCC-TranslationUnit-1.00                https://rt.perl.org:443/rt3/Ticket/Display.html?id=118655
 JE-0.060                                https://rt.perl.org:443/rt3/Ticket/Display.html?id=118659
-Lingua-Stem-Snowball-Lt-0.02            86655
 Net-Server-2.007                        86707
 HTTP-Proxy-0.300                        56259
 CGI-Application-Plugin-Authentication-0.20 85969
@@ -598,13 +593,11 @@ Dash-Leak-0.06                          https://rt.perl.org:443/rt3/Ticket/Displ
 Metabase-Backend-SQL-1.000              87925
 Statistics-DependantTTest-0.03          87926
 SQL-Smart-0.06                          87950
-Crypt-OpenSSL-X509-1.803                https://rt.perl.org/rt3/Ticket/Display.html?id=119497
 Contextual-Return-Wrapper-0.01          88301
 Convert-Bencode_XS-0.06                 87012
 Text-CSV-Encoded-0.22                   88307
 Scalar-Compare-0.01                     88319
 WebService-UMLSKS-Similarity-0.23       88329
-WWW-Search-Ebay-3.031                   88330
 XML-Validate-1.025                      88161
 Regexp-VerbalExpression-0.01            88334
 Net-Evernote-0.081                      88335
@@ -660,40 +653,30 @@ Config-Environment-0.000008             https://github.com/alnewkirk/Config-Envi
 App-Unicheck-Modules-MySQL-0.02         89937
 HTML-ExtractMeta-0.10                   89946
 AnyEvent-MultiDownload-0.90             89950
-WWW-TheEchoNest-0.3                     89951
 LWP-Protocol-Hosts-0.01                 removed from CPAN
 Pod-Loom-0.06                           89996
 Dancer2-Plugin-Auth-Tiny-0.003          https://github.com/dagolden/Dancer2-Plugin-Auth-Tiny/issues/3
 Dancer2-Plugin-Paginator-1.000000       https://github.com/blabos/Dancer2-Plugin-Paginator/issues/1
 DBIx-DBHResolver-0.17                   90039
-Catalyst-Plugin-ExternalURI-0.01        90078
 Text-GuessEncoding-0.07                 90110
 Net-Google-FederatedLogin-0.7.2         90111
-List-Pairwise-1.01                      90143
 XML-Tidy-1.12.B55J2qn                   85592
 KiokuDB-Backend-MongoDB-0.03            90173
 Dist-Zilla-Plugin-PodLoom-4.10          90330
 Tree-Walker-0.01                        90348
 WebService-CloudPT-1.00                 90349
-Geo-Coordinates-Converter-0.13          80033
 Memoize-1.03                            90430
 Debuggit-2.05                           90433
 Protocol-IMAP-0.004                     90529
 Chorus-Expert-0.01                      90530
 Child-Socket-0.002                      https://github.com/exodist/Child-Socket/issues/1
-ActiveRecord-Simple-0.51                90568
 Catalyst-View-PDF-API2-Simple-0.01      90579
-Template-Flute-Style-CSS-0.0031         90610
 CSS-Tiny-1.19                           90611
-WebService-Nestoria-Search-1.021003     90617
-XT-Manager-0.004                        90620
-Devel-MAT-0.09                          90784
 Enterasys-NetSight-1.2                  88318
 Data-Model-0.00008                      76404
 Finance-Bank-IE-0.29                    90846
 RTF-Tokenizer-1.13                      90858
 Redis-1.964                             https://github.com/PerlRedis/perl-redis/issues/60
-Jifty-DBI-0.76                          91050
 Dancer2-Template-Haml-0.02              https://github.com/TheAthlete/Dancer2-Template-Haml/issues/1
 Jemplate-0.27                           91108
 MooX-Cmd-0.008                          91111
@@ -701,7 +684,6 @@ MarpaX-Languages-ECMAScript-AST-0.005   91120
 HTML-TagHelper-0.03                     91121
 Tk-HyperText-0.09                       91122
 WebService-Pocket-0.003                 91166
-Business-CompanyDesignator-0.04         91207
 Mojolicious-Plugin-TagHelpers-NoCaching-0.02 91208
 Mojolicious-Plugin-FormValidator-0.01   91209
 XT-Manager-0.006                        91233
