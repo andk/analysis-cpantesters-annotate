@@ -692,3 +692,4 @@ MooseX-Getopt-Usage-0.18                91235
 Path-Mapper-0.01                        90582; removed from cpan
 IPC-Transit-1.133280                    https://github.com/dana/perl-IPC-Transit/issues/4
 WWW-Pastebin-PastebinCa-Create-0.002    91236
+Test-DataDirs-0.1.0                     90634
