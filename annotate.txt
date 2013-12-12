@@ -694,3 +694,4 @@ IPC-Transit-1.133280                    https://github.com/dana/perl-IPC-Transit
 WWW-Pastebin-PastebinCa-Create-0.002    91236
 Test-DataDirs-0.1.0                     90634
 Devel-Declare-Lexer-0.014               91267
+App-CPAN-MetaDB-0.04                    91352
