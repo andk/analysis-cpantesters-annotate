@@ -696,3 +696,4 @@ Test-DataDirs-0.1.0                     90634
 Devel-Declare-Lexer-0.014               91267
 App-CPAN-MetaDB-0.04                    91352
 SWISH-Prog-Lucy-0.18                    91383
+XML-Parser-Lite-0.719                   91434
