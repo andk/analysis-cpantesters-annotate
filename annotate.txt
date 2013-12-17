@@ -698,3 +698,4 @@ App-CPAN-MetaDB-0.04                    91352
 SWISH-Prog-Lucy-0.18                    91383
 XML-Parser-Lite-0.719                   91434
 Seis-0.12                               https://github.com/perl-seis/Seis/issues/5;https://github.com/perl-seis/Seis/issues/6;https://github.com/perl-seis/Seis/issues/7
+Net-Rest-Generic-0.08                   91482
