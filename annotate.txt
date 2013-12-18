@@ -700,3 +700,4 @@ XML-Parser-Lite-0.719                   91434
 Seis-0.12                               https://github.com/perl-seis/Seis/issues/5;https://github.com/perl-seis/Seis/issues/6;https://github.com/perl-seis/Seis/issues/7
 Net-Rest-Generic-0.08                   91482
 Woothee-0.3.5                           https://github.com/woothee/woothee-perl/issues/1
+WWW-CSRF-1.00                           91488
