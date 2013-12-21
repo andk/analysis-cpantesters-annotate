@@ -703,3 +703,4 @@ Woothee-0.3.5                           https://github.com/woothee/woothee-perl/
 WWW-CSRF-1.00                           91488
 Bio-Phylo-0.56                          https://rt.perl.org/rt3/Ticket/Display.html?id=120824
 Tie-Redis-0.26                          91552
+Geo-Coordinates-Converter-0.13          80033
