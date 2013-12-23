@@ -705,3 +705,4 @@ Bio-Phylo-0.56                          https://rt.perl.org/rt3/Ticket/Display.h
 Tie-Redis-0.26                          91552
 Geo-Coordinates-Converter-0.13          80033
 Catalyst-Plugin-DefaultEnd-0.08         91578
+Resque-0.16                             https://github.com/diegok/resque-perl/issues/13
