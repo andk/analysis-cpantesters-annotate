@@ -707,3 +707,4 @@ Geo-Coordinates-Converter-0.13          80033
 Catalyst-Plugin-DefaultEnd-0.08         91578
 Resque-0.16                             https://github.com/diegok/resque-perl/issues/13
 MaxMind-DB-Reader-0.050000              https://github.com/maxmind/MaxMind-DB-Reader-perl/issues/2
+R-YapRI-0.08                            91650
