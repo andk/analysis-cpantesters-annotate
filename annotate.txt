@@ -708,3 +708,4 @@ Catalyst-Plugin-DefaultEnd-0.08         91578
 Resque-0.16                             https://github.com/diegok/resque-perl/issues/13
 MaxMind-DB-Reader-0.050000              https://github.com/maxmind/MaxMind-DB-Reader-perl/issues/2
 R-YapRI-0.08                            91650
+Parse-CPAN-Perms-0.002                  https://github.com/thaljef/Parse-CPAN-Perms/issues/1
