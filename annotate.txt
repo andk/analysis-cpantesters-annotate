@@ -716,3 +716,4 @@ DigitalOcean-0.03                       91701
 WWW-Shopify-Liquid-0.03                 91702
 Schedule-Pluggable-0.0.6                91718
 WebService-HtmlKitCom-FavIconFromImage-0.002 known bug in analysis: does not pick up 0.003
+HTML-FormFu-MultiForm-1.00              91788
