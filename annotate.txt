@@ -146,7 +146,6 @@ MooseX-ExtJS-Reflection-0.01            has been deleted from CPAN
 GDS2-3.00                               66729
 WebService-Blekko-1.00_07               undeclared dependency on List::MoreUtils but no RT queue
 Test-Wrapper-0.2.1                      66837
-Class-MethodMaker-2.18                  59189
 Encode-First-0.01                       66976
 Tie-Scalar-Random-0.02                  66951
 Math-Polynom-0.13                       67229
@@ -225,7 +224,6 @@ Clone-Closure-0.06                      69111
 ASP4x-Captcha-Imager-0.003              73499
 Ukigumo-0.01                            73558
 only-matching-0.02                      73637
-PDF-Create-1.06                         73638
 HTML-GenToc-3.20                        73653
 HTTP-MobileAgent-Plugin-CIDR-0.0.1      73710
 Ham-Scraper-0.9                         67392
@@ -341,7 +339,6 @@ Fey-Loader-0.13                         76983
 MAS-TIFF-0.4                            77023
 Plack-Client-0.06                       77123
 Feed-Find-0.07                          77144
-MooseX-Types-Locale-Country-0.04        https://github.com/schwern/test-more/issues/300
 Test-Able-0.11                          https://github.com/schwern/test-more/issues/302
 DBI-Easy-0.24                           was Test::More but fixed in recent 1.5...05
 AI-Genetic-Pro-0.401                    https://github.com/schwern/test-more/issues/303
@@ -351,7 +348,6 @@ Game-TextPacMonster-0.03                https://github.com/schwern/test-more/iss
 Proc-Guard-0.06                         was Test::More but fixed in recent 1.5...05
 Date-Holidays-PAK-0.06                  was Test::More but fixed in recent 1.5...05
 HTML-LinkFilter-0.03                    https://github.com/schwern/test-more/issues/313
-Unicode-Properties-0.04                 was Test::More but fixed in recent 1.5...05
 Test-Script-Shebang-0.02                was Test::More but fixed in recent 1.5...05
 File-LinkDir-1.02                       77300
 WWW-Translate-Apertium-0.16             77418
@@ -477,9 +473,7 @@ MooseX-TrackDirty-Attributes-2.002      https://github.com/RsrchBoy/MooseX-Track
 Tie-IxHash-FromText-0.02                82000
 DBIx-DisconnectAll-0.01                 obsolete version
 Data-Beacon-0.3.0                       76566
-App-CSV-0.06                            81767
 Scrappy-0.94112090                      82142
-Mail-Box-IMAP4-SSL-0.02                 82150
 VANAMBURG-SEMPROG-SimpleGraph-0.010     82176
 DBIx-ActiveRecord-0.03                  82219
 Brackup-1.10                            82273
@@ -568,7 +562,6 @@ Catalyst-Plugin-C3-0.03                 87090
 Geo-Coordinates-KKJ-0.01                87092
 Log-Syslog-Abstract-1.200               87093
 Class-DBI-FormBuilder-0.483             87214
-HTML-FormFu-0.09010                     87240
 LaTeX-TikZ-0.02                         87282
 Mojolicious-Plugin-RESTRoutes-0.0100065 87336
 MyCPAN-Indexer-1.28_12                  87376
@@ -576,11 +569,9 @@ Math-GSL-0.27                           87388
 App-Framework-1.06                      87390
 Statistics-MVA-0.0.2                    87426
 WordLists-0.013                         87427
-Test-CPAN-Changes-ReallyStrict-0.1.5    https://github.com/kentfredric/Test-CPAN-Changes-ReallyStrict/issues/1
 PDF-TableX-0.013                        87512
 Catalyst-Plugin-Params-Profile-0.05     87533
 LaTeX-Encode-0.08                       87805
-Pod-Weaver-Section-ClassMopper-1.123462 87570
 API-Plesk-2.03                          87594
 Acme-Tategaki-0.12                      https://github.com/kazuph/Acme-Tategaki/issues/2
 UNIVERSAL-AUTHORITY-Lexical-0.003       87640
@@ -648,11 +639,8 @@ Carp-1.32                               88494
 p5-Text-Xslate-Syntax-Any-1.5015        89873
 Typed-0.06                              89874
 Doorman-0.07                            89924
-Dancer-1.3119                           https://github.com/PerlDancer/Dancer/issues/969
-Config-Environment-0.000008             https://github.com/alnewkirk/Config-Environment/issues/1
 App-Unicheck-Modules-MySQL-0.02         89937
 HTML-ExtractMeta-0.10                   89946
-AnyEvent-MultiDownload-0.90             89950
 LWP-Protocol-Hosts-0.01                 removed from CPAN
 Pod-Loom-0.06                           89996
 Dancer2-Plugin-Auth-Tiny-0.003          https://github.com/dagolden/Dancer2-Plugin-Auth-Tiny/issues/3
@@ -668,34 +656,26 @@ WebService-CloudPT-1.00                 90349
 Memoize-1.03                            90430
 Debuggit-2.05                           90433
 Protocol-IMAP-0.004                     90529
-Chorus-Expert-0.01                      90530
-Child-Socket-0.002                      https://github.com/exodist/Child-Socket/issues/1
 Catalyst-View-PDF-API2-Simple-0.01      90579
 CSS-Tiny-1.19                           90611
 Enterasys-NetSight-1.2                  88318
 Data-Model-0.00008                      76404
-Finance-Bank-IE-0.29                    90846
 RTF-Tokenizer-1.13                      90858
-Redis-1.964                             https://github.com/PerlRedis/perl-redis/issues/60
-Dancer2-Template-Haml-0.02              https://github.com/TheAthlete/Dancer2-Template-Haml/issues/1
 Jemplate-0.27                           91108
 MooX-Cmd-0.008                          91111
 MarpaX-Languages-ECMAScript-AST-0.005   91120
 HTML-TagHelper-0.03                     91121
 Tk-HyperText-0.09                       91122
 WebService-Pocket-0.003                 91166
-Mojolicious-Plugin-TagHelpers-NoCaching-0.02 91208
 Mojolicious-Plugin-FormValidator-0.01   91209
 XT-Manager-0.006                        91233
 DBIx-Class-FormTools-0.000009           91234
 MooseX-Getopt-Usage-0.18                91235
 Path-Mapper-0.01                        90582; removed from cpan
 IPC-Transit-1.133280                    https://github.com/dana/perl-IPC-Transit/issues/4
-WWW-Pastebin-PastebinCa-Create-0.002    91236
 Test-DataDirs-0.1.0                     90634
 Devel-Declare-Lexer-0.014               91267
 App-CPAN-MetaDB-0.04                    91352
-SWISH-Prog-Lucy-0.18                    91383
 XML-Parser-Lite-0.719                   91434
 Seis-0.12                               https://github.com/perl-seis/Seis/issues/5;https://github.com/perl-seis/Seis/issues/6;https://github.com/perl-seis/Seis/issues/7
 Net-Rest-Generic-0.08                   91482
@@ -703,14 +683,10 @@ Woothee-0.3.5                           https://github.com/woothee/woothee-perl/
 WWW-CSRF-1.00                           91488
 Bio-Phylo-0.56                          https://rt.perl.org/rt3/Ticket/Display.html?id=120824
 Tie-Redis-0.26                          91552
-Geo-Coordinates-Converter-0.13          80033
 Catalyst-Plugin-DefaultEnd-0.08         91578
-Resque-0.16                             https://github.com/diegok/resque-perl/issues/13
 MaxMind-DB-Reader-0.050000              https://github.com/maxmind/MaxMind-DB-Reader-perl/issues/2
 R-YapRI-0.08                            91650
-Parse-CPAN-Perms-0.002                  https://github.com/thaljef/Parse-CPAN-Perms/issues/1
 AnyEvent-Gearman-0.10                   91103
-Form-Toolkit-0.001                      91667
 Neo4p-0.0001                            has changed name to DBD- and REST-Neo4p
 DigitalOcean-0.03                       91701
 WWW-Shopify-Liquid-0.03                 91702
