@@ -694,3 +694,4 @@ Schedule-Pluggable-0.0.6                91718
 WebService-HtmlKitCom-FavIconFromImage-0.002 known bug in analysis: does not pick up 0.003
 HTML-FormFu-MultiForm-1.00              91788
 Plack-Middleware-Assets-1.0.0           https://github.com/monken/p5-moosex-attribute-deflator/issues/5
+Javascript-Closure-0.07                 91916
