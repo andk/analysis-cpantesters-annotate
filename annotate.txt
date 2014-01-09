@@ -696,3 +696,4 @@ HTML-FormFu-MultiForm-1.00              91788
 Plack-Middleware-Assets-1.0.0           https://github.com/monken/p5-moosex-attribute-deflator/issues/5
 Javascript-Closure-0.07                 91916
 MooseX-Types-Set-Object-0.03            91945
+Geo-Coordinates-Converter-0.13          80033
