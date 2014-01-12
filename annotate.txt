@@ -697,3 +697,4 @@ Plack-Middleware-Assets-1.0.0           https://github.com/monken/p5-moosex-attr
 Javascript-Closure-0.07                 91916
 MooseX-Types-Set-Object-0.03            91945
 Geo-Coordinates-Converter-0.13          80033
+Carp-Notify-1.11                        91906
