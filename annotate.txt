@@ -703,3 +703,4 @@ Business-Edifact-Interchange-0.06       92116
 DynGig-Multiplex-1.03                   68257
 Escape-Houdini-0.2.0                    https://rt.perl.org/rt3/Ticket/Display.html?id=121039
 Sub-Trigger-Lock-0.001                  https://rt.perl.org/rt3/Ticket/Display.html?id=119189
+Dist-Zilla-Plugin-PerlTidy-0.14         92307
