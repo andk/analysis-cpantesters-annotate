@@ -705,3 +705,4 @@ Escape-Houdini-0.2.0                    https://rt.perl.org/rt3/Ticket/Display.h
 Sub-Trigger-Lock-0.001                  https://rt.perl.org/rt3/Ticket/Display.html?id=119189
 Dist-Zilla-Plugin-PerlTidy-0.14         92307
 SQLite-Work-0.14                        70416
+Net-Launchpad-1.0.0                     https://github.com/battlemidget/Net-Launchpad/issues/1
