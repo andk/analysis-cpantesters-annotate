@@ -706,3 +706,4 @@ Dist-Zilla-Plugin-PerlTidy-0.14         92307
 SQLite-Work-0.14                        70416
 Net-Launchpad-1.0.0                     https://github.com/battlemidget/Net-Launchpad/issues/1
 DigitalOcean-0.04                       92311
+WebService-SyoboiCalendar-0.01          https://github.com/hakobe/WebService-SyoboiCalendar/issues/1
