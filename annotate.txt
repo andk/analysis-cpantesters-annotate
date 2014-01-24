@@ -709,3 +709,4 @@ DigitalOcean-0.04                       92311
 WebService-SyoboiCalendar-0.01          https://github.com/hakobe/WebService-SyoboiCalendar/issues/1
 Git-0.03                                92422
 Plack-Session-Store-Transparent-0.01    https://github.com/i110/p5-Plack-Session-Store-Transparent/issues/1
+Crane-1.02.0007                         92431
