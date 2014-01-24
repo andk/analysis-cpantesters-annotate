@@ -708,3 +708,4 @@ Net-Launchpad-1.0.0                     https://github.com/battlemidget/Net-Laun
 DigitalOcean-0.04                       92311
 WebService-SyoboiCalendar-0.01          https://github.com/hakobe/WebService-SyoboiCalendar/issues/1
 Git-0.03                                92422
+Plack-Session-Store-Transparent-0.01    https://github.com/i110/p5-Plack-Session-Store-Transparent/issues/1
