@@ -712,3 +712,4 @@ Plack-Session-Store-Transparent-0.01    https://github.com/i110/p5-Plack-Session
 Crane-1.02.0007                         92431
 CatalystX-ExtJS-Direct-2.1.5            92466
 Math-NumSeq-68                          92528
+Algorithm-KMeans-1.40                   92551
