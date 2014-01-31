@@ -713,3 +713,4 @@ Crane-1.02.0007                         92431
 CatalystX-ExtJS-Direct-2.1.5            92466
 Math-NumSeq-68                          92528
 Algorithm-KMeans-1.40                   92551
+REST-Consumer-0.08                      92598
