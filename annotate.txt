@@ -715,3 +715,4 @@ REST-Consumer-0.08                      92598
 CHI-Driver-Memcached-0.15               89606
 Geo-Coder-Cloudmade-0.7                 88469
 Woothee-0.3.6                           https://github.com/woothee/woothee-perl/issues/1
+Git-Repository-Plugin-Gerrit-0.01       https://github.com/nnutter/Git-Repository-Plugin-Gerrit/issues/1
