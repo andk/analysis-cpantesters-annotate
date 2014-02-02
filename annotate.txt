@@ -678,7 +678,6 @@ App-CPAN-MetaDB-0.04                    91352
 XML-Parser-Lite-0.719                   91434
 Seis-0.12                               https://github.com/perl-seis/Seis/issues/5;https://github.com/perl-seis/Seis/issues/6;https://github.com/perl-seis/Seis/issues/7
 Net-Rest-Generic-0.08                   91482
-Woothee-0.3.5                           https://github.com/woothee/woothee-perl/issues/1
 WWW-CSRF-1.00                           91488
 Bio-Phylo-0.56                          https://rt.perl.org/rt3/Ticket/Display.html?id=120824
 Tie-Redis-0.26                          91552
@@ -715,3 +714,4 @@ Algorithm-KMeans-1.40                   92551
 REST-Consumer-0.08                      92598
 CHI-Driver-Memcached-0.15               89606
 Geo-Coder-Cloudmade-0.7                 88469
+Woothee-0.3.6                           https://github.com/woothee/woothee-perl/issues/1
