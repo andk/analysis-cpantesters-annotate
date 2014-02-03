@@ -717,3 +717,4 @@ Geo-Coder-Cloudmade-0.7                 88469
 Woothee-0.3.6                           https://github.com/woothee/woothee-perl/issues/1
 Git-Repository-Plugin-Gerrit-0.01       https://github.com/nnutter/Git-Repository-Plugin-Gerrit/issues/1
 Plack-Session-Store-Transparent-0.02    https://github.com/i110/p5-Plack-Session-Store-Transparent/issues/2
+Tk-804.032                              https://rt.perl.org/Public/Bug/Display.html?id=120626
