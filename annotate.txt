@@ -1,3 +1,4 @@
+CGI-IDS-1.0214                          73962
 DBIx-Class-Tokenize-0.01                42158
 Template-Plugin-Autoformat-2.71         41796
 MooseX-Compile-0.01                     42203
@@ -241,7 +242,6 @@ Switch-Perlish-1.0.5                    66877
 Template-Parser-CET-0.05                65241
 warnings-method-0.10                    66930
 POEIKC-Plugin-IRC-0.00_02               undeclared dependency on POEIKC::Daemon::Utility but no RT queue, https://plus.google.com/103105256782700019624/posts/QxRCnrsao17
-CGI-IDS-1.0214                          73962
 JavaScript-V8-0.07                      73963
 FarmBalance-0.03                        73311
 BokkaKumiai-0.02                        73986
