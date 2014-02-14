@@ -725,3 +725,4 @@ PHP-HTTPBuildQuery-0.07                 89278
 RPC-XML-0.78                            92931
 MojoX-Dispatcher-Qooxdoo-Jsonrpc-0.94   93015
 WebService-Yummly-0.3                   93020
+GnuPG-Interface-0.47_01                 93021
