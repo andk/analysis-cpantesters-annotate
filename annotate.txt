@@ -727,3 +727,4 @@ MojoX-Dispatcher-Qooxdoo-Jsonrpc-0.94   93015
 WebService-Yummly-0.3                   93020
 GnuPG-Interface-0.47_01                 93021
 Mojolicious-Plugin-YamlConfig-0.1.6     93059
+XML-MyXML-0.1003                        module development discontinued
