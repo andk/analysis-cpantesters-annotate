@@ -730,3 +730,4 @@ Mojolicious-Plugin-YamlConfig-0.1.6     93059
 XML-MyXML-0.1003                        module development discontinued
 Config-INI-0.022                        https://github.com/rjbs/Config-INI/issues/7
 ADAMK/Module-Install-1.06               https://rt.perl.org/Ticket/Display.html?id=121262
+Lingua-Sentence-1.05                    93063
