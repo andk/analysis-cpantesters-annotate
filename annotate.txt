@@ -636,7 +636,6 @@ Loop-Sustainable-0.02                   89842
 ExtJS-AutoForm-Moose-0.01               89864
 Carp-1.32                               88494
 p5-Text-Xslate-Syntax-Any-1.5015        89873
-Typed-0.06                              89874
 Doorman-0.07                            89924
 App-Unicheck-Modules-MySQL-0.02         89937
 HTML-ExtractMeta-0.10                   89946
@@ -733,3 +732,4 @@ ADAMK/Module-Install-1.06               https://rt.perl.org/Ticket/Display.html?
 Lingua-Sentence-1.05                    93063
 Math-Geometry-Planar-GPC-Polygon-0.05   92572
 Tie-RegexpHash-0.16                     66875
+Typed-0.11                              89874
