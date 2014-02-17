@@ -732,3 +732,4 @@ Config-INI-0.022                        https://github.com/rjbs/Config-INI/issue
 ADAMK/Module-Install-1.06               https://rt.perl.org/Ticket/Display.html?id=121262
 Lingua-Sentence-1.05                    93063
 Math-Geometry-Planar-GPC-Polygon-0.05   92572
+Tie-RegexpHash-0.16                     66875
