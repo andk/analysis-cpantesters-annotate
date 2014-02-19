@@ -615,7 +615,6 @@ HTML-EmbeddedPerl-0.91                  88731
 Paranoid-0.36                           88773
 Facebook-Graph-1.0600                   https://github.com/rizen/Facebook-Graph/issues/40
 WWW-Shorten-3.04                        85418,88052
-Devel-Cover-1.08                        90591
 Acme-Pythonic-0.47                      https://rt.perl.org/rt3/Ticket/Display.html?id=119941
 XML-Ordered-0.01                        renamed to XML::Struct
 Perl-Critic-Pulp-80                     88866
@@ -626,7 +625,6 @@ RSS-Parser-Lite-0.12                    89579
 Statistics-LineFit-0.07                 89588
 Algorithm-SetSimilarity-0.0.0_03        https://github.com/overlast/p5-Algorithm-SetSimilarity/issues/1
 Net-isoHunt-0.102770                    89668
-ClearPress-443                          89707
 Locale-Maketext-Gettext-1.28            89768
 JavaScript-Shell-0.02                   89784
 MooseX-Validation-Doctypes-0.05         89815
@@ -734,3 +732,5 @@ Math-Geometry-Planar-GPC-Polygon-0.05   92572
 Tie-RegexpHash-0.16                     66875
 Typed-0.11                              89874
 Convert-TBX-UTX-0.02                    93114
+Devel-Cover-1.08                        https://github.com/pjcj/Devel--Cover/issues/80
+ClearPress-457                          93156
