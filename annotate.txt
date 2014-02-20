@@ -721,3 +721,4 @@ Convert-TBX-UTX-0.02                    93114
 Devel-Cover-1.08                        https://github.com/pjcj/Devel--Cover/issues/80
 ClearPress-457                          93156
 IO-Socket-Socks-Wrapper-0.10            93177
+PerlIO-locale-0.09                      93180
