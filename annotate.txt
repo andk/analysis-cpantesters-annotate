@@ -482,7 +482,6 @@ Text-Ngrams-2.003                       82323
 Net-Netcat-0.05                         82357
 Data-Pipeline-0.02                      82577
 GVF-Parser-1.07                         82578
-PathTools-3.40                          82895
 Dancer-Routes-20130114.125429           83802
 DateTime-Format-DateManip-0.04          55771
 JSON-JOM-0.501                          84038 (implicit)
@@ -519,7 +518,6 @@ Regexp-Assemble-0.35                    85209
 DBIx-Class-InflateColumn-Serializer-CompressJSON-0.004 85219
 Convert-Binary-C-0.76                   85264
 Audio-M4P-0.51                          85267
-YellowBot-API-0.96                      85269
 WWW-EFA-0.04                            85271
 Webservice-InterMine-Simple-0.9800      85275
 Plack-App-PgREST-0.06                   85304
@@ -540,13 +538,11 @@ DBIx-SecureCGI-2.0.5                    85724
 Acme-Warn-LOLCAT-0.02                   85750
 PDF-TextBlock-0.06                      85783
 SOAP-Transport-TCP-0.717                85787
-MooseX-App-1.22                         failed only for v5.17.11
 Exception-Base-0.25                     failed only for v5.17.11
 CatalystX-Widget-Paginator-0.04         85914
 Mojolicious-Plugin-ShareHelpers-0.6     81563
 Search-Sitemap-2.13                     86048
 Business-OnlinePayment-IPPay-0.08       86161
-RPC-XML-0.77                            86187
 POE-Filter-DHCPd-Lease-0.0502           86507
 POE-Component-Server-Twirc-0.16         86509
 JSYNC-0.15                              86510
@@ -565,7 +561,6 @@ Class-DBI-FormBuilder-0.483             87214
 LaTeX-TikZ-0.02                         87282
 Mojolicious-Plugin-RESTRoutes-0.0100065 87336
 MyCPAN-Indexer-1.28_12                  87376
-Math-GSL-0.27                           87388
 App-Framework-1.06                      87390
 Statistics-MVA-0.0.2                    87426
 WordLists-0.013                         87427
@@ -658,7 +653,6 @@ Enterasys-NetSight-1.2                  88318
 Data-Model-0.00008                      76404
 RTF-Tokenizer-1.13                      90858
 Jemplate-0.27                           91108
-MooX-Cmd-0.008                          91111
 MarpaX-Languages-ECMAScript-AST-0.005   91120
 HTML-TagHelper-0.03                     91121
 Tk-HyperText-0.09                       91122
@@ -690,23 +684,15 @@ HTML-FormFu-MultiForm-1.00              91788
 Plack-Middleware-Assets-1.0.0           https://github.com/monken/p5-moosex-attribute-deflator/issues/5
 Javascript-Closure-0.07                 91916
 MooseX-Types-Set-Object-0.03            91945
-Geo-Coordinates-Converter-0.13          80033
 Carp-Notify-1.11                        91906
 BDB-Wrapper-0.49                        92073
-Business-Edifact-Interchange-0.06       92116
 DynGig-Multiplex-1.03                   68257
-Escape-Houdini-0.2.0                    https://rt.perl.org/rt3/Ticket/Display.html?id=121039
 Sub-Trigger-Lock-0.001                  https://rt.perl.org/rt3/Ticket/Display.html?id=119189
-Dist-Zilla-Plugin-PerlTidy-0.14         92307
 SQLite-Work-0.14                        70416
 Net-Launchpad-1.0.0                     https://github.com/battlemidget/Net-Launchpad/issues/1
-DigitalOcean-0.04                       92311
-WebService-SyoboiCalendar-0.01          https://github.com/hakobe/WebService-SyoboiCalendar/issues/1
 Git-0.03                                92422
-Plack-Session-Store-Transparent-0.01    https://github.com/i110/p5-Plack-Session-Store-Transparent/issues/1
 Crane-1.02.0007                         92431
 CatalystX-ExtJS-Direct-2.1.5            92466
-Math-NumSeq-68                          92528
 Algorithm-KMeans-1.40                   92551
 REST-Consumer-0.08                      92598
 CHI-Driver-Memcached-0.15               89606
