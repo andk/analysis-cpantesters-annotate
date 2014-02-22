@@ -722,3 +722,5 @@ Devel-Cover-1.08                        https://github.com/pjcj/Devel--Cover/iss
 ClearPress-457                          93156
 IO-Socket-Socks-Wrapper-0.10            93177
 PerlIO-locale-0.09                      93180
+Text-Xslate-3.1.2                       https://github.com/xslate/p5-Text-Xslate/issues/105
+DBD-CSV-0.41                            87684
