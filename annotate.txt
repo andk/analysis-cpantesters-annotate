@@ -613,7 +613,7 @@ WWW-Shorten-3.04                        85418,88052
 Acme-Pythonic-0.47                      https://rt.perl.org/rt3/Ticket/Display.html?id=119941
 XML-Ordered-0.01                        renamed to XML::Struct
 Perl-Critic-Pulp-80                     88866
-Parse-RPN-2.83                          88671
+Parse-RPN-2.84                          88671
 Geo-TigerLine-Abbreviations-0.04        89187
 Acme-CPANAuthors-French-0.09            89290
 RSS-Parser-Lite-0.12                    89579
@@ -726,3 +726,4 @@ Text-Xslate-3.1.2                       https://github.com/xslate/p5-Text-Xslate
 DBD-CSV-0.41                            87684
 RedisDB-2.27                            https://github.com/trinitum/RedisDB/issues/17
 CA-WAAE-0.01                            93446
+Yote-0.1022                             93451
