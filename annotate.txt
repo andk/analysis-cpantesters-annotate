@@ -727,3 +727,4 @@ DBD-CSV-0.41                            87684
 RedisDB-2.27                            https://github.com/trinitum/RedisDB/issues/17
 CA-WAAE-0.01                            93446
 Yote-0.1022                             93451
+Dokuwiki-RPC-XML-Client-0.001           93479
