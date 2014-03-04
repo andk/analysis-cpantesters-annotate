@@ -728,3 +728,4 @@ RedisDB-2.27                            https://github.com/trinitum/RedisDB/issu
 CA-WAAE-0.01                            93446
 Yote-0.1022                             93451
 Dokuwiki-RPC-XML-Client-0.001           93479
+IO-Iron-0.06                            https://rt.perl.org/Public/Bug/Display.html?id=121371
