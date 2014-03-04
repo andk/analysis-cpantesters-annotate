@@ -729,3 +729,5 @@ CA-WAAE-0.01                            93446
 Yote-0.1022                             93451
 Dokuwiki-RPC-XML-Client-0.001           93479
 IO-Iron-0.06                            https://rt.perl.org/Public/Bug/Display.html?id=121371
+Buscape-API-0.000003                    https://github.com/estantevirtual/Buscape-API/issues/2
+PDL-Dims-0.004                          93527
