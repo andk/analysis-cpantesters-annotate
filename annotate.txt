@@ -731,3 +731,4 @@ Dokuwiki-RPC-XML-Client-0.001           93479
 IO-Iron-0.06                            https://rt.perl.org/Public/Bug/Display.html?id=121371
 Buscape-API-0.000003                    https://github.com/estantevirtual/Buscape-API/issues/2
 PDL-Dims-0.004                          93527
+Data-Util-0.62                          88278
