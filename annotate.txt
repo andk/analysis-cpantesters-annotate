@@ -733,3 +733,5 @@ Buscape-API-0.000003                    https://github.com/estantevirtual/Buscap
 PDL-Dims-0.004                          93527
 Data-Util-0.62                          88278
 Time-List-0.10                          shadowed by Data-Util-0.62 http://matrix.cpantesters.org/?dist=Data-Util
+MooseX-Getopt-0.61                      93592
+MouseX-Getopt-0.34                      93593
