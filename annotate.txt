@@ -740,3 +740,4 @@ Mojolicious-Plugin-Mail-1.1             93639
 APR-Emulate-PSGI-0.02                   93640
 Array-Lookup-2.3                        93663
 Bio-MaxQuant-ProteinGroups-Response-0.01 93697
+Net-Stomp-MooseHelpers-2.3              93698
