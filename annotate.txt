@@ -745,3 +745,4 @@ Catmandu-Serializer-storable-0.0101     https://github.com/LibreCat/Catmandu-Ser
 Mojolicious-Plugin-BootstrapPagination-0.07 https://github.com/dokechin/Mojolicious-Plugin-BootstrapPagination/issues/1
 DSP-LinPred_XS-0.01                     https://github.com/adokoy001/DSP-LinPred_XS/issues/1
 File-Locate-Iterator-21                 93740
+App-Dapper-0.10                         93742
