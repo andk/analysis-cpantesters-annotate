@@ -746,3 +746,7 @@ Mojolicious-Plugin-BootstrapPagination-0.07 https://github.com/dokechin/Mojolici
 DSP-LinPred_XS-0.01                     https://github.com/adokoy001/DSP-LinPred_XS/issues/1
 File-Locate-Iterator-21                 93740
 App-Dapper-0.10                         93742
+Smart-Comments-1.000005                 https://rt.perl.org/rt3/Ticket/Display.html?id=121484
+Getopt-Euclid-0.4.4                     https://rt.perl.org/rt3/Ticket/Display.html?id=121484
+Marpa-R2-2.082000                       https://rt.perl.org/rt3/Ticket/Display.html?id=121484
+Perl-Critic-1.121                       https://rt.perl.org/rt3/Ticket/Display.html?id=121484
