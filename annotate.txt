@@ -759,3 +759,4 @@ Dancer-Plugin-Controller-0.01           94417
 Net-DNSbed-0.02                         94418
 yesssSMS-1.00                           94419
 Params-Validate-Array-0.03              94420
+String-InterpolatedVariables-1.0.1      https://github.com/guillaumeaubert/String-InterpolatedVariables/issues/1
