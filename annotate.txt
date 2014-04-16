@@ -762,3 +762,4 @@ Params-Validate-Array-0.03              94420
 String-InterpolatedVariables-1.0.1      https://github.com/guillaumeaubert/String-InterpolatedVariables/issues/1
 Mojolicious-Plugin-ServerStatus-0.02    94780
 Mojolicious-Plugin-Airbrake-0.01        94787
+app-tables-0.1                          94788
