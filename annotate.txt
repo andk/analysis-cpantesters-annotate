@@ -764,3 +764,4 @@ Mojolicious-Plugin-ServerStatus-0.02    94780
 Mojolicious-Plugin-Airbrake-0.01        94787
 app-tables-0.1                          94788
 App-makedpkg-0.04                       https://github.com/nichtich/App-makedpkg/issues/2
+File-ConfigDir-0.012                    94849
