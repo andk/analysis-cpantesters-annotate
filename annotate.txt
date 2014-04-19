@@ -769,3 +769,4 @@ Pegex-Cmd-0.14                          https://github.com/ingydotnet/pegex-cmd-
 Net-DNS-ZoneFile-Fast-1.22              94850
 XML-LibXML-SAX-ChunkParser-0.00007      https://github.com/lestrrat/XML-LibXML-SAX-ChunkParser/issues/1
 Kelp-Module-JSON-XS-0.501               94871
+Dancer-Plugin-Catmandu-OAI-0.0303       94873
