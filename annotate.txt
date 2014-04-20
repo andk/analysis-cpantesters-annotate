@@ -771,3 +771,4 @@ XML-LibXML-SAX-ChunkParser-0.00007      https://github.com/lestrrat/XML-LibXML-S
 Kelp-Module-JSON-XS-0.501               94871
 Dancer-Plugin-Catmandu-OAI-0.0303       94873
 CSS-Inliner-3944                        94884
+Redis-Setlock-0.04                      https://github.com/fujiwara/Redis-Setlock/issues/1
