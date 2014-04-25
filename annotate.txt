@@ -752,7 +752,7 @@ Marpa-R2-2.082000                       https://rt.perl.org/rt3/Ticket/Display.h
 Perl-Critic-1.121                       https://rt.perl.org/rt3/Ticket/Display.html?id=121484
 Linux-DVB-DVBT-2.19                     94198
 Geo-Coordinates-Converter-0.13          80033
-Bio-App-SELEX-RNAmotifAnalysis-0.0088   94273
+Bio-App-SELEX-RNAmotifAnalysis-0.0095   94273
 Tangence-0.19                           94404
 CGI-Session-Driver-chi-1.0.1            94407
 Dancer-Plugin-Controller-0.01           94417
