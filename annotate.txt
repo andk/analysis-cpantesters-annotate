@@ -774,3 +774,4 @@ CSS-Inliner-3944                        94884
 Redis-Setlock-0.04                      https://github.com/fujiwara/Redis-Setlock/issues/1
 Prancer-0.04                            94886
 B-Hooks-OP-Check-EntersubForCV-0.09     94945
+Device-ELM327-0.11                      95030
