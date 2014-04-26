@@ -779,3 +779,6 @@ Portable-1.22                           95031
 MojoX-Plugin-AnyCache-0.02              https://github.com/companieshouse/MojoX-Plugin-AnyCache/issues/5
 Promises-0.93                           92272
 Device-VantagePro-0.24                  95059
+Mojo-Cloudflare-0.01                    https://github.com/jhthorsen/mojo-cloudflare/issues/1
+Interface-Validation-0.01_01            https://github.com/alnewkirk/Interface-Validation/issues/1
+Mojo-Redis-0.9925                       https://github.com/marcusramberg/mojo-redis/issues/28
