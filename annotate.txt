@@ -777,3 +777,4 @@ B-Hooks-OP-Check-EntersubForCV-0.09     94945
 Device-ELM327-0.11                      95030
 Portable-1.22                           95031
 MojoX-Plugin-AnyCache-0.02              https://github.com/companieshouse/MojoX-Plugin-AnyCache/issues/5
+Promises-0.93                           92272
