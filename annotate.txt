@@ -784,3 +784,4 @@ Interface-Validation-0.01_01            https://github.com/alnewkirk/Interface-V
 Mojo-Redis-0.9925                       https://github.com/marcusramberg/mojo-redis/issues/28
 Search-Query-Dialect-DBIxClass-0.005    95087
 Text-Markdown-Slidy-0.01                https://github.com/Songmu/p5-Text-Markdown-Slidy/issues/1
+Tie-Array-QueueExpire-1.04              95090
