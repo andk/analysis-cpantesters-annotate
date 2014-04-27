@@ -667,7 +667,7 @@ Test-DataDirs-0.1.0                     90634
 Devel-Declare-Lexer-0.014               91267
 App-CPAN-MetaDB-0.04                    91352
 XML-Parser-Lite-0.719                   91434
-Seis-0.12                               https://github.com/perl-seis/Seis/issues/5;https://github.com/perl-seis/Seis/issues/6;https://github.com/perl-seis/Seis/issues/7
+Seis-0.12                               https://github.com/perl-seis/Seis/issues/5,https://github.com/perl-seis/Seis/issues/6,https://github.com/perl-seis/Seis/issues/7
 Net-Rest-Generic-0.08                   91482
 WWW-CSRF-1.00                           91488
 Bio-Phylo-0.56                          https://rt.perl.org/rt3/Ticket/Display.html?id=120824
