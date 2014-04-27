@@ -782,3 +782,4 @@ Device-VantagePro-0.24                  95059
 Mojo-Cloudflare-0.01                    https://github.com/jhthorsen/mojo-cloudflare/issues/1
 Interface-Validation-0.01_01            https://github.com/alnewkirk/Interface-Validation/issues/1
 Mojo-Redis-0.9925                       https://github.com/marcusramberg/mojo-redis/issues/28
+Search-Query-Dialect-DBIxClass-0.005    95087
