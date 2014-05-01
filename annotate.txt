@@ -786,4 +786,4 @@ Search-Query-Dialect-DBIxClass-0.005    95087
 Text-Markdown-Slidy-0.01                https://github.com/Songmu/p5-Text-Markdown-Slidy/issues/1
 Tie-Array-QueueExpire-1.04              95090
 Dancer-Logger-LogHandler-0.01           87580
-JSON-2.90                               90368
+OAuth2-Google-Plus-0.03                 90368
