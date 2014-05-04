@@ -787,3 +787,4 @@ Text-Markdown-Slidy-0.01                https://github.com/Songmu/p5-Text-Markdo
 Tie-Array-QueueExpire-1.04              95090
 Dancer-Logger-LogHandler-0.01           87580
 OAuth2-Google-Plus-0.03                 90368
+Catalyst-Controller-SOAP-1.25           95327
