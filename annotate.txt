@@ -793,3 +793,4 @@ SysV-SharedMem-0.009                    95659
 Storable-AMF-1.00                       95660
 Enbugger-2.016                          95079
 IO-Pty-Easy-0.09                        95702
+Cisco-Regex-0.91                        95703
