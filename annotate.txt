@@ -791,3 +791,5 @@ Catalyst-Controller-SOAP-1.25           95327
 Perl-Tags-0.30                          95430,95431
 SysV-SharedMem-0.009                    95659
 Storable-AMF-1.00                       95660
+Enbugger-2.016                          95079
+IO-Pty-Easy-0.09                        95702
