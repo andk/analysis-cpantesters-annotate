@@ -797,3 +797,4 @@ Cisco-Regex-0.91                        95703
 Data-Structure-Util-0.15                88257
 MooseX-Role-REST-Consumer-0.001         95727
 Block-NamedVar-0.008                    https://github.com/exodist/Block-NamedVar/issues/3
+Text-MicroMason-2.13                    92771
