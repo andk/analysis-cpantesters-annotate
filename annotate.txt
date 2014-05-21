@@ -808,3 +808,4 @@ Filesys-POSIX-0.9.12                    95838
 Log-Report-1.02                         todo: locale-dependent since bleadperl ???
 Dancer2-Session-Cookie-0.005            https://github.com/PerlDancer/Dancer2-Session-Cookie/issues/7
 Devel-Size-0.79                         95493
+Boost-Geometry-Utils-0.15               https://rt.perl.org/rt3/Ticket/Display.html?id=121826
