@@ -805,3 +805,4 @@ Embperl-2.5.0                           95335
 Process-MaxSize-0.03                    fixed in 0.04
 Web-Simple-0.004                        newer release: 0.020
 Filesys-POSIX-0.9.12                    95838
+Log-Report-1.02                         todo: locale-dependent since bleadperl ???
