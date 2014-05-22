@@ -818,3 +818,4 @@ Data-Checker-1.00                       tests network dependent
 Text-MediawikiFormat-v1.0               90115
 Config-Trivial-Storable-0.30            newer release: 0.31_2
 Net-Jabber-2.0                          87436
+Devel-ptkdb-1.1091                      89641
