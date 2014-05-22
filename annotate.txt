@@ -821,3 +821,4 @@ Net-Jabber-2.0                          87436
 Devel-ptkdb-1.1091                      89641
 Cindy-0.19                              Similar fails now with 5.18.2
 DynGig-Range-1.00                       95848
+Socket-Class-2.258                      Similar fails now with 5.18.2
