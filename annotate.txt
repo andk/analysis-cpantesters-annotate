@@ -813,3 +813,4 @@ ifdef-0.09                              95772 (needs more work)
 Log-Report-1.02                         https://rt.perl.org/Ticket/Display.html?id=121941
 Parse-Selenese-0.006                    95655
 overload-eval-0.10                      95269
+ensure-1.10                             95312
