@@ -825,3 +825,4 @@ Socket-Class-2.258                      Similar fails now with 5.18.2
 File-DataClass-0.39.1                   newer release: 0.40.1
 Template-Jade-0.03                      newer release: 0.05
 Template-Jade-0.02                      newer release: 0.05
+CGI-OptimalQuery-0.07                   95876
