@@ -816,3 +816,4 @@ overload-eval-0.10                      95269
 ensure-1.10                             95312
 Data-Checker-1.00                       tests network dependent
 Text-MediawikiFormat-v1.0               90115
+Config-Trivial-Storable-0.30            newer release: 0.31_2
