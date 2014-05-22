@@ -814,3 +814,4 @@ Log-Report-1.02                         https://rt.perl.org/Ticket/Display.html?
 Parse-Selenese-0.006                    95655
 overload-eval-0.10                      95269
 ensure-1.10                             95312
+Data-Checker-1.00                       tests network dependent
