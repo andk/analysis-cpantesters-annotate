@@ -762,7 +762,6 @@ Params-Validate-Array-0.03              94420
 String-InterpolatedVariables-1.0.1      https://github.com/guillaumeaubert/String-InterpolatedVariables/issues/1
 Mojolicious-Plugin-ServerStatus-0.02    94780
 Mojolicious-Plugin-Airbrake-0.01        94787
-app-tables-0.1                          94788
 App-makedpkg-0.04                       https://github.com/nichtich/App-makedpkg/issues/2
 File-ConfigDir-0.012                    94849
 Pegex-Cmd-0.14                          https://github.com/ingydotnet/pegex-cmd-pm/issues/1
@@ -830,3 +829,4 @@ String-Rexx-0.08                        95554
 LWP-UserAgent-POE-0.03                  95887
 OptArgs-0.1.10                          95888
 Mail-Box-2.114                          95889
+app-tables-0.4                          94788
