@@ -830,3 +830,4 @@ LWP-UserAgent-POE-0.03                  95887
 OptArgs-0.1.10                          95888
 Mail-Box-2.114                          95889
 app-tables-0.4                          94788
+Plack-Server-AnyEvent-0.04              deprecated according to README
