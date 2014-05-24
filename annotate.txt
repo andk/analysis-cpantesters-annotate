@@ -755,7 +755,6 @@ Geo-Coordinates-Converter-0.13          80033
 Bio-App-SELEX-RNAmotifAnalysis-0.0095   94273
 Tangence-0.19                           94404
 CGI-Session-Driver-chi-1.0.1            94407
-Dancer-Plugin-Controller-0.01           94417
 Net-DNSbed-0.02                         94418
 yesssSMS-1.00                           94419
 Params-Validate-Array-0.03              94420
@@ -834,3 +833,4 @@ Plack-Server-AnyEvent-0.04              deprecated according to README
 Acme-Currency-3.01                      66850
 HTML-StripTags-1.01                     https://github.com/hinnerk-a/perl-strip_tags/issues/2
 Geo-SypexGeo-0.2                        95937
+Dancer-Plugin-Controller-0.04           94417
