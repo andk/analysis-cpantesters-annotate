@@ -832,3 +832,4 @@ Mail-Box-2.114                          95889
 app-tables-0.4                          94788
 Plack-Server-AnyEvent-0.04              deprecated according to README
 Acme-Currency-3.01                      66850
+HTML-StripTags-1.01                     https://github.com/hinnerk-a/perl-strip_tags/issues/2
