@@ -835,3 +835,4 @@ HTML-StripTags-1.01                     https://github.com/hinnerk-a/perl-strip_
 Geo-SypexGeo-0.2                        95937
 Dancer-Plugin-Controller-0.04           94417
 Chef-REST-Client-1.1                    95948
+MooseX-LazyCoercion-0.002               95664
