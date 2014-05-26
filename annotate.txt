@@ -837,3 +837,4 @@ Dancer-Plugin-Controller-0.04           94417
 Chef-REST-Client-1.1                    95948
 MooseX-LazyCoercion-0.002               95664
 Image-Magick-Thumbnail-Simple-0.12      95982
+Test-PostgreSQL-0.10                    95986
