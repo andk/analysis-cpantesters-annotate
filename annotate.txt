@@ -842,3 +842,4 @@ Test-Moose-More-0.024                   https://github.com/RsrchBoy/Test-Moose-M
 Curses-UI-Number-0.02                   newer release: 0.04
 Crypt-Polybius-0.002                    newer release: 0.003
 Catmandu-MARC-0.115                     newer release: 0.2
+C-TinyCompiler-0.04                     https://github.com/run4flat/perl-TCC/issues/5
