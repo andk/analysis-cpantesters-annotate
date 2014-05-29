@@ -840,3 +840,4 @@ Image-Magick-Thumbnail-Simple-0.12      95982
 Test-PostgreSQL-0.10                    95986
 Test-Moose-More-0.024                   https://github.com/RsrchBoy/Test-Moose-More/issues/11
 Curses-UI-Number-0.02                   newer release: 0.04
+Crypt-Polybius-0.002                    newer release: 0.003
