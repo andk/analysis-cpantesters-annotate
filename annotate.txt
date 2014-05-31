@@ -79,7 +79,6 @@ Geo-ECEF-1.10                           60329
 Business-OnlinePayment-SynapseGateway-0.01 60332
 Stlgen-0.012                            60334
 Papery-0.01                             60336
-Switch-2.16                             60380
 Lingua-EN-Bigram-0.03                   60670
 Xymon-Monitor-SNMP-0.04                 60816
 Acme-Compress-0.04                      60963, 60964
