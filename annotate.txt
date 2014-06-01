@@ -848,3 +848,4 @@ Test-Prereq-1.038_05                    96099
 MooseX-ABC-0.06                         96112
 Math-GSL-0.29_1                         newer release: 0.29_2
 Log-QnD-0.13                            newer release: 0.15
+App-CELL-0.110                          newer release: 0.150
