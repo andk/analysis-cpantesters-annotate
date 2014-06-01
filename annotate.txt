@@ -846,3 +846,4 @@ POE-Component-Server-IRC-1.40           newer release: 1.54
 Flea-0.04                               96073
 Test-Prereq-1.038_05                    96099
 MooseX-ABC-0.06                         96112
+Math-GSL-0.29_1                         newer release: 0.29_2
