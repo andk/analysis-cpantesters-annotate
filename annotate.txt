@@ -854,3 +854,4 @@ Zilla-Dist-0.0.1                        newer release: 0.0.8
 Zilla-Dist-0.0.3                        newer release: 0.0.8
 Math-BigInt-GMP-1.38                    96113
 App-Rad-Plugin-ReadLine-0.002           96124
+Mojolicious-Plugin-Mail-1.2             96125
