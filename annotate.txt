@@ -852,3 +852,4 @@ Math-Clipper-1.23                       74828
 Labyrinth-Plugin-Guestbook-1.01         newer release: 1.02
 Zilla-Dist-0.0.1                        newer release: 0.0.8
 Zilla-Dist-0.0.3                        newer release: 0.0.8
+Math-BigInt-GMP-1.38                    96113
