@@ -856,3 +856,4 @@ Math-BigInt-GMP-1.38                    96113
 App-Rad-Plugin-ReadLine-0.002           96124
 Mojolicious-Plugin-Mail-1.2             96125
 Mojolicious-Plugin-YamlConfig-0.1.7     96127
+Number-Phone-JP-0.20140602              96155
