@@ -867,3 +867,4 @@ Curses-UI-Number-0.03                   newer release: 0.04
 App-GitHooks-v1.0.2                     newer release: v1.0.3
 App-GitHooks-Plugin-RequireTicketID-v1.0.1 newer release: v1.0.2
 App-GitHooks-Plugin-PgBouncerAuthSyntax-v1.0.1 newer release: v1.0.2
+Finance-Bank-IE-0.29                    newer release: 0.30
