@@ -864,3 +864,4 @@ Mojolicious-Plugin-AdvancedMod-0.38     96180
 Mojolicious-Plugin-MostTagHelpers-0.03  96186
 Curses-UI-Number-0.01                   newer release: 0.04
 Curses-UI-Number-0.03                   newer release: 0.04
+App-GitHooks-v1.0.2                     newer release: v1.0.3
