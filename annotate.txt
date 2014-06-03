@@ -858,3 +858,4 @@ Mojolicious-Plugin-Mail-1.2             96125
 Mojolicious-Plugin-YamlConfig-0.1.7     96127
 Number-Phone-JP-0.20140602              96155
 Zilla-Dist-0.0.2                        newer release: 0.0.8
+Data-Money-0.07                         96164
