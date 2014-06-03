@@ -861,3 +861,4 @@ Zilla-Dist-0.0.2                        newer release: 0.0.8
 Data-Money-0.07                         96164
 Mojolicious-Command-generate-dbicdump-v0.1.1 96179
 Mojolicious-Plugin-AdvancedMod-0.38     96180
+Mojolicious-Plugin-MostTagHelpers-0.03  96186
