@@ -873,3 +873,4 @@ Labyrinth-Plugin-Guestbook-1.01         newer release: 1.02
 YAML-Pegex-0.0.1                        newer release: 0.0.3
 Mojolicious-Plugin-BasicAuth-0.07       96192
 Class-DBI-ClassGenerator-1.03           96197
+Math-BigInt-Pari-1.18                   96198
