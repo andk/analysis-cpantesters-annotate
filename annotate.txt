@@ -870,3 +870,4 @@ Finance-Bank-IE-0.29                    newer release: 0.30
 Gimp-2.3                                newer release: 2.30_05
 Labyrinth-Plugin-Guestbook-1.00         newer release: 1.02
 Labyrinth-Plugin-Guestbook-1.01         newer release: 1.02
+YAML-Pegex-0.0.1                        newer release: 0.0.3
