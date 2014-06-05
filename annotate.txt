@@ -876,3 +876,4 @@ Class-DBI-ClassGenerator-1.03           96197
 Math-BigInt-Pari-1.18                   96198
 Data-asXML-0.05                         https://github.com/jozef/Data-asXML/issues/1
 Geo-Mercator-1.01                       96230
+DateTime-Util-Calc-0.13002              96232
