@@ -878,3 +878,4 @@ Data-asXML-0.05                         https://github.com/jozef/Data-asXML/issu
 Geo-Mercator-1.01                       96230
 DateTime-Util-Calc-0.13002              96232
 Mojolicious-Plugin-ParamsAuth-0.03      96234
+Encode-JP-Emoji-0.60                    https://rt.perl.org/rt3/Ticket/Display.html?id=122029
