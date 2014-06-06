@@ -881,7 +881,7 @@ Mojolicious-Plugin-ParamsAuth-0.03      96234
 Encode-JP-Emoji-0.60                    https://rt.perl.org/rt3/Ticket/Display.html?id=122029
 Mojolicious-Plugin-HostMeta-0.11        newer release: 0.12
 Mojolicious-Plugin-Proxy-0.4            https://github.com/kraih/mojo/issues/635
-Package-DeprecationManager-0.13         96271
+Package-DeprecationManager-0.13         96271, wrong positive by AUTHOR_TESTING=1
 Stream-Buffered-0.02                    https://github.com/plack/Plack/issues/460
 Mojolicious-Plugin-Qaptcha-0.09         https://github.com/hrupprecht/Mojolicious-Plugin-Qaptcha/issues/1
 Mojolicious-Plugin-WriteExcel-2.02      https://github.com/zakame/mojox-renderer-writeexcel/issues/1
