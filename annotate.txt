@@ -884,3 +884,4 @@ Mojolicious-Plugin-Proxy-0.4            https://github.com/kraih/mojo/issues/635
 Package-DeprecationManager-0.13         96271
 Stream-Buffered-0.02                    https://github.com/plack/Plack/issues/460
 Mojolicious-Plugin-Qaptcha-0.09         https://github.com/hrupprecht/Mojolicious-Plugin-Qaptcha/issues/1
+Mojolicious-Plugin-WriteExcel-2.02      https://github.com/zakame/mojox-renderer-writeexcel/issues/1
