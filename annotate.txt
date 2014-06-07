@@ -888,3 +888,4 @@ Mojolicious-Plugin-WriteExcel-2.02      https://github.com/zakame/mojox-renderer
 NNexus-2.0                              96285
 App-revealup-0.02                       https://github.com/yusukebe/App-revealup/issues/2
 Text-Tradition-1.3                      96296
+HTCondor-Queue-Parser-0.02              96297
