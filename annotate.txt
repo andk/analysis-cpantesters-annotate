@@ -886,3 +886,4 @@ Stream-Buffered-0.02                    https://github.com/plack/Plack/issues/46
 Mojolicious-Plugin-Qaptcha-0.09         https://github.com/hrupprecht/Mojolicious-Plugin-Qaptcha/issues/1
 Mojolicious-Plugin-WriteExcel-2.02      https://github.com/zakame/mojox-renderer-writeexcel/issues/1
 NNexus-2.0                              96285
+App-revealup-0.02                       https://github.com/yusukebe/App-revealup/issues/2
