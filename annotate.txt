@@ -890,3 +890,4 @@ App-revealup-0.02                       https://github.com/yusukebe/App-revealup
 Text-Tradition-1.3                      96296
 HTCondor-Queue-Parser-0.02              96297
 Toader-1.1.2                            96336
+Dancer-Plugin-CORS-0.01                 96339
