@@ -889,3 +889,4 @@ NNexus-2.0                              96285
 App-revealup-0.02                       https://github.com/yusukebe/App-revealup/issues/2
 Text-Tradition-1.3                      96296
 HTCondor-Queue-Parser-0.02              96297
+Toader-1.1.2                            96336
