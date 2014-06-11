@@ -892,3 +892,4 @@ HTCondor-Queue-Parser-0.02              96297
 Toader-1.1.2                            96336
 Dancer-Plugin-CORS-0.01                 96339
 Test-Pretty-0.28                        https://github.com/tokuhirom/Test-Pretty/issues/20
+Mojolicious-Plugin-SslAuth-0.07         96367
