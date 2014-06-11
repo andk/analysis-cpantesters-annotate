@@ -843,7 +843,6 @@ Catmandu-MARC-0.115                     newer release: 0.2
 C-TinyCompiler-0.04                     https://github.com/run4flat/perl-TCC/issues/5
 POE-Component-Server-IRC-1.40           newer release: 1.54
 Flea-0.04                               96073
-Test-Prereq-1.038_05                    96099
 MooseX-ABC-0.06                         96112
 Math-GSL-0.29_1                         newer release: 0.29_2
 Log-QnD-0.13                            newer release: 0.15
@@ -893,3 +892,7 @@ Toader-1.1.2                            96336
 Dancer-Plugin-CORS-0.01                 96339
 Test-Pretty-0.28                        https://github.com/tokuhirom/Test-Pretty/issues/20
 Mojolicious-Plugin-SslAuth-0.07         96367
+String-Simrank-0.079                    https://rt.perl.org/rt3/Ticket/Display.html?id=122077
+PerlIO-via-EscStatus-11                 https://rt.perl.org/Ticket/Display.html?id=122029
+Test-Prereq-1.038_05                    96099
+Test-Prereq-1.038                       96099
