@@ -905,3 +905,5 @@ IPC-Open3-Callback-1.11                 95819
 IPC-Open3-Callback-1.12                 95819
 Log-Report-1.04                         96170
 Log-Report-Lexicon-1.03                 96170
+MojoX-Validator-0.0014                  96391
+Search-Tools-1.000                      https://rt.perl.org/rt3/Ticket/Display.html?id=122084
