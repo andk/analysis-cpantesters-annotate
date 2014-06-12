@@ -908,3 +908,4 @@ Log-Report-Lexicon-1.03                 96170
 MojoX-Validator-0.0014                  96391
 Search-Tools-1.000                      https://rt.perl.org/rt3/Ticket/Display.html?id=122084
 Cache-Mmap-0.11                         95940
+Geo-KML-0.94                            96392
