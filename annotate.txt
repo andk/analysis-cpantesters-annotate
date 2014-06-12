@@ -909,3 +909,4 @@ Search-Tools-1.000                      https://rt.perl.org/rt3/Ticket/Display.h
 Cache-Mmap-0.11                         95940
 Geo-KML-0.94                            96392
 CGI-OptimalQuery-0.08                   95876
+Media-Type-Simple-v0.30.2               96393
