@@ -913,3 +913,4 @@ Media-Type-Simple-v0.30.2               96393
 Word-Segmenter-Chinese-Lite-0.01        96408
 Template-Plugin-UTF8toANSI-0.01         96416
 App-Sqitch-0.993                        https://github.com/theory/sqitch/issues/169
+POE-Component-Generic-0.1403            96442
