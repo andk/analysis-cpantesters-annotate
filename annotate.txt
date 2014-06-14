@@ -915,3 +915,4 @@ Template-Plugin-UTF8toANSI-0.01         96416
 App-Sqitch-0.993                        https://github.com/theory/sqitch/issues/169
 POE-Component-Generic-0.1403            96442
 Guard-1.022                             https://rt.perl.org/rt3/Ticket/Display.html?id=122031
+Hash-MostUtils-1.05                     https://github.com/belden/perl-hash-mostutils/issues/1
