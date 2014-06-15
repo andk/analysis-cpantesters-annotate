@@ -916,3 +916,4 @@ App-Sqitch-0.993                        https://github.com/theory/sqitch/issues/
 POE-Component-Generic-0.1403            96442
 Guard-1.022                             https://rt.perl.org/rt3/Ticket/Display.html?id=122031
 Hash-MostUtils-1.05                     https://github.com/belden/perl-hash-mostutils/issues/1
+App-Templer-0.9.1                       https://github.com/skx/templer/issues/24
