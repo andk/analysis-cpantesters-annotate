@@ -926,3 +926,4 @@ Device-Gsm-1.60                         https://rt.perl.org/rt3/Ticket/Display.h
 WWW-Google-PageRank-0.17                https://rt.perl.org/rt3/Ticket/Display.html?id=122121
 Convert-YText-v0.1.2                    https://rt.perl.org/rt3/Ticket/Display.html?id=122121
 Convert-EastAsianWidth-1.02             https://rt.perl.org/rt3/Ticket/Display.html?id=122121
+WWW-Mechanize-1.73                      https://rt.perl.org/rt3/Ticket/Display.html?id=122121
