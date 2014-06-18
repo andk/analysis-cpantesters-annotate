@@ -930,3 +930,4 @@ WWW-Mechanize-1.73                      https://rt.perl.org/rt3/Ticket/Display.h
 CatalystX-Restarter-GTK-0.08            96507
 Net-AMQP-RabbitMQ-0.005005              https://github.com/markwellis/net-amqp-rabbitmq/issues/11
 Class-DBI-Plugin-Type-0.02              7610
+Ormlette-0.005                          statistics weak (due to a bad smoker?)
