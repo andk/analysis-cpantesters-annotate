@@ -929,3 +929,4 @@ Convert-EastAsianWidth-1.02             https://rt.perl.org/rt3/Ticket/Display.h
 WWW-Mechanize-1.73                      https://rt.perl.org/rt3/Ticket/Display.html?id=122121
 CatalystX-Restarter-GTK-0.08            96507
 Net-AMQP-RabbitMQ-0.005005              https://github.com/markwellis/net-amqp-rabbitmq/issues/11
+Class-DBI-Plugin-Type-0.02              7610
