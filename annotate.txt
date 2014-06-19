@@ -933,3 +933,14 @@ Class-DBI-Plugin-Type-0.02              7610
 Ormlette-0.005                          statistics weak (due to a bad smoker?)
 DBD-SQLite-Amalgamation-3.6.1.2         https://rt.perl.org/rt3/Ticket/Display.html?id=122126
 DBD-SQLite-1.42                         https://rt.perl.org/rt3/Ticket/Display.html?id=122126
+PDF-Burst-1.20                          https://rt.perl.org/rt3/Ticket/Display.html?id=122136
+Unix-ConfigFile-0.06                    https://rt.perl.org/rt3/Ticket/Display.html?id=122136
+Unicode-String-2.09                     https://rt.perl.org/rt3/Ticket/Display.html?id=122136
+Nagios-Plugin-0.36                      https://rt.perl.org/rt3/Ticket/Display.html?id=122136
+Sub-Recursive-0.03                      https://rt.perl.org/rt3/Ticket/Display.html?id=122136
+PDF-Reuse-0.35                          https://rt.perl.org/rt3/Ticket/Display.html?id=122136
+Geo-Query-LatLong-0.8011                https://rt.perl.org/rt3/Ticket/Display.html?id=122136
+Devel-Symdump-2.11                      https://rt.perl.org/rt3/Ticket/Display.html?id=122136
+Class-Plugin-Util-0.009                 https://rt.perl.org/rt3/Ticket/Display.html?id=122136
+Cache-Cache-1.06                        https://rt.perl.org/rt3/Ticket/Display.html?id=122136
+DB_File-Lock-0.05                       https://rt.perl.org/rt3/Ticket/Display.html?id=122136
