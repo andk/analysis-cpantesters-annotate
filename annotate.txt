@@ -945,3 +945,4 @@ Class-Plugin-Util-0.009                 https://rt.perl.org/rt3/Ticket/Display.h
 Cache-Cache-1.06                        https://rt.perl.org/rt3/Ticket/Display.html?id=122136
 DB_File-Lock-0.05                       https://rt.perl.org/rt3/Ticket/Display.html?id=122136
 Ogg-Vorbis-Header-PurePerl-1.0          96578
+Devel-hdb-0.12                          https://rt.perl.org/rt3/Ticket/Display.html?id=122146
