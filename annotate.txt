@@ -949,3 +949,4 @@ Devel-hdb-0.12                          https://rt.perl.org/rt3/Ticket/Display.h
 HTML-Template-Default-1.10              https://rt.perl.org/rt3/Ticket/Display.html?id=122136
 Lingua-PT-Conjugate-1.18                https://rt.perl.org/rt3/Ticket/Display.html?id=122136
 Catalyst-Model-SOAP-1.5                 96599
+Data-Localize-0.00025                   https://rt.perl.org/rt3/Ticket/Display.html?id=122146
