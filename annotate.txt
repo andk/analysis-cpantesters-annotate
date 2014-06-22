@@ -951,3 +951,4 @@ Lingua-PT-Conjugate-1.18                https://rt.perl.org/rt3/Ticket/Display.h
 Catalyst-Model-SOAP-1.5                 96599
 Data-Localize-0.00025                   https://rt.perl.org/rt3/Ticket/Display.html?id=122146
 LEOCHARRE-CLI2-1.16                     https://rt.perl.org/rt3/Ticket/Display.html?id=122136
+Test-MockModule-0.05                    87004
