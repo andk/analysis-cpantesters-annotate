@@ -953,3 +953,4 @@ Data-Localize-0.00025                   https://rt.perl.org/rt3/Ticket/Display.h
 LEOCHARRE-CLI2-1.16                     https://rt.perl.org/rt3/Ticket/Display.html?id=122136
 Test-MockModule-0.05                    87004
 App-Sqitch-0.994                        https://rt.perl.org/rt3/Ticket/Display.html?id=122154
+Prophet-0.751                           88536
