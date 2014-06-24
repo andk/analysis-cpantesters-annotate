@@ -962,3 +962,4 @@ Unicode-Stringprep-1.104                https://rt.perl.org/rt3/Ticket/Display.h
 YATT-v0.0.8                             https://rt.perl.org/rt3/Ticket/Display.html?id=122159
 EntityModel-Log-0.005                   https://rt.perl.org/rt3/Ticket/Display.html?id=122159
 HTML-TagParser-0.20                     86698
+rpm-build-perl-0.82                     85411
