@@ -964,7 +964,7 @@ EntityModel-Log-0.005                   https://rt.perl.org/rt3/Ticket/Display.h
 HTML-TagParser-0.20                     86698
 rpm-build-perl-0.82                     85411
 OSDial-3.0.2.124                        96702
-Net-IDN-Encode-2.200                    https://rt.perl.org/rt3/Ticket/Display.html?id=122179
+Net-IDN-Encode-2.200                    96749,https://rt.perl.org/rt3/Ticket/Display.html?id=122179
 BitStamp-Socket-0.01                    Name change to Finance-BitStamp-Socket
 Finance-BitStamp-Socket-0.02            96704
 Net-OAuth2-0.59                         96731
