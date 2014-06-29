@@ -972,3 +972,4 @@ MojoX-Redis-0.86                        obsoleted by Mojo::Redis for Mojolicious
 KinoSearch-0.315                        96759
 Mojolicious-Command-generate-upstart-0.02 96803
 Mojolicious-Plugin-ConsoleLogger-0.05   96804
+HTML-Data-Parser-0.006                  96807
