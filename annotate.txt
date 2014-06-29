@@ -970,3 +970,4 @@ Finance-BitStamp-Socket-0.02            96704
 Net-OAuth2-0.59                         96731
 MojoX-Redis-0.86                        obsoleted by Mojo::Redis for Mojolicious 5.0
 KinoSearch-0.315                        96759
+Mojolicious-Command-generate-upstart-0.02 96803
