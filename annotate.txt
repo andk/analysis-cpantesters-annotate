@@ -973,3 +973,5 @@ KinoSearch-0.315                        96759
 Mojolicious-Command-generate-upstart-0.02 96803
 Mojolicious-Plugin-ConsoleLogger-0.05   96804
 HTML-Data-Parser-0.006                  96807
+Test-Base-0.62                          https://github.com/ingydotnet/spiffy-pm/issues/3
+AWS-Signature4-1.00                     96866
