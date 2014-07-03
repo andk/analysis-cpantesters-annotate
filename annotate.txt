@@ -977,3 +977,4 @@ Test-Base-0.62                          https://github.com/ingydotnet/spiffy-pm/
 AWS-Signature4-1.00                     96866
 Acme-Damn-0.05                          96872
 WebService-HtmlKitCom-FavIconFromImage-0.003 92739
+Plack-Middleware-DebugLogging-0.001004  https://github.com/mattp-/Plack-Middleware-DebugLogging/issues/1
