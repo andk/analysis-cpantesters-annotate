@@ -979,3 +979,4 @@ Acme-Damn-0.05                          96872
 WebService-HtmlKitCom-FavIconFromImage-0.003 92739
 Plack-Middleware-DebugLogging-0.001004  https://github.com/mattp-/Plack-Middleware-DebugLogging/issues/1
 App-whatthecommit-0.01                  https://github.com/mudler/App-whatthecommit/issues/1
+Games-SMTNocturne-Demons-0.01           https://github.com/doy/games-smtnocturne-demons/issues/1
