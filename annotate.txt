@@ -982,3 +982,4 @@ App-whatthecommit-0.01                  https://github.com/mudler/App-whatthecom
 Games-SMTNocturne-Demons-0.01           https://github.com/doy/games-smtnocturne-demons/issues/1
 Mojolicious-Plugin-SessionCompress-0.03 96903
 Method-Utils-0.02                       96905
+net-lastfmapi-0.63                      97037
