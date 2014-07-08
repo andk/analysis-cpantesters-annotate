@@ -984,3 +984,4 @@ Mojolicious-Plugin-SessionCompress-0.03 96903
 Method-Utils-0.02                       96905
 net-lastfmapi-0.63                      97037
 Config-Param-3.001000                   97038
+Template-Jade-0.05                      https://github.com/EvanCarroll/perl-template-jade/issues/2
