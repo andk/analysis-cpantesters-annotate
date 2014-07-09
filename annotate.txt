@@ -986,7 +986,7 @@ net-lastfmapi-0.63                      97037
 Config-Param-3.001000                   97038
 Template-Jade-0.05                      https://github.com/EvanCarroll/perl-template-jade/issues/2
 Attribute-Storage-0.09                  97071
-XML-Twig-3.48                           waiting for newer URI::Escape than 1.61  
+XML-Twig-3.48                           waiting for newer URI::Escape than 1.61
 WWW-Sitemap-XML-1.121160                waiting for newer URI::Escape than 1.61
 CPAN-FindDependencies-2.42              waiting for newer URI::Escape than 1.61
 XML-Feed-Aggregator-0.0401              waiting for newer URI::Escape than 1.61
