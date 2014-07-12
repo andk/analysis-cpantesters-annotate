@@ -1002,3 +1002,4 @@ HTML-Display-0.40                       waiting for newer URI::Escape than 1.61
 App-Sysadmin-Log-Simple-0.009           waiting for newer URI::Escape than 1.61
 BlueCoat-SGOS-1.05                      waiting for newer URI::Escape than 1.61
 Vector-QRCode-EPS-0.05                  https://github.com/ytnobody/Vector-QRCode-EPS/issues/2
+Net-BitTorrent-DHT-v1.0.2               https://github.com/sanko/net-bittorrent-dht/issues/1
