@@ -952,7 +952,6 @@ Catalyst-Model-SOAP-1.5                 96599
 Data-Localize-0.00025                   https://rt.perl.org/rt3/Ticket/Display.html?id=122146
 LEOCHARRE-CLI2-1.16                     https://rt.perl.org/rt3/Ticket/Display.html?id=122136
 Test-MockModule-0.05                    87004
-App-Sqitch-0.994                        https://rt.perl.org/rt3/Ticket/Display.html?id=122154
 Prophet-0.751                           88536
 Text-Xslate-3.2.4                       https://rt.perl.org/rt3/Ticket/Display.html?id=122159
 Kavorka-0.030                           https://rt.perl.org/rt3/Ticket/Display.html?id=122159
@@ -1003,3 +1002,4 @@ App-Sysadmin-Log-Simple-0.009           waiting for newer URI::Escape than 1.61
 BlueCoat-SGOS-1.05                      waiting for newer URI::Escape than 1.61
 Vector-QRCode-EPS-0.05                  https://github.com/ytnobody/Vector-QRCode-EPS/issues/2
 Net-BitTorrent-DHT-v1.0.2               https://github.com/sanko/net-bittorrent-dht/issues/1
+App-Sqitch-0.995                        https://rt.perl.org/rt3/Ticket/Display.html?id=122154
