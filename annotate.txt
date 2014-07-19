@@ -1008,3 +1008,4 @@ App-Sqitch-0.995                        https://rt.perl.org/rt3/Ticket/Display.h
 File-Finder-0.53                        43280
 WWW-Contact-0.47                        91023
 RRDTool-OO-0.34                         97322
+Text-Quote-0.32                         97340
