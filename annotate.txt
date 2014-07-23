@@ -599,7 +599,6 @@ Catalyst-View-PDF-API2-Simple-0.01      90579
 CSS-Tiny-1.19                           90611
 Enterasys-NetSight-1.2                  88318
 Data-Model-0.00008                      76404
-RTF-Tokenizer-1.13                      90858
 Tk-HyperText-0.09                       91122
 WebService-Pocket-0.003                 91166
 Mojolicious-Plugin-FormValidator-0.01   91209
