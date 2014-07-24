@@ -805,6 +805,8 @@ Kavorka-0.030                           https://rt.perl.org/rt3/Ticket/Display.h
 App-MusicTools-1.16                     https://rt.perl.org/rt3/Ticket/Display.html?id=122159
 Unicode-Stringprep-1.104                https://rt.perl.org/rt3/Ticket/Display.html?id=122159
 YATT-v0.0.8                             https://rt.perl.org/rt3/Ticket/Display.html?id=122159
+Text-Xslate-3.2.5                       https://rt.perl.org/rt3/Ticket/Display.html?id=122159
+Teng-0.23                               https://rt.perl.org/rt3/Ticket/Display.html?id=122159
 HTML-TagParser-0.20                     86698
 rpm-build-perl-0.82                     85411
 OSDial-3.0.2.124                        96702
