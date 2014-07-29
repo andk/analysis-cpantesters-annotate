@@ -852,3 +852,4 @@ WWW-Contact-0.47                        91023
 RRDTool-OO-0.34                         97322
 Text-Quote-0.32                         97340
 Net-eBay-0.61                           97511
+Benchmark-Chart-0.01                    97580
