@@ -854,3 +854,6 @@ Text-Quote-0.32                         97340
 Net-eBay-0.61                           97511
 Benchmark-Chart-0.01                    97580
 Test-Tarantool-0.03                     97581
+Crypt-CFB-0.02                          https://rt.perl.org/rt3/Ticket/Display.html?id=122432
+ConfigReader-Simple-1.28                https://rt.perl.org/rt3/Ticket/Display.html?id=122432
+CGI-Application-Plugin-SuperForm-0.5    https://rt.perl.org/rt3/Ticket/Display.html?id=122432
