@@ -859,3 +859,4 @@ ConfigReader-Simple-1.28                https://rt.perl.org/rt3/Ticket/Display.h
 CGI-Application-Plugin-SuperForm-0.5    https://rt.perl.org/rt3/Ticket/Display.html?id=122432
 CGI-OptimalQuery-0.10                   95876
 Time-Duration-Concise-Localize-1.3      97631
+Chef-REST-Client-1.2                    95948
