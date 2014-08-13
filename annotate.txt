@@ -862,3 +862,4 @@ Time-Duration-Concise-Localize-1.3      97631
 Chef-REST-Client-1.2                    95948
 Runner-Init-1.0                         https://github.com/jerowe/Runner-Init/issues/1
 Parse-Perl-0.007                        79158
+TestML-0.43                             https://github.com/ingydotnet/testml-pm/issues/9
