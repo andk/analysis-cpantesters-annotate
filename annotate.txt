@@ -864,3 +864,4 @@ Runner-Init-1.0                         https://github.com/jerowe/Runner-Init/is
 Parse-Perl-0.007                        79158
 TestML-0.43                             https://github.com/ingydotnet/testml-pm/issues/9
 CHI-Memoize-0.05                        97992
+Dist-Zilla-PluginBundle-CHGOVUK-0.07    https://github.com/companieshouse/Dist-Zilla-PluginBundle-CHGOVUK/issues/2
