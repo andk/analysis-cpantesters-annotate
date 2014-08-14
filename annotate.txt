@@ -867,3 +867,4 @@ CHI-Memoize-0.05                        97992
 Dist-Zilla-PluginBundle-CHGOVUK-0.07    https://github.com/companieshouse/Dist-Zilla-PluginBundle-CHGOVUK/issues/2
 Medical-DukePTP-0.3                     98011
 HTML-FillInForm-2.20                    98012
+Bio-AGP-LowLevel-0.02                   98015
