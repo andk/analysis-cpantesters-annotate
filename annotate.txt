@@ -865,3 +865,4 @@ Parse-Perl-0.007                        79158
 TestML-0.43                             https://github.com/ingydotnet/testml-pm/issues/9
 CHI-Memoize-0.05                        97992
 Dist-Zilla-PluginBundle-CHGOVUK-0.07    https://github.com/companieshouse/Dist-Zilla-PluginBundle-CHGOVUK/issues/2
+Medical-DukePTP-0.3                     98011
