@@ -871,3 +871,4 @@ Bio-AGP-LowLevel-0.02                   98015
 Mojolicious-Plugin-DomIdHelper-0.04     https://github.com/sshaw/Mojolicious-Plugin-DomIdHelper/issues/2
 WWW-Wordpress-1.3                       98233
 App-Cache-0.37                          98239
+Tickit-Widget-Tree-0.105                98275
