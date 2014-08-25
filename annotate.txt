@@ -872,3 +872,4 @@ Mojolicious-Plugin-DomIdHelper-0.04     https://github.com/sshaw/Mojolicious-Plu
 WWW-Wordpress-1.3                       98233
 App-Cache-0.37                          98239
 Tickit-Widget-Tree-0.105                98275
+Tie-ConfigFile-0.02                     98299
