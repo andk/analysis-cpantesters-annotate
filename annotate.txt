@@ -874,3 +874,4 @@ App-Cache-0.37                          98239
 Tickit-Widget-Tree-0.105                98275
 Tie-ConfigFile-0.02                     98299
 Banal-Config-0.11                       seems to be solved somehow
+Net-Bonjour-0.96                        seems to be solved by release of Net::DNS 0.79
