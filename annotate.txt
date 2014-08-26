@@ -666,7 +666,6 @@ Geo-Coordinates-Converter-0.13          80033
 Bio-App-SELEX-RNAmotifAnalysis-0.0095   94273
 Tangence-0.19                           94404
 Net-DNSbed-0.02                         94418
-yesssSMS-1.00                           94419
 Params-Validate-Array-0.03              94420
 Mojolicious-Plugin-ServerStatus-0.02    94780
 Mojolicious-Plugin-Airbrake-0.01        94787
@@ -878,3 +877,4 @@ Net-Bonjour-0.96                        seems to be solved by release of Net::DN
 Class-PObject-2.17                      skips most and passes all tests when DBI is not installed
 Tie-Hash-Sorted-0.10                    98320
 Math-MatrixDecomposition-1.03           68556
+yesssSMS-2.00                           94419
