@@ -878,3 +878,5 @@ Class-PObject-2.17                      skips most and passes all tests when DBI
 Tie-Hash-Sorted-0.10                    98320
 Math-MatrixDecomposition-1.03           68556
 yesssSMS-2.00                           94419
+Test-Modern-0.010                       Two Test::More dev releases brought sour rain on the green
+App-Standby-0.04                        98344
