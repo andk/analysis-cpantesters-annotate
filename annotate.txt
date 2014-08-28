@@ -880,3 +880,5 @@ Math-MatrixDecomposition-1.03           68556
 yesssSMS-2.00                           94419
 Test-Modern-0.010                       Two Test::More dev releases brought sour rain on the green
 App-Standby-0.04                        98344
+Pinto-0.09995                           https://github.com/thaljef/Pinto/issues/167
+CGI-Emulate-PSGI-0.18                   https://github.com/tokuhirom/p5-cgi-emulate-psgi/issues/8
