@@ -882,3 +882,4 @@ Test-Modern-0.010                       Two Test::More dev releases brought sour
 App-Standby-0.04                        98344
 Pinto-0.09995                           https://github.com/thaljef/Pinto/issues/167
 CGI-Emulate-PSGI-0.18                   https://github.com/tokuhirom/p5-cgi-emulate-psgi/issues/8
+Amon2-Lite-0.12                         https://github.com/tokuhirom/Amon2-Lite/issues/6
