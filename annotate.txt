@@ -887,3 +887,5 @@ Selenium-PageObject-0.007               98410
 Crypt-Fernet-0.02                       98418
 Test-Group-0.19                         98422
 Sub-Mutate-0.005                        95649
+CPAN-Mini-Tested-0.23                   98445
+namespace-alias-0.02                    95228
