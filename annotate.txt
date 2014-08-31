@@ -896,3 +896,6 @@ Time-HiRes-Sleep-Until-0.05             timing-related test failure
 App-Env-0.26                            95944
 CPAN-Common-Index-0.004                 https://github.com/dagolden/CPAN-Common-Index/issues/10
 DBIx-MyParsePP-0.50                     98472
+Distribution-Cooker-1.01                98445
+HTML-WikiConverter-0.68                 92554
+perl5i-v2.13.0                          https://github.com/evalEmpire/perl5i/issues/279
