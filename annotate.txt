@@ -891,3 +891,8 @@ CPAN-Mini-Tested-0.23                   98445
 namespace-alias-0.02                    95228
 Config-Trivial-Storable-0.32            95343
 Net-GNUDBSearch-1.0                     Service Temporarily Unavailable
+PDL-Stats-0.6.5                         96742
+Time-HiRes-Sleep-Until-0.05             timing-related test failure
+App-Env-0.26                            95944
+CPAN-Common-Index-0.004                 https://github.com/dagolden/CPAN-Common-Index/issues/10
+DBIx-MyParsePP-0.50                     98472
