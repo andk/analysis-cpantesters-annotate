@@ -890,3 +890,4 @@ Sub-Mutate-0.005                        95649
 CPAN-Mini-Tested-0.23                   98445
 namespace-alias-0.02                    95228
 Config-Trivial-Storable-0.32            95343
+Net-GNUDBSearch-1.0                     Service Temporarily Unavailable
