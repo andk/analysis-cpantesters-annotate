@@ -900,3 +900,4 @@ Distribution-Cooker-1.01                98445
 HTML-WikiConverter-0.68                 92554
 perl5i-v2.13.0                          https://github.com/evalEmpire/perl5i/issues/279
 Netscape-Bookmarks-1.95                 98445
+CHI-Driver-DBI-1.26                     98556
