@@ -908,3 +908,5 @@ Music-Canon-2.00                        98626
 App-Cmd-Starter-0.02                    98627
 SOAP-WSDL-v3.001                        98628
 USPS-RateRequest-0.0100                 https://github.com/rizen/USPS-RateRequest/issues/1
+Acme-TLDR-0.004                         https://github.com/creaktive/Acme-TLDR/issues/3
+AnyEvent-Delay-0.01                     95245
