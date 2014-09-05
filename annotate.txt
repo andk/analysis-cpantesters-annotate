@@ -904,3 +904,4 @@ CHI-Driver-DBI-1.26                     98556
 Finance-Bank-Postbank_de-0.34           98558
 Template-Semantic-0.09                  https://github.com/tomill/Template-Semantic/issues/10
 IO-Iron-0.10                            98625
+Music-Canon-2.00                        98626
