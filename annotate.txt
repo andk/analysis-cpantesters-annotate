@@ -906,3 +906,5 @@ Template-Semantic-0.09                  https://github.com/tomill/Template-Seman
 IO-Iron-0.10                            98625
 Music-Canon-2.00                        98626
 App-Cmd-Starter-0.02                    98627
+SOAP-WSDL-v3.001                        98628
+USPS-RateRequest-0.0100                 https://github.com/rizen/USPS-RateRequest/issues/1
