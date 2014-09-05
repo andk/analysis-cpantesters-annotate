@@ -905,3 +905,4 @@ Finance-Bank-Postbank_de-0.34           98558
 Template-Semantic-0.09                  https://github.com/tomill/Template-Semantic/issues/10
 IO-Iron-0.10                            98625
 Music-Canon-2.00                        98626
+App-Cmd-Starter-0.02                    98627
