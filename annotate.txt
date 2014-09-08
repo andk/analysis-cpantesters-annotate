@@ -916,3 +916,4 @@ Test-CheckChanges-0.14                  98689
 Color-Scheme-1.06                       https://rt.perl.org/Ticket/Display.html?id=122730
 Data-Alias-1.18                         https://rt.perl.org/Ticket/Display.html?id=122731
 Variable-Magic-0.53                     98525
+Color-Calc-1.073                        https://rt.perl.org/Ticket/Display.html?id=122688
