@@ -911,3 +911,4 @@ USPS-RateRequest-0.0100                 https://github.com/rizen/USPS-RateReques
 Acme-TLDR-0.004                         https://github.com/creaktive/Acme-TLDR/issues/3
 AnyEvent-Delay-0.01                     95245
 Mojolicious-Plugin-SecureCORS-1.0.1     98633
+Acme-Time-Constant-0.001003             https://github.com/kentnl/Acme-Time-Constant/issues/1
