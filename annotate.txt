@@ -919,3 +919,14 @@ Variable-Magic-0.53                     98525
 Color-Calc-1.073                        https://rt.perl.org/Ticket/Display.html?id=122688
 Net-IDN-Encode-2.201                    https://rt.perl.org/rt3/Ticket/Display.html?id=122179
 CGI-Emulate-PSGI-0.19                   https://github.com/tokuhirom/p5-cgi-emulate-psgi/issues/11
+Audio-FindChunks-2.00                   95272
+App-Math-Tutor-0.004                    98704
+Devel-SawAmpersand-0.33                 95560
+pmcheck-v1.1.11                         98445
+String-Interpolate-0.3                  95320
+re-engine-Oniguruma-0.05                95145
+String-Slice-0.01                       95093
+Sub-Metadata-0.000                      98705
+HTTP-Cookies-Mozilla-2.03               98445
+Module-UseFrom-0.03                     98445
+Module-UseFrom-0.03_001                 98445
