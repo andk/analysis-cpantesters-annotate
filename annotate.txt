@@ -930,3 +930,4 @@ Sub-Metadata-0.000                      98705
 HTTP-Cookies-Mozilla-2.03               98445
 Module-UseFrom-0.03                     98445
 Module-UseFrom-0.03_001                 98445
+WWW-Coursera-0.08                       95237
