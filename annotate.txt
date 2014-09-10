@@ -931,3 +931,12 @@ HTTP-Cookies-Mozilla-2.03               98445
 Module-UseFrom-0.03                     98445
 Module-UseFrom-0.03_001                 98445
 WWW-Coursera-0.08                       95237
+App-JobLog-1.032                        95737
+Async-ResourcePool-v0.1.3               95242
+Devel-PeekPoke-0.04                     98745
+DSL-Tiny-0.001                          https://github.com/hartzell/dsl-tiny/issues/1
+Lexical-SingleAssignment-0.01           95297
+JavaScript-Dumper-0.011                 95230
+List-Gather-0.08                        95283
+Mojolicious-Command-listdeps-0.06       98445
+OOPS-0.2005                             95561
