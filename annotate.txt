@@ -942,3 +942,4 @@ Mojolicious-Command-listdeps-0.06       98445
 OOPS-0.2005                             95561
 libxml-enno-1.02                        from the year 2000 and newer version 1.05 untested because backpan only
 WebService-Heartrails-Express-0.01      probably temporary network/webservice problem
+Hook-LexWrap-0.24                       https://rt.perl.org/Ticket/Display.html?id=122757
