@@ -914,7 +914,7 @@ Mojolicious-Plugin-SecureCORS-1.0.1     98633
 Acme-Time-Constant-0.001003             https://github.com/kentnl/Acme-Time-Constant/issues/1
 Test-CheckChanges-0.14                  98689
 Color-Scheme-1.06                       https://rt.perl.org/Ticket/Display.html?id=122730
-Data-Alias-1.18                         https://rt.perl.org/Ticket/Display.html?id=122731
+Data-Alias-1.18                         98758,https://rt.perl.org/Ticket/Display.html?id=122731
 Variable-Magic-0.53                     98525
 Color-Calc-1.073                        https://rt.perl.org/Ticket/Display.html?id=122688
 Net-IDN-Encode-2.201                    https://rt.perl.org/rt3/Ticket/Display.html?id=122179
