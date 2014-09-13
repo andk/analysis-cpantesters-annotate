@@ -311,7 +311,7 @@ Net-Fluidinfo-0.45                      76547
 Math-Geometry-Planar-Offset-1.05        42045
 Data-Validate-0.08                      63213
 nextgen-0.06                            https://rt.perl.org:443/rt3/Ticket/Display.html?id=112444
-Lingua-FR-Numbers-0.04                  too old for analysis?
+Lingua-FR-Numbers-0.04                  98817
 Text-KnuthPlass-1.02                    76548
 WWW-Class-0.03                          removed from cpan
 UNIVERSAL-Acme-0.01                     Test::More at https://github.com/schwern/test-more/issues/280
@@ -943,3 +943,10 @@ OOPS-0.2005                             95561
 libxml-enno-1.02                        from the year 2000 and newer version 1.05 untested because backpan only
 WebService-Heartrails-Express-0.01      probably temporary network/webservice problem
 Hook-LexWrap-0.24                       https://rt.perl.org/Ticket/Display.html?id=122757
+WebService-Heartrails-Express-0.01      probably temporary network/webservice problem
+App-cpantested-0.003                    https://github.com/creaktive/App-cpantested/issues/2
+Bio-FdrFet-0.04                         98838
+DBIx-TextIndex-0.28                     98839
+Dist-Zilla-Plugin-Alien-0.011           98840
+Dist-Zilla-Plugin-OnlyCorePrereqs-0.017 98841
+HTTP-Headers-ActionPack-0.09            98843
