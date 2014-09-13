@@ -950,3 +950,4 @@ DBIx-TextIndex-0.28                     98839
 Dist-Zilla-Plugin-Alien-0.011           98840
 Dist-Zilla-Plugin-OnlyCorePrereqs-0.017 98841
 HTTP-Headers-ActionPack-0.09            98843
+OOTools-2.3                             98859
