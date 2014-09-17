@@ -817,7 +817,6 @@ Mojolicious-Command-generate-upstart-0.02 96803
 Mojolicious-Plugin-ConsoleLogger-0.05   96804
 HTML-Data-Parser-0.006                  96807
 Test-Base-0.62                          https://github.com/ingydotnet/spiffy-pm/issues/3
-AWS-Signature4-1.00                     96866
 Acme-Damn-0.05                          96872
 WebService-HtmlKitCom-FavIconFromImage-0.003 92739
 Plack-Middleware-DebugLogging-0.001004  https://github.com/mattp-/Plack-Middleware-DebugLogging/issues/1
@@ -953,3 +952,4 @@ OOTools-2.3                             98859
 Text-StemTagPOS-0.61                    98869
 SQL-Translator-0.11020                  98027
 System-Daemon-0.11                      98917
+AWS-Signature4-1.01                     96866
