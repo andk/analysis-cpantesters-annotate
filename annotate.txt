@@ -954,3 +954,4 @@ SQL-Translator-0.11020                  98027
 System-Daemon-0.11                      98917
 AWS-Signature4-1.01                     96866
 Scope-Upper-0.24                        https://rt.perl.org/rt3/Ticket/Display.html?id=122799
+Future-0.29                             https://rt.perl.org/rt3/Ticket/Display.html?id=122735
