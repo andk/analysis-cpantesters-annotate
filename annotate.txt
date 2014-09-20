@@ -955,3 +955,5 @@ System-Daemon-0.11                      98917
 AWS-Signature4-1.01                     96866
 Scope-Upper-0.24                        https://rt.perl.org/rt3/Ticket/Display.html?id=122799
 Future-0.29                             https://rt.perl.org/rt3/Ticket/Display.html?id=122735
+WebService-KoreanSpeller-0.011          https://github.com/aero/WebService-KoreanSpeller/issues/2
+ConfigReader-Simple-1.29                98445,https://rt.perl.org/Ticket/Display.html?id=122670
