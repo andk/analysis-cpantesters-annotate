@@ -965,3 +965,5 @@ WWW-Weather-Yahoo-0.07                  probably temporary network/webservice pr
 Method-Signatures-20140920.1910_001     probably loaded system
 Test-Class-0.46                         https://github.com/Test-More/test-more/issues/445
 YAML-LibYAML-0.52                       https://github.com/Test-More/test-more/issues/446
+Carp-Assert-0.21                        https://github.com/Test-More/test-more/issues/447
+WWW-Shorten-3.06                        https://rt.cpan.org/Ticket/Display.html?id=88052
