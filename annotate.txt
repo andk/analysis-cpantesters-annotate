@@ -962,3 +962,6 @@ Devel-PartialDump-0.17                  https://github.com/Test-More/test-more/i
 Text-Truncate-1.06                      98445
 Test-ISBN-2.02                          98445
 WWW-Weather-Yahoo-0.07                  probably temporary network/webservice problem
+Method-Signatures-20140920.1910_001     probably loaded system
+Test-Class-0.46                         https://github.com/Test-More/test-more/issues/445
+YAML-LibYAML-0.52                       https://github.com/Test-More/test-more/issues/446
