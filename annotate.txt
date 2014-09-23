@@ -967,3 +967,4 @@ Test-Class-0.46                         https://github.com/Test-More/test-more/i
 YAML-LibYAML-0.52                       https://github.com/Test-More/test-more/issues/446
 Carp-Assert-0.21                        https://github.com/Test-More/test-more/issues/447
 WWW-Shorten-3.06                        https://rt.cpan.org/Ticket/Display.html?id=88052
+Business-ISBN-2.09                      https://github.com/Test-More/test-more/issues/448
