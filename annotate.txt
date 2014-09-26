@@ -915,7 +915,7 @@ Test-CheckChanges-0.14                  98689
 Color-Scheme-1.06                       https://rt.perl.org/Ticket/Display.html?id=122730
 Data-Alias-1.18                         98758,https://rt.perl.org/Ticket/Display.html?id=122731
 Variable-Magic-0.53                     98525
-Color-Calc-1.073                        https://rt.perl.org/Ticket/Display.html?id=122688
+Color-Calc-1.073                        99150,https://rt.perl.org/Ticket/Display.html?id=122688
 Net-IDN-Encode-2.201                    https://rt.perl.org/rt3/Ticket/Display.html?id=122179
 CGI-Emulate-PSGI-0.19                   https://github.com/tokuhirom/p5-cgi-emulate-psgi/issues/11
 Audio-FindChunks-2.00                   95272
@@ -974,3 +974,4 @@ Data-Util-0.63                          99102,https://rt.perl.org/rt3/Ticket/Dis
 Scalar-Util-Numeric-0.22                https://rt.perl.org/rt3/Ticket/Display.html?id=122843
 Test-Regression-0.07                    https://rt.perl.org/rt3/Ticket/Display.html?id=122845
 Parse-Keyword-0.08                      deprecated according to manpage
+Parse-ErrorString-Perl-0.21             https://github.com/PadreIDE/Parse-ErrorString-Perl/issues/1
