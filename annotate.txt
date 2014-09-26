@@ -970,3 +970,4 @@ WWW-Shorten-3.06                        https://rt.cpan.org/Ticket/Display.html?
 Business-ISBN-2.09                      https://github.com/Test-More/test-more/issues/448
 Test-Synopsis-0.10                      https://rt.perl.org/Ticket/Display.html?id=122814
 Net-Gitlab-0.04                         https://github.com/harleypig/Net-Gitlab/issues/3
+Data-Util-0.63                          99102,https://rt.perl.org/rt3/Ticket/Display.html?id=122834
