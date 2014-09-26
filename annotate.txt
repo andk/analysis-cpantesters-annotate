@@ -973,3 +973,4 @@ Net-Gitlab-0.04                         https://github.com/harleypig/Net-Gitlab/
 Data-Util-0.63                          99102,https://rt.perl.org/rt3/Ticket/Display.html?id=122834
 Scalar-Util-Numeric-0.22                https://rt.perl.org/rt3/Ticket/Display.html?id=122843
 Test-Regression-0.07                    https://rt.perl.org/rt3/Ticket/Display.html?id=122845
+Parse-Keyword-0.08                      deprecated according to manpage
