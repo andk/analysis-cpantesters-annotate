@@ -980,3 +980,4 @@ B-Lint-1.17                             https://rt.perl.org/rt3/Ticket/Display.h
 B-RecDeparse-0.08                       https://rt.perl.org/rt3/Ticket/Display.html?id=122799
 perl5i-v2.13.0                          https://github.com/evalEmpire/perl5i/issues/279
 Module-CPANTS-Analyse-0.95              Module::Pluggable needs to be installed from CPAN
+Net-Netmask-1.9021                      https://rt.perl.org/Ticket/Display.html?id=122730
