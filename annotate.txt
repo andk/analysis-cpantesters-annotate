@@ -977,3 +977,4 @@ Parse-Keyword-0.08                      deprecated according to manpage
 Parse-ErrorString-Perl-0.21             https://github.com/PadreIDE/Parse-ErrorString-Perl/issues/1
 Image-PNG-FileConvert-0.08              https://rt.perl.org/rt3/Ticket/Display.html?id=122855
 B-Lint-1.17                             https://rt.perl.org/rt3/Ticket/Display.html?id=122857
+B-RecDeparse-0.08                       https://rt.perl.org/rt3/Ticket/Display.html?id=122799
