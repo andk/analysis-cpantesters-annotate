@@ -986,3 +986,4 @@ constant-1.27                           working 1.32 exists in 5.21.4, but not o
 Attribute-Handlers-0.96                 working 0.97 exists in 5.21.4, but not on CPAN yet
 constant-tiny-1.01                      https://rt.cpan.org/Ticket/Display.html?id=99169
 Applify-0.08                            https://github.com/jhthorsen/applify/issues/1
+App-Sqitch-0.996                        https://github.com/theory/sqitch/issues/184
