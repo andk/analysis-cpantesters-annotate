@@ -988,3 +988,4 @@ constant-tiny-1.01                      https://rt.cpan.org/Ticket/Display.html?
 Applify-0.08                            https://github.com/jhthorsen/applify/issues/1
 App-Sqitch-0.996                        https://github.com/theory/sqitch/issues/184
 HTML-Strip-1.07                         99151
+Box-Calc-1.0000                         https://github.com/rizen/Box-Calc/issues/5
