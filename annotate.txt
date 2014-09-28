@@ -976,7 +976,7 @@ Test-Regression-0.07                    https://rt.perl.org/rt3/Ticket/Display.h
 Parse-Keyword-0.08                      deprecated according to manpage
 Parse-ErrorString-Perl-0.21             https://github.com/PadreIDE/Parse-ErrorString-Perl/issues/1
 Image-PNG-FileConvert-0.08              https://rt.perl.org/rt3/Ticket/Display.html?id=122855
-B-Lint-1.17                             https://rt.perl.org/rt3/Ticket/Display.html?id=122857
+B-Lint-1.17                             99194,https://rt.perl.org/rt3/Ticket/Display.html?id=122857
 B-RecDeparse-0.08                       99177,https://rt.perl.org/rt3/Ticket/Display.html?id=122799
 perl5i-v2.13.0                          https://github.com/evalEmpire/perl5i/issues/279
 Module-CPANTS-Analyse-0.95              Module::Pluggable needs to be installed from CPAN
@@ -985,7 +985,7 @@ App-MusicTools-1.17                     99168
 constant-1.27                           working 1.32 exists in 5.21.4, but not on CPAN yet
 Attribute-Handlers-0.96                 working 0.97 exists in 5.21.4, but not on CPAN yet
 constant-tiny-1.01                      https://rt.cpan.org/Ticket/Display.html?id=99169
-Applify-0.08                            https://github.com/jhthorsen/applify/issues/1
+Applify-0.08                            99186,https://github.com/jhthorsen/applify/issues/1
 App-Sqitch-0.996                        https://github.com/theory/sqitch/issues/184
 HTML-Strip-1.07                         99151
 Box-Calc-1.0000                         https://github.com/rizen/Box-Calc/issues/5
