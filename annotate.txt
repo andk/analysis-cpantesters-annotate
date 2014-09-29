@@ -989,3 +989,4 @@ Applify-0.08                            99186,https://github.com/jhthorsen/appli
 App-Sqitch-0.996                        https://github.com/theory/sqitch/issues/184
 HTML-Strip-1.07                         99151
 Box-Calc-1.0000                         https://github.com/rizen/Box-Calc/issues/5
+Spreadsheet-WriteExcel-2.40             test suite not robust against shuffling or parallel testing
