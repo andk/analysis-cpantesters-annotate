@@ -947,7 +947,6 @@ Bio-FdrFet-0.04                         98838
 DBIx-TextIndex-0.28                     98839
 Dist-Zilla-Plugin-Alien-0.011           98840
 Dist-Zilla-Plugin-OnlyCorePrereqs-0.017 98841
-HTTP-Headers-ActionPack-0.09            98843
 OOTools-2.3                             98859
 Text-StemTagPOS-0.61                    98869
 SQL-Translator-0.11020                  98027
@@ -993,3 +992,4 @@ Spreadsheet-WriteExcel-2.40             test suite not robust against shuffling 
 Class-Method-ModifiersX-Override-0.002  99222
 MooseX-Enumeration-0.005                99223
 MooseX-ErsatzMethod-0.004               99224
+HTTP-Headers-ActionPack-0.09            98843
