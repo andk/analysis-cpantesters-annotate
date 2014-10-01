@@ -993,3 +993,4 @@ Class-Method-ModifiersX-Override-0.002  99222
 MooseX-Enumeration-0.005                99223
 MooseX-ErsatzMethod-0.004               99224
 HTTP-Headers-ActionPack-0.09            98843
+CGI-Alert-2.08                          99244
