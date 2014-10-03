@@ -996,3 +996,4 @@ HTTP-Headers-ActionPack-0.09            98843
 CGI-Alert-2.08                          99244
 Devel-Cover-1.17                        https://rt.perl.org/Ticket/Display.html?id=122874
 Data-Dump-Streamer-2.38                 https://rt.perl.org/Ticket/Display.html?id=122870
+Catalyst-Engine-PSGI-0.13               98874
