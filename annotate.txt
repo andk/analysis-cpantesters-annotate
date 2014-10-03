@@ -897,7 +897,6 @@ CPAN-Common-Index-0.004                 https://github.com/dagolden/CPAN-Common-
 DBIx-MyParsePP-0.50                     98472
 Distribution-Cooker-1.01                98445
 HTML-WikiConverter-0.68                 92554
-perl5i-v2.13.0                          https://github.com/evalEmpire/perl5i/issues/279
 Netscape-Bookmarks-1.95                 98445
 CHI-Driver-DBI-1.26                     98556
 Finance-Bank-Postbank_de-0.34           98558
@@ -977,7 +976,6 @@ Parse-ErrorString-Perl-0.21             https://github.com/PadreIDE/Parse-ErrorS
 Image-PNG-FileConvert-0.08              https://rt.perl.org/rt3/Ticket/Display.html?id=122855
 B-Lint-1.17                             99194,https://rt.perl.org/rt3/Ticket/Display.html?id=122857
 B-RecDeparse-0.08                       99177,https://rt.perl.org/rt3/Ticket/Display.html?id=122799
-perl5i-v2.13.0                          https://github.com/evalEmpire/perl5i/issues/279
 Module-CPANTS-Analyse-0.95              Module::Pluggable needs to be installed from CPAN
 Net-Netmask-1.9021                      99184,https://rt.perl.org/Ticket/Display.html?id=122730
 App-MusicTools-1.17                     99168
@@ -1000,3 +998,5 @@ Catalyst-Engine-PSGI-0.13               98874
 LWP-Simple-REST-0.001                   99285
 Dist-Inkt-Profile-TOBYINK-0.023         99286
 Regexp-Grammars-1.036                   https://rt.perl.org/rt3/Ticket/Display.html?id=122890
+perl5i-v2.13.0                          https://github.com/evalEmpire/perl5i/issues/279
+perl5i-v2.12.0                          newer release: perl5i-v2.13.0
