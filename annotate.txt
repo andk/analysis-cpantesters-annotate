@@ -1000,3 +1000,5 @@ Dist-Inkt-Profile-TOBYINK-0.023         99286
 Regexp-Grammars-1.036                   https://rt.perl.org/rt3/Ticket/Display.html?id=122890
 perl5i-v2.13.0                          https://github.com/evalEmpire/perl5i/issues/279
 perl5i-v2.12.0                          newer release: perl5i-v2.13.0
+Class-Accessor-Lazy-0.35                99304
+Imager-1.000                            98234
