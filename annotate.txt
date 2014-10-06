@@ -1004,3 +1004,4 @@ Class-Accessor-Lazy-0.35                99304
 Imager-1.000                            98234
 Geo-CEP-1.0                             https://github.com/creaktive/Geo-CEP/issues/3
 OAuth-Lite-1.32                         92490
+Compiler-Parser-0.09                    https://github.com/goccy/p5-Compiler-Parser/issues/16
