@@ -1003,3 +1003,4 @@ perl5i-v2.12.0                          newer release: perl5i-v2.13.0
 Class-Accessor-Lazy-0.35                99304
 Imager-1.000                            98234
 Geo-CEP-1.0                             https://github.com/creaktive/Geo-CEP/issues/3
+OAuth-Lite-1.32                         92490
