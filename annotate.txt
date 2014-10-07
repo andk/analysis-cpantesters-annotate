@@ -1008,3 +1008,4 @@ Compiler-Parser-0.09                    https://github.com/goccy/p5-Compiler-Par
 HTML-Form-XSS-0.33                      99335
 EZID-0.01                               99336
 Dist-Zilla-Plugin-ReleaseOnlyWithLatest-0.003 99338
+HTTP-Throwable-0.019                    https://github.com/rjbs/HTTP-Throwable/issues/6
