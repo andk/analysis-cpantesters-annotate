@@ -915,6 +915,7 @@ Color-Scheme-1.06                       https://rt.perl.org/Ticket/Display.html?
 Data-Alias-1.18                         98758,https://rt.perl.org/Ticket/Display.html?id=122731
 Variable-Magic-0.53                     98525
 Color-Calc-1.073                        99150,https://rt.perl.org/Ticket/Display.html?id=122688
+Gtk2-Ex-NumAxis-5                       https://rt.perl.org/Ticket/Display.html?id=122688
 Net-IDN-Encode-2.201                    https://rt.perl.org/rt3/Ticket/Display.html?id=122179
 CGI-Emulate-PSGI-0.19                   https://github.com/tokuhirom/p5-cgi-emulate-psgi/issues/11
 Audio-FindChunks-2.00                   95272
