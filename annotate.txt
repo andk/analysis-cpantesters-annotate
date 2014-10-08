@@ -1016,3 +1016,4 @@ Module-Info-0.35                        https://rt.perl.org/rt3/Ticket/Display.h
 Script-Toolbox-0.45                     99360
 EBook-Tools-v0.5.4                      99269
 Dancer-Plugin-Controller-0.153          https://github.com/PerlDancer/Dancer/issues/1080
+MooX-Role-Validatable-0.03              https://github.com/binary-com/perl-MooX-Role-Validatable/issues/1
