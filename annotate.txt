@@ -1014,3 +1014,4 @@ tntcompat-0.3                           https://github.com/tarantool/compat-flow
 Task-MusicBundle-0.05                   99355
 Module-Info-0.35                        https://rt.perl.org/rt3/Ticket/Display.html?id=122251
 Script-Toolbox-0.45                     99360
+EBook-Tools-v0.5.4                      99269
