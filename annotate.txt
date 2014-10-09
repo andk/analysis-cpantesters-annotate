@@ -1019,3 +1019,4 @@ Dancer-Plugin-Controller-0.153          https://github.com/PerlDancer/Dancer/iss
 MooX-Role-Validatable-0.03              https://github.com/binary-com/perl-MooX-Role-Validatable/issues/1
 Notes-0.001                             99368
 Rex-JobControl-0.18.0                   99391
+Mustache-Simple-v1.3.1                  https://rt.perl.org/rt3/Ticket/Display.html?id=122843
