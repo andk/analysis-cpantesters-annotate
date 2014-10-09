@@ -1018,3 +1018,4 @@ EBook-Tools-v0.5.4                      99269
 Dancer-Plugin-Controller-0.153          https://github.com/PerlDancer/Dancer/issues/1080
 MooX-Role-Validatable-0.03              https://github.com/binary-com/perl-MooX-Role-Validatable/issues/1
 Notes-0.001                             99368
+Rex-JobControl-0.18.0                   99391
