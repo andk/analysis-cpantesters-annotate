@@ -1021,3 +1021,4 @@ Notes-0.001                             99368
 Rex-JobControl-0.18.0                   99391
 Mustache-Simple-v1.3.1                  https://rt.perl.org/rt3/Ticket/Display.html?id=122843
 CGI-Fast-2.03                           https://github.com/leejo/cgi-fast/issues/7
+Net-SMTP-SSL-1.01                       99454
