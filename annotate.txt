@@ -1025,3 +1025,4 @@ Net-SMTP-SSL-1.01                       99454
 Language-GolfScript-0.04                https://rt.perl.org/rt3/Ticket/Display.html?id=122865
 Devel-Todo-Find-1.013                   99500
 Catalyst-Plugin-AutoCRUD-2.142820       98448
+MS2-Parser-0.06                         99538
