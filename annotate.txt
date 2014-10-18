@@ -1028,3 +1028,4 @@ Catalyst-Plugin-AutoCRUD-2.142820       98448
 MS2-Parser-0.06                         99538
 Catalyst-Plugin-Session-Store-CHI-CHI-0.001_001 undeclared dependencies, no RT queue yet
 Data-Localize-0.00026                   https://github.com/lestrrat/Data-Localize/issues/5,https://github.com/lestrrat/Data-Localize/issues/6
+boolean-0.42                            https://github.com/ingydotnet/boolean-pm/issues/5
