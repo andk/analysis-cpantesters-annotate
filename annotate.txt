@@ -1031,3 +1031,4 @@ Data-Localize-0.00026                   https://github.com/lestrrat/Data-Localiz
 boolean-0.42                            https://github.com/ingydotnet/boolean-pm/issues/5
 Rstats-0.0109                           99579
 JE-0.065                                https://rt.perl.org/rt3/Ticket/Display.html?id=122890
+Dancer-1.3130                           https://github.com/PerlDancer/Dancer/issues/1073
