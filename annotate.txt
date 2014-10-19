@@ -1032,3 +1032,4 @@ boolean-0.42                            https://github.com/ingydotnet/boolean-pm
 Rstats-0.0109                           99579
 JE-0.065                                https://rt.perl.org/rt3/Ticket/Display.html?id=122890
 Dancer-1.3130                           https://github.com/PerlDancer/Dancer/issues/1073
+Dancer-1.3131_1                         https://github.com/PerlDancer/Dancer/issues/1073
