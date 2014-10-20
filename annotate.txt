@@ -1035,3 +1035,4 @@ Dancer-1.3130                           https://github.com/PerlDancer/Dancer/iss
 Dancer-1.3131_1                         https://github.com/PerlDancer/Dancer/issues/1073
 Symbol-Glob-0.03                        99590
 ByteBeat-0.0.4                          https://github.com/ingydotnet/bytebeat-pm/issues/3
+UR-0.43                                 https://rt.perl.org/rt3/Ticket/Display.html?id=122159
