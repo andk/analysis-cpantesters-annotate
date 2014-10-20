@@ -1034,3 +1034,4 @@ JE-0.065                                https://rt.perl.org/rt3/Ticket/Display.h
 Dancer-1.3130                           https://github.com/PerlDancer/Dancer/issues/1073
 Dancer-1.3131_1                         https://github.com/PerlDancer/Dancer/issues/1073
 Symbol-Glob-0.03                        99590
+ByteBeat-0.0.4                          https://github.com/ingydotnet/bytebeat-pm/issues/3
