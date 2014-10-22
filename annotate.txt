@@ -1037,3 +1037,4 @@ Symbol-Glob-0.03                        99590
 ByteBeat-0.0.4                          https://github.com/ingydotnet/bytebeat-pm/issues/3
 UR-0.43                                 https://rt.perl.org/rt3/Ticket/Display.html?id=122159,https://github.com/genome/UR/issues/40
 Test-Class-0.47                         Cpantester's screwup, already reported on the mailinglist
+B-Lint-1.18                             https://rt.perl.org/rt3/Ticket/Display.html?id=122909
