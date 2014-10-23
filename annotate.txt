@@ -631,7 +631,6 @@ Sub-Trigger-Lock-0.001                  https://rt.perl.org/rt3/Ticket/Display.h
 SQLite-Work-0.14                        70416
 Git-0.03                                92422
 CatalystX-ExtJS-Direct-2.1.5            92466
-Algorithm-KMeans-1.40                   92551
 CHI-Driver-Memcached-0.15               89606
 Geo-Coder-Cloudmade-0.7                 88469
 Tk-804.032                              https://rt.perl.org/Public/Bug/Display.html?id=120626
@@ -1038,3 +1037,4 @@ ByteBeat-0.0.4                          https://github.com/ingydotnet/bytebeat-p
 UR-0.43                                 https://rt.perl.org/rt3/Ticket/Display.html?id=122159,https://github.com/genome/UR/issues/40
 Test-Class-0.47                         Cpantester's screwup, already reported on the mailinglist
 B-Lint-1.18                             https://rt.perl.org/rt3/Ticket/Display.html?id=122909
+Algorithm-KMeans-2.02                   92551
