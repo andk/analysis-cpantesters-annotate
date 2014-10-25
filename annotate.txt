@@ -1042,3 +1042,4 @@ YAML-Diff-0.0.2                         https://github.com/ingydotnet/yaml-diff-
 Module-Install-1.12                     99795
 experimental-0.012                      https://rt.perl.org/rt3/Ticket/Display.html?id=123050
 Params-Lazy-0.005                       https://rt.perl.org/rt3/Ticket/Display.html?id=123052
+Math-Shape-Vector-0.14                  99799
