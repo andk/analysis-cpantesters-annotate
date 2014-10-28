@@ -1046,3 +1046,4 @@ Text-Xslate-3.3.3                       https://rt.perl.org/rt3/Ticket/Display.h
 Devel-Size-0.79                         95493
 CGI-Alert-2.09                          99806
 Dancer-1.3132                           https://github.com/PerlDancer/Dancer/issues/1073
+Bot-Training-0.04                       https://rt.perl.org/rt3/Ticket/Display.html?id=123057
