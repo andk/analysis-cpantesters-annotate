@@ -1050,3 +1050,4 @@ Bot-Training-0.04                       https://rt.perl.org/rt3/Ticket/Display.h
 Flv-Info-Lite-0.03                      99873
 Apache-EmbeddedPerl-Lite-0.06           99012
 App-Basis-ConvertText2-0.4              99874
+Dancer2-0.153000                        https://github.com/PerlDancer/Dancer2/issues/736
