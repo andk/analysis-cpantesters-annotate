@@ -1051,3 +1051,8 @@ Flv-Info-Lite-0.03                      99873
 Apache-EmbeddedPerl-Lite-0.06           99012
 App-Basis-ConvertText2-0.4              99874
 Dancer2-0.153000                        https://github.com/PerlDancer/Dancer2/issues/736
+AnyData-0.11                            99916
+App-perlminlint-0.21                    99917
+CSS-Selector-Grammar-0.002              99919
+File-Where-0.05                         99920
+HTML-Template-2.95                      98029
