@@ -481,7 +481,6 @@ Business-CPI-Gateway-MercadoPago-0.102  84702
 Class-Injection-1.09                    81624
 DBIx-Class-Result-ColumnData-0.15       84928
 Dancer-Plugin-SporeDefinitionControl-0.13 84948
-App-Goto-0.07                           was only a temporary bleadperl 5.17 problem
 Catalyst-Controller-ElasticSearch-0.1.0 84962
 autobox-JSON-0.0004                     81654
 Class-Lite-v0.1.0                       85039
@@ -1057,3 +1056,7 @@ File-Where-0.05                         99920
 HTML-Template-2.95                      98029
 Module-Info-0.35                        https://rt.perl.org/rt3/Ticket/Display.html?id=122251
 Log-Deep-v0.3.3                         https://rt.perl.org/rt3/Ticket/Display.html?id=122251
+Proc-Swarm-1.133280                     https://github.com/dana/perl-Proc-Swarm/issues/1
+App-Git-Workflow-0.13                   https://github.com/ivanwills/git-workflow-tools/issues/3
+App-Goto-0.07                           https://github.com/oneandoneis2/App-Goto/issues/1
+Capture-Tiny-0.25                       https://github.com/dagolden/Capture-Tiny/issues/24
