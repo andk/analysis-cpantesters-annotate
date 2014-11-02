@@ -1066,3 +1066,4 @@ Test-Spec-0.47                          https://github.com/Test-More/test-more/i
 Number-Format-1.73                      97607
 SUPER-1.20120705                        https://github.com/Test-More/test-more/issues/476
 Class-Data-ConfigHash-0.00002           https://github.com/Test-More/test-more/issues/475
+Test-Aggregate-0.371                    https://github.com/Test-More/test-more/issues/477
