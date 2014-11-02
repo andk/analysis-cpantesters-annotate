@@ -1063,3 +1063,4 @@ Capture-Tiny-0.25                       https://github.com/dagolden/Capture-Tiny
 getaddress-0.04                         99966
 LaTeXML-0.8.0                           99967
 Test-Spec-0.47                          https://github.com/Test-More/test-more/issues/474
+Number-Format-1.73                      97607
