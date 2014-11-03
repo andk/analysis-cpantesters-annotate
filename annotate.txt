@@ -1070,3 +1070,5 @@ Test-Aggregate-0.371                    https://github.com/Test-More/test-more/i
 Template-Plugin-Autoformat-2.75         99972
 Graphics-Color-0.29                     https://github.com/Test-More/test-more/issues/478
 Aspect-1.04                             https://github.com/Test-More/test-more/issues/474
+Test-Classy-0.09                        https://github.com/Test-More/test-more/issues/480
+Test-DBIx-Class-Schema-1.0.6            https://github.com/Test-More/test-more/issues/481
