@@ -1068,3 +1068,4 @@ SUPER-1.20120705                        https://github.com/Test-More/test-more/i
 Class-Data-ConfigHash-0.00002           https://github.com/Test-More/test-more/issues/475
 Test-Aggregate-0.371                    https://github.com/Test-More/test-more/issues/477
 Template-Plugin-Autoformat-2.75         99972
+Graphics-Color-0.29                     https://github.com/Test-More/test-more/issues/478
