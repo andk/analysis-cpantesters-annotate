@@ -1072,3 +1072,4 @@ Graphics-Color-0.29                     https://github.com/Test-More/test-more/i
 Aspect-1.04                             https://github.com/Test-More/test-more/issues/474
 Test-Classy-0.09                        https://github.com/Test-More/test-more/issues/480
 Test-DBIx-Class-Schema-1.0.6            https://github.com/Test-More/test-more/issues/481
+Validation-Class-7.900056               https://github.com/Test-More/test-more/issues/482
