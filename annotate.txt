@@ -1074,3 +1074,4 @@ Test-Classy-0.09                        https://github.com/Test-More/test-more/i
 Test-DBIx-Class-Schema-1.0.6            https://github.com/Test-More/test-more/issues/481
 Validation-Class-7.900056               https://github.com/Test-More/test-more/issues/482
 Data-Rx-0.200006                        https://github.com/Test-More/test-more/issues/483
+Test-Leaner-0.05                        https://github.com/Test-More/test-more/issues/484
