@@ -1080,3 +1080,4 @@ Test-Dist-VersionSync-v1.1.3            https://github.com/Test-More/test-more/i
 Acme-PrettyCure-0.1                     https://github.com/kan/p5-acme-prettycure/issues/5
 Acme-PrettyCure-0.02                    https://github.com/kan/p5-acme-prettycure/issues/5
 Acme-Study-Perl-0.0.2                   https://github.com/Test-More/test-more/issues/487
+Constant-Generate-0.16                  https://github.com/Test-More/test-more/issues/488
