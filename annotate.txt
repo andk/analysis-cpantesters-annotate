@@ -1084,3 +1084,4 @@ Constant-Generate-0.16                  https://github.com/Test-More/test-more/i
 Data-MessagePack-0.48                   100045
 Devel-NYTProf-5.06                      https://rt.perl.org/rt3/Ticket/Display.html?id=123134
 DBIx-Perlish-0.63                       https://rt.perl.org/rt3/Ticket/Display.html?id=122909
+Dist-Zooky-0.12                         100076
