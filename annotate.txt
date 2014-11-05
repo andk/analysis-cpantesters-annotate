@@ -1077,3 +1077,4 @@ Test-Leaner-0.05                        https://github.com/Test-More/test-more/i
 Test-FITesque-0.03                      https://github.com/Test-More/test-more/issues/485
 Parse-RPN-2.85                          88671
 Test-Dist-VersionSync-v1.1.3            https://github.com/Test-More/test-more/issues/486
+Acme-PrettyCure-0.1.3                   https://github.com/kan/p5-acme-prettycure/issues/5
