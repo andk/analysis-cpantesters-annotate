@@ -1087,4 +1087,5 @@ DBIx-Perlish-0.63                       https://rt.perl.org/rt3/Ticket/Display.h
 Dist-Zooky-0.12                         100076
 Encode-2.64                             100105
 File-Rsync-0.43                         38938
+File-Rsync-0.44                         38938 (this is about 0.43 but maybe also about 0.44?)
 Mail-MBX-0.01_0001                      Undeclared dependency on Test::Exception; no queue in RT
