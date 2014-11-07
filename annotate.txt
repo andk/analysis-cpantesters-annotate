@@ -1092,3 +1092,4 @@ Mojolicious-Plugin-JQuery-2.11001       https://github.com/dgikiller/mojolicious
 CGI-OptimalQuery-0.11                   95876
 JQuery-DataTables-Heavy-0.03            https://github.com/ywatase/JQuery-DataTables-Heavy/issues/1
 warnings-everywhere-0.007               https://rt.perl.org/rt3/Ticket/Display.html?id=122159
+List-Tuples-0.04.4                      95305
