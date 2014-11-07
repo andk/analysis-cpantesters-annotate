@@ -851,7 +851,6 @@ Test-Tarantool-0.03                     97581
 Crypt-CFB-0.02                          https://rt.perl.org/rt3/Ticket/Display.html?id=122432
 ConfigReader-Simple-1.28                https://rt.perl.org/rt3/Ticket/Display.html?id=122432
 CGI-Application-Plugin-SuperForm-0.5    https://rt.perl.org/rt3/Ticket/Display.html?id=122432
-CGI-OptimalQuery-0.10                   95876
 Time-Duration-Concise-Localize-1.3      97631
 Chef-REST-Client-1.2                    95948
 Runner-Init-1.0                         https://github.com/jerowe/Runner-Init/issues/1
@@ -1089,3 +1088,5 @@ Encode-2.64                             100105
 File-Rsync-0.43                         38938
 File-Rsync-0.44                         38938 (this is about 0.43 but maybe also about 0.44?)
 Mail-MBX-0.01_0001                      Undeclared dependency on Test::Exception; no queue in RT
+Mojolicious-Plugin-JQuery-2.11001       https://github.com/dgikiller/mojolicious-plugin-jquery/issues/6
+CGI-OptimalQuery-0.11                   95876
