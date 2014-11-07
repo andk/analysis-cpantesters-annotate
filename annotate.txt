@@ -1094,3 +1094,4 @@ JQuery-DataTables-Heavy-0.03            https://github.com/ywatase/JQuery-DataTa
 warnings-everywhere-0.007               https://rt.perl.org/rt3/Ticket/Display.html?id=122159
 List-Tuples-0.04.4                      95305
 Lexical-Types-0.13                      https://rt.perl.org/rt3/Ticket/Display.html?id=123149
+DBD-CSV-0.45                            100188
