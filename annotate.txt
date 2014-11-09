@@ -1108,3 +1108,7 @@ Teng-0.25                               https://github.com/nekokak/p5-Teng/issue
 Syccess-0.102                           100220
 subs-auto-0.08                          100221
 rss2leafnode-77                         Number-Format related problem (99970)
+DB_File-1.831                           96126
+PDL-NDBin-0.015                         100228
+NetHack-Item-0.21                       https://github.com/Test-More/test-more/issues/493
+Net-DNS-DynDNS-0.999                    probably temporary network/webservice problem
