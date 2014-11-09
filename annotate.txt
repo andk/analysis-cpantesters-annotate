@@ -1104,3 +1104,7 @@ Tk-TOTD-0.4                             100206
 Text-Glob-DWIW-0.01                     100207
 Test-Memory-Cycle-1.04                  99944
 Test-Given-0.3.1                        95383
+Teng-0.25                               https://github.com/nekokak/p5-Teng/issues/123
+Syccess-0.102                           100220
+subs-auto-0.08                          100221
+rss2leafnode-77                         Number-Format related problem (99970)
