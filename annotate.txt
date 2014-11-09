@@ -1096,3 +1096,11 @@ List-Tuples-0.04.4                      95305
 Lexical-Types-0.13                      https://rt.perl.org/rt3/Ticket/Display.html?id=123149
 DBD-CSV-0.45                            100188
 LWP-UserAgent-Mockable-1.10             100193
+Net-Graylog-Client-0.3                  100203
+XRI-Resolution-Lite-0.04                probably temporary network/server failure
+Vero-API-v0.1.1                         https://github.com/carloslima/vero-api-pm/issues/2
+URI-Fetch-0.10                          probably temporary network/webpage problem
+Tk-TOTD-0.4                             100206
+Text-Glob-DWIW-0.01                     100207
+Test-Memory-Cycle-1.04                  99944
+Test-Given-0.3.1                        95383
