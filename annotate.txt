@@ -1112,3 +1112,4 @@ DB_File-1.831                           96126
 PDL-NDBin-0.015                         100228
 NetHack-Item-0.21                       https://github.com/Test-More/test-more/issues/493
 Net-DNS-DynDNS-0.999                    probably temporary network/webservice problem
+LendingClub-API-0.3.0                   100232
