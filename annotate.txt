@@ -1114,3 +1114,4 @@ Net-DNS-DynDNS-0.999                    probably temporary network/webservice pr
 LendingClub-API-0.3.0                   100232
 Dancer2-0.153002                        https://github.com/PerlDancer/Dancer2/issues/734
 LCFG-Build-Tools-0.4.5                  100265
+Parse-CPAN-Packages-Fast-0.08           96615
