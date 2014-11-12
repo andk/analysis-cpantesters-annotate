@@ -1117,3 +1117,4 @@ LCFG-Build-Tools-0.4.5                  100265
 Parse-CPAN-Packages-Fast-0.08           96615
 Devel-StackTrace-WithLexicals-0.10      100278
 File-Trash-FreeDesktop-0.14             100281
+Lexical-Failure-0.000006                100284
