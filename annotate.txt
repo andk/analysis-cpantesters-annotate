@@ -1122,3 +1122,4 @@ Passwd-DB-1.03                          100328
 Test-Module-Used-0.2.4                  100270
 Net-BitTorrent-0.052                    https://github.com/sanko/net-bittorrent/issues/3
 Badger-0.09                             99200
+App-GitHooks-Plugin-ForceRegularUpdate-v1.0.3 https://github.com/guillaumeaubert/App-GitHooks-Plugin-ForceRegularUpdate/issues/1
