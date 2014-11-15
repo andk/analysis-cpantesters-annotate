@@ -1121,3 +1121,4 @@ Lexical-Failure-0.000006                100284
 Passwd-DB-1.03                          100328
 Test-Module-Used-0.2.4                  100270
 Net-BitTorrent-0.052                    https://github.com/sanko/net-bittorrent/issues/3
+Badger-0.09                             99200
