@@ -1124,3 +1124,4 @@ Net-BitTorrent-0.052                    https://github.com/sanko/net-bittorrent/
 Badger-0.09                             99200
 App-GitHooks-Plugin-ForceRegularUpdate-v1.0.3 https://github.com/guillaumeaubert/App-GitHooks-Plugin-ForceRegularUpdate/issues/1
 Perl-Metrics-Lite-0.08                  100378
+MooseX-Method-0.44                      https://rt.perl.org/rt3/Ticket/Display.html?id=123213
