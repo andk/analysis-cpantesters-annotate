@@ -1126,3 +1126,5 @@ App-GitHooks-Plugin-ForceRegularUpdate-v1.0.3 https://github.com/guillaumeaubert
 Perl-Metrics-Lite-0.08                  100378
 MooseX-Method-0.44                      https://rt.perl.org/rt3/Ticket/Display.html?id=123213
 String-Tagged-IRC-0.02                  100393
+Test-LeakTrace-0.15                     https://rt.perl.org/Ticket/Display.html?id=123223
+Memory-Leak-Hunter-0.02                 100398
