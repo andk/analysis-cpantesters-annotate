@@ -1129,4 +1129,4 @@ String-Tagged-IRC-0.02                  100393
 Test-LeakTrace-0.15                     https://rt.perl.org/Ticket/Display.html?id=123223
 Memory-Leak-Hunter-0.02                 100398
 Test-Builder-Clutch-0.06                https://github.com/Test-More/test-more/issues/497
-Catalyst-ControllerRole-CatchErrors-0.03 100359
+Catalyst-ControllerRole-CatchErrors-0.03 100359 dependency on aliased
