@@ -1139,3 +1139,4 @@ Module-New-0.11                         100464
 Test-WWW-Mechanize-1.44                 https://github.com/Test-More/test-more/issues/501
 Device-WH1091-0.03                      100466
 EV-ADNS-2.2                             100467
+Beam-Wire-1.008                         https://github.com/preaction/Beam-Wire/issues/34
