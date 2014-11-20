@@ -1135,3 +1135,4 @@ Test-FileReferenced-0.02                https://github.com/Test-More/test-more/i
 Test-Flatten-0.11                       https://github.com/Test-More/test-more/issues/498
 Devel-SmallProf-2.02                    98192
 Devel-MAT-0.19                          100458
+Module-New-0.11                         100464
