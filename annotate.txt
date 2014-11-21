@@ -1140,3 +1140,4 @@ Test-WWW-Mechanize-1.44                 https://github.com/Test-More/test-more/i
 Device-WH1091-0.03                      100466
 EV-ADNS-2.2                             100467
 Beam-Wire-1.008                         https://github.com/preaction/Beam-Wire/issues/34
+Plack-App-GitSmartHttp-0.06             https://github.com/dragon3/Plack-App-GitSmartHttp/issues/1
