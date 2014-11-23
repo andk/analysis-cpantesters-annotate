@@ -1146,3 +1146,4 @@ Test-Name-FromLine-0.13                 https://github.com/Test-More/test-more/i
 Mason-2.22                              https://rt.perl.org/Ticket/Display.html?id=123213
 B-Utils-0.25                            https://rt.perl.org/Ticket/Display.html?id=123281
 Test-HexDifferences-0.008               100489
+Test-HTML-Differences-0.03              100514
