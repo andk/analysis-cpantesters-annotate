@@ -1151,3 +1151,4 @@ IPC-Open3-Callback-1.15                 95819
 Template-Plugin-SortNatural-0.001       100542
 BioUtil-2014.1116                       100543
 Metabrik-Repository-1.00                100558
+WWW-Lipsum-1.001008                     https://github.com/zoffixznet/WWW-Lipsum/issues/2
