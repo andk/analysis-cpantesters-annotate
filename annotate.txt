@@ -1158,3 +1158,4 @@ Zonemaster-v0.1.0                       100591
 Test-Pretty-0.30                        https://github.com/Test-More/test-more/issues/505
 Test-HTML-Content-0.09                  https://github.com/Test-More/test-more/issues/506
 Business-OnlinePayment-IPPay-0.09       probably temporary network/webservice problem
+Dist-Zilla-Plugin-FFI-CheckLib-0.001001 100359
