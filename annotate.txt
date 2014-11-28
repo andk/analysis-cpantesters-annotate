@@ -1087,7 +1087,7 @@ File-Rsync-0.43                         38938
 File-Rsync-0.44                         38938 (this is about 0.43 but maybe also about 0.44?)
 Mail-MBX-0.01_0001                      Undeclared dependency on Test::Exception; no queue in RT
 Mojolicious-Plugin-JQuery-2.11001       https://github.com/dgikiller/mojolicious-plugin-jquery/issues/6
-CGI-OptimalQuery-0.11                   95876
+CGI-OptimalQuery-0.12                   95876
 JQuery-DataTables-Heavy-0.03            https://github.com/ywatase/JQuery-DataTables-Heavy/issues/1
 warnings-everywhere-0.007               https://rt.perl.org/rt3/Ticket/Display.html?id=122159
 List-Tuples-0.04.4                      95305
