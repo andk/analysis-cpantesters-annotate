@@ -1160,3 +1160,4 @@ Test-HTML-Content-0.09                  https://github.com/Test-More/test-more/i
 Business-OnlinePayment-IPPay-0.09       probably temporary network/webservice problem
 Dist-Zilla-Plugin-FFI-CheckLib-0.001001 100359
 Test-Wrapper-0.3.0                      https://github.com/yanick/test-wrapper/issues/1
+Test-Bomb-0.007                         https://github.com/Test-More/test-more/issues/507
