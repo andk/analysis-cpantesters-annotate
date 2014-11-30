@@ -1156,7 +1156,7 @@ Types-Git-0.02                          https://github.com/bluefeet/Types-Git/is
 Mojolicious-Plugin-CGI-0.13             https://github.com/jhthorsen/mojolicious-plugin-cgi/issues/11
 Zonemaster-v0.1.0                       100591
 Test-Pretty-0.30                        https://github.com/Test-More/test-more/issues/505
-Test-HTML-Content-0.09                  https://github.com/Test-More/test-more/issues/506
+Test-HTML-Content-0.09                  100616
 Business-OnlinePayment-IPPay-0.09       probably temporary network/webservice problem
 Dist-Zilla-Plugin-FFI-CheckLib-0.001001 100359
 Test-Wrapper-0.3.0                      https://github.com/yanick/test-wrapper/issues/1
