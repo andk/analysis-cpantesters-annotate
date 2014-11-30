@@ -1165,3 +1165,4 @@ Lingua-PT-PLN-0.21                      100603
 Eval-WithLexicals-1.003001              https://rt.perl.org/Ticket/Display.html?id=123313
 Devel-ebug-0.56                         100615
 Want-0.23                               https://rt.perl.org/rt3/Ticket/Display.html?id=123332
+Imager-Draw-Hexagon-0.0101              https://github.com/rizen/Imager-Draw-Hexagon/issues/2
