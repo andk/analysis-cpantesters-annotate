@@ -1167,3 +1167,4 @@ Devel-ebug-0.56                         100615
 Want-0.23                               https://rt.perl.org/rt3/Ticket/Display.html?id=123332
 Imager-Draw-Hexagon-0.0101              https://github.com/rizen/Imager-Draw-Hexagon/issues/2
 XS-Object-Magic-0.04                    ok.pm victim
+Method-Lexical-0.30                     https://rt.perl.org/rt3/Ticket/Display.html?id=123341
