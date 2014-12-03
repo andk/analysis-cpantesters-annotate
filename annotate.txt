@@ -1168,3 +1168,5 @@ Want-0.23                               https://rt.perl.org/rt3/Ticket/Display.h
 Imager-Draw-Hexagon-0.0101              https://github.com/rizen/Imager-Draw-Hexagon/issues/2
 XS-Object-Magic-0.04                    ok.pm victim
 Method-Lexical-0.30                     https://rt.perl.org/rt3/Ticket/Display.html?id=123341
+Test-Vars-0.005                         https://rt.perl.org/rt3/Ticket/Display.html?id=123349
+B-Flags-0.10                            https://rt.perl.org/rt3/Ticket/Display.html?id=123349
