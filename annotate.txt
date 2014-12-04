@@ -1171,3 +1171,6 @@ Method-Lexical-0.30                     https://rt.perl.org/rt3/Ticket/Display.h
 Test-Vars-0.005                         https://rt.perl.org/rt3/Ticket/Display.html?id=123349
 B-Flags-0.10                            https://rt.perl.org/rt3/Ticket/Display.html?id=123349
 Template-Declare-0.46                   https://rt.perl.org/rt3/Ticket/Display.html?id=123364
+HTML-Hyphenate-0.05                     100704
+Hash-SharedMem-0.003                    100705
+Statistics-R-IO-0.092                   100249
