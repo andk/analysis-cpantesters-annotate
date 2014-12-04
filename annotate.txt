@@ -1170,3 +1170,4 @@ XS-Object-Magic-0.04                    ok.pm victim
 Method-Lexical-0.30                     https://rt.perl.org/rt3/Ticket/Display.html?id=123341
 Test-Vars-0.005                         https://rt.perl.org/rt3/Ticket/Display.html?id=123349
 B-Flags-0.10                            https://rt.perl.org/rt3/Ticket/Display.html?id=123349
+Template-Declare-0.46                   https://rt.perl.org/rt3/Ticket/Display.html?id=123364
