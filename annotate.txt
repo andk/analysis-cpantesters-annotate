@@ -1174,3 +1174,4 @@ Template-Declare-0.46                   https://rt.perl.org/rt3/Ticket/Display.h
 HTML-Hyphenate-0.05                     100704
 Hash-SharedMem-0.003                    100705
 Statistics-R-IO-0.092                   100249
+Cache-Cache-1.07                        88418
