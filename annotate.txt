@@ -1177,3 +1177,4 @@ Statistics-R-IO-0.092                   100249
 Cache-Cache-1.07                        88418
 Pod-Readme-v1.1.1                       https://rt.perl.org/rt3/Ticket/Display.html?id=122146
 Test-ParallelSubtest-0.05               https://github.com/Test-More/test-more/issues/508
+DestructAssign-0.002001                 100766
