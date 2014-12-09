@@ -1183,3 +1183,4 @@ ShardedKV-Storage-Rest-0.8              100774
 Test-HTTP-Response-0.06                 100786
 autovivification-0.14                   https://rt.perl.org/rt3/Ticket/Display.html?id=123390
 B-Tap-0.14                              https://rt.perl.org/rt3/Ticket/Display.html?id=123390
+RDF-Trine-Node-Literal-XML-0.16         100790
