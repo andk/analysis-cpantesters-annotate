@@ -1181,3 +1181,5 @@ DestructAssign-0.002001                 100766
 Dancer2-Plugin-Passphrase-2.0.4         https://github.com/hvoers/Dancer2-Plugin-Passphrase/issues/1
 ShardedKV-Storage-Rest-0.8              100774
 Test-HTTP-Response-0.06                 100786
+autovivification-0.14                   https://rt.perl.org/rt3/Ticket/Display.html?id=123390
+B-Tap-0.14                              https://rt.perl.org/rt3/Ticket/Display.html?id=123390
