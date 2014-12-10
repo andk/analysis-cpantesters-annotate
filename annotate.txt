@@ -1185,3 +1185,5 @@ autovivification-0.14                   https://rt.perl.org/rt3/Ticket/Display.h
 B-Tap-0.14                              https://rt.perl.org/rt3/Ticket/Display.html?id=123390
 RDF-Trine-Node-Literal-XML-0.16         100790
 Statocles-0.026                         https://rt.perl.org/rt3/Ticket/Display.html?id=123213
+Date-RangeParser-EN-0.08                100250
+Log-Dispatch-Binlog-0.02                ok.pm victim
