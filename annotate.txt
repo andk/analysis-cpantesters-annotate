@@ -1190,3 +1190,4 @@ Log-Dispatch-Binlog-0.02                ok.pm victim
 Mojolicious-Plugin-MethodOverride-0.040 100836
 Runner-Init-1.8                         100841
 WWW-jsonip-0.001                        100842
+String-Unescape-v0.0.2                  100840
