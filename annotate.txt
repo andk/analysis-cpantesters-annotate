@@ -1191,3 +1191,4 @@ Mojolicious-Plugin-MethodOverride-0.040 100836
 Runner-Init-1.8                         100841
 WWW-jsonip-0.001                        100842
 String-Unescape-v0.0.2                  100840
+MooseX-MultiMethods-0.10                https://rt.perl.org/rt3/Ticket/Display.html?id=123213
