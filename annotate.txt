@@ -1192,3 +1192,6 @@ Runner-Init-1.8                         100841
 WWW-jsonip-0.001                        100842
 String-Unescape-v0.0.2                  100840
 MooseX-MultiMethods-0.10                https://rt.perl.org/rt3/Ticket/Display.html?id=123213
+Text-Flow-0.01                          https://github.com/Test-More/test-more/issues/513
+File-Map-0.63                           https://github.com/Test-More/test-more/issues/514
+Class-Throwable-0.11                    https://github.com/Test-More/test-more/issues/515
