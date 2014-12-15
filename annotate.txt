@@ -1195,3 +1195,4 @@ MooseX-MultiMethods-0.10                https://rt.perl.org/rt3/Ticket/Display.h
 Text-Flow-0.01                          https://github.com/Test-More/test-more/issues/513
 File-Map-0.63                           https://github.com/Test-More/test-more/issues/514
 Class-Throwable-0.11                    https://github.com/Test-More/test-more/issues/515
+define-1.03                             https://rt.perl.org/rt3/Ticket/Display.html?id=123435
