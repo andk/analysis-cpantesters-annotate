@@ -1196,5 +1196,5 @@ Text-Flow-0.01                          https://github.com/Test-More/test-more/i
 File-Map-0.63                           https://github.com/Test-More/test-more/issues/514
 Class-Throwable-0.11                    https://github.com/Test-More/test-more/issues/515
 define-1.03                             https://rt.perl.org/rt3/Ticket/Display.html?id=123435
-Statistics-Basic-1.6607                 100943,99912,99970
+Statistics-Basic-1.6609                 100943,99912,99970
 Module-Version-0.12                     100956
