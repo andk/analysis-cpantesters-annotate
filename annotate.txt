@@ -1199,3 +1199,4 @@ define-1.03                             https://rt.perl.org/rt3/Ticket/Display.h
 Statistics-Basic-1.6609                 100943,99912,99970
 Module-Version-0.12                     100956
 Code-TidyAll-Plugin-SVG-0.002           100981
+Inline-CPP-0.69                         100982
