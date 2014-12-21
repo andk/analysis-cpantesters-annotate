@@ -1204,3 +1204,5 @@ Switch-2.17                             96753
 Elive-1.32                              101018
 Parse-MediaWikiDump-1.0.6               https://rt.perl.org/rt3/Ticket/Display.html?id=123462
 Eval-Closure-0.11                       https://rt.perl.org/rt3/Ticket/Display.html?id=123349
+Coro-6.41                               101063
+Exception-Base-0.25                     https://github.com/dex4er/perl-Exception-Base/issues/1
