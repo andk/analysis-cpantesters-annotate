@@ -1206,3 +1206,6 @@ Parse-MediaWikiDump-1.0.6               https://rt.perl.org/rt3/Ticket/Display.h
 Eval-Closure-0.11                       https://rt.perl.org/rt3/Ticket/Display.html?id=123349
 Coro-6.41                               101063
 Exception-Base-0.25                     https://github.com/dex4er/perl-Exception-Base/issues/1
+Switch-Plain-0.02                       101081
+XML-XML2JSON-0.06                       101082
+Hailo-0.72                              101085
