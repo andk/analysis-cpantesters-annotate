@@ -1149,7 +1149,6 @@ Test-HTML-Differences-0.03              100514
 Data-File-Map-0.09                      100541
 IPC-Open3-Callback-1.15                 95819
 Template-Plugin-SortNatural-0.001       100542
-BioUtil-2014.1116                       100543
 Metabrik-Repository-1.00                100558
 WWW-Lipsum-1.001008                     https://github.com/zoffixznet/WWW-Lipsum/issues/2
 Types-Git-0.02                          https://github.com/bluefeet/Types-Git/issues/1
@@ -1211,3 +1210,4 @@ XML-XML2JSON-0.06                       101082
 Hailo-0.72                              101085
 ORLite-Mirror-1.24                      101104
 WWW-StationJp-API-0.01                  https://github.com/sue7ga/WWW-StationJp-API/issues/1
+BioUtil-2014.1213                       100543
