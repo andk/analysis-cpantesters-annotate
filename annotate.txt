@@ -505,7 +505,6 @@ DBIx-SecureCGI-2.0.5                    85724
 Acme-Warn-LOLCAT-0.02                   85750
 PDF-TextBlock-0.06                      85783
 SOAP-Transport-TCP-0.717                85787
-Exception-Base-0.25                     failed only for v5.17.11
 CatalystX-Widget-Paginator-0.04         85914
 Mojolicious-Plugin-ShareHelpers-0.6     81563
 Search-Sitemap-2.13                     86048
