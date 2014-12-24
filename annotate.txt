@@ -1215,3 +1215,5 @@ autobox-2.82                            100819
 B-Generate-1.49                         101070
 B-Lint-1.20                             101115
 BDB-1.91                                101064
+Encode-2.67                             101046
+CatalystX-Resource-0.02                 https://github.com/davewood/catalystx-resource/issues/3
