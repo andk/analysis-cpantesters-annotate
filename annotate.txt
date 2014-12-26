@@ -818,7 +818,6 @@ net-lastfmapi-0.63                      97037
 Config-Param-3.001000                   97038
 Template-Jade-0.05                      https://github.com/EvanCarroll/perl-template-jade/issues/2
 Attribute-Storage-0.09                  97071
-XML-Twig-3.48                           
 WWW-Sitemap-XML-1.121160                waiting for newer URI::Escape than 1.61
 CPAN-FindDependencies-2.42              waiting for newer URI::Escape than 1.61
 XML-Feed-Aggregator-0.0401              waiting for newer URI::Escape than 1.61
@@ -1218,3 +1217,4 @@ Encode-2.67                             101046
 CatalystX-Resource-0.02                 https://github.com/davewood/catalystx-resource/issues/3
 WWW-Google-Time-1.001002                https://github.com/zoffixznet/WWW-Google-Time/issues/2
 Data-Dump-XML-1.19                      81637
+XML-Twig-3.48                           101041
