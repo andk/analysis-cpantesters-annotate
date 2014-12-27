@@ -1220,3 +1220,4 @@ Data-Dump-XML-1.19                      81637
 XML-Twig-3.48                           101041
 Dancer-Plugin-Auth-Google-0.05          101135
 Dancer-Plugin-TimeoutManager-0.05       101150
+Test-Approximate-0.006                  101155,101156
