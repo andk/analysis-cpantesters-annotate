@@ -1223,3 +1223,4 @@ Dancer-Plugin-TimeoutManager-0.05       101150
 Test-Approximate-0.006                  101155,101156
 Lemonldap-NG-Common-1.4.3               101158
 MavenBuilds-Tasks-BuildWebappsWithMaven-0.01 101159
+Clustericious-0.9940_02                 https://github.com/plicease/Clustericious/issues/11
