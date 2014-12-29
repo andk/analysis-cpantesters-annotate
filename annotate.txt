@@ -1230,3 +1230,4 @@ Lexical-Var-0.009                       101058
 Test-Effects-0.001005                   https://github.com/Test-More/test-more/issues/528
 Business-BalancedPayments-1.0500        https://github.com/Crowdtilt/Business-BalancedPayments/issues/53
 Net-Plywood-Simple-0.03                 101182
+Swagger2-0.15                           https://github.com/jhthorsen/swagger2/issues/4
