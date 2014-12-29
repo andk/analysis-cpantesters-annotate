@@ -1068,7 +1068,7 @@ Test-DBIx-Class-Schema-1.0.6            https://github.com/Test-More/test-more/i
 Validation-Class-7.900056               https://github.com/Test-More/test-more/issues/482
 Data-Rx-0.200006                        https://github.com/Test-More/test-more/issues/483
 Test-Leaner-0.05                        https://github.com/Test-More/test-more/issues/484
-Test-FITesque-0.03                      https://github.com/Test-More/test-more/issues/485
+Test-FITesque-0.03                      100200,https://github.com/Test-More/test-more/issues/485
 Parse-RPN-2.85                          88671
 Test-Dist-VersionSync-v1.1.3            https://github.com/Test-More/test-more/issues/486
 Acme-PrettyCure-0.1                     https://github.com/kan/p5-acme-prettycure/issues/5
@@ -1231,3 +1231,5 @@ Test-Effects-0.001005                   https://github.com/Test-More/test-more/i
 Business-BalancedPayments-1.0500        https://github.com/Crowdtilt/Business-BalancedPayments/issues/53
 Net-Plywood-Simple-0.03                 101182
 Swagger2-0.15                           https://github.com/jhthorsen/swagger2/issues/4
+Eval-Compile-0.11                       https://rt.perl.org/rt3/Ticket/Display.html?id=123518
+Eval-WithLexicals-1.003002              https://rt.perl.org/rt3/Ticket/Display.html?id=123349
