@@ -1233,4 +1233,4 @@ Net-Plywood-Simple-0.03                 101182
 Swagger2-0.15                           https://github.com/jhthorsen/swagger2/issues/4
 Eval-Compile-0.11                       https://rt.perl.org/rt3/Ticket/Display.html?id=123518
 Eval-WithLexicals-1.003002              https://rt.perl.org/rt3/Ticket/Display.html?id=123349
-DBIx-Class-Result-ExternalAttribute-0.06 84928 (erratic dependency)
+DBIx-Class-Result-ExternalAttribute-0.06 101198,84928
