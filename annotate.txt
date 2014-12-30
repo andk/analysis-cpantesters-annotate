@@ -1236,3 +1236,4 @@ Eval-WithLexicals-1.003002              https://rt.perl.org/rt3/Ticket/Display.h
 DBIx-Class-Result-ExternalAttribute-0.06 101198,84928
 Net-HTTP-Client-0.012                   101199
 Business-CPI-0.922                      https://github.com/andrewalker/p5-business-cpi/issues/30
+Mojolicious-Plugin-JSUrlFor-0.15        101206
