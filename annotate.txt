@@ -1234,3 +1234,4 @@ Swagger2-0.15                           https://github.com/jhthorsen/swagger2/is
 Eval-Compile-0.11                       https://rt.perl.org/rt3/Ticket/Display.html?id=123518
 Eval-WithLexicals-1.003002              https://rt.perl.org/rt3/Ticket/Display.html?id=123349
 DBIx-Class-Result-ExternalAttribute-0.06 101198,84928
+Net-HTTP-Client-0.012                   101199
