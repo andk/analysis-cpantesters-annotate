@@ -1235,3 +1235,4 @@ Eval-Compile-0.11                       https://rt.perl.org/rt3/Ticket/Display.h
 Eval-WithLexicals-1.003002              https://rt.perl.org/rt3/Ticket/Display.html?id=123349
 DBIx-Class-Result-ExternalAttribute-0.06 101198,84928
 Net-HTTP-Client-0.012                   101199
+Business-CPI-0.922                      https://github.com/andrewalker/p5-business-cpi/issues/30
