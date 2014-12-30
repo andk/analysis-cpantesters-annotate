@@ -1207,7 +1207,7 @@ XML-XML2JSON-0.06                       101082
 Hailo-0.72                              101085
 ORLite-Mirror-1.24                      101104
 WWW-StationJp-API-0.01                  https://github.com/sue7ga/WWW-StationJp-API/issues/1
-BioUtil-2014.1213                       100543
+BioUtil-2014.1226                       100543
 Data-Record-Serialize-0.06              101113
 autobox-2.82                            100819
 B-Generate-1.49                         101070
