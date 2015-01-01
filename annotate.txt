@@ -1241,3 +1241,6 @@ Warnings-Version-0.002003               https://github.com/pink-mist/Warnings-Ve
 Org-Parser-0.43                         https://rt.perl.org/rt3/Ticket/Display.html?id=123527
 Type-Tiny-1.000005                      https://rt.perl.org/rt3/Ticket/Display.html?id=123523
 Test-Resub-2.03                         https://rt.perl.org/rt3/Ticket/Display.html?id=123523
+Date-Calc-6.3                           101232
+Date-Calc-XS-6.3                        101232
+Devel-SizeMe-0.19                       92348
