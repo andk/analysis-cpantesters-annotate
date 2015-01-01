@@ -1244,3 +1244,4 @@ Test-Resub-2.03                         https://rt.perl.org/rt3/Ticket/Display.h
 Date-Calc-6.3                           101232
 Date-Calc-XS-6.3                        101232
 Devel-SizeMe-0.19                       92348
+Dist-Zilla-PluginBundle-GETTY-0.008     101234
