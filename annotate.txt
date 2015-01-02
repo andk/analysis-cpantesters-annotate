@@ -1245,3 +1245,6 @@ Date-Calc-6.3                           101232
 Date-Calc-XS-6.3                        101232
 Devel-SizeMe-0.19                       92348
 Dist-Zilla-PluginBundle-GETTY-0.008     101234
+DBIx-FileStore-0.27                     101242
+Catalyst-Runtime-5.90079_005            101243
+Catalyst-Runtime-5.90078                101243
