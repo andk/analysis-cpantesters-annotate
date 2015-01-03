@@ -915,7 +915,7 @@ Devel-SawAmpersand-0.33                 95560
 pmcheck-v1.1.11                         98445
 String-Interpolate-0.3                  95320
 re-engine-Oniguruma-0.05                95145
-String-Slice-0.01                       95093
+String-Slice-0.03                       95093
 Sub-Metadata-0.000                      98705
 HTTP-Cookies-Mozilla-2.03               98445
 Module-UseFrom-0.03                     98445
