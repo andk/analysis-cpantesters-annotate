@@ -915,7 +915,6 @@ Devel-SawAmpersand-0.33                 95560
 pmcheck-v1.1.11                         98445
 String-Interpolate-0.3                  95320
 re-engine-Oniguruma-0.05                95145
-String-Slice-0.03                       95093
 Sub-Metadata-0.000                      98705
 HTTP-Cookies-Mozilla-2.03               98445
 Module-UseFrom-0.03                     98445
@@ -1249,3 +1248,4 @@ DBIx-FileStore-0.27                     101242
 Catalyst-Runtime-5.90079_005            101243
 Catalyst-Runtime-5.90078                101243
 Data-DynamicValidator-0.03              101068
+String-Slice-0.03                       95093,https://github.com/ingydotnet/string-slice-pm/issues/3
