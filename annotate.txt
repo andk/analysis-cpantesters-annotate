@@ -1249,3 +1249,4 @@ Catalyst-Runtime-5.90079_005            101243
 Catalyst-Runtime-5.90078                101243
 Data-DynamicValidator-0.03              101068
 String-Slice-0.03                       95093,https://github.com/ingydotnet/string-slice-pm/issues/3
+WebService-Algolia-0.1002               http://www.cpantesters.org/cpan/report/dd22e8ea-912d-11e4-87f1-31723a6893cb
