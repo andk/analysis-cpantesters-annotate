@@ -1253,3 +1253,4 @@ WebService-Algolia-0.1002               http://www.cpantesters.org/cpan/report/d
 Lingua-JA-Numbers-0.04                  101073
 Locale-VersionedMessages-0.94           101280
 LWP-ConsoleLogger-0.000012              https://github.com/oalders/lwp-consolelogger/issues/3
+Test-DistManifest-1.012                 101287
