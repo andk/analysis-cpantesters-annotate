@@ -1256,3 +1256,4 @@ LWP-ConsoleLogger-0.000012              https://github.com/oalders/lwp-consolelo
 Test-DistManifest-1.012                 101287
 Mail-Alias-1.12                         101356
 MooseX-Declare-Context-WithOptions-Patch-Extensible-0.002 101357
+Acme-SList-XSLT-0.03                    101363
