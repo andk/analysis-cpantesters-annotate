@@ -1257,3 +1257,4 @@ Test-DistManifest-1.012                 101287
 Mail-Alias-1.12                         101356
 MooseX-Declare-Context-WithOptions-Patch-Extensible-0.002 101357
 Acme-SList-XSLT-0.03                    101363
+Test-Aggregate-0.372                    100035
