@@ -1017,7 +1017,7 @@ Catalyst-Plugin-AutoCRUD-2.142820       98448
 MS2-Parser-0.06                         99538
 Catalyst-Plugin-Session-Store-CHI-CHI-0.001_001 undeclared dependencies, no RT queue yet
 Data-Localize-0.00026                   https://github.com/lestrrat/Data-Localize/issues/5,https://github.com/lestrrat/Data-Localize/issues/6
-boolean-0.42                            https://github.com/ingydotnet/boolean-pm/issues/5
+boolean-0.43                            https://github.com/ingydotnet/boolean-pm/issues/7
 Rstats-0.0109                           99579
 JE-0.065                                https://rt.perl.org/rt3/Ticket/Display.html?id=122890
 Dancer-1.3130                           https://github.com/PerlDancer/Dancer/issues/1073
@@ -1258,3 +1258,4 @@ Mail-Alias-1.12                         101356
 MooseX-Declare-Context-WithOptions-Patch-Extensible-0.002 101357
 Acme-SList-XSLT-0.03                    101363
 Test-Aggregate-0.372                    100035
+Dist-Zilla-PluginBundle-ROKR-0.0019     101583
