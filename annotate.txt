@@ -1227,7 +1227,6 @@ IO-Socket-Socks-Wrapper-0.11            101166
 Mojolicious-Plugin-I18N-1.3             101168
 Lexical-Var-0.009                       101058
 Test-Effects-0.001005                   https://github.com/Test-More/test-more/issues/528
-Business-BalancedPayments-1.0500        https://github.com/Crowdtilt/Business-BalancedPayments/issues/53
 Net-Plywood-Simple-0.03                 101182
 Swagger2-0.15                           https://github.com/jhthorsen/swagger2/issues/4
 Eval-Compile-0.11                       https://rt.perl.org/rt3/Ticket/Display.html?id=123518
@@ -1261,3 +1260,4 @@ Test-Aggregate-0.372                    100035
 Dist-Zilla-PluginBundle-ROKR-0.0019     101583
 Text-Markup-0.19                        https://github.com/theory/text-markup/issues/10
 Syccess-0.103                           100220
+Business-BalancedPayments-1.0600        https://github.com/Crowdtilt/Business-BalancedPayments/issues/53
