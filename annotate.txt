@@ -1259,3 +1259,4 @@ MooseX-Declare-Context-WithOptions-Patch-Extensible-0.002 101357
 Acme-SList-XSLT-0.03                    101363
 Test-Aggregate-0.372                    100035
 Dist-Zilla-PluginBundle-ROKR-0.0019     101583
+Text-Markup-0.19                        https://github.com/theory/text-markup/issues/10
