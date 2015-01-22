@@ -1261,3 +1261,4 @@ Dist-Zilla-PluginBundle-ROKR-0.0019     101583
 Text-Markup-0.19                        https://github.com/theory/text-markup/issues/10
 Syccess-0.103                           100220
 Business-BalancedPayments-1.0600        https://github.com/Crowdtilt/Business-BalancedPayments/issues/53
+DBIx-Class-Result-ColumnData-0.16       84928
