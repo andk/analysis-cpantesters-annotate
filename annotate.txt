@@ -1264,3 +1264,4 @@ DBIx-Class-Result-ColumnData-0.16       84928
 Encode-2.68                             101046
 Moose-Autobox-0.15                      https://rt.perl.org/rt3/Ticket/Display.html?id=123619
 WebService-PutIo-0.3                    101809
+Tie-Util-0.03                           101849
