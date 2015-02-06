@@ -1268,3 +1268,4 @@ Tie-Util-0.03                           101849
 Module-Starter-Plugin-CGIApp-0.42       101894
 B-Generate-1.50                         https://rt.perl.org/rt3/Ticket/Display.html?id=123718
 Mojo-JSON-Any-0.990104                  101916
+mousex-getopt-0.35                      https://github.com/gfx/mousex-getopt/issues/5
