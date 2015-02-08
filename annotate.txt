@@ -1269,3 +1269,8 @@ Module-Starter-Plugin-CGIApp-0.42       101894
 B-Generate-1.50                         https://rt.perl.org/rt3/Ticket/Display.html?id=123718
 Mojo-JSON-Any-0.990104                  101916
 mousex-getopt-0.35                      https://github.com/gfx/mousex-getopt/issues/5
+Config-General-2.56                     https://rt.perl.org/rt3/Ticket/Display.html?id=123739
+File-Locate-Iterator-23                 https://rt.perl.org/rt3/Ticket/Display.html?id=123739
+File-Next-1.12                          https://rt.perl.org/rt3/Ticket/Display.html?id=123739
+IO-Handle-Util-0.01                     https://rt.perl.org/rt3/Ticket/Display.html?id=123739
+Iterator-IO-0.02                        https://rt.perl.org/rt3/Ticket/Display.html?id=123739
