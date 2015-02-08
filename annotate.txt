@@ -1275,3 +1275,5 @@ File-Next-1.12                          https://rt.perl.org/rt3/Ticket/Display.h
 IO-Handle-Util-0.01                     https://rt.perl.org/rt3/Ticket/Display.html?id=123739
 Iterator-IO-0.02                        https://rt.perl.org/rt3/Ticket/Display.html?id=123739
 Statistics-ANOVA-0.091                  0.08 was the last before 0.91 with pass reports
+Xtract-0.16                             https://github.com/gfx/p5-Mouse/issues/38
+FBP-0.41                                https://github.com/gfx/p5-Mouse/issues/38
