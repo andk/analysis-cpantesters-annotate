@@ -1280,3 +1280,4 @@ FBP-0.41                                https://github.com/gfx/p5-Mouse/issues/3
 PerlIO-gzip-0.18                        92412
 Slurp-0.4                               https://rt.perl.org/rt3/Ticket/Display.html?id=123739
 Spreadsheet-Read-0.56                   https://rt.perl.org/rt3/Ticket/Display.html?id=123739
+Dist-Zilla-PluginBundle-RBO-0.002       101998
