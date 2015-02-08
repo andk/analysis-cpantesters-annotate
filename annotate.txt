@@ -1274,3 +1274,4 @@ File-Locate-Iterator-23                 https://rt.perl.org/rt3/Ticket/Display.h
 File-Next-1.12                          https://rt.perl.org/rt3/Ticket/Display.html?id=123739
 IO-Handle-Util-0.01                     https://rt.perl.org/rt3/Ticket/Display.html?id=123739
 Iterator-IO-0.02                        https://rt.perl.org/rt3/Ticket/Display.html?id=123739
+Statistics-ANOVA-0.091                  0.08 was the last before 0.91 with pass reports
