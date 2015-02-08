@@ -1277,3 +1277,4 @@ Iterator-IO-0.02                        https://rt.perl.org/rt3/Ticket/Display.h
 Statistics-ANOVA-0.091                  0.08 was the last before 0.91 with pass reports
 Xtract-0.16                             https://github.com/gfx/p5-Mouse/issues/38
 FBP-0.41                                https://github.com/gfx/p5-Mouse/issues/38
+PerlIO-gzip-0.18                        92412
