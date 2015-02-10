@@ -1282,3 +1282,4 @@ Slurp-0.4                               https://rt.perl.org/rt3/Ticket/Display.h
 Spreadsheet-Read-0.56                   https://rt.perl.org/rt3/Ticket/Display.html?id=123739
 Dist-Zilla-PluginBundle-RBO-0.002       101998
 Catalyst-View-Tenjin-0.050001           102000
+Mojolicious-Plugin-Qaptcha-0.10         https://github.com/hrupprecht/Mojolicious-Plugin-Qaptcha/issues/1
