@@ -1076,7 +1076,6 @@ Acme-Study-Perl-0.0.2                   https://github.com/Test-More/test-more/i
 Constant-Generate-0.16                  https://github.com/Test-More/test-more/issues/488
 Data-MessagePack-0.48                   100045
 Devel-NYTProf-5.06                      https://rt.perl.org/rt3/Ticket/Display.html?id=123134
-DBIx-Perlish-0.63                       https://rt.perl.org/rt3/Ticket/Display.html?id=122909
 Dist-Zooky-0.12                         100076
 Encode-2.64                             100105
 File-Rsync-0.43                         38938
@@ -1284,3 +1283,5 @@ Dist-Zilla-PluginBundle-RBO-0.002       101998
 Catalyst-View-Tenjin-0.050001           102000
 Mojolicious-Plugin-Qaptcha-0.10         https://github.com/hrupprecht/Mojolicious-Plugin-Qaptcha/issues/1
 Elasticsearch-1.05                      deprecated namespace
+Ouch-0.0409                             https://github.com/rizen/Ouch/issues/10
+DBIx-Perlish-0.64                       99836,https://rt.perl.org/rt3/Ticket/Display.html?id=122909
