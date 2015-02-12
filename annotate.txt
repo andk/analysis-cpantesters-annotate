@@ -1260,7 +1260,6 @@ Text-Markup-0.19                        https://github.com/theory/text-markup/is
 Syccess-0.103                           100220
 Business-BalancedPayments-1.0600        https://github.com/Crowdtilt/Business-BalancedPayments/issues/53
 DBIx-Class-Result-ColumnData-0.16       84928
-Encode-2.68                             101046
 Moose-Autobox-0.15                      https://rt.perl.org/rt3/Ticket/Display.html?id=123619
 WebService-PutIo-0.3                    101809
 Tie-Util-0.03                           101849
@@ -1286,3 +1285,4 @@ Elasticsearch-1.05                      deprecated namespace
 Ouch-0.0409                             https://github.com/rizen/Ouch/issues/10
 DBIx-Perlish-0.64                       99836,https://rt.perl.org/rt3/Ticket/Display.html?id=122909
 Git-Crypt-0.03                          102081
+Encode-2.70                             101046
