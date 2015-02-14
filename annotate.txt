@@ -1287,3 +1287,4 @@ DBIx-Perlish-0.64                       99836,https://rt.perl.org/rt3/Ticket/Dis
 Git-Crypt-0.03                          102081
 Encode-2.70                             101046
 Regexp-ERE-0.04                         101839
+AuthCAS-1.6                             87241
