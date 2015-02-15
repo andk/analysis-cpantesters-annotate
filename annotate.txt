@@ -1289,3 +1289,4 @@ Encode-2.70                             101046
 Regexp-ERE-0.04                         101839
 AuthCAS-1.6                             87241
 Getopt-Config-FromPod-v0.0.2            102120
+MojoX-Session-0.31                      https://github.com/vti/mojox-session/issues/15
