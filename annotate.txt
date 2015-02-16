@@ -1291,3 +1291,4 @@ AuthCAS-1.6                             87241
 Getopt-Config-FromPod-v0.0.2            102120
 MojoX-Session-0.31                      https://github.com/vti/mojox-session/issues/15
 Getopt-Long-DescriptivePod-0.02         102138
+WWW-Desk-0.06                           102139
