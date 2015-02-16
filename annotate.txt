@@ -1137,7 +1137,7 @@ Beam-Wire-1.008                         https://github.com/preaction/Beam-Wire/i
 Plack-App-GitSmartHttp-0.06             https://github.com/dragon3/Plack-App-GitSmartHttp/issues/1
 Data-Reuse-0.10                         100461
 Test-Name-FromLine-0.13                 https://github.com/Test-More/test-more/issues/502
-Mason-2.22                              https://rt.perl.org/Ticket/Display.html?id=123213
+Mason-2.23                              https://rt.perl.org/Ticket/Display.html?id=123213
 B-Utils-0.25                            https://rt.perl.org/Ticket/Display.html?id=123281
 Test-HexDifferences-0.008               100489
 Test-HTML-Differences-0.03              100514
