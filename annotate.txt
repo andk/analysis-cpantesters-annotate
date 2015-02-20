@@ -1296,3 +1296,4 @@ Devel-Declare-0.006017                  https://rt.perl.org/rt3/Ticket/Display.h
 DBIx-Class-TimeStamp-0.14               https://rt.perl.org/rt3/Ticket/Display.html?id=123879
 Catalyst-Controller-Atompub-0.5.6       102240
 Catalyst-Plugin-ErrorCatcher-0.0.8.15   https://github.com/chiselwright/catalyst-plugin-errorcatcher/issues/3
+HTML-FormBuilder-0.05                   https://github.com/binary-com/perl-HTML-FormBuilder/issues/5
