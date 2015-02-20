@@ -1294,3 +1294,4 @@ Getopt-Long-DescriptivePod-0.02         102138
 WWW-Desk-0.06                           102139
 Devel-Declare-0.006017                  https://rt.perl.org/rt3/Ticket/Display.html?id=123865
 DBIx-Class-TimeStamp-0.14               https://rt.perl.org/rt3/Ticket/Display.html?id=123879
+Catalyst-Controller-Atompub-0.5.6       102240
