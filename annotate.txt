@@ -1297,3 +1297,4 @@ DBIx-Class-TimeStamp-0.14               https://rt.perl.org/rt3/Ticket/Display.h
 Catalyst-Controller-Atompub-0.5.6       102240
 Catalyst-Plugin-ErrorCatcher-0.0.8.15   https://github.com/chiselwright/catalyst-plugin-errorcatcher/issues/3
 HTML-FormBuilder-0.05                   https://github.com/binary-com/perl-HTML-FormBuilder/issues/5
+Plack-Middleware-Redirect-0.01          https://github.com/okazu-dm/p5-plack-middleware-redirect/issues/1
