@@ -15,7 +15,6 @@ Util-Properties-0.18                    39175
 B-XSUB-Dumber-0.01                      41451
 Lingua-EN-AffectiveNorms-0.01           50195
 Religion-Bible-Regex-Reference-0.95     50276
-Data-Locations-5.5                      50394
 TweetHook-API-0.01                      50502
 MojoX-Renderer-HTP-0.032                50516
 DBIx-Class-EasyConf-YAML-0.11           50536
@@ -1302,3 +1301,8 @@ Org-Parser-0.43                         101641,https://rt.perl.org/rt3/Ticket/Di
 Teng-0.27                               https://github.com/nekokak/p5-Teng/issues/143
 Coro-6.42                               101063
 Tree-VP-0.01                            102262
+rss2leafnode-78                         102283
+Date-Holidays-PT-0.02                   98441
+Apache2-Authen-OdinAuth-0.8             102263
+Data-Locations-5.5                      102267
+Gedcom-1.19                             https://github.com/pjcj/Gedcom.pm/issues/5
