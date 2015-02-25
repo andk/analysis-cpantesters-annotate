@@ -1307,3 +1307,4 @@ Data-Locations-5.5                      102267
 Gedcom-1.19                             https://github.com/pjcj/Gedcom.pm/issues/5
 XML-Parser-Lite-0.72                    91434
 Mandel-0.23                             https://github.com/jhthorsen/mandel/issues/23
+Fey-0.40                                102342
