@@ -1061,7 +1061,7 @@ Template-Plugin-Autoformat-2.75         99972
 Graphics-Color-0.29                     https://github.com/Test-More/test-more/issues/478
 Aspect-1.04                             https://github.com/Test-More/test-more/issues/474
 Test-Classy-0.09                        https://github.com/Test-More/test-more/issues/480
-Test-DBIx-Class-Schema-1.0.6            https://github.com/Test-More/test-more/issues/481
+Test-DBIx-Class-Schema-1.0.7            https://github.com/Test-More/test-more/issues/481,https://github.com/chiselwright/test-dbix-class-schema/issues/12
 Validation-Class-7.900056               https://github.com/Test-More/test-more/issues/482
 Data-Rx-0.200006                        https://github.com/Test-More/test-more/issues/483
 Test-Leaner-0.05                        https://github.com/Test-More/test-more/issues/484
