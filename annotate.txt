@@ -1246,7 +1246,6 @@ String-Slice-0.03                       95093,https://github.com/ingydotnet/stri
 WebService-Algolia-0.1002               http://www.cpantesters.org/cpan/report/dd22e8ea-912d-11e4-87f1-31723a6893cb
 Lingua-JA-Numbers-0.04                  101073
 Locale-VersionedMessages-0.94           101280
-LWP-ConsoleLogger-0.000012              https://github.com/oalders/lwp-consolelogger/issues/3
 Test-DistManifest-1.012                 101287
 Mail-Alias-1.12                         101356
 MooseX-Declare-Context-WithOptions-Patch-Extensible-0.002 101357
@@ -1312,3 +1311,4 @@ Pod-L10N-1.03                           102368,https://github.com/argrath/Pod-L1
 Template-Plugin-Markdown-0.02           83187
 macro-0.06                              https://rt.perl.org/rt3/Ticket/Display.html?id=123947
 Mojolicious-Plugin-Mail-1.3             102499
+LWP-ConsoleLogger-0.000013              https://github.com/oalders/lwp-consolelogger/issues/3
