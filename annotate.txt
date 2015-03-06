@@ -1312,3 +1312,4 @@ Template-Plugin-Markdown-0.02           83187
 macro-0.06                              https://rt.perl.org/rt3/Ticket/Display.html?id=123947
 Mojolicious-Plugin-Mail-1.3             102499
 LWP-ConsoleLogger-0.000013              https://github.com/oalders/lwp-consolelogger/issues/3
+NNexus-2.0.2                            102548
