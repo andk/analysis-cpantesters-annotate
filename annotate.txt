@@ -1244,7 +1244,6 @@ Catalyst-Runtime-5.90078                101243
 Data-DynamicValidator-0.03              101068
 String-Slice-0.03                       95093,https://github.com/ingydotnet/string-slice-pm/issues/3
 WebService-Algolia-0.1002               http://www.cpantesters.org/cpan/report/dd22e8ea-912d-11e4-87f1-31723a6893cb
-Lingua-JA-Numbers-0.04                  101073
 Locale-VersionedMessages-0.94           101280
 Test-DistManifest-1.012                 101287
 Mail-Alias-1.12                         101356
@@ -1318,3 +1317,4 @@ Text-RecordParser-v1.6.3                54816
 App-Pipeline-Simple-0.9.1               102756
 LaTeX-Encode-0.091.6                    88094
 GO-TermFinder-0.86                      102758
+Lingua-JA-Numbers-0.05                  101073
