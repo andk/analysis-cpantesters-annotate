@@ -784,7 +784,6 @@ PDF-Reuse-0.35                          https://rt.perl.org/rt3/Ticket/Display.h
 Geo-Query-LatLong-0.8011                https://rt.perl.org/rt3/Ticket/Display.html?id=122136
 Class-Plugin-Util-0.009                 https://rt.perl.org/rt3/Ticket/Display.html?id=122136
 Cache-Cache-1.06                        https://rt.perl.org/rt3/Ticket/Display.html?id=122136
-DB_File-Lock-0.05                       https://rt.perl.org/rt3/Ticket/Display.html?id=122136
 Ogg-Vorbis-Header-PurePerl-1.0          96578
 HTML-Template-Default-1.10              https://rt.perl.org/rt3/Ticket/Display.html?id=122136
 Catalyst-Model-SOAP-1.5                 96599
@@ -1043,7 +1042,6 @@ App-perlminlint-0.21                    99917
 CSS-Selector-Grammar-0.002              99919
 File-Where-0.05                         99920
 HTML-Template-2.95                      98029
-Module-Info-0.35                        https://rt.perl.org/rt3/Ticket/Display.html?id=122251
 Log-Deep-v0.3.3                         https://rt.perl.org/rt3/Ticket/Display.html?id=122251
 Proc-Swarm-1.133280                     https://github.com/dana/perl-Proc-Swarm/issues/1
 App-Git-Workflow-0.13                   https://github.com/ivanwills/git-workflow-tools/issues/3
@@ -1254,7 +1252,6 @@ Text-Markup-0.19                        https://github.com/theory/text-markup/is
 Syccess-0.103                           100220
 Business-BalancedPayments-1.0600        https://github.com/Crowdtilt/Business-BalancedPayments/issues/53
 DBIx-Class-Result-ColumnData-0.16       84928
-Moose-Autobox-0.15                      https://rt.perl.org/rt3/Ticket/Display.html?id=123619
 WebService-PutIo-0.3                    101809
 Tie-Util-0.03                           101849
 Module-Starter-Plugin-CGIApp-0.42       101894
@@ -1286,7 +1283,6 @@ Getopt-Config-FromPod-v0.0.2            102120
 MojoX-Session-0.31                      https://github.com/vti/mojox-session/issues/15
 Getopt-Long-DescriptivePod-0.02         102138
 WWW-Desk-0.06                           102139
-Devel-Declare-0.006017                  https://rt.perl.org/rt3/Ticket/Display.html?id=123865
 DBIx-Class-TimeStamp-0.14               https://rt.perl.org/rt3/Ticket/Display.html?id=123879
 Catalyst-Controller-Atompub-0.5.6       102240
 Catalyst-Plugin-ErrorCatcher-0.0.8.15   https://github.com/chiselwright/catalyst-plugin-errorcatcher/issues/3
@@ -1317,3 +1313,7 @@ LaTeX-Encode-0.091.6                    88094
 GO-TermFinder-0.86                      102758
 Lingua-JA-Numbers-0.05                  101073
 LWP-ConsoleLogger-0.000014              https://github.com/oalders/lwp-consolelogger/issues/3
+Moose-Autobox-0.15                      https://rt.perl.org/rt3/Ticket/Display.html?id=123619,102917
+Module-Info-0.35                        https://rt.perl.org/rt3/Ticket/Display.html?id=122251,97105
+Devel-Declare-0.006017                  https://rt.perl.org/rt3/Ticket/Display.html?id=123865,102918
+DB_File-Lock-0.05                       https://rt.perl.org/rt3/Ticket/Display.html?id=122136,98224
