@@ -1317,3 +1317,4 @@ Moose-Autobox-0.15                      https://rt.perl.org/rt3/Ticket/Display.h
 Module-Info-0.35                        https://rt.perl.org/rt3/Ticket/Display.html?id=122251,97105
 Devel-Declare-0.006017                  https://rt.perl.org/rt3/Ticket/Display.html?id=123865,102918
 DB_File-Lock-0.05                       https://rt.perl.org/rt3/Ticket/Display.html?id=122136,98224
+Mojolicious-Plugin-CGI-0.20             https://github.com/jhthorsen/mojolicious-plugin-cgi/issues/14
