@@ -1326,3 +1326,4 @@ Math-Histogram-1.03                     103035
 Math-Permute-Array-0.043                103041
 Net-Async-WebSocket-0.09                103073
 VSO-0.025                               88308
+Tree-Template-Declare-0.5               103088
