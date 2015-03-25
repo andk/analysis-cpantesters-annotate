@@ -1325,3 +1325,4 @@ Sub-Apply-0.06                          https://github.com/ysasaki/p5-sub-apply/
 Math-Histogram-1.03                     103035
 Math-Permute-Array-0.043                103041
 Net-Async-WebSocket-0.09                103073
+VSO-0.025                               88308
