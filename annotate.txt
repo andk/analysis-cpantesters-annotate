@@ -873,7 +873,6 @@ Amon2-Lite-0.12                         https://github.com/tokuhirom/Amon2-Lite/
 Selenium-PageObject-0.007               98410
 Crypt-Fernet-0.02                       98418
 Test-Group-0.19                         98422
-Sub-Mutate-0.005                        95649
 CPAN-Mini-Tested-0.23                   98445
 namespace-alias-0.02                    95228
 Config-Trivial-Storable-0.32            95343
@@ -1327,3 +1326,4 @@ Math-Permute-Array-0.043                103041
 Net-Async-WebSocket-0.09                103073
 VSO-0.025                               88308
 Tree-Template-Declare-0.5               103088
+Sub-Mutate-0.006                        95649
