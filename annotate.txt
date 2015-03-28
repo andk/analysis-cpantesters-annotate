@@ -978,7 +978,6 @@ MooseX-ErsatzMethod-0.004               99224
 HTTP-Headers-ActionPack-0.09            98843
 CGI-Alert-2.08                          99244
 Devel-Cover-1.17                        https://rt.perl.org/Ticket/Display.html?id=122874
-Data-Dump-Streamer-2.38                 https://rt.perl.org/Ticket/Display.html?id=122870
 Catalyst-Engine-PSGI-0.13               98874
 LWP-Simple-REST-0.001                   99285
 Dist-Inkt-Profile-TOBYINK-0.023         99286
@@ -1330,3 +1329,4 @@ Mojolicious-Plugin-ParamExpand-0.02     https://github.com/sshaw/Mojolicious-Plu
 WebService-Pushover-v1.0.0              103152
 Mojolicious-Plugin-Notifications-0.6    102991
 Mojolicious-Plugin-JSUrlFor-0.16        103011
+Data-Dump-Streamer-2.38                 102369
