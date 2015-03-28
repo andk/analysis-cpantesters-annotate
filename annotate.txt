@@ -1327,3 +1327,4 @@ Tree-Template-Declare-0.5               103088
 Sub-Mutate-0.006                        95649
 CGI-OptimalQuery-0.15                   103136
 Mojolicious-Plugin-ParamExpand-0.02     https://github.com/sshaw/Mojolicious-Plugin-ParamExpand/issues/2
+WebService-Pushover-v1.0.0              103152
