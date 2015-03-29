@@ -1330,3 +1330,4 @@ WebService-Pushover-v1.0.0              103152
 Mojolicious-Plugin-Notifications-0.6    102991
 Mojolicious-Plugin-JSUrlFor-0.16        103011
 Data-Dump-Streamer-2.38                 102369
+MooseX-App-1.32                         103172
