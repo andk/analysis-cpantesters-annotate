@@ -1339,3 +1339,5 @@ Class-Mixer-0.52                        103177
 MouseX-POE-0.214                        103180
 JSON-HPack-0.0.3                        96496
 uni-perl-0.92                           103077
+Coat-0.502                              85440
+MooseX-NotRequired-0.11                 95847
