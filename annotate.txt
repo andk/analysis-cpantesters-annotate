@@ -1341,3 +1341,4 @@ JSON-HPack-0.0.3                        96496
 uni-perl-0.92                           103077
 Coat-0.502                              85440
 MooseX-NotRequired-0.11                 95847
+Dancer2-Plugin-ProgressStatus-0.016     https://github.com/shumphrey/Dancer2-Plugin-ProgressStatus/issues/2
