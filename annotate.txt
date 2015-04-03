@@ -1344,3 +1344,6 @@ MooseX-NotRequired-0.11                 95847
 Dancer2-Plugin-ProgressStatus-0.016     https://github.com/shumphrey/Dancer2-Plugin-ProgressStatus/issues/2
 JSON-XS-Sugar-1.00                      https://github.com/maxmind/JSON-XS-Sugar-perl/issues/1
 TryCatch-1.003002                       103263
+AnyMQ-0.35                              95255
+Catalyst-Manual-Monthly-0.04            103294
+Finance-Bitcoin-Feed-0.03               https://github.com/binary-com/perl-Finance-Bitcoin-Feed/issues/2
