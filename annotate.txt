@@ -1347,3 +1347,7 @@ TryCatch-1.003002                       103263
 AnyMQ-0.35                              95255
 Catalyst-Manual-Monthly-0.04            103294
 Finance-Bitcoin-Feed-0.03               https://github.com/binary-com/perl-Finance-Bitcoin-Feed/issues/2
+Locale-Maketext-Utils-0.41              103220
+Linux-Prctl-1.5.0                       79909
+Text-Xslate-3.3.4                       https://github.com/xslate/p5-Text-Xslate/issues/135
+String-Incremental-0.01                 https://github.com/issm/p5-String-Incremental/issues/5
