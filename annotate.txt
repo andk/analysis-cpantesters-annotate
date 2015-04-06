@@ -1361,3 +1361,10 @@ MediaWiki-Bot-5.006002                  https://github.com/MediaWiki-Bot/MediaWi
 HTML-FormHandlerX-Form-JQueryValidator-0.05 103324
 Devel-FindRef-1.44                      101077
 Starlet-0.24                            103299
+Code-Statistics-1.112980                103333
+Contenticious-0.35                      https://github.com/memowe/contenticious/issues
+Dancer2-Plugin-Auth-YARBAC-0.009        103334
+Dancer2-Plugin-HTTP-Auth-Extensible-0.003 https://github.com/PerlDancer/Dancer2-Plugin-Auth-Extensible/issues/21
+Dancer2-Plugin-REST-0.25                https://github.com/PerlDancer/Dancer2-Plugin-REST/issues/5
+Data-Printer-Filter-ClassicRegex-0.01   103335
+Device-WebIO-Dancer-0.003               103336
