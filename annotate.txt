@@ -1354,3 +1354,4 @@ String-Incremental-0.01                 https://github.com/issm/p5-String-Increm
 Test-POE-Stopping-1.09                  103313
 here-0.03                               103322
 Imager-Graph-0.11                       103328
+Imager-Tiler-1.01                       103329
