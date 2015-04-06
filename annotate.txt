@@ -1360,3 +1360,4 @@ Contenticious-0.35                      https://github.com/memowe/contenticious/
 MediaWiki-Bot-5.006002                  https://github.com/MediaWiki-Bot/MediaWiki-Bot/issues/72
 HTML-FormHandlerX-Form-JQueryValidator-0.05 103324
 Devel-FindRef-1.44                      101077
+Starlet-0.24                            103299
