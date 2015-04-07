@@ -1368,3 +1368,4 @@ Dancer2-Plugin-HTTP-Auth-Extensible-0.003 https://github.com/PerlDancer/Dancer2-
 Dancer2-Plugin-REST-0.25                https://github.com/PerlDancer/Dancer2-Plugin-REST/issues/5
 Data-Printer-Filter-ClassicRegex-0.01   103335
 Device-WebIO-Dancer-0.003               103336
+Flickr-API2-2.10                        103337
