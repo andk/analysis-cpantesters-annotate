@@ -1369,3 +1369,9 @@ Dancer2-Plugin-REST-0.25                https://github.com/PerlDancer/Dancer2-Pl
 Data-Printer-Filter-ClassicRegex-0.01   103335
 Device-WebIO-Dancer-0.003               103336
 Flickr-API2-2.10                        103337
+YATT-Lite-0.0.9                         103393,100205
+WWW-Proxy4FreeCom-1.003                 103395
+Twitter-Daily-0.1.3                     103396
+Triggermail-1.005                       The module Triggermail is now deprecated.
+Tickit-Widget-Choice-0.01               103397
+Test-AutoLoader-0.03                    77942
