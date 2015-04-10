@@ -1375,3 +1375,5 @@ Twitter-Daily-0.1.3                     103396
 Triggermail-1.005                       The module Triggermail is now deprecated.
 Tickit-Widget-Choice-0.01               103397
 Test-AutoLoader-0.03                    77942
+RTMP-Client-0.04                        103021
+Redis-JobQueue-1.15                     103426
