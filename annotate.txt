@@ -1379,3 +1379,15 @@ RTMP-Client-0.04                        103021
 Redis-JobQueue-1.15                     103426
 File-Details-0.001                      103434
 Finance-Bitcoin-Feed-0.04               https://github.com/binary-com/perl-Finance-Bitcoin-Feed/issues/3
+Plack-Middleware-File-Sass-0.03         96823
+Catalyst-View-XML-Feed-0.07             103454
+Net-DNS-SPF-Expander-0.014              https://github.com/amiri/Net-DNS-SPF-Expander/issues/4
+circle-be-0.142470                      101151
+App-autotest-0.005                      https://github.com/glauschwuffel/perl5-App-autotest/issues/17
+MojoMojo-1.11                           https://github.com/mojomojo/mojomojo/issues/121
+FindBin-libs-2.12                       103054
+Signals-XSIG-0.13                       103457
+XML-Liberal-0.30                        103458
+Ado-Plugin-Vest-0.09                    https://github.com/kberov/Ado-Plugin-Vest/issues/1
+Acme-SGABRIEL-Utils 0.01c               PASS reports for unknown reason only from CPANPLUS smokers
+WWW-StatusBadge-0.0.2                   https://github.com/ARivottiC/WWW-StatusBadge.pm/issues/1
