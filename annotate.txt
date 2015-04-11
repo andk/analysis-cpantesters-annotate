@@ -1378,3 +1378,4 @@ Test-AutoLoader-0.03                    77942
 RTMP-Client-0.04                        103021
 Redis-JobQueue-1.15                     103426
 File-Details-0.001                      103434
+Finance-Bitcoin-Feed-0.04               https://github.com/binary-com/perl-Finance-Bitcoin-Feed/issues/3
