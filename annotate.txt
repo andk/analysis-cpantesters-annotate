@@ -977,7 +977,6 @@ MooseX-Enumeration-0.005                99223
 MooseX-ErsatzMethod-0.004               99224
 HTTP-Headers-ActionPack-0.09            98843
 CGI-Alert-2.08                          99244
-Devel-Cover-1.17                        https://rt.perl.org/Ticket/Display.html?id=122874
 Catalyst-Engine-PSGI-0.13               98874
 LWP-Simple-REST-0.001                   99285
 Dist-Inkt-Profile-TOBYINK-0.023         99286
@@ -1391,3 +1390,5 @@ XML-Liberal-0.30                        103458
 Ado-Plugin-Vest-0.09                    https://github.com/kberov/Ado-Plugin-Vest/issues/1
 Acme-SGABRIEL-Utils 0.01c               PASS reports for unknown reason only from CPANPLUS smokers
 WWW-StatusBadge-0.0.2                   https://github.com/ARivottiC/WWW-StatusBadge.pm/issues/1
+Plack-Middleware-Recorder-0.04          https://github.com/hoelzro/plack-middleware-recorder/issues/9
+Devel-Cover-1.17                        https://rt.perl.org/Ticket/Display.html?id=122874
