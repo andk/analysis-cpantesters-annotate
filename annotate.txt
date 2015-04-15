@@ -1391,5 +1391,6 @@ Ado-Plugin-Vest-0.09                    https://github.com/kberov/Ado-Plugin-Ves
 Acme-SGABRIEL-Utils 0.01c               PASS reports for unknown reason only from CPANPLUS smokers
 WWW-StatusBadge-0.0.2                   https://github.com/ARivottiC/WWW-StatusBadge.pm/issues/1
 Plack-Middleware-Recorder-0.04          https://github.com/hoelzro/plack-middleware-recorder/issues/9
-Devel-Cover-1.18                        https://rt.perl.org/Ticket/Display.html?id=122874
+Devel-Cover-1.18                        https://github.com/pjcj/Devel--Cover/issues/122,https://rt.perl.org/Ticket/Display.html?id=122874
 SVN-Notify-Mirror-0.040                 98443
+Redis-Queue-0.01                        103553
