@@ -1394,3 +1394,4 @@ Plack-Middleware-Recorder-0.04          https://github.com/hoelzro/plack-middlew
 Devel-Cover-1.18                        https://github.com/pjcj/Devel--Cover/issues/122,https://rt.perl.org/Ticket/Display.html?id=122874
 SVN-Notify-Mirror-0.040                 98443
 Redis-Queue-0.01                        103553
+Devel-Leak-Cb-0.04                      103549
