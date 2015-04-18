@@ -1396,3 +1396,4 @@ SVN-Notify-Mirror-0.040                 98443
 Redis-Queue-0.01                        103553
 Devel-Leak-Cb-0.04                      103549
 Data-UUID-1.220                         85978
+Test-Pretty-0.31                        https://github.com/tokuhirom/Test-Pretty/pull/28
