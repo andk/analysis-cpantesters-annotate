@@ -1307,7 +1307,7 @@ App-Pipeline-Simple-0.9.1               102756
 LaTeX-Encode-0.091.6                    88094
 GO-TermFinder-0.86                      102758
 Lingua-JA-Numbers-0.05                  101073
-LWP-ConsoleLogger-0.000014              https://github.com/oalders/lwp-consolelogger/issues/3
+LWP-ConsoleLogger-0.000015              https://github.com/oalders/lwp-consolelogger/issues/3
 Moose-Autobox-0.15                      https://rt.perl.org/rt3/Ticket/Display.html?id=123619,102917
 Module-Info-0.35                        https://rt.perl.org/rt3/Ticket/Display.html?id=122251,97105
 Devel-Declare-0.006017                  https://rt.perl.org/rt3/Ticket/Display.html?id=123865,102918
@@ -1395,3 +1395,4 @@ Devel-Cover-1.18                        https://github.com/pjcj/Devel--Cover/iss
 SVN-Notify-Mirror-0.040                 98443
 Redis-Queue-0.01                        103553
 Devel-Leak-Cb-0.04                      103549
+Data-UUID-1.220                         85978
