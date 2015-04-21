@@ -1405,3 +1405,4 @@ CPAN-Mini-Extract-1.23                  probably temporary network/webservice pr
 Time-Piece-Over24-0.016                 103160
 Eval-Closure-0.12                       https://github.com/doy/eval-closure/issues/6
 Box-Calc-1.0001                         https://github.com/rizen/Box-Calc/issues/6
+Swagger2-0.29                           https://github.com/jhthorsen/swagger2/issues/12
