@@ -1402,5 +1402,6 @@ File-BaseDir-0.06                       103805
 File-Lock-Multi-1.01                    103806
 BackPAN-Index-0.42                      probably temporary network/webservice problem
 CPAN-Mini-Extract-1.23                  probably temporary network/webservice problem
+Time-Piece-Over24-0.016                 103160
 Eval-Closure-0.12                       https://github.com/doy/eval-closure/issues/6
 Box-Calc-1.0001                         https://github.com/rizen/Box-Calc/issues/6
