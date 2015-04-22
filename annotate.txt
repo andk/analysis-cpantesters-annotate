@@ -1408,3 +1408,4 @@ Box-Calc-1.0001                         https://github.com/rizen/Box-Calc/issues
 Swagger2-0.29                           https://github.com/jhthorsen/swagger2/issues/12
 HTML-FormHandler-Field-Date-Infinite-v0.1.2 103848
 HTML-Lint-2.22                          https://github.com/petdance/html-lint/issues/39
+Dancer-1.3134                           https://github.com/PerlDancer/Dancer/issues/1110
