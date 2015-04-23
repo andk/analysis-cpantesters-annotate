@@ -1411,3 +1411,6 @@ HTML-Lint-2.22                          https://github.com/petdance/html-lint/is
 Dancer-1.3134                           https://github.com/PerlDancer/Dancer/issues/1110
 BZ-Client-1.06                          https://rt.cpan.org/Ticket/Display.html?id=103873
 Encode-2.73                             103896
+Catalyst-View-Mason-0.19                102381
+B-Flags-0.11                            103874
+Finance-OFX-Parse-Simple-0.07           96918
