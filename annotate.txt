@@ -1410,3 +1410,4 @@ HTML-FormHandler-Field-Date-Infinite-v0.1.2 103848
 HTML-Lint-2.22                          https://github.com/petdance/html-lint/issues/39
 Dancer-1.3134                           https://github.com/PerlDancer/Dancer/issues/1110
 BZ-Client-1.06                          https://rt.cpan.org/Ticket/Display.html?id=103873
+Encode-2.73                             103896
