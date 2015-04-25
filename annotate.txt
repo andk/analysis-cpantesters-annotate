@@ -1418,3 +1418,4 @@ App-perlrdf-0.006                       99158
 POE-1.366                               103842
 Exporter-Proxy-0.07                     103953
 Net-Semantics3-0.20                     103954
+Text-Markup-0.22                        https://github.com/theory/text-markup/issues/15
