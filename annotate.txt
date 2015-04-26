@@ -1434,3 +1434,12 @@ App-Sets-0.973                          103970
 WWW-Mechanize-Shell-0.53                103971
 Genealogy-Gedcom-Date-1.08              103959
 Devel-Spy-0.07                          103963
+Filter-PerlTags-0.01                    103974
+Brownie-0.09                            98810
+Catalyst-Action-Wizard-0.008            103975
+Data-HAL-1.000                          101827
+Log-Message-Structured-Stringify-AsSereal-0.11 https://github.com/dams/log-message-structured-stringify-sereal/issues/2
+lc_time-0.11                            103977
+Perinci-Sub-Property-dies_on_error-0.05 103932
+Rose-DBx-Object-Cached-FastMmap-0.05    103978
+App-assh-1.1.2                          103976
