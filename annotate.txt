@@ -1446,3 +1446,5 @@ App-assh-1.1.2                          103976
 RDF-Flow-0.178                          https://github.com/nichtich/RDF-Flow/issues/1
 CGI-RSS-0.9655                          103980
 XML-Atom-Microformats-0.004             103988
+Catalyst-Plugin-MessageStack-0.03       103990
+Time-Elapse-1.2402                      103993
