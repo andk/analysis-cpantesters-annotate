@@ -1448,3 +1448,6 @@ CGI-RSS-0.9655                          103980
 XML-Atom-Microformats-0.004             103988
 Catalyst-Plugin-MessageStack-0.03       103990
 Time-Elapse-1.2402                      103993
+Error-Base-v1.0.2                       104016
+HTML-Template-Plugin-Dot-Helpers-0.06   104019
+Games-Chess-0.003                       104021
