@@ -1452,3 +1452,4 @@ Error-Base-v1.0.2                       104016
 HTML-Template-Plugin-Dot-Helpers-0.06   104019
 Games-Chess-0.003                       104021
 NgxQueue-0.02                           104018
+Clustericious-0.9945                    https://github.com/plicease/Clustericious/issues/15
