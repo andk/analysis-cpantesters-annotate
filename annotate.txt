@@ -1454,3 +1454,4 @@ NgxQueue-0.02                           104018
 Clustericious-0.9945                    https://github.com/plicease/Clustericious/issues/15
 Xen-API-0.09                            104057
 Parse-Perl-0.007                        79158,104095
+Test-Kwalitee-Extra-v0.3.0              104113
