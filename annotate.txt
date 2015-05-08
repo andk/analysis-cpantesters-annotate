@@ -1458,3 +1458,4 @@ Test-Kwalitee-Extra-v0.3.0              104113
 Class-ObjectTemplate-0.7                104177
 CPAN-Reporter-Smoker-Safer-0.04         may fail if www.cpantesters.org is unavailable
 WebService-MODIS-1.2                    104274
+Graph-Similarity-v0.0.5                 95943
