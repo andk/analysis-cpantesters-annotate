@@ -459,7 +459,6 @@ GVF-Parser-1.07                         82578
 Dancer-Routes-20130114.125429           83802
 DateTime-Format-DateManip-0.04          55771
 JSON-JOM-0.501                          84038 (implicit)
-Classic-Perl-0.05                       84248
 CSS-DOM-0.15                            84253
 DBD-SQLAnywhere-2.08                    84257
 JSON-PPdev-2.27100                      84258
@@ -1459,3 +1458,4 @@ Class-ObjectTemplate-0.7                104177
 CPAN-Reporter-Smoker-Safer-0.04         may fail if www.cpantesters.org is unavailable
 WebService-MODIS-1.2                    104274
 Graph-Similarity-v0.0.5                 95943
+Classic-Perl-0.05                       104403
