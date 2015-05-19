@@ -1459,3 +1459,4 @@ CPAN-Reporter-Smoker-Safer-0.04         may fail if www.cpantesters.org is unava
 WebService-MODIS-1.2                    104274
 Graph-Similarity-v0.0.5                 95943
 Classic-Perl-0.05                       104403
+Image-Scale-0.08                        79728
