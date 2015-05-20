@@ -1465,3 +1465,4 @@ Socket-Netlink-Taskstats-0.03           104514
 Linux-Smaps-0.13                        104515
 CSS-Sass-v3.2.2                         104556
 Math-Derivative-0.02                    104557
+GnuCash-SQLite-0.05                     104558
