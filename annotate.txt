@@ -1467,3 +1467,5 @@ Math-Derivative-0.02                    104557
 GnuCash-SQLite-0.05                     104558
 Experian-IDAuth-1.7                     104559
 Devel-Cover-1.18                        https://github.com/pjcj/Devel--Cover/issues/126
+DestructAssign-0.002003                 104640
+xml-tag-0.5                             104643
