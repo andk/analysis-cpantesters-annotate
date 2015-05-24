@@ -1469,3 +1469,4 @@ Experian-IDAuth-1.7                     104559
 Devel-Cover-1.18                        https://github.com/pjcj/Devel--Cover/issues/126
 DestructAssign-0.002003                 104640
 xml-tag-0.5                             104643
+Mojolicious-Plugin-XRD-0.15             104649
