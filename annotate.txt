@@ -1472,3 +1472,4 @@ xml-tag-0.5                             104643
 Mojolicious-Plugin-XRD-0.15             104649
 Mojolicious-Plugin-I18N-1.5             104650
 Mojolicious-Plugin-SimpleSlides-0.02    https://github.com/jberger/Mojolicious-Plugin-SimpleSlides/issues/1
+Mojolicious-Plugin-RenderSteps-0.05     https://github.com/marcusramberg/Mojolicious-Plugin-RenderSteps/issues/1
