@@ -1476,3 +1476,4 @@ Mojolicious-Plugin-RenderSteps-0.05     https://github.com/marcusramberg/Mojolic
 Tinder-API-0.03                         104675
 Business-Shipping-MRW-0.02              104684
 Crypt-CipherSaber-1.01                  104680
+List-Slice-0.002                        https://github.com/preaction/List-Slice/issues/1
