@@ -1359,7 +1359,7 @@ HTML-FormHandlerX-Form-JQueryValidator-0.05 103324
 Devel-FindRef-1.44                      101077
 Starlet-0.24                            103299
 Code-Statistics-1.112980                103333
-Contenticious-0.35                      https://github.com/memowe/contenticious/issues
+Contenticious-0.35                      https://github.com/memowe/contenticious/issues/12
 Dancer2-Plugin-Auth-YARBAC-0.009        103334
 Dancer2-Plugin-HTTP-Auth-Extensible-0.003 https://github.com/PerlDancer/Dancer2-Plugin-Auth-Extensible/issues/21
 Dancer2-Plugin-REST-0.25                https://github.com/PerlDancer/Dancer2-Plugin-REST/issues/5
@@ -1473,3 +1473,5 @@ Mojolicious-Plugin-XRD-0.15             104649
 Mojolicious-Plugin-I18N-1.5             104650
 Mojolicious-Plugin-SimpleSlides-0.02    https://github.com/jberger/Mojolicious-Plugin-SimpleSlides/issues/1
 Mojolicious-Plugin-RenderSteps-0.05     https://github.com/marcusramberg/Mojolicious-Plugin-RenderSteps/issues/1
+Tinder-API-0.03                         104675
+Business-Shipping-MRW-0.02              104684
