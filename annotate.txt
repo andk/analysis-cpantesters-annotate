@@ -1475,3 +1475,4 @@ Mojolicious-Plugin-SimpleSlides-0.02    https://github.com/jberger/Mojolicious-P
 Mojolicious-Plugin-RenderSteps-0.05     https://github.com/marcusramberg/Mojolicious-Plugin-RenderSteps/issues/1
 Tinder-API-0.03                         104675
 Business-Shipping-MRW-0.02              104684
+Crypt-CipherSaber-1.01                  104680
