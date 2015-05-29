@@ -1477,3 +1477,8 @@ Tinder-API-0.03                         104675
 Business-Shipping-MRW-0.02              104684
 Crypt-CipherSaber-1.01                  104680
 List-Slice-0.002                        https://github.com/preaction/List-Slice/issues/1
+Mojolicious-Plugin-REST-0.006           104785
+Mojolicious-Plugin-Directory-Stylish-1.002 https://github.com/pink-mist/Mojolicious-Plugin-Directory-Stylish/issues/3
+Mojolicious-Plugin-DeCSRF-0.94          104788
+Mojolicious-Plugin-PlainRoutes-0.04     103899
+Mojolicious-Plugin-SQLiteViewerLite-0.12 104789
