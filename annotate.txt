@@ -1483,3 +1483,4 @@ Mojolicious-Plugin-DeCSRF-0.94          104788
 Mojolicious-Plugin-PlainRoutes-0.04     103899
 Mojolicious-Plugin-SQLiteViewerLite-0.12 104789
 Mojolicious-Plugin-ZombieApocalypse-0.01 104792
+User-Simple-1.45                         103957
