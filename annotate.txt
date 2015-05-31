@@ -1186,7 +1186,6 @@ Switch-2.17                             96753
 Elive-1.32                              101018
 Parse-MediaWikiDump-1.0.6               https://rt.perl.org/rt3/Ticket/Display.html?id=123462
 Eval-Closure-0.11                       https://rt.perl.org/rt3/Ticket/Display.html?id=123349
-Coro-6.41                               101063
 Exception-Base-0.25                     https://github.com/dex4er/perl-Exception-Base/issues/1
 Switch-Plain-0.02                       101081
 XML-XML2JSON-0.06                       101082
@@ -1284,7 +1283,6 @@ Plack-Middleware-Redirect-0.01          https://github.com/okazu-dm/p5-plack-mid
 Encode-JP-Mobile-0.30                   87393
 Org-Parser-0.43                         101641,https://rt.perl.org/rt3/Ticket/Display.html?id=123527
 Teng-0.27                               https://github.com/nekokak/p5-Teng/issues/143
-Coro-6.42                               101063
 Tree-VP-0.01                            102262
 rss2leafnode-78                         102283
 Date-Holidays-PT-0.02                   98441
@@ -1483,4 +1481,5 @@ Mojolicious-Plugin-DeCSRF-0.94          104788
 Mojolicious-Plugin-PlainRoutes-0.04     103899
 Mojolicious-Plugin-SQLiteViewerLite-0.12 104789
 Mojolicious-Plugin-ZombieApocalypse-0.01 104792
-User-Simple-1.45                         103957
+User-Simple-1.45                        103957
+Coro-6.42                               101063
