@@ -1483,3 +1483,10 @@ Mojolicious-Plugin-SQLiteViewerLite-0.12 104789
 Mojolicious-Plugin-ZombieApocalypse-0.01 104792
 User-Simple-1.45                        103957
 Coro-6.42                               101063
+Math-NumSeq-Alpha-2                     104832
+Riak-Light-0.11                         https://github.com/Weborama/Riak-Light/issues/20
+B-C-1.52                                103944
+WWW-Shorten-Googl-1.02                  104847
+Pod-Generate-Recursive-0.3              104851
+AnyEvent-Tickit-0.01                    104852
+Redis-1.979                             https://github.com/PerlRedis/perl-redis/issues/111
