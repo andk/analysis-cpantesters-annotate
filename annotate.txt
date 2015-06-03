@@ -1492,3 +1492,4 @@ AnyEvent-Tickit-0.01                    104852
 Redis-1.979                             https://github.com/PerlRedis/perl-redis/issues/111
 LWP-ConsoleLogger-0.000019              https://github.com/oalders/lwp-consolelogger/issues/4
 test-mojo-session-1.02                  https://github.com/avkhozov/Test-Mojo-Session/issues/3
+Mojolicious-Plugin-MailException-0.19   https://github.com/dr-co/libmojolicious-plugin-mail_exception/pull/10
