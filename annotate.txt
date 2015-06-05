@@ -1494,3 +1494,4 @@ Mojolicious-Plugin-MailException-0.19   https://github.com/dr-co/libmojolicious-
 MooX-Struct-0.013                       104895
 Geo-Hex-V3-XS-0.05                      https://github.com/karupanerura/Geo-Hex-V3-XS/issues/1
 POE-Component-DirWatch-0.300003         81765
+Perl-Critic-Dynamic-0.05                103382
