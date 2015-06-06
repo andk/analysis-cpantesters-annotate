@@ -1495,3 +1495,11 @@ MooX-Struct-0.013                       104895
 Geo-Hex-V3-XS-0.05                      https://github.com/karupanerura/Geo-Hex-V3-XS/issues/1
 POE-Component-DirWatch-0.300003         81765
 Perl-Critic-Dynamic-0.05                103382
+cexio-0.2.3                             105011
+Catalyst-View-TT-ControllerLocal-0.02   105010
+POE-Loop-Prima-1.02                     105012
+Scalar-Accessors-LikeHash-0.002         100223
+WWW-Gittip-0.07                         101887
+WebService-Instagram-0.05               105013
+WWW-Mechanize-Query-0.03                105014
+WWW-Shorten-Googl-1.02                  104847
