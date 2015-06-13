@@ -888,7 +888,6 @@ IO-Iron-0.10                            98625
 Music-Canon-2.00                        98626
 App-Cmd-Starter-0.02                    98627
 SOAP-WSDL-v3.001                        98628
-USPS-RateRequest-0.0100                 https://github.com/rizen/USPS-RateRequest/issues/1
 Acme-TLDR-0.004                         https://github.com/creaktive/Acme-TLDR/issues/3
 AnyEvent-Delay-0.01                     95245
 Mojolicious-Plugin-SecureCORS-1.0.1     98633
@@ -1517,3 +1516,5 @@ Form-Factory-0.021                      105047
 Net-Interface-1.012                     83994,102390
 HackaMol-X-Calculator-0.011             105148
 Net-Hadoop-YARN-0.002                   105149
+Exodist-Util-0.008                      https://github.com/exodist/Exodist-Util/issues/6
+USPS-RateRequest-1.0001                 https://github.com/rizen/USPS-RateRequest/issues/1
