@@ -1518,3 +1518,4 @@ HackaMol-X-Calculator-0.011             105148
 Net-Hadoop-YARN-0.002                   105149
 Exodist-Util-0.008                      https://github.com/exodist/Exodist-Util/issues/6
 USPS-RateRequest-1.0001                 https://github.com/rizen/USPS-RateRequest/issues/1
+XML-XSH-1.8.2                           105231
