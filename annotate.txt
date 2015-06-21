@@ -1519,3 +1519,6 @@ Net-Hadoop-YARN-0.002                   105149
 Exodist-Util-0.008                      https://github.com/exodist/Exodist-Util/issues/6
 USPS-RateRequest-1.0001                 https://github.com/rizen/USPS-RateRequest/issues/1
 XML-XSH-1.8.2                           105231
+Class-Storage-0.02                      105394
+HPC-Runner-MCE-2.34                     bug reporting requires account
+Config-ENV-Multi-0.02                   https://github.com/hixi-hyi/p5-Config-ENV-Multi/issues/1
