@@ -1521,3 +1521,6 @@ Class-Storage-0.02                      105394
 HPC-Runner-MCE-2.34                     bug reporting requires account
 Config-ENV-Multi-0.02                   https://github.com/hixi-hyi/p5-Config-ENV-Multi/issues/1
 lib-filter-0.08                         105458
+Test-WWW-Simple-0.34                    95958
+CatalystX-I18N-1.13                     100351
+SOAP-DirectI-0.001                      103222
