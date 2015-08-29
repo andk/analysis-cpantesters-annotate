@@ -1524,3 +1524,12 @@ Test-WWW-Simple-0.34                    95958
 CatalystX-I18N-1.13                     100351
 SOAP-DirectI-0.001                      103222
 App-JobLog-1.035                        95737
+Captcha-reCAPTCHA-V2-0.2                https://github.com/Sidnet/p5-Captcha-reCAPTCHA-V2/issues/1
+libintl-perl-1.24                       47968
+Locales-0.33                            103291
+Mojolicious-Plugin-Logf-0.06            https://github.com/jhthorsen/mojolicious-plugin-logf/issues/1
+Data-Seek-0.08                          https://github.com/alnewkirk/Data-Seek/issues/2
+Net-NSCAng-Client-0.02                  106727
+SOAP-Lite-1.19                          106725
+AnyEvent-7.11                           106726
+Text-sprintfn-0.07                      105989
