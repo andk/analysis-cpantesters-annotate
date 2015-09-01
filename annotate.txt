@@ -1553,3 +1553,6 @@ Mojolicious-Plugin-I18NUtils-0.14       https://github.com/reneeb/Mojolicious-Pl
 Test-Dist-Zilla-0.002                   106781
 KinoSearch1-1.01                        105144
 Archive-BagIt-0.053-TRIAL               https://github.com/rjeschmi/Archive-BagIt/issues/9
+Text-XLogfile-0.05                      66992
+Math-PlanePath-120                      106738
+Log-Dispatch-Config-1.04                106746
