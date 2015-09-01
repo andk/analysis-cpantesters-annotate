@@ -1551,3 +1551,5 @@ YATT-Lite-0.100                         106776
 Evo-0.0171                              https://github.com/alexbyk/perl-evo/issues/2
 Mojolicious-Plugin-I18NUtils-0.14       https://github.com/reneeb/Mojolicious-Plugin-I18NUtils/issues/3
 Test-Dist-Zilla-0.002                   106781
+KinoSearch1-1.01                        105144
+Archive-BagIt-0.053-TRIAL               https://github.com/rjeschmi/Archive-BagIt/issues/9
