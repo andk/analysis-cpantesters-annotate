@@ -1559,3 +1559,4 @@ Log-Dispatch-Config-1.04                106746
 Math-Currency-0.47                      103020
 CGI-XMLApplication-1.1.5                106829
 Mojolicious-Plugin-FormFieldsFromJSON-0.30 https://github.com/reneeb/Mojolicious-Plugin-FormFieldsFromJSON/issues/2
+Dancer-Plugin-CRUD-1.031                https://github.com/zurborg/libdancer-plugin-crud-perl/issues/2
