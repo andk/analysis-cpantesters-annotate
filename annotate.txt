@@ -1561,3 +1561,4 @@ CGI-XMLApplication-1.1.5                106829
 Mojolicious-Plugin-FormFieldsFromJSON-0.30 https://github.com/reneeb/Mojolicious-Plugin-FormFieldsFromJSON/issues/2
 Dancer-Plugin-CRUD-1.031                https://github.com/zurborg/libdancer-plugin-crud-perl/issues/2
 Plack-App-FakeApache1-0.0.4             https://github.com/chiselwright/plack-app-fakeapache1/issues/5
+CSS-Simple-3220                         105991
