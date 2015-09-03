@@ -1556,3 +1556,6 @@ Archive-BagIt-0.053-TRIAL               https://github.com/rjeschmi/Archive-BagI
 Text-XLogfile-0.05                      66992
 Math-PlanePath-120                      106738
 Log-Dispatch-Config-1.04                106746
+Math-Currency-0.47                      103020
+CGI-XMLApplication-1.1.5                106829
+Mojolicious-Plugin-FormFieldsFromJSON-0.30 https://github.com/reneeb/Mojolicious-Plugin-FormFieldsFromJSON/issues/2
