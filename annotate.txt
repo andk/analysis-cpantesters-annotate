@@ -1592,3 +1592,4 @@ WebService-Simple-0.24                  https://github.com/yusukebe/WebService-S
 WebService-Shutterstock-0.006           https://github.com/shutterstock/WebService-Shutterstock/issues/6
 Net-Netmask-1.9022                      99184,https://rt.perl.org/Ticket/Display.html?id=122730
 Text-UnAbbrev-0.03                      105447
+IO-Async-Resolver-StupidCache-0.03      106961
