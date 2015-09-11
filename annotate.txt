@@ -1596,3 +1596,4 @@ IO-Async-Resolver-StupidCache-0.03      106961
 Net-DNS-Lite-0.12                       106963
 Mojar-Cron-0.231                        https://github.com/niczero/mojar-cron/issues/1
 LWPx-ParanoidHandler-0.07               https://github.com/tokuhirom/LWPx-ParanoidHandler/issues/2
+MooseX-App-Cmd-0.31                     107025
