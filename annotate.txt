@@ -1599,3 +1599,5 @@ LWPx-ParanoidHandler-0.07               https://github.com/tokuhirom/LWPx-Parano
 MooseX-App-Cmd-0.31                     107025
 Dancer-Plugin-DataTransposeValidator-0.003 https://github.com/interchange/Dancer-Plugin-DataTransposeValidator/issues/1
 Swagger2-0.51                           https://github.com/jhthorsen/swagger2/issues/31
+Geo-Shapelib-0.20                       107054
+Lingua-EN-Segmenter-0.1                 87567
