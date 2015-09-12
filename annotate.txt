@@ -1597,3 +1597,5 @@ Net-DNS-Lite-0.12                       106963
 Mojar-Cron-0.231                        https://github.com/niczero/mojar-cron/issues/1
 LWPx-ParanoidHandler-0.07               https://github.com/tokuhirom/LWPx-ParanoidHandler/issues/2
 MooseX-App-Cmd-0.31                     107025
+Dancer-Plugin-DataTransposeValidator-0.003 https://github.com/interchange/Dancer-Plugin-DataTransposeValidator/issues/1
+Swagger2-0.51                           https://github.com/jhthorsen/swagger2/issues/31
