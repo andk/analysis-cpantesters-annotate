@@ -1605,3 +1605,4 @@ File-MimeInfo-Simple-0.7                95158
 MouseX-App-Cmd-0.30                     107068
 Data-Dumper-MessagePack-0.001           107096
 Net-Async-Redis-0.001                   107134
+VM-CloudAtCost-0.1                      107137
