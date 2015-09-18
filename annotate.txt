@@ -1607,3 +1607,4 @@ Data-Dumper-MessagePack-0.001           107096
 Net-Async-Redis-0.001                   107134
 VM-CloudAtCost-0.1                      107137
 Test-Mock-HTTP-Tiny-0.001               https://github.com/odyniec/p5-Test-Mock-HTTP-Tiny/issues/1
+Statistics-Discrete-0.05                107167
