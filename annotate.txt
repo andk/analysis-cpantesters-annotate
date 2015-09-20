@@ -1608,3 +1608,11 @@ Net-Async-Redis-0.001                   107134
 VM-CloudAtCost-0.1                      107137
 Test-Mock-HTTP-Tiny-0.001               https://github.com/odyniec/p5-Test-Mock-HTTP-Tiny/issues/1
 Statistics-Discrete-0.05                107167
+Test-HTTP-0.18                          105999
+WWW-Tumblr-5.1                          https://github.com/damog/www-tumblr/issues/12
+CPAN-Testers-WWW-Reports-Query-Reports-0.10 107188
+Data-Faker-0.10                         106737
+Amazon-CloudFront-Thin-0.02             https://github.com/garu/Amazon-CloudFront-Thin/issues/1
+Box-Calc-1.0200                         https://github.com/rizen/Box-Calc/issues/12
+BioPerl-1.6.924                         106756
+Acme-LOLCAT-0.0.5                       95241
