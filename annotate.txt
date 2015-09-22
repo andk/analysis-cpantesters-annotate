@@ -1482,7 +1482,6 @@ B-C-1.52                                103944
 WWW-Shorten-Googl-1.02                  104847
 Pod-Generate-Recursive-0.3              104851
 AnyEvent-Tickit-0.01                    104852
-Redis-1.979                             https://github.com/PerlRedis/perl-redis/issues/111
 LWP-ConsoleLogger-0.000019              https://github.com/oalders/lwp-consolelogger/issues/4
 test-mojo-session-1.02                  https://github.com/avkhozov/Test-Mojo-Session/issues/3,see also Test-Mojo-Session
 Mojolicious-Plugin-MailException-0.19   https://github.com/dr-co/libmojolicious-plugin-mail_exception/pull/10
@@ -1640,3 +1639,7 @@ Net-DNS-SPF-Expander-0.017              https://github.com/amiri/Net-DNS-SPF-Exp
 Net-SixXS-v0.1.0                        107213
 Net-SNTP-Server-0.02                    107214
 CSS-DOM-0.15                            107221
+Redis-1.980                             https://github.com/PerlRedis/perl-redis/issues/111
+WWW-SFDC-0.37                           105992
+Dist-Zilla-Plugin-Templates-v0.5.0      107250
+Locale-India-0.001                      107029
