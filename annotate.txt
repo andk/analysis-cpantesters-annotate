@@ -1643,3 +1643,16 @@ Redis-1.980                             https://github.com/PerlRedis/perl-redis/
 WWW-SFDC-0.37                           105992
 Dist-Zilla-Plugin-Templates-v0.5.0      107250
 Locale-India-0.001                      107029
+Mojar-2.023                             https://github.com/niczero/mojar/issues/3
+Hash-FieldHash-0.14                     https://github.com/gfx/p5-Hash-FieldHash/issues/1
+PerlIO-via-GnuPG-0.006                  https://github.com/RsrchBoy/perlio-via-gnupg/issues/1
+Reddit-Client-1.04                      106857
+Strehler-Element-Extra-1.0.1            106758
+Test-LWP-MockSocket-http-0.05           104850
+Text-IQ-0.002                           107271
+Tickit-Widget-Layout-Relative-0.005     106759
+WebService-Gyazo-0.03                   https://github.com/maximusfox/WebService--Gyazo/issues/2
+Timer-Runtime-0.04                      105905
+WebService-SiftScience-0.0100           https://github.com/aanari/WebService-SiftScience/issues/1
+WWW-EZTV-0.06                           https://github.com/diegok/www-eztv/issues/1
+WWW-JSONAPI-0.01                        107273
