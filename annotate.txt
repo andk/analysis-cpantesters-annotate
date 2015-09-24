@@ -1656,3 +1656,5 @@ Timer-Runtime-0.04                      105905
 WebService-SiftScience-0.0100           https://github.com/aanari/WebService-SiftScience/issues/1
 WWW-EZTV-0.06                           https://github.com/diegok/www-eztv/issues/1
 WWW-JSONAPI-0.01                        107273
+AnyEvent-Twitter-Stream-0.27            https://github.com/miyagawa/AnyEvent-Twitter-Stream/issues/25
+CGI-Untaint-1.26                        105917
