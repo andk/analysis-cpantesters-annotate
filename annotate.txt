@@ -1658,3 +1658,9 @@ WWW-EZTV-0.06                           https://github.com/diegok/www-eztv/issue
 WWW-JSONAPI-0.01                        107273
 AnyEvent-Twitter-Stream-0.27            https://github.com/miyagawa/AnyEvent-Twitter-Stream/issues/25
 CGI-Untaint-1.26                        105917
+LWP-UserAgent-Mockable-1.14             107252
+NetAddr-IP-4.078                        88635
+WWW-Scraper-ISBN-BookDepository_Driver-0.12 107305
+WWW-Scraper-ISBN-Booktopia_Driver-0.22  107305
+WWW-Scraper-ISBN-Foyles_Driver-0.18     107305
+WWW-Scraper-ISBN-Yahoo_Driver-0.23      107305
