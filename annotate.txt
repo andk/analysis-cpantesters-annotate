@@ -1664,3 +1664,11 @@ WWW-Scraper-ISBN-BookDepository_Driver-0.12 107305
 WWW-Scraper-ISBN-Booktopia_Driver-0.22  107305
 WWW-Scraper-ISBN-Foyles_Driver-0.18     107305
 WWW-Scraper-ISBN-Yahoo_Driver-0.23      107305
+Crypt-Random-1.25                       99880
+Dancer2-Plugin-Locale-Wolowitz-0.03     107330
+WebService-PayPal-PaymentsAdvanced-0.000006 https://github.com/oalders/webservice-paypal-paymentsadvanced/issues/1
+Text-Info-0.01                          107347
+SQL-QueryBuilder-OO-0.2.3               107348
+Sniffer-HTTP-0.23                       107349
+POE-Component-SSLify-1.012              104493
+Path-Class-Rule-0.018                   https://github.com/dagolden/path-class-rule/issues/3
