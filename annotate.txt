@@ -1672,3 +1672,7 @@ SQL-QueryBuilder-OO-0.2.3               107348
 Sniffer-HTTP-0.23                       107349
 POE-Component-SSLify-1.012              104493
 Path-Class-Rule-0.018                   https://github.com/dagolden/path-class-rule/issues/3
+Galileo-0.038                           https://github.com/jberger/Galileo/issues/47
+Mojolicious-Plugin-ReCAPTCHAv2-0.1      107378
+Mojolicious-Plugin-Pingen-0.2.1         https://github.com/oetiker/mojolicious-plugin-pingen/issues/1
+encoding-source-0.03                    107379
