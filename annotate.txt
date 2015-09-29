@@ -1676,3 +1676,4 @@ Galileo-0.038                           https://github.com/jberger/Galileo/issue
 Mojolicious-Plugin-ReCAPTCHAv2-0.1      107378
 Mojolicious-Plugin-Pingen-0.2.1         https://github.com/oetiker/mojolicious-plugin-pingen/issues/1
 encoding-source-0.03                    107379
+Graph-Writer-Cytoscape-1.00             77593
