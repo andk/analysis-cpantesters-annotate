@@ -1679,3 +1679,4 @@ encoding-source-0.03                    107379
 Graph-Writer-Cytoscape-1.00             77593
 Net-DNS-Paranoid-0.07                   107402
 Module-Info-0.35_02                     https://rt.perl.org/rt3/Ticket/Display.html?id=122251,97105
+Image-ExifTool-10.00                    106620
