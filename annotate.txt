@@ -1684,3 +1684,4 @@ Yandex-OAuth-0.05                       https://github.com/Chipsoid/yandex-oauth
 Test-Prereq-1.039                       https://github.com/briandfoy/test-prereq/issues/5
 StreamRoot-Manifest-0.03                106716
 Mojolicious-Plugin-SizeLimit-0.004      https://github.com/augensalat/mojolicious-plugin-sizelimit/issues/3
+Pcore-v0.11.5                           https://bitbucket.org/softvisio/pcore/issues/1/experimental-keys-on-scalar-is-now
