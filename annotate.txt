@@ -1311,3 +1311,6 @@ StreamRoot-Manifest-0.03                106716
 Mojolicious-Plugin-SizeLimit-0.004      https://github.com/augensalat/mojolicious-plugin-sizelimit/issues/3
 Pcore-v0.11.5                           https://bitbucket.org/softvisio/pcore/issues/1/experimental-keys-on-scalar-is-now
 KiokuDB-Backend-Redis-0.02              107513
+Math-Shape-Vector-0.15                  99799
+WWW-Facebook-API-0.4.18                 63099
+Geo-Address-Formatter-1.42              107533
