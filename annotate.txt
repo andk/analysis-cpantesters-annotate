@@ -1314,3 +1314,4 @@ KiokuDB-Backend-Redis-0.02              107513
 Math-Shape-Vector-0.15                  99799
 WWW-Facebook-API-0.4.18                 63099
 Geo-Address-Formatter-1.42              107533
+git-deploy-6.01                         https://github.com/git-deploy/git-deploy/issues/35
