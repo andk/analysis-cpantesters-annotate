@@ -1321,3 +1321,7 @@ HTML-Menu-TreeView-1.15                 107684
 App-Rssfilter-0.07                      https://github.com/dgholz/App-Rssfilter/issues/8
 Net-OpenVPN-Agent-0.01                  107692
 Template-Caribou-0.2.4                  https://github.com/yanick/Template-Caribou/issues/2
+Yote-1.0                                107695
+Tie-Cvs-0.05                            107702
+NetServer-Generic-1.03                  76743
+CGI-QuickForm-1.93                      107703
