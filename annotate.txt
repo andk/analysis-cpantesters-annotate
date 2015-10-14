@@ -1326,3 +1326,4 @@ Tie-Cvs-0.05                            107702
 NetServer-Generic-1.03                  76743
 CGI-QuickForm-1.93                      107703
 Dancer2-Plugin-RoutePodCoverage-0.071   https://github.com/drebolo/Dancer2-Plugin-RoutePodCoverage/issues/1
+Convos-0.8604                           https://github.com/Nordaaker/convos/issues/247
