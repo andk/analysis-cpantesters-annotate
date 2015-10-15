@@ -1330,3 +1330,6 @@ Convos-0.8604                           https://github.com/Nordaaker/convos/issu
 WebService-Nestoria-Search-1.022008     107765
 Catalyst-View-MicroTemplate-DataSection-0.02 https://github.com/masakyst/Catalyst-View-MicroTemplate-DataSection/issues/1
 CGI-Ex-2.44                             107766
+Eixo-Rest-1.020                         107790
+Flexnet-lmutil-1.3                      107791
+Filesys-DfPortable-0.85                 https://rt.perl.org/rt3/Ticket/Display.html?id=126368
