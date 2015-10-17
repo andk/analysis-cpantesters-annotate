@@ -1336,3 +1336,8 @@ Filesys-DfPortable-0.85                 https://rt.perl.org/rt3/Ticket/Display.h
 Catalyst-Controller-FormBuilder-MultiForm-0.02 107818
 Math-Random-MT-Perl-1.13                107821
 Yandex-OAuth-0.06                       https://github.com/Chipsoid/yandex-oauth-perl/issues/1
+Perl6-Export-Attrs-0.000004             107603
+HTML-FormBuilder-0.10                   107633
+Graph-Writer-TGXML-0.01                 107835
+Kwiki-Attachments-0.21                  104977
+XAS-0.11                                107837
