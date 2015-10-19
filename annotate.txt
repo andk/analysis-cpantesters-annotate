@@ -1341,3 +1341,4 @@ HTML-FormBuilder-0.10                   107633
 Graph-Writer-TGXML-0.01                 107835
 Kwiki-Attachments-0.21                  104977
 XAS-0.11                                107837
+Time-HiRes-Value-0.08                   105451
