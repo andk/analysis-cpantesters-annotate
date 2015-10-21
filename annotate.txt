@@ -1345,3 +1345,4 @@ Time-HiRes-Value-0.08                   105451
 Redis-ScriptCache-0.04                  107866
 Chimaera-Matcher-1.01                   107892
 AWS-Signature-V2-0.01                   https://github.com/kablamo/AWS-Signature-V2/issues/1
+CGI-Easy-1.0.1                          107893
