@@ -1346,3 +1346,4 @@ Redis-ScriptCache-0.04                  107866
 Chimaera-Matcher-1.01                   107892
 AWS-Signature-V2-0.01                   https://github.com/kablamo/AWS-Signature-V2/issues/1
 CGI-Easy-1.0.1                          107893
+Net-Upwork-API-1.1.0                    https://github.com/upwork/perl-upwork/issues/2
