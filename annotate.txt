@@ -1355,3 +1355,4 @@ JSON-TypeInference-1.0.1                https://github.com/aereal/JSON-TypeInfer
 outthentic-0.0.2                        renamed to Outthentic
 Outthentic-0.0.5                        107961
 PYX-XMLSchema-List-0.02                 107962
+WWW-Shopify-1.01                        107963
