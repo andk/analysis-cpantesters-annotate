@@ -1352,3 +1352,6 @@ Locale-Utils-PlaceholderBabelFish-0.001 107912
 Plack-Middleware-DNSBL-0.03             107913
 Plack-Middleware-DNSBL-0.0304           107913
 JSON-TypeInference-1.0.1                https://github.com/aereal/JSON-TypeInference/issues/17
+outthentic-0.0.2                        renamed to Outthentic
+Outthentic-0.0.5                        107961
+PYX-XMLSchema-List-0.02                 107962
