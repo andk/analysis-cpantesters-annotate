@@ -1356,3 +1356,4 @@ outthentic-0.0.2                        renamed to Outthentic
 Outthentic-0.0.5                        107961
 PYX-XMLSchema-List-0.02                 107962
 WWW-Shopify-1.01                        107963
+Rstats-0.0144                           https://github.com/yuki-kimoto/Rstats/issues/4
