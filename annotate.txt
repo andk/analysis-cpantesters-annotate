@@ -880,7 +880,6 @@ File-Rsync-0.44                         38938 (this is about 0.43 but maybe also
 List-Tuples-0.04.4                      95305
 Lexical-Types-0.13                      https://rt.perl.org/rt3/Ticket/Display.html?id=123149
 DBD-CSV-0.45                            100188
-LWP-UserAgent-Mockable-1.10             100193
 Net-Graylog-Client-0.3                  100203
 XRI-Resolution-Lite-0.04                probably temporary network/server failure
 Vero-API-v0.1.1                         https://github.com/carloslima/vero-api-pm/issues/2
@@ -1360,3 +1359,4 @@ Rstats-0.0145                           https://github.com/yuki-kimoto/Rstats/is
 Tie-Simple-1.03                         https://rt.perl.org/rt3/Ticket/Display.html?id=126472
 Object-Remote-0.003005                  108016
 Lexical-SealRequireHints-0.009          https://rt.perl.org/rt3/Ticket/Display.html?id=126484
+HTTP-DetectUserAgent-0.06               51152
