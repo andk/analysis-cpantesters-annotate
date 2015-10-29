@@ -1356,7 +1356,7 @@ outthentic-0.0.2                        renamed to Outthentic
 Outthentic-0.0.5                        107961
 PYX-XMLSchema-List-0.02                 107962
 WWW-Shopify-1.01                        107963
-Rstats-0.0144                           https://github.com/yuki-kimoto/Rstats/issues/4
+Rstats-0.0145                           https://github.com/yuki-kimoto/Rstats/issues/4
 Tie-Simple-1.03                         https://rt.perl.org/rt3/Ticket/Display.html?id=126472
 Object-Remote-0.003005                  108016
 Lexical-SealRequireHints-0.009          https://rt.perl.org/rt3/Ticket/Display.html?id=126484
