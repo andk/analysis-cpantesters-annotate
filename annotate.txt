@@ -1361,6 +1361,6 @@ Object-Remote-0.003005                  108016
 Lexical-SealRequireHints-0.009          https://rt.perl.org/rt3/Ticket/Display.html?id=126484
 HTTP-DetectUserAgent-0.06               51152
 AnyEvent-Curl-Multi-1.1                 105767
-Imager-1.003                            https://rt.perl.org/rt3/Ticket/Display.html?id=126472
+Imager-1.003                            https://rt.perl.org/rt3/Ticket/Display.html?id=126472,107900
 Text-Fuzzy-0.22                         https://rt.perl.org/rt3/Ticket/Display.html?id=126472
 Dancer-Plugin-DataTransposeValidator-0.007 https://github.com/interchange/Dancer-Plugin-DataTransposeValidator/issues/2
