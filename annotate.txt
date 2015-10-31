@@ -1384,3 +1384,4 @@ CGI-Easy-URLconf-1.0.1                  108288
 Regexp-Compare-0.24                     108279
 CSS-Watcher-0.4.2                       108297
 Geo-GDAL-2.00012                        108298
+Log-Log4perl-Appender-DBIx-Class-0.02   108300
