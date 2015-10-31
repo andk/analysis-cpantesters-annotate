@@ -1364,3 +1364,11 @@ AnyEvent-Curl-Multi-1.1                 105767
 Imager-1.003                            https://rt.perl.org/rt3/Ticket/Display.html?id=126472,107900
 Text-Fuzzy-0.22                         https://rt.perl.org/rt3/Ticket/Display.html?id=126472
 Dancer-Plugin-DataTransposeValidator-0.007 https://github.com/interchange/Dancer-Plugin-DataTransposeValidator/issues/2
+Filesys-Df-0.92                         107904
+Filesys-Statvfs-0.82                    108191
+Linkedin-OAuth2-0.02                    108194
+Locale-CLDR-v0.28.1                     https://github.com/ThePilgrim/perlcldr/issues/7
+Catalyst-Plugin-Session-Store-MongoDB-0.02 108198
+warnings-everywhere-0.022               108201
+lexical-underscore-0.003                108203
+Dist-Zilla-Role-TextTemplater-v0.8.3    108075
