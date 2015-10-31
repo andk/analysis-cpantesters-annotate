@@ -1372,3 +1372,12 @@ Catalyst-Plugin-Session-Store-MongoDB-0.02 108198
 warnings-everywhere-0.022               108201
 lexical-underscore-0.003                108203
 Dist-Zilla-Role-TextTemplater-v0.8.3    108075
+AnyEvent-ForkManager-0.06               https://github.com/karupanerura/p5-AnyEvent-ForkManager/issues/7
+Unicode-BiDiRule-0.02                   108280
+Catalyst-Plugin-Session-Store-MongoDB-0.02 108198
+Date-PeriodParser-0.17                  83299
+IO-Die-0.056                            108282
+experimentals-0.015                     108283
+App-Sqitch-0.9993                       https://github.com/theory/sqitch/issues/270
+Atompub-0.3.7                           108287
+CGI-Easy-URLconf-1.0.1                  108288
