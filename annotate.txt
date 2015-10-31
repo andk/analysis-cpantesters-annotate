@@ -1381,3 +1381,4 @@ experimentals-0.015                     108283
 App-Sqitch-0.9993                       https://github.com/theory/sqitch/issues/270
 Atompub-0.3.7                           108287
 CGI-Easy-URLconf-1.0.1                  108288
+Regexp-Compare-0.24                     108279
