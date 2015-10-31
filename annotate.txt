@@ -1382,3 +1382,5 @@ App-Sqitch-0.9993                       https://github.com/theory/sqitch/issues/
 Atompub-0.3.7                           108287
 CGI-Easy-URLconf-1.0.1                  108288
 Regexp-Compare-0.24                     108279
+CSS-Watcher-0.4.2                       108297
+Geo-GDAL-2.00012                        108298
