@@ -1141,7 +1141,6 @@ Mojolicious-Plugin-DeCSRF-0.94          104788
 Mojolicious-Plugin-PlainRoutes-0.04     103899
 Mojolicious-Plugin-ZombieApocalypse-0.01 104792
 User-Simple-1.45                        103957
-Coro-6.42                               101063
 Math-NumSeq-Alpha-2                     104832
 Riak-Light-0.12                         https://github.com/Weborama/Riak-Light/issues/20
 B-C-1.52                                103944
@@ -1159,7 +1158,6 @@ WWW-Gittip-0.07                         101887
 WebService-Instagram-0.05               105013
 WWW-Mechanize-Query-0.03                105014
 WWW-Shorten-Googl-1.02                  104847
-Coro-6.43                               101063
 Ask-0.007                               105038
 DBIx-Class-Storage-DBI-mysql-backup-0.04 105039
 Filesys-Type-0.02                       105041
@@ -1385,3 +1383,20 @@ Regexp-Compare-0.24                     108279
 CSS-Watcher-0.4.2                       108297
 Geo-GDAL-2.00012                        108298
 Log-Log4perl-Appender-DBIx-Class-0.02   108300
+Git-Repository-1.315                    107219
+Business-OnlinePayment-BitPay-KeyUtils-2.0.1 106730
+Coro-6.49                               101063
+perl5i-v2.13.1                          https://github.com/evalEmpire/perl5i/issues/291
+Catmandu-PICA-0.16                      https://github.com/gbv/Catmandu-PICA/issues/35
+Catmandu-MAB2-0.12                      https://github.com/jorol/Catmandu-MAB2/issues/8
+Catmandu-MARC-0.213                     https://github.com/LibreCat/Catmandu-MARC/issues/19
+Mojolicious-Plugin-Angular-MaterialDesign-0.603 https://github.com/mudler/Mojolicious-Plugin-Angular-MaterialDesign/issues/1
+Meerkat-0.011                           https://github.com/dagolden/Meerkat/issues/13
+re-engine-RE2-0.13                      108357
+Email-Assets-0.10                       108358
+Net-CardDAVTalk-0.02                    108359
+Elastic-Model-0.51                      https://github.com/clintongormley/Elastic-Model/issues/41
+Mojolicious-Plugin-JQuery-2.13003       https://github.com/dgikiller/mojolicious-plugin-jquery/issues/8
+Mojolicious-Plugin-Materialize-0.9501   https://github.com/mudler/Mojolicious-Plugin-Materialize/issues/1
+String-Multibyte-1.11                   108361
+Redis-1.981                             https://github.com/PerlRedis/perl-redis/issues/111
