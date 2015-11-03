@@ -1415,3 +1415,5 @@ Finance-CaVirtex-API-0.03               108392
 BackPAN-Version-Discover-0.01           108393
 Biblio-Refbase-0.04                     https://github.com/hma/Biblio-Refbase/issues/1
 Test-Mock-Mango-0.09                    https://github.com/necrophonic/test-mock-mango/issues/7
+IPC-PrettyPipe-0.03                     108397
+Security-JWE-0.04                       108399
