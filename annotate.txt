@@ -1386,7 +1386,7 @@ Log-Log4perl-Appender-DBIx-Class-0.02   108300
 Git-Repository-1.315                    107219
 Business-OnlinePayment-BitPay-KeyUtils-2.0.1 106730
 Coro-6.49                               101063
-perl5i-v2.13.1                          https://github.com/evalEmpire/perl5i/issues/291
+perl5i-v2.13.1                          https://github.com/evalEmpire/perl5i/issues/291,https://rt.perl.org/rt3/Ticket/Display.html?id=126545
 Catmandu-PICA-0.16                      https://github.com/gbv/Catmandu-PICA/issues/35
 Catmandu-MAB2-0.12                      https://github.com/jorol/Catmandu-MAB2/issues/8
 Catmandu-MARC-0.213                     https://github.com/LibreCat/Catmandu-MARC/issues/19
