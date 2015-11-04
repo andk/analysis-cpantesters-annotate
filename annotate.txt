@@ -1417,3 +1417,4 @@ Biblio-Refbase-0.04                     https://github.com/hma/Biblio-Refbase/is
 Test-Mock-Mango-0.09                    https://github.com/necrophonic/test-mock-mango/issues/7
 IPC-PrettyPipe-0.03                     108397
 Security-JWE-0.04                       108399
+YATT-Lite-0.100_002                     108427
