@@ -1418,3 +1418,4 @@ Test-Mock-Mango-0.09                    https://github.com/necrophonic/test-mock
 IPC-PrettyPipe-0.03                     108397
 Security-JWE-0.04                       108399
 YATT-Lite-0.100_002                     108427
+Test-Approximate-0.009                  101156
