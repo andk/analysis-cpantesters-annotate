@@ -1420,3 +1420,7 @@ Security-JWE-0.04                       108399
 YATT-Lite-0.100_002                     108427
 Test-Approximate-0.009                  101156
 Plugin-Tiny-0.012                       https://github.com/mokko/p5-Plugin-Tiny/issues/3
+Entities-0.5                            108417
+Dancer-Plugin-Queue-MongoDB-0.003       https://github.com/PerlDancer/Dancer-Plugin-Queue-MongoDB/issues/1
+MongoDB-Simple-0.005                    108423
+Devel-Trepan-0.70                       https://github.com/rocky/Perl-Devel-Trepan/issues/39
