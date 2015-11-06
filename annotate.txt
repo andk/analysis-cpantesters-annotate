@@ -1446,3 +1446,8 @@ Message-MongoDB-1.142810                https://github.com/dana/perl-Message-Mon
 Gtk2-Ex-DBI-2.30                        108480
 Text-Bidi-2.10                          108498
 LWP-Curl-0.13                           108499
+Test-PerlTidy-Concurrent-0.1.1          98491
+Search-ContextGraph-0.15                108489
+Progress-Any-Output-DesktopNotify-0.02  108490
+Acme-Rando-0.1                          106779
+Business-Payment-SwissESR-0.11.1        https://github.com/oetiker/business-payment-swissesr/issues/1
