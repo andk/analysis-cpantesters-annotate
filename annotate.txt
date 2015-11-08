@@ -1480,3 +1480,6 @@ HTML-Element-AbsoluteXPath-0.02         91933
 Unknown-Values-0.005                    103134
 Array-Sticky-0.01                       https://github.com/belden/perl-array-sticky/issues/1
 Linux-Unshare-0.05                      108556
+Data-SIprefixes-0.0.0                   108559
+Authen-TypeKey-0.05                     95938
+Genome-Model-Tools-Music-0.04           108560
