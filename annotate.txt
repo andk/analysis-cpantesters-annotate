@@ -1510,3 +1510,13 @@ Data-OFAC-0.80                          108585
 DB-Evented-0.06                         https://github.com/logie17/DB-Evented/issues/2
 Device-Firmata-0.60                     108587
 Dist-Zilla-PluginBundle-Author-CJM-4.36 108588
+Math-BigInt-Pari-1.21                   96198
+Mongoose-0.35                           https://github.com/rodrigolive/mongoose/issues/42
+Finance-QuoteDB-0.15                    108590
+POSIX-RT-Semaphore-0.05                 102299
+Perl-PrereqInstaller-v0.6.2             99816
+Plack-Middleware-Auth-Bitcard-0.002     108591
+Test-Virtual-Filesystem-0.13            108592
+Email-Folder-Exchange-2.0               108593
+Syntax-Feature-Io-0.001                 108594
+VCI-0.7.1                               108596
