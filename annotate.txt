@@ -1073,7 +1073,6 @@ circle-be-0.142470                      101151
 MojoMojo-1.11                           https://github.com/mojomojo/mojomojo/issues/121
 Signals-XSIG-0.13                       103457
 XML-Liberal-0.30                        103458
-Ado-Plugin-Vest-0.09                    https://github.com/kberov/Ado-Plugin-Vest/issues/1
 Acme-SGABRIEL-Utils 0.01c               PASS reports for unknown reason only from CPANPLUS smokers
 WWW-StatusBadge-0.0.2                   https://github.com/ARivottiC/WWW-StatusBadge.pm/issues/1
 SVN-Notify-Mirror-0.040                 98443
@@ -1525,3 +1524,4 @@ Blitz-0.01                              95246
 Algorithm-FloodControl-2.001000         80651
 Bio-Oxbench-0.01                        108604
 App-CmdDirs-1.02                        108603
+Ado-Plugin-Vest-0.12                    https://github.com/kberov/Ado-Plugin-Vest/issues/2
