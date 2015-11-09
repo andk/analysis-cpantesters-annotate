@@ -1520,3 +1520,8 @@ Test-Virtual-Filesystem-0.13            108592
 Email-Folder-Exchange-2.0               108593
 Syntax-Feature-Io-0.001                 108594
 VCI-0.7.1                               108596
+API-Assembla-0.03                       108600
+Blitz-0.01                              95246
+Algorithm-FloodControl-2.001000         80651
+Bio-Oxbench-0.01                        108604
+App-CmdDirs-1.02                        108603
