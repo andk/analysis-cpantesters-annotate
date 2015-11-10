@@ -389,7 +389,7 @@ Google-AJAX-Library-0.022               81440
 Tie-Hash-Indexed-0.05                   81449
 XML-ExtOn-0.17                          81500
 YUI-Loader-0.071                        81525
-POE-Filter-JSON-0.04                    not a randomization problem it seems
+POE-Filter-JSON-0.04                    a part is randomization, but something else is involved too
 TAP-Formatter-JUnit-0.09                81552
 MooseX-AttributeHelpers-0.23            81564
 Net-HTTP-API-0.14                       81566
