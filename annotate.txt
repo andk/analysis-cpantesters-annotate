@@ -1525,3 +1525,5 @@ Algorithm-FloodControl-2.001000         80651
 Bio-Oxbench-0.01                        108604
 App-CmdDirs-1.02                        108603
 Ado-Plugin-Vest-0.12                    https://github.com/kberov/Ado-Plugin-Vest/issues/2
+Devel-Cover-Report-Clover-0.35          108629
+Email-ConstantContact-0.05              108630
