@@ -1530,3 +1530,7 @@ Email-ConstantContact-0.05              108630
 Text-Phonetic-2.06                      108634
 DateTime-Tiny-1.04                      108636
 DateTime-Incomplete-0.07                108637
+BioX-Workflow-0.04                      108640
+Dist-Zilla-Plugin-Inject-0.001          108642
+Microarray-ExprSet-0.11                 95233
+Plucene-1.25                            108644
