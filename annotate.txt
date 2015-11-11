@@ -1543,3 +1543,15 @@ MooseX-Types-DateTime-ButMaintained-0.16 108686
 Acme-MotorcycleGang-0.0.4               https://github.com/aceproject/Acme-MotorcycleGang/issues/2
 MooseX-Types-Meta-0.01                  108685
 Google-Data-JSON-v0.1.10                108687
+Net-Payjp-0.1.1                         108692
+EmbedIT-WebIT-1.6.3a                    108695
+AI-Pathfinding-SMAstar-0.07             108697
+DBIx-ProfileManager-0.03                108696
+Nes-1.03                                108698
+OOP-Perlish-Class-0.45.0                108700
+Image-LibExif-0.04                      108701
+Types-DateTime-0.001                    108684
+HPC-Runner-2.40                         108744
+Log-Log4perl-1.46                       102647,106601
+Test-Framework-0.01                     prereq failure, no RT queue yet
+URI-Escape-JavaScript-0.04              108747
