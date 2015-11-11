@@ -1542,3 +1542,4 @@ DateTime-Locale-1.01                    108684
 MooseX-Types-DateTime-ButMaintained-0.16 108686
 Acme-MotorcycleGang-0.0.4               https://github.com/aceproject/Acme-MotorcycleGang/issues/2
 MooseX-Types-Meta-0.01                  108685
+Google-Data-JSON-v0.1.10                108687
