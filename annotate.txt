@@ -1539,3 +1539,4 @@ PFIX-0.03                               62413
 Text-Indent-0.02                        108678
 WebService-Uptrack-v0.0.2               108679
 DateTime-Locale-1.01                    108684
+MooseX-Types-DateTime-ButMaintained-0.16 108686
