@@ -1563,3 +1563,4 @@ XML-QOFQSF-0.05                         108754
 Geo-Coder-GoogleMaps-0.4                108755
 NetSDS-1.301                            108756
 Net-SSLeay-OO-0.02                      100364
+Tie-DBIx-Class-0.01                     108752
