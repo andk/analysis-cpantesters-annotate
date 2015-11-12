@@ -1555,3 +1555,11 @@ HPC-Runner-2.40                         108744
 Log-Log4perl-1.46                       102647,106601
 Test-Framework-0.01                     prereq failure, no RT queue yet
 URI-Escape-JavaScript-0.04              108747
+Text-ClearSilver-0.10.5.4               108749
+Text-Corpus-Inspec-1.00                 108750
+Text-Corpus-NewYorkTimes-1.01           108751
+CSS-Croco-0.09                          108753
+XML-QOFQSF-0.05                         108754
+Geo-Coder-GoogleMaps-0.4                108755
+NetSDS-1.301                            108756
+Net-SSLeay-OO-0.02                      100364
