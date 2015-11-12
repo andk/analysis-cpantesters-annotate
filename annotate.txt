@@ -1564,3 +1564,13 @@ Geo-Coder-GoogleMaps-0.4                108755
 NetSDS-1.301                            108756
 Net-SSLeay-OO-0.02                      100364
 Tie-DBIx-Class-0.01                     108752
+Catalyst-Authentication-Store-Htpasswd-1.003 102187
+Acme-Cant-0.01                          108760
+B-LintSubs-0.06                         108761
+Catalyst-Authentication-Store-FromSub-0.01 108762
+Devel-TraceDeps-v0.0.3                  108763
+Dotiac-0.8                              87304
+MetaTrans-1.05                          108765
+Acme-PricelessMethods-0.01              108766
+Test-CallFlow-0.03                      108769
+Spreadsheet-HTML-1.08                   108768
