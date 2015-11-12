@@ -1574,3 +1574,6 @@ MetaTrans-1.05                          108765
 Acme-PricelessMethods-0.01              108766
 Test-CallFlow-0.03                      108769
 Spreadsheet-HTML-1.08                   108768
+Data-FetchPath-0.02                     108770
+DBIx-Class-ResultSet-Void-0.06          108771
+Authen-SASL-Cyrus-0.13                  48734
