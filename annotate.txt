@@ -1573,7 +1573,6 @@ Dotiac-0.8                              87304
 MetaTrans-1.05                          108765
 Acme-PricelessMethods-0.01              108766
 Test-CallFlow-0.03                      108769
-Spreadsheet-HTML-1.08                   108768
 Data-FetchPath-0.02                     108770
 DBIx-Class-ResultSet-Void-0.06          108771
 Authen-SASL-Cyrus-0.13                  48734
@@ -1615,3 +1614,8 @@ AsciiDB-TagFile-1.06                    108868
 FileMetadata-0.2                        108869
 Cache-BDB-0.04                          104327
 Decode-Source-1.01                      108872
+B-DeparseTree-v2.0.0                    Unknown warnings category 'experimental::autoderef' (no bugtracker)
+Crypt-HCE_SHA-0.70                      105384
+sol-inst-0.90a                          108903
+Spreadsheet-HTML-1.09                   108768
+Crypt-PKCS10-1.2                        108905
