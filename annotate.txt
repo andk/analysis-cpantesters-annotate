@@ -1619,3 +1619,6 @@ Crypt-HCE_SHA-0.70                      105384
 sol-inst-0.90a                          108903
 Spreadsheet-HTML-1.09                   108768
 Crypt-PKCS10-1.2                        108905
+ddb-1.3.1                               108870
+Data-Integer-0.005                      https://rt.perl.org/rt3/Ticket/Display.html?id=126635
+Data-Rmap-0.64                          https://rt.perl.org/rt3/Ticket/Display.html?id=126637
