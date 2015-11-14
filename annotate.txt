@@ -1623,3 +1623,5 @@ Data-Integer-0.005                      https://rt.perl.org/rt3/Ticket/Display.h
 Data-Rmap-0.64                          https://rt.perl.org/rt3/Ticket/Display.html?id=126637
 JSON-RPC-Spec-v1.0.4                    https://github.com/nqounet/p5-json-rpc-spec/issues/3
 Rstats-0.0147                           https://github.com/yuki-kimoto/Rstats/issues/4
+Net-DNS-Paranoid-0.08                   https://github.com/tokuhirom/Net-DNS-Paranoid/issues/2
+IO-Lambda-1.24                          108911
