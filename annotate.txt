@@ -1644,3 +1644,10 @@ PerlIO-via-json-0.01                    108960
 Acme-BeCool-0.02                        random test failures, almost by design
 Cvs-Trigger-0.04                        108961
 B-DeparseTree-v2.0.1                    Unknown warnings category 'experimental::autoderef' (no bugtracker)
+CatalystX-CRUD-Controller-REST-0.004    108962
+Config-Savelogs-0.11                    108963
+Mail-Log-Trace-1.0101                   108964
+Sub-Slice-1.048                         108965
+Lingua-AIN-Romanize-0.0.2               108966
+Ogg-Vorbis-Header-0.03                  104869
+Module-MetaInfo-0.03                    2692
