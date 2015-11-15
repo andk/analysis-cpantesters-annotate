@@ -1613,7 +1613,6 @@ AsciiDB-TagFile-1.06                    108868
 FileMetadata-0.2                        108869
 Cache-BDB-0.04                          104327
 Decode-Source-1.01                      108872
-B-DeparseTree-v2.0.0                    Unknown warnings category 'experimental::autoderef' (no bugtracker)
 Crypt-HCE_SHA-0.70                      105384
 sol-inst-0.90a                          108903
 Spreadsheet-HTML-1.09                   108768
@@ -1625,3 +1624,23 @@ JSON-RPC-Spec-v1.0.4                    https://github.com/nqounet/p5-json-rpc-s
 Rstats-0.0147                           https://github.com/yuki-kimoto/Rstats/issues/4
 Net-DNS-Paranoid-0.08                   https://github.com/tokuhirom/Net-DNS-Paranoid/issues/2
 IO-Lambda-1.24                          108911
+Mail-SPF-Iterator-1.11                  108914
+Net-DNS-Async-1.07                      108915
+WebService-Livedoor-SpamChampuru-DNSBL-0.02 108916
+Mail-SpamAssassin-3.4.1                 https://bz.apache.org/SpamAssassin/show_bug.cgi?id=7265
+POE-Component-Server-DNS-0.30           108936
+Simple-SAX-Serializer-0.05              95307
+Math-String-1.28                        95621
+WebService-ILS-0.01                     108954
+Catalyst-Plugin-Charsets-Japanese-0.06  108957
+Class-DBI-DATA-Schema-1.00              35364
+Hatena-Keyword-0.05                     108958
+Ingres-Utility-IINamu-0.07              39276
+Ingres-Utility-Netutil-0.03             108959
+Ingres-Utility-IIMonitor-0.13           39275
+IMAP-Client-0.13                        89019,106600
+Alien-SVN-v1.8.11.0                     https://github.com/evalEmpire/Alien-SVN/issues/16
+PerlIO-via-json-0.01                    108960
+Acme-BeCool-0.02                        random test failures, almost by design
+Cvs-Trigger-0.04                        108961
+B-DeparseTree-v2.0.1                    Unknown warnings category 'experimental::autoderef' (no bugtracker)
