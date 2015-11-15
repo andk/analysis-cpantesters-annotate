@@ -1656,3 +1656,9 @@ XML-Table2XML-1.4                       108967
 Phenyx-Utils-0.0.3                      108969
 SimpleCDB-1.0                           78082
 Math-Fraction-Egyptian-0.01             108970
+Filesys-DiskSpace-0.05                  108971
+FrameMaker-MifTree-0.075                108972
+Games-Othello-0.01                      108973
+Graphics-GnuplotIF-Shortcut-0.03        108974
+Hoppy-0.01005                           108975
+HTML-XHTML-DVSM-1.2                     108976
