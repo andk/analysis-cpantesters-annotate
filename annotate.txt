@@ -1651,3 +1651,8 @@ Sub-Slice-1.048                         108965
 Lingua-AIN-Romanize-0.0.2               108966
 Ogg-Vorbis-Header-0.03                  104869
 Module-MetaInfo-0.03                    2692
+Term-Getch-0.20                         108968
+XML-Table2XML-1.4                       108967
+Phenyx-Utils-0.0.3                      108969
+SimpleCDB-1.0                           78082
+Math-Fraction-Egyptian-0.01             108970
