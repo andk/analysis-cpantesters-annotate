@@ -1256,7 +1256,6 @@ HTML-Element-Replacer-0.08              https://github.com/mixedconnections/html
 HTTP-Server-Brick-0.1.7                 107203
 XML-XSH-1.8.4                           deprecated
 Lemonldap-NG-Handler-1.4.5              107205
-Logic-Tools-0.5.6                       105479
 Makefile-Parser-0.216                   77738
 Mojolicious-Plugin-Module-0.03          102860
 Mojolicious-Plugin-RedisSubscriber-0.0.1 107207
@@ -1459,7 +1458,6 @@ WebService-Booklog-v0.0.1               108504
 WWW-Mechanize-PhantomJS-0.11            108505
 URI-Find-UTF8-0.04                      https://github.com/miyagawa/URI-Find-UTF8/issues/3
 GuiBuilder-v0_3                         108506
-Indexuri-Apartament-0.01                108507
 Git-Bunch-0.50                          108519
 Perl6-Pod-0.60                          100204
 File-Tail-Dir-0.16                      108526
@@ -1674,7 +1672,6 @@ UNIVERSAL-to_yaml-0.10                  108985
 Text-Index-0.01                         108496
 Date-Tiny-1.04                          108636
 Time-Tiny-1.05                          108636
-Indexuri-Apartament-v0.02               108507
 Graph-Maker-0.02                        108992
 Logic-Tools-0.5.7                       105479
 Net-PDSH-0.01                           108999
@@ -1694,3 +1691,4 @@ USPS-RateRequest-1.0002                 https://github.com/rizen/USPS-RateReques
 Git-Archive-0.10                        https://github.com/oneandoneis2/Git-Archive/issues/1
 Test-SMTP-0.04                          109038
 Tickit-Async-0.18                       109039
+Indexuri-Apartament-0.02                108507
