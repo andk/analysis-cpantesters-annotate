@@ -1693,3 +1693,4 @@ RPC-XML-0.79                            99578
 USPS-RateRequest-1.0002                 https://github.com/rizen/USPS-RateRequest/issues/1
 Git-Archive-0.10                        https://github.com/oneandoneis2/Git-Archive/issues/1
 Test-SMTP-0.04                          109038
+Tickit-Async-0.18                       109039
