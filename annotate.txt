@@ -1710,3 +1710,6 @@ CLI-Startup-0.16                        109091
 Net-Prober-0.14                         109092
 HTML-CalendarMonth-2.01                 109094
 BPM-XPDL-0.92                           109096
+Unicode-Block-0.03                      98321
+HTML-HTML5-DOM-0.002                    109099
+self-0.34                               109104
