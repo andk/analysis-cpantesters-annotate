@@ -1719,3 +1719,6 @@ Test-Unit-0.25                          102732
 App-docsisious-0.06                     https://github.com/jhthorsen/app-docsisious/issues/1
 BioX-Workflow-Plugin-Drake-0.10         109146
 BioX-Workflow-Plugin-FileDetails-0.02   109147
+HTML-PodCodeReformat-0.20000            109153
+WWW-Ruten-0.03                          https://github.com/gugod/WWW-Ruten/issues/1
+HTML-FormFu-2.01                        109159
