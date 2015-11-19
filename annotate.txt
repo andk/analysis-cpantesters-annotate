@@ -1715,3 +1715,7 @@ HTML-HTML5-DOM-0.002                    109099
 self-0.34                               109104
 Statistics-RatioVariance-1.00           109133
 Tapper-CLI-4.1.3                        93985
+Test-Unit-0.25                          102732
+App-docsisious-0.06                     https://github.com/jhthorsen/app-docsisious/issues/1
+BioX-Workflow-Plugin-Drake-0.10         109146
+BioX-Workflow-Plugin-FileDetails-0.02   109147
