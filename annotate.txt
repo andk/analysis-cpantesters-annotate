@@ -1722,3 +1722,11 @@ HTML-PodCodeReformat-0.20000            109153
 WWW-Ruten-0.03                          https://github.com/gugod/WWW-Ruten/issues/1
 HTML-FormFu-2.01                        109159
 Rstats-0.0148                           https://github.com/yuki-kimoto/Rstats/issues/4
+Net-RADSWrappers-0.01                   109200
+Religion-Bible-Regex-Config-0.61        109202
+Religion-Bible-Regex-Builder 0.99       109205
+Net-Lighthouse-0.06                     95284
+Data-Keys-0.02                          https://github.com/jozef/Data-Keys/issues/1
+ShipIt-Step-DistTestExtra-0.01          109207
+Device-OUI-1.04                         109209
+Build-Daily-0.01                        109212
