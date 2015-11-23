@@ -1801,3 +1801,10 @@ Math-GMatrix-0.2                        109441
 Math-Systems-0.01                       42173
 Memo32-1.01b                            109442
 Palm-DiabetesPilot-1.08                 109443
+BioX-Workflow-Plugin-FileDetails-0.03   109147
+IO-Tail-0.01                            61593
+Dancer2-Plugin-HTTP-ContentNegotiation-0.01 109522
+Data-Sah-0.74                           101269
+Graph-Writer-Cytoscape-1.00             77593
+Graph-Writer-GraphViz-0.11              85950
+Flower-0.03                             109524
