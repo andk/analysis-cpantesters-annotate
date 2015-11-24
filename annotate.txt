@@ -1812,3 +1812,5 @@ Module-AutoLoad-0.04                    109531
 Archive-BagIt-0.052                     https://github.com/rjeschmi/Archive-BagIt/issues/9
 HTTP-OAI-4.03                           102010
 Flickr-Tools-1.21_02                    109558
+Time-StasisField-0.01                   109559
+Data-BitStream-0.08                     109561
