@@ -1808,3 +1808,6 @@ Data-Sah-0.74                           101269
 Graph-Writer-Cytoscape-1.00             77593
 Graph-Writer-GraphViz-0.11              85950
 Flower-0.03                             109524
+Module-AutoLoad-0.04                    109531
+Archive-BagIt-0.052                     https://github.com/rjeschmi/Archive-BagIt/issues/9
+HTTP-OAI-4.03                           102010
