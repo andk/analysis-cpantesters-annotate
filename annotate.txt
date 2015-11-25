@@ -1815,3 +1815,11 @@ Flickr-Tools-1.21_02                    109558
 Time-StasisField-0.01                   109559
 Data-BitStream-0.08                     109561
 BioX-Workflow-Plugin-Drake-0.10         109146
+Data-BitStream-0.08                     109561
+Perl6-Export-Attrs-0.000005             107603
+Setup-Project-0.01                      https://github.com/hixi-hyi/p5-Setup-Project/issues/1
+Test-LectroTest-0.5001                  28203
+Throw-Back-0.01                         109593
+Mojolicious-Plugin-FillInFormLite-0.02  https://github.com/memememomo/Mojolicious-Plugin-FillInFormLite/issues/1
+DBIx-Class-RDBOHelpers-0.11             109596
+WWW-KrispyKreme-HotLight-0.06           https://github.com/aggrolite/WWW-KrispyKreme-HotLight/issues/1
