@@ -1926,3 +1926,8 @@ Config-Constants-0.03                   100477
 Bencher-Scenario-ZodiacModules-0.01     109917
 Oracle-Trigger-0.22                     109922
 Math-BigSimple-1.1a                     40282
+Statistics-MVA-0.0.2                    87426
+Scraper-3.05                            109931
+File-SmartTail-v1.0.2                   106760
+Bryar-4.0                               55553
+Business-AU-TFN-0.1                     109932
