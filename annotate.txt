@@ -1931,3 +1931,8 @@ Scraper-3.05                            109931
 File-SmartTail-v1.0.2                   106760
 Bryar-4.0                               55553
 Business-AU-TFN-0.1                     109932
+App-Grepl-0.01                          109933
+Tk-DirSelect-1.12                       83598
+Filesys-Notify-Simple-0.12              https://github.com/miyagawa/Filesys-Notify-Simple/issues/20
+Cache-Cache-1.08                        88418
+Mew-1.001003                            https://github.com/zoffixznet/Mew/issues/3
