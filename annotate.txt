@@ -1690,7 +1690,6 @@ USPS-RateRequest-1.0002                 https://github.com/rizen/USPS-RateReques
 Git-Archive-0.10                        https://github.com/oneandoneis2/Git-Archive/issues/1
 Test-SMTP-0.04                          109038
 Tickit-Async-0.18                       109039
-Indexuri-Apartament-0.02                108507
 Map-Tube-Beijing-0.01                   107686
 Map-Tube-Glasgow-0.07                   109052
 Map-Tube-KoelnBonn-0.09                 109053
@@ -1957,3 +1956,5 @@ Text-Decorator-1.65                     109981
 Illumos-SMF-0.1.4                       https://github.com/hadfl/Illumos-SMF/issues/3
 CHI-0.60                                109993
 TOML-Parser-0.06                        https://github.com/karupanerura/TOML-Parser/issues/7
+Indexuri-Apartament-v0.02               108507
+Parallel-MapReduce-0.09                 109995
