@@ -1974,8 +1974,15 @@ HTML-Valid-0.02                         https://github.com/benkasminbullock/html
 Curses-UI-0.9609                        110032
 WebService-Recruit-AkasuguUchiiwai-0.0.1 110033
 Catalyst-View-JSON-PerRequest-0.007     https://github.com/jjn1056/Catalyst-View-JSON-PerRequest/issues/1
-Convert-PEM 0.08                        27574
 BalanceOfPower-0.120000                 110046
 Paws-0.19                               https://github.com/pplu/aws-sdk-perl/issues/76
 Text-Bidi-2.11                          108739
 Dezi-App-0.014                          110047
+Convert-PEM-0.08                        27574
+WebService-Nestoria-Search-1.022010     110048
+Data-Valve-0.00010                      110056
+WWW-Offliberty-1.000                    110057
+Spp-0.02                                110007
+Queue-Q4M-0.00019                       100224
+Geo-USCensus-Geocoding-0.01             110061
+Map-Tube-Delhi-0.37                     110062
