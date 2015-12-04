@@ -1962,3 +1962,20 @@ OpenGL-List-0.01                        109996
 Spp-0.01                                110007
 FCGI-Buffer-0.06                        110011
 HTML-Valid-0.01                         https://github.com/benkasminbullock/html-valid/issues/4
+AnsibleModule-0.3                       109959
+Biblio-Refbase-0.04                     https://github.com/hma/Biblio-Refbase/issues/1
+WebService-Recruit-FromA-0.0.1          110017
+Date-Utility-1.04                       110015
+DBIx-Class-ElasticSync-0.03             110026
+Illumos-SMF-0.1.5                       https://github.com/hadfl/Illumos-SMF/issues/5
+Illumos-Zones-0.1.1                     https://github.com/hadfl/Illumos-Zones/issues/3
+WebService-ILS-0.02                     108954
+HTML-Valid-0.02                         https://github.com/benkasminbullock/html-valid/issues/9
+Curses-UI-0.9609                        110032
+WebService-Recruit-AkasuguUchiiwai-0.0.1 110033
+Catalyst-View-JSON-PerRequest-0.007     https://github.com/jjn1056/Catalyst-View-JSON-PerRequest/issues/1
+Convert-PEM 0.08                        27574
+BalanceOfPower-0.120000                 110046
+Paws-0.19                               https://github.com/pplu/aws-sdk-perl/issues/76
+Text-Bidi-2.11                          108739
+Dezi-App-0.014                          110047
