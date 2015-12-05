@@ -1986,3 +1986,17 @@ Spp-0.02                                110007
 Queue-Q4M-0.00019                       100224
 Geo-USCensus-Geocoding-0.01             110061
 Map-Tube-Delhi-0.37                     110062
+IO-stringy-2.111                        103895
+IO-Lambda-1.25                          108911
+Socialtext-Resting-Utils-0.21           85894
+CatalystX-CRUD-ModelAdapter-DBIC-0.13   110092
+DBIx-Class-Indexer-WebService-Dezi-0.08 110093
+Vim-Debug-0.904                         https://github.com/kablamo/VimDebug/issues/33
+WebService-Instagram-0.06               110067
+DBIx-Class-PgLog-0.03                   110085
+Prancer-1.04                            110089
+Plack-Middleware-TazXSLT-0.55           110090
+GD-Graph-Cartesian-0.11                 96313
+XML-RSS-Tools-0.34                      110091
+Spreadsheet-ParseXLSX-0.19              https://github.com/doy/spreadsheet-parsexlsx/issues/49
+SWISH-Filters-ImageToMD5Xml-0.04        110096
