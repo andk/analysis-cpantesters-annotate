@@ -2000,3 +2000,8 @@ GD-Graph-Cartesian-0.11                 96313
 XML-RSS-Tools-0.34                      110091
 Spreadsheet-ParseXLSX-0.19              https://github.com/doy/spreadsheet-parsexlsx/issues/49
 SWISH-Filters-ImageToMD5Xml-0.04        110096
+HTTP-Easy-0.02                          110101
+Graph-ChartSVG-2.06                     110108
+Tk-Canvas-Draw-0.06                     110109
+Method-ParamValidator-0.01              110110
+Net-Ikano-0.01                          110112
