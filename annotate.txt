@@ -2005,3 +2005,7 @@ Graph-ChartSVG-2.06                     110108
 Tk-Canvas-Draw-0.06                     110109
 Method-ParamValidator-0.01              110110
 Net-Ikano-0.01                          110112
+WebService-Recruit-AbRoad-0.0.1         110117
+Log-UDP-Client-0.20.0                   110118
+WWW-Pastebin-PastebinCom-API-1.001003   https://github.com/zoffixznet/WWW-Pastebin-PastebinCom-API/issues/2
+Plack-Middleware-TrailingSlash-0.001    110126
