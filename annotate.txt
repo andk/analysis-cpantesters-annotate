@@ -2009,3 +2009,5 @@ WebService-Recruit-AbRoad-0.0.1         110117
 Log-UDP-Client-0.20.0                   110118
 WWW-Pastebin-PastebinCom-API-1.001003   https://github.com/zoffixznet/WWW-Pastebin-PastebinCom-API/issues/2
 Plack-Middleware-TrailingSlash-0.001    110126
+HTML-FormFu-Filter-Demoroniser-0.02     109733
+Lingua-AtD-1.121570                     110127
