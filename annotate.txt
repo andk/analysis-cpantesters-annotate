@@ -2045,3 +2045,4 @@ Gtk2-Ex-Simple-Menu-0.7                 110205
 Gtk2-TrayManager-0.05                   110206
 Tie-Proxy-Hash-1.01                     110207
 Shell-Base-0.05                         19649
+MailFolder-0.07                         101281
