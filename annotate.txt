@@ -2052,3 +2052,11 @@ DateStamp-v1.0.4                        110236
 RateLimitations-0.03                    https://github.com/binary-com/perl-RateLimitations/issues/1
 Dist-Zilla-Plugin-Stenciller-HtmlExamples-0.0101 https://github.com/Csson/p5-Dist-Zilla-Plugin-Stenciller-HtmlExamples/issues/1
 Minion-Notifier-0.01                    https://github.com/jberger/Minion-Notifier/issues/1
+Mojolicious-Plugin-FormFieldsFromJSON-Date-0.03 https://github.com/reneeb/Mojolicious-Plugin-FormFieldsFromJSON-Date/issues/3
+HPC-Runner-Slurm-2.46                   110255
+Lithium-WebDriver-1.0.0                 110256,110257
+triceps-2.0.1                           106833
+File-Unpack-0.70                        102745
+Redis-Fast-0.16                         https://github.com/shogo82148/Redis-Fast/issues/46
+WebService-Rollbar-Notifier-1.001004    https://github.com/zoffixznet/WebService-Rollbar-Notifier/issues/5
+Passwd-Keyring-Auto-0.72                https://bitbucket.org/Mekk/perl-keyring-auto/issues/3/tests-fail-if-passwd-keyring-kdewallet-is
