@@ -2046,3 +2046,9 @@ Gtk2-TrayManager-0.05                   110206
 Tie-Proxy-Hash-1.01                     110207
 Shell-Base-0.05                         19649
 MailFolder-0.07                         101281
+Device-FTDI-0.10                        https://github.com/leonerd/perl-Device-FTDI/issues/5
+Perinci-CmdLine-Classic-1.60            110234
+DateStamp-v1.0.4                        110236
+RateLimitations-0.03                    https://github.com/binary-com/perl-RateLimitations/issues/1
+Dist-Zilla-Plugin-Stenciller-HtmlExamples-0.0101 https://github.com/Csson/p5-Dist-Zilla-Plugin-Stenciller-HtmlExamples/issues/1
+Minion-Notifier-0.01                    https://github.com/jberger/Minion-Notifier/issues/1
