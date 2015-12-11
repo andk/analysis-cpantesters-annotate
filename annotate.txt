@@ -2060,3 +2060,6 @@ File-Unpack-0.70                        102745
 Redis-Fast-0.16                         https://github.com/shogo82148/Redis-Fast/issues/46
 WebService-Rollbar-Notifier-1.001004    https://github.com/zoffixznet/WebService-Rollbar-Notifier/issues/5
 Passwd-Keyring-Auto-0.72                https://bitbucket.org/Mekk/perl-keyring-auto/issues/3/tests-fail-if-passwd-keyring-kdewallet-is
+Rubic-0.0805                            https://github.com/jhthorsen/rubic/issues/2
+Finance-Bank-ID-BPRKS-0.04              110275
+Lingua-IdSplitter-0.01                  110277
