@@ -2063,3 +2063,11 @@ Passwd-Keyring-Auto-0.72                https://bitbucket.org/Mekk/perl-keyring-
 Rubic-0.0805                            https://github.com/jhthorsen/rubic/issues/2
 Finance-Bank-ID-BPRKS-0.04              110275
 Lingua-IdSplitter-0.01                  110277
+Alien-MuPDF-0.002                       110286
+Test-Expect-0.33                        110276
+IO-Event-0.813                          92200
+WWW-Google-Places-0.28                  110292
+DB-SPEEDYB-0.1                          110300
+CGI-Application-Plugin-ViewCode-1.02    73317
+Regexp-Grammars-1.042                   110301
+Syntax-Feature-Function-0.002           110304
