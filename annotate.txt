@@ -2075,3 +2075,10 @@ Lingua-IdSplitter-0.02                  110277
 Spp-0.03                                110310
 Geo-GML-0.16                            110311
 Regexp-Common-2013031301                110313
+Net-FTP-Simple-0.0007                   110315
+HTML-Seamstress-6.112830                110316
+Shell-GetEnv-0.08                       110320
+Syntax-Highlight-Engine-Simple-HTML-0.02 110322
+Syntax-Highlight-Engine-Simple-Perl-0.02 110323
+WebService-Google-Contact-0.1           39234
+WebService-Wedata-v0.0.4                110324
