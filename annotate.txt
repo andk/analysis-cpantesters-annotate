@@ -2071,3 +2071,7 @@ DB-SPEEDYB-0.1                          110300
 CGI-Application-Plugin-ViewCode-1.02    73317
 Regexp-Grammars-1.042                   110301
 Syntax-Feature-Function-0.002           110304
+Lingua-IdSplitter-0.02                  110277
+Spp-0.03                                110310
+Geo-GML-0.16                            110311
+Regexp-Common-2013031301                110313
