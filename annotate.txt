@@ -2093,3 +2093,6 @@ Class-DBI-ViewLoader-0.05               110340
 Tie-NumericRange-0.01                   110344
 Graph-ModularDecomposition-0.13         110347
 Encoding-BER-1.00                       110348
+Perl6-Pod-0.71                          110355
+Spp-0.04                                110310
+DBIx-Class-TimeStamp-WithTimeZone-0.02  110372
