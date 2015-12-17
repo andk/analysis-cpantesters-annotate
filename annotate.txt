@@ -2099,3 +2099,11 @@ DBIx-Class-TimeStamp-WithTimeZone-0.02  110372
 BioX-Workflow-0.18                      110370
 Perl-Modern-Perl-1.000                  110392
 HTML-FormBuilder-0.11                   107633
+MOP4Import-Declare-0.003                110371
+Business-OnlinePayment-BitPay-Client-2.3.1 106755
+Test-Mojo-Role-SubmitForm-1.001007      http://fast-matrix.cpantesters.org/?dist=Test-Mojo-Role-SubmitForm%201.001007
+Workflow-1.42                           86758
+Mojolicious-Plugin-FormValidatorLazy-0.02 110381
+App-mojopaste-0.15                      https://github.com/jhthorsen/app-mojopaste/issues/10
+Perl-Modern-Perl-1.000                  110394
+Reconcile-Accounts-Vin-1.01             110405
