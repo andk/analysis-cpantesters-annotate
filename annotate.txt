@@ -2108,3 +2108,6 @@ App-mojopaste-0.15                      https://github.com/jhthorsen/app-mojopas
 Perl-Modern-Perl-1.000                  110394
 Reconcile-Accounts-Vin-1.01             110405
 App-Pmhack-0.002                        108285
+Quiz-Flashcards-0.04b                   110410
+Wx-Perl-FSHandler-UNC-1.008             110411
+Limper-Engine-PSGI-0.002                110413
