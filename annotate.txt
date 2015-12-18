@@ -2111,3 +2111,12 @@ App-Pmhack-0.002                        108285
 Quiz-Flashcards-0.04b                   110410
 Wx-Perl-FSHandler-UNC-1.008             110411
 Limper-Engine-PSGI-0.002                110413
+Geo-StreetAddress-FR-0.0.4              110414
+HTML-Template-Ex-0.08                   110415
+Parse-Apache-ServerStatus-Extended-0.02 110416
+Text-Widont-0.01                        110417
+XML-APML-0.04                           110418
+Acme-Tools-0.17                         110424
+Perl-Modern-Perl-1.002                  110394
+Catalyst-Plugin-Cache-HTTP-Preempt-v0.1.3 110438
+Perl-Modern-Perl-1.003                  110394
