@@ -2120,3 +2120,7 @@ Acme-Tools-0.17                         110424
 Perl-Modern-Perl-1.002                  110394
 Catalyst-Plugin-Cache-HTTP-Preempt-v0.1.3 110438
 Perl-Modern-Perl-1.003                  110394
+Search-Sitemap-2.13                     86048
+Tapper-TAP-Harness-5.0.0                110450
+Web-ComposableRequest-0.5.1             110453
+WebService-Google-Closure-0.10          110454
