@@ -2124,3 +2124,10 @@ Search-Sitemap-2.13                     86048
 Tapper-TAP-Harness-5.0.0                110450
 Web-ComposableRequest-0.5.1             110453
 WebService-Google-Closure-0.10          110454
+Plack-Middleware-SSI-0.12               110455
+File-fgets-v0.0.4                       110460
+File-Assets-0.064                       87823
+HTML-Menu-TreeView-1.16                 107684
+Perl-Modern-Perl-1.005                  110394
+BSD-getloadavg-0.03                     110463
+Attean-0.009_02                         https://github.com/kasei/attean/issues/42
