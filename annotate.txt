@@ -2131,3 +2131,13 @@ HTML-Menu-TreeView-1.16                 107684
 Perl-Modern-Perl-1.005                  110394
 BSD-getloadavg-0.03                     110463
 Attean-0.009_02                         https://github.com/kasei/attean/issues/42
+Perl-Modern-Perl-1.006                  110394
+Schedule-LongSteps-0.006                110545
+Dancer2-Plugin-Database-2.13            https://github.com/bigpresh/Dancer-Plugin-Database/issues/77
+Dancer2-Plugin-JWT-0.003                110554
+HTML-Menu-TreeView-1.17                 107684
+PDF-Cropmarks-0.03                      110566
+Strehler-1.6.6                          110567
+MARC-Lint_1.49                          110568
+Strehler-RSS-1.1.2                      110569
+Mojolicious-Command-tarball-0.01        110574
