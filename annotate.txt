@@ -2144,3 +2144,5 @@ Mojolicious-Command-tarball-0.01        110574
 Firewall-PaloAlto-0.04                  110578
 PerlGuard-Agent-0.10                    110579
 dotconfig-0.04                          https://github.com/dotconfig/dotconfig-perl/issues/2
+POE-Component-YubiAuth-0.08             110622
+Plack-Middleware-PostErrorToSlack-0.01  https://github.com/hitode909/Plack-Middleware-PostErrorToSlack/issues/1
