@@ -2148,3 +2148,13 @@ POE-Component-YubiAuth-0.08             110622
 Plack-Middleware-PostErrorToSlack-0.01  https://github.com/hitode909/Plack-Middleware-PostErrorToSlack/issues/1
 Net-Xero-0.43                           105007
 Class-Action-0.4                        95278
+Games-Tournament-Swiss-0.18             110649
+Data-Dump-Streamer-2.39                 100488
+WWW-Mechanize-Plugin-Retry-0.04         110667
+Test-Trap-v0.3.2                        105125
+Tempest-2010.09.26                      110670
+Sys-UniqueID-1.0                        6799
+Plack-1.0039                            https://github.com/plack/Plack/issues/543
+Objects-Collection-0.37                 110671
+Object-By-v0.08                         110672
+Norma-0.02                              110673
