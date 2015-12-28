@@ -971,7 +971,6 @@ Date-Calc-6.3                           101232
 Devel-SizeMe-0.19                       92348
 Dist-Zilla-PluginBundle-GETTY-0.008     101234
 Data-DynamicValidator-0.03              101068
-WebService-Algolia-0.1002               http://www.cpantesters.org/cpan/report/dd22e8ea-912d-11e4-87f1-31723a6893cb
 Locale-VersionedMessages-0.94           101280
 Test-DistManifest-1.012                 101287
 Mail-Alias-1.12                         101356
@@ -2101,7 +2100,6 @@ Perl-Modern-Perl-1.000                  110392
 HTML-FormBuilder-0.11                   107633
 MOP4Import-Declare-0.003                110371
 Business-OnlinePayment-BitPay-Client-2.3.1 106755
-Test-Mojo-Role-SubmitForm-1.001007      http://fast-matrix.cpantesters.org/?dist=Test-Mojo-Role-SubmitForm%201.001007
 Workflow-1.42                           86758
 Mojolicious-Plugin-FormValidatorLazy-0.02 110381
 App-mojopaste-0.15                      https://github.com/jhthorsen/app-mojopaste/issues/10
@@ -2167,3 +2165,16 @@ True-Truth-1.1                          https://github.com/norbu09/True-Truth/is
 JDBC-0.02                               95932
 Dancer-Plugin-ElasticModel-0.08         https://github.com/clintongormley/Dancer-Plugin-ElasticModel/issues/2
 WWW-HtmlUnit-0.22                       88055
+MarpaX-Tester-0.02                      110698
+Magpie-1.141660                         110699
+Sys-Detect-Virtualization-0.107         110700
+Gimp-2.31                               110704
+WebService-Spotify-1.002                110705
+LWP-UserAgent-WithCache-0.12            94510
+Evented-Object-5.50                     110707
+Log-Any-Adapter-Daemontools-0.002000    110708
+Alien-Thrust-0.101                      https://github.com/hoytech/Alien-Thrust/issues/3
+BibTeX-Parser-0.66                      110710
+Mojo-UserAgent-UnixSocket-0.021         https://github.com/kanatohodets/mojo-useragent-unixsocket/issues/1
+WebService-Algolia-0.1002               https://github.com/aanari/WebService-Algolia/issues/1
+Test-Mojo-Role-SubmitForm-1.001007      https://github.com/zoffixznet/Test-Mojo-Role-SubmitForm/issues/9
