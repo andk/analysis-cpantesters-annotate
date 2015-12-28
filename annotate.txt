@@ -2163,3 +2163,7 @@ Dist-Zilla-Plugin-RunByBranch-0.214     110690
 Plack-Middleware-Rewrite-Query-0.1.1    https://github.com/nichtich/Plack-Middleware-Rewrite-Query/issues/1
 pmtools-2.0.0                           110691
 Test-MemoryGrowth-0.02                  110692
+True-Truth-1.1                          https://github.com/norbu09/True-Truth/issues/2
+JDBC-0.02                               95932
+Dancer-Plugin-ElasticModel-0.08         https://github.com/clintongormley/Dancer-Plugin-ElasticModel/issues/2
+WWW-HtmlUnit-0.22                       88055
