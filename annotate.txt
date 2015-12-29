@@ -2178,3 +2178,7 @@ BibTeX-Parser-0.66                      110710
 Mojo-UserAgent-UnixSocket-0.021         https://github.com/kanatohodets/mojo-useragent-unixsocket/issues/1
 WebService-Algolia-0.1002               https://github.com/aanari/WebService-Algolia/issues/1
 Test-Mojo-Role-SubmitForm-1.001007      https://github.com/zoffixznet/Test-Mojo-Role-SubmitForm/issues/9
+App-Commando-0.012                      https://github.com/odyniec/p5-App-Commando/issues/1
+WWW-Scraper-ISBN-PickABook_Driver-0.07  110735
+Bio-DB-NextProt-1.05                    110736
+Games-Hanabi-0.001                      110738
