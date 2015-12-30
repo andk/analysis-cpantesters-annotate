@@ -2192,3 +2192,21 @@ CHI-Cascade-0.284                       110743
 PRANG-0.17                              110744
 Dancer-Plugin-Locale-0.0103             110745
 Sub-Call-Recur-0.04                     110746
+Acme-Tools-0.171                        110750
+Authen-ModAuthPubTkt-0.1.1              110752
+Net-TCPwrappers-1.11                    110753
+Bot-Cobalt-Plugin-Weather-0.003001      110754
+Search-Estraier-0.09                    86021
+WWW-Scripter-Plugin-JavaScript-0.008a   110763
+Calendar-Plugin-Renderer-0.04           110764
+Math-SlideRule-1.03                     110765
+Complete-Getopt-Long-0.37               110766
+Test-Mimic-Generator-0.009005           110767
+Feed-PhaseCheck-0.02                    110741
+Perinci-Sub-Complete-0.83               110768
+File-ExtAttr-1.09                       34394
+File-Lock-Multi-1.02                    104720
+Git-Hook-PostReceive-0.3                https://github.com/c9s/Git-Hook-PostReceive/issues/4
+Devel-SharedLibs-0.2.0                  110770
+Domain-Register-DomainShare-1.02        probably temporary network/webservice problems
+Net-Address-Ethernet-1.123              110772
