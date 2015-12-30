@@ -2214,3 +2214,13 @@ Dist-Zilla-Plugin-CheckPrereqsIndexed-0.017 https://github.com/rjbs/Dist-Zilla-P
 Getopt-Helpful-0.04                     110776
 Test-Group-0.19                         98422,95779
 Dancer2-Plugin-Auth-OAuth-0.09          https://github.com/b10m/p5-Dancer2-Plugin-Auth-OAuth/issues/8
+Perinci-Access-Simple-Server-0.23       110780
+WWW-Wikipedia-2.03                      110781
+DateTime-Event-Klingon-1.0.1            110782,110783
+HTML-Xit-0.05                           110784
+Math-Prime-Util-0.56                    110785
+File-Attributes-0.04                    56221
+Math-RandomOrg-0.04                     110789
+Math-PlanePath-121                      110793
+Math-BigInt-Pari-1.23                   110794
+Math-BigInt-FastCalc-0.38               110795
