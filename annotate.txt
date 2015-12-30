@@ -2210,3 +2210,7 @@ Git-Hook-PostReceive-0.3                https://github.com/c9s/Git-Hook-PostRece
 Devel-SharedLibs-0.2.0                  110770
 Domain-Register-DomainShare-1.02        probably temporary network/webservice problems
 Net-Address-Ethernet-1.123              110772
+Dist-Zilla-Plugin-CheckPrereqsIndexed-0.017 https://github.com/rjbs/Dist-Zilla-Plugin-CheckPrereqsIndexed/issues/19
+Getopt-Helpful-0.04                     110776
+Test-Group-0.19                         98422,95779
+Dancer2-Plugin-Auth-OAuth-0.09          https://github.com/b10m/p5-Dancer2-Plugin-Auth-OAuth/issues/8
