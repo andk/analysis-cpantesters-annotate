@@ -2227,3 +2227,8 @@ Math-BigInt-FastCalc-0.38               110795
 Catalyst-Plugin-ClamAV-0.03             110797
 WWW-RobotRules-DBIC-0.01                110798
 Net-Nslookup-2.04                       108184
+Devel-QuickCover-0.200000               110805
+mop-0.03-TRIAL                          https://github.com/stevan/p5-mop-redux/issues/160
+VS-RuleEngine-0.09                      110806
+Text-​Frundis-​2.10                       110788
+Dist-Zilla-Plugin-TemplateCJM-5.001     110818
