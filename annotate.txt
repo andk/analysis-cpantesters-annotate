@@ -2224,3 +2224,6 @@ Math-RandomOrg-0.04                     110789
 Math-PlanePath-121                      110793
 Math-BigInt-Pari-1.23                   110794
 Math-BigInt-FastCalc-0.38               110795
+Catalyst-Plugin-ClamAV-0.03             110797
+WWW-RobotRules-DBIC-0.01                110798
+Net-Nslookup-2.04                       108184
