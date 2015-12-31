@@ -2232,3 +2232,4 @@ mop-0.03-TRIAL                          https://github.com/stevan/p5-mop-redux/i
 VS-RuleEngine-0.09                      110806
 Text-​Frundis-​2.10                       110788
 Dist-Zilla-Plugin-TemplateCJM-5.001     110818
+Dist-Iller-Config-Author-CSSON-0.0100   https://github.com/Csson/p5-Dist-Iller-Config-Author-CSSON/issues/1
