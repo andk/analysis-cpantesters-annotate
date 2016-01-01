@@ -2234,3 +2234,4 @@ Text-​Frundis-​2.10                       110788
 Dist-Zilla-Plugin-TemplateCJM-5.001     110818
 Dist-Iller-Config-Author-CSSON-0.0100   https://github.com/Csson/p5-Dist-Iller-Config-Author-CSSON/issues/1
 Test-RedisServer-0.20                   https://github.com/typester/Test-RedisServer/issues/5
+Text-​Frundis-​2.11                       110825
