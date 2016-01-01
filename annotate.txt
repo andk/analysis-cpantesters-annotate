@@ -402,7 +402,6 @@ MooseX-Net-API-0.12                     deprecated; see Net::HTTP::API
 Net-Bot-IRC-NumericCodes-0.05           81591
 PITA-XML-0.52                           81592
 Su-0.110                                81595
-Tie-FieldVals-0.6202                    81596
 Class-Trait-0.31                        81598
 App-Hachero-0.13                        81604
 Bio-NEXUS-0.78                          81606
