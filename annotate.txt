@@ -2236,3 +2236,6 @@ Test-RedisServer-0.20                   https://github.com/typester/Test-RedisSe
 Text-​Frundis-​2.11                       110825
 Tie-FieldVals-0.6203                    81596
 SPOPS-0.87                              56320
+MooseX-Attribute-Handles-Expand-0.0.1   https://github.com/yanick/MooseX-Attribute-Handles-Expand/issues/1
+Math-Intersection-Circle-Line-1.006     110849
+SNMP-OID-Translate-0.0002               110850
