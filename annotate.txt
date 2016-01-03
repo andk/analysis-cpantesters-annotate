@@ -2240,3 +2240,6 @@ MooseX-Attribute-Handles-Expand-0.0.1   https://github.com/yanick/MooseX-Attribu
 Math-Intersection-Circle-Line-1.006     110849
 SNMP-OID-Translate-0.0002               110850
 Language-Befunge-4.13                   110870
+Log-Any-Adapter-Daemontools-0.090000_001 110864
+WWW-Mechanize-Plugin-Cache-0.06         110875
+Dancer2-Session-Cookie-0.006            https://github.com/PerlDancer/Dancer2-Session-Cookie/issues/13
