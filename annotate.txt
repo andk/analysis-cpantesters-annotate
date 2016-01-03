@@ -2229,11 +2229,11 @@ Net-Nslookup-2.04                       108184
 Devel-QuickCover-0.200000               110805
 mop-0.03-TRIAL                          https://github.com/stevan/p5-mop-redux/issues/160
 VS-RuleEngine-0.09                      110806
-Text-Frundis-​2.10                       110788
+Text-Frundis-2.10                       110788
 Dist-Zilla-Plugin-TemplateCJM-5.001     110818
 Dist-Iller-Config-Author-CSSON-0.0100   https://github.com/Csson/p5-Dist-Iller-Config-Author-CSSON/issues/1
 Test-RedisServer-0.20                   https://github.com/typester/Test-RedisServer/issues/5
-Text-Frundis-​2.11                       110825
+Text-Frundis-2.11                       110825
 Tie-FieldVals-0.6203                    81596
 SPOPS-0.87                              56320
 MooseX-Attribute-Handles-Expand-0.0.1   https://github.com/yanick/MooseX-Attribute-Handles-Expand/issues/1
