@@ -2244,3 +2244,4 @@ Log-Any-Adapter-Daemontools-0.090000_001 110864
 WWW-Mechanize-Plugin-Cache-0.06         110875
 Dancer2-Session-Cookie-0.006            https://github.com/PerlDancer/Dancer2-Session-Cookie/issues/13
 Convert-Pluggable-0.031                 110944
+Tao-DBI-0.011                           109435
