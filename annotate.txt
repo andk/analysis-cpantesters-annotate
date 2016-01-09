@@ -2251,3 +2251,5 @@ PAR-Packer-1.028                        https://github.com/Test-More/test-more/i
 Test-Group-0.20                         https://github.com/Test-More/test-more/issues/627
 Net-SNPP-1.17                           110978
 Google-reCAPTCHA-0.05                   110974
+Bricklayer-Templater-0.9.8              111024
+Parse-PMFile-0.38                       111034
