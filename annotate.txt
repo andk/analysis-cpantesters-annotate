@@ -2249,3 +2249,5 @@ TAP-Formatter-TeamCity-0.08             https://github.com/maxmind/TAP-Formatter
 Net-BitTorrent-0.052                    https://github.com/Test-More/test-more/issues/625
 PAR-Packer-1.028                        https://github.com/Test-More/test-more/issues/626
 Test-Group-0.20                         https://github.com/Test-More/test-more/issues/627
+Net-SNPP-1.17                           110978
+Google-reCAPTCHA-0.05                   110974
