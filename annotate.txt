@@ -2256,3 +2256,5 @@ Parse-PMFile-0.38                       111034
 Data-SIprefixes-0.0.1                   111045
 Feed-PhaseCheck-0.03                    110741
 App-JobLog-1.039                        95737
+Evo-0.0175                              https://github.com/alexbyk/perl-evo/issues/3
+HTML-FormHandlerX-JQueryRemoteValidator-0.10 110859
