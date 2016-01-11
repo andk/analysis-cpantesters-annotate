@@ -2258,3 +2258,4 @@ Feed-PhaseCheck-0.03                    110741
 App-JobLog-1.039                        95737
 Evo-0.0175                              https://github.com/alexbyk/perl-evo/issues/3
 HTML-FormHandlerX-JQueryRemoteValidator-0.10 110859
+Object-Remote-0.003006                  108016
