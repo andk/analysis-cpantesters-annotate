@@ -2262,3 +2262,4 @@ Object-Remote-0.003006                  108016
 CGI-Wiki-0.63                           111093,deprecated
 Compress-PPMd-0.11                      58833,78521
 Pithub-0.01030                          https://github.com/plu/Pithub/issues/190
+Minions-0.000007                        https://github.com/arunbear/Minions/issues/2
