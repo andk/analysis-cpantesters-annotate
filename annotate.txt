@@ -1350,7 +1350,7 @@ Outthentic-0.0.5                        107961
 PYX-XMLSchema-List-0.02                 107962
 WWW-Shopify-1.01                        107963
 Tie-Simple-1.03                         https://rt.perl.org/rt3/Ticket/Display.html?id=126472,108096
-Object-Remote-0.003005                  108016
+Object-Remote-0.003006                  108016
 Lexical-SealRequireHints-0.009          https://rt.perl.org/rt3/Ticket/Display.html?id=126484
 HTTP-DetectUserAgent-0.06               51152
 AnyEvent-Curl-Multi-1.1                 105767
