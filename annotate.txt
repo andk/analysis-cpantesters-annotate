@@ -2270,3 +2270,4 @@ Perinci-CmdLine-Classic-1.62            110234
 PPI-Xref-0.002                          111115
 TAP-Formatter-TeamCity-0.09             https://github.com/maxmind/TAP-Formatter-TeamCity/issues/2
 Perl-PrereqScanner-Lite-0.26            https://github.com/moznion/Perl-PrereqScanner-Lite/issues/15
+Lchmod-0.02                             111208
