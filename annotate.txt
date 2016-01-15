@@ -2245,7 +2245,6 @@ WWW-Mechanize-Plugin-Cache-0.06         110875
 Dancer2-Session-Cookie-0.006            https://github.com/PerlDancer/Dancer2-Session-Cookie/issues/13
 Convert-Pluggable-0.031                 110944
 Tao-DBI-0.011                           109435
-TAP-Formatter-TeamCity-0.08             https://github.com/maxmind/TAP-Formatter-TeamCity/issues/2
 Net-BitTorrent-0.052                    https://github.com/Test-More/test-more/issues/625
 PAR-Packer-1.028                        https://github.com/Test-More/test-more/issues/626
 Test-Group-0.20                         https://github.com/Test-More/test-more/issues/627
@@ -2264,3 +2263,10 @@ Compress-PPMd-0.11                      58833,78521
 Pithub-0.01030                          https://github.com/plu/Pithub/issues/190
 Minions-0.000007                        https://github.com/arunbear/Minions/issues/2
 App-git-ship-0.20                       https://github.com/jhthorsen/app-git-ship/issues/6
+HTML-FormHandlerX-JQueryRemoteValidator-0.22 https://github.com/davebaird/html-formhandlerx-jqueryremotevalidator/issues/1
+HTTP-SimpleLinkChecker-1.161            111166
+RDF-Converter-CSV-0.03                  111185
+Perinci-CmdLine-Classic-1.62            110234
+PPI-Xref-0.002                          111115
+TAP-Formatter-TeamCity-0.09             https://github.com/maxmind/TAP-Formatter-TeamCity/issues/2
+Perl-PrereqScanner-Lite-0.26            https://github.com/moznion/Perl-PrereqScanner-Lite/issues/15
