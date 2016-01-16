@@ -2271,3 +2271,7 @@ PPI-Xref-0.002                          111115
 TAP-Formatter-TeamCity-0.09             https://github.com/maxmind/TAP-Formatter-TeamCity/issues/2
 Perl-PrereqScanner-Lite-0.26            https://github.com/moznion/Perl-PrereqScanner-Lite/issues/15
 Lchmod-0.02                             111208
+Net-Frame-Layer-NTP-1.00                111228
+Mason-Plugin-WithEncoding-0.2           https://github.com/davebaird/mason-plugin-withencoding/issues/1
+Devel-QuickCover-0.300002               111220
+Evo-0.0196                              https://github.com/alexbyk/perl-evo/issues/2
