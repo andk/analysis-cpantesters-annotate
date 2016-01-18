@@ -2275,3 +2275,5 @@ Net-Frame-Layer-NTP-1.00                111228
 Mason-Plugin-WithEncoding-0.2           https://github.com/davebaird/mason-plugin-withencoding/issues/1
 Devel-QuickCover-0.300002               111220
 Evo-0.0196                              https://github.com/alexbyk/perl-evo/issues/2
+App-JobLog-1.040                        95737
+VolSurface-Calibration-Equities-0.03    108675
