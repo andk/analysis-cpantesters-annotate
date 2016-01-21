@@ -2279,3 +2279,5 @@ App-JobLog-1.040                        95737
 VolSurface-Calibration-Equities-0.03    108675
 Dist-Zilla-MintingProfile-Iller-CSSON-0.0100 https://github.com/Csson/p5-Dist-Zilla-MintingProfile-Iller-CSSON/issues/1
 Version-Next-0.004                      https://github.com/dagolden/Version-Next/issues/4
+Log-Dispatch-File-Stamped-0.15          111292
+Dancer2-Plugin-Database-2.14            https://github.com/bigpresh/Dancer-Plugin-Database/issues/77
