@@ -2284,3 +2284,7 @@ Dancer2-Plugin-Database-2.14            https://github.com/bigpresh/Dancer-Plugi
 re-engine-GNU-0.019                     111311
 Clustericious-1.14                      https://github.com/clustericious/Clustericious/issues/38
 ActiveRecord-Simple-0.80                111358
+Net-SSL-ExpireDate-1.16                 111353
+WWW-Wikipedia-2.04                      111354
+WWW-eNom-v1.3.0                         https://github.com/rsimoes/WWW-eNom/issues/9
+App-Git-Workflow-0.99                   https://github.com/ivanwills/git-workflow-tools/issues/8
