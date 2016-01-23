@@ -2288,3 +2288,8 @@ Net-SSL-ExpireDate-1.16                 111353
 WWW-Wikipedia-2.04                      111354
 WWW-eNom-v1.3.0                         https://github.com/rsimoes/WWW-eNom/issues/9
 App-Git-Workflow-0.99                   https://github.com/ivanwills/git-workflow-tools/issues/8
+WWW-HostipInfo-0.14                     111360
+Net-IMP-0.632                           111376
+Perl-Build-1.12                         https://github.com/tokuhirom/Perl-Build/issues/53
+Script-Toolbox-0.47                     111379
+Lock-Server-1.1                         111380
