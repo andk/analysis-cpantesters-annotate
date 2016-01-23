@@ -2294,3 +2294,8 @@ Perl-Build-1.12                         https://github.com/tokuhirom/Perl-Build/
 Script-Toolbox-0.47                     111379
 Lock-Server-1.1                         111380
 Complete-Getopt-Long-0.39               111382
+Redis-Fast-0.17                         https://github.com/shogo82148/Redis-Fast/issues/55
+Parse-Syslog-Line-3.2                   111392
+Geo-UK-Postcode-CodePointOpen-0.005     https://github.com/mjemmeson/Geo-UK-Postcode-CodePointOpen/issues/2
+Geo-Coordinates-OSGB-2.11               111395
+App-JobLog-1.041                        95737
