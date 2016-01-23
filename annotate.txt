@@ -2293,3 +2293,4 @@ Net-IMP-0.632                           111376
 Perl-Build-1.12                         https://github.com/tokuhirom/Perl-Build/issues/53
 Script-Toolbox-0.47                     111379
 Lock-Server-1.1                         111380
+Complete-Getopt-Long-0.39               111382
