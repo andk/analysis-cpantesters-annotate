@@ -2302,3 +2302,8 @@ App-JobLog-1.041                        95737
 Bloom-Scalable-0.01                     98878
 CGI-apacheSSI-0.93                      108412
 App-JobLog-1.042                        95737
+Log-Reproducible-v0.12.1                111411
+App-Fetchware-1.014                     https://github.com/deeelwy/Fetchware/issues/5
+AXL-Client-Simple-0.01                  111412
+BackPAN-Version-Discover-0.01           108393
+Games-Messages-0.05                     24963
