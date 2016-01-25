@@ -2307,3 +2307,8 @@ App-Fetchware-1.014                     https://github.com/deeelwy/Fetchware/iss
 AXL-Client-Simple-0.01                  111412
 BackPAN-Version-Discover-0.01           108393
 Games-Messages-0.05                     24963
+Text-Statistics-Latin-0.06              111413
+Log-Reproducible-v0.12.2                111422
+Mail-Audit-DKIM-0.003                   https://github.com/rjbs/Mail-Audit-DKIM/issues/1
+Filter-Crypto-2.07                      111423
+Pod-Weaver-Section-Badges-0.0203        https://github.com/Csson/p5-Pod-Weaver-Section-Badges/issues/2
