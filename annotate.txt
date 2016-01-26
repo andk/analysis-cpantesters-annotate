@@ -2312,3 +2312,4 @@ Log-Reproducible-v0.12.2                111422
 Mail-Audit-DKIM-0.003                   https://github.com/rjbs/Mail-Audit-DKIM/issues/1
 Filter-Crypto-2.07                      111423
 Pod-Weaver-Section-Badges-0.0203        https://github.com/Csson/p5-Pod-Weaver-Section-Badges/issues/2
+Mojolicious-Plugin-UnicodeNormalize-1.20150802 111430
