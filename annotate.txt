@@ -2314,3 +2314,4 @@ Filter-Crypto-2.07                      111423
 Pod-Weaver-Section-Badges-0.0203        https://github.com/Csson/p5-Pod-Weaver-Section-Badges/issues/2
 Mojolicious-Plugin-UnicodeNormalize-1.20150802 111430
 FIX-Parser-0.01_1                       perlcritic.t fails, no bug tracker
+WWW-LogicBoxes-1.0.1                    https://github.com/drzigman/WWW-LogicBoxes/issues/1
