@@ -2316,3 +2316,6 @@ Mojolicious-Plugin-UnicodeNormalize-1.20150802 111430
 FIX-Parser-0.01_1                       perlcritic.t fails, no bug tracker
 WWW-LogicBoxes-1.0.1                    https://github.com/drzigman/WWW-LogicBoxes/issues/1
 WWW-Weather-Yahoo-0.07                  111351
+Acme-Incorporated-1.00                  106120
+Scalar-Number-0.006                     85425
+Kwiki-Users-Remote-0.04                 111554
