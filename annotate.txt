@@ -2319,3 +2319,6 @@ WWW-Weather-Yahoo-0.07                  111351
 Acme-Incorporated-1.00                  106120
 Scalar-Number-0.006                     85425
 Kwiki-Users-Remote-0.04                 111554
+IPC-Open3-Callback-1.18                 95819
+CGI-apacheSSI-0.94                      111571
+Dist-Zilla-Plugin-RPM-0.011             111572
