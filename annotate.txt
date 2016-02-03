@@ -2322,3 +2322,12 @@ Kwiki-Users-Remote-0.04                 111554
 IPC-Open3-Callback-1.18                 95819
 CGI-apacheSSI-0.94                      111571
 Dist-Zilla-Plugin-RPM-0.011             111572
+lightwaverf-0.01                        111610
+go-perl-0.15                            111613
+Games-Sudoku-OO-0.03                    111615
+Robotics-IRobot-0.14                    111635
+ExtUtils-ModuleMaker-0.55               111637
+Net-Nessus-REST-0.5                     111699
+Dist-Zilla-PluginBundle-Prereqs-0.93    https://github.com/SineSwiper/Dist-Zilla-PluginBundle-Prereqs/issues/6
+DBIx-CouchLike-0.16                     95913
+WWW-Scraper-ISBN-WHSmith_Driver-0.08    111700
