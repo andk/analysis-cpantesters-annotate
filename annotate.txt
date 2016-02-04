@@ -2331,3 +2331,9 @@ Net-Nessus-REST-0.5                     111699
 Dist-Zilla-PluginBundle-Prereqs-0.93    https://github.com/SineSwiper/Dist-Zilla-PluginBundle-Prereqs/issues/6
 DBIx-CouchLike-0.16                     95913
 WWW-Scraper-ISBN-WHSmith_Driver-0.08    111700
+DBIx-Class-BatchUpdate-1.000            https://github.com/jplindstrom/p5-DBIx-Class-BatchUpdate/issues/2
+Net-AMQP-RabbitMQ-1.500000              https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq/issues/11
+Memcached-Client-2.01                   68592,75028
+Business-OnlinePayment-Ogone-0.2.3      111784
+Juju-2.002                              100355
+MooseX-Role-XMLRPC-Client-0.06          https://github.com/RsrchBoy/moosex-role-xmlrpc-client/issues/2
