@@ -2338,3 +2338,4 @@ Business-OnlinePayment-Ogone-0.2.3      111784
 Juju-2.002                              100355
 MooseX-Role-XMLRPC-Client-0.06          https://github.com/RsrchBoy/moosex-role-xmlrpc-client/issues/2
 WebService-Cryptsy-1.008007             https://github.com/zoffixznet/WebService-Cryptsy/issues/2
+RDF-Generator-Void-0.13                 https://github.com/kjetilk/RDF-Generator-Void/issues/4
