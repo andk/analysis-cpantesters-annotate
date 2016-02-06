@@ -2339,3 +2339,6 @@ Juju-2.002                              100355
 MooseX-Role-XMLRPC-Client-0.06          https://github.com/RsrchBoy/moosex-role-xmlrpc-client/issues/2
 WebService-Cryptsy-1.008007             https://github.com/zoffixznet/WebService-Cryptsy/issues/2
 RDF-Generator-Void-0.13                 https://github.com/kjetilk/RDF-Generator-Void/issues/4
+SNMP-OID-Translate-0.0004               https://github.com/rfdrake/p5-SNMP-OID-Translate/issues/1
+Math-MPFR-3.29                          111813
+HackaMol-0.033                          111815
