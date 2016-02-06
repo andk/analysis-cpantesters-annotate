@@ -1071,7 +1071,7 @@ circle-be-0.142470                      101151
 MojoMojo-1.11                           https://github.com/mojomojo/mojomojo/issues/121
 Signals-XSIG-0.13                       103457
 XML-Liberal-0.30                        103458
-Acme-SGABRIEL-Utils 0.01c               PASS reports for unknown reason only from CPANPLUS smokers
+Acme-SGABRIEL-Utils-0.01c               PASS reports for unknown reason only from CPANPLUS smokers
 WWW-StatusBadge-0.0.2                   https://github.com/ARivottiC/WWW-StatusBadge.pm/issues/1
 SVN-Notify-Mirror-0.040                 98443
 Redis-Queue-0.01                        103553
@@ -1721,7 +1721,7 @@ HTML-FormFu-2.01                        109159
 Rstats-0.0148                           https://github.com/yuki-kimoto/Rstats/issues/4
 Net-RADSWrappers-0.01                   109200
 Religion-Bible-Regex-Config-0.61        109202
-Religion-Bible-Regex-Builder 0.99       109205
+Religion-Bible-Regex-Builder-0.99       109205
 Net-Lighthouse-0.06                     95284
 Data-Keys-0.02                          https://github.com/jozef/Data-Keys/issues/1
 ShipIt-Step-DistTestExtra-0.01          109207
@@ -2135,7 +2135,7 @@ Dancer2-Plugin-JWT-0.003                110554
 HTML-Menu-TreeView-1.17                 107684
 PDF-Cropmarks-0.03                      110566
 Strehler-1.6.6                          110567
-MARC-Lint_1.49                          110568
+MARC-Lint-1.49                          110568,note: name is MARC-Lint_1.49, not MARC-Lint-1.49
 Strehler-RSS-1.1.2                      110569
 Mojolicious-Command-tarball-0.01        110574
 Firewall-PaloAlto-0.04                  110578
