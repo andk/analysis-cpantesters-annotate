@@ -2346,3 +2346,4 @@ HTML-DOM-0.055                          111824
 PMLTQ-1.2.0                             111822
 Data-Transpose-0.0021                   https://github.com/racke/Data-Transpose/issues/25
 Data-Money-0.12                         111832
+Test-Stream-1.302027                    Deprecated module
