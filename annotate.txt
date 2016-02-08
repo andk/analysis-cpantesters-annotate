@@ -2348,3 +2348,4 @@ Data-Transpose-0.0021                   https://github.com/racke/Data-Transpose/
 Data-Money-0.12                         111832
 Test-Stream-1.302027                    Deprecated module
 Data-Session-1.16                       111844
+Statocles-0.067                         https://github.com/preaction/Statocles/issues/448
