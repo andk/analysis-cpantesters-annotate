@@ -2349,3 +2349,4 @@ Data-Money-0.12                         111832
 Test-Stream-1.302027                    Deprecated module
 Data-Session-1.16                       111844
 Statocles-0.067                         https://github.com/preaction/Statocles/issues/448
+CGI-OptimalQuery-0.20                   111904
