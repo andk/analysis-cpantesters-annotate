@@ -2352,3 +2352,6 @@ CGI-OptimalQuery-0.20                   111904
 Store-CouchDB-3.8                       https://github.com/norbu09/Store-CouchDB/issues/13
 CNC-Cog-0.061                           111909
 Devel-MAT-0.21                          108463
+PerlGuard-Agent-0.15                    110579
+Math-Units-PhysicalValue-1.0008         111910
+PMLTQ-1.2.1                             111822
