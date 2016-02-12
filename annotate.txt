@@ -2359,3 +2359,4 @@ RDF-Generator-Void-0.15_1               https://github.com/kjetilk/RDF-Generator
 Redis-1.982                             https://github.com/PerlRedis/perl-redis/issues/111
 Ticketmaster-API-0.01                   111958
 InfluxDB-LineProtocol-1.007             111959
+HTML-Microdata-0.05                     111960
