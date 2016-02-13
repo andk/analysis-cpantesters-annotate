@@ -2361,3 +2361,5 @@ Ticketmaster-API-0.01                   111958
 InfluxDB-LineProtocol-1.007             111959
 HTML-Microdata-0.05                     111960
 Text-CSV-Flatten-0.01                   111995
+Statocles-0.068                         https://github.com/preaction/Statocles/issues/460
+Deeme-Backend-SQLite-0.03               https://github.com/mudler/p5-Deeme-Backend-SQLite/issues/2
