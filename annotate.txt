@@ -2364,3 +2364,7 @@ Text-CSV-Flatten-0.01                   111995
 Statocles-0.068                         https://github.com/preaction/Statocles/issues/460
 Deeme-Backend-SQLite-0.03               https://github.com/mudler/p5-Deeme-Backend-SQLite/issues/2
 Kwiki-ForeignLinkGlyphs-0.02            112015
+CGI-Buffer-0.76                         112029
+Scientist-0.002                         112030
+File-Find-Rule-Type-0.05                112031
+Time-Strptime-0.05                      https://github.com/karupanerura/Time-Strptime/issues/7
