@@ -2369,3 +2369,4 @@ Scientist-0.002                         112030
 File-Find-Rule-Type-0.05                112031
 Time-Strptime-0.05                      https://github.com/karupanerura/Time-Strptime/issues/7
 Mail-Builder-2.09                       112063
+DateTimeX-Moment-0.02                   https://github.com/karupanerura/DateTimeX-Moment/issues/1
