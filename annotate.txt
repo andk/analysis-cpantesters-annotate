@@ -2370,3 +2370,7 @@ File-Find-Rule-Type-0.05                112031
 Time-Strptime-0.05                      https://github.com/karupanerura/Time-Strptime/issues/7
 Mail-Builder-2.09                       112063
 DateTimeX-Moment-0.02                   https://github.com/karupanerura/DateTimeX-Moment/issues/1
+CGI-Application-PhotoGallery-0.16       112069
+Class-DBI-MSAccess-0.10.2               112070
+Dist-Zilla-Plugin-Stenciller-HtmlExamples-0.0200 https://github.com/Csson/p5-Dist-Zilla-Plugin-Stenciller-HtmlExamples/issues/2
+Dist-Zilla-Plugin-Stenciller-MojoliciousTests-0.0101 https://github.com/Csson/p5-Dist-Zilla-Plugin-Stenciller-MojoliciousTests/issues/1
