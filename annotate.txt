@@ -2374,3 +2374,8 @@ CGI-Application-PhotoGallery-0.16       112069
 Class-DBI-MSAccess-0.10.2               112070
 Dist-Zilla-Plugin-Stenciller-HtmlExamples-0.0200 https://github.com/Csson/p5-Dist-Zilla-Plugin-Stenciller-HtmlExamples/issues/2
 Dist-Zilla-Plugin-Stenciller-MojoliciousTests-0.0101 https://github.com/Csson/p5-Dist-Zilla-Plugin-Stenciller-MojoliciousTests/issues/1
+Parse-HTTP-UserAgent-0.39               112106
+WWW-FreeProxyListsCom-1.004             https://github.com/stevieb9/p5-www-freeproxylistscom/issues/7
+PPM-Profile-1.4                         112148
+Pod-Manual-0.08_04                      62600
+AnyEvent-WebSocket-Client-0.32          https://github.com/plicease/AnyEvent-WebSocket-Client/issues/22
