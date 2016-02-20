@@ -2379,3 +2379,4 @@ WWW-FreeProxyListsCom-1.004             https://github.com/stevieb9/p5-www-freep
 PPM-Profile-1.4                         112148
 Pod-Manual-0.08_04                      62600
 AnyEvent-WebSocket-Client-0.32          https://github.com/plicease/AnyEvent-WebSocket-Client/issues/22
+Mojolicious-Plugin-Vparam-1.1           https://github.com/dr-co/libmojolicious-plugin-vparam-perl/issues/new
