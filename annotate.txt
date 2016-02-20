@@ -2382,3 +2382,4 @@ AnyEvent-WebSocket-Client-0.32          https://github.com/plicease/AnyEvent-Web
 Mojolicious-Plugin-Vparam-1.1           https://github.com/dr-co/libmojolicious-plugin-vparam-perl/issues/8
 DBIx-Poggy-0.02                         112219
 DBD-SQLite-1.51_02                      112220
+Mojolicious-Plugin-Vparam-1.2           https://github.com/dr-co/libmojolicious-plugin-vparam-perl/issues/8
