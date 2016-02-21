@@ -2384,3 +2384,5 @@ DBIx-Poggy-0.02                         112219
 DBD-SQLite-1.51_02                      112220
 Mojolicious-Plugin-Vparam-1.2           https://github.com/dr-co/libmojolicious-plugin-vparam-perl/issues/8
 Net-Jifty-0.14                          112231
+File-FDpasser-0.09                      112233
+WWW-eNom-v1.3.1                         https://github.com/rsimoes/WWW-eNom/issues/10
