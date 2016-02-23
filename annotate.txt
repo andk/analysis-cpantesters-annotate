@@ -2389,3 +2389,6 @@ WWW-eNom-v1.3.1                         https://github.com/rsimoes/WWW-eNom/issu
 DateTime-Astro-1.00                     112240
 Beam-Wire-1.014                         https://github.com/preaction/Beam-Wire/issues/57
 Module-Release-2.12                     112252
+Perinci-Sub-Gen-AccessTable-DBI-0.15    112293
+Perinci-Sub-Property-curry-0.04         112297
+Perl-Critic-Pulp-90                     https://rt.perl.org/rt3/Ticket/Display.html?id=127581
