@@ -2394,3 +2394,5 @@ Perinci-Sub-Property-curry-0.04         112297
 Perl-Critic-Pulp-90                     https://rt.perl.org/rt3/Ticket/Display.html?id=127581
 Algorithm-Permute-0.12                  https://rt.perl.org/rt3/Ticket/Display.html?id=127475
 Scalar-List-Utils-1.43                  https://rt.perl.org/rt3/Ticket/Display.html?id=127603
+Mojolicious-Plugin-INIConfig-Extended-0.03 112314
+SVN-Notify-2.84                         https://github.com/theory/svn-notify/issues/14
