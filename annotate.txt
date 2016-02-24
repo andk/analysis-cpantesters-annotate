@@ -2396,3 +2396,6 @@ Algorithm-Permute-0.12                  https://rt.perl.org/rt3/Ticket/Display.h
 Scalar-List-Utils-1.43                  https://rt.perl.org/rt3/Ticket/Display.html?id=127603
 Mojolicious-Plugin-INIConfig-Extended-0.03 112314
 SVN-Notify-2.84                         https://github.com/theory/svn-notify/issues/14
+Convert-TBX-UTX-0.032                   112325
+Maven-Agent-1.03                        112326
+Convert-TBX-Min-0.05                    112327
