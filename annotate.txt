@@ -2403,3 +2403,7 @@ Net-Flotum-0.01                         https://github.com/eokoe/Net-Flotum/issu
 Mojolicious-Plugin-Vparam-1.3           https://github.com/dr-co/libmojolicious-plugin-vparam-perl/issues/9
 Digest-PBKDF2-0.010                     112377
 Dancer-Plugin-SporeDefinitionControl-0.14 84948
+rrdpoller-1.5.0                         112404
+OpusVL-Preferences-0.20                 112429
+DBIx-TextIndex-0.28                     98839
+Syntax-Feature-Try-1.003                https://rt.perl.org/rt3/Ticket/Display.html?id=127616
