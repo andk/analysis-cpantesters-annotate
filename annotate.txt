@@ -2407,3 +2407,8 @@ rrdpoller-1.5.0                         112404
 OpusVL-Preferences-0.20                 112429
 DBIx-TextIndex-0.28                     98839
 Syntax-Feature-Try-1.003                https://rt.perl.org/rt3/Ticket/Display.html?id=127616
+RRD-Simple-1.44                         46193,78785
+Postgredis-0.03                         112433
+WebService-BambooHR-0.06                112434
+WebService-Google-Language-0.14         112435
+WebService-SonarQube-0.06               112436
