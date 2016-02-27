@@ -2418,3 +2418,11 @@ LaTeXML-0.8.1                           112442
 EntityModel-Log-0.006                   96981
 mocked-0.09                             112463
 CDB_File-0.98                           112472
+Nginx-Perl-1.8.1.8                      109621
+Data-Unixish-1.52                       112500
+ShipIt-0.60                             112501
+Storable-AMF-1.08                       112502
+WebService-MoviePosterDB-0.18           112507
+SGML-Parser-OpenSP-0.994                112508
+Tapper-Testplan-4.1.2                   112509
+Tapper-Notification-4.1.1               112510
