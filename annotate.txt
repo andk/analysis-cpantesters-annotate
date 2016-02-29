@@ -394,7 +394,6 @@ TAP-Formatter-JUnit-0.09                81552
 MooseX-AttributeHelpers-0.23            81564
 Net-HTTP-API-0.14                       81566
 Net-ISC-DHCPd-0.14                      81567
-ObjectDBI-0.15                          suspect of being randomization victim; waiting on DBI
 Package-Watchdog-0.09                   81568
 POE-Component-Client-BigBrother-1.00    81572
 POE-Component-Client-SMTP-0.22          not a randomization problem it seems
@@ -2426,3 +2425,18 @@ WebService-MoviePosterDB-0.18           112507
 SGML-Parser-OpenSP-0.994                112508
 Tapper-Testplan-4.1.2                   112509
 Tapper-Notification-4.1.1               112510
+SQL-Statement-1.407                     112530
+DBD-PgLite-0.11                         112536,112537
+Mock-Config-0.01                        https://github.com/perl11/Mock-Config/issues/1
+WWW-Coursera-0.11                       112538
+Linux-Pdeathsig-0.10                    112539
+Text-Printf-1.03                        112541
+Enumeration-0.03                        112543
+Date-MonthSet-0.2                       112545
+Mojolicious-Plugin-Util-Endpoint-0.18   112512
+KiokuDB-Backend-BDB-0.15                112513
+Crypt-SimpleGPG-0.3                     112528
+Interchange6-Schema-0.100               https://github.com/interchange/interchange6-schema/issues/196
+Crypt-Cracklib-1.7.tar.gz               https://github.com/dsully/perl-crypt-cracklib/issues/3
+Data-Money-Converter-0.01               112529
+ObjectDBI-0.15                          95811
