@@ -2459,3 +2459,11 @@ TimeDate-2.30                           112559
 Net-Yadis-1.0                           112560
 Hardware-Vhdl-Tidy-0.8                  109951
 Test-Block-0.13                         112462
+PerlIO-via-CBC-0.08                     112574
+Class-Agreement-0.02                    112575
+CGI-NoPoison-3.11                       112576
+Config-Identity-0.0018                  112569
+Kwiki-Icons-Gnome-0.15                  112577
+Kwiki-Autoformat-0.03                   112579
+Sub-Context-1.00                        112581
+Class-ActsLike-1.00                     112583
