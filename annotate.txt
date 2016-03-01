@@ -2467,3 +2467,5 @@ Kwiki-Icons-Gnome-0.15                  112577
 Kwiki-Autoformat-0.03                   112579
 Sub-Context-1.00                        112581
 Class-ActsLike-1.00                     112583
+USPS-RateRequest-1.0003                 https://github.com/rizen/USPS-RateRequest/issues/1
+Tie-Comma-0.04                          112589
