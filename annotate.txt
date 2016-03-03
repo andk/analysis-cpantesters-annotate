@@ -2475,3 +2475,4 @@ Data-Alias-1.20                         112289
 Import-Base-1.001                       https://github.com/preaction/Import-Base/issues/33
 SQL-QueryBuilder-OO-0.2.5               107348
 Sig-PackageScoped-0.04                  https://rt.perl.org/rt3/Ticket/Display.html?id=127644
+CLDR-Number-0.16                        https://github.com/patch/cldr-number-pm5/issues/48
