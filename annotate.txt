@@ -2476,3 +2476,11 @@ Import-Base-1.001                       https://github.com/preaction/Import-Base
 SQL-QueryBuilder-OO-0.2.5               107348
 Sig-PackageScoped-0.04                  https://rt.perl.org/rt3/Ticket/Display.html?id=127644
 CLDR-Number-0.16                        https://github.com/patch/cldr-number-pm5/issues/48
+Dependencies-Searcher-0.066_002         112674
+Interchange6-Currency-0.101             https://github.com/interchange/Interchange6-Currency/issues/1
+Lingua-Stem-Any-0.05                    https://github.com/patch/lingua-stem-any-pm5/issues/9
+MooX-Role-Chatty-1.01                   112680
+Wing-Client-0.0401                      112682
+Statocles-0.071                         https://github.com/preaction/Statocles/issues/476
+CGI-OptimalQuery-0.21                   111904
+Syntax-Feature-Try-1.004                112298
