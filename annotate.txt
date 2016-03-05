@@ -2392,7 +2392,7 @@ Perinci-Sub-Gen-AccessTable-DBI-0.15    112293
 Perinci-Sub-Property-curry-0.04         112297
 Perl-Critic-Pulp-90                     https://rt.perl.org/rt3/Ticket/Display.html?id=127581
 Algorithm-Permute-0.12                  https://rt.perl.org/rt3/Ticket/Display.html?id=127475
-Scalar-List-Utils-1.43                  https://rt.perl.org/rt3/Ticket/Display.html?id=127603
+Scalar-List-Utils-1.43                  112312,https://rt.perl.org/rt3/Ticket/Display.html?id=127603
 Mojolicious-Plugin-INIConfig-Extended-0.03 112314
 SVN-Notify-2.84                         https://github.com/theory/svn-notify/issues/14
 Convert-TBX-UTX-0.032                   112325
@@ -2484,3 +2484,4 @@ Wing-Client-0.0401                      112682
 Statocles-0.071                         https://github.com/preaction/Statocles/issues/476
 CGI-OptimalQuery-0.21                   111904
 Syntax-Feature-Try-1.004                112298
+LMDB_File-0.09                          112225
