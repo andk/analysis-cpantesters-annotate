@@ -2502,3 +2502,9 @@ FFI-1.09                                https://github.com/plicease/FFI/issues/1
 Games-EveOnline-API-0.07                https://github.com/bluefeet/Games-EveOnline-API/issues/6
 Hessian-Translator-1.06                 112740
 Hubot-Scripts-Bundle-0.1.10             112741
+Graph-ChartSVG-2.07                     112744
+IPC-PrettyPipe-0.03_03                  108397
+Math-Business-BlackScholes-Binaries-1.22 112745
+Module-Text-Template-Build-0.05.10      112746
+MsgPack-RPC-0.1.0                       https://github.com/yanick/MsgPack-RPC/issues/4
+PerlPowerTools-1.007                    https://github.com/briandfoy/PerlPowerTools/issues/34
