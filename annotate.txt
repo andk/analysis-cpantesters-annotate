@@ -2508,3 +2508,6 @@ Math-Business-BlackScholes-Binaries-1.22 112745
 Module-Text-Template-Build-0.05.10      112746
 MsgPack-RPC-0.1.0                       https://github.com/yanick/MsgPack-RPC/issues/4
 PerlPowerTools-1.007                    https://github.com/briandfoy/PerlPowerTools/issues/34
+OX-0.14                                 http://analysis.cpantesters.org/solved?distv=OX-0.14
+Path-Router-Route-Slurpy-0.141330       112752
+Tk-PlotDataset-2.04                     112753
