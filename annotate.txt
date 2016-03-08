@@ -2535,3 +2535,7 @@ Mail-Exchange-0.04                      95177
 MooseX-App-Cmd-Command-BashComplete-0.04 100353,107831
 Net-DiffBot-0.02                        112781
 Statistics-Multtest-0.13                112782
+Gearman-WorkerSpawner-2.16              112798
+IO-Infiles-0.06                         95763
+WWW-Search-PharmGKB-2.03                112799
+Plack-App-CocProxy-0.04                 112800
