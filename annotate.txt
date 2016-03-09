@@ -2540,3 +2540,4 @@ WWW-Search-PharmGKB-2.03                112799
 Plack-App-CocProxy-0.04                 112800
 OX-0.14                                 https://github.com/iinteractive/OX/issues/20
 Catalyst-Authentication-Store-MongoDB-0.02 112834
+Catalyst-Controller-RequestToken-0.07   78902
