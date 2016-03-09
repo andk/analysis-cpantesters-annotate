@@ -2539,3 +2539,4 @@ IO-Infiles-0.06                         95763
 WWW-Search-PharmGKB-2.03                112799
 Plack-App-CocProxy-0.04                 112800
 OX-0.14                                 https://github.com/iinteractive/OX/issues/20
+Catalyst-Authentication-Store-MongoDB-0.02 112834
