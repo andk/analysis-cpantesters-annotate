@@ -2560,3 +2560,7 @@ Text-Format-Screenplay-0.01             112845
 WSDL-Compile-0.03                       91025
 WWW-Scramble-0.04                       112846
 WWW-Search-Scrape-0.08                  112847
+WebService-Jamendo-RSS-0.01             112848
+Acme-Pythonic-Functions-0.38            112863
+Acme-PERL-Autocorrect-1.20110629        112864
+Acme-Hello-0.05                         87679
