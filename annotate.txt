@@ -2565,3 +2565,4 @@ Acme-Pythonic-Functions-0.38            112863
 Acme-PERL-Autocorrect-1.20110629        112864
 Acme-Hello-0.05                         87679
 Math-GSL-0.35                           108378
+PDL-2.015                               https://sourceforge.net/p/pdl/bugs/407/
