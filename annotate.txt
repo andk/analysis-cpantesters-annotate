@@ -2600,3 +2600,5 @@ Map-Metro-Plugin-Map-Copenhagen-0.2006  https://github.com/Csson/p5-Map-Metro/is
 Map-Metro-Plugin-Map-Gothenburg-0.1004  https://github.com/Csson/p5-Map-Metro/issues/11
 Map-Metro-Plugin-Map-Helsinki-0.1985    https://github.com/Csson/p5-Map-Metro/issues/11
 Map-Metro-Plugin-Map-Lyon-1.000         https://github.com/Csson/p5-Map-Metro/issues/11
+Data-Format-Pretty-Console-0.36         112947
+Perinci-CmdLine-Classic-1.67            112948
