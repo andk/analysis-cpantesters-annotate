@@ -2602,3 +2602,12 @@ Map-Metro-Plugin-Map-Helsinki-0.1985    https://github.com/Csson/p5-Map-Metro/is
 Map-Metro-Plugin-Map-Lyon-1.000         https://github.com/Csson/p5-Map-Metro/issues/11
 Data-Format-Pretty-Console-0.36         112947
 Perinci-CmdLine-Classic-1.67            112948
+Business-PayPal-EWP-1.03                112952
+DigitalOcean-0.15.3                     https://github.com/srchulo/DigitalOcean/issues/10
+Algorithm-MCL-0.004                     112955
+Rex-Endpoint-HTTP-0.35.0                112956
+Bencher-Scenarios-Perl-0.02             112958
+Business-Payment-SwissESR-0.13.0        https://github.com/oetiker/business-payment-swissesr/issues/1
+Net-Kubernetes-0.22                     112961
+Perlito5-9.018                          112962
+Statistics-Shannon-0.04                 112964
