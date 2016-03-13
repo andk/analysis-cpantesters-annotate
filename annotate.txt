@@ -1027,7 +1027,6 @@ Net-Async-WebSocket-0.09                103073
 VSO-0.025                               88308
 CGI-OptimalQuery-0.15                   103136
 WebService-Pushover-v1.0.0              103152
-Data-Dump-Streamer-2.38                 102369
 Devel-LineName-0.05                     103179
 ASP4x-Linker-1.003                      103174
 Bio-Graphics-2.39                       103175
@@ -2144,7 +2143,6 @@ Plack-Middleware-PostErrorToSlack-0.01  https://github.com/hitode909/Plack-Middl
 Net-Xero-0.43                           105007
 Class-Action-0.4                        95278
 Games-Tournament-Swiss-0.18             110649
-Data-Dump-Streamer-2.39                 100488
 WWW-Mechanize-Plugin-Retry-0.04         110667
 Test-Trap-v0.3.2                        105125
 Tempest-2010.09.26                      110670
@@ -2611,3 +2609,14 @@ Business-Payment-SwissESR-0.13.0        https://github.com/oetiker/business-paym
 Net-Kubernetes-0.22                     112961
 Perlito5-9.018                          112962
 Statistics-Shannon-0.04                 112964
+Test-Mock-Wrapper-0.17                  112965
+WebService-Pandora-0.3                  112971
+Validate-Yubikey-0.01                   112974
+Net-Telnet-Netgear-0.04                 https://github.com/Robertof/perl-net-telnet-netgear/issues/3
+Crypt-PWSafe3-1.21                      112975
+Crypt-OFB-0.01                          112977
+Test-WWW-Stub-0.05                      https://github.com/astj/p5-Test-WWW-Stub/issues/14
+Template-Alloy-XS-1.004                 95102
+Tangence-0.21                           112978
+App-MatrixTool-0.02                     112980
+Data-Dump-Streamer-2.39                 100488,112960
