@@ -2620,3 +2620,4 @@ Template-Alloy-XS-1.004                 95102
 Tangence-0.21                           112978
 App-MatrixTool-0.02                     112980
 Data-Dump-Streamer-2.39                 100488,112960
+BalanceOfPower-0.300010                 112883
