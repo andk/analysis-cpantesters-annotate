@@ -1969,7 +1969,6 @@ HTML-Valid-0.02                         https://github.com/benkasminbullock/html
 Curses-UI-0.9609                        110032
 WebService-Recruit-AkasuguUchiiwai-0.0.1 110033
 Catalyst-View-JSON-PerRequest-0.007     https://github.com/jjn1056/Catalyst-View-JSON-PerRequest/issues/1
-BalanceOfPower-0.120000                 110046
 Paws-0.19                               https://github.com/pplu/aws-sdk-perl/issues/76
 Text-Bidi-2.11                          108739
 Dezi-App-0.014                          110047
@@ -2564,7 +2563,6 @@ Acme-PERL-Autocorrect-1.20110629        112864
 Acme-Hello-0.05                         87679
 Math-GSL-0.35                           108378
 PDL-2.015                               https://sourceforge.net/p/pdl/bugs/407/
-BalanceOfPower-0.300000                 112883
 Blog-Blosxom-0.10                       112884
 Business-BR-CEP-0.01                    112885
 Data-TDMA-0.2                           112886
@@ -2620,4 +2618,4 @@ Template-Alloy-XS-1.004                 95102
 Tangence-0.21                           112978
 App-MatrixTool-0.02                     112980
 Data-Dump-Streamer-2.39                 100488,112960
-BalanceOfPower-0.300010                 112883
+BalanceOfPower-0.300011                 112883
