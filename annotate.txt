@@ -2624,3 +2624,4 @@ UAV-Pilot-ArdupilotProtocol-0.001       113097
 BalanceOfPower-0.300012                 112883
 RPerl-1.600000                          https://rt.perl.org/rt3/Ticket/Display.html?id=127727
 Catalyst-View-MicroTemplate-DataSection-0.03 https://github.com/masakyst/Catalyst-View-MicroTemplate-DataSection/issues/1
+Test-Approx-0.03                        113129
