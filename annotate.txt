@@ -2619,3 +2619,8 @@ Tangence-0.21                           112978
 App-MatrixTool-0.02                     112980
 Data-Dump-Streamer-2.39                 100488,112960
 BalanceOfPower-0.300011                 112883
+Tie-DuckDuckGo-0.02                     https://github.com/aggrolite/Tie-DuckDuckGo/issues/1
+WebService-NFSN-1.03                    113096
+UAV-Pilot-ArdupilotProtocol-0.001       113097
+BalanceOfPower-0.300012                 112883
+RPerl-1.600000                          https://rt.perl.org/rt3/Ticket/Display.html?id=127727
