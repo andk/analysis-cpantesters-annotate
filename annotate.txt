@@ -2626,3 +2626,4 @@ RPerl-1.600000                          https://rt.perl.org/rt3/Ticket/Display.h
 Catalyst-View-MicroTemplate-DataSection-0.03 https://github.com/masakyst/Catalyst-View-MicroTemplate-DataSection/issues/1
 Test-Approx-0.03                        113129
 DBIx-Array-0.49                         113130
+Net-Amazon-DynamoDB-HighlyAvailable-0.03 https://github.com/kablamo/Net-Amazon-DynamoDB-HighlyAvailable/issues/1
