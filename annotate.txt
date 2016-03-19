@@ -2627,3 +2627,10 @@ Catalyst-View-MicroTemplate-DataSection-0.03 https://github.com/masakyst/Catalys
 Test-Approx-0.03                        113129
 DBIx-Array-0.49                         113130
 Net-Amazon-DynamoDB-HighlyAvailable-0.03 https://github.com/kablamo/Net-Amazon-DynamoDB-HighlyAvailable/issues/1
+App-GitHooks-Plugin-RubyCompile-v1.0.0  https://github.com/jacobmaurer/App-GitHooks-Plugin-RubyCompile/issues/2
+App-Validation-Automation-0.02          113159
+App-iTan-1.05                           113160
+App-Prove-Plugin-TraceUse-1.0.3         113161
+Getopt-AsDocumented-v0.0.2              113162
+Algorithm-SixDegrees-0.03               113168
+Data-Downloader-0.9907                  113169
