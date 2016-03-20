@@ -2634,3 +2634,11 @@ App-Prove-Plugin-TraceUse-1.0.3         113161
 Getopt-AsDocumented-v0.0.2              113162
 Algorithm-SixDegrees-0.03               113168
 Data-Downloader-0.9907                  113169
+Catalyst-Plugin-JavaScript-Console-0.01 113178
+WebService-ReutersConnect-0.06          113170
+Clutch-0.05                             113171
+DBICx-Backend-Move-1.000010             88853
+Games-Hack-Live-0.62                    113173
+Message-Passing-STOMP-0.006             113174
+Object-KeyValueCoding-0.94              113175,113176
+CatalystX-VCS-Lookup-0.01               113177
