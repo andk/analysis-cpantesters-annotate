@@ -2660,3 +2660,13 @@ Regru-API-0.046                         https://github.com/regru/regru-api-perl/
 Module-CoreList-More-0.08               113253
 Mail-Toaster-5.50                       https://github.com/msimerson/Mail-Toaster/issues/11
 Date-Easy-0.01                          https://github.com/barefootcoder/date-easy/issues/2
+CatalystX-VCS-Lookup-0.03               113177
+Task-Viral-0.01                         113273
+Mojolious-Plugin-REST2-1.001            experimental functions on refs, no issue tracker
+Five-X-0.01_01                          unknown warnings category 'experimental::autoderef', no issue tracker
+Test-Chai-0.01_01                       experimental functions on refs, no issue tracker
+File-Scan-ClamAV-1.93                   113277
+Log-Syslog-Fast-0.65                    113278
+Mojolicious-Plugin-SizeLimit-0.005      https://github.com/augensalat/mojolicious-plugin-sizelimit/issues/4
+Log-Reproducible-v0.12.4_1              113234
+Dancer-Plugin-RPC-1.00                  https://github.com/abeltje/Dancer-Plugin-RPC/issues/3
