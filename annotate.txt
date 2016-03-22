@@ -2653,3 +2653,4 @@ Bio-Gonzales-0.059                      113232
 WWW-Wookie-0.03                         113233
 Log-Reproducible-v0.12.4                113234
 Log-File-Rolling-0.100                  https://github.com/hoytech/Log-File-Rolling/issues/1
+HPC-Runner-Slurm-2.53                   https://bitbucket.org/jerowe/hpc-runner-slurm/issues/1/undeclared-dependency
