@@ -2654,3 +2654,9 @@ WWW-Wookie-0.03                         113233
 Log-Reproducible-v0.12.4                113234
 Log-File-Rolling-0.100                  https://github.com/hoytech/Log-File-Rolling/issues/1
 HPC-Runner-Slurm-2.53                   https://bitbucket.org/jerowe/hpc-runner-slurm/issues/1/undeclared-dependency
+JRPC-0.61                               113244
+Data-UUID-1.221                         https://github.com/rjbs/Data-UUID/issues/20
+Regru-API-0.046                         https://github.com/regru/regru-api-perl/issues/6
+Module-CoreList-More-0.08               113253
+Mail-Toaster-5.50                       https://github.com/msimerson/Mail-Toaster/issues/11
+Date-Easy-0.01                          https://github.com/barefootcoder/date-easy/issues/2
