@@ -2647,3 +2647,9 @@ perl_WebService_ReviewBoard-0.1.2       113184
 WWW-eNom-v1.3.2                         https://github.com/rsimoes/WWW-eNom/issues/11
 Net-Amazon-SNS-Signature-0.003          113217
 Ovirt-0.05                              113218
+Scope-Upper-0.28                        112246
+Locale-CLDR-v0.28.4-TRIAL               https://github.com/ThePilgrim/perlcldr/issues/9
+Bio-Gonzales-0.059                      113232
+WWW-Wookie-0.03                         113233
+Log-Reproducible-v0.12.4                113234
+Log-File-Rolling-0.100                  https://github.com/hoytech/Log-File-Rolling/issues/1
