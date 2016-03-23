@@ -2671,3 +2671,9 @@ Mojolicious-Plugin-SizeLimit-0.005      https://github.com/augensalat/mojoliciou
 Log-Reproducible-v0.12.4_1              113234
 Dancer-Plugin-RPC-1.00                  https://github.com/abeltje/Dancer-Plugin-RPC/issues/3
 Unicode-Unihan-0.04                     75802
+Common-Routine-0.0.2                    113286
+Romanian-Person-v0.01_02                pod coverage test fails, no issue tracker
+Acme-24-0.04                            113287
+BZ-Client-2.0_11                        113288
+Clustericious-1.17                      https://github.com/clustericious/Clustericious/issues/40
+Common-Routine-0.0.4                    113296
