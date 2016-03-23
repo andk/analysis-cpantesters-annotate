@@ -2670,3 +2670,4 @@ Log-Syslog-Fast-0.65                    113278
 Mojolicious-Plugin-SizeLimit-0.005      https://github.com/augensalat/mojolicious-plugin-sizelimit/issues/4
 Log-Reproducible-v0.12.4_1              113234
 Dancer-Plugin-RPC-1.00                  https://github.com/abeltje/Dancer-Plugin-RPC/issues/3
+Unicode-Unihan-0.04                     75802
