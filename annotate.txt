@@ -2677,3 +2677,5 @@ Acme-24-0.04                            113287
 BZ-Client-2.0_11                        113288
 Clustericious-1.17                      https://github.com/clustericious/Clustericious/issues/40
 Common-Routine-0.0.4                    113296
+Data-Decode-0.00006                     113305
+Log-Declare-0.10                        https://github.com/companieshouse/Log-Declare/issues/8
