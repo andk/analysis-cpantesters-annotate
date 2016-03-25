@@ -2683,3 +2683,6 @@ Params-Validate-1.22                    113318
 HTML-Barcode-DataMatrix-0.04            113332
 Ouroboros-0.01-TRIAL                    https://github.com/vickenty/ouroboros/issues/1
 Maven-Agent-1.08                        https://github.com/lucastheisen/perl-maven/issues/1
+Wily-0.02                               113334
+Mojolicious-Plugin-FeedReader-0.07      https://github.com/dotandimet/Mojolicious-Plugin-FeedReader/issues/1
+Paws-0.22                               https://github.com/pplu/aws-sdk-perl/issues/93
