@@ -2680,3 +2680,6 @@ Common-Routine-0.0.4                    113296
 Data-Decode-0.00006                     113305
 Log-Declare-0.10                        https://github.com/companieshouse/Log-Declare/issues/8
 Params-Validate-1.22                    113318
+HTML-Barcode-DataMatrix-0.04            113332
+Ouroboros-0.01-TRIAL                    https://github.com/vickenty/ouroboros/issues/1
+Maven-Agent-1.08                        https://github.com/lucastheisen/perl-maven/issues/1
