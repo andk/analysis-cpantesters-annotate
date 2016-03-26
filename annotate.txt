@@ -2686,3 +2686,8 @@ Maven-Agent-1.08                        https://github.com/lucastheisen/perl-mav
 Wily-0.02                               113334
 Mojolicious-Plugin-FeedReader-0.07      https://github.com/dotandimet/Mojolicious-Plugin-FeedReader/issues/1
 Paws-0.22                               https://github.com/pplu/aws-sdk-perl/issues/93
+WWW-Finances-Bovespa-0.10               113338
+Acme-Ognon-1990.6                       https://github.com/leejo/acme-ognon/issues/4
+Lemplate-0.04                           113347
+Footprintless-1.01                      113348
+App-ClusterSSH-4.06                     https://github.com/duncs/clusterssh/issues/60
