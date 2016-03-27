@@ -477,7 +477,6 @@ Paper-Specs-0.10                        https://rt.perl.org:443/rt3/Ticket/Displ
 GCC-TranslationUnit-1.00                https://rt.perl.org:443/rt3/Ticket/Display.html?id=118655
 JE-0.060                                https://rt.perl.org:443/rt3/Ticket/Display.html?id=118659
 HTTP-Proxy-0.300                        56259
-CGI-Application-Plugin-Authentication-0.20 85969
 AnyEvent-Ping-TCP-1.00                  87088
 Catalyst-Plugin-C3-0.03                 87090
 Geo-Coordinates-KKJ-0.01                87092
@@ -1745,7 +1744,6 @@ HTTP-Engine-0.03005                     66938
 File-AptFetch-v0.1.13                   109350
 DateTime-Event-MultiCron-0.01           109301
 Template-Provider-CustomDBIC-0.03       109302
-App-ClusterSSH-4.04_01                  https://github.com/duncs/clusterssh/issues/49
 FASTAParse-0.0.3                        109325
 Plugins-0.41                            109327
 Samba-LDAP-0.05                         109328
@@ -2691,3 +2689,6 @@ Acme-Ognon-1990.6                       https://github.com/leejo/acme-ognon/issu
 Lemplate-0.04                           113347
 Footprintless-1.01                      113348
 App-ClusterSSH-4.06                     https://github.com/duncs/clusterssh/issues/60
+Ouroboros-0.03-TRIAL                    https://github.com/vickenty/ouroboros/issues/2
+Encode-2.83                             103896
+CGI-Application-Plugin-Authentication-0.20 85969,99460
