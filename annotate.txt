@@ -2692,3 +2692,5 @@ App-ClusterSSH-4.06                     https://github.com/duncs/clusterssh/issu
 Ouroboros-0.03-TRIAL                    https://github.com/vickenty/ouroboros/issues/2
 Encode-2.83                             103896
 CGI-Application-Plugin-Authentication-0.20 85969,99460
+Crypt-Cracklib-1.7                      https://github.com/dsully/perl-crypt-cracklib/issues/3
+Email-Valid-1.199                       https://github.com/Perl-Email-Project/Email-Valid/issues/27
