@@ -2696,3 +2696,6 @@ Crypt-Cracklib-1.7                      https://github.com/dsully/perl-crypt-cra
 Email-Valid-1.199                       https://github.com/Perl-Email-Project/Email-Valid/issues/27
 Tree-Object-0.03                        113409
 Dist-Zilla-Plugin-ChangesFromYaml-0.005 https://github.com/carloslima/dist-zilla-plugin-changesfromyaml/issues/4
+HPC-Runner-2.46                         https://bitbucket.org/jerowe/hpc-runner/issues/1/undeclared-prereq-moosex-object-pluggable
+Sub-Disable-1.01                        113421
+Class-DBI-Frozen-301-3.0.1              113447
