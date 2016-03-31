@@ -2699,3 +2699,7 @@ Dist-Zilla-Plugin-ChangesFromYaml-0.005 https://github.com/carloslima/dist-zilla
 HPC-Runner-2.46                         https://bitbucket.org/jerowe/hpc-runner/issues/1/undeclared-prereq-moosex-object-pluggable
 Sub-Disable-1.01                        113421
 Class-DBI-Frozen-301-3.0.1              113447
+Math-Prime-TiedArray-0.04               58150
+Class-StorageFactory-1.0                113467
+Kwiki-GDGraphGenerator-0.04             113468
+Kwiki-VimMode-0.05                      113469
