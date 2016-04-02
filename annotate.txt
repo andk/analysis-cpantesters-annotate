@@ -2708,3 +2708,4 @@ Tapper-Reports-Web-5.0.9                113510
 Net-IPA-1.0                             113511
 Mojolicious-Plugin-SimpleSlides-0.03    https://github.com/jberger/Mojolicious-Plugin-SimpleSlides/issues/3
 Mojolicious-Plugin-INIConfig-Extended-0.05 112314
+HTML-CalendarMonth-2.02                 113513
