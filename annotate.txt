@@ -1124,7 +1124,6 @@ Linux-Smaps-0.13                        104515
 Math-Derivative-0.02                    104557
 Experian-IDAuth-1.7                     104559
 xml-tag-0.5                             104643
-Mojolicious-Plugin-SimpleSlides-0.02    https://github.com/jberger/Mojolicious-Plugin-SimpleSlides/issues/1
 Mojolicious-Plugin-RenderSteps-0.05     https://github.com/marcusramberg/Mojolicious-Plugin-RenderSteps/issues/1
 Tinder-API-0.03                         104675
 Business-Shipping-MRW-0.02              104684
@@ -2708,3 +2707,4 @@ WWW-Mixi-OO-0.03                        113509
 TOML-Parser-0.07                        https://github.com/karupanerura/TOML-Parser/issues/7
 Tapper-Reports-Web-5.0.9                113510
 Net-IPA-1.0                             113511
+Mojolicious-Plugin-SimpleSlides-0.03    https://github.com/jberger/Mojolicious-Plugin-SimpleSlides/issues/3
