@@ -1947,7 +1947,6 @@ Text-ECSV-0.01                          109980
 Text-Decorator-1.65                     109981
 Illumos-SMF-0.1.4                       https://github.com/hadfl/Illumos-SMF/issues/3
 CHI-0.60                                109993
-TOML-Parser-0.06                        https://github.com/karupanerura/TOML-Parser/issues/7
 Indexuri-Apartament-v0.02               108507
 Parallel-MapReduce-0.09                 109995
 OpenGL-List-0.01                        109996
