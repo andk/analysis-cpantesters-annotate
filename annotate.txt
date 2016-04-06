@@ -2713,3 +2713,4 @@ App-iTan-1.06                           113160
 Net-Flotum-0.04                         https://github.com/eokoe/Net-Flotum/issues/3
 Catalyst-Plugin-DBIC-Schema-Profiler-0.06 113559
 Mojolicious-Plugin-ForkAndGo-0.01       113586
+Moose-2.1700-TRIAL                      113589
