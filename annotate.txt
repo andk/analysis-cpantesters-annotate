@@ -2712,3 +2712,4 @@ HTML-CalendarMonth-2.02                 113513
 App-iTan-1.06                           113160
 Net-Flotum-0.03                         https://github.com/eokoe/Net-Flotum/issues/3
 Catalyst-Plugin-DBIC-Schema-Profiler-0.06 113559
+Mojolicious-Plugin-ForkAndGo-0.01       113586
