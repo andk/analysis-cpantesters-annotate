@@ -2716,3 +2716,5 @@ Mojolicious-Plugin-ForkAndGo-0.01       113586
 Moose-2.1700-TRIAL                      113587,113589
 Paws-0.23                               https://github.com/pplu/aws-sdk-perl/issues/95
 WebService-TeamCity-0.03                https://github.com/maxmind/WebService-TeamCity/issues/1
+Deeme-Backend-Meerkat-0.02              https://github.com/mudler/p5-Deeme-Backend-Meerkat/issues/1
+Text-Tradition-Analysis-2.0.2           113593
