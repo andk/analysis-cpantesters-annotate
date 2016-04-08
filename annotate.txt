@@ -2718,3 +2718,10 @@ Paws-0.23                               https://github.com/pplu/aws-sdk-perl/iss
 WebService-TeamCity-0.03                https://github.com/maxmind/WebService-TeamCity/issues/1
 Deeme-Backend-Meerkat-0.02              https://github.com/mudler/p5-Deeme-Backend-Meerkat/issues/1
 Text-Tradition-Analysis-2.0.2           113593
+HPCI-0.39                               113594
+Data-Printer-0.38                       https://github.com/garu/Data-Printer/issues/85
+DateTimeX-Moment-0.04                   https://github.com/karupanerura/DateTimeX-Moment/issues/3
+HTML-FormHandlerX-Field-noCAPTCHA-0.07  https://github.com/clarson/html-formhandlerx-field-nocaptcha/issues/3
+MooseX-Attribute-Dependent-1.1.2        113599
+MooseX-Params-0.010                     113600
+Date-Extract-ID-0.001                   113604
