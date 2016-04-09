@@ -2725,3 +2725,4 @@ HTML-FormHandlerX-Field-noCAPTCHA-0.07  https://github.com/clarson/html-formhand
 MooseX-Attribute-Dependent-1.1.2        113599
 MooseX-Params-0.010                     113600
 Date-Extract-ID-0.001                   113604
+Dancer2-Plugin-Swagger2-0.003           https://github.com/dboehmer/Dancer2-Plugin-Swagger2/issues/3
