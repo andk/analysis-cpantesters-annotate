@@ -2727,3 +2727,11 @@ MooseX-Params-0.010                     113600
 Date-Extract-ID-0.001                   113604
 Dancer2-Plugin-Swagger2-0.003           https://github.com/dboehmer/Dancer2-Plugin-Swagger2/issues/3
 Lemonldap-NG-Portal-1.9.1               113684
+Plack-Middleware-FormatOutput-0.07      https://github.com/vasekd/Plack-Middleware-FormatOutput/issues/1
+Archive-SevenZip-0.03                   113548
+SOAP-WSDL-3.003                         71679
+App-ShowPERLANCARSampleHTMLTree-0.001   113669
+Bencher-Scenarios-DataCSel-0.02         113669
+Bencher-Scenarios-MojoDOM-0.002         113669
+Mojolicious-Plugin-EDumper-0.00002      113670
+RDF-aREF-0.26                           https://github.com/nichtich/RDF-aREF/issues/20
