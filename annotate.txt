@@ -2748,3 +2748,10 @@ Starlet-0.29                            103299
 Test2-Tools-EventDumper-0.000005        https://github.com/Test-More/Test2-Tools-EventDumper/issues/1
 Sweet-Home-0.06                         https://github.com/fibo/Sweet-Home-pm/issues/2
 Net-BaruwaAPI-0.04                      113707
+Test-NoLeaks-0.04                       113695
+AnyEvent-Eris-0.000001                  https://github.com/xsawyerx/anyevent-eris/issues/12
+WebService-Europeana-0.0.2              https://twitter.com/Europeanaeu/status/719563390860046336
+CGI-OptimalQuery-0.22                   113713
+File-VirusScan-0.103                    103885
+Net-AMQP-RabbitMQ-2.000000_001          https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq/issues/11
+App-Dochazka-REST-0.528                 https://github.com/smithfarm/dochazka-rest/issues/76
