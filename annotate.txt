@@ -2736,3 +2736,4 @@ Bencher-Scenarios-MojoDOM-0.002         113669
 Mojolicious-Plugin-EDumper-0.00002      113670
 RDF-aREF-0.26                           https://github.com/nichtich/RDF-aREF/issues/20
 Perinci-Sub-Normalize-0.15              113688
+Mojolicious-Plugin-PlainRoutes-0.05     113691
