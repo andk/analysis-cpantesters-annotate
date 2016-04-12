@@ -2737,3 +2737,13 @@ Mojolicious-Plugin-EDumper-0.00002      113670
 RDF-aREF-0.26                           https://github.com/nichtich/RDF-aREF/issues/20
 Perinci-Sub-Normalize-0.15              113688
 Mojolicious-Plugin-PlainRoutes-0.05     113691
+Encode-2.84                             103896
+Swagger2-0.76                           https://github.com/jhthorsen/swagger2/issues/81
+Test-Clustericious-Cluster-0.30         https://github.com/clustericious/Test-Clustericious-Cluster/issues/8
+Iterator-Paged-1.001                    77712
+Catmandu-RDF-0.30                       https://github.com/LibreCat/Catmandu-RDF/issues/29
+Mango-1.27                              https://github.com/oliwer/mango/issues/16
+CGI-Info-0.58                           113690
+Starlet-0.29                            103299
+Test2-Tools-EventDumper-0.000005        https://github.com/Test-More/Test2-Tools-EventDumper/issues/1
+Sweet-Home-0.06                         https://github.com/fibo/Sweet-Home-pm/issues/2
