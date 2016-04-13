@@ -2755,3 +2755,6 @@ CGI-OptimalQuery-0.22                   113713
 File-VirusScan-0.103                    103885
 Net-AMQP-RabbitMQ-2.000000_001          https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq/issues/11
 App-Dochazka-REST-0.528                 https://github.com/smithfarm/dochazka-rest/issues/76
+Net-DNSBL-Client-0.206                  113714
+DateTime-Calendar-Hijri-0.00            113715
+Mojolicious-Plugin-Riotjs-0.05          https://github.com/jhthorsen/mojolicious-plugin-riotjs/issues/1
