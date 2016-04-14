@@ -1816,7 +1816,6 @@ DBIx-Class-RDBOHelpers-0.11             109596
 WWW-KrispyKreme-HotLight-0.06           https://github.com/aggrolite/WWW-KrispyKreme-HotLight/issues/1
 IPC-Open3-Utils-0.91                    109614
 Class-Type-Enum-0.003                   https://github.com/merrilymeredith/p5-Class-Type-Enum/issues/1
-Nginx-Perl-1.2.9.7                      109621
 Gapp-0.60                               109648,https://rt.perl.org/Ticket/Display.html?id=126472
 Plack-Middleware-GitStatus-0.02         https://github.com/yuuki1/Plack-Middleware-GitStatus/issues/3
 Transform-Alert-1.00                    https://github.com/SineSwiper/Transform-Alert/issues/1
@@ -2408,7 +2407,6 @@ LaTeXML-0.8.1                           112442
 EntityModel-Log-0.006                   96981
 mocked-0.09                             112463
 CDB_File-0.98                           112472
-Nginx-Perl-1.8.1.8                      109621
 Data-Unixish-1.52                       112500
 ShipIt-0.60                             112501
 Storable-AMF-1.08                       112502
@@ -2762,4 +2760,4 @@ Time-Zone-Olson-0.09                    113732
 PerlMongers-MadMongers-0.0001           113733
 DateTimeX-Moment-0.05                   https://github.com/karupanerura/DateTimeX-Moment/issues/3
 HTML-CalendarMonth-2.03                 113513
-Nginx-Perl-1.8.1.9                      109621
+Nginx-Perl-1.8.1.10                     109621
