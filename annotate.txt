@@ -2758,3 +2758,8 @@ App-Dochazka-REST-0.528                 https://github.com/smithfarm/dochazka-re
 Net-DNSBL-Client-0.206                  113714
 DateTime-Calendar-Hijri-0.00            113715
 Mojolicious-Plugin-Riotjs-0.05          https://github.com/jhthorsen/mojolicious-plugin-riotjs/issues/1
+Time-Zone-Olson-0.09                    113732
+PerlMongers-MadMongers-0.0001           113733
+DateTimeX-Moment-0.05                   https://github.com/karupanerura/DateTimeX-Moment/issues/3
+HTML-CalendarMonth-2.03                 113513
+Nginx-Perl-1.8.1.9                      109621
