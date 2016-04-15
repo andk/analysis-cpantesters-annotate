@@ -2761,3 +2761,4 @@ PerlMongers-MadMongers-0.0001           113733
 DateTimeX-Moment-0.05                   https://github.com/karupanerura/DateTimeX-Moment/issues/3
 HTML-CalendarMonth-2.03                 113513
 Nginx-Perl-1.8.1.10                     109621
+Logfile-Rotate-1.04                     113808
