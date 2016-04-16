@@ -2325,3 +2325,4 @@ Logfile-Rotate-1.04                     113808
 SVN-Notify-Snapshot-0.04                113817
 Modern-PBP-Perl-1.200                   113821
 Algorithm-Networksort-Chooser-0.110     113822
+JSV-0.07                                https://github.com/zigorou/perl-JSV/issues/45
