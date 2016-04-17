@@ -2327,3 +2327,10 @@ Modern-PBP-Perl-1.200                   113821
 Algorithm-Networksort-Chooser-0.110     113822
 JSV-0.07                                https://github.com/zigorou/perl-JSV/issues/45
 Audio-Nama-1.208                        109852
+CGI-Session-ID-Base32-1.01              113831
+CGI-Session-ID-MD5_Base32-1.01          113832
+File-Find-Rule-CVS-0.01                 113833
+Lingua-ZH-HanDetect-0.04                113834
+Firefox-Sync-Client-0.04                113837
+Riji-v0.9.7                             https://github.com/Songmu/p5-Riji/issues/19
+Acme-No-0.03                            113839,https://rt.perl.org/Ticket/Display.html?id=127909
