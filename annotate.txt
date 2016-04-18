@@ -2334,3 +2334,5 @@ Lingua-ZH-HanDetect-0.04                113834
 Firefox-Sync-Client-0.04                113837
 Riji-v0.9.7                             https://github.com/Songmu/p5-Riji/issues/19
 Acme-No-0.03                            113839,https://rt.perl.org/Ticket/Display.html?id=127909
+HTML-Template-2.95                      98029
+HTML-FillInForm-Lite-1.14               https://github.com/gfx/p5-HTML-FillInForm-Lite/issues/5
