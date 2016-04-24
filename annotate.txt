@@ -2337,3 +2337,17 @@ Acme-No-0.03                            113839,https://rt.perl.org/Ticket/Displa
 HTML-Template-2.95                      98029
 HTML-FillInForm-Lite-1.14               https://github.com/gfx/p5-HTML-FillInForm-Lite/issues/5
 WWW-Search-Lycos-2.225                  113889
+Test-Unit-0.25                          102732
+Text-Echelon-0.02                       56169
+DNS-EasyDNS-0.04                        113921
+BoutrosLab-TSVStream-v0.5.1             113924
+FamilyTreeInfo-2.3.37 https://github.com/mishin/Ftree-cpan/issues/25
+Text-Distill-0.02                       113928
+Selenium-UserAgent-0.08                 https://github.com/gempesaw/Selenium-UserAgent/issues/2
+Catmandu-LIDO-0.01                      https://github.com/LibreCat/Catmandu-LIDO/issues/1
+Test-Clustericious-Blocking-0.02        https://github.com/clustericious/Test-Clustericious-Blocking/issues/1
+WWW-Purolator-TrackingInfo-1.0105       113934
+Exception-Chain-0.11                    https://github.com/hixi-hyi/p5-Exception-Chain/issues/11
+Math-FFTW-0.01                          95338
+Lido-XML-0.02                           https://github.com/phochste/Lido-XML/issues/1
+MIME-tools-5.507                        113887
