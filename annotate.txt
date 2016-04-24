@@ -2351,3 +2351,14 @@ Exception-Chain-0.11                    https://github.com/hixi-hyi/p5-Exception
 Math-FFTW-0.01                          95338
 Lido-XML-0.02                           https://github.com/phochste/Lido-XML/issues/1
 MIME-tools-5.507                        113887
+Dist-Zilla-Plugin-ReadmeAnyFromPod-0.160630 113942
+Test-DBIx-Class-Schema-1.0.9            https://github.com/chiselwright/test-dbix-class-schema/issues/12
+Test-SharedFork-0.35                    https://github.com/tokuhirom/Test-SharedFork/issues/22
+Test-Aggregate-0.373                    100035
+List-Uniq-0.20                          113952
+CBOR-XS-1.41                            113956
+Math-BigInt-Constant-1.08               113957
+Protocol-CassandraCQL-0.12              113958
+Types-Numbers-0.94                      https://github.com/SineSwiper/Types-Numbers/issues/2
+Math-Big-1.12                           113959
+Math-PlanePath-122                      113960
