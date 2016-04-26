@@ -2367,3 +2367,4 @@ ExtUtils-AutoInstall-0.63               113923
 Net-LDNS-0.75                           110365
 AnyEvent-WebSocket-Client-0.33          https://github.com/plicease/AnyEvent-WebSocket-Client/issues/22
 Test-MockPackages-0.4                   113982
+Digest-Skein-0.05                       113998
