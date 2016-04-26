@@ -2362,3 +2362,8 @@ Protocol-CassandraCQL-0.12              113958
 Types-Numbers-0.94                      https://github.com/SineSwiper/Types-Numbers/issues/2
 Math-Big-1.12                           113959
 Math-PlanePath-122                      113960
+DBIx-Sunny-0.22                         https://github.com/kazeburo/DBIx-Sunny/issues/3
+ExtUtils-AutoInstall-0.63               113923
+Net-LDNS-0.75                           110365
+AnyEvent-WebSocket-Client-0.33          https://github.com/plicease/AnyEvent-WebSocket-Client/issues/22
+Test-MockPackages-0.4                   113982
