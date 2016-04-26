@@ -2368,3 +2368,5 @@ Net-LDNS-0.75                           110365
 AnyEvent-WebSocket-Client-0.33          https://github.com/plicease/AnyEvent-WebSocket-Client/issues/22
 Test-MockPackages-0.4                   113982
 Digest-Skein-0.05                       113998
+Bitmask-Data-2.04                       113991
+Math-Polynomial-1.008                   114004
