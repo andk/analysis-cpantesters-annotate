@@ -2374,3 +2374,4 @@ Text-TransMetaphone-0.07                114007
 Digest-Skein-0.05                       https://github.com/Perl-Toolchain-Gang/ExtUtils-MakeMaker/pull/266
 Tree-DAG_Node-Persist-1.09              114013
 Module-Install-ReadmeFromPod-0.24       113993
+File-Util-4.132140                      106771
