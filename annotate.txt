@@ -2370,3 +2370,5 @@ Test-MockPackages-0.4                   113982
 Digest-Skein-0.05                       113998
 Bitmask-Data-2.04                       113991
 Math-Polynomial-1.008                   114004
+Text-TransMetaphone-0.07                114007
+Digest-Skein-0.05                       https://github.com/Perl-Toolchain-Gang/ExtUtils-MakeMaker/pull/266
