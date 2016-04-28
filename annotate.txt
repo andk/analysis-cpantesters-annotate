@@ -2377,3 +2377,6 @@ Module-Install-ReadmeFromPod-0.24       113993
 File-Util-4.132140                      106771
 Git-PurePerl-0.51                       106772
 Math-BigInt-Parts-0.02                  114020
+Net-AMQP-RabbitMQ-1.600000              https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq/issues/11
+Net-AMQP-RabbitMQ-2.000000_002          https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq/issues/11
+HTTP-Server-Simple-Static-0.11          114029
