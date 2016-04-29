@@ -2380,3 +2380,7 @@ Math-BigInt-Parts-0.02                  114020
 Net-AMQP-RabbitMQ-1.600000              https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq/issues/11
 Net-AMQP-RabbitMQ-2.000000_002          https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq/issues/11
 HTTP-Server-Simple-Static-0.11          114029
+Time-HiRes-Sleep-Until-0.07             114031
+WWW-eNom-v1.3.3                         https://github.com/rsimoes/WWW-eNom/issues/12
+Alien-Judy-0.27                         98693
+Math-PlanePath-123                      114014
