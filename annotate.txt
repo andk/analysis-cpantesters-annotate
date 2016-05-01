@@ -92,7 +92,6 @@ Getopt-LL-1.0.0                         62713
 Locale-PO-Utils-0.08                    62765
 Dancer-Plugin-Browser-Detect-0.3        62796
 Locale-PO-Callback-0.04                 62882
-Log-Dispatch-Config-TestLog-0.02        61462
 Digest-MD6-0.11                         63103
 Net-IP-Range-0.01_1                     Fails when Pod::Coverage is installed, no RT queue yet
 Algorithm-KernelKMeans-XS-0.02_01       63315
@@ -315,7 +314,6 @@ Fey-Loader-0.13                         76983
 MAS-TIFF-0.4                            77023
 Plack-Client-0.06                       77123
 Feed-Find-0.07                          77144
-Test-Able-0.11                          https://github.com/schwern/test-more/issues/302
 DBI-Easy-0.24                           was Test::More but fixed in recent 1.5...05
 AI-Genetic-Pro-0.401                    https://github.com/schwern/test-more/issues/303
 Catalyst-Engine-HTTP-Prefork-0.51       72131
@@ -2392,3 +2390,6 @@ DateTimeX-Format-Ago-0.005              102423
 HTML-FormFu-2.01                        109159,112582
 Outthentic-DSL-0.1.2                    114098
 Zwoelf-Hash-Union-0.1                   114099
+Acme-Alien-DontPanic-0.028              https://github.com/Perl5-Alien/Alien-Base-Extras/issues/13
+Test-Able-0.11                          https://github.com/schwern/test-more/issues/302,https://github.com/schwern/test-more/issues/652
+Log-Dispatch-Config-TestLog-0.02        61462,https://github.com/schwern/test-more/issues/651
