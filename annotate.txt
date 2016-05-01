@@ -2393,3 +2393,6 @@ Zwoelf-Hash-Union-0.1                   114099
 Acme-Alien-DontPanic-0.028              https://github.com/Perl5-Alien/Alien-Base-Extras/issues/13
 Test-Able-0.11                          https://github.com/schwern/test-more/issues/302,https://github.com/schwern/test-more/issues/652
 Log-Dispatch-Config-TestLog-0.02        61462,https://github.com/schwern/test-more/issues/651
+Remember-Anything-AsPath-0.02           114110
+DateTime-Format-Alami-0.07              114108
+head-r-0.1                              114109
