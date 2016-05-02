@@ -383,7 +383,6 @@ Google-AJAX-Library-0.022               81440
 Tie-Hash-Indexed-0.05                   81449
 XML-ExtOn-0.17                          81500
 YUI-Loader-0.071                        81525
-POE-Filter-JSON-0.04                    a part is randomization, but something else is involved too
 TAP-Formatter-JUnit-0.09                81552
 MooseX-AttributeHelpers-0.23            81564
 Net-HTTP-API-0.14                       81566
@@ -2396,3 +2395,8 @@ Log-Dispatch-Config-TestLog-0.02        61462,https://github.com/schwern/test-mo
 Remember-Anything-AsPath-0.02           114110
 DateTime-Format-Alami-0.07              114108
 head-r-0.1                              114109
+Net-DAVTalk-0.08                        114118
+POE-Filter-JSON-0.04                    114131
+POSIX-RT-Semaphore-0.05                 102299
+B-Foreach-Iterator-0.07                 112295
+WWW-Shorten-iiipe-1.00                  114133
