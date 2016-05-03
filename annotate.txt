@@ -2400,3 +2400,6 @@ POE-Filter-JSON-0.04                    114131
 POSIX-RT-Semaphore-0.05                 102299
 B-Foreach-Iterator-0.07                 112295
 WWW-Shorten-iiipe-1.00                  114133
+Object-Previous-1.1012                  112245
+Orochi-0.00010                          114144
+ActiveRecord-Simple-0.81                111358
