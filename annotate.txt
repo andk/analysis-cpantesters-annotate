@@ -2404,3 +2404,6 @@ Object-Previous-1.1012                  112245
 Orochi-0.00010                          114144
 ActiveRecord-Simple-0.81                111358
 Mirror-YAML-0.03                        114153
+Math-Cephes-0.5304                      114158
+Crypt-MatrixSSL3-v3.7.6                 https://github.com/powerman/perl-Crypt-MatrixSSL3/issues/30
+Gazelle-0.42                            https://github.com/kazeburo/Gazelle/issues/26
