@@ -2409,3 +2409,5 @@ Gazelle-0.42                            https://github.com/kazeburo/Gazelle/issu
 FuseBead-From-PNG-0.01                  114212
 Sailthru-Client-2.3.0                   112895
 Net-Kubernetes-1.01                     112961
+Image-Scale-0.11                        114242
+Module-Install-Rust-0.01                114244
