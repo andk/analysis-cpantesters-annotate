@@ -2213,7 +2213,6 @@ Algorithm-MCL-0.004                     112955
 Rex-Endpoint-HTTP-0.35.0                112956
 Bencher-Scenarios-Perl-0.02             112958
 Business-Payment-SwissESR-0.13.0        https://github.com/oetiker/business-payment-swissesr/issues/1
-Net-Kubernetes-0.22                     112961
 Test-Mock-Wrapper-0.17                  112965
 Crypt-OFB-0.01                          112977
 Template-Alloy-XS-1.004                 95102
@@ -2409,3 +2408,4 @@ Crypt-MatrixSSL3-v3.7.6                 https://github.com/powerman/perl-Crypt-M
 Gazelle-0.42                            https://github.com/kazeburo/Gazelle/issues/26
 FuseBead-From-PNG-0.01                  114212
 Sailthru-Client-2.3.0                   112895
+Net-Kubernetes-1.01                     112961
