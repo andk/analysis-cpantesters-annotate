@@ -2411,3 +2411,8 @@ Sailthru-Client-2.3.0                   112895
 Net-Kubernetes-1.01                     112961
 Image-Scale-0.11                        114242
 Module-Install-Rust-0.01                114244
+B-C-1.54_03                             114293
+Trace-Mask-0.000007                     https://github.com/exodist/Trace-Mask/issues/3
+BrowserStack-Local-0.2.0                no bugtracker, missing dependency specifications
+dategrep-0.55                           no bugtracker, locale-specific fails
+Perinci-Sub-Normalize-0.17              114308
