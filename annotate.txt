@@ -2418,3 +2418,4 @@ dategrep-0.55                           no bugtracker, locale-specific fails
 Perinci-Sub-Normalize-0.17              114308
 once-1.101420                           114313
 Spreadsheet-Reader-ExcelXML-v0.2.0      https://github.com/jandrew/p5-spreadsheet-reader-excelxml/issues/1
+Crypt-JWT-0.015                         114343
