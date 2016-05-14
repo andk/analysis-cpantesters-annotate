@@ -2435,3 +2435,5 @@ TeX-Hyphen-1.16                         https://rt.perl.org/rt3/Ticket/Display.h
 Time-OlsonTZ-Download-0.004             https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 XUL-Gui-0.63                            https://rt.perl.org/rt3/Ticket/Display.html?id=128139  
 Footprintless-1.03                      114358
+Text-Starfish-1.20                      114354
+XML-Compile-SOAP-Daemon-3.11            114366
