@@ -2468,3 +2468,10 @@ UR-0.44                                 https://rt.perl.org/rt3/Ticket/Display.h
 WWW-Search-2.515                        https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 WWW-Search-Ebay-3.045                   https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 XML-Twig-3.49                           https://rt.perl.org/rt3/Ticket/Display.html?id=128139
+Text-Starfish-1.21                      114354
+DateTime-Calendar-Japanese-Era-0.08002  https://github.com/lestrrat/p5-DateTime-Calendar-Japanese-Era/issues/1
+FFmpeg-Command-0.19                     103139
+B-Size-0.09                             33471
+Compress-LZO-1.08                       46544,86115
+PerlIO-subfile-0.08                     95340
+Email-Abstract-3.008                    https://github.com/rjbs/Email-Abstract/issues/9
