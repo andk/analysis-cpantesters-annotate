@@ -2475,3 +2475,8 @@ B-Size-0.09                             33471
 Compress-LZO-1.08                       46544,86115
 PerlIO-subfile-0.08                     95340
 Email-Abstract-3.008                    https://github.com/rjbs/Email-Abstract/issues/9
+OurNet-BBSAgent-1.61                    114377
+Mojolicious-Plugin-JQuery-2.14002       https://github.com/dgikiller/mojolicious-plugin-jquery/issues/9
+SVN-Agent-0.04                          28479,114379
+Parse-HTTP-UserAgent-0.40_01            112106
+Mojolicious-Plugin-Authorization-1.04   https://github.com/byterock/mojolicious-plugin-authorization/issues/10
