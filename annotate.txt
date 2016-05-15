@@ -2443,7 +2443,7 @@ BibTeX-Parser-0.69                      https://rt.perl.org/rt3/Ticket/Display.h
 Chemistry-Mol-0.37                      https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 Class-DOES-1.00                         https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 Class-MakeMethods-1.01                  https://rt.perl.org/rt3/Ticket/Display.html?id=128139
-Config-Std-0.901                        https://rt.perl.org/rt3/Ticket/Display.html?id=128139
+Config-Std-0.901                        https://rt.perl.org/rt3/Ticket/Display.html?id=128139,114342
 Data-Inspect-0.04                       https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 Data-Show-0.002003                      https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 Graph-Easy-0.75                         https://rt.perl.org/rt3/Ticket/Display.html?id=128139
@@ -2481,3 +2481,5 @@ SVN-Agent-0.04                          28479,114379
 Parse-HTTP-UserAgent-0.40_01            112106
 Mojolicious-Plugin-Authorization-1.04   https://github.com/byterock/mojolicious-plugin-authorization/issues/10
 HTML-Miner-1.03                         114388
+App-VW-0.01                             114391
+Struct-Diff-0.53                        no bugtracker, use of experimental functions on references
