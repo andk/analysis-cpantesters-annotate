@@ -2483,3 +2483,8 @@ Mojolicious-Plugin-Authorization-1.04   https://github.com/byterock/mojolicious-
 HTML-Miner-1.03                         114388
 App-VW-0.01                             114391
 Struct-Diff-0.53                        no bugtracker, use of experimental functions on references
+Geo-PostalAddress-0.04                  114329
+IO-Async-0.70                           114376
+Unicode-Casing-0.15                     114396
+Type-Tiny-1.000005                      114386
+Parse-Method-Signatures-1.003016        114385
