@@ -2489,3 +2489,4 @@ Unicode-Casing-0.15                     114396
 Type-Tiny-1.000005                      114386
 Parse-Method-Signatures-1.003016        114385
 Mojolicious-Plugin-TemplatePerlish-0.001-TRIAL https://github.com/polettix/Mojolicious-Plugin-TemplatePerlish/issues/1
+Mojolicious-Plugin-Args-0.05            https://github.com/sharabash/Mojolicious-Plugin-Args/issues/1
