@@ -2490,3 +2490,7 @@ Type-Tiny-1.000005                      114386
 Parse-Method-Signatures-1.003016        114385
 Mojolicious-Plugin-TemplatePerlish-0.001-TRIAL https://github.com/polettix/Mojolicious-Plugin-TemplatePerlish/issues/1
 Mojolicious-Plugin-Args-0.05            https://github.com/sharabash/Mojolicious-Plugin-Args/issues/1
+Struct-Diff-0.54                        no bugtracker, use of experimental functions on references
+Math-SymbolicX-Calculator-Interface-Shell-0.02 114458
+WebService-Recruit-Eyeco-0.0.1          114459
+Script-Toolbox-0.49                     111379
