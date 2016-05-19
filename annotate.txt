@@ -2513,3 +2513,4 @@ String-Base-0.001                       https://rt.perl.org/rt3/Ticket/Display.h
 Sub-StopCalls-0.02                      https://rt.perl.org/rt3/Ticket/Display.html?id=128179
 UNIVERSAL-ref-0.14                      https://rt.perl.org/rt3/Ticket/Display.html?id=128179
 Char-GBK-1.05                           114484
+CNC-Cog-0.061                           111909
