@@ -2515,3 +2515,5 @@ UNIVERSAL-ref-0.14                      https://rt.perl.org/rt3/Ticket/Display.h
 Char-GBK-1.05                           114484
 CNC-Cog-0.061                           111909
 Image-Resize-0.5                        60038
+PDF-Table-0.9.11                        https://github.com/kamenov/PDF-Table/issues/29
+ExtJS-Generator-DBIC-0.002              114531,114532
