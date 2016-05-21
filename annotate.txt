@@ -2517,3 +2517,13 @@ CNC-Cog-0.061                           111909
 Image-Resize-0.5                        60038
 PDF-Table-0.9.11                        https://github.com/kamenov/PDF-Table/issues/29
 ExtJS-Generator-DBIC-0.002              114531,114532
+Carp-Clan-6.04                          114537
+CouchDB-View-0.003                      67033
+XML-Twig-3.49                           105702
+Apache-Solr-1.03                        114542
+Excel-Template-XLSX-v1.0.5              114543
+Test-Pretty-0.32                        https://github.com/tokuhirom/Test-Pretty/issues/36
+MsgPack-RPC-0.1.1                       https://github.com/yanick/MsgPack-RPC/issues/5
+Data-Alias-1.20                         114544
+DBIx-Class-FromSledge-0.03              114546
+Params-Classify-0.013                   114490
