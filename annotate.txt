@@ -2551,3 +2551,9 @@ Devel-MAT-0.23                          114581
 WWW-Crawler-Mojo-0.16                   https://github.com/jamadam/WWW-Crawler-Mojo/issues/4
 JavaScript-V8-Handlebars-0.06           114583
 Perl-Lint-0.24                          https://github.com/moznion/Perl-Lint/issues/97
+Dallycot-0.151630                       114585
+Sereal-Decoder-3.014                    https://github.com/Sereal/Sereal/issues/136
+Audio-TagLib-1.65                       114586
+Sub-Call-Tail-0.06                      112244
+Lingua-Identify-CLD2-0.03               114587,114588
+Cache-RedisDB-0.09                      https://github.com/binary-com/perl-Cache-RedisDB/issues/9
