@@ -2558,3 +2558,4 @@ Sub-Call-Tail-0.06                      112244
 Lingua-Identify-CLD2-0.03               114587,114588
 Cache-RedisDB-0.09                      https://github.com/binary-com/perl-Cache-RedisDB/issues/9
 DBIx-Fast-0.07                          114615
+Mojolicious-Plugin-Helper-Vars-0.0002   114622
