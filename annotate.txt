@@ -2590,3 +2590,4 @@ Test-DBIx-Class-Stats-0.01              114662
 Devel-BeginLift-0.001003                114663
 File-Copy-NoClobber-0.2.0               114664
 Log-Log4perl-Appender-RabbitMQ-0.141470 102485
+Modern-Perl-1.20150127                  114690
