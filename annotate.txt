@@ -2591,3 +2591,7 @@ Devel-BeginLift-0.001003                114663
 File-Copy-NoClobber-0.2.0               114664
 Log-Log4perl-Appender-RabbitMQ-0.141470 102485
 Modern-Perl-1.20150127                  114690
+Shell-EnvImporter-1.07                  105478
+Dist-Zilla-App-Command-dumpwith-0.002012 https://github.com/kentnl/Dist-Zilla-App-Command-dumpwith/issues/1
+Data-Sah-Coerce-0.012                   114593
+Mail-Sender-0.900-TRIAL                 114692
