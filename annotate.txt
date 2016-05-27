@@ -2595,3 +2595,4 @@ Shell-EnvImporter-1.07                  105478
 Dist-Zilla-App-Command-dumpwith-0.002012 https://github.com/kentnl/Dist-Zilla-App-Command-dumpwith/issues/1
 Data-Sah-Coerce-0.012                   114593
 Mail-Sender-0.900-TRIAL                 114692
+WebService-DNSMadeEasy-0.02             https://github.com/kablamo/WebService-DNSMadeEasy/issues/1
