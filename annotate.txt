@@ -2596,3 +2596,5 @@ Dist-Zilla-App-Command-dumpwith-0.002012 https://github.com/kentnl/Dist-Zilla-Ap
 Data-Sah-Coerce-0.012                   114593
 Mail-Sender-0.900-TRIAL                 114692
 WebService-DNSMadeEasy-0.02             https://github.com/kablamo/WebService-DNSMadeEasy/issues/1
+Net-Hadoop-WebHDFS-LWP-0.006            114762
+WebService-PivotalTracker-0.01          https://github.com/maxmind/WebService-PivotalTracker/issues/1
