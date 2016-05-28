@@ -2599,3 +2599,7 @@ WebService-DNSMadeEasy-0.02             https://github.com/kablamo/WebService-DN
 Net-Hadoop-WebHDFS-LWP-0.006            114762
 WebService-PivotalTracker-0.01          https://github.com/maxmind/WebService-PivotalTracker/issues/1
 Hex-Record-0.07                         114778
+BioX-Map-CLIS-0.0.6                     114772
+HTML-FormFu-2.01_03                     109159
+Map-Metro-0.2404                        https://github.com/Csson/p5-Map-Metro/issues/12
+Regexp-Common-2016052802                114783
