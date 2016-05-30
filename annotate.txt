@@ -2610,3 +2610,4 @@ Net-Jenkins-0.07                        114792
 RDF-Trine-Serializer-SparqlUpdate-0.002 114793
 System-Wrapper-v0.0.2                   114794
 Data-Walk-Extracted-v0.26.8             https://github.com/jandrew/Data-Walk-Extracted/issues/2
+Dist-Zilla-Plugin-ChangelogFromGit-CPAN-Changes-0.109 https://github.com/ioanrogers/Dist-Zilla-Plugin-ChangelogFromGit-CPAN-Changes/issues/24
