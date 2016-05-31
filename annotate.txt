@@ -2418,7 +2418,7 @@ Perinci-Sub-Normalize-0.17              114308
 once-1.101420                           114313
 Spreadsheet-Reader-ExcelXML-v0.2.0      https://github.com/jandrew/p5-spreadsheet-reader-excelxml/issues/1
 Crypt-JWT-0.015                         114343
-Carp-Clan-6.04                          https://rt.perl.org/rt3/Ticket/Display.html?id=128139
+Carp-Clan-6.04                          114537,https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 Acme-Hidek-44.0                         https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 DateTime-Calendar-FrenchRevolutionary-0.12 https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 HTML-Defang-1.04                        https://rt.perl.org/rt3/Ticket/Display.html?id=128139
@@ -2462,7 +2462,7 @@ RPC-ExtDirect-3.21                      https://rt.perl.org/rt3/Ticket/Display.h
 RTF-Tokenizer-1.19                      https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 TRD-Velocity-0.0.8                      https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 Text-Extract-MaketextCallPhrases-0.93   https://rt.perl.org/rt3/Ticket/Display.html?id=128139
-Type-Tiny-1.000005                      https://rt.perl.org/rt3/Ticket/Display.html?id=128139
+Type-Tiny-1.000005                      114386,https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 UR-0.44                                 https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 WWW-Search-2.515                        https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 WWW-Search-Ebay-3.045                   https://rt.perl.org/rt3/Ticket/Display.html?id=128139
@@ -2485,7 +2485,6 @@ Struct-Diff-0.53                        no bugtracker, use of experimental funct
 Geo-PostalAddress-0.04                  114329
 IO-Async-0.70                           114376
 Unicode-Casing-0.15                     114396
-Type-Tiny-1.000005                      114386
 Parse-Method-Signatures-1.003016        114385
 Mojolicious-Plugin-TemplatePerlish-0.001-TRIAL https://github.com/polettix/Mojolicious-Plugin-TemplatePerlish/issues/1
 Mojolicious-Plugin-Args-0.05            https://github.com/sharabash/Mojolicious-Plugin-Args/issues/1
@@ -2515,7 +2514,6 @@ CNC-Cog-0.061                           111909
 Image-Resize-0.5                        60038
 PDF-Table-0.9.11                        https://github.com/kamenov/PDF-Table/issues/29
 ExtJS-Generator-DBIC-0.002              114531,114532
-Carp-Clan-6.04                          114537
 CouchDB-View-0.003                      67033
 XML-Twig-3.49                           105702
 Apache-Solr-1.03                        114542
