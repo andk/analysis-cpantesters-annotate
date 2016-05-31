@@ -2609,3 +2609,10 @@ RDF-Trine-Serializer-SparqlUpdate-0.002 114793
 System-Wrapper-v0.0.2                   114794
 Data-Walk-Extracted-v0.26.8             https://github.com/jandrew/Data-Walk-Extracted/issues/2
 Dist-Zilla-Plugin-ChangelogFromGit-CPAN-Changes-0.109 https://github.com/ioanrogers/Dist-Zilla-Plugin-ChangelogFromGit-CPAN-Changes/issues/24
+App-perlbrew-0.75                       114871
+Business-Payment-SwissESR-0.13.0        https://github.com/oetiker/business-payment-swissesr/issues/2
+Net-Server-2.008                        105512
+Parse-Eyapp-1.182                       105643
+Minilla-v3.0.1                          https://github.com/tokuhirom/Minilla/issues/193
+Devel-cst-0.009                         114914
+Sys-CPU-0.61                            54267
