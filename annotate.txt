@@ -2616,3 +2616,4 @@ Parse-Eyapp-1.182                       105643
 Minilla-v3.0.1                          https://github.com/tokuhirom/Minilla/issues/193
 Devel-cst-0.009                         114914
 Sys-CPU-0.61                            54267
+PerlX-Assert-0.904                      114938
