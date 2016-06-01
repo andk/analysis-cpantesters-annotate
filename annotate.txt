@@ -2617,3 +2617,6 @@ Minilla-v3.0.1                          https://github.com/tokuhirom/Minilla/iss
 Devel-cst-0.009                         114914
 Sys-CPU-0.61                            54267
 PerlX-Assert-0.904                      114938
+WordNet-Insert-0.02                     114921
+Wiktionary-Parser-0.11                  114923
+Poker-Eval-0.02                         111046
