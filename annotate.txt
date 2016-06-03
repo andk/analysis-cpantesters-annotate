@@ -2621,3 +2621,6 @@ Poker-Eval-0.02                         111046
 Type-Tiny-1.001_002                     114386
 Params-Sah-0.05                         115009
 CHI-0.60                                109993,115022
+XML-Ant-BuildFile-0.216                 https://github.com/mjgardner/xml-ant-buildfile/issues/3
+Devel-QuickCover-0.600000               115010
+Test-Needs-0.002001                     115021
