@@ -1421,7 +1421,6 @@ Test-CallFlow-0.03                      108769
 Data-FetchPath-0.02                     108770
 DBIx-Class-ResultSet-Void-0.06          108771
 Authen-SASL-Cyrus-0.13                  48734
-I22r-Translate-0.94                     https://rt.perl.org/Public/Bug/Display.html?id=126484
 IO-Buffered-1.00                        108833
 Mail-Webmail-Gmail-1.09                 108834
 News-Article-1.27                       108836
