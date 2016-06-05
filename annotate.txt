@@ -2626,3 +2626,9 @@ Devel-QuickCover-0.600000               115010
 Test-Needs-0.002001                     115021
 Pg-DatabaseManager-0.05                 115050
 Ham-APRS-FAP-1.20                       115051
+BSON-v0.999.0-TRIAL                     115042
+Cache-FastMmap-1.44                     115043
+GD-2.56                                 105407,106274
+libintl-perl-1.25                       115052
+Minilla-v3.0.2                          https://github.com/tokuhirom/Minilla/issues/194
+Business-Payment-SwissESR-0.13.1        https://github.com/oetiker/business-payment-swissesr/issues/2
