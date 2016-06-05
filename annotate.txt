@@ -2633,3 +2633,4 @@ libintl-perl-1.25                       115052
 Minilla-v3.0.2                          https://github.com/tokuhirom/Minilla/issues/194
 Business-Payment-SwissESR-0.13.1        https://github.com/oetiker/business-payment-swissesr/issues/2
 autobox-Transform-1.008                 https://github.com/jplindstrom/p5-autobox-Transform/issues/2
+Mojolicious-Command-generate-lexicon-0.995 115085
