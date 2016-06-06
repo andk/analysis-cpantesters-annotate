@@ -2593,7 +2593,6 @@ Data-Sah-Coerce-0.012                   114593
 Mail-Sender-0.900-TRIAL                 114692
 WebService-DNSMadeEasy-0.02             https://github.com/kablamo/WebService-DNSMadeEasy/issues/1
 Net-Hadoop-WebHDFS-LWP-0.006            114762
-WebService-PivotalTracker-0.01          https://github.com/maxmind/WebService-PivotalTracker/issues/1
 Hex-Record-0.07                         114778
 BioX-Map-CLIS-0.0.6                     114772
 HTML-FormFu-2.01_03                     109159
@@ -2634,3 +2633,4 @@ Minilla-v3.0.2                          https://github.com/tokuhirom/Minilla/iss
 Business-Payment-SwissESR-0.13.1        https://github.com/oetiker/business-payment-swissesr/issues/2
 autobox-Transform-1.008                 https://github.com/jplindstrom/p5-autobox-Transform/issues/2
 Mojolicious-Command-generate-lexicon-0.995 115085
+WebService-PivotalTracker-0.03          https://github.com/maxmind/WebService-PivotalTracker/issues/2
