@@ -2649,3 +2649,5 @@ Encode-Arabic-14.1                      115138
 Inline-Awk-0.03                         115140
 WWW-Shopify-Liquid-0.05                 115141,115142
 YAML-Logic-0.05                         115143
+SQL-QueryBuilder-Pretty-0.01            115158
+Dancer2-0.200000                        https://github.com/PerlDancer/Dancer2/issues/1185
