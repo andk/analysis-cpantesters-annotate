@@ -2651,3 +2651,13 @@ WWW-Shopify-Liquid-0.05                 115141,115142
 YAML-Logic-0.05                         115143
 SQL-QueryBuilder-Pretty-0.01            115158
 Dancer2-0.200000                        https://github.com/PerlDancer/Dancer2/issues/1185
+Class-MakeMethods-1.01                  115108
+HTML-Toc-1.12                           115109
+I18N-Charset-1.414                      115110
+Text-Amuse-Compile-0.59                 115177
+Switch-Plain-0.04                       115178
+Dancer2-Plugin-Redis-0.004              https://github.com/burnersk/Dancer2-Plugin-Redis/issues/11
+Dancer2-Plugin-GoogleAnalytics-0.002    115179
+Dancer2-Plugin-SendAs-0.001             https://github.com/veryrusty/Dancer2-Plugin-SendAs/issues/1
+Dancer2-Plugin-UnicodeNormalize-0.033   115180
+Dancer2-Serializer-JSONMaybeXS-0.001    https://github.com/Grinnz/Dancer2-Serializer-JSONMaybeXS/issues/1
