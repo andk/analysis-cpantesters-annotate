@@ -2661,3 +2661,13 @@ Dancer2-Plugin-GoogleAnalytics-0.002    115179
 Dancer2-Plugin-SendAs-0.001             https://github.com/veryrusty/Dancer2-Plugin-SendAs/issues/1
 Dancer2-Plugin-UnicodeNormalize-0.033   115180
 Dancer2-Serializer-JSONMaybeXS-0.001    https://github.com/Grinnz/Dancer2-Serializer-JSONMaybeXS/issues/1
+Device-Chip-0.08                        114210
+Plucene-1.25                            108644
+WWW-Search-Yandex-0.07                  115224
+WWW-Search-Ebay-3.045                   115225
+WWW-Search-News-1.079                   115226
+WWW-Search-NCBI-PubMed-0.01             115227
+WWW-Ebay-1.003                          115228
+Date-Pcalc-6.1                          115100
+Log-TraceMessages-1.4                   115089
+CGI-ExceptionManager-0.06               115245
