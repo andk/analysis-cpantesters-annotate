@@ -2675,3 +2675,5 @@ Parallel-Tiny-0.03                      115211
 Chemistry-Mol-0.37                      115215
 Erlang-Parser-0.5                       115216
 Stash-REST-0.10                         https://github.com/renatocron/Stash-REST/issues/2
+Catalyst-Plugin-Browser-0.08            115259
+Template-Pure-0.015                     https://github.com/jjn1056/Template-Pure/issues/9
