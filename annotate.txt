@@ -2671,3 +2671,7 @@ WWW-Ebay-1.003                          115228
 Date-Pcalc-6.1                          115100
 Log-TraceMessages-1.4                   115089
 CGI-ExceptionManager-0.06               115245
+Parallel-Tiny-0.03                      115211
+Chemistry-Mol-0.37                      115215
+Erlang-Parser-0.5                       115216
+Stash-REST-0.10                         https://github.com/renatocron/Stash-REST/issues/2
