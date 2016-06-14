@@ -2691,3 +2691,4 @@ ack-2.15_02                             https://github.com/petdance/ack2/issues/
 Devel-NYTProf-Callgrind-TicksDiff-0.04  115284
 DBIx-Class-IndexSearch-Dezi-0.05        115189
 SVG-Estimate-1.0002                     https://github.com/rizen/SVG-Estimate/issues/1
+App-AutoCRUD-0.13                       115319
