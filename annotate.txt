@@ -2692,3 +2692,4 @@ Devel-NYTProf-Callgrind-TicksDiff-0.04  115284
 DBIx-Class-IndexSearch-Dezi-0.05        115189
 SVG-Estimate-1.0002                     https://github.com/rizen/SVG-Estimate/issues/1
 App-AutoCRUD-0.13                       115319
+Pgtools-0.008                           https://github.com/tom--bo/Pgtools/issues/8
