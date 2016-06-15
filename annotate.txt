@@ -2695,3 +2695,5 @@ App-AutoCRUD-0.13                       115319
 Pgtools-0.008                           https://github.com/tom--bo/Pgtools/issues/8
 Git-CPAN-Patch-2.3.0                    https://github.com/yanick/git-cpan-patch/issues/33
 Device-I2C-0.03                         no tracker, contacted by email
+PGXN-API-v0.16.4                        https://github.com/pgxn/pgxn-api/issues/25
+Spreadsheet-Read-0.65                   115348
