@@ -2697,3 +2697,4 @@ Git-CPAN-Patch-2.3.0                    https://github.com/yanick/git-cpan-patch
 Device-I2C-0.03                         no tracker, contacted by email
 PGXN-API-v0.16.4                        https://github.com/pgxn/pgxn-api/issues/25
 Spreadsheet-Read-0.65                   115348
+invoker-0.34                            https://rt.perl.org/Public/Bug/Display.html?id=128179
