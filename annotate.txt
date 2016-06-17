@@ -2700,3 +2700,6 @@ Spreadsheet-Read-0.65                   115348
 invoker-0.34                            https://rt.perl.org/Public/Bug/Display.html?id=128179
 YAML-Logic-0.06                         115363
 Dist-Zilla-PluginBundle-Author-RWSTAUNER-4.212 115387
+Math-Currency-0.48                      115372
+Mojolicious-Plugin-Google-Cloud-UserAgent-0.02 115373
+Data-MessagePack-Stream-0.07            115389
