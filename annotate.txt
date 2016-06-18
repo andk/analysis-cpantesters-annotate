@@ -2706,3 +2706,11 @@ Data-MessagePack-Stream-0.07            115389
 Net-Fritz-v0.0.1                        115356
 Graphics-Framebuffer-5.81               115390
 Geo-IP2Location-8.00                    115408
+Params-CheckCompiler-0.05               115410
+DateTime-1.29-TRIAL                     115413
+Cikl-0.5.1                              115414
+DateTimeX-AATW-0.04                     115416
+HTML-WebDAO-0.91                        115417
+Net-Stripe-Simple-0.002                 107782
+Specio-0.21                             115418
+WebService-Hatena-Bookmark-Lite-0.03    115419
