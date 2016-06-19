@@ -2716,3 +2716,11 @@ Specio-0.21                             115418
 WebService-Hatena-Bookmark-Lite-0.03    115419
 Geo-Coder-Many-0.46-5                   115430
 Minion-Backend-File-5.082               https://github.com/niczero/minion-backend-file/issues/1
+POE-Component-BlogCloud-0.01            115422
+Data-Pensieve-0.03a                     95540
+Dist-Zilla-PluginBundle-Author-CHIM-0.052005 https://github.com/Wu-Wu/Dist-Zilla-PluginBundle-Author-CHIM/issues/1
+Dist-Zilla-PluginBundle-Author-ETHER-0.116 115444
+Dist-Zilla-PluginBundle-DAGOLDEN-0.076  https://github.com/dagolden/Dist-Zilla-PluginBundle-DAGOLDEN/issues/10
+Dist-Zilla-PluginBundle-NGLENN-0.03     https://github.com/garfieldnate/Dist-Zilla-PluginBundle-NGLENN/issues/3
+Dist-Zilla-PluginBundle-ODYNIEC-0.021   115445
+XML-RSS-Aggregate-0.02                  115447
