@@ -2724,3 +2724,10 @@ Dist-Zilla-PluginBundle-DAGOLDEN-0.076  https://github.com/dagolden/Dist-Zilla-P
 Dist-Zilla-PluginBundle-NGLENN-0.03     https://github.com/garfieldnate/Dist-Zilla-PluginBundle-NGLENN/issues/3
 Dist-Zilla-PluginBundle-ODYNIEC-0.021   115445
 XML-RSS-Aggregate-0.02                  115447
+Digest-Haval256-1.0.5                   24682
+DBIx-Class-InflateColumn-ISBN-0.04000   115448
+Template-Pure-0.016                     https://github.com/jjn1056/Template-Pure/issues/9
+Lorem-0.22                              80289
+RDF-Trine-Exporter-GraphViz-0.141       https://github.com/nichtich/RDF-Trine-Exporter-GraphViz/issues/3
+Dist-Zilla-Plugin-TravisCI-StatusBadge-0.006 https://github.com/Wu-Wu/Dist-Zilla-Plugin-TravisCI-StatusBadge/issues/3
+Rhetoric-Theme-SandStone-0.08           76681
