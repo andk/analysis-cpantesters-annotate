@@ -2731,3 +2731,4 @@ Lorem-0.22                              80289
 RDF-Trine-Exporter-GraphViz-0.141       https://github.com/nichtich/RDF-Trine-Exporter-GraphViz/issues/3
 Dist-Zilla-Plugin-TravisCI-StatusBadge-0.006 https://github.com/Wu-Wu/Dist-Zilla-Plugin-TravisCI-StatusBadge/issues/3
 Rhetoric-Theme-SandStone-0.08           76681
+File-CodeSearch-v0.7.4                  115526
