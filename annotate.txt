@@ -2732,3 +2732,6 @@ RDF-Trine-Exporter-GraphViz-0.141       https://github.com/nichtich/RDF-Trine-Ex
 Dist-Zilla-Plugin-TravisCI-StatusBadge-0.006 https://github.com/Wu-Wu/Dist-Zilla-Plugin-TravisCI-StatusBadge/issues/3
 Rhetoric-Theme-SandStone-0.08           76681
 File-CodeSearch-v0.7.4                  115526
+MooX-Options-4.022                      https://github.com/celogeek/MooX-Options/issues/55
+Simple-Accessor-1.00                    109396
+MooX-HandlesVia-0.001008                115528
