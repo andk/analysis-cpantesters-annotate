@@ -2737,3 +2737,7 @@ MooX-HandlesVia-0.001008                115528
 Keyword-With-0.001                      https://github.com/mcmillhj/Keyword-With/issues/1
 Tie-Trace-0.14                          115546
 HPCI-0.42                               113594
+WebService-Lob-0.0107                   https://github.com/aanari/WebService-Lob/issues/3
+MooX-Types-CLike-0.92                   https://github.com/SineSwiper/MooX-Types-CLike/issues/1
+Selenium-Remote-Driver-UserAgent-0.0301 https://github.com/gempesaw/Selenium-UserAgent/issues/2
+Tree-VP-0.02                            115542
