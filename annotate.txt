@@ -2537,3 +2537,7 @@ WebService-Lob-0.0107                   https://github.com/aanari/WebService-Lob
 MooX-Types-CLike-0.92                   https://github.com/SineSwiper/MooX-Types-CLike/issues/1
 Selenium-Remote-Driver-UserAgent-0.0301 https://github.com/gempesaw/Selenium-UserAgent/issues/2
 Tree-VP-0.02                            115542
+Test-Proto-0.027                        https://github.com/pdl/Test-Proto/issues/44
+Parse-Path-0.92                         https://github.com/SineSwiper/Parse-Path/issues/2
+Dancer2-Logger-Radis-0.001              https://github.com/zurborg/libdancer2-logger-radis-perl/issues/1
+Dancer2-Logger-Syslog-0.4               115557
