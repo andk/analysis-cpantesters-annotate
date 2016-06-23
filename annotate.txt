@@ -2289,7 +2289,6 @@ Net-Flotum-0.04                         https://github.com/eokoe/Net-Flotum/issu
 Catalyst-Plugin-DBIC-Schema-Profiler-0.06 113559
 Mojolicious-Plugin-ForkAndGo-0.01       113586
 WebService-TeamCity-0.03                https://github.com/maxmind/WebService-TeamCity/issues/1
-HPCI-0.39                               113594
 Data-Printer-0.38                       https://github.com/garu/Data-Printer/issues/85
 MooseX-Attribute-Dependent-1.1.2        113599
 MooseX-Params-0.010                     113600
@@ -2737,3 +2736,4 @@ Simple-Accessor-1.00                    109396
 MooX-HandlesVia-0.001008                115528
 Keyword-With-0.001                      https://github.com/mcmillhj/Keyword-With/issues/1
 Tie-Trace-0.14                          115546
+HPCI-0.42                               113594
