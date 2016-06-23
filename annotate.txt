@@ -2736,3 +2736,4 @@ MooX-Options-4.022                      https://github.com/celogeek/MooX-Options
 Simple-Accessor-1.00                    109396
 MooX-HandlesVia-0.001008                115528
 Keyword-With-0.001                      https://github.com/mcmillhj/Keyword-With/issues/1
+Tie-Trace-0.14                          115546
