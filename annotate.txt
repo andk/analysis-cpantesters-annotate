@@ -2542,3 +2542,4 @@ Parse-Path-0.92                         https://github.com/SineSwiper/Parse-Path
 Dancer2-Logger-Radis-0.001              https://github.com/zurborg/libdancer2-logger-radis-perl/issues/1
 Dancer2-Logger-Syslog-0.4               115557
 MySQL-Diff-0.47                         https://github.com/aspiers/mysqldiff/issues/31
+Sub-Attributes-0.01                     115570
