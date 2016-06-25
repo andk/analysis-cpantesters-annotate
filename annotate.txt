@@ -2546,3 +2546,4 @@ Sub-Attributes-0.01                     115570
 DOM-Tiny-0.004                          115573
 PPIx-Refactor-0.07                      https://github.com/lackita/PPIx-Refactor/issues/2
 Class-Roles-0.30                        102367
+CNC-Cog-0.061                           111909
