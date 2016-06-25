@@ -2548,3 +2548,4 @@ PPIx-Refactor-0.07                      https://github.com/lackita/PPIx-Refactor
 Class-Roles-0.30                        102367
 CNC-Cog-0.061                           111909
 Tie-REHash-1.0                          https://rt.perl.org/Ticket/Display.html?id=128482
+Image-Resize-0.5                        60038
