@@ -2558,3 +2558,5 @@ JSON-RPC-Spec-v1.0.5                    https://github.com/nqounet/p5-json-rpc-s
 Script-Toolbox-0.54                     115601
 Array-GroupBy-v0.0.4                    106786
 CatalystX-DebugFilter-0.13              115606
+Unix-SavedIDs-0.004003                  115635
+Digest-Hashcash-1.1                     115644
