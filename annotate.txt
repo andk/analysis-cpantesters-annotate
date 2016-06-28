@@ -2563,3 +2563,7 @@ Digest-Hashcash-1.1                     115644
 Data-Dumper-MessagePack-0.002           115607
 HTML-FormBuilder-0.12                   107633
 JSON-Create-0.20                        https://github.com/benkasminbullock/json-create/issues/41
+WWW-Wappalyzer-0.16                     115663
+WebService-DPD-API-v0.0004              115664
+WebService-GeoPost-Shipping-API-v0.0006 115665
+WebService-BambooHR-0.07                112434
