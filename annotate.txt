@@ -2567,3 +2567,5 @@ WWW-Wappalyzer-0.16                     115663
 WebService-DPD-API-v0.0004              115664
 WebService-GeoPost-Shipping-API-v0.0006 115665
 WebService-BambooHR-0.07                112434
+Template-Pure-0.018                     https://github.com/jjn1056/Template-Pure/issues/9
+ExtUtils-MakeMaker-7.19_06              https://github.com/Perl-Toolchain-Gang/CPAN-Meta/issues/115
