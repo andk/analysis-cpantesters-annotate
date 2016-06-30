@@ -2547,7 +2547,7 @@ DOM-Tiny-0.004                          115573
 PPIx-Refactor-0.07                      https://github.com/lackita/PPIx-Refactor/issues/2
 Class-Roles-0.30                        102367
 CNC-Cog-0.061                           111909
-Tie-REHash-1.0                          115659,https://rt.perl.org/Ticket/Display.html?id=128482
+Tie-REHash-1.05                         115659,https://rt.perl.org/Ticket/Display.html?id=128482
 Image-Resize-0.5                        60038
 String-Diff-0.07                        https://github.com/yappo/p5-String-Diff/issues/4
 File-Find-Iterator-0.4                  91854
