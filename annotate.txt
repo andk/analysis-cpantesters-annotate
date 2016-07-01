@@ -2777,3 +2777,4 @@ Lorem-0.22                              80289
 OTRS-OPM-Maker-Command-sopm-1.34        https://github.com/reneeb/OTRS-OPM-Maker-Command-sopm/issues/1
 Tie-SecureHash-1.10                     115772
 Test-Clear-0.04                         https://github.com/hixi-hyi/p5-Test-Clear/issues/2
+Net-ISP-Balance-1.25                    115778
