@@ -2778,3 +2778,8 @@ OTRS-OPM-Maker-Command-sopm-1.34        https://github.com/reneeb/OTRS-OPM-Maker
 Tie-SecureHash-1.10                     115772
 Test-Clear-0.04                         https://github.com/hixi-hyi/p5-Test-Clear/issues/2
 Net-ISP-Balance-1.25                    115778
+WebService-SQLFormat-0.000004           https://github.com/oalders/webservice-sqlformat/issues/1
+HDB-1.05                                115713
+Class-HPLOO-0.23                        115714
+CGI-Github-Webhook-0.04                 https://github.com/xtaran/CGI-Github-Webhook/issues/1
+Apache-Session-SharedMem-0.6            115766
