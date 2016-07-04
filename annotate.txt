@@ -2784,3 +2784,9 @@ Class-HPLOO-0.23                        115714
 CGI-Github-Webhook-0.04                 https://github.com/xtaran/CGI-Github-Webhook/issues/1
 Apache-Session-SharedMem-0.6            115766
 Dist-Metadata-0.926                     115814
+Ogg-Vorbis-Header-0.04                  115794
+Dist-Zilla-Plugin-DynamicPrereqs-0.029  115799
+Module-Install-TestTarget-0.19          102922
+String-Compare-ConstantTime-0.311       https://github.com/hoytech/String-Compare-ConstantTime/issues/4
+Carp-Always-0.13                        115841
+CBOR-XS-1.5                             115844
