@@ -2792,3 +2792,4 @@ Carp-Always-0.13                        115841
 CBOR-XS-1.5                             115844
 Graph-Simple-0.01                       https://github.com/sukria/Graph-Simple/issues/5
 App-Sqitch-0.9994                       https://github.com/theory/sqitch/issues/308
+Geo-IP2Location-8.02                    115898
