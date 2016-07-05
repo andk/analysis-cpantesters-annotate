@@ -2790,3 +2790,4 @@ Module-Install-TestTarget-0.19          102922
 String-Compare-ConstantTime-0.311       https://github.com/hoytech/String-Compare-ConstantTime/issues/4
 Carp-Always-0.13                        115841
 CBOR-XS-1.5                             115844
+Graph-Simple-0.01                       https://github.com/sukria/Graph-Simple/issues/5
