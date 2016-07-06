@@ -2794,3 +2794,5 @@ Graph-Simple-0.01                       https://github.com/sukria/Graph-Simple/i
 App-Sqitch-0.9994                       https://github.com/theory/sqitch/issues/308
 Geo-IP2Location-8.02                    115898
 Task-BeLike-RJRAY-0.009                 115909
+QBit-Application-0.011                  115878
+LCFG-Build-PkgSpec-0.1.0                115899
