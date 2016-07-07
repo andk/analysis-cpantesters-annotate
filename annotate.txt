@@ -2796,3 +2796,5 @@ Geo-IP2Location-8.02                    115898
 Task-BeLike-RJRAY-0.009                 115909
 QBit-Application-0.011                  115878
 LCFG-Build-PkgSpec-0.1.0                115899
+Regexp-Whitespace-0.001_1-TRIAL         fails for perl >= 5.18, no issue tracker
+JMAP-Validation-0.003                   115130
