@@ -2798,3 +2798,4 @@ RTF-Tokenizer-1.19                      115956
 OptArgs2-0.0.6                          https://github.com/mlawren/p5-OptArgs2/issues/2
 Template-Pure-0.019                     https://github.com/jjn1056/Template-Pure/issues/9
 Class-Constant-0.06                     115995
+XML-LibXML-jQuery-0.04                  https://github.com/cafe01/xml-libxml-jquery/issues/1
