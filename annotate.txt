@@ -2801,3 +2801,4 @@ Class-Constant-0.06                     115995
 XML-LibXML-jQuery-0.04                  https://github.com/cafe01/xml-libxml-jquery/issues/1
 MooseX-Getopt-0.71                      four fails with dated toolchain, reported and fixed
 Perl6-Pod-0.72                          116024
+Test-Dependencies-0.21                  https://github.com/ehuelsmann/perl-Test-Dependencies/issues/5
