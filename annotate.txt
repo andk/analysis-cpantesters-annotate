@@ -2803,3 +2803,4 @@ MooseX-Getopt-0.71                      four fails with dated toolchain, reporte
 Perl6-Pod-0.72                          116024
 Test-Dependencies-0.21                  https://github.com/ehuelsmann/perl-Test-Dependencies/issues/5
 Devel-PerlySense-0.0216                 107520
+Net-CampaignMonitor-v2.2.1              https://github.com/campaignmonitor/createsend-perl/issues/16
