@@ -2805,3 +2805,4 @@ Test-Dependencies-0.21                  https://github.com/ehuelsmann/perl-Test-
 Devel-PerlySense-0.0216                 107520
 Net-CampaignMonitor-v2.2.1              https://github.com/campaignmonitor/createsend-perl/issues/16
 SocketIO-Emitter-0.03                   116068
+Getopt-Long-DescriptivePod-0.03         116088
