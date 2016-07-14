@@ -2807,3 +2807,5 @@ Net-CampaignMonitor-v2.2.1              https://github.com/campaignmonitor/creat
 SocketIO-Emitter-0.03                   116068
 Getopt-Long-DescriptivePod-0.03         116088
 Plift-0.01                              https://github.com/cafe01/template-plift/issues/1
+Monitoring-GLPlugin-2.2.0.1             116130
+Monitoring-GLPlugin-2.1.3               116130
