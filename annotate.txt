@@ -2815,3 +2815,4 @@ B-Hooks-Parser-0.16                     https://rt.perl.org/Ticket/Display.html?
 Devel-Declare-0.006018                  https://rt.perl.org/Ticket/Display.html?id=128621
 Lingua-FR-Numbers-1.161950              98817
 MooX-Options-4.023                      https://github.com/celogeek/MooX-Options/issues/53
+GWILLIAMS/Attean-0.017                  https://github.com/kasei/perl-iri/issues/9
