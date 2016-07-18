@@ -2817,3 +2817,4 @@ Lingua-FR-Numbers-1.161950              98817
 MooX-Options-4.023                      https://github.com/celogeek/MooX-Options/issues/53
 Attean-0.017                            https://github.com/kasei/perl-iri/issues/9
 WWW-Wappalyzer-0.18                     115663
+Spreadsheet-ParseXLSX-0.25              https://github.com/doy/spreadsheet-parsexlsx/issues/62
