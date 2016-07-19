@@ -2818,3 +2818,4 @@ MooX-Options-4.023                      https://github.com/celogeek/MooX-Options
 Attean-0.017                            https://github.com/kasei/perl-iri/issues/9
 WWW-Wappalyzer-0.18                     115663
 Spreadsheet-ParseXLSX-0.25              https://github.com/doy/spreadsheet-parsexlsx/issues/62
+Lemplate-0.07                           Broken bugtracker link reported per mail to `agent`
