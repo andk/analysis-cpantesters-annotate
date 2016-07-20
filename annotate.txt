@@ -2825,3 +2825,5 @@ Image-Magick-Safer-0.04                 https://github.com/Humanstate/image-magi
 PFT-v1.0.0                              116333
 Ado-0.930                               https://github.com/kberov/Ado/issues/106
 Catmandu-Fix-Date-0.0129                https://github.com/LibreCat/Catmandu-Fix-Date/issues/4
+Dancer2-Plugin-PageHistory-0.202        https://github.com/SysPete/Dancer2-Plugin-PageHistory/issues/1
+WWW-Lipsum-1.001012                     https://github.com/zoffixznet/WWW-Lipsum/issues/7
