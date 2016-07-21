@@ -2853,3 +2853,4 @@ Mojolicious-Plugin-SimpleSlides-0.04    https://github.com/jberger/Mojolicious-P
 Statocles-0.076                         https://github.com/preaction/Statocles/issues/509
 XML-Loy-0.42                            116363
 Mojolicious-Plugin-XML-Loy-0.13         116364
+Mojolicious-Plugin-MethodOverride-0.053 116375
