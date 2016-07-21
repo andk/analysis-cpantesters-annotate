@@ -2827,3 +2827,17 @@ Ado-0.930                               https://github.com/kberov/Ado/issues/106
 Catmandu-Fix-Date-0.0129                https://github.com/LibreCat/Catmandu-Fix-Date/issues/4
 Dancer2-Plugin-PageHistory-0.202        https://github.com/SysPete/Dancer2-Plugin-PageHistory/issues/1
 WWW-Lipsum-1.001012                     https://github.com/zoffixznet/WWW-Lipsum/issues/7
+Ado-Plugin-Admin-0.13                   https://github.com/kberov/Ado-Plugin-Admin/issues/6
+App-MojoSlides-0.10                     https://github.com/jberger/App-MojoSlides/issues/2
+Contenticious-0.36                      https://github.com/memowe/contenticious/issues/17
+Galileo-0.040                           https://github.com/jberger/Galileo/issues/51
+HTML-ExtractMeta-0.11                   116347
+HTML-ExtractText-1.002003               https://github.com/zoffixznet/HTML-ExtractText/issues/13
+Mojolicious-Plugin-Piwik-0.18           116348
+Mojolicious-Plugin-ReplyTable-0.05      https://github.com/jberger/Mojolicious-Plugin-ReplyTable/issues/4
+Test-Mojo-Trim-0.0904                   https://github.com/Csson/p5-test-mojo-trim/issues/2
+WWW-Search-Ebay-Europe-2.015            116349
+Deeme-Backend-Mango-0.02                https://github.com/mudler/p5-Deeme-Backend-Mango/issues/1
+Mojo-JSON_XS-0.101                      https://github.com/niczero/mojo-jsonxs/issues/1
+Mojolicious-Command-generate-lexicont-0.05 https://github.com/dokechin/Mojolicious-Command-generate-lexicont/issues/2
+Mojolicious-Plugin-RelativeUrlFor-0.051 116350
