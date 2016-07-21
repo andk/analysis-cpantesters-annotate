@@ -2842,3 +2842,4 @@ Mojo-JSON_XS-0.101                      https://github.com/niczero/mojo-jsonxs/i
 Mojolicious-Command-generate-lexicont-0.05 https://github.com/dokechin/Mojolicious-Command-generate-lexicont/issues/2
 Mojolicious-Plugin-RelativeUrlFor-0.051 116350
 Mojolicious-Plugin-DSC-1.005            https://github.com/kberov/Mojolicious--Plugin--DSC/issues/3
+Time-Verbal-1.0.0                       116192
