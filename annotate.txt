@@ -2844,3 +2844,12 @@ Mojolicious-Plugin-RelativeUrlFor-0.051 116350
 Mojolicious-Plugin-DSC-1.005            https://github.com/kberov/Mojolicious--Plugin--DSC/issues/3
 Time-Verbal-1.0.0                       116192
 Math-NumSeq-71                          116357
+Mojo-UserAgent-Mockable-1.31            https://github.com/PopeFelix/Mojo-UserAgent-Mockable/issues/8
+Mojolicious-Plugin-AssetPack-1.17       https://github.com/jhthorsen/mojolicious-plugin-assetpack/issues/102
+Mojolicious-Plugin-Directory-0.11       https://github.com/hayajo/Mojolicious-Plugin-Directory/issues/4
+Mojolicious-Plugin-MoreUtilHelpers-0.05 https://github.com/sshaw/Mojolicious-Plugin-MoreUtilHelpers/issues/3
+Mojolicious-Plugin-Qaptcha-0.11         https://github.com/hrupprecht/Mojolicious-Plugin-Qaptcha/issues/2
+Mojolicious-Plugin-SimpleSlides-0.04    https://github.com/jberger/Mojolicious-Plugin-SimpleSlides/issues/4
+Statocles-0.076                         https://github.com/preaction/Statocles/issues/509
+XML-Loy-0.42                            116363
+Mojolicious-Plugin-XML-Loy-0.13         116364
