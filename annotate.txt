@@ -2897,3 +2897,14 @@ App-PAUSE-Comaint-0.03                  https://github.com/miyagawa/App-PAUSE-Co
 Mail-SPF-v2.9.0                         93241
 Zabbix-ServerScript-0.06                https://github.com/Akint/Zabbix-ServerScript/issues/2
 XML-WBXML-0.09                          https://github.com/ivanych/XML-WBXML/issues/1
+App-Mimosa-0.02                         116447
+DBIx-DBHResolver-Strategy-RoundRobin-0.02 68256
+Dist-Zilla-PluginBundle-Author-HAYOBAAN-0.009
+https://github.com/HayoBaan/Dist-Zilla-PluginBundle-Author-HAYOBAAN/issues/2
+Biblio-RFID-0.03                        116462
+Class-OWL-0.0.6                         70543
+Data-Sah-Resolve-0.003                  116464
+Dist-Zilla-PluginBundle-BAREFOOT-0.06   https://github.com/barefootcoder/dist-zilla-pluginbundle-barefoot/issues/14
+PDL-Drawing-Prima-0.11                  https://github.com/run4flat/PDL-Drawing-Prima/issues/32
+Catalyst-View-Xslate-0.00019            https://github.com/lestrrat/Catalyst-View-Xslate/issues/25
+RDF-AllegroGraph-Easy-0.08              116474
