@@ -2878,3 +2878,22 @@ TAP-Formatter-Bamboo-0.04               114258
 WebService-Strava-0.05                  116416
 Search-Xapian-1.2.23.0                  116417
 AtteanX-Query-Cache-0.002               https://github.com/kjetilk/p5-atteanx-query-cache/issues/36
+Template-Resolver-1.12                  116437
+Net-AS2-0.03                            116418
+Date-EzDate2-0.01                       116423
+Tickit-Widget-SparkLine-0.105           116424
+CPAN-Testers-Common-Client-0.13         https://github.com/garu/CPAN-Testers-Common-Client/issues/8
+LWPx-TimedHTTP-1.8                      116429
+Tcl-pTk-0.90                            116430,116432
+RDF-Lazy-0.09
+https://github.com/nichtich/RDF-Lazy/issues/6,https://github.com/nichtich/RDF-Lazy/issues/5
+HTML-HeadParser-Liberal-0.03            https://github.com/lestrrat/p5-HTML-HeadParser-Liberal/issues/5
+Net-SMS-MunduSMS-0.021                  116435
+WWW-DataWiki-0.001                      102432
+RDF-RDB2RDF-0.008                       116439
+Mail-SpamAssassin-Plugin-OpenPGP-1.0.4  74568
+RDF-RDFa-Template-0.05                  116440
+App-PAUSE-Comaint-0.03                  https://github.com/miyagawa/App-PAUSE-Comaint/issues/6
+Mail-SPF-v2.9.0                         93241
+Zabbix-ServerScript-0.06                https://github.com/Akint/Zabbix-ServerScript/issues/2
+XML-WBXML-0.09                          https://github.com/ivanych/XML-WBXML/issues/1
