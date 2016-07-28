@@ -2638,7 +2638,6 @@ Scope-Upper-0.28                        112246
 Date-Easy-0.01                          https://github.com/barefootcoder/date-easy/issues/2
 Dancer-Plugin-RPC-1.00                  https://github.com/abeltje/Dancer-Plugin-RPC/issues/3
 Mojolicious-Plugin-FeedReader-0.07      https://github.com/dotandimet/Mojolicious-Plugin-FeedReader/issues/1
-Footprintless-1.01                      113348
 App-ClusterSSH-4.06                     https://github.com/duncs/clusterssh/issues/60
 HPC-Runner-2.46                         https://bitbucket.org/jerowe/hpc-runner/issues/1/undeclared-prereq-moosex-object-pluggable
 Net-Flotum-0.04                         https://github.com/eokoe/Net-Flotum/issues/3
@@ -2910,3 +2909,4 @@ Catalyst-View-Xslate-0.00019            https://github.com/lestrrat/Catalyst-Vie
 RDF-AllegroGraph-Easy-0.08              116474
 JSON-Validator-0.77                     https://github.com/jhthorsen/json-validator/issues/23
 App-perlbrew-0.76                       116517
+Footprintless-1.05                      113348
