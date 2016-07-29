@@ -2918,3 +2918,4 @@ NanoMsg-Raw-0.08                        116555
 Net-HTTPS-Any-0.11                      116405
 Nginx-ParseLog-1.02                     116557
 Sereal-Decoder-3.014                    https://github.com/Sereal/Sereal/issues/138
+Mail-SimpleList-0.94                    116565
