@@ -2910,3 +2910,11 @@ RDF-AllegroGraph-Easy-0.08              116474
 JSON-Validator-0.77                     https://github.com/jhthorsen/json-validator/issues/23
 App-perlbrew-0.76                       116517
 Footprintless-1.05                      113348
+Text-MarkPerl-0.1                       116547
+Finance-TA-v0.4.3                       116548
+App-LDAP-0.1.2                          116553
+Devel-NYTProf-Callgrind-TicksDiff-0.05  115284
+NanoMsg-Raw-0.08                        116555
+Net-HTTPS-Any-0.11                      116405
+Nginx-ParseLog-1.02                     116557
+Sereal-Decoder-3.014                    https://github.com/Sereal/Sereal/issues/138
