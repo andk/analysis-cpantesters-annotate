@@ -2921,3 +2921,7 @@ Sereal-Decoder-3.014                    https://github.com/Sereal/Sereal/issues/
 Mail-SimpleList-0.94                    116565
 OrePAN2-0.42                            https://github.com/tokuhirom/OrePAN2/issues/42
 Class-C3-XS-0.13                        116566
+Acme-UTOPIA-Utils-0.03                  116576
+Text-Document-1.07                      73120
+Dist-Zilla-Plugin-Test-Inline-0.011005  116578
+Tangence-0.21                           116579
