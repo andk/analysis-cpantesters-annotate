@@ -2925,3 +2925,8 @@ Acme-UTOPIA-Utils-0.03                  116576
 Text-Document-1.07                      73120
 Dist-Zilla-Plugin-Test-Inline-0.011005  116578
 Tangence-0.21                           116579
+Test-UNIXSock-0.1                       https://github.com/fujiwara/Test-UNIXSock/issues/1
+deferred-0.01                           116581
+Debug-Easy-1.13                         116583
+Finance-QuoteHist-1.24                  116584
+CPANPLUS-0.9160                         116479
