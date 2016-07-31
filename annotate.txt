@@ -2930,3 +2930,9 @@ deferred-0.01                           116581
 Debug-Easy-1.13                         116583
 Finance-QuoteHist-1.24                  116584
 CPANPLUS-0.9160                         116479
+Template-Pure-0.023                     https://github.com/jjn1056/Template-Pure/issues/9
+Bio-MLST-Check-2.1.1534813              116602
+Bootylicious-1.12                       116605
+Module-Setup-0.09                       116606,116608
+POE-Component-Client-DNS-Recursive-1.08 116609
+Tkx-1.09                                115662
