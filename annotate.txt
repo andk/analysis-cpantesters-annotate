@@ -2936,3 +2936,15 @@ Bootylicious-1.12                       116605
 Module-Setup-0.09                       116606,116608
 POE-Component-Client-DNS-Recursive-1.08 116609
 Tkx-1.09                                115662
+Plack-Middleware-DBGp-0.11              https://github.com/mbarbon/plack-middleware-dbgp/issues/2
+POE-Component-Logger-1.10               116620
+Dist-Zilla-Plugin-AutoPrereqsFast-0.001 116631
+Jifty-1.50430                           116632
+MogileFS-Server-2.72                    116633
+MojoX-CPAN-Uploader-0.034               https://github.com/yko/mojox-cpan-uploader/issues/5
+PFT-v1.0.2                              116333
+RPC-ExtDirect-Client-1.20               https://github.com/nohuhu/RPC-ExtDirect-Client/issues/1
+Socket-2.022                            116634
+SVN-S4-1.056                            116639
+WWW-Scraper-ISBN-GoogleBooks_Driver-0.30 93222
+JSON-RPC2-AnyEvent-Client-0.01          116643
