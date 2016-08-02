@@ -2948,3 +2948,8 @@ Socket-2.022                            116634
 SVN-S4-1.056                            116639
 WWW-Scraper-ISBN-GoogleBooks_Driver-0.30 93222
 JSON-RPC2-AnyEvent-Client-0.01          116643
+NexposeSimpleXML-Parser-0.04            116652
+MetasploitExpress-Parser-0.02           116653
+WebService-GialloZafferano-0.02         https://github.com/mudler/WebService-GialloZafferano/issues/1
+BenchmarkAnything-Storage-Frontend-Lib-0.016 116664
+WWW-Expand-0.1.5                        95262
