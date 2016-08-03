@@ -2953,3 +2953,4 @@ MetasploitExpress-Parser-0.02           116653
 WebService-GialloZafferano-0.02         https://github.com/mudler/WebService-GialloZafferano/issues/1
 BenchmarkAnything-Storage-Frontend-Lib-0.016 116664
 WWW-Expand-0.1.5                        95262
+HTML-ExtractContent-0.12                https://github.com/tarao/perl5-HTML-ExtractContent/issues/3
