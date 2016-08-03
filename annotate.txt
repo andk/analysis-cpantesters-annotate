@@ -2954,3 +2954,12 @@ WebService-GialloZafferano-0.02         https://github.com/mudler/WebService-Gia
 BenchmarkAnything-Storage-Frontend-Lib-0.016 116664
 WWW-Expand-0.1.5                        95262
 HTML-ExtractContent-0.12                https://github.com/tarao/perl5-HTML-ExtractContent/issues/3
+Net-AWS-SES-0.04                        105520
+SQL-Functional-0.1                      116666
+Archive-Tar-Builder-2.5000_0001         116667
+PFT-v1.0.3                              116333
+DBIx-PgCoroAnyEvent-0.03                https://github.com/jef-sure/dbd-pg-cae/issues/1
+Attribute-Generator-0.02                116669
+Net-SSH-Mechanize-0.1.3                 85555
+Net-Whois-1.9                           63485
+Math-Polynomial-1.009                   114004
