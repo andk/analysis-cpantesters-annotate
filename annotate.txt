@@ -2969,3 +2969,9 @@ Image-Magick-Safer-0.06                 https://github.com/Humanstate/image-magi
 W3C-SOAP-WADL-0.007                     116696
 App-Chart-258                           116697
 Weasel-0.05                             https://github.com/perl-weasel/weasel/issues/1
+Business-CPI-Gateway-Moip-0.05          91905
+Devel-PerlySense-0.0218                 107520
+pkg-0.04                                116704
+SOAP-ISIWoK-3.01                        94252
+WebService-Autotask-1.5                 107403
+WSDL-XML-Generator-0.03                 104826,104827
