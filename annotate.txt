@@ -2975,3 +2975,15 @@ pkg-0.04                                116704
 SOAP-ISIWoK-3.01                        94252
 WebService-Autotask-1.5                 107403
 WSDL-XML-Generator-0.03                 104826,104827
+WWW-BackpackTF-0.001                    116705
+Acme-AjiFry-0.09                        https://github.com/moznion/Acme--AjiFry/issues/5
+Log-Sentry-0.01                         116706
+scriptname-0.92                         116707
+IPC-ForkPipe-0.01                       116719
+WWW-Vimeo-Download-0.06                 116720
+BioPerl-Run-1.006900                    116721
+DBI-Test-0.001                          102912
+Filter-PerlTags-Extra-0.01              116723
+Sys-PageCache-0.02                      116724
+Trac-RPC-1.0.0                          https://github.com/bessarabov/Trac-RPC/issues/2
+Params-Lazy-0.005                       99807
