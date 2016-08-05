@@ -2988,3 +2988,8 @@ Sys-PageCache-0.02                      116724
 Trac-RPC-1.0.0                          https://github.com/bessarabov/Trac-RPC/issues/2
 Params-Lazy-0.005                       99807
 Test-Class-Moose-0.75                   https://github.com/test-class-moose/test-class-moose/issues/65
+Lingua-SWE-Num2Word-0.0682              104855
+Finance-btce-0.1                        116729
+Pg-Corruption-0.02                      116730
+Alien-LibUSBx-0.12                      116731
+Gtk3-Notify-0.01                        109171
