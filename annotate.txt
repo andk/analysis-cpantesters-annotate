@@ -3004,3 +3004,12 @@ NoSQL-PL2SQL-1.21                       90543
 Vim-Debug-0.904                         https://github.com/kablamo/VimDebug/issues/36
 Thread-SharedTreeSet-0.01               116752
 WebService-Freshservice-0.001           116753
+Data-RuledValidator-0.13                91403
+Plack-Middleware-Raygun-0.003           116756
+MySQL-Packet-0.2007054                  108528
+Net-PT-0.01                             116757
+Net-PT-Test-0.01                        116758
+WWW-REST-Simple-0.004                   116759
+WWW-Txodds-0.69                         85274
+BGPmon-core-2-02                        116760
+Net-Duowan-DNS-1.2.0                    116761
