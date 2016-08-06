@@ -2993,3 +2993,14 @@ Finance-btce-0.1                        116729
 Pg-Corruption-0.02                      116730
 Alien-LibUSBx-0.12                      116731
 Gtk3-Notify-0.01                        109171
+WWW-TheEchoNest-1.1                     116742
+MetaCPAN-Client-1.022001                https://github.com/metacpan/metacpan-client/issues/44
+Config-Model-Backend-Augeas-0.118       116750
+Consul-Simple-1.142430                  https://github.com/dana/perl-Consul-Simple/issues/1
+FCGI-Engine-0.22                        116751
+WWW-Scraper-ISBN-Blackwell_Driver-0.09  106780
+Net-DNS-ZoneFile-Fast-1.24              99093
+NoSQL-PL2SQL-1.21                       90543
+Vim-Debug-0.904                         https://github.com/kablamo/VimDebug/issues/36
+Thread-SharedTreeSet-0.01               116752
+WebService-Freshservice-0.001           116753
