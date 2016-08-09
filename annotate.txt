@@ -3013,3 +3013,12 @@ WWW-REST-Simple-0.004                   116759
 WWW-Txodds-0.69                         85274
 BGPmon-core-2-02                        116760
 Net-Duowan-DNS-1.2.0                    116761
+WebService-Instagram-0.09               110067
+Catmandu-Plack-unAPI-0.11               https://github.com/gbv/Catmandu-Plack-unAPI/issues/1
+MongoDB-Async-0.702.3                   116773
+Devel-Trace-Syscall-0.02                https://github.com/hoelzro/devel-trace-syscall/issues/17
+Lab-Measurement-3.515                   https://github.com/lab-measurement/lab-measurement/issues/7
+WebService-Freshservice-0.002           116753
+Sys-PageCache-0.03                      116724
+App-Critique-0.01                       116785
+Swagger2-0.84                           https://github.com/jhthorsen/swagger2/issues/95
