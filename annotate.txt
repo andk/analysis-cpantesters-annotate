@@ -3024,3 +3024,4 @@ App-Critique-0.01                       116785
 Swagger2-0.84                           https://github.com/jhthorsen/swagger2/issues/95
 ClearPress-v473.0.5                     116816
 Dancer-Plugin-Database-2.12             https://github.com/bigpresh/Dancer-Plugin-Database/issues/89
+Locale-SubCountry-2.00                  116926
