@@ -3025,3 +3025,4 @@ Swagger2-0.84                           https://github.com/jhthorsen/swagger2/is
 ClearPress-v473.0.5                     116816
 Dancer-Plugin-Database-2.12             https://github.com/bigpresh/Dancer-Plugin-Database/issues/89
 Locale-SubCountry-2.00                  116926
+Dancer2-Session-Redis-0.006             https://github.com/burnersk/Dancer2-Session-Redis/issues/9
