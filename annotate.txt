@@ -3029,3 +3029,4 @@ Dancer2-Session-Redis-0.006             https://github.com/burnersk/Dancer2-Sess
 Finance-FITF-0.31                       116945
 Bread-Board-Svc-0.01                    116947
 WWW-Desk-0.09                           116965
+Dist-Zilla-Plugins-CJM-4.27             116902
