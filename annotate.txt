@@ -3028,3 +3028,4 @@ Locale-SubCountry-2.00                  116926
 Dancer2-Session-Redis-0.006             https://github.com/burnersk/Dancer2-Session-Redis/issues/9
 Finance-FITF-0.31                       116945
 Bread-Board-Svc-0.01                    116947
+WWW-Desk-0.09                           116965
