@@ -3032,3 +3032,4 @@ WWW-Desk-0.09                           116965
 Dist-Zilla-Plugins-CJM-4.27             116902
 Const-Fast-0.014                        https://rt.perl.org/Ticket/Display.html?id=128966
 Reply-0.41                              https://github.com/doy/reply/issues/52
+Net-Flotum-0.09                         https://github.com/eokoe/Net-Flotum/issues/5
