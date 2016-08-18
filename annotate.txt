@@ -3036,3 +3036,4 @@ Net-Flotum-0.09                         https://github.com/eokoe/Net-Flotum/issu
 DBIx-EAV-0.08                           https://github.com/cafe01/dbix-eav/issues/1
 Paws-Kinesis-MemoryCaller-0.04          https://github.com/keithbro/Paws-Kinesis-MemoryCaller/issues/1
 PGObject-Util-DBChange-0.04             117029
+App-FindCallers-0.02                    117052
