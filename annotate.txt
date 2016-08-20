@@ -3040,3 +3040,4 @@ App-FindCallers-0.02                    117052
 Interchange6-Schema-0.130               https://github.com/interchange/interchange6-schema/issues/201
 Webservice-OVH-0.1                      https://github.com/itnode/Webservice-OVH/issues/1
 Telegram-Bot-0.004                      117076
+JQuery-DataTables-Heavy-0.04            https://github.com/ywatase/JQuery-DataTables-Heavy/issues/4
