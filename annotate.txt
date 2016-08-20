@@ -3037,3 +3037,5 @@ DBIx-EAV-0.08                           https://github.com/cafe01/dbix-eav/issue
 Paws-Kinesis-MemoryCaller-0.04          https://github.com/keithbro/Paws-Kinesis-MemoryCaller/issues/1
 PGObject-Util-DBChange-0.04             117029
 App-FindCallers-0.02                    117052
+Interchange6-Schema-0.130               https://github.com/interchange/interchange6-schema/issues/201
+Webservice-OVH-0.1                      https://github.com/itnode/Webservice-OVH/issues/1
