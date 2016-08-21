@@ -3042,3 +3042,11 @@ Webservice-OVH-0.1                      https://github.com/itnode/Webservice-OVH
 Telegram-Bot-0.004                      117076
 JQuery-DataTables-Heavy-0.04            https://github.com/ywatase/JQuery-DataTables-Heavy/issues/4
 List-Util-1.46_01                       117080
+Mail-RBL-1.10                           58026
+Cache-Memcached-Queue-0.1.8             117079
+Dancer2-Plugin-PageHistory-0.205        https://github.com/SysPete/Dancer2-Plugin-PageHistory/issues/2
+ora-2.0                                 117087
+Performance-Probability-0.04            117088
+textrender-1.09                         117089
+WWW-Trello-Lite-1.00                    98204
+Variable-Magic-0.59                     117081
