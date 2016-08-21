@@ -3049,3 +3049,4 @@ Performance-Probability-0.04            117088
 textrender-1.09                         117089
 WWW-Trello-Lite-1.00                    98204
 Variable-Magic-0.59                     117081,https://rt.perl.org/Ticket/Display.html?id=128989
+Data-Printer-0.38                       https://github.com/garu/Data-Printer/issues/98
