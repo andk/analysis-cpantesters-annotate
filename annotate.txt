@@ -740,7 +740,6 @@ App-Cmd-Starter-0.02                    98627
 Acme-TLDR-0.004                         https://github.com/creaktive/Acme-TLDR/issues/3
 AnyEvent-Delay-0.01                     95245
 Test-CheckChanges-0.14                  98689
-Variable-Magic-0.53                     98525
 Gtk2-Ex-NumAxis-5                       https://rt.perl.org/Ticket/Display.html?id=122688
 Devel-SawAmpersand-0.33                 95560
 pmcheck-v1.1.11                         98445
@@ -3049,4 +3048,4 @@ ora-2.0                                 117087
 Performance-Probability-0.04            117088
 textrender-1.09                         117089
 WWW-Trello-Lite-1.00                    98204
-Variable-Magic-0.59                     117081
+Variable-Magic-0.59                     117081,https://rt.perl.org/Ticket/Display.html?id=128989
