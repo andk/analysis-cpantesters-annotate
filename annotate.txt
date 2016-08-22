@@ -3052,3 +3052,14 @@ Variable-Magic-0.59                     117081,https://rt.perl.org/Ticket/Displa
 Data-Printer-0.38                       https://github.com/garu/Data-Printer/issues/98
 YAML-1.18                               https://github.com/ingydotnet/yaml-pm/issues/134
 HPCI-0.45                               113594
+Dancer2-Plugin-PageHistory-0.206        https://github.com/SysPete/Dancer2-Plugin-PageHistory/issues/3
+Dist-Zilla-Plugin-AutoPrereqsFast-0.002 117095
+Shell-Cmd-2.11                          117096
+Geo-GoogleEarth-AutoTour-1.03           https://github.com/gryphonshafer/Geo-GoogleEarth-AutoTour/issues/1
+Any-Renderer-1.014                      117097
+Cache-AgainstFile-1.016                 117098
+DB-Pluggable-Dumper-0.01                117099
+Protocol-SocketIO-0.06                  https://github.com/vti/protocol-socketio/issues/1
+ExtUtils-BundleMaker-0.006              117102
+WWW-Baidu-0.06                          117103
+NCC-0.001                               117106
