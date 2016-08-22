@@ -3063,3 +3063,5 @@ Protocol-SocketIO-0.06                  https://github.com/vti/protocol-socketio
 ExtUtils-BundleMaker-0.006              117102
 WWW-Baidu-0.06                          117103
 NCC-0.001                               117106
+Mojolicious-Plugin-SPNEGO-0.2.3         https://github.com/oetiker/mojolicious-plugin-spnego/issues/1
+lib-filter-0.25                         117117
