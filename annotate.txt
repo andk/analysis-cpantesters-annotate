@@ -3081,3 +3081,9 @@ Business-KontoCheck-5.8                 https://sourceforge.net/p/kontocheck/bug
 Encode-ISO2022-0.04                     117157
 GenOO-1.5.0                             https://github.com/genoo/GenOO/issues/12
 Gnuplot-Simple-0.011                    117178
+Apache2-ASP-2.46                        117180
+Test-Toolbox-0.2                        117181
+Prima-1.48                              117182
+XAS-0.13                                117191
+Tie-Hash-Check-0.03                     117194
+Alien-NSS-0.23                          https://github.com/0xxon/alien-nss/issues/5
