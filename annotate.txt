@@ -3072,3 +3072,8 @@ Alien-MuPDF-0.005_03                    117145
 Devel-Chitin-0.07                       117146
 Mojolicious-Plugin-Riotjs-0.06          https://github.com/jhthorsen/mojolicious-plugin-riotjs/issues/2
 Mojolicious-Plugin-DevexpressHelpers-0.160822 117155
+Data-Inspect-0.04                       117168
+WWW-Tumblr-5.2                          https://github.com/damog/www-tumblr/issues/14
+Readonly-Tiny-3                         117170
+Device-Chip-PCF8563-0.01                117171
+Mojolicious-Plugin-FontAwesome4-4.5000  https://github.com/jhthorsen/mojolicious-plugin-fontawesome4/issues/4
