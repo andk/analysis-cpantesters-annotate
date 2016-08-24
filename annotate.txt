@@ -3077,3 +3077,7 @@ WWW-Tumblr-5.2                          https://github.com/damog/www-tumblr/issu
 Readonly-Tiny-3                         117170
 Device-Chip-PCF8563-0.01                117171
 Mojolicious-Plugin-FontAwesome4-4.5000  https://github.com/jhthorsen/mojolicious-plugin-fontawesome4/issues/4
+Business-KontoCheck-5.8                 https://sourceforge.net/p/kontocheck/bugs/13/
+Encode-ISO2022-0.04                     117157
+GenOO-1.5.0                             https://github.com/genoo/GenOO/issues/12
+Gnuplot-Simple-0.011                    117178
