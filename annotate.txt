@@ -3088,3 +3088,5 @@ XAS-0.13                                117191
 Tie-Hash-Check-0.03                     117194
 Alien-NSS-0.23                          https://github.com/0xxon/alien-nss/issues/5
 Dancer2-Plugin-PageHistory-0.207        https://github.com/SysPete/Dancer2-Plugin-PageHistory/issues/4
+XML-XSH2-2.1.25                         117196
+WWW-Scraper-ISBN-ORA_Driver-0.22        117200
