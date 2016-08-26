@@ -3098,3 +3098,17 @@ Date-Reformat-0.03                      117216
 TeX-Hyphen-1.16                         117217
 WWW-Google-PageRank-0.17                117218
 JSON-XS-Sugar-1.01                      https://github.com/maxmind/JSON-XS-Sugar-perl/issues/4
+Tree-Binary-XS-0.03                     117220
+LaTeX-Decode-0.04                       110678
+Mojolicious-Plugin-ConsoleLogger-0.06   117228
+Test-Toolbox-0.3                        117181
+DestructAssign-0.002004                 117229
+Char-Big5HKSCS-1.05                     117230
+Char-Big5Plus-1.05                      117230
+Char-GB18030-1.05                       117230
+Char-HP15-1.05                          117230
+Char-INFORMIXV6ALS-1.05                 117230
+Char-KPS9566-1.05                       117230
+Char-Sjis-1.05                          117230
+Char-UHC-1.05                           117230
+Sub-Trigger-Lock-0.002                  117231
