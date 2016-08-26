@@ -3093,3 +3093,8 @@ WWW-Scraper-ISBN-ORA_Driver-0.22        117200
 Finance-Bank-Postbank_de-0.40           117204
 Net--RabbitMQ-0.2.8                     102508
 Tie-Hash-Check-0.04                     117194
+invoker-0.34                            117215
+Date-Reformat-0.03                      117216
+TeX-Hyphen-1.16                         117217
+WWW-Google-PageRank-0.17                117218
+JSON-XS-Sugar-1.01                      https://github.com/maxmind/JSON-XS-Sugar-perl/issues/4
