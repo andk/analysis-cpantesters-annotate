@@ -3112,3 +3112,14 @@ Char-KPS9566-1.05                       117230
 Char-Sjis-1.05                          117230
 Char-UHC-1.05                           117230
 Sub-Trigger-Lock-0.002                  117231
+WWW-StationJp-API-0.01                  https://github.com/sue7ga/WWW-StationJp-API/issues/2
+Catmandu-Importer-MWTemplates-0.01      https://github.com/LibreCat/Catmandu-Importer-MWTemplates/issues/4
+CDB-TinyCDB-0.05                        107191
+DateTime-Calendar-FrenchRevolutionary-0.12 117246
+Dist-Zilla-Plugin-MakeMaker-SkipInstall-1.100 117247
+Log-Any-Plugin-0.005                    117248
+Mojolicious-Plugin-Browserify-0.06      https://github.com/jhthorsen/mojolicious-plugin-browserify/issues/2
+SNMP-Trapinfo-1.03                      117249
+Text-Extract-MaketextCallPhrases-0.93   117250
+Try-Tiny-Except-0.01                    https://github.com/tfoertsch/perl-Try-Tiny-Except/issues/1
+Web-API-Mock-0.01                       https://github.com/takihito/Web-API-Mock/issues/10
