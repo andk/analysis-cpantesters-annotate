@@ -864,7 +864,6 @@ Types-Git-0.02                          https://github.com/bluefeet/Types-Git/is
 Mojolicious-Plugin-CGI-0.13             https://github.com/jhthorsen/mojolicious-plugin-cgi/issues/11
 Zonemaster-v0.1.0                       100591
 Test-HTML-Content-0.09                  100616
-Business-OnlinePayment-IPPay-0.09       probably temporary network/webservice problem
 Test-Wrapper-0.3.0                      https://github.com/yanick/test-wrapper/issues/1
 Test-Bomb-0.007                         https://github.com/Test-More/test-more/issues/507
 Lingua-PT-PLN-0.21                      100603
@@ -3125,3 +3124,19 @@ Try-Tiny-Except-0.01                    https://github.com/tfoertsch/perl-Try-Ti
 Web-API-Mock-0.01                       https://github.com/takihito/Web-API-Mock/issues/10
 Webservice-OVH-0.21                     https://github.com/itnode/Webservice-OVH/issues/2
 Net-DirectConnect-TigerHash-0.08        117264
+Finance-YahooJPN-Quote-1.08             117251
+Acme-Hidek-44.0                         117253
+Git-Gitalist-0.000003                   103277
+Cond-Expr-0.04                          117254
+Hash-SharedMem-0.004                    117255
+List-Gather-0.12                        116694
+warnings-pedantic-0.02                  117256
+Ham-ADIF-1.5                            117262
+Devel-ModInfo-2.04                      117266
+Devel-PatchPerl-Plugin-Cygwin-v0.0.1    117267
+Eve-0.06                                117268
+Log-Minimal-Object-0.02                 https://github.com/moznion/Log-Minimal-Object/issues/1
+Net-MPD-0.05                            https://github.com/bentglasstube/Net-MPD/issues/4
+Search-Elasticsearch-Async-Simple-0.03  https://github.com/dionys/search-elasticsearch-async-simple/issues/3
+IO-Compress-Brotli-0.002                117269
+Business-OnlinePayment-IPPay-0.09       106878
