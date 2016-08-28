@@ -3140,3 +3140,7 @@ Net-MPD-0.05                            https://github.com/bentglasstube/Net-MPD
 Search-Elasticsearch-Async-Simple-0.03  https://github.com/dionys/search-elasticsearch-async-simple/issues/3
 IO-Compress-Brotli-0.002                117269
 Business-OnlinePayment-IPPay-0.09       106878
+WebService-KoreanSpeller-0.012          https://github.com/aero/WebService-KoreanSpeller/issues/3
+Text-HikiDoc-1.021                      https://github.com/higemaru/p5-text-hikidoc/issues/1
+Crypt-GCrypt-1.26                       97201
+MRS-Client-1.0.1                        https://github.com/msenger/MRS-Client/issues/2
