@@ -3124,3 +3124,4 @@ Text-Extract-MaketextCallPhrases-0.93   117250
 Try-Tiny-Except-0.01                    https://github.com/tfoertsch/perl-Try-Tiny-Except/issues/1
 Web-API-Mock-0.01                       https://github.com/takihito/Web-API-Mock/issues/10
 Webservice-OVH-0.21                     https://github.com/itnode/Webservice-OVH/issues/2
+Net-DirectConnect-TigerHash-0.08        117264
