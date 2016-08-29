@@ -471,7 +471,6 @@ App-Framework-1.06                      87390
 Statistics-MVA-0.0.2                    87426
 WordLists-0.013                         87427
 Catalyst-Plugin-Params-Profile-0.05     87533
-API-Plesk-2.03                          87594
 Acme-Tategaki-0.12                      https://github.com/kazuph/Acme-Tategaki/issues/2
 UNIVERSAL-AUTHORITY-Lexical-0.003       87640
 PBS-Logs-0.05                           https://rt.perl.org/rt3/Ticket/Display.html?id=119169
@@ -3144,3 +3143,4 @@ WebService-KoreanSpeller-0.012          https://github.com/aero/WebService-Korea
 Text-HikiDoc-1.021                      https://github.com/higemaru/p5-text-hikidoc/issues/1
 Crypt-GCrypt-1.26                       97201
 MRS-Client-1.0.1                        https://github.com/msenger/MRS-Client/issues/2
+API-Plesk-2.03                          81603
