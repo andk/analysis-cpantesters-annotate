@@ -3174,3 +3174,4 @@ OpenXML-Properties-0.02                 117305
 GunMojo-0.01                            82268
 uplug-main-0.3.8                        117306
 Progress-PV-0.02                        117307
+Dist-Zilla-Plugin-MakeMaker-SkipInstall-1.200 117312
