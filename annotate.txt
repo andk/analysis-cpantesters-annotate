@@ -3165,3 +3165,12 @@ WoW-Armory-API-1.031                    117292
 WWW-ArsenalFC-TicketInformation-1.123160 https://github.com/andrewrjones/perl5-WWW-ArsenalFC-TicketInformation/issues/2
 Devel-Optrace-0.05                      106110
 Document-eSign-Docusign-0.02            117293
+RandomJungle-0.05                       117302
+App-Reg-1.2.5                           https://github.com/xfix/App-Reg/issues
+Catalyst-Controller-Validation-DFV-0.0.8 117303
+Ravenel-1.1                             117304
+CPAN-Faker-HTTPD-0.002                  97897
+OpenXML-Properties-0.02                 117305
+GunMojo-0.01                            82268
+uplug-main-0.3.8                        117306
+Progress-PV-0.02                        117307
