@@ -1218,7 +1218,6 @@ Plack-Middleware-DNSBL-0.0304           107913
 outthentic-0.0.1                        renamed to Outthentic
 outthentic-0.0.2                        renamed to Outthentic
 Outthentic-0.0.5                        107961
-WWW-Shopify-1.01                        107963
 Object-Remote-0.003006                  108016
 AnyEvent-Curl-Multi-1.1                 105767
 Text-Fuzzy-0.22                         https://rt.perl.org/rt3/Ticket/Display.html?id=126472
@@ -3175,3 +3174,4 @@ GunMojo-0.01                            82268
 uplug-main-0.3.8                        117306
 Progress-PV-0.02                        117307
 Dist-Zilla-Plugin-MakeMaker-SkipInstall-1.200 117312
+WWW-Shopify-1.02                        107963
