@@ -3233,3 +3233,20 @@ Test-t-0.0031                           117366
 Project-Easy-0.30                       117368
 Statistics-Normality-0.01               107810
 Text-xSV-Slurp-0.22                     117369
+Games-PangZero-v1.4.1                   https://github.com/kthakore/pangzero/issues/4
+LPDS-0.02                               117381
+Net-OpenVPN-TrayIcon-v0.2.2             117382
+Haineko-0.2.16                          117383
+XML-RPC-Fast-0.8                        117384
+Array-Base-0.005                        117385
+optimizer-0.08                          117387
+App-ZofCMS-1.001006                     https://github.com/zoffixznet/App-ZofCMS/issues/11
+Attribute-Args-0.05                     117389
+Bio-Phylo-Beagle-0.03                   113941
+Telephone-Mnemonic-US-0.07              117390,117391
+Text-Summarize-0.50                     117392
+Lingua-EN-Sentence-Offsets-0.03         https://github.com/andrefs/Lingua-EN-Sentence-Offsets/issues/3
+Module-Mask-Deps-0.07                   103995
+Acme-CPAN-Testers-FAIL-0.02             expected to fail
+Plack-Middleware-Log-Minimal-0.06       117402
+Syntax-Highlight-Engine-Simple-0.09     117403
