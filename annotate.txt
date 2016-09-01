@@ -3215,3 +3215,4 @@ Monitoring-Generator-TestConfig-0.44    https://github.com/sni/Monitoring-Genera
 use-0.05                                117349
 rpm-build-perl-0.82                     117350
 PerlPowerTools-1.011                    https://github.com/briandfoy/PerlPowerTools/issues/40
+WWW-DoctypeGrabber-0.007                117388
