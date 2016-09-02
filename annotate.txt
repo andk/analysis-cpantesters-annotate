@@ -3082,7 +3082,6 @@ Apache2-ASP-2.46                        117180
 Test-Toolbox-0.2                        117181
 Prima-1.48                              117182
 XAS-0.13                                117191
-Tie-Hash-Check-0.03                     117194
 Alien-NSS-0.23                          https://github.com/0xxon/alien-nss/issues/5
 Dancer2-Plugin-PageHistory-0.207        https://github.com/SysPete/Dancer2-Plugin-PageHistory/issues/4
 XML-XSH2-2.1.25                         117196
@@ -3250,3 +3249,19 @@ Module-Mask-Deps-0.07                   103995
 Acme-CPAN-Testers-FAIL-0.02             expected to fail
 Plack-Middleware-Log-Minimal-0.06       117402
 Syntax-Highlight-Engine-Simple-0.09     117403
+Date-Manip-6.55                         117404
+LWP-UserAgent-ExponentialBackoff-0.04   117405
+PasswordMonkey-0.09                     117406
+WWW-NHKProgram-API-0.03                 https://github.com/moznion/WWW-NHKProgram-API/issues/3
+WWW-YouTube-Download-Channel-0.09       117408
+Geo-PostalCode-NoDB-0.01                77506
+Scope-Cleanup-0.002                     117409
+Socket-Class-2.258                      114734
+String-Base-0.001                       117410
+Math-ThinPlateSpline-0.06               117412,117413
+Scope-Escape-0.004                      117416
+TM-1.56                                 86022
+File-RelDir-0.1                         88465
+Lingua-XFST-0.1                         95249
+OpenERP-XMLRPC-Simple-0.22              https://github.com/OpusVL/OpenERP-XMLRPC-Simple/issues/1
+Tie-Handle-Flock-0.02                   117351
