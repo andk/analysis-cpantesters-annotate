@@ -3265,3 +3265,13 @@ File-RelDir-0.1                         88465
 Lingua-XFST-0.1                         95249
 OpenERP-XMLRPC-Simple-0.22              https://github.com/OpusVL/OpenERP-XMLRPC-Simple/issues/1
 Tie-Handle-Flock-0.02                   117351
+UTM5-URFAClient-0.54                    117419
+Const-Fast-0.014                        117420
+optimize-0.05                           117421
+Acme-Greeting-0.0.3                     117425
+LoadHtml-7.08                           117426
+OSPF-LSDB-1.07                          117427
+Parse-HP-ACU-0.03                       117428
+Sphinx-Manager-0.06                     117429
+Bio-Das-Lite-2.11                       117430
+Mojolicious-Plugin-Plift-0.01           https://github.com/cafe01/Mojolicious-Plugin-Plift/issues/1
