@@ -3303,3 +3303,4 @@ Module-Build-JSAN-Installable-0.13      117456
 Ser-BinRPC-0.01                         117457
 String-Simrank-0.079                    96377
 TRD-Velocity-0.0.8                      117459
+Weasel-0.09                             https://github.com/perl-weasel/weasel/issues/3
