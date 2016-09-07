@@ -3417,3 +3417,4 @@ Maildir-Lite-0.02                       63389
 Daemonise-1.0-1                         117565
 Mail-MboxParser-0.55                    85805
 POE-XUL-0.0601                          117566
+DBD-SQLite-Amalgamation-3.6.1.2         https://rt.cpan.org/Ticket/Display.html?id=117561
