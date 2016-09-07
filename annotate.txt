@@ -3418,3 +3418,16 @@ Daemonise-1.0-1                         117565
 Mail-MboxParser-0.55                    85805
 POE-XUL-0.0601                          117566
 DBD-SQLite-Amalgamation-3.6.1.2         https://rt.cpan.org/Ticket/Display.html?id=117561
+Catalyst-View-CSS-Squish-0.02           117568
+GD-Tab-Ukulele-0.01                     117569
+Apache-Scriptor-1.21                    117571
+Config-Natural-1.01                     117572
+LaTeX-Authors-0.81                      117573
+Module-Build-TestReporter-1.00          117574
+Module-Dependency-1.86                  22955
+Net-SPAMerLookup-0.10                   117575
+PerlPoint-Package-0.452                 117576
+POSIX-SchedYield-0.0.2                  117579
+Geo-Coder-US-1.00                       99502
+LWP-Protocol-virtual-0.02               117580
+Stream-1.00                             117581
