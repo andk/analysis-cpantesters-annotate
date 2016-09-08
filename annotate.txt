@@ -3456,3 +3456,4 @@ Time-Available-0.05                     117607
 CGI-SSI-0.92                            105562
 Data-RuledValidator-Plugin-Japanese-0.04 117609,117610
 Mail-Abuse-1.026                        117611
+Data-Swap-0.08                          117618
