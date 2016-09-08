@@ -3457,3 +3457,10 @@ CGI-SSI-0.92                            105562
 Data-RuledValidator-Plugin-Japanese-0.04 117609,117610
 Mail-Abuse-1.026                        117611
 Data-Swap-0.08                          117618
+Acme-Tie-Eleet-1.0.2                    117612
+Class-STAF-0.03                         117613
+Date-Spoken-German-0.05                 117615
+Catalyst-Model-S3-0.03                  84958
+Catalyst-Plugin-Apoptosis-0.00002       117652
+DBIx-FileSystem-1.7                     117653
+Games-FEAR-Log-0.02                     117654
