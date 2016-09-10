@@ -3499,3 +3499,12 @@ Module-CPANTS-Generator-0.006           117691
 only-latest-0.01                        117692
 Parse-Plain-3.03                        117702
 POE-Component-SimpleLog-1.05            117703
+PPI-HTML-CodeFolder-1.01                117708
+Template-Generate-0.04                  117710
+Tie-Array-Packed-Auto-0.03              57451
+Tk-ACH-0.04                             117713,117714
+WebService-Advogato-1.1.0               117715
+Website-1.14.01                         117716
+WSDL-Generator-0.04                     117717
+WWW-SherlockSearch-0.20                 117718
+Acme-Goto-Line-0.01                     117719
