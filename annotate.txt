@@ -3554,3 +3554,8 @@ Poker-Robot-0.01                        117300
 ETL-Pipeline-2.01                       117766
 JavaScript-Code-0.08                    101279
 File-ReadBackwards-1.05                 92313
+Data-Walker-1.05                        117768
+Inline-SMITH-0.03                       117769
+Parse-PerlConfig-0.05                   117770
+Data-Utilities-0.04                     103255
+Plack-Middleware-DoCoMoGUID-0.06        95927,117771,117772
