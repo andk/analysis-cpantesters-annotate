@@ -3559,3 +3559,14 @@ Inline-SMITH-0.03                       117769
 Parse-PerlConfig-0.05                   117770
 Data-Utilities-0.04                     103255
 Plack-Middleware-DoCoMoGUID-0.06        95927,117771,117772
+Text-Unaccent-1.10                      21177
+Tie-Hash-Indexed-0.05_03                https://github.com/mhx/Tie-Hash-Indexed/issues/2
+Image-Signature-0.01                    117775
+Myco-1.22                               117776
+Time-Format-1.12                        85001
+Alien-LibANN-0.01000                    82688
+Alien-Libevent-0.01004                  98058
+Crypt-PBC-0.9000                        97122
+Devel-DProf-20110802.00                 70629
+Math-Modular-SquareRoot-1.001           117780
+Perl6-Form-0.05                         117781
