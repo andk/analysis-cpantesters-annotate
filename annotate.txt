@@ -3549,3 +3549,8 @@ Text-Yats-0.03                          117762
 Bot-BasicBot-Pluggable-Module-Delicious-0.011 117721
 Text-EtText-2.2                         117764
 GDA-0.2                                 117765
+App-CELL-0.220                          https://github.com/smithfarm/cell/issues/7
+Poker-Robot-0.01                        117300
+ETL-Pipeline-2.01                       117766
+JavaScript-Code-0.08                    101279
+File-ReadBackwards-1.05                 92313
