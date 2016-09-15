@@ -3588,3 +3588,10 @@ RPC-Any-1.00                            90926
 Bot-BasicBot-Pluggable-Module-Notes-0.02 117809
 Bot-BasicBot-Pluggable-FromConfig-0.6   https://github.com/ungrim97/Bot-BasicBot-Pluggable-FromConfig/issues/2
 Bot-BasicBot-Pluggable-Module-Twitter-0.0.3 110335
+Scalar-List-Utils-1.45_05               117815,117816
+Net-ThreeScale-Client-2.0.2             103074
+Net-Mollom-0.09                         117822
+Timeout-Queue-1.02                      117825
+Text-PORE-1.02                          117826
+Text-Naming-Convention-0.06             117827
+App-MatrixTool-0.04                     117840
