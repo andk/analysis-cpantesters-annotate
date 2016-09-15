@@ -3596,3 +3596,17 @@ Text-PORE-1.02                          117826
 Text-Naming-Convention-0.06             117827
 App-MatrixTool-0.04                     117840
 Genealogy-Gedcom-Date-2.07              117843
+Dancer-Plugin-SimpleCRUD-1.00_01        https://github.com/bigpresh/Dancer-Plugin-SimpleCRUD/issues/80
+Text-AutoCSV-1.0                        117845
+App-BoolFindGrep-0.06                   117848
+Config-Model-Xorg-1.109                 117849
+File-Find-Rule-LibMagic-0.02            117850
+Config-Model-LcdProc-2.049              https://github.com/dod38fr/config-model-lcdproc/issues/2
+CPAN-SQLite-0.211                       117853
+Sub-Lvalue-0.01                         117868
+Statistics-Test-WilcoxonRankSum-0.0.7   117869,117870
+Prima-IPA-1.09                          117871
+Babble-0.07                             113967
+Bison-0.05                              95931
+Catalyst-Plugin-CDBI-Transaction-0.03   117873
+Class-RDF-0.20                          117875
