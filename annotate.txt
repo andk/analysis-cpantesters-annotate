@@ -3620,3 +3620,4 @@ MojoX-Run-0.15                          82104
 Log-File-Rolling-0.101                  https://github.com/hoytech/Log-File-Rolling/issues/3
 DBIx-Class-CustomPrefetch-0.09          117899
 AI-ConfusionMatrix-0.005                117933
+JSON-Schema-Shorthand-0.0.1             https://github.com/yanick/perl-json-schema-shorthand/issues/1
