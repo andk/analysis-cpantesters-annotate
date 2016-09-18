@@ -3619,3 +3619,4 @@ Net-IP-1.26                             117898
 MojoX-Run-0.15                          82104
 Log-File-Rolling-0.101                  https://github.com/hoytech/Log-File-Rolling/issues/3
 DBIx-Class-CustomPrefetch-0.09          117899
+AI-ConfusionMatrix-0.005                117933
