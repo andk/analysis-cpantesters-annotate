@@ -3643,3 +3643,9 @@ Encode-compat-0.07                      104304
 Games-3D-0.10                           117921
 Date-Remind-Event-0.05                  117925
 Crypt-MatrixSSL3-v3.7.7                 https://github.com/powerman/perl-Crypt-MatrixSSL3/issues/36
+Any-Renderer-1.015_02                   117097
+Plack-Middleware-Profiler-NYTProf-0.17  117946
+MasonX-Profiler-0.06                    117947
+App-DuckPAN-1010                        117948,117949
+Ado-0.931                               https://github.com/kberov/Ado/issues/107
+CGI-Uploader-2.18                       117951
