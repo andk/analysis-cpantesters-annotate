@@ -3649,3 +3649,4 @@ MasonX-Profiler-0.06                    117947
 App-DuckPAN-1010                        117948,117949
 Ado-0.931                               https://github.com/kberov/Ado/issues/107
 CGI-Uploader-2.18                       117951
+App-DuckPAN-1011                        117948,117949
