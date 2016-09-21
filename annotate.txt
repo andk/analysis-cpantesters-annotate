@@ -3660,3 +3660,9 @@ Coro-6.511                              114708
 App-Licensecheck-v3.0.24                118007
 Cache-RedisDB-0.10                      https://github.com/binary-com/perl-Cache-RedisDB/issues/9
 UNIVERSAL-ref-0.14                      118008
+BrowserStack-Local-1.0.0                no bugtracker, missing dependency specifications
+DDG-1008                                https://github.com/duckduckgo/duckduckgo/issues/222
+Footprintless-1.15                      118019
+Evo-XS-0.005                            https://github.com/alexbyk/perl-evo-xs/issues/1
+B-ConstOptree-0.02                      118020
+Statocles-0.077                         https://github.com/preaction/Statocles/issues/513
