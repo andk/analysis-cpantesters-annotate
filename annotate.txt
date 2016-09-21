@@ -3655,3 +3655,8 @@ Crypt-Rainbow-1.0.0                     117969
 Crypt-SEAL2-1.0.4                       63050
 Dancer-Plugin-Auth-Github-0.04          117970
 Email-IsEmail-3.04.2                    117998
+AnyEvent-Atom-Stream-0.02               118006
+Coro-6.511                              114708
+App-Licensecheck-v3.0.24                118007
+Cache-RedisDB-0.10                      https://github.com/binary-com/perl-Cache-RedisDB/issues/9
+UNIVERSAL-ref-0.14                      118008
