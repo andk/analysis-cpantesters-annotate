@@ -3651,3 +3651,7 @@ Ado-0.931                               https://github.com/kberov/Ado/issues/107
 CGI-Uploader-2.18                       117951
 App-DuckPAN-1011                        117948,117949
 Set-CrossProduct-2.000_01               117962
+Crypt-Rainbow-1.0.0                     117969
+Crypt-SEAL2-1.0.4                       63050
+Dancer-Plugin-Auth-Github-0.04          117970
+Email-IsEmail-3.04.2                    117998
