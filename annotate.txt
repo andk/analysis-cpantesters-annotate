@@ -3666,3 +3666,13 @@ Footprintless-1.15                      118019
 Evo-XS-0.005                            https://github.com/alexbyk/perl-evo-xs/issues/1
 B-ConstOptree-0.02                      118020
 Statocles-0.077                         https://github.com/preaction/Statocles/issues/513
+Dist-Zilla-Role-ModuleIncluder-0.007    118026
+Mojolicious-Plugin-UniqueTagHelpers-0.04 https://github.com/rshadow/mojolicious-plugin-unique_tag_helpers/issues/1
+Devel-RingBuffer-0.31                   118038
+Connector-1.17                          118057
+DateTimeX-Web-0.07                      118058
+RestrictionDigest-0.02                  118061
+Log-Any-Adapter-Carp-1.02               118062
+GenOOx-Data-File-SAMbwa-0.0.3           https://github.com/genoo/GenOOx-Sam-BWA/issues/1
+Plack-Middleware-NewRelic-0.0502        https://github.com/aanari/Plack-Middleware-NewRelic/issues/9
+App-VTide-v0.0.6                        118063
