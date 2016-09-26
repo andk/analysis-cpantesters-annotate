@@ -901,7 +901,6 @@ WWW-Google-Time-1.001002                https://github.com/zoffixznet/WWW-Google
 Data-Dump-XML-1.19                      81637
 MavenBuilds-Tasks-BuildWebappsWithMaven-0.01 101159
 Clustericious-0.9940_02                 https://github.com/plicease/Clustericious/issues/11
-Lexical-Var-0.009                       101058
 Test-Effects-0.001005                   https://github.com/Test-More/test-more/issues/528
 Net-Plywood-Simple-0.03                 101182
 Swagger2-0.15                           https://github.com/jhthorsen/swagger2/issues/4
@@ -3678,3 +3677,9 @@ Plack-Middleware-NewRelic-0.0502        https://github.com/aanari/Plack-Middlewa
 App-VTide-v0.0.6                        118063
 Catalyst-Plugin-OrderedParams-0.06      52922
 PersistentPerl-2.22                     33287
+Pod-Weaver-Section-ClassMopper-1.150880 118089
+Email-MIME-Kit-Bulk-0.0.2               https://github.com/iinteractive/Email-MIME-Kit-Bulk/issues/2
+SVG-2.64                                118091
+Time-OlsonTZ-Download-0.004             110676
+Lexical-Var-0.009                       115992
+Prima-Cairo-1.03                        118093
