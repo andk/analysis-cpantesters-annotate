@@ -3676,3 +3676,5 @@ Log-Any-Adapter-Carp-1.02               118062
 GenOOx-Data-File-SAMbwa-0.0.3           https://github.com/genoo/GenOOx-Sam-BWA/issues/1
 Plack-Middleware-NewRelic-0.0502        https://github.com/aanari/Plack-Middleware-NewRelic/issues/9
 App-VTide-v0.0.6                        118063
+Catalyst-Plugin-OrderedParams-0.06      52922
+PersistentPerl-2.22                     33287
