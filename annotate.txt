@@ -3683,3 +3683,15 @@ SVG-2.64                                118091
 Time-OlsonTZ-Download-0.004             110676
 Lexical-Var-0.009                       115992
 Prima-Cairo-1.03                        118093
+Fl-0.99.14                              https://github.com/sanko/Fl.pm/issues/2
+Dancer-Plugin-Interchange6-0.121        deprecated
+Perl-Lint-0.25                          https://github.com/moznion/Perl-Lint/issues/97
+FormValidator-Lite-0.38                 https://github.com/tokuhirom/FormValidator-Lite/issues/15
+Boost-Geometry-Utils-0.15               96145
+Apache-Logmonster-5.36                  118104
+FIX-Parser-0.01                         118105
+Message-Passing-Syslog-0.011            103914
+Mojolicious-Plugin-OpenAPI-1.02         https://github.com/jhthorsen/mojolicious-plugin-openapi/issues/8
+Monitoring-TT-1.0.0                     https://github.com/sni/Monitoring-TT/issues/2
+Script-Ichigeki-0.04                    https://github.com/Songmu/p5-Script-Ichigeki/issues/1
+Sub-Information-0.10                    118106
