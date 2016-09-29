@@ -3709,3 +3709,5 @@ Kwiki-LivedoorAuth-0.01                 118127
 Tk-ACH-0.05                             117713
 Options-1.5.2                           66945
 WebService-Livedoor-Auth-0.01           118128
+Acme-DateTime-Duration-Numeric-0.03     118131
+Lingua-DE-Tagger-0.16                   118132
