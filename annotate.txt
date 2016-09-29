@@ -3695,3 +3695,17 @@ Mojolicious-Plugin-OpenAPI-1.02         https://github.com/jhthorsen/mojolicious
 Monitoring-TT-1.0.0                     https://github.com/sni/Monitoring-TT/issues/2
 Script-Ichigeki-0.04                    https://github.com/Songmu/p5-Script-Ichigeki/issues/1
 Sub-Information-0.10                    118106
+Bio-Tools-Primer3Redux-0.09             118107
+Monitoring-Livestatus-0.76              https://github.com/sni/Monitoring-Livestatus/issues/2
+IO-Infiles-0.06                         118109
+HTML-Defang-1.04                        110663
+DateTime-Format-EMIUCP-0.0300           118110
+Plack-Middleware-Debug-Notepad-0.10     118112
+CGI-Application-Plugin-Authorization-0.07 116397
+Language-Farnsworth-0.7.7               118125
+DBIx-Class-DigestColumns-0.06000        108694
+Froody-42.034                           118126
+Kwiki-LivedoorAuth-0.01                 118127
+Tk-ACH-0.05                             117713
+Options-1.5.2                           66945
+WebService-Livedoor-Auth-0.01           118128
