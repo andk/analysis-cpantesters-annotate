@@ -3728,3 +3728,6 @@ Mail-FilterXML-0.3                      118151
 SVN-Dumpfile-0.13.107                   118152
 Tk-ACH-0.07                             117713
 DateTime-Calendar-Christian-0.04        118050
+Test-RandomCheck-0.02                   https://github.com/hiratara/p5-Test-RandomCheck/issues/2
+Footprintless-1.16                      118019,118162
+Monitoring-GLPlugin-2.3.2.2             116130
