@@ -3712,3 +3712,4 @@ WebService-Livedoor-Auth-0.01           118128
 Acme-DateTime-Duration-Numeric-0.03     118131
 Lingua-DE-Tagger-0.16                   118132
 Net-Intermapper-0.01                    118159
+Device-Chip-PCA9685-v0.9                118160
