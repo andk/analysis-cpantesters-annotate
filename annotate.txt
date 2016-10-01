@@ -3731,3 +3731,16 @@ DateTime-Calendar-Christian-0.04        118050
 Test-RandomCheck-0.02                   https://github.com/hiratara/p5-Test-RandomCheck/issues/2
 Footprintless-1.16                      118019,118162
 Monitoring-GLPlugin-2.3.2.2             116130
+Text-Macros-0.04                        118193
+Util-SelfDestruct-1.21                  118194
+Business-Payment-SwissESR-0.13.3        https://github.com/oetiker/business-payment-swissesr/issues/3
+ORLite-Profile-0.01                     118196
+WWW-HyperGlossary-0.02                  43978
+STANAG-0.01                             118199
+WebService-Ustream-API-0.03             66971
+perlbal-plugin-stickysessions-0.02      118200
+Apache-SWIT-Security-0.13               118201
+Monitoring-Livestatus-0.76              https://github.com/sni/Monitoring-Livestatus/issues/3
+DBD-AnyData-0.110                       deprecated,101630
+Locale-Maketext-Lexicon-DBI-v0.2.1      79049
+Net-Random-QRBG-0.02                    118208
