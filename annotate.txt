@@ -3744,3 +3744,4 @@ Monitoring-Livestatus-0.76              https://github.com/sni/Monitoring-Livest
 DBD-AnyData-0.110                       deprecated,101630
 Locale-Maketext-Lexicon-DBI-v0.2.1      79049
 Net-Random-QRBG-0.02                    118208
+Voldemort-0.11                          118231
