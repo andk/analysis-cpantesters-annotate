@@ -3745,3 +3745,5 @@ DBD-AnyData-0.110                       deprecated,101630
 Locale-Maketext-Lexicon-DBI-v0.2.1      79049
 Net-Random-QRBG-0.02                    118208
 Voldemort-0.11                          118231
+Hyle-0.4                                118212
+Crypt-Util-0.11                         118214
