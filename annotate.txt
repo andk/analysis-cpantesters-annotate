@@ -3749,3 +3749,5 @@ Hyle-0.4                                118212
 Crypt-Util-0.11                         118214
 Ubic-Service-Plack-1.18                 118226
 Treex-PML-2.20                          118233
+WWW-Search-Torrentz-0.001003            118238
+WebService-SQLFormat-0.000005           https://github.com/oalders/webservice-sqlformat/issues/2
