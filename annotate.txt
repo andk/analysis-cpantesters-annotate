@@ -3759,3 +3759,4 @@ List-MergeSorted-XS-1.06                118261
 Search-Elasticsearch-2.03               https://github.com/elastic/elasticsearch-perl/issues/108
 SWISH-3-1.000014                        118263
 Modern-Perl-1.20161005                  114690
+Regexp-CharClasses-Helper-0.004         https://github.com/athreef/Regexp-CharClasses-Helper/issues/1
