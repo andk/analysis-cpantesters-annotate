@@ -3755,3 +3755,7 @@ Encode-Arabic-Franco-0.007              https://github.com/athreef/Encode-Arabic
 Net-Traceroute6-0.03                    118251
 Plack-Server-Coro-0.02                  118252
 POE-Component-IRC-Plugin-WWW-Reddit-TIL-0.07 https://github.com/aggrolite/POE-Component-IRC-Plugin-WWW-Reddit-TIL/issues/1
+List-MergeSorted-XS-1.06                118261
+Search-Elasticsearch-2.03               https://github.com/elastic/elasticsearch-perl/issues/108
+SWISH-3-1.000014                        118263
+Modern-Perl-1.20161005                  114690
