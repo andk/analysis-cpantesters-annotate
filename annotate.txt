@@ -3760,3 +3760,9 @@ Search-Elasticsearch-2.03               https://github.com/elastic/elasticsearch
 SWISH-3-1.000014                        118263
 Modern-Perl-1.20161005                  114690
 Regexp-CharClasses-Helper-0.004         https://github.com/athreef/Regexp-CharClasses-Helper/issues/1
+Footprintless-1.17                      118019
+CGI-Session-ODBC-0.5                    118274
+Catalyst-TraitFor-Controller-CAPTCHA-1.0 118278
+Test-RestAPI-0.1.1                      https://github.com/JaSei/Test-RestAPI/issues/1
+Devel-OptreeDiff-2.3                    https://rt.perl.org/Ticket/Display.html?id=129821
+Devel-Chitin-0.09                       https://rt.perl.org/Ticket/Display.html?id=129821
