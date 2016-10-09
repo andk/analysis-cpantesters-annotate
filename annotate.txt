@@ -3766,3 +3766,11 @@ Catalyst-TraitFor-Controller-CAPTCHA-1.0 118278
 Test-RestAPI-0.1.1                      https://github.com/JaSei/Test-RestAPI/issues/1
 Devel-OptreeDiff-2.3                    https://rt.perl.org/Ticket/Display.html?id=129821
 Devel-Chitin-0.09                       https://rt.perl.org/Ticket/Display.html?id=129821
+Metabrik-1.24                           118279
+WWW-Mechanize-1.81                      https://github.com/libwww-perl/WWW-Mechanize/issues/54
+Test-RestAPI-0.1.3                      https://github.com/JaSei/Test-RestAPI/issues/1
+Catalyst-TraitFor-Controller-CAPTCHA-1.1 118278
+parent-0.235                            118310
+Net-API-Gett-1.06                       118315
+Business-OnlinePayment-eSelectPlus-0.07 118317
+LIVR-Contract-0.04                      118318
