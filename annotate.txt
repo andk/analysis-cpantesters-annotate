@@ -2470,7 +2470,7 @@ Switch-Plain-0.04                       115178
 Dancer2-Plugin-Redis-0.004              https://github.com/burnersk/Dancer2-Plugin-Redis/issues/11
 Dancer2-Plugin-GoogleAnalytics-0.002    115179
 Dancer2-Plugin-SendAs-0.001             https://github.com/veryrusty/Dancer2-Plugin-SendAs/issues/1
-Device-Chip-0.08                        114210
+Device-Chip-0.09                        114210
 Plucene-1.25                            108644
 WWW-Search-Yandex-0.07                  115224
 WWW-Search-News-1.079                   115226
