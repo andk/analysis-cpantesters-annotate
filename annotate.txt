@@ -2247,7 +2247,6 @@ Exception-Chain-0.11                    https://github.com/hixi-hyi/p5-Exception
 Math-FFTW-0.01                          95338
 MIME-tools-5.507                        113887
 Test-SharedFork-0.35                    https://github.com/tokuhirom/Test-SharedFork/issues/22
-Test-Aggregate-0.373                    100035
 Math-BigInt-Constant-1.08               113957
 Protocol-CassandraCQL-0.12              113958
 Types-Numbers-0.94                      https://github.com/SineSwiper/Types-Numbers/issues/2
@@ -3776,3 +3775,4 @@ Business-OnlinePayment-eSelectPlus-0.07 118317
 LIVR-Contract-0.04                      118318
 ETL-Pipeline-2.02                       117766
 DR-Tnt-0.04                             118326
+Test-Aggregate-0.374                    100035
