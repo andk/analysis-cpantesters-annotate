@@ -2305,7 +2305,6 @@ SNMP-Trapinfo-1.03                      https://rt.perl.org/rt3/Ticket/Display.h
 TeX-Hyphen-1.16                         https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 Time-OlsonTZ-Download-0.004             https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 XUL-Gui-0.63                            https://rt.perl.org/rt3/Ticket/Display.html?id=128139
-Footprintless-1.03                      114358
 Text-Starfish-1.20                      114354
 App-ZofCMS-1.001006                     https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 BibTeX-Parser-0.69                      https://rt.perl.org/rt3/Ticket/Display.html?id=128139
@@ -2903,7 +2902,6 @@ Catalyst-View-Xslate-0.00019            https://github.com/lestrrat/Catalyst-Vie
 RDF-AllegroGraph-Easy-0.08              116474
 JSON-Validator-0.77                     https://github.com/jhthorsen/json-validator/issues/23
 App-perlbrew-0.76                       116517
-Footprintless-1.05                      113348
 Text-MarkPerl-0.1                       116547
 Finance-TA-v0.4.3                       116548
 App-LDAP-0.1.2                          116553
@@ -2937,7 +2935,6 @@ Jifty-1.50430                           116632
 MogileFS-Server-2.72                    116633
 MojoX-CPAN-Uploader-0.034               https://github.com/yko/mojox-cpan-uploader/issues/5
 PFT-v1.0.2                              116333
-RPC-ExtDirect-Client-1.20               https://github.com/nohuhu/RPC-ExtDirect-Client/issues/1
 Socket-2.022                            116634
 SVN-S4-1.056                            116639
 WWW-Scraper-ISBN-GoogleBooks_Driver-0.30 93222
@@ -3660,7 +3657,6 @@ Cache-RedisDB-0.10                      https://github.com/binary-com/perl-Cache
 UNIVERSAL-ref-0.14                      118008
 BrowserStack-Local-1.0.0                no bugtracker, missing dependency specifications
 DDG-1008                                https://github.com/duckduckgo/duckduckgo/issues/222
-Footprintless-1.15                      118019
 Evo-XS-0.005                            https://github.com/alexbyk/perl-evo-xs/issues/1
 B-ConstOptree-0.02                      118020
 Statocles-0.077                         https://github.com/preaction/Statocles/issues/513
@@ -3728,7 +3724,6 @@ SVN-Dumpfile-0.13.107                   118152
 Tk-ACH-0.07                             117713
 DateTime-Calendar-Christian-0.04        118050
 Test-RandomCheck-0.02                   https://github.com/hiratara/p5-Test-RandomCheck/issues/2
-Footprintless-1.16                      118019,118162
 Monitoring-GLPlugin-2.3.2.2             116130
 Text-Macros-0.04                        118193
 Util-SelfDestruct-1.21                  118194
@@ -3759,7 +3754,6 @@ Search-Elasticsearch-2.03               https://github.com/elastic/elasticsearch
 SWISH-3-1.000014                        118263
 Modern-Perl-1.20161005                  114690
 Regexp-CharClasses-Helper-0.004         https://github.com/athreef/Regexp-CharClasses-Helper/issues/1
-Footprintless-1.17                      118019
 CGI-Session-ODBC-0.5                    118274
 Catalyst-TraitFor-Controller-CAPTCHA-1.0 118278
 Test-RestAPI-0.1.1                      https://github.com/JaSei/Test-RestAPI/issues/1
@@ -3776,3 +3770,8 @@ LIVR-Contract-0.04                      118318
 ETL-Pipeline-2.02                       117766
 DR-Tnt-0.04                             118326
 Test-Aggregate-0.374                    100035
+AnyEvent-ClickHouse-0.021               118359
+Footprintless-1.18                      118360
+Image-Magick-Text-AutoBreak-0.02        118361
+WebService-Images-Nofrag-0.06           118362
+RPC-ExtDirect-Client-1.24               https://github.com/nohuhu/RPC-ExtDirect-Client/issues/3
