@@ -3775,3 +3775,6 @@ Image-Magick-Text-AutoBreak-0.02        118361
 WebService-Images-Nofrag-0.06           118362
 RPC-ExtDirect-Client-1.24               https://github.com/nohuhu/RPC-ExtDirect-Client/issues/3
 App-VTide-v0.0.7                        118369
+Classic-Perl-0.06                       https://rt.perl.org/Public/Bug/Display.html?id=129821
+Devel-Chitin-0.09                       https://rt.perl.org/Public/Bug/Display.html?id=129821
+Devel-OptreeDiff-2.3                    https://rt.perl.org/Public/Bug/Display.html?id=129821
