@@ -3756,8 +3756,6 @@ Regexp-CharClasses-Helper-0.004         https://github.com/athreef/Regexp-CharCl
 CGI-Session-ODBC-0.5                    118274
 Catalyst-TraitFor-Controller-CAPTCHA-1.0 118278
 Test-RestAPI-0.1.1                      https://github.com/JaSei/Test-RestAPI/issues/1
-Devel-OptreeDiff-2.3                    https://rt.perl.org/Ticket/Display.html?id=129821
-Devel-Chitin-0.09                       https://rt.perl.org/Ticket/Display.html?id=129821
 Metabrik-1.24                           118279
 WWW-Mechanize-1.81                      https://github.com/libwww-perl/WWW-Mechanize/issues/54
 Test-RestAPI-0.1.3                      https://github.com/JaSei/Test-RestAPI/issues/1
@@ -3778,3 +3776,10 @@ App-VTide-v0.0.7                        118369
 Classic-Perl-0.06                       https://rt.perl.org/Public/Bug/Display.html?id=129821
 Devel-Chitin-0.09                       https://rt.perl.org/Public/Bug/Display.html?id=129821
 Devel-OptreeDiff-2.3                    https://rt.perl.org/Public/Bug/Display.html?id=129821
+Conductrics-Client-0.001                118378
+Kafka-Librd-0.01                        https://github.com/trinitum/perl-Kafka-Librd/issues/1
+Lucy-0.6.0                              https://issues.apache.org/jira/browse/LUCY-314
+Eixo-Rest-1.206                         118387
+Lab-Measurement-3.520                   https://github.com/lab-measurement/lab-measurement/issues/8
+Math-Polynomial-1.011                   114004
+Test-RestAPI-0.1.4                      https://github.com/JaSei/Test-RestAPI/issues/1
