@@ -3783,3 +3783,4 @@ Eixo-Rest-1.206                         118387
 Lab-Measurement-3.520                   https://github.com/lab-measurement/lab-measurement/issues/8
 Math-Polynomial-1.011                   114004
 Test-RestAPI-0.1.4                      https://github.com/JaSei/Test-RestAPI/issues/1
+DBIx-TransactionManager-Distributed-0.01 https://github.com/binary-com/perl-DBIx-TransactionManager-Distributed/issues/3
