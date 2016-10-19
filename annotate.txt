@@ -3784,3 +3784,4 @@ Lab-Measurement-3.520                   https://github.com/lab-measurement/lab-m
 Math-Polynomial-1.011                   114004
 Test-RestAPI-0.1.4                      https://github.com/JaSei/Test-RestAPI/issues/1
 DBIx-TransactionManager-Distributed-0.01 https://github.com/binary-com/perl-DBIx-TransactionManager-Distributed/issues/3
+IO-Socket-Socks-Wrapper-0.14            118430
