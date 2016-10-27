@@ -3794,3 +3794,8 @@ DateTime-Format-CLDR-1.17               118286
 BSON-XS-v0.2.0                          118516
 DBIx-Class-Sims-0.300402                118518
 Net-Ping-2.54                           118451
+BSON-XS-v0.2.1                          118516
+File-Find-Rule-Age-0.302                106579
+Footprintless-1.20                      118360
+IO-Socket-Socks-0.71                    118522
+MVC-Neaf-0.11                           118523
