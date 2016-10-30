@@ -3806,7 +3806,7 @@ CPAN-Distribution-ReleaseHistory-0.002003 https://github.com/kentnl/CPAN-Distrib
 Classic-Perl-0.06                       118374
 Data-Checker-1.06                       118541
 Devel-CheckOS-1.77                      https://github.com/DrHyde/perl-modules-Devel-CheckOS/issues/17
-Devel-EnforceEncapsulation-0.51         118555
+Devel-EnforceEncapsulation-0.51         118555,http://rt.perl.org/rt3/Public/Bug/Display.html?id=129851
 Encode-2.87                             103896
 Net-Riak-0.1702                         118547
 Net-Stripe-Simple-0.003                 118551
