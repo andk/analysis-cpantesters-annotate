@@ -3825,3 +3825,13 @@ Time-Duration-Locale-10                 118556
 Time-Duration-Locale-11                 118556
 Util-Any-0.24                           https://github.com/ktat/Util-Any/issues/1
 XML-CompileX-Schema-Loader-0.006        https://github.com/mjgardner/xml-compilex-schema-loader/issues/1
+Devel-OptreeDiff-2.3                    118372
+Image-Magick-Text-AutoBreak-0.02        118573
+Statistics-Associations-0.00003         76229
+Statistics-Zscore-0.00002               76228
+Net-RabbitMQ-Java-2.030102              118575
+Image-Thumbnail-0.66                    118576
+File-History-0.00002                    76240
+Geography-JapaneseMunicipals-0.01       76239
+DataFax-StudySubs-0.10                  118581
+Wiki-Toolkit-0.84                       118582
