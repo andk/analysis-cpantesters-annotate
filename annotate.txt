@@ -3835,3 +3835,8 @@ File-History-0.00002                    76240
 Geography-JapaneseMunicipals-0.01       76239
 DataFax-StudySubs-0.10                  118581
 Wiki-Toolkit-0.84                       118582
+Devel-SearchINC-2.103460                https://rt.perl.org/Ticket/Display.html?id=129996
+Bio-Das-1.17                            65533
+Linux-Unshare-1.00                      108556
+WWW-Rediff-iShare-0.05                  118586
+WWW-Scripter-Plugin-Ajax-0.09           118588
