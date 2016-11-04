@@ -3842,3 +3842,6 @@ WWW-Rediff-iShare-0.05                  118586
 WWW-Scripter-Plugin-Ajax-0.09           118588
 FAIR-Data-1.001                         118597
 Data-RecordStore-1.07                   118602
+Mojo-Pua-0.008                          https://github.com/alexbyk/mojo-pua/issues/1
+X11-SendEvent-1.3                       84055
+LaTeX-BibTeX-0.34                       118604
