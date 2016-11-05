@@ -3846,3 +3846,8 @@ Mojo-Pua-0.008                          https://github.com/alexbyk/mojo-pua/issu
 X11-SendEvent-1.3                       84055
 LaTeX-BibTeX-0.34                       118604
 Plack-1.0042                            https://github.com/plack/Plack/issues/582
+App-Fetchware-1.016                     https://github.com/deeelwy/Fetchware/issues/6
+Siebel-Srvrmgr-Exporter-0.05            https://github.com/glasswalk3r/siebel-monitoring-tools/issues/8
+ArangoDB2-0.11                          104965
+WWW-Search-PubMedLite-0.05              118625
+WWW-MSA-Hadith-1.01                     118626
