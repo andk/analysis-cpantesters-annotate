@@ -3851,3 +3851,4 @@ Siebel-Srvrmgr-Exporter-0.05            https://github.com/glasswalk3r/siebel-mo
 ArangoDB2-0.11                          104965
 WWW-Search-PubMedLite-0.05              118625
 WWW-MSA-Hadith-1.01                     118626
+WWW-Scraper-ISBN-ISBNnu_Driver-0.24     118627
