@@ -3856,3 +3856,7 @@ Schedule-Cron-1.02_3                    117437
 Broker-Async-0.0.2                      https://github.com/mark-5/p5-broker-async/issues/1
 Org-Parser-0.51                         118647
 TeX-Encode-2.0                          https://github.com/athreef/TeX-Encode/issues/1
+Tickit-Widget-Decoration-0.004          118652
+Method-Signatures-WithDocumentation-1.000 https://github.com/zurborg/libmethod-signatures-withdocumentation-perl/issues/1
+WWW-HatenaStar-0.04                     76449
+Strehler-1.6.8                          118678
