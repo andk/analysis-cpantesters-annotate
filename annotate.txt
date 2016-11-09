@@ -3860,3 +3860,5 @@ Tickit-Widget-Decoration-0.004          118652
 Method-Signatures-WithDocumentation-1.000 https://github.com/zurborg/libmethod-signatures-withdocumentation-perl/issues/1
 WWW-HatenaStar-0.04                     76449
 Strehler-1.6.8                          118678
+Math-Derivative_XS-0.02                 118685
+Thread-Queue-Any-1.14                   118686
