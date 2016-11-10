@@ -3862,3 +3862,6 @@ WWW-HatenaStar-0.04                     76449
 Strehler-1.6.8                          118678
 Math-Derivative_XS-0.02                 118685
 Thread-Queue-Any-1.14                   118686
+DBIx-Class-Sims-0.300403                118518
+XML-miniXQL-0.04                        118699
+XML-Node-0.11                           27573
