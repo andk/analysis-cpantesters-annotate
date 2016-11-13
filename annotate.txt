@@ -3866,3 +3866,5 @@ DBIx-Class-Sims-0.300403                118518
 XML-miniXQL-0.04                        118699
 XML-Node-0.11                           27573
 MooX-BuildArgs-0.03                     https://github.com/bluefeet/MooX-BuildArgs/issues/5
+OpusVL-SimpleCrypto-0.006               https://github.com/OpusVL/OpusVL-SimpleCrypto/issues/1
+Git-Database-0.005                      118732
