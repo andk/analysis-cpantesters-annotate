@@ -3868,3 +3868,13 @@ XML-Node-0.11                           27573
 MooX-BuildArgs-0.03                     https://github.com/bluefeet/MooX-BuildArgs/issues/5
 OpusVL-SimpleCrypto-0.006               https://github.com/OpusVL/OpusVL-SimpleCrypto/issues/1
 Git-Database-0.005                      118732
+Socket-Multicast6-0.04                  118736
+Catalyst-Model-HTML-FormFu-1.00001      module is deprecated
+Net-Kotonoha-0.08                       118738
+Net-SIGTRAN-0.1.1                       88946
+Mail-SendVarious-0.4                    118741
+Reaction-0.002005                       85200
+DracPerl-Client-0.10                    https://github.com/apcros/Drac-Perl/issues/3
+WebService-KakakuCom-0.05               118744
+GD-Dashboard-0.04                       720
+Tk-FcyEntry-1.5                         118754
