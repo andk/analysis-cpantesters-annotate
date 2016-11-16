@@ -3881,3 +3881,4 @@ Tk-FcyEntry-1.5                         118754
 DateTime-Calendar-FrenchRevolutionary-0.13 118755
 makepp-2.0.98.5                         118765
 Magpie-1.163200                         110699
+I22r-Translate-Microsoft-0.96           118790
