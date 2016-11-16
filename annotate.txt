@@ -3882,3 +3882,5 @@ DateTime-Calendar-FrenchRevolutionary-0.13 118755
 makepp-2.0.98.5                         118765
 Magpie-1.163200                         110699
 I22r-Translate-Microsoft-0.96           118790
+MooseX-CurriedDelegation-0.003          https://github.com/RsrchBoy/moosex-currieddelegation/issues/1
+Dist-Zilla-PluginBundle-Author-RTHOMPSON-0.161990 118800
