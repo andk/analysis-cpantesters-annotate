@@ -3884,3 +3884,5 @@ Magpie-1.163200                         110699
 I22r-Translate-Microsoft-0.96           118790
 MooseX-CurriedDelegation-0.003          https://github.com/RsrchBoy/moosex-currieddelegation/issues/1
 Dist-Zilla-PluginBundle-Author-RTHOMPSON-0.161990 118800
+DarkSky-API-0.05                        118801
+Dist-Zilla-PluginBundle-Author-HAYOBAAN-0.011 https://github.com/HayoBaan/Dist-Zilla-PluginBundle-Author-HAYOBAAN/issues/4
