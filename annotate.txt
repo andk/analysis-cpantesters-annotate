@@ -3891,3 +3891,5 @@ Net-GNUDBSearch-1.01                    118820
 Business-OnlinePayment-Skipjack-0.05    118821
 WebService-MusicBrainz-0.94             118822
 Footprintless-1.21                      118360
+IO-Prompt-0.997003                      https://rt.perl.org/Ticket/Display.html?id=130126
+Date-Manip-6.56                         https://rt.perl.org/Ticket/Display.html?id=130132
