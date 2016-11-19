@@ -3893,3 +3893,5 @@ WebService-MusicBrainz-0.94             118822
 Footprintless-1.21                      118360
 IO-Prompt-0.997003                      https://rt.perl.org/Ticket/Display.html?id=130126
 Date-Manip-6.56                         https://rt.perl.org/Ticket/Display.html?id=130132
+Tatsumaki-0.1013                        118843
+Tatsumaki-0.101301                      118843
