@@ -3886,3 +3886,8 @@ MooseX-CurriedDelegation-0.003          https://github.com/RsrchBoy/moosex-curri
 Dist-Zilla-PluginBundle-Author-RTHOMPSON-0.161990 118800
 DarkSky-API-0.05                        118801
 Dist-Zilla-PluginBundle-Author-HAYOBAAN-0.011 https://github.com/HayoBaan/Dist-Zilla-PluginBundle-Author-HAYOBAAN/issues/4
+Tangence-0.22                           118806
+Net-GNUDBSearch-1.01                    118820
+Business-OnlinePayment-Skipjack-0.05    118821
+WebService-MusicBrainz-0.94             118822
+Footprintless-1.21                      118360
