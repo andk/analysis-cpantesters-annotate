@@ -3895,3 +3895,6 @@ IO-Prompt-0.997003                      https://rt.perl.org/Ticket/Display.html?
 Date-Manip-6.56                         https://rt.perl.org/Ticket/Display.html?id=130132
 Tatsumaki-0.1013                        118843
 Tatsumaki-0.101301                      118843
+MetaCPAN-Client-2.000000                https://github.com/metacpan/metacpan-client/issues/55
+Parallel-Boss-0.02                      118842
+CatalystX-ASP-1.06                      https://github.com/stvleung/CatalystX-ASP/issues/4
