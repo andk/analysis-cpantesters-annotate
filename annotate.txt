@@ -3898,3 +3898,5 @@ Tatsumaki-0.101301                      118843
 MetaCPAN-Client-2.000000                https://github.com/metacpan/metacpan-client/issues/55
 Parallel-Boss-0.02                      118842
 CatalystX-ASP-1.06                      https://github.com/stvleung/CatalystX-ASP/issues/4
+Config-Model-Systemd-0.232.1            https://github.com/dod38fr/config-model-systemd/issues/2
+Astro-App-Satpass2-0.031_01             118861
