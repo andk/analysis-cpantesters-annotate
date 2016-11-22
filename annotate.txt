@@ -3900,3 +3900,11 @@ Parallel-Boss-0.02                      118842
 CatalystX-ASP-1.06                      https://github.com/stvleung/CatalystX-ASP/issues/4
 Config-Model-Systemd-0.232.1            https://github.com/dod38fr/config-model-systemd/issues/2
 Astro-App-Satpass2-0.031_01             118861
+Date-Manip-6.56                         118862
+Test-HTTPStatus-2.001                   https://github.com/briandfoy/test-httpstatus/issues/2
+Data-Checker-1.07                       118881
+Alien-MuPDF-0.006                       118882
+WebService-SendInBlue-0.003             118884
+Finance-Bank-Postbank_de-0.43           117204
+IO-Prompt-0.997003                      118893
+Test-Dist-Zilla-v0.4.2_02               118894
