@@ -3912,3 +3912,4 @@ Astro-satpass-0.076_01                  118910
 XML-Twig-3.50                           118909
 Bio-Phylo-0.58                          https://github.com/rvosa/bio-phylo/issues/31
 Config-Model-Xorg-1.111                 118911
+Yote-Server-1.16                        118931
