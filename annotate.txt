@@ -3913,3 +3913,8 @@ XML-Twig-3.50                           118909
 Bio-Phylo-0.58                          https://github.com/rvosa/bio-phylo/issues/31
 Config-Model-Xorg-1.111                 118911
 Yote-Server-1.16                        118931
+Template-Plugin-PerlTidy-0.03           118928
+MediaWiki-Bot-5.006003                  https://github.com/MediaWiki-Bot/MediaWiki-Bot/issues/81
+Dist-Zilla-Plugin-TravisCI-0.010        118930
+App-Services-0.002                      85255
+WWW-BetfairNG-0.12                      118940
