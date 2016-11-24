@@ -3918,3 +3918,8 @@ MediaWiki-Bot-5.006003                  https://github.com/MediaWiki-Bot/MediaWi
 Dist-Zilla-Plugin-TravisCI-0.010        118930
 App-Services-0.002                      85255
 WWW-BetfairNG-0.12                      118940
+Pinto-Action-Doc-0.004                  https://github.com/agorman/Pinto-Action-Doc/issues/1
+Mite-v0.0.1                             https://github.com/evalEmpire/Mite/issues/38
+Dist-Zilla-Plugin-Test-NewVersion-0.009 118946
+WebService-SmartyStreets-0.0105         https://github.com/aanari/WebService-SmartyStreets/issues/4
+Test-Collectd-Plugins-0.1008            https://rt.perl.org/Ticket/Display.html?id=130126,118947
