@@ -3923,3 +3923,6 @@ Mite-v0.0.1                             https://github.com/evalEmpire/Mite/issue
 Dist-Zilla-Plugin-Test-NewVersion-0.009 118946
 WebService-SmartyStreets-0.0105         https://github.com/aanari/WebService-SmartyStreets/issues/4
 Test-Collectd-Plugins-0.1008            https://rt.perl.org/Ticket/Display.html?id=130126,118947
+Bot-BasicBot-Pluggable-FromConfig-0.6   https://github.com/ungrim97/Bot-BasicBot-Pluggable-FromConfig/issues/3
+Search-Fulltext-Tokenizer-Ngram-0.01    https://github.com/sekia/Search-Fulltext-Tokenizer-Ngram/issues/1
+WebService-NetSuite-0.04                118954
