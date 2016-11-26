@@ -3926,3 +3926,7 @@ Test-Collectd-Plugins-0.1008            https://rt.perl.org/Ticket/Display.html?
 Bot-BasicBot-Pluggable-FromConfig-0.6   https://github.com/ungrim97/Bot-BasicBot-Pluggable-FromConfig/issues/3
 Search-Fulltext-Tokenizer-Ngram-0.01    https://github.com/sekia/Search-Fulltext-Tokenizer-Ngram/issues/1
 WebService-NetSuite-0.04                118954
+Devel-cst-0.010                         114914
+Perl-Examples-Accessors-0.10            118962
+Lingua-Thesaurus-0.09                   118968
+WWW-Shopify-Liquid-0.06                 118969
