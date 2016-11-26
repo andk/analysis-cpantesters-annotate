@@ -3931,3 +3931,4 @@ Perl-Examples-Accessors-0.10            118962
 Lingua-Thesaurus-0.09                   118968
 WWW-Shopify-Liquid-0.06                 118969
 HTTP-Cookies-Mozilla-2.03               118975
+CryptX-0.042                            https://github.com/DCIT/perl-CryptX/issues/26
