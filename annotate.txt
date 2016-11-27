@@ -3939,3 +3939,7 @@ Cogwheel-0.03                           118980
 File-ShareDir-PAR-0.06                  118981
 IronMan-Schema-0.03                     118982
 Math-BigInt-Constant-1.08               118987
+Lucene-0.18                             35519
+Speech-Recognizer-SPX-0.09              40537
+BatchSystem-SBS-0.41                    41692
+CGI-FileUpload-0.03                     41693
