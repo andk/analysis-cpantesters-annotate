@@ -3932,3 +3932,10 @@ Lingua-Thesaurus-0.09                   118968
 WWW-Shopify-Liquid-0.06                 118969
 HTTP-Cookies-Mozilla-2.03               118975
 CryptX-0.042                            https://github.com/DCIT/perl-CryptX/issues/26
+Perl-Examples-Accessors-0.11            118962
+CPANPLUS-Test-Dummy-UsesScript-0.0004   118974
+Graphics-ColorNames-GrayScale-2.00      56120
+Cogwheel-0.03                           118980
+File-ShareDir-PAR-0.06                  118981
+IronMan-Schema-0.03                     118982
+Math-BigInt-Constant-1.08               118987
