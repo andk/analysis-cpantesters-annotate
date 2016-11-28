@@ -3777,7 +3777,6 @@ Classic-Perl-0.06                       https://rt.perl.org/Public/Bug/Display.h
 Devel-Chitin-0.09                       https://rt.perl.org/Public/Bug/Display.html?id=129821
 Devel-OptreeDiff-2.3                    https://rt.perl.org/Public/Bug/Display.html?id=129821
 Conductrics-Client-0.001                118378
-Kafka-Librd-0.01                        https://github.com/trinitum/perl-Kafka-Librd/issues/1
 Lucy-0.6.0                              https://issues.apache.org/jira/browse/LUCY-314
 Eixo-Rest-1.206                         118387
 Lab-Measurement-3.520                   https://github.com/lab-measurement/lab-measurement/issues/8
@@ -3943,3 +3942,4 @@ Lucene-0.18                             35519
 Speech-Recognizer-SPX-0.09              40537
 BatchSystem-SBS-0.41                    41692
 CGI-FileUpload-0.03                     41693
+Kafka-Librd-0.04                        https://github.com/trinitum/perl-Kafka-Librd/issues/2
