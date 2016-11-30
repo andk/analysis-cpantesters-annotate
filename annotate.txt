@@ -3949,3 +3949,8 @@ Math-BigInt-Constant-1.09               119021
 Device-Serdisp-0.06                     119023
 Algorithm-MarkovChain-GHash-0.01        119024
 Devel-LeakTrace-0.05                    44970
+Mhash-0.90                              60966
+Bio-Biblio-1.70                         119025
+Class-Class-0.18                        119028
+GedNav-0.02                             119029
+File-BOM-0.15                           119068
