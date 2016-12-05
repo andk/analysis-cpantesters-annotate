@@ -3961,3 +3961,8 @@ Connector-1.18                          118057
 DBIx-Class-Sims-0.300404                118518
 Mojo-RabbitMQ-Client-0.0.6              https://github.com/inway/mojo-rabbitmq-client/issues/4
 Net-Cisco-ISE-0.01                      119121
+Image-Scale-0.13                        119094
+Syntax-Keyword-Try-0.04                 119095
+Net-Pcap-0.18                           117831
+Sort-External-0.18                      102430
+Time-SoFar-1.00                         105212
