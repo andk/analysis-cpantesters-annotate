@@ -3966,3 +3966,7 @@ Syntax-Keyword-Try-0.04                 119095
 Net-Pcap-0.18                           117831
 Sort-External-0.18                      102430
 Time-SoFar-1.00                         105212
+DBIx-Class-DigestColumns-0.06001_01     108694
+Sepia-0.992_01                          103979
+Tie-FlatFile-Array-0.05_01              117590
+AnyEvent-Google-PageRank-0.04           119150
