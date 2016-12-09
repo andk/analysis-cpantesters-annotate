@@ -3970,3 +3970,5 @@ DBIx-Class-DigestColumns-0.06001_01     108694
 Sepia-0.992_01                          103979
 Tie-FlatFile-Array-0.05_01              117590
 AnyEvent-Google-PageRank-0.04           119150
+HTML-Lint-2.23_01                       https://github.com/petdance/html-lint/issues/49
+Catmandu-Store-Datahub-0.01             https://github.com/thedatahub/Catmandu-Store-Datahub/issues/1
