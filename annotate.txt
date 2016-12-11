@@ -3972,3 +3972,6 @@ Tie-FlatFile-Array-0.05_01              117590
 AnyEvent-Google-PageRank-0.04           119150
 HTML-Lint-2.23_01                       https://github.com/petdance/html-lint/issues/49
 Catmandu-Store-Datahub-0.01             https://github.com/thedatahub/Catmandu-Store-Datahub/issues/1
+Hash-Persistent-1.02                    https://github.com/berekuk/Hash-Persistent/issues/2
+App-Monport-1.04                        https://github.com/jreisinger/App-Monport/issues/7
+Badger-0.1                              119204
