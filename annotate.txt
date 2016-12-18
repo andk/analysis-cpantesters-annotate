@@ -3976,3 +3976,4 @@ Hash-Persistent-1.02                    https://github.com/berekuk/Hash-Persiste
 App-Monport-1.04                        https://github.com/jreisinger/App-Monport/issues/7
 Badger-0.1                              119204
 DDG-1013                                https://github.com/duckduckgo/duckduckgo/issues/222
+Data-RuledCluster-0.06                  https://github.com/nekokak/p5-Data-RuledCluster/issues/4
