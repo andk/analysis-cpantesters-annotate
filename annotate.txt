@@ -3957,7 +3957,7 @@ File-BOM-0.15                           119068
 Parse-Syslog-Line-3.5                   119069
 Text-ASCIITable-0.20                    118483
 MVC-Neaf-0.13                           119086
-Connector-1.18                          118057
+Connector-1.22                          118057
 DBIx-Class-Sims-0.300404                118518
 Mojo-RabbitMQ-Client-0.0.6              https://github.com/inway/mojo-rabbitmq-client/issues/4
 Net-Cisco-ISE-0.01                      119121
