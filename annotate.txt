@@ -3978,3 +3978,5 @@ Badger-0.1                              119204
 DDG-1013                                https://github.com/duckduckgo/duckduckgo/issues/222
 Data-RuledCluster-0.06                  https://github.com/nekokak/p5-Data-RuledCluster/issues/4
 Scalar-Classify-0.01                    https://github.com/doomvox/scalar-classify/issues/1
+Net-DNS-SPF-Expander-0.018              https://github.com/amiri/Net-DNS-SPF-Expander/issues/7
+Tie-Trace-0.15                          115546
