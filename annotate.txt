@@ -3981,3 +3981,5 @@ Scalar-Classify-0.01                    https://github.com/doomvox/scalar-classi
 Net-DNS-SPF-Expander-0.018              https://github.com/amiri/Net-DNS-SPF-Expander/issues/7
 Tie-Trace-0.15                          115546
 Algorithm-LDA-0.03                      119317
+Fabnewsru-Parser-0.01                   https://github.com/pavelsr/Fabnews-Parser/issues/1
+LWP-UserAgent-Caching-Simple-0.02       119344
