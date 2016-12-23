@@ -3983,3 +3983,5 @@ Tie-Trace-0.15                          115546
 Algorithm-LDA-0.03                      119317
 Fabnewsru-Parser-0.01                   https://github.com/pavelsr/Fabnews-Parser/issues/1
 LWP-UserAgent-Caching-Simple-0.02       119344
+Badger-0.12                             119422
+List-Pairwise-1.03                      https://rt.perl.org/Ticket/Display.html?id=130385
