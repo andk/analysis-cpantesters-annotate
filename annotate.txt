@@ -3985,3 +3985,4 @@ Fabnewsru-Parser-0.01                   https://github.com/pavelsr/Fabnews-Parse
 LWP-UserAgent-Caching-Simple-0.02       119344
 Badger-0.12                             119422
 List-Pairwise-1.03                      https://rt.perl.org/Ticket/Display.html?id=130385
+Method-Signatures-20160315              https://rt.perl.org/Ticket/Display.html?id=130398
