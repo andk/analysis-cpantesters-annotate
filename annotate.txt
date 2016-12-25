@@ -3987,3 +3987,5 @@ Badger-0.12                             119422
 List-Pairwise-1.03                      https://rt.perl.org/Ticket/Display.html?id=130385
 Method-Signatures-20160315              https://rt.perl.org/Ticket/Display.html?id=130398
 Swagger2-0.87                           https://github.com/jhthorsen/swagger2/issues/98
+Data-UUID-LibUUID-0.05                  119469
+Data-UUID-LibUUID-0.05_04               119469
