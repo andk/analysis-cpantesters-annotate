@@ -3989,3 +3989,4 @@ Method-Signatures-20160315              https://rt.perl.org/Ticket/Display.html?
 Swagger2-0.87                           https://github.com/jhthorsen/swagger2/issues/98
 Data-UUID-LibUUID-0.05                  119469
 Data-UUID-LibUUID-0.05_04               119469
+Scalar-Does-0.202                       119030
