@@ -3990,3 +3990,10 @@ Swagger2-0.87                           https://github.com/jhthorsen/swagger2/is
 Data-UUID-LibUUID-0.05                  119469
 Data-UUID-LibUUID-0.05_04               119469
 Scalar-Does-0.202                       119030
+HTML-SocialMedia-0.26                   119421
+Net-OTServ-0.001                        https://github.com/athreef/Net-OTServ/issues/1
+Text-AutoCSV-1.1.4                      119440
+Mac-OSVersion-Lite-0.04                 https://github.com/pine/p5-Mac-OSVersion-Lite/issues/2
+Git-Open-0.1.9                          119476
+CatalystX-Test-MockContext-0.000001     119477
+WWW-Search-Ebay-3.046                   119480
