@@ -4011,3 +4011,6 @@ Modern-Perl-1.20161229                  114690
 App-TimeClock-0.11                      https://github.com/soren/App-TimeClock/issues/17
 sBNC-User-Summary-1.00                  https://github.com/n7st/sBNC-User-Summary/issues/1
 Math-ProvablePrime-0.042                119604
+Geo-Coder-All-0.06                      https://github.com/raigad/geo-coder-all/issues/3
+AnyEvent-SIP-0.002                      https://github.com/xsawyerx/anyevent-sip/issues/1
+WebService-Async-UserAgent-0.005        119608
