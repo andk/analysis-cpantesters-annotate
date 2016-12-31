@@ -4006,3 +4006,8 @@ Email-Archive-0.03                      119540
 Graphics-GVG-SVG-0.2                    119578
 Role-Markup-XML-0.01                    119595
 Travel-Status-DE-IRIS-1.12              119598
+Benchmark-Perl-CoreHashes-0.02          119566
+Modern-Perl-1.20161229                  114690
+App-TimeClock-0.11                      https://github.com/soren/App-TimeClock/issues/17
+sBNC-User-Summary-1.00                  https://github.com/n7st/sBNC-User-Summary/issues/1
+Math-ProvablePrime-0.042                119604
