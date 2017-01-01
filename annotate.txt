@@ -4014,3 +4014,4 @@ Math-ProvablePrime-0.042                119604
 Geo-Coder-All-0.06                      https://github.com/raigad/geo-coder-all/issues/3
 AnyEvent-SIP-0.002                      https://github.com/xsawyerx/anyevent-sip/issues/1
 WebService-Async-UserAgent-0.005        119608
+CSS-Sass-3.4.0                          https://github.com/sass/perl-libsass/issues/27
