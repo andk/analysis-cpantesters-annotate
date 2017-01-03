@@ -4021,4 +4021,4 @@ Mojolicious-Plugin-JQuery-3.11001       https://github.com/dgikiller/mojolicious
 Mojolicious-Plugin-Materialize-0.9770   https://github.com/mudler/Mojolicious-Plugin-Materialize/issues/3
 BenchmarkAnything-Storage-Frontend-HTTP-0.009 119644
 BenchmarkAnything-Storage-Frontend-Tools-0.014 119645
-Plack-Middleware-Debug-CatalystStash-1.000000 https://rt.perl.org/Ticket/Display.html?id=130487
+Plack-Middleware-Debug-CatalystStash-1.000000 https://rt.perl.org/Ticket/Display.html?id=130487, https://github.com/markwellis/plack-middleware-debug-catalyststash/issues/6
