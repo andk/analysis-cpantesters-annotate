@@ -4015,3 +4015,10 @@ Geo-Coder-All-0.06                      https://github.com/raigad/geo-coder-all/
 AnyEvent-SIP-0.002                      https://github.com/xsawyerx/anyevent-sip/issues/1
 WebService-Async-UserAgent-0.005        119608
 CSS-Sass-3.4.0                          https://github.com/sass/perl-libsass/issues/27
+WebService-Gyazo-B-0.0405               119642
+WWW-Scraper-ISBN-Wheelers_Driver-0.14   119643
+Mojolicious-Plugin-JQuery-3.11001       https://github.com/dgikiller/mojolicious-plugin-jquery/issues/10
+Mojolicious-Plugin-Materialize-0.9770   https://github.com/mudler/Mojolicious-Plugin-Materialize/issues/3
+BenchmarkAnything-Storage-Frontend-HTTP-0.009 119644
+BenchmarkAnything-Storage-Frontend-Tools-0.014 119645
+Plack-Middleware-Debug-CatalystStash-1.000000 https://rt.perl.org/Ticket/Display.html?id=130487
