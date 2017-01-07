@@ -4031,3 +4031,14 @@ HTTP-MobileAttribute-0.23               119727,119728
 CGI-Buffer-0.78                         119729
 FCGI-Buffer-0.08                        119730
 Template-Declare-0.47                   119731
+Mojolicious-Plugin-HTMLLint-0.04        119732
+String-Diff-0.07                        https://github.com/yappo/p5-String-Diff/issues/7
+App-CharmKit-2.07                       https://github.com/charmkit/App-CharmKit/issues/6,https://github.com/charmkit/App-CharmKit/issues/7
+Date-Holidays-AU-0.14                   119749
+Paws-Kinesis-MemoryCaller-0.08          https://github.com/keithbro/Paws-Kinesis-MemoryCaller/issues/3
+Net-AmazonS3-Simple-0.1.2               https://github.com/JaSei/Net-AmazonS3-Simple/issues/3
+Net-Async-Tangence-0.13                 119750
+Stepford-Grapher-1.01                   https://github.com/maxmind/Stepford-Grapher/issues/5
+Linux-Unshare-1.1                       108556
+BoutrosLab-TSVStream-v0.5.2             119751
+Yars-Command-yars_exercise-0.06         https://github.com/clustericious/Yars-Command-yars_exercise/issues/2
