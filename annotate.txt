@@ -4043,3 +4043,8 @@ Linux-Unshare-1.1                       108556
 BoutrosLab-TSVStream-v0.5.2             119751
 Yars-Command-yars_exercise-0.06         https://github.com/clustericious/Yars-Command-yars_exercise/issues/2
 WWW-Wolfram-DataDrop-0.01               119633
+Chess-PGN-EPD-0.32                      119759
+Mojolicious-Plugin-Angular-MaterialDesign-1.1.0 https://github.com/mudler/Mojolicious-Plugin-Angular-MaterialDesign/issues/2
+Net-Statsd-Server-0.20                  119763
+Bank-Holidays-0.82                      119765
+Ryu-0.001                               119766
