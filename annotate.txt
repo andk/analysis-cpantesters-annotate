@@ -4048,3 +4048,7 @@ Mojolicious-Plugin-Angular-MaterialDesign-1.1.0 https://github.com/mudler/Mojoli
 Net-Statsd-Server-0.20                  119763
 Bank-Holidays-0.82                      119765
 Ryu-0.001                               119766
+Catalyst-View-CSV-1.7                   119769
+IPC-Lock-WithTTL-0.01                   119775
+LWP-UserAgent-DNS-Hosts-0.08            119776
+App-Sysadmin-Log-Simple-0.009           https://github.com/doherty/App-Sysadmin-Log-Simple/issues/17,deprecated
