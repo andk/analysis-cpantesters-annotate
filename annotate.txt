@@ -4053,3 +4053,7 @@ IPC-Lock-WithTTL-0.01                   119775
 LWP-UserAgent-DNS-Hosts-0.08            119776
 App-Sysadmin-Log-Simple-0.009           https://github.com/doherty/App-Sysadmin-Log-Simple/issues/17,deprecated
 Locale-Meta-0.002                       119798
+Form-Processor-Model-RDBO-0.02          119778
+Data-FormValidator-Filters-Image-0.40   119781
+Gearman-Glutch-0.02                     119791
+Ryu-0.002                               119766
