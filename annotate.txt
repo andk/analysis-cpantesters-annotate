@@ -4058,3 +4058,8 @@ Data-FormValidator-Filters-Image-0.40   119781
 Gearman-Glutch-0.02                     119791
 Ryu-0.002                               119766
 REST-Client-273                         119829
+Cookieville-0.06                        https://github.com/jhthorsen/cookieville/issues/1
+Flower-0.10                             119828
+Mercury-0.011                           https://github.com/preaction/Mercury/issues/37
+Toadfarm-0.75                           https://github.com/jhthorsen/toadfarm/issues/24
+Mojolicious-Plugin-AssetPack-1.37       https://github.com/jhthorsen/mojolicious-plugin-assetpack/issues/115
