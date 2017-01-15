@@ -4065,3 +4065,4 @@ Toadfarm-0.75                           https://github.com/jhthorsen/toadfarm/is
 Mojolicious-Plugin-AssetPack-1.37       https://github.com/jhthorsen/mojolicious-plugin-assetpack/issues/115
 MOP-0.02                                119841
 Time-Piece-1.31_01                      119842
+Perinci-CmdLine-Lite-1.71               119860
