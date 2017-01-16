@@ -4070,3 +4070,7 @@ Config-IOD-Reader-0.31                  119861
 WWW-Eksi-0.22                           119862
 DBIx-Class-Helper-ResultSet-CrossTab-0.004 119864
 Graphics-GVG-SVG-0.4                    119578
+PEF-Front-WebSocket-0.04                https://github.com/jef-sure/pef-front-websocket/issues/1
+KeyedMutex-0.06                         119867
+Modern-Perl-1.20170115                  114690
+FFI-TinyCC-0.23                         https://github.com/plicease/FFI-TinyCC/issues/6
