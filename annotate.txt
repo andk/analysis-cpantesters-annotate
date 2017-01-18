@@ -4074,3 +4074,5 @@ PEF-Front-WebSocket-0.04                https://github.com/jef-sure/pef-front-we
 KeyedMutex-0.06                         119867
 Modern-Perl-1.20170115                  114690
 FFI-TinyCC-0.23                         https://github.com/plicease/FFI-TinyCC/issues/6
+WWW-Flatten-0.06                        119892
+WebService-Gitter-0.2.0                 119894
