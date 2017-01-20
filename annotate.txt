@@ -4077,3 +4077,4 @@ FFI-TinyCC-0.23                         https://github.com/plicease/FFI-TinyCC/i
 WWW-Flatten-0.06                        119892
 WebService-Gitter-0.2.0                 119894
 Statocles-0.081                         https://github.com/preaction/Statocles/issues/526
+Sort-Naturally-XS-0.7.3                 119923
