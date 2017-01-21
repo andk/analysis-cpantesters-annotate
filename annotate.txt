@@ -4080,3 +4080,7 @@ Statocles-0.081                         https://github.com/preaction/Statocles/i
 Sort-Naturally-XS-0.7.3                 119923
 Git-Database-0.006                      119915
 Dancer2-Logger-Fluent-0.02              119920
+InfluxDB-LineProtocol-1.009             111959
+PEF-Front-WebSocket-0.05                https://github.com/jef-sure/pef-front-websocket/issues/2
+Curses-UI-Grid-0.15                     119921
+Tk-EntryCheck-0.04                      119933
