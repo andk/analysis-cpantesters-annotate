@@ -1966,7 +1966,6 @@ Dist-Zilla-Plugin-Stenciller-HtmlExamples-0.0200 https://github.com/Csson/p5-Dis
 PPM-Profile-1.4                         112148
 Pod-Manual-0.08_04                      62600
 AnyEvent-WebSocket-Client-0.32          https://github.com/plicease/AnyEvent-WebSocket-Client/issues/22
-Mojolicious-Plugin-Vparam-1.2           https://github.com/dr-co/libmojolicious-plugin-vparam-perl/issues/8
 Net-Jifty-0.14                          112231
 File-FDpasser-0.09                      112233
 DateTime-Astro-1.00                     112240
