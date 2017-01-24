@@ -4090,3 +4090,5 @@ Mojolicious-Plugin-AssetPack-1.38       https://github.com/jhthorsen/mojolicious
 Mojo-SMTP-Client-0.11                   119946
 Ogg-Vorbis-Decoder-0.9                  119947
 SMS-Send-Sergel-Simple-HTTP-0.01        119948
+Geo-Coder-List-0.02                     119952
+Linux-Smaps-0.13                        104515
