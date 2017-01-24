@@ -4083,3 +4083,10 @@ InfluxDB-LineProtocol-1.009             111959
 PEF-Front-WebSocket-0.05                https://github.com/jef-sure/pef-front-websocket/issues/2
 Curses-UI-Grid-0.15                     119921
 Tk-EntryCheck-0.04                      119933
+Text-Bidi-2.12                          108739
+Sys-Info-Driver-Linux-0.7903            98099
+XML-Liberal-0.30                        119940
+Mojolicious-Plugin-AssetPack-1.38       https://github.com/jhthorsen/mojolicious-plugin-assetpack/issues/115
+Mojo-SMTP-Client-0.11                   119946
+Ogg-Vorbis-Decoder-0.9                  119947
+SMS-Send-Sergel-Simple-HTTP-0.01        119948
