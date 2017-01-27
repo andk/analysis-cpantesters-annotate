@@ -4092,3 +4092,6 @@ Ogg-Vorbis-Decoder-0.9                  119947
 SMS-Send-Sergel-Simple-HTTP-0.01        119948
 Geo-Coder-List-0.02                     119952
 Linux-Smaps-0.13                        104515
+ELF-Extract-Sections-1.001000           https://github.com/kentnl/ELF-Extract-Sections/issues/2
+FFI-1.09                                https://github.com/plicease/FFI/issues/2
+Eixo-Zone-Driver-0.03                   119991
