@@ -4103,3 +4103,6 @@ XML-Debian-ENetInterfaces-0.07          120028
 Locale-Meta-0.004                       120031
 Text-AI-CRM114-0.05                     120035
 warnings-everywhere-0.024               120049
+FrameNet-WordNet-Detour-1.1             120036
+Dancer2-Plugin-Locale-Meta-0.004        120045
+Pod-Weaver-Section-GenerateSection-1.03 https://github.com/carandraug/pod-weaver-section-generatesection/issues/4
