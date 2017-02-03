@@ -4107,3 +4107,4 @@ FrameNet-WordNet-Detour-1.1             120036
 Dancer2-Plugin-Locale-Meta-0.004        120045
 Pod-Weaver-Section-GenerateSection-1.03 https://github.com/carandraug/pod-weaver-section-generatesection/issues/4
 Web-Simple-0.032                        120071
+DBIx-Class-Graph-1.05                   118844
