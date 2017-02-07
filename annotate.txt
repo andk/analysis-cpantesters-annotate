@@ -4108,3 +4108,7 @@ Dancer2-Plugin-Locale-Meta-0.004        120045
 Pod-Weaver-Section-GenerateSection-1.03 https://github.com/carandraug/pod-weaver-section-generatesection/issues/4
 Web-Simple-0.032                        120071
 DBIx-Class-Graph-1.05                   118844
+DTL-Fast-1.622                          https://github.com/hurricup/DTL-Fast/issues/116
+Locale-TextDomain-OO-1.023              120137
+Config-FileManager-1.6                  120136
+Lingua-Numending-0.01                   120135
