@@ -4112,3 +4112,5 @@ DTL-Fast-1.622                          https://github.com/hurricup/DTL-Fast/iss
 Locale-TextDomain-OO-1.023              120137
 Config-FileManager-1.6                  120136
 Lingua-Numending-0.01                   120135
+WWW-Hatena-WanWanWorld-0.02             120067
+Net-Prober-0.15                         120113
