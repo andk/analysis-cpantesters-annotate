@@ -4114,3 +4114,4 @@ Config-FileManager-1.6                  120136
 Lingua-Numending-0.01                   120135
 WWW-Hatena-WanWanWorld-0.02             120067
 Net-Prober-0.15                         120113
+MooseX-XSAccessor-0.007                 120155
