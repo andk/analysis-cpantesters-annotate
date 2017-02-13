@@ -4116,3 +4116,5 @@ WWW-Hatena-WanWanWorld-0.02             120067
 Net-Prober-0.15                         120113
 MooseX-XSAccessor-0.007                 120155
 Test-MockTime-0.15                      120169
+IO-EventMux-2.02                        120205
+HTML-Template-Dumper-0.1                88004
