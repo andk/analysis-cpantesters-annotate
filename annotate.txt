@@ -4124,3 +4124,7 @@ Text-Extract-MaketextCallPhrases-0.94   117250
 FusionInventory-Agent-2.3.19            120280
 Module-Install-ReadmeFromPod-0.28       120281
 Locale-TextDomain-OO-1.024              120137
+Dev-Bollocks-0.06                       120291
+Command-Interactive-1.21                95705
+Test-NoLeaks-0.06                       120315
+Experian-IDAuth-2.3                     120325
