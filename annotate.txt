@@ -4128,3 +4128,6 @@ Dev-Bollocks-0.06                       120291
 Command-Interactive-1.21                95705
 Test-NoLeaks-0.06                       120315
 Experian-IDAuth-2.3                     120325
+FSM-Basic-0.03                          120333
+Catmandu-Store-Lucy-0.0101              120335
+Git-Repo-Commits-0.0.4                  120339
