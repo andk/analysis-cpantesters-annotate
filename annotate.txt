@@ -4150,3 +4150,17 @@ Log-Dispatch-Colorful-0.03              120376
 Log-Dispatch-File-Alerts-1.04           120377
 Log-Dispatch-File-Rolling-1.09          120378
 Rubric-0.156                            https://github.com/rjbs/Rubric/issues/1
+Template-Caribou-1.1.0                  https://github.com/yanick/Template-Caribou/issues/11
+CGI-Shorten-0.02                        24701
+POE-Component-WWW-XKCD-AsText-0.002     120386
+Swagger2-0.89                           https://github.com/jhthorsen/swagger2/issues/99
+Template-Provider-HTTP-0.05             120387
+Test-HTTP-Server-Simple-StashWarnings-0.04 120388
+Perl-Lexer-0.22                         https://github.com/tokuhirom/Perl-Lexer/issues/8
+Class-DBI-Replicated-0.040              120389
+Template-Plugin-DateTime-Format-0.03    120391
+WebService-Raygun-0.030                 120392
+WebService-Recruit-Dokoiku-0.11         120393
+Math-Currency-0.50                      120394
+Email-Simple-Markdown-0.7.0             https://github.com/yanick/Email-Simple-Markdown/issues/7
+WWW-XKCD-AsText-0.005                   120396
