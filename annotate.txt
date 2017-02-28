@@ -4169,3 +4169,6 @@ Message-Passing-Output-Log-Any-Adapter-0.003 120419
 Mojolicious-Plugin-AssetPack-Che-1.40   120428
 Math-Business-Blackscholes-Binaries-1.23 112745,120430
 code-UnifdefPlus-0.005.004              120449
+AnyEvent-TLS-SNI-0.03                   module is deprecated
+LWP-UserAgent-DNS-Hosts-0.09            119776
+POE-Component-Client-DNS-Recursive-1.10 116609
