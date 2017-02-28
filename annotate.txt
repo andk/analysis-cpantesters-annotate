@@ -4164,3 +4164,8 @@ WebService-Recruit-Dokoiku-0.11         120393
 Math-Currency-0.50                      120394
 Email-Simple-Markdown-0.7.0             https://github.com/yanick/Email-Simple-Markdown/issues/7
 WWW-XKCD-AsText-0.005                   120396
+Date-Holidays-UK-EnglandAndWales-0.04   120427
+Message-Passing-Output-Log-Any-Adapter-0.003 120419
+Mojolicious-Plugin-AssetPack-Che-1.40   120428
+Math-Business-Blackscholes-Binaries-1.23 112745,120430
+code-UnifdefPlus-0.005.004              120449
