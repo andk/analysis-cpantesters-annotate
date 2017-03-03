@@ -4172,3 +4172,11 @@ code-UnifdefPlus-0.005.004              120449
 AnyEvent-TLS-SNI-0.03                   module is deprecated
 LWP-UserAgent-DNS-Hosts-0.09            119776
 POE-Component-Client-DNS-Recursive-1.10 116609
+Google-Ads-AdWords-Client-4.12.0        118509
+POE-Component-Client-DNS-Recursive-1.12 116609
+Struct-Path-PerlStyle-0.62              120474
+RPerl-2.450000                          113430
+lsn-data-hub-05.00293                   no bugtracker, unescaped left brace in regex
+App-Virtualenv-2.01                     https://github.com/orkunkaraduman/perl5-virtualenv/issues/29
+Catmandu-ArXiv-0.100                    https://github.com/LibreCat/Catmandu-ArXiv/issues/1
+Object-WithParams-0.3                   120492
