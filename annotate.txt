@@ -4180,3 +4180,5 @@ lsn-data-hub-05.00293                   no bugtracker, unescaped left brace in r
 App-Virtualenv-2.01                     https://github.com/orkunkaraduman/perl5-virtualenv/issues/29
 Catmandu-ArXiv-0.100                    https://github.com/LibreCat/Catmandu-ArXiv/issues/1
 Object-WithParams-0.3                   120492
+HPCI-0.50                               120461
+WWW-Search-Ebay-Europe-2.016            120497
