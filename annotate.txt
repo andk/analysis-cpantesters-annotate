@@ -4182,3 +4182,11 @@ Catmandu-ArXiv-0.100                    https://github.com/LibreCat/Catmandu-ArX
 Object-WithParams-0.3                   120492
 HPCI-0.50                               120461
 WWW-Search-Ebay-Europe-2.016            120497
+Unicode-Map8-0.13                       24652
+WebService-SQLFormat-0.000006           https://github.com/oalders/webservice-sqlformat/issues/4
+App-VTide-v0.1.1                        118369
+Mojolicious-Plugin-HostMeta-0.21        120548
+Mojolicious-Plugin-Vparam-2.04          https://github.com/dr-co/libmojolicious-plugin-vparam-perl/issues/22
+Parse-Debian-PackageDesc-0.15           120549
+JSON-Schema-ToJSON-0.09                 https://github.com/Humanstate/json-schema-tojson/issues/1
+Swagger2-Markdown-0.11                  https://github.com/Humanstate/swagger2-markdown/issues/6
