@@ -4190,3 +4190,6 @@ Mojolicious-Plugin-Vparam-2.04          https://github.com/dr-co/libmojolicious-
 Parse-Debian-PackageDesc-0.15           120549
 JSON-Schema-ToJSON-0.09                 https://github.com/Humanstate/json-schema-tojson/issues/1
 Swagger2-Markdown-0.11                  https://github.com/Humanstate/swagger2-markdown/issues/6
+BoutrosLab-TSVStream-v0.5.3             119751
+Lingua-PT-Actants-0.04                  120577
+ack-2.16                                https://github.com/petdance/ack2/issues/485,https://github.com/petdance/ack2/issues/602
