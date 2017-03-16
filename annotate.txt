@@ -4201,3 +4201,9 @@ Authen-SASL-XS-1.00                     120606
 Crypt-OpenSSL-VerifyX509-0.10           120607,120608
 Crypt-Password-0.28                     120609
 Mail-Builder-2.12                       118885
+Mojolicious-Plugin-SimpleSlides-0.05    deprecated
+circle-be-0.170740                      101151
+Footprintless-1.24                      118360
+DateTime-Fiction-JRRTolkien-Shire-0.900 120635
+Tickit-Widget-Scroller-0.22             120636
+Google-Ads-AdWords-Client-4.13.0        118509
