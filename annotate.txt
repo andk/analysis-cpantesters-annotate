@@ -4207,3 +4207,6 @@ Footprintless-1.24                      118360
 DateTime-Fiction-JRRTolkien-Shire-0.900 120635
 Tickit-Widget-Scroller-0.22             120636
 Google-Ads-AdWords-Client-4.13.0        118509
+Search-ElasticSearch-AmazonES-0.02      prereq failure, no bugtracker
+DBD-SQLite-Amalgamation-3.6.16          117561
+AnyEvent-Yubico-0.9.3                   95962
