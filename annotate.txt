@@ -4212,3 +4212,9 @@ DBD-SQLite-Amalgamation-3.6.16          117561
 AnyEvent-Yubico-0.9.3                   95962
 CGI-Application-Plugin-Authentication-Driver-DBIC-0.02 120647
 Test2-Tools-EventDumper-0.000007        https://github.com/Test-More/Test2-Tools-EventDumper/issues/2
+RPi-PIGPIO-0.010                        120656
+Geo-OGC-Service-WFS-0.09                120667
+Net-Stripe-Simple-0.004                 120668
+POE-Filter-SSL-0.30                     118536
+AnyEvent-RipeRedis-Cluster-0.25_01      https://github.com/iph0/AnyEvent-RipeRedis-Cluster/issues/1
+Metabase-Backend-SQL-1.001              https://github.com/dagolden/metabase-backend-sql/issues/1
