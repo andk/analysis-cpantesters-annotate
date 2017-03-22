@@ -4218,3 +4218,5 @@ Net-Stripe-Simple-0.004                 120668
 POE-Filter-SSL-0.30                     118536
 AnyEvent-RipeRedis-Cluster-0.25_01      https://github.com/iph0/AnyEvent-RipeRedis-Cluster/issues/1
 Metabase-Backend-SQL-1.001              https://github.com/dagolden/metabase-backend-sql/issues/1
+String-Substitute-0.003                 120693
+Async-Simple-Pool-0.03                  120692
