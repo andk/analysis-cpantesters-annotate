@@ -4221,3 +4221,12 @@ Metabase-Backend-SQL-1.001              https://github.com/dagolden/metabase-bac
 String-Substitute-0.003                 120693
 Async-Simple-Pool-0.03                  120692
 Pod-Simpler-Aoh-0.04                    120699
+IO-Async-SSL-0.19                       120701
+Date-Utility-1.07                       https://github.com/binary-com/perl-Date-Utility/issues/18
+Net-WebSocket-0.01                      120702
+Pcore-API-Namecheap-v0.5.2              https://bitbucket.org/softvisio/pcore-api-namecheap/issues/1/undeclared-dependency-mouse
+Crypt-OpenSSL-RSA-0.28                  117481
+Panda-Time-3.1.0                        120703
+Pcore-Nginx-v1.2.2                      https://bitbucket.org/softvisio/pcore-nginx/issues/2/undeclared-dependency-mouse
+XML-LibXML-SAX-ChunkParser-0.00008      https://github.com/lestrrat/XML-LibXML-SAX-ChunkParser/issues/3
+Taskwarrior-Kusarigama-0.3.0            120704
