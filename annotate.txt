@@ -4231,3 +4231,11 @@ Pcore-Nginx-v1.2.2                      https://bitbucket.org/softvisio/pcore-ng
 XML-LibXML-SAX-ChunkParser-0.00008      https://github.com/lestrrat/XML-LibXML-SAX-ChunkParser/issues/3
 Taskwarrior-Kusarigama-0.3.0            120704
 Data-Unique-Name-2017.313               120731
+Catmandu-Store-Lucy-0.0102              120725
+Data-Transform-ExplicitMetadata-0.07    120726
+MetaCPAN-Client-2.008001                https://github.com/metacpan/metacpan-client/issues/76
+Async-Simple-Pool-0.04                  120692
+Parse-PlainConfig-3.04                  120732
+Panda-Date-3.0.4                        120733
+Panda-URI-1.1.0                         120734
+SOOT-0.17                               120735
