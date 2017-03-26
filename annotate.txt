@@ -4250,3 +4250,9 @@ Pcore-GeoIP-v1.1.2                      https://bitbucket.org/softvisio/pcore-ng
 Pcore-PDF-v0.1.0                        https://bitbucket.org/softvisio/pcore-nginx/issues/2/undeclared-dependency-mouse
 Pcore-SMTP-v0.1.1                       https://bitbucket.org/softvisio/pcore-nginx/issues/2/undeclared-dependency-mouse
 Acme-AXP-Utils-0.06                     120758
+MetaCPAN-Client-2.009000                https://github.com/metacpan/metacpan-client/issues/76
+Async-Simple-Pool-0.05                  120692
+Mojo-Log-Che-0.02                       120757
+Git-Database-0.008                      120760
+Combine-Keys-0.02                       120761
+Panda-Time-3.1.1                        120703
