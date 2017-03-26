@@ -4239,3 +4239,14 @@ Parse-PlainConfig-3.04                  120732
 Panda-Date-3.0.4                        120733
 Panda-URI-1.1.0                         120734
 SOOT-0.17                               120735
+Pcore-API-AftermarketPl-v0.4.1          https://bitbucket.org/softvisio/pcore-nginx/issues/2/undeclared-dependency-mouse
+Pcore-API-Dynadot-v0.5.1                https://bitbucket.org/softvisio/pcore-nginx/issues/2/undeclared-dependency-mouse
+Pcore-API-Majestic-v0.7.1               https://bitbucket.org/softvisio/pcore-nginx/issues/2/undeclared-dependency-mouse
+Pcore-Captcha-v1.0.1                    https://bitbucket.org/softvisio/pcore-nginx/issues/2/undeclared-dependency-mouse
+Pcore-Redis-v0.7.2                      https://bitbucket.org/softvisio/pcore-nginx/issues/2/undeclared-dependency-mouse
+Pcore-DBH-v0.2.1                        https://bitbucket.org/softvisio/pcore-nginx/issues/2/undeclared-dependency-mouse
+Pcore-ExtJS-v0.6.1                      https://bitbucket.org/softvisio/pcore-nginx/issues/2/undeclared-dependency-mouse
+Pcore-GeoIP-v1.1.2                      https://bitbucket.org/softvisio/pcore-nginx/issues/2/undeclared-dependency-mouse
+Pcore-PDF-v0.1.0                        https://bitbucket.org/softvisio/pcore-nginx/issues/2/undeclared-dependency-mouse
+Pcore-SMTP-v0.1.1                       https://bitbucket.org/softvisio/pcore-nginx/issues/2/undeclared-dependency-mouse
+Acme-AXP-Utils-0.06                     120758
