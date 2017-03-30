@@ -4258,3 +4258,8 @@ Combine-Keys-0.02                       120761
 Panda-Time-3.1.1                        120703
 Devel-MAT-0.25                          114581
 XRI-Resolution-Lite-0.04                120780
+Ham-ADIF-v1.5.1                         117262
+Kavorka-0.037                           109841
+MarpaX-ESLIF-1.0.49                     120784
+List-MoreUtils-XS-0.418                 120796
+App-PDF-Link-0.18                       120801
