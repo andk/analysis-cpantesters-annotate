@@ -4264,3 +4264,4 @@ MarpaX-ESLIF-1.0.49                     120784
 List-MoreUtils-XS-0.418                 120796
 App-PDF-Link-0.18                       120801
 Net-Moip-V2-0.05                        https://github.com/cafe01/Net-Moip-V2/issues/1
+Business-OnlinePayment-Vindicia-Select-0.002 120948
