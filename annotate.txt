@@ -4265,3 +4265,12 @@ List-MoreUtils-XS-0.418                 120796
 App-PDF-Link-0.18                       120801
 Net-Moip-V2-0.05                        https://github.com/cafe01/Net-Moip-V2/issues/1
 Business-OnlinePayment-Vindicia-Select-0.002 120948
+Android-Build-2017.401                  120900
+LinkEmbedder-0.04                       120901
+List-Flatten-XS-0.02                    120902
+Math-AnyNum-0.02                        120910
+Sys-Prctl-1.02                          120911
+X11-Xlib-0.12                           121010
+Pcore-ExtJS-v0.7.0                      https://bitbucket.org/softvisio/pcore-nginx/issues/2/undeclared-dependency-mouse
+Pcore-Nginx-v1.2.3                      https://bitbucket.org/softvisio/pcore-nginx/issues/2/undeclared-dependency-mouse
+Pcore-v0.29.0                           https://bitbucket.org/softvisio/pcore-nginx/issues/2/undeclared-dependency-mouse
