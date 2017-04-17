@@ -4297,3 +4297,7 @@ Template-Benchmark-1.09_01              121157
 Math-Project3D-1.02                     121159
 Redis-NaiveBayes-0.0.4                  121160
 HTML-DOMbo-3.10                         121161
+Message-Passing-Output-Search-Elasticsearch-0.003 121186
+GTM-0.6                                 121189
+Catmandu-EuropePMC-0.17                 https://github.com/LibreCat/Catmandu-EuropePMC/issues/4
+RPerl-2.600000                          113430
