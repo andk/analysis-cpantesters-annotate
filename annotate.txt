@@ -4314,3 +4314,5 @@ Domain-PublicSuffix-0.14.1              121222
 Net-NSCAng-Client-v2.0.0                121223
 GnuPG-Interface-0.52                    102651
 Lingua-RU-Money-XS-0.03                 121227
+HTML-Tree-5.04                          121230
+OOTools-2.4                             98859
