@@ -4316,3 +4316,12 @@ GnuPG-Interface-0.52                    102651
 Lingua-RU-Money-XS-0.03                 121227
 HTML-Tree-5.04                          121230
 OOTools-2.4                             98859
+App-Stacktrace-0.09                     121262
+ClearPress-v475.2.1                     121263
+Facebook-Graph-1.1202                   https://github.com/rizen/Facebook-Graph/issues/61
+Future-AsyncAwait-0.01                  121264
+Web-Scraper-0.38                        https://github.com/miyagawa/web-scraper/issues/21
+WWW-Pastebin-PastebinCom-Create-1.003   121265
+PDL-2.017                               https://sourceforge.net/p/pdl/bugs/432/
+Word2vec-Interface-0.03-3               121266
+Async-Simple-Pool-0.06                  120692
