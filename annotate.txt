@@ -4341,3 +4341,11 @@ Time-C-0.023                            https://github.com/pink-mist/Time-C/issu
 Mail-CheckUser-1.24                     121285
 Moove-0.004                             https://github.com/zurborg/libmoove-perl/issues/1
 Defaults-Modern-0.011001                121286
+Alien-LMDB-0.103                        https://github.com/hoytech/Alien-LMDB/issues/4
+Crypt-OpenSSL-EC-1.01                   104000
+WWW-Wookie-0.101                        121287
+Date-Extract-P800Picture-0.107          121288
+WWW-NOS-Open-0.100                      121289
+Template-Plugin-ListMoreUtils-0.03      121291
+Sereal-Decoder-4.001_002                https://github.com/Sereal/Sereal/issues/165
+Sereal-Encoder-4.001_002                https://github.com/Sereal/Sereal/issues/166
