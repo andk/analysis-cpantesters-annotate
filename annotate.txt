@@ -4354,3 +4354,12 @@ Dancer-Plugin-Thumbnail-0.13            121295
 GD-2.61                                 121297
 Net-WebSocket-0.021                     121299
 Mojolicious-Plugin-SQLiteViewerLite-0.13 121301
+AnyEvent-TLS-SNI-0.03                   https://github.com/nalobin/AnyEvent-TLS-SNI/issues/2
+Barcode-Code128-2.21                    121307
+Catalyst-ActionRole-MethodSignatureDependencyInjection-0.0200
+https://github.com/jjn1056/Catalyst-ActionRole-MethodSignatureDependencyInjection/issues/3
+CSS-Watcher-0.5.0                       121308
+Unix-Mgt-0.14                           121309
+Type-Tiny-Signatures-0.06               https://github.com/alnewkirk/Type-Tiny-Signatures/issues/1
+MasonX-Resolver-WidgetFactory-0.009     https://github.com/rjbs/MasonX-Resolver-WidgetFactory/issues/1,121310
+Encode-Detect-Upload-0.04               99315
