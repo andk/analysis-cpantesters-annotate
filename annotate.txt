@@ -4349,3 +4349,8 @@ WWW-NOS-Open-0.100                      121289
 Template-Plugin-ListMoreUtils-0.03      121291
 Sereal-Decoder-4.001_002                https://github.com/Sereal/Sereal/issues/165
 Sereal-Encoder-4.001_002                https://github.com/Sereal/Sereal/issues/166
+Term-ReadLine-Tiny-1.00                 121293
+Dancer-Plugin-Thumbnail-0.13            121295
+GD-2.61                                 121297
+Net-WebSocket-0.021                     121299
+Mojolicious-Plugin-SQLiteViewerLite-0.13 121301
