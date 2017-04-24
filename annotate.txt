@@ -4371,3 +4371,16 @@ App-Midgen-0.34                         https://github.com/kevindawson/App-Midge
 Finance-TickerSymbols-2.01              121314
 Time-C-0.024                            https://github.com/pink-mist/Time-C/issues/3
 App-perluse-0.0102                      https://github.com/dex4er/perluse/issues/2
+State-Machine-0.07                      121317
+Date-LibICal-0.01                       121318
+Class-DBI-ClassGenerator-1.04           deprecated
+Device-Delcom-VSI-0.08                  120479
+File-Xcopy-0.12                         121323
+Net-Launchpad-2.101                     121324
+Net-LeanKit-2.001                       121325
+Term-Menu-0.10                          121326
+WebService-Coinbase-0.0200              121328
+WebService-Snapcard-0.0001              121329
+Config-Any-0.31                         121330,121331
+App-TestOnTap-0.032                     121332
+SWFEditor-0.09                          121333
