@@ -4384,3 +4384,5 @@ WebService-Snapcard-0.0001              121329
 Config-Any-0.31                         121330,121331
 App-TestOnTap-0.032                     121332
 SWFEditor-0.09                          121333
+HTML-TableParser-0.42                   121341
+Data-RecordStore-2.0                    121339
