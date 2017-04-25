@@ -4402,3 +4402,12 @@ Ogg-LibOgg-0.02                         121357
 XCAP-Client-0.07                        121358
 MusicBrainz-DiscID-0.03                 85212,89285
 Tie-Judy-0.05                           121361
+AI-ParticleSwarmOptimization-1.006      121362
+Image-Filter-0.07                       121370
+Net_TCLink.pm-3.4                       121371
+Text-Flowchart-1.00                     121372
+UNIX-Cal-0.01                           121373
+Mojolicious-Plugin-ForkCart-0.03        121374
+Mojolicious-Plugin-Vparam-2.07          https://github.com/dr-co/libmojolicious-plugin-vparam-perl/issues/26
+XML-XBEL-1.4                            121375
+Lexical-Util-0.8                        50114
