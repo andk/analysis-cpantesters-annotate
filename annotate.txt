@@ -4411,3 +4411,7 @@ Mojolicious-Plugin-ForkCart-0.03        121374
 Mojolicious-Plugin-Vparam-2.07          https://github.com/dr-co/libmojolicious-plugin-vparam-perl/issues/26
 XML-XBEL-1.4                            121375
 Lexical-Util-0.8                        50114
+App-GHPT-1.000000                       121377
+AmbientOrb-Serial-0.02                  121378,121379
+Location-GeoTool-2                      121380
+PGP-Sign-0.20                           121381
