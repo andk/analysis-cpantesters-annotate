@@ -4465,3 +4465,6 @@ Test-Clustericious-Cluster-0.34         https://github.com/clustericious/Test-Cl
 REST-Neo4p-0.3012                       121413
 Mojolicious-Plugin-Webtail-0.06         https://github.com/hayajo/Mojolicious-Plugin-Webtail/issues/1
 Geo-Coder-Many-0.47                     121414
+Erlang-Port-0.04                        121415
+Mojar-Google-Analytics-1.111            https://github.com/niczero/mojar-google-analytics/issues/1
+Marketplace-Ebay-0.191                  121429
