@@ -4473,3 +4473,4 @@ Data-Table-Text-2017.429                121442
 App-LLEvalBot-0.01                      https://github.com/Songmu/p5-App-LLEvalBot/issues/1
 Log-Dispatch-Email-Mailer-1.02          https://github.com/gryphonshafer/Log-Dispatch-Email-Mailer/issues/1
 Signals-XSIG-0.15_03                    103457
+Mojolicious-Plugin-Authorization-1.05   https://github.com/byterock/mojolicious-plugin-authorization/issues/14
