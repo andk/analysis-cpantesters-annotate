@@ -4468,3 +4468,8 @@ Geo-Coder-Many-0.47                     121414
 Erlang-Port-0.04                        121415
 Mojar-Google-Analytics-1.111            https://github.com/niczero/mojar-google-analytics/issues/1
 Marketplace-Ebay-0.191                  121429
+Android-Build-2017.430                  121441
+Data-Table-Text-2017.429                121442
+App-LLEvalBot-0.01                      https://github.com/Songmu/p5-App-LLEvalBot/issues/1
+Log-Dispatch-Email-Mailer-1.02          https://github.com/gryphonshafer/Log-Dispatch-Email-Mailer/issues/1
+Signals-XSIG-0.15_03                    103457
