@@ -4474,3 +4474,4 @@ App-LLEvalBot-0.01                      https://github.com/Songmu/p5-App-LLEvalB
 Log-Dispatch-Email-Mailer-1.02          https://github.com/gryphonshafer/Log-Dispatch-Email-Mailer/issues/1
 Signals-XSIG-0.15_03                    103457
 Mojolicious-Plugin-Authorization-1.05   https://github.com/byterock/mojolicious-plugin-authorization/issues/14
+Template-Lace-0.002                     https://github.com/jjn1056/Template-Lace/issues/1
