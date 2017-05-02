@@ -4475,3 +4475,10 @@ Log-Dispatch-Email-Mailer-1.02          https://github.com/gryphonshafer/Log-Dis
 Signals-XSIG-0.15_03                    103457
 Mojolicious-Plugin-Authorization-1.05   https://github.com/byterock/mojolicious-plugin-authorization/issues/14
 Template-Lace-0.002                     https://github.com/jjn1056/Template-Lace/issues/1
+App-GHPT-1.000001                       https://github.com/maxmind/App-GHPT/issues/7
+Mojolicious-Plugin-OAuth2-Server-0.35   https://github.com/Humanstate/mojolicious-plugin-oauth2-server/issues/14
+App-vaporcalc-0.005004                  121479
+XML-Filter-NSNormalise-0.04             121480
+Alt-FFI-libffi-0.01                     https://github.com/plicease/Alt-FFI-libffi/issues/2,https://github.com/plicease/Alt-FFI-libffi/issues/3
+Log-Dispatch-Tk-1.8                     121482
+LinkEmbedder-0.05                       120901
