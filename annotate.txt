@@ -4484,3 +4484,5 @@ Log-Dispatch-Tk-1.8                     121482
 LinkEmbedder-0.05                       120901
 Mojar-Mysql-2.132                       https://github.com/niczero/mojar-mysql/issues/1
 App-GHPT-1.000002                       https://github.com/maxmind/App-GHPT/issues/7
+PFT-v1.2.0                              116333
+Log-Any-Plugin-History-0.01             121546
