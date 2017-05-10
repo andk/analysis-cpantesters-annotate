@@ -4486,3 +4486,13 @@ Mojar-Mysql-2.132                       https://github.com/niczero/mojar-mysql/i
 App-GHPT-1.000002                       https://github.com/maxmind/App-GHPT/issues/7
 PFT-v1.2.0                              116333
 Log-Any-Plugin-History-0.01             121546
+Future-AsyncAwait-0.02                  121569
+Music-Audioscrobbler-MPD-0.13           121592
+Net-Download-XMLScripted-0.01           121594
+Net-Analysis-Listener-HTTPClientPerf-0.01 121596
+Acme-Net-OdiousPlan-0.001               121597
+Authen-Challenge-Basic-0.1              121598
+Gloom-0.25                              https://github.com/ingydotnet/gloom-pm/issues/1
+Tie-DB_FileLock-0.11                    121601
+Debug-EchoMessage-1.03                  121602
+Math-BigInt-Lite-0.17                   120893
