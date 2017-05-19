@@ -4540,3 +4540,5 @@ Data-Compare-Plugins-JSON-1.03          https://github.com/dionys/data-compare-p
 CloudDeploy-1.05                        121782
 Net-BrowserID-Verify-0.003              121783
 Tapper-Reports-API-5.0.5                121784
+Plack-Middleware-Auth-BrowserID-0.0.7   https://github.com/jbolila/Plack-Middleware-Auth-BrowserID/issues/1
+Net-Lookup-DotTel-0.04                  121637
