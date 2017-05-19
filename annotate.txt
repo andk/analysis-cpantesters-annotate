@@ -4528,3 +4528,15 @@ CatalystX-VCS-Lookup-0.06               121673
 Net-Easypost-0.19                       121674
 MooX-Struct-0.015                       121624
 Sub-Talisman-Struct-0.005               121677
+PRANG-0.18                              121573
+Text-SenseClusters-LabelEvaluation-0.06 121689
+Text-SenseClusters-LabelEvaluation-Driver-0.09 121690
+XML-SRS-0.09                            90666
+DBIx-Class-Result-Validation-0.16       121715
+Mojolicious-Plugin-CGI-0.37             https://github.com/jhthorsen/mojolicious-plugin-cgi/issues/27
+Catalyst-View-Template-Lace-0.002       121385
+CloudCron-0.02                          121780
+Data-Compare-Plugins-JSON-1.03          https://github.com/dionys/data-compare-plugins-json/issues/1
+CloudDeploy-1.05                        121782
+Net-BrowserID-Verify-0.003              121783
+Tapper-Reports-API-5.0.5                121784
