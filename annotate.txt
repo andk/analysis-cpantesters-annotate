@@ -4542,3 +4542,9 @@ Net-BrowserID-Verify-0.003              121783
 Tapper-Reports-API-5.0.5                121784
 Plack-Middleware-Auth-BrowserID-0.0.7   https://github.com/jbolila/Plack-Middleware-Auth-BrowserID/issues/1
 Net-Lookup-DotTel-0.04                  121637
+Image-Sane-0.07                         121627
+Lingua-Translate-Bing-0.04              121797
+Perl-Syntax-1.00                        https://github.com/rocky/Perl-Syntax/issues/2
+Test-Stochastic-0.03                    121800
+App-VTide-v0.1.2                        118369
+Catalyst-View-Template-Lace-0.003       121385
