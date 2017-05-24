@@ -4548,3 +4548,7 @@ Perl-Syntax-1.00                        https://github.com/rocky/Perl-Syntax/iss
 Test-Stochastic-0.03                    121800
 App-VTide-v0.1.2                        118369
 Catalyst-View-Template-Lace-0.003       121385
+Alvis-Convert-0.4                       121823
+Net-YASA-0.03                           121842
+App-Prove-Plugin-Distributed-0.08       121843
+PGObject-2                              121845
