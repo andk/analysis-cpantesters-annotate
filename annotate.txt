@@ -4552,3 +4552,4 @@ Alvis-Convert-0.4                       121823
 Net-YASA-0.03                           121842
 App-Prove-Plugin-Distributed-0.08       121843
 PGObject-2                              121845
+Lazy-Utils-1.17                         https://github.com/orkunkaraduman/Lazy-Utils/issues/18
