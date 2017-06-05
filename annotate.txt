@@ -4574,3 +4574,8 @@ Google-Ads-AdWords-Client-4.14.0        118509
 Mojar-Message-1.102                     https://github.com/niczero/mojar-message/issues/2
 Mojo-WebSocketProxy-0.06                https://github.com/binary-com/perl-Mojo-WebSocketProxy/issues/15
 PDL-CCS-1.23.3                          121952
+Crypt-OpenSSL-EC-1.2                    104000
+Mashtree-0.15                           121971
+CSS-Sass-3.4.6                          https://github.com/sass/perl-libsass/issues/31
+File-CounterSS-0.01                     121989
+WWW-RSSFeed-0.01                        121990
