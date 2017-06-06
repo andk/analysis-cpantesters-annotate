@@ -4603,3 +4603,4 @@ MetaCPAN-API-Tiny-1.150270              122004
 Net-Azure-NotificationHubs-0.01         https://github.com/ytnobody/p5-Net-Azure-NotifcationHubs/issues/1
 Dist-Surveyor-0.016                     122005
 Gtk2-Notify-0.05                        67467
+LWP-CurlLog-0.01                        122025
