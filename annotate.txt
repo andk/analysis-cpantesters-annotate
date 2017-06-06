@@ -4601,3 +4601,5 @@ CPANPLUS-Internals-Source-MetaCPAN-0.08 122003
 Pod-Cpandoc-Cache-0.03                  https://github.com/tokubass/p5-Pod-Cpandoc-Cache/issues/1
 MetaCPAN-API-Tiny-1.150270              122004
 Net-Azure-NotificationHubs-0.01         https://github.com/ytnobody/p5-Net-Azure-NotifcationHubs/issues/1
+Dist-Surveyor-0.016                     122005
+Gtk2-Notify-0.05                        67467
