@@ -4604,3 +4604,5 @@ Net-Azure-NotificationHubs-0.01         https://github.com/ytnobody/p5-Net-Azure
 Dist-Surveyor-0.016                     122005
 Gtk2-Notify-0.05                        67467
 LWP-CurlLog-0.01                        122025
+Pod-Cpandoc-Cache-0.05                  https://github.com/tokubass/p5-Pod-Cpandoc-Cache/issues/2
+Graphics-Fig-v1.0.1                     122059
