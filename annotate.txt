@@ -4606,3 +4606,11 @@ Gtk2-Notify-0.05                        67467
 LWP-CurlLog-0.01                        122025
 Pod-Cpandoc-Cache-0.05                  https://github.com/tokubass/p5-Pod-Cpandoc-Cache/issues/2
 Graphics-Fig-v1.0.1                     122059
+Log-Log4perl-Appender-Graylog-1.3       https://github.com/dimentox/Log-Log4perl-Appender-Graylog/issues/1
+RPerl-2.601000                          113430
+HTML-WikiConverter-MediaWiki-0.59       110685
+HTML-WikiConverter-Txt2tags-0.04        122071
+HTML-WikiConverter-Wikispaces-0.02      122072
+HTML-WikiConverter-XWiki-0.02           122073
+HTML-WikiConverter-MoinMoin-0.54        88003
+ExtUtils-MakeMaker-7.30                 121918
