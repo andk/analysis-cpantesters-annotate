@@ -4614,3 +4614,6 @@ HTML-WikiConverter-Wikispaces-0.02      122072
 HTML-WikiConverter-XWiki-0.02           122073
 HTML-WikiConverter-MoinMoin-0.54        88003
 ExtUtils-MakeMaker-7.30                 121918
+Log-Log4perl-Appender-Graylog-1.6       122084
+Date-Extract-PERLANCAR-0.001            122085
+Mojolicious-Plugin-Vparam-2.08          https://github.com/dr-co/libmojolicious-plugin-vparam-perl/issues/26
