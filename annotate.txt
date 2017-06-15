@@ -4617,3 +4617,5 @@ ExtUtils-MakeMaker-7.30                 121918
 Log-Log4perl-Appender-Graylog-1.6       122084
 Date-Extract-PERLANCAR-0.001            122085
 Mojolicious-Plugin-Vparam-2.08          https://github.com/dr-co/libmojolicious-plugin-vparam-perl/issues/26
+HTML-Template-Nest-0.02                 122095
+Mojolicious-Plugin-Vparam-2.09          https://github.com/dr-co/libmojolicious-plugin-vparam-perl/issues/26
