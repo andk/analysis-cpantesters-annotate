@@ -4619,3 +4619,11 @@ Date-Extract-PERLANCAR-0.001            122085
 Mojolicious-Plugin-Vparam-2.08          https://github.com/dr-co/libmojolicious-plugin-vparam-perl/issues/26
 HTML-Template-Nest-0.02                 122095
 Mojolicious-Plugin-Vparam-2.09          https://github.com/dr-co/libmojolicious-plugin-vparam-perl/issues/26
+Acme-Honkidasu-0.01                     122106
+Ledger-Parser-0.05                      122107
+ElasticSearchX-Model-Generator-0.1.8    https://github.com/kentfredric/ElasticSearchX-Model-Generator/issues/1
+Time-dt-v0.0.1                          122111
+Time-Duration-Concise-Localize-2.61     122112
+Time-List-0.13                          122113
+Time-Piece-Plus-0.05                    122113
+Finance-Contract-0.010                  122114
