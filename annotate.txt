@@ -4627,3 +4627,10 @@ Time-Duration-Concise-Localize-2.61     122112
 Time-List-0.13                          122113
 Time-Piece-Plus-0.05                    122113
 Finance-Contract-0.010                  122114
+Graphics-Fig-v1.0.2                     122059
+SQL-Schema-Versioned-0.21               122145
+Beam-Runner-0.012                       https://github.com/preaction/Beam-Runner/issues/11
+JSON-Tiny-0.56                          122139
+JobCenter-Client-Mojo-0.22              https://github.com/a6502/JobCenter-Client-Mojo/issues/1
+WWW-Scraper-ISBN-Blackwell_Driver-0.10  122155
+Perl6-Controls-0.000003                 122156
