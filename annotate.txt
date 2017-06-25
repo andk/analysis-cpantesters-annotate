@@ -4645,3 +4645,8 @@ Keyword-Value-v0.1.1                    122185
 Log-ger-OptAway-0.002                   122192
 Log-ger-Output-LogAny-0.003             122193
 Test-PDL-0.13                           122194
+Feersum-1.405                           122177
+Catalyst-View-Template-Lace-0.004       121385,https://github.com/jjn1056/Catalyst-View-Template-Lace/issues/1
+Catmandu-MARC-1.13                      https://github.com/LibreCat/Catmandu-MARC/issues/71
+Google-Ads-AdWords-Client-4.15.0        118509
+Keyword-TreeFold-v0.1.1                 122184
