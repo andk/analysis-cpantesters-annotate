@@ -4641,3 +4641,7 @@ Text-FIGlet-2.19.3                      122198
 Test2-Harness-0.000013                  https://github.com/Test-More/Test2-Harness/issues/14
 Test2-Plugin-IOSync-0.000007            122200
 Yote-Server-1.26                        122201
+Keyword-Value-v0.1.1                    122185
+Log-ger-OptAway-0.002                   122192
+Log-ger-Output-LogAny-0.003             122193
+Test-PDL-0.13                           122194
