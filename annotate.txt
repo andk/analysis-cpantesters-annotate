@@ -4635,3 +4635,9 @@ JobCenter-Client-Mojo-0.22              https://github.com/a6502/JobCenter-Clien
 WWW-Scraper-ISBN-Blackwell_Driver-0.10  122155
 Perl6-Controls-0.000003                 122156
 Acme-Tools-0.21                         121321
+Log-ger-Output-LogAny-0.004             122193
+Mail-BIMI-1.20170624                    122197
+Text-FIGlet-2.19.3                      122198
+Test2-Harness-0.000013                  https://github.com/Test-More/Test2-Harness/issues/14
+Test2-Plugin-IOSync-0.000007            122200
+Yote-Server-1.26                        122201
