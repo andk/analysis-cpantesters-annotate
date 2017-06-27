@@ -4657,3 +4657,17 @@ PPI-Xref-0.010                          122218
 Algorithm-VSM-1.70                      122219
 Mojolicious-Plugin-ConfigAny-0.1.3      122220
 JSON-Assert-0.05                        122223
+Barcode-ZBar-0.04                       122061
+Image-Base-Magick-4                     122224
+Acme-AutoloadAll-0.005                  122239
+Data-Frame-0.003                        122240
+Module-CheckDep-Version-0.02            https://github.com/stevieb9/module-checkdep-version/issues/1
+Email-Fingerprint-0.48                  122241
+Music-Tag-Amazon-0.4101                 122242
+Music-Tag-File-0.4101                   122242
+Music-Tag-FLAC-0.4101                   122242
+Music-Tag-LyricsFetcher-0.4101          122242
+Music-Tag-M4A-0.4101                    122242
+Music-Tag-MP3-0.4101                    122242
+Music-Tag-MusicBrainz-0.4101            122242
+Plack-Middleware-DebugLogging-0.001005  https://github.com/mattp-/Plack-Middleware-DebugLogging/issues/4
