@@ -4671,3 +4671,4 @@ Music-Tag-M4A-0.4101                    122242
 Music-Tag-MP3-0.4101                    122242
 Music-Tag-MusicBrainz-0.4101            122242
 Plack-Middleware-DebugLogging-0.001005  https://github.com/mattp-/Plack-Middleware-DebugLogging/issues/4
+Devel-FindRef-1.45                      122264
