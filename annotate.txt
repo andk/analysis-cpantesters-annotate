@@ -4672,3 +4672,7 @@ Music-Tag-MP3-0.4101                    122242
 Music-Tag-MusicBrainz-0.4101            122242
 Plack-Middleware-DebugLogging-0.001005  https://github.com/mattp-/Plack-Middleware-DebugLogging/issues/4
 Devel-FindRef-1.45                      122264
+Bio-IlluminaSAV-1.0.9706                122244
+CGI-IDS-1.0217                          122256
+Module-CheckDep-Version-0.05            https://github.com/stevieb9/module-checkdep-version/issues/1
+Workflow-1.44                           https://github.com/jonasbn/perl-workflow/issues/13
