@@ -4676,3 +4676,4 @@ Bio-IlluminaSAV-1.0.9706                122244
 CGI-IDS-1.0217                          122256
 Module-CheckDep-Version-0.05            https://github.com/stevieb9/module-checkdep-version/issues/1
 Workflow-1.44                           https://github.com/jonasbn/perl-workflow/issues/13
+Template-Mustache-1.0.0_0               https://github.com/yanick/Template-Mustache/issues/45
