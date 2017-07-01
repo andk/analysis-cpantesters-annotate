@@ -4682,3 +4682,4 @@ WebService-Freshservice-0.003           122283
 WebService-Spotify-1.003                122284
 WebService-OMDB-1.140440                https://github.com/andrewrjones/perl5-WebService-OMDBAPI/issues/2
 Dist-Zilla-Plugin-WSDL-0.207            https://github.com/mjgardner/Dist-Zilla-Plugin-WSDL/issues/2
+XML-Compile-SOAP-Daemon-3.12            122304
