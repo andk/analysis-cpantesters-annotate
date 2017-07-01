@@ -4683,3 +4683,10 @@ WebService-Spotify-1.003                122284
 WebService-OMDB-1.140440                https://github.com/andrewrjones/perl5-WebService-OMDBAPI/issues/2
 Dist-Zilla-Plugin-WSDL-0.207            https://github.com/mjgardner/Dist-Zilla-Plugin-WSDL/issues/2
 XML-Compile-SOAP-Daemon-3.12            122304
+Git-Release-0.05                        122298
+Triglav-Client-0.03                     122299
+Algorithm-Simplex-0.43                  122300
+PRANG-0.20                              122301
+Domain-Register-DomainShare-1.02        122302
+HPCI-0.52                               120461
+Log-Dispatch-Growl-1.0.0                https://github.com/gugod/Log-Dispatch-Growl/issues/1
