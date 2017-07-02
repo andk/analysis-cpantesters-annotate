@@ -4705,4 +4705,10 @@ Apache-DBI-Cache-0.08                   122320
 App-Chart-260                           122321
 Gtk2-Ex-Datasheet-DBI-2.1               122322
 Array-Splice-0.04                       122323
-
+BPM-XPDL-0.93                           122324
+IPC-MMA-0.81                            122326
+Catalyst-Plugin-Authentication-Credential-Flickr-0.05 122327
+CGI-Widget-0.15                         122328
+Log-ger-Plugin-SingleLog-0.001          122329
+Crypt-Libmcrypt-1.0.5                   122330
+Data-Describe-1.03                      122331
