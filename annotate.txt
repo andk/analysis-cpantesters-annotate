@@ -4690,3 +4690,9 @@ PRANG-0.20                              122301
 Domain-Register-DomainShare-1.02        122302
 HPCI-0.52                               120461
 Log-Dispatch-Growl-1.0.0                https://github.com/gugod/Log-Dispatch-Growl/issues/1
+Debug-Flags-0.26                        122307,122309
+KSx-Highlight-Summarizer-0.06           122308
+KSx-Search-WildCardQuery-0.05           122308
+LWP-Online-1.08                         114154,122310
+Perl-Dist-1.16                          122312
+
