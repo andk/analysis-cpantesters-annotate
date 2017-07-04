@@ -4712,3 +4712,10 @@ CGI-Widget-0.15                         122328
 Log-ger-Plugin-SingleLog-0.001          122329
 Crypt-Libmcrypt-1.0.5                   122330
 Data-Describe-1.03                      122331
+ELF-Extract-Sections-1.001004-TRIAL     https://github.com/kentnl/ELF-Extract-Sections/issues/2
+Catmandu-VIAF-0.04                      122342
+Class-Modular-0.05                      122343
+Deco-0.12                               122344
+DirDB-0.12                              122345
+DirDB-Storable-0.07                     122346
+HTML-WidgetValidator-0.0.3              122347
