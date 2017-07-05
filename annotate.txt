@@ -4720,3 +4720,4 @@ DirDB-0.12                              122345
 DirDB-Storable-0.07                     122346
 HTML-WidgetValidator-0.0.3              122347
 PICA-Data-0.32                          https://github.com/gbv/PICA-Data/issues/23
+SPVM-0.0207                             122360
