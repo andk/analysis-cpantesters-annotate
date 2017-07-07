@@ -4733,3 +4733,8 @@ IO-File-Log-1.01                        34778
 RDF-YAML-0.11                           122369
 Sub-Versive-0.01                        122370
 Module-Metadata-CoreList-1.08           122374
+IPC-Transit-1.171860                    https://github.com/dana/perl-IPC-Transit/issues/2
+Dir-ls-0.002                            122379
+Image-Sane-0.13                         122380
+Net-ZooIt-0.21                          122317
+Git-MoreHooks-0.005                     122386
