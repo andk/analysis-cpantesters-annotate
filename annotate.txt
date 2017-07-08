@@ -4738,3 +4738,7 @@ Dir-ls-0.002                            122379
 Image-Sane-0.13                         122380
 Net-ZooIt-0.21                          122317
 Git-MoreHooks-0.005                     122386
+Prty-1.114                              122354
+Test2-Plugin-IOSync-0.000008            122200
+App-Math-Tutor-0.005                    122392
+MarpaX-Languages-M4-0.017               122395
