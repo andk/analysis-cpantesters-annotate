@@ -4749,3 +4749,10 @@ PerlIO-http-0.003                       122403
 RayApp-2.004                            113306
 Tk-AbstractCanvas-1.6                   122404,122405
 XML-Tidy-1.18                           122406
+W3C-XHTML-HTMLCompatChecker-0.10        122411
+Net-ZooIt-0.22                          122317
+Sslscan-Parser-0.02                     122412
+POE-Filter-SSL-0.32                     122428
+Syntax-Highlight-WithEmacs-0.2          122430
+Device-USB-TEMPer1F-0.04                120478
+Device-USB-PX1674-1.04                  122442
