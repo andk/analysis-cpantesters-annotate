@@ -2480,7 +2480,6 @@ Parallel-Tiny-0.03                      115211
 Chemistry-Mol-0.37                      115215
 Stash-REST-0.10                         https://github.com/renatocron/Stash-REST/issues/2
 Catalyst-Plugin-Browser-0.08            115259
-https://github.com/kentnl/Dist-Zilla-PluginBundle-Author-KENTNL/issues/1
 Catalyst-View-Reproxy-0.05              115266
 DBI-Shell-11.95                         43524
 CSS-Sass-3.3.4                          115024
@@ -2741,7 +2740,7 @@ Dancer2-Plugin-UnicodeNormalize-0.033   115180
 Dancer2-Serializer-JSONMaybeXS-0.001    https://github.com/Grinnz/Dancer2-Serializer-JSONMaybeXS/issues/1
 WWW-Search-Ebay-3.045                   115225
 Erlang-Parser-0.5                       115216
-Dist-Zilla-PluginBundle-Author-KENTNL-2.025010
+Dist-Zilla-PluginBundle-Author-KENTNL-2.025010 https://github.com/kentnl/Dist-Zilla-PluginBundle-Author-KENTNL/issues/1
 ack-2.14                                https://github.com/petdance/ack2/issues/602
 Devel-NYTProf-Callgrind-TicksDiff-0.04  115284
 SVG-Estimate-1.0002                     https://github.com/rizen/SVG-Estimate/issues/1
@@ -2876,8 +2875,7 @@ Tickit-Widget-SparkLine-0.105           116424
 CPAN-Testers-Common-Client-0.13         https://github.com/garu/CPAN-Testers-Common-Client/issues/8
 LWPx-TimedHTTP-1.8                      116429
 Tcl-pTk-0.90                            116430,116432
-RDF-Lazy-0.09
-https://github.com/nichtich/RDF-Lazy/issues/6,https://github.com/nichtich/RDF-Lazy/issues/5
+RDF-Lazy-0.09                           https://github.com/nichtich/RDF-Lazy/issues/6,https://github.com/nichtich/RDF-Lazy/issues/5
 HTML-HeadParser-Liberal-0.03            https://github.com/lestrrat/p5-HTML-HeadParser-Liberal/issues/5
 Net-SMS-MunduSMS-0.021                  116435
 WWW-DataWiki-0.001                      102432
@@ -2890,8 +2888,7 @@ Zabbix-ServerScript-0.06                https://github.com/Akint/Zabbix-ServerSc
 XML-WBXML-0.09                          https://github.com/ivanych/XML-WBXML/issues/1
 App-Mimosa-0.02                         116447
 DBIx-DBHResolver-Strategy-RoundRobin-0.02 68256
-Dist-Zilla-PluginBundle-Author-HAYOBAAN-0.009
-https://github.com/HayoBaan/Dist-Zilla-PluginBundle-Author-HAYOBAAN/issues/2
+Dist-Zilla-PluginBundle-Author-HAYOBAAN-0.009 https://github.com/HayoBaan/Dist-Zilla-PluginBundle-Author-HAYOBAAN/issues/2
 Biblio-RFID-0.03                        116462
 Class-OWL-0.0.6                         70543
 Data-Sah-Resolve-0.003                  116464
@@ -4356,8 +4353,7 @@ Net-WebSocket-0.021                     121299
 Mojolicious-Plugin-SQLiteViewerLite-0.13 121301
 AnyEvent-TLS-SNI-0.03                   https://github.com/nalobin/AnyEvent-TLS-SNI/issues/2
 Barcode-Code128-2.21                    121307
-Catalyst-ActionRole-MethodSignatureDependencyInjection-0.0200
-https://github.com/jjn1056/Catalyst-ActionRole-MethodSignatureDependencyInjection/issues/3
+Catalyst-ActionRole-MethodSignatureDependencyInjection-0.0200 https://github.com/jjn1056/Catalyst-ActionRole-MethodSignatureDependencyInjection/issues/3
 CSS-Watcher-0.5.0                       121308
 Unix-Mgt-0.14                           121309
 Type-Tiny-Signatures-0.06               https://github.com/alnewkirk/Type-Tiny-Signatures/issues/1
@@ -4756,3 +4752,8 @@ POE-Filter-SSL-0.32                     122428
 Syntax-Highlight-WithEmacs-0.2          122430
 Device-USB-TEMPer1F-0.04                120478
 Device-USB-PX1674-1.04                  122442
+Dancer-Template-Mustache-1.0.0          https://github.com/yanick/Dancer-Template-Mustache/issues/2
+WebService-CastleIO-1.00                122445
+GraphViz-Graph-0.02                     122452
+Time-Strptime-1.01                      https://github.com/karupanerura/Time-Strptime/issues/9
+AnyEvent-Proc-0.105                     https://github.com/zurborg/libanyevent-proc-perl/issues/2
