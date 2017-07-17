@@ -4771,3 +4771,6 @@ Finance-QuoteHist-1.26                  122510
 Mail-DMARC-1.20170222                   https://github.com/msimerson/mail-dmarc/issues/111
 Mojolicious-Plugin-Template-Mustache-0.01 122511
 Catalyst-View-Template-Lace-0.006       121385,https://github.com/jjn1056/Catalyst-View-Template-Lace/issues/1
+CGIS-1.6                                122491
+Class-Builder-1.010                     122492
+Finance-Bank-Postbank_de-0.46           122506
