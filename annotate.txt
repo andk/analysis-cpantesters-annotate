@@ -4774,3 +4774,9 @@ Catalyst-View-Template-Lace-0.006       121385,https://github.com/jjn1056/Cataly
 CGIS-1.6                                122491
 Class-Builder-1.010                     122492
 Finance-Bank-Postbank_de-0.46           122506
+POE-Filter-SSL-0.33                     122573
+Time-Moment-Epoch-1.003                 122574
+PlugAuth-0.36                           https://github.com/clustericious/PlugAuth/issues/3
+Finance-QuoteHist-1.27                  122510
+POEx-Tickit-0.04                        122589
+Sys-PageCache-0.04                      122591
