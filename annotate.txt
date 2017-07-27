@@ -4789,3 +4789,6 @@ Text-VimColor-0.26                      121756
 Coro-ProcessPool-0.26                   122565
 AnyEvent-GnuPG-1.001                    https://github.com/zurborg/libanyevent-gnupg-perl/issues/2
 Asterisk-CoroManager-0.11               122602
+Business-PayPal-0.18                    118450
+Inline-Java-0.58                        122606
+Kossy-0.40                              https://github.com/kazeburo/Kossy/issues/11
