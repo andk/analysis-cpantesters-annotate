@@ -4792,3 +4792,17 @@ Asterisk-CoroManager-0.11               122602
 Business-PayPal-0.18                    118450
 Inline-Java-0.58                        122606
 Kossy-0.40                              https://github.com/kazeburo/Kossy/issues/11
+Net-Curl-0.38                           https://github.com/sparky/perl-Net-Curl/issues/23
+DateTime-Format-Human-Duration-Simple-0.02 https://github.com/toreau/DateTime-Format-Human-Duration-Simple/issues/1
+Criteria-Compile-0.047                  122625
+App-Module-Template-0.11                122635
+Audio-SndFile-0.09                      122636,122637
+PITA-XML-0.52                           122638,122639
+Crypt-PKCS11-1.03                       122640
+Log-Journald-0.20                       122642
+Net-Social-Mapper-0.5                   122643
+Mojo-JSON_XS-1.003                      https://github.com/niczero/mojo-jsonxs/issues/2
+Date-LibICal-0.01                       122645
+App-RecordStream-4.0.23                 122646
+Mojo-JSON-MaybeXS-0.012                 https://github.com/Grinnz/Mojo-JSON-MaybeXS/issues/3
+Apache-SWIT-0.54                        122647
