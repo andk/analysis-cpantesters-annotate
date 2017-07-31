@@ -4806,3 +4806,5 @@ Date-LibICal-0.01                       122645
 App-RecordStream-4.0.23                 122646
 Mojo-JSON-MaybeXS-0.012                 https://github.com/Grinnz/Mojo-JSON-MaybeXS/issues/3
 Apache-SWIT-0.54                        122647
+Scope-Escape-Sugar-0.002                122650
+WWW-Offliberty-1.000005                 122651
