@@ -4809,3 +4809,8 @@ Apache-SWIT-0.54                        122647
 Scope-Escape-Sugar-0.002                122650
 WWW-Offliberty-1.000005                 122651
 Inline-Python-0.55                      122664
+App-Gallery-0.001                       122663
+Graphics-TIFF-5                         122665
+MarpaX-Languages-M4-0.018               122674
+Text-Password-AutoMigration-0.01        https://github.com/worthmine/Text-Password-AutoMigration/issues/1
+Text-vCard-Precisely-0.04               https://github.com/worthmine/Text-vCard-Precisely/issues/2
