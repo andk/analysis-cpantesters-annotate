@@ -4814,3 +4814,8 @@ Graphics-TIFF-5                         122665
 MarpaX-Languages-M4-0.018               122674
 Text-Password-AutoMigration-0.01        https://github.com/worthmine/Text-Password-AutoMigration/issues/1
 Text-vCard-Precisely-0.04               https://github.com/worthmine/Text-vCard-Precisely/issues/2
+Text-Password-AutoMigration-0.02        https://github.com/worthmine/Text-Password-AutoMigration/issues/1
+Data-Edit-Xml-Lint-20170801             122596
+Catalyst-View-Template-Lace-0.007       121385,https://github.com/jjn1056/Catalyst-View-Template-Lace/issues/1
+DateTime-Format-Strptime-1.73           https://github.com/houseabsolute/DateTime-Format-Strptime/issues/18
+URI-UTF8-Punycode-1.05                  122593
