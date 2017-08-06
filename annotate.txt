@@ -4824,3 +4824,11 @@ POE-Component-Client-Twitter-0.01       66970
 GnuPG-0.19                              117002
 HPC-Runner-Command-Plugin-Logger-Sqlite-0.01 122705
 Log-ger-Output-Callback-0.002           122712
+Chart-HeatMap-Simple-0.01               122721
+Net-Icecast2-0.005                      https://github.com/R3VoLuT1OneR/Net-Icecast2/issues/2
+PITA-Scheme-0.43                        122725
+CGI-Application-Plugin-BREAD-0.12_2     122726
+HTML-Pager-0.03                         122727
+GD-Map-1.00                             122729
+DBIx-Class-InflateColumn-S3-0.01        hidden MacOSX files, no bugtracker
+Data-Validate-XSD-1.05                  122730
