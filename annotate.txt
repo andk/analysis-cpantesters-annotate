@@ -4832,3 +4832,8 @@ HTML-Pager-0.03                         122727
 GD-Map-1.00                             122729
 DBIx-Class-InflateColumn-S3-0.01        hidden MacOSX files, no bugtracker
 Data-Validate-XSD-1.05                  122730
+WordNet-Extend-1.000                    122732
+Google-Ads-AdWords-Client-4.16.0        118509
+Map-Tube-3.33                           122765
+SQLite_File-0.1001                      122766
+Catalyst-View-Template-Lace-0.008       121385,https://github.com/jjn1056/Catalyst-View-Template-Lace/issues/1
