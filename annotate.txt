@@ -4837,3 +4837,6 @@ Google-Ads-AdWords-Client-4.16.0        118509
 Map-Tube-3.33                           122765
 SQLite_File-0.1001                      122766
 Catalyst-View-Template-Lace-0.008       121385,https://github.com/jjn1056/Catalyst-View-Template-Lace/issues/1
+Hash-SharedMem-0.005                    122775
+Tie-REHash-1.07                         122776
+Data-Edit-Xml-Lint-20170802             122789
