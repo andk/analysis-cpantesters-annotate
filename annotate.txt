@@ -4840,3 +4840,9 @@ Catalyst-View-Template-Lace-0.008       121385,https://github.com/jjn1056/Cataly
 Hash-SharedMem-0.005                    122775
 Tie-REHash-1.07                         122776
 Data-Edit-Xml-Lint-20170802             122789
+Data-Table-Text-20170815                122814
+App-Music-ChordPro-0.85                 122815
+WWW-CheckGzip-0.01                      122816
+SPVM-0.0245                             122817
+Cloudinary-0.15                         https://github.com/jhthorsen/cloudinary/issues/2
+Text-IQ-0.005                           121152
