@@ -4849,3 +4849,4 @@ Text-IQ-0.005                           121152
 App-Music-ChordPro-0.86                 122815
 Dist-Zilla-Plugin-RequiresExternal-1.007 https://github.com/mjgardner/Dist-Zilla-Plugin-RequiresExternal/issues/7
 WWW-CheckGzip-0.02                      https://github.com/benkasminbullock/www-checkgzip/issues/1
+Error-ROP-0.02                          https://github.com/paudirac/Error-ROP/issues/3
