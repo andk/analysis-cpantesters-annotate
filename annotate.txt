@@ -4853,3 +4853,6 @@ Error-ROP-0.02                          https://github.com/paudirac/Error-ROP/is
 Devel-Jemallctl-0.02                    122844
 SPVM-0.0248                             122817
 OpenAPI-Client-0.03                     122848
+Algorithm-Cluster-1.53                  120442
+Statistics-Multtest-0.14                122859
+PPR-0.000012                            122860
