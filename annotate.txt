@@ -4864,3 +4864,11 @@ IPC-MorseSignals-0.17                   117528, module is deprecated
 Math-Transform-List-20170808            122865
 Devel-DebugHooks-0.05                   122872
 HTTP-Cookies-Safari-1.152               122874
+Resource-Pack-0.03                      122855
+WWW-Search-Ebay-Europe-2.017            122876
+List-MoreUtils-0.423                    122875
+UR-0.46                                 https://github.com/genome/UR/issues/136
+CPAN-Testers-Reports-Counts-0.05        122886
+Device-Chip-AnalogConverters-0.01       122887
+Unicode-BiDiRule-0.03                   122862
+WebService-Europeana-0.0.2              https://github.com/hatorikibble/webservice-europeana/issues/1
