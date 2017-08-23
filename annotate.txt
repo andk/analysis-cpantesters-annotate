@@ -4872,3 +4872,4 @@ CPAN-Testers-Reports-Counts-0.05        122886
 Device-Chip-AnalogConverters-0.01       122887
 Unicode-BiDiRule-0.03                   122862
 WebService-Europeana-0.0.2              https://github.com/hatorikibble/webservice-europeana/issues/1
+ETL-Yertl-0.029                         https://github.com/preaction/ETL-Yertl/issues/153
