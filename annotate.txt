@@ -4858,3 +4858,9 @@ Statistics-Multtest-0.14                122859
 PPR-0.000012                            122860
 Mail-OpenDKIM-4204                      122861
 POE-Filter-SSL-0.34                     122573
+Sereal-Encoder-3.015                    https://github.com/Sereal/Sereal/issues/173
+AnyEvent-DBI-3.0                        122863
+IPC-MorseSignals-0.17                   117528, module is deprecated
+Math-Transform-List-20170808            122865
+Devel-DebugHooks-0.05                   122872
+HTTP-Cookies-Safari-1.152               122874
