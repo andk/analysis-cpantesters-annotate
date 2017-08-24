@@ -4873,3 +4873,7 @@ Device-Chip-AnalogConverters-0.01       122887
 Unicode-BiDiRule-0.03                   122862
 WebService-Europeana-0.0.2              https://github.com/hatorikibble/webservice-europeana/issues/1
 ETL-Yertl-0.029                         https://github.com/preaction/ETL-Yertl/issues/153
+Net-LDNS-0.75                           119935
+W3C-LogValidator-1.5                    117591
+Math-Transform-List-20170821            122865
+Catalyst-View-Template-Lace-0.009       121385,https://github.com/jjn1056/Catalyst-View-Template-Lace/issues/1
