@@ -4877,3 +4877,11 @@ Net-LDNS-0.75                           119935
 W3C-LogValidator-1.5                    117591
 Math-Transform-List-20170821            122865
 Catalyst-View-Template-Lace-0.009       121385,https://github.com/jjn1056/Catalyst-View-Template-Lace/issues/1
+Math-Transform-List-20170822            122865
+DateTime-Format-JSON-MicrosoftDateFormat-0.03 122895
+Net-PMP-Profile-0.101                   122896
+API-Drip-Request-0.03                   122898
+Number-RangeTracker-v0.6.1              99815
+RRD-Tweak-1.00                          122901
+Vimana-2.26                             122902
+WebService-NetSuite-0.05                118954
