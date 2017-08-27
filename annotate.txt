@@ -4885,3 +4885,4 @@ Number-RangeTracker-v0.6.1              99815
 RRD-Tweak-1.00                          122901
 Vimana-2.26                             122902
 WebService-NetSuite-0.05                118954
+WWW-Analytics-MultiTouch-0.36           122907
