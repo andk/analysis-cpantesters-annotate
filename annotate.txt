@@ -4886,3 +4886,5 @@ RRD-Tweak-1.00                          122901
 Vimana-2.26                             122902
 WebService-NetSuite-0.05                118954
 WWW-Analytics-MultiTouch-0.36           122907
+Perinci-Sub-GetArgs-Argv-0.83           122903
+RDF-Notation3-0.91                      72828,122904
