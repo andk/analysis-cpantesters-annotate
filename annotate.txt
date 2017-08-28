@@ -4888,3 +4888,9 @@ WebService-NetSuite-0.05                118954
 WWW-Analytics-MultiTouch-0.36           122907
 Perinci-Sub-GetArgs-Argv-0.83           122903
 RDF-Notation3-0.91                      72828,122904
+Elastic-Model-0.52                      https://github.com/clintongormley/Elastic-Model/issues/45
+Net-Google-Calendar-Server-0.1          122905
+File-Stat-Trigger-0.05                  122906
+Algorithm-DistanceMatrix-0.04           https://github.com/chadadavis/Algorithm-DistanceMatrix/issues/2
+Tk-LockDisplay-1.3                      122913
+Catalyst-View-Template-Lace-0.010       121385,https://github.com/jjn1056/Catalyst-View-Template-Lace/issues/1
