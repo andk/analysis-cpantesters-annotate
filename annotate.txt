@@ -4894,3 +4894,4 @@ File-Stat-Trigger-0.05                  122906
 Algorithm-DistanceMatrix-0.04           https://github.com/chadadavis/Algorithm-DistanceMatrix/issues/2
 Tk-LockDisplay-1.3                      122913
 Catalyst-View-Template-Lace-0.010       121385,https://github.com/jjn1056/Catalyst-View-Template-Lace/issues/1
+Finance-Loan-Repayment-1.0              122918
