@@ -4908,3 +4908,8 @@ Mylisp-1.05                             123004
 BioX-Workflow-Command-2.2.3             123014
 Dios-0.002011                           123015
 JSON-Schema-ToJSON-0.11                 123016
+Pod-POM-Web-1.22                        123017
+SVN-S4-1.066                            https://www.veripool.org/issues/1207-SVN::S4-Non-portable-use-of-xargs,https://www.veripool.org/issues/1208-SVN::S4-FS-format-7
+TeX-Encode-2.002                        https://github.com/athreef/TeX-Encode/issues/2
+Geo-OSM-DBI-0.01                        123024,123025
+Test-Clustericious-Blocking-0.05        https://github.com/clustericious/Test-Clustericious-Blocking/issues/5
