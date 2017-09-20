@@ -4915,3 +4915,4 @@ HTTP-Client-1.57                        123051
 AnsibleModule-0.4                       109959
 BioPerl-Run-1.007002                    123058
 DBD-Multi-1.01                          https://github.com/dwright/DBD-Multi/issues/2
+Role-MimeInfo-0.01                      https://github.com/doriantaylor/p5-role-mimeinfo/issues/1
