@@ -4916,3 +4916,11 @@ AnsibleModule-0.4                       109959
 BioPerl-Run-1.007002                    123058
 DBD-Multi-1.01                          https://github.com/dwright/DBD-Multi/issues/2
 Role-MimeInfo-0.01                      https://github.com/doriantaylor/p5-role-mimeinfo/issues/1
+Config-Model-Itself-2.011               https://github.com/dod38fr/config-model-itself/issues/2
+Data-Sah-0.88                           123089
+JPList-0.04                             123090
+App-calendr-0.21                        123094
+Data-Sah-Coerce-0.023                   123095
+Syntax-Highlight-Engine-Simple-HTML-0.04 123096
+Syntax-Highlight-Engine-Simple-Perl-0.04 110323,123097
+CGI-Buffer-0.79                         123101
