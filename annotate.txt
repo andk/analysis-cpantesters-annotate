@@ -4929,3 +4929,6 @@ YAML-Perl-0.12                          123103
 Google-Ads-AdWords-Client-4.17.0        118509
 POSIX-1003-0.98                         123109
 Business-OnlinePayment-BitPay-KeyUtils-2.0.1 123112
+EBook-EPUB-Check-0.04                   https://github.com/pawa-/EBook-EPUB-Check/issues/1
+libsoldout-0.02                         123113
+Test-UNIXSock-0.2                       https://github.com/fujiwara/Test-UNIXSock/issues/3
