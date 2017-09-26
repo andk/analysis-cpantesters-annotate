@@ -4936,3 +4936,4 @@ PDF-Builder-3.006                       123123
 PFT-v1.2.1                              116333
 Catalyst-View-Template-Lace-0.011       121385,https://github.com/jjn1056/Catalyst-View-Template-Lace/issues/1,123125
 Mojolicious-Plugin-Loop-0.02            https://github.com/jhthorsen/mojolicious-plugin-loop/issues/1
+JPList-0.05                             123090
