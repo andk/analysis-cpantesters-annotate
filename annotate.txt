@@ -4932,3 +4932,6 @@ Business-OnlinePayment-BitPay-KeyUtils-2.0.1 123112
 EBook-EPUB-Check-0.04                   https://github.com/pawa-/EBook-EPUB-Check/issues/1
 libsoldout-0.02                         123113
 Test-UNIXSock-0.2                       https://github.com/fujiwara/Test-UNIXSock/issues/3
+PDF-Builder-3.006                       123123
+PFT-v1.2.1                              116333
+Catalyst-View-Template-Lace-0.011       121385,https://github.com/jjn1056/Catalyst-View-Template-Lace/issues/1,123125
