@@ -4938,3 +4938,5 @@ Catalyst-View-Template-Lace-0.011       121385,https://github.com/jjn1056/Cataly
 Mojolicious-Plugin-Loop-0.02            https://github.com/jhthorsen/mojolicious-plugin-loop/issues/1
 JPList-0.05                             123090
 Dancer2-Plugin-Paginator-2.0            https://github.com/manwar/Dancer2-Plugin-Paginator/issues/2
+Geo-Coder-Cache-0.06                    123135
+WebService-Qiita-V2-0.01                123152
