@@ -4941,3 +4941,4 @@ Dancer2-Plugin-Paginator-2.0            https://github.com/manwar/Dancer2-Plugin
 Geo-Coder-Cache-0.06                    123135
 WebService-Qiita-V2-0.01                123152
 ClearPress-v476.4.2                     https://rt.cpan.org/Ticket/Display.html?id=123164
+Bencode-1.500                           https://github.com/ap/Bencode/issues/4
