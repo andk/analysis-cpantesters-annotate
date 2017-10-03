@@ -4942,3 +4942,6 @@ Geo-Coder-Cache-0.06                    123135
 WebService-Qiita-V2-0.01                123152
 ClearPress-v476.4.2                     https://rt.cpan.org/Ticket/Display.html?id=123164
 Bencode-1.500                           https://github.com/ap/Bencode/issues/4
+QBit-Application-Model-DB-clickhouse-0.005 123073
+Mojo-IOLoop-ReadWriteProcess-0.08       123176
+Config-Model-Backend-Augeas-0.121       https://github.com/dod38fr/config-model/issues/14
