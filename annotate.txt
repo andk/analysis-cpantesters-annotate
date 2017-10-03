@@ -4945,3 +4945,9 @@ Bencode-1.500                           https://github.com/ap/Bencode/issues/4
 QBit-Application-Model-DB-clickhouse-0.005 123073
 Mojo-IOLoop-ReadWriteProcess-0.08       123176
 Config-Model-Backend-Augeas-0.121       https://github.com/dod38fr/config-model/issues/14
+CPAN-Testers-API-0.019                  https://github.com/cpan-testers/cpantesters-api/issues/14
+Log-Any-Adapter-LinuxJournal-0.172762   123181
+String-Tagged-Terminal-0.01             123182
+Mylisp-2.0                              123183,123184
+Linux-Systemd-1.172760                  https://github.com/ioanrogers/Linux-Systemd/issues/3
+Mashtree-0.21                           121971
