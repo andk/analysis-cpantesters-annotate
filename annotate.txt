@@ -810,7 +810,6 @@ App-Basis-ConvertText2-0.4              99874
 AnyData-0.11                            99916
 CSS-Selector-Grammar-0.002              99919
 File-Where-0.05                         99920
-App-Git-Workflow-0.13                   https://github.com/ivanwills/git-workflow-tools/issues/3
 App-Goto-0.07                           https://github.com/oneandoneis2/App-Goto/issues/1
 getaddress-0.04                         99966
 Number-Format-1.73                      97607
