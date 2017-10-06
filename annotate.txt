@@ -2978,7 +2978,6 @@ Alien-LibUSBx-0.12                      116731
 Gtk3-Notify-0.01                        109171
 WWW-TheEchoNest-1.1                     116742
 MetaCPAN-Client-1.022001                https://github.com/metacpan/metacpan-client/issues/44
-Config-Model-Backend-Augeas-0.118       116750
 Consul-Simple-1.142430                  https://github.com/dana/perl-Consul-Simple/issues/1
 FCGI-Engine-0.22                        116751
 WWW-Scraper-ISBN-Blackwell_Driver-0.09  106780
@@ -4894,13 +4893,11 @@ Finance-Loan-Repayment-1.0              122918
 WWW-Alexa-TrafficRank-1.11              122935
 Unix-Processors-2.045                   122943
 BSD-Process-0.07                        122947
-QBit-Application-Model-DB-clickhouse-0.001 122954
 Word2vec-Interface-0.036                122998
 ElasticEmail-0.02                       122999
 Connector-1.23                          123001
 WebService-NextEpisode-0.001            https://github.com/athreef/WebService-NextEpisode/issues/1
 Proc-Swarm-1.161060                     https://github.com/dana/perl-Proc-Swarm/issues/2
-Mylisp-1.05                             123004
 BioX-Workflow-Command-2.2.3             123014
 Dios-0.002011                           123015
 JSON-Schema-ToJSON-0.11                 123016
@@ -4949,4 +4946,5 @@ Log-Any-Adapter-LinuxJournal-0.172762   123181
 String-Tagged-Terminal-0.01             123182
 Mylisp-2.0                              123183,123184
 Linux-Systemd-1.172760                  https://github.com/ioanrogers/Linux-Systemd/issues/3
-Mashtree-0.21                           121971
+Yandex-Disk-0.01                        123199
+Mashtree-0.24                           121971
