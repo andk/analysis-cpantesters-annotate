@@ -103,14 +103,12 @@ Catalyst-Model-Akismet-0.04             54995
 Socialtext-WikiTest-0.07                63827
 String-Boolean-0.02                     64007
 Devel-Assert-0.02                       64006
-Devel-BeginLift-0.001003                64033
 Acme-Archive-Mbox-0.01                  64244
 Scalar-Cycle-Manual-0.03.6              57679
 File-Filename-1.05                      61462
 Scope-Session-0.02                      64292
 Text-Textile-Plaintext-0.101            64333
 Net-Stitcho-0.03                        64379
-HTML-Hyphenate-0.05                     bug in irrelevant HTML::TreeBuilder 4.0
 Google-Spreadsheet-Agent-0.02           64393
 Flame-Palette-0.02                      64425
 AnyEvent-MongoDB-0.103620_001           undeclared dependency on aliased but no RT queue
@@ -184,7 +182,6 @@ Table-Wave-0.02                         72510
 Pod-Trac-0.0.1                          72547
 Plack-Middleware-QRCode-0.02            71802
 Angle-Omega-1.00                        72760
-RDF-Notation3-0.91                      62575, 72828
 Devel-Events-0.08                       72895
 Class-Entangle-0.06                     72985
 Module-Install-AssertOS-0.10            73123
@@ -202,7 +199,6 @@ Net-ZooTool-0.0031                      73331
 Geo-Location-TimeZone-0.1               73354
 MooseX-Types-DateTimeX-0.10             73467
 Catalyst-Example-InstantCRUD-0.038      73475
-Clone-Closure-0.06                      69111
 ASP4x-Captcha-Imager-0.003              73499
 Ukigumo-0.01                            73558
 only-matching-0.02                      73637
@@ -282,8 +278,6 @@ XML-Checker-0.13                        75526
 selfvars-0.32                           75528
 File-Stat-Moose-0.06                    75535
 Cond-Expr-0.02                          75844
-Text-Summarize-0.50                     75845
-Data-Transform-SSL-0.03                 75854
 HTTP-Engine-Middleware-0.22             76058
 Catalyst-View-Templated-0.02            76064
 Acme-eng2kor-v0.0.2                     76079
@@ -291,7 +285,6 @@ PITA-Test-Dummy-Perl5-MI-0.77           76084
 Pod-Html-HtmlTree-0.92                  76344
 Role-Basic-0.13                         76486
 AnyEvent-Connection-0.06                76403
-Date-Pcalc-6.1                          76442
 AnyEvent-FlashSocketPolicy-0.03         removed from CPAN
 Net-Stream-0.28                         76545
 Net-Fluidinfo-0.45                      76547
@@ -350,7 +343,6 @@ Catalyst-Engine-Embeddable-0.000003     79128
 AI-Calibrate-1.5                        79145
 MojoX-Renderer-Haml-0.990103            79209
 Role-Log-Syslog-Fast-0.14               79255
-Scope-Escape-0.004                      https://rt.perl.org/rt3/Ticket/Display.html?id=114556
 Math-BigInt-Lite-0.14                   75667
 MooseX-Documenter-0.01                  79319
 Text-Filter-Froggy-0.0.0                79320
@@ -364,12 +356,10 @@ Mojolicious-Plugin-ParamCondition-0.003 79768
 WebService-Pastefire-0.02               79857
 ORDB-CPANMeta-Generator-0.12            67599
 DataCube-1.01                           79957
-Time-Format-1.12                        a case for strace, Date::Manip only a "recommends"
 HTTP-Response-Encoding-0.06             80051
 Clone-Fast-0.97                         43248
 Time-Simple-0.06                        80461
 Lexical-Types-0.12                      https://rt.perl.org/rt3//Public/Bug/Display.html?id=115684
-Runops-Trace-0.14                       https://rt.perl.org/rt3//Public/Bug/Display.html?id=115684
 CatalystX-Controller-Sugar-0.0901       81407
 Net-Qiita-0.03                          81408
 Params-Validate-Checks-0.01             81430
@@ -387,7 +377,6 @@ POE-Component-Client-BigBrother-1.00    81572
 POE-Component-Client-SMTP-0.22          not a randomization problem it seems
 MooseX-Net-API-0.12                     deprecated; see Net::HTTP::API
 Net-Bot-IRC-NumericCodes-0.05           81591
-PITA-XML-0.52                           81592
 Su-0.110                                81595
 Class-Trait-0.31                        81598
 App-Hachero-0.13                        81604
@@ -468,7 +457,6 @@ Class-DBI-FormBuilder-0.483             87214
 LaTeX-TikZ-0.02                         87282
 MyCPAN-Indexer-1.28_12                  87376
 App-Framework-1.06                      87390
-Statistics-MVA-0.0.2                    87426
 WordLists-0.013                         87427
 Catalyst-Plugin-Params-Profile-0.05     87533
 Acme-Tategaki-0.12                      https://github.com/kazuph/Acme-Tategaki/issues/2
@@ -510,7 +498,6 @@ Net-isoHunt-0.102770                    89668
 Locale-Maketext-Gettext-1.28            89768
 JavaScript-Shell-0.02                   89784
 MooseX-Validation-Doctypes-0.05         89815
-Fun-0.05                                89825
 Loop-Sustainable-0.02                   89842
 ExtJS-AutoForm-Moose-0.01               89864
 p5-Text-Xslate-Syntax-Any-1.5015        89873
@@ -543,13 +530,11 @@ Neo4p-0.0001                            has changed name to DBD- and REST-Neo4p
 WebService-HtmlKitCom-FavIconFromImage-0.002 known bug in analysis: does not pick up 0.003
 HTML-FormFu-MultiForm-1.00              91788
 Plack-Middleware-Assets-1.0.0           https://github.com/monken/p5-moosex-attribute-deflator/issues/5
-Javascript-Closure-0.07                 91916
 BDB-Wrapper-0.49                        92073
 DynGig-Multiplex-1.03                   68257
 CatalystX-ExtJS-Direct-2.1.5            92466
 Geo-Coder-Cloudmade-0.7                 88469
 Ham-ADIF-1.3                            92712
-Hailo-0.72                              92795
 Perl6-Slurp-0.051004                    https://rt.perl.org/Ticket/Display.html?id=121198
 Mojolicious-Plugin-YamlConfig-0.1.6     93059
 Lingua-Sentence-1.05                    93063
@@ -599,7 +584,6 @@ Cisco-Regex-0.91                        95703
 Block-NamedVar-0.008                    https://github.com/exodist/Block-NamedVar/issues/3
 Embperl-2.5.0                           95335
 Filesys-POSIX-0.9.12                    95838
-Boost-Geometry-Utils-0.15               https://rt.perl.org/rt3/Ticket/Display.html?id=121826
 Test-DBICSchemaLoaderDigest-0.04        https://github.com/RsrchBoy/test-dbicschemaloaderdigest/issues/2
 ifdef-0.09                              95772 (needs more work)
 Log-Report-1.02                         https://rt.perl.org/Ticket/Display.html?id=121941
@@ -611,7 +595,6 @@ Net-Jabber-2.0                          87436
 Devel-ptkdb-1.1091                      89641
 Cindy-0.19                              Similar fails now with 5.18.2
 DynGig-Range-1.00                       95848
-Socket-Class-2.258                      Similar fails now with 5.18.2
 File-DataClass-0.39.1                   newer release: 0.40.1
 Template-Jade-0.02                      newer release: 0.05
 String-Rexx-0.08                        95554
@@ -637,10 +620,8 @@ DateTime-Util-Calc-0.13002              96232
 Mojolicious-Plugin-ParamsAuth-0.03      96234
 Encode-JP-Emoji-0.60                    https://rt.perl.org/rt3/Ticket/Display.html?id=122029
 Package-DeprecationManager-0.13         96271, wrong positive by AUTHOR_TESTING=1
-String-Simrank-0.079                    https://rt.perl.org/rt3/Ticket/Display.html?id=122077
 PerlIO-via-EscStatus-11                 https://rt.perl.org/Ticket/Display.html?id=122029
 Test-Prereq-1.038_05                    96099
-CGI-IDS-1.0217                          96381
 Sim-OPTS-0.36.9                         96382
 PostScript-Easy-0.01                    https://github.com/ytnobody/PostScript-Easy/issues/2
 MojoX-Validator-0.0014                  96391
@@ -651,10 +632,6 @@ Word-Segmenter-Chinese-Lite-0.01        96408
 POE-Component-Generic-0.1403            96442
 Guard-1.022                             https://rt.perl.org/rt3/Ticket/Display.html?id=122031
 CGI-PrintWrapper-0.11                   96495
-XML-Atom-0.41                           https://rt.perl.org/rt3/Ticket/Display.html?id=122121
-Regexp-Ethiopic-0.15                    https://rt.perl.org/rt3/Ticket/Display.html?id=122121
-WWW-Google-PageRank-0.17                https://rt.perl.org/rt3/Ticket/Display.html?id=122121
-Convert-EastAsianWidth-1.02             https://rt.perl.org/rt3/Ticket/Display.html?id=122121
 WWW-Mechanize-1.73                      https://rt.perl.org/rt3/Ticket/Display.html?id=122121
 CatalystX-Restarter-GTK-0.08            96507
 Net-AMQP-RabbitMQ-0.005005              https://github.com/markwellis/net-amqp-rabbitmq/issues/11
@@ -673,7 +650,6 @@ Prophet-0.751                           88536
 Kavorka-0.030                           https://rt.perl.org/rt3/Ticket/Display.html?id=122159
 App-MusicTools-1.16                     https://rt.perl.org/rt3/Ticket/Display.html?id=122159
 HTML-TagParser-0.20                     86698
-rpm-build-perl-0.82                     85411
 OSDial-3.0.2.124                        96702
 BitStamp-Socket-0.01                    Name change to Finance-BitStamp-Socket
 Finance-BitStamp-Socket-0.02            96704
@@ -687,15 +663,12 @@ Template-Jade-0.05                      https://github.com/EvanCarroll/perl-temp
 Attribute-Storage-0.09                  97071
 XML-Feed-Aggregator-0.0401              waiting for newer URI::Escape than 1.61
 HTML-FormatExternal-22                  waiting for newer URI::Escape than 1.61
-WWW-NOS-Open-0.100                      waiting for newer URI::Escape than 1.61
 WWW-BigDoor-v0.1.1                      waiting for newer URI::Escape than 1.61
 Math-Random-MT-Auto-6.22                waiting for newer URI::Escape than 1.61
-XML-RPC-Fast-0.8                        waiting for newer URI::Escape than 1.61
 HTTP-DAV-0.47                           waiting for newer URI::Escape than 1.61
 URI-SmartURI-0.032                      waiting for newer URI::Escape than 1.61
 HTML-Template-Compiled-Plugin-I18N-1.04 waiting for newer URI::Escape than 1.61
 HTML-Display-0.40                       waiting for newer URI::Escape than 1.61
-App-Sysadmin-Log-Simple-0.009           waiting for newer URI::Escape than 1.61
 BlueCoat-SGOS-1.05                      waiting for newer URI::Escape than 1.61
 URI-Find-Simple-1.05                    waiting for newer URI::Escape than 1.61
 File-Finder-0.53                        43280
@@ -747,22 +720,18 @@ Module-UseFrom-0.03                     98445
 Module-UseFrom-0.03_001                 98445
 WWW-Coursera-0.08                       95237
 Async-ResourcePool-v0.1.3               95242
-Devel-PeekPoke-0.04                     98745
 DSL-Tiny-0.001                          https://github.com/hartzell/dsl-tiny/issues/1
-Lexical-SingleAssignment-0.01           95297
 JavaScript-Dumper-0.011                 95230
 OOPS-0.2005                             95561
 libxml-enno-1.02                        from the year 2000 and newer version 1.05 untested because backpan only
 WebService-Heartrails-Express-0.01      probably temporary network/webservice problem
 App-cpantested-0.003                    https://github.com/creaktive/App-cpantested/issues/2
-DBIx-TextIndex-0.28                     98839
 Dist-Zilla-Plugin-OnlyCorePrereqs-0.017 98841
 OOTools-2.3                             98859
 Text-StemTagPOS-0.61                    98869
 Scope-Upper-0.24                        https://rt.perl.org/rt3/Ticket/Display.html?id=122799
 ConfigReader-Simple-1.29                98445,https://rt.perl.org/Ticket/Display.html?id=122670
 Text-Truncate-1.06                      98445
-WWW-Weather-Yahoo-0.07                  probably temporary network/webservice problem
 Test-Class-0.46                         https://github.com/Test-More/test-more/issues/445
 Carp-Assert-0.21                        https://github.com/Test-More/test-more/issues/447
 Test-Synopsis-0.10                      https://rt.perl.org/Ticket/Display.html?id=122814
@@ -799,7 +768,6 @@ Symbol-Glob-0.03                        99590
 ByteBeat-0.0.4                          https://github.com/ingydotnet/bytebeat-pm/issues/3
 Algorithm-KMeans-2.05                   92551
 YAML-Diff-0.0.2                         https://github.com/ingydotnet/yaml-diff-pm/issues/1
-Params-Lazy-0.005                       https://rt.perl.org/rt3/Ticket/Display.html?id=123052
 B-RecDeparse-0.09                       https://rt.perl.org/rt3/Ticket/Display.html?id=123054
 Devel-Size-0.79                         95493
 CGI-Alert-2.09                          99806
@@ -831,7 +799,6 @@ List-Tuples-0.04.4                      95305
 Lexical-Types-0.13                      https://rt.perl.org/rt3/Ticket/Display.html?id=123149
 DBD-CSV-0.45                            100188
 Net-Graylog-Client-0.3                  100203
-XRI-Resolution-Lite-0.04                probably temporary network/server failure
 Text-Glob-DWIW-0.01                     100207
 Test-Given-0.3.1                        95383
 subs-auto-0.08                          100221
@@ -869,11 +836,10 @@ Devel-ebug-0.56                         100615
 XS-Object-Magic-0.04                    ok.pm victim
 Method-Lexical-0.30                     https://rt.perl.org/rt3/Ticket/Display.html?id=123341
 Test-Vars-0.005                         https://rt.perl.org/rt3/Ticket/Display.html?id=123349
-HTML-Hyphenate-0.05                     100704
+HTML-Hyphenate-0.05                     bug in irrelevant HTML::TreeBuilder 4.0,100704
 Pod-Readme-v1.1.1                       https://rt.perl.org/rt3/Ticket/Display.html?id=122146
 Test-ParallelSubtest-0.05               https://github.com/Test-More/test-more/issues/508
 DestructAssign-0.002001                 100766
-ShardedKV-Storage-Rest-0.8              100774
 Test-HTTP-Response-0.06                 100786
 RDF-Trine-Node-Literal-XML-0.16         100790
 Date-RangeParser-EN-0.08                100250
@@ -890,9 +856,8 @@ Switch-2.17                             96753
 Parse-MediaWikiDump-1.0.6               https://rt.perl.org/rt3/Ticket/Display.html?id=123462
 Switch-Plain-0.02                       101081
 XML-XML2JSON-0.06                       101082
-Hailo-0.72                              101085
+Hailo-0.72                              92795,101085
 ORLite-Mirror-1.24                      101104
-WWW-StationJp-API-0.01                  https://github.com/sue7ga/WWW-StationJp-API/issues/1
 autobox-2.82                            100819
 B-Lint-1.20                             101115
 CatalystX-Resource-0.02                 https://github.com/davewood/catalystx-resource/issues/3
@@ -968,7 +933,6 @@ CGI-OptimalQuery-0.15                   103136
 WebService-Pushover-v1.0.0              103152
 Devel-LineName-0.05                     103179
 ASP4x-Linker-1.003                      103174
-Bio-Graphics-2.39                       103175
 MouseX-POE-0.214                        103180
 JSON-HPack-0.0.3                        96496
 uni-perl-0.92                           103077
@@ -1052,7 +1016,6 @@ Graph-Similarity-v0.0.5                 95943
 Classic-Perl-0.05                       104403
 Image-Scale-0.08                        79728
 Socket-Netlink-Taskstats-0.03           104514
-Linux-Smaps-0.13                        104515
 Math-Derivative-0.02                    104557
 Experian-IDAuth-1.7                     104559
 xml-tag-0.5                             104643
@@ -1066,7 +1029,6 @@ Mojolicious-Plugin-ZombieApocalypse-0.01 104792
 User-Simple-1.45                        103957
 Math-NumSeq-Alpha-2                     104832
 Riak-Light-0.12                         https://github.com/Weborama/Riak-Light/issues/20
-WWW-Shorten-Googl-1.02                  104847
 AnyEvent-Tickit-0.01                    104852
 test-mojo-session-1.02                  https://github.com/avkhozov/Test-Mojo-Session/issues/3,see also Test-Mojo-Session
 MooX-Struct-0.013                       104895
@@ -1077,7 +1039,7 @@ Catalyst-View-TT-ControllerLocal-0.02   105010
 Scalar-Accessors-LikeHash-0.002         100223
 WWW-Gittip-0.07                         101887
 WWW-Mechanize-Query-0.03                105014
-WWW-Shorten-Googl-1.02                  104847
+WWW-Shorten-Googl-1.02                  104847,104847
 Ask-0.007                               105038
 DBIx-Class-Storage-DBI-mysql-backup-0.04 105039
 Filesys-Type-0.02                       105041
@@ -1216,7 +1178,6 @@ Plack-Middleware-DNSBL-0.0304           107913
 outthentic-0.0.1                        renamed to Outthentic
 outthentic-0.0.2                        renamed to Outthentic
 Outthentic-0.0.5                        107961
-Object-Remote-0.003006                  108016
 AnyEvent-Curl-Multi-1.1                 105767
 Text-Fuzzy-0.22                         https://rt.perl.org/rt3/Ticket/Display.html?id=126472
 Dancer-Plugin-DataTransposeValidator-0.007 https://github.com/interchange/Dancer-Plugin-DataTransposeValidator/issues/2
@@ -1232,7 +1193,6 @@ Atompub-0.3.7                           108287
 Regexp-Compare-0.24                     108279
 Geo-GDAL-2.00012                        108298
 Log-Log4perl-Appender-DBIx-Class-0.02   108300
-Business-OnlinePayment-BitPay-KeyUtils-2.0.1 106730
 Coro-6.49                               101063
 Mojolicious-Plugin-Angular-MaterialDesign-0.603 https://github.com/mudler/Mojolicious-Plugin-Angular-MaterialDesign/issues/1
 re-engine-RE2-0.13                      108357
@@ -1248,8 +1208,6 @@ re-engine-PCRE-0.17                     108386
 Digest-xxHash-1.02                      https://github.com/sanko/digest-xxhash/issues/2
 Mojolicious-Plugin-DOCRenderer-4.00     https://github.com/viliampucik/Mojolicious-Plugin-DocRenderer/issues/5
 Finance-CaVirtex-API-0.03               108392
-BackPAN-Version-Discover-0.01           108393
-Biblio-Refbase-0.04                     https://github.com/hma/Biblio-Refbase/issues/1
 Test-Mock-Mango-0.09                    https://github.com/necrophonic/test-mock-mango/issues/7
 Security-JWE-0.04                       108399
 Test-Approximate-0.009                  101156
@@ -1263,7 +1221,6 @@ Gzip-RandomAccess-0.91                  108428
 MongoDBx-Class-1.030002                 108430
 Catalyst-Authentication-Store-DBI-ButMaintained-0.03 108418
 App-Diskd-0.01                          108470
-Message-MongoDB-1.142810                https://github.com/dana/perl-Message-MongoDB/issues/3
 Catalyst-Authentication-Credential-HTTP-1.016 108415
 PDL-Ngrams-0.05003                      108472
 Sub-Prototype-Util-0.11                 108469
@@ -1273,7 +1230,7 @@ Lvalue-0.21                             95267
 DateTime-Util-Astro-0.12000             105545
 Dancer-Plugin-Facebook-0.991            105761
 MIME-Lite-HTML-1.24                     86020,106849
-Message-MongoDB-1.142810                https://github.com/dana/perl-Message-MongoDB/issues/3
+Message-MongoDB-1.142810                https://github.com/dana/perl-Message-MongoDB/issues/3,https://github.com/dana/perl-Message-MongoDB/issues/3
 Gtk2-Ex-DBI-2.30                        108480
 Text-Bidi-2.10                          108498
 Test-PerlTidy-Concurrent-0.1.1          98491
@@ -1309,7 +1266,7 @@ Algorithm-Paxos-0.001                   108573
 DateTimeX-Lite-0.00004                  108574
 Net-Wireless-802_11-WPA-CLI-Helper-0.0.0 108577
 ShellScript-Env-0.4                     95969
-Runops-Trace-0.14                       https://rt.perl.org/Ticket/Display.html?id=126472,108578
+Runops-Trace-0.14                       https://rt.perl.org/rt3//Public/Bug/Display.html?id=115684,https://rt.perl.org/Ticket/Display.html?id=126472,108578
 AnyEvent-DBI-Abstract-0.01              92221
 CGI-UploadEngine-0.93                   108579
 Data-Visitor-Encode-0.10007             108580
@@ -1339,7 +1296,6 @@ Devel-Cover-Report-Clover-0.35          108629
 Email-ConstantContact-0.05              108630
 Dist-Zilla-Plugin-Inject-0.001          108642
 Microarray-ExprSet-0.11                 95233
-Plucene-1.25                            108644
 VolSurface-Calibration-Equities-0.02    108675
 PFIX-0.03                               62413
 Text-Indent-0.02                        108678
@@ -1348,7 +1304,6 @@ DateTime-Locale-1.01                    108684
 MooseX-Types-DateTime-ButMaintained-0.16 108686
 Google-Data-JSON-v0.1.10                108687
 EmbedIT-WebIT-1.6.3a                    108695
-AI-Pathfinding-SMAstar-0.07             108697
 DBIx-ProfileManager-0.03                108696
 OOP-Perlish-Class-0.45.0                108700
 Image-LibExif-0.04                      108701
@@ -1395,7 +1350,6 @@ CGI-WML-0.09                            108854
 Carp-Datum-0.1.3                        105296
 CGI-Session-Driver-aggregator-0.03      108858
 Class-MethodMapper-1.0                  108859
-CVSUtils-1.01                           1333
 Data-Match-0.06                         93935
 DDL-Oracle-1.11                         15315
 Devel-TraceSubs-0.02                    108861
@@ -1537,7 +1491,6 @@ Net-Syndic8-0.04                        109408
 Text-Column-0.05                        109410
 HTML-SimpleTemplate-1.00                109412
 Test-OpenID-Server-0.02                 109416
-Alvis-QueryFilter-0.3                   109418
 Date-Object-0.06                        109419
 encoding-stdio-0.02                     109420
 Finance-Bank-INGDirect-1.05             109421
@@ -1569,8 +1522,7 @@ Module-AutoLoad-0.04                    109531
 HTTP-OAI-4.03                           102010
 Flickr-Tools-1.21_02                    109558
 Time-StasisField-0.01                   109559
-Data-BitStream-0.08                     109561
-Data-BitStream-0.08                     109561
+Data-BitStream-0.08                     109561,109561
 Perl6-Export-Attrs-0.000005             107603
 Setup-Project-0.01                      https://github.com/hixi-hyi/p5-Setup-Project/issues/1
 Test-LectroTest-0.5001                  28203
@@ -1592,7 +1544,6 @@ App-podweaver-1.00                      109705
 Dist-Iller-0.1201                       https://github.com/Csson/p5-Dist-Iller/issues/2
 Gtk2-Ex-ListModelConcat-10              108274
 Template-Plugin-HTML-SuperForm-1.0      76116
-Text-ParseAHD-0.0.2                     95295
 WWW-xkcd-0.005                          https://github.com/xsawyerx/www-xkcd/issues/3
 NetSDS-SMPP-1.204                       65987
 Cisco-UCS-0.4                           109756
@@ -1664,7 +1615,7 @@ Config-Constants-0.03                   100477
 Bencher-Scenario-ZodiacModules-0.01     109917
 Oracle-Trigger-0.22                     109922
 Math-BigSimple-1.1a                     40282
-Statistics-MVA-0.0.2                    87426
+Statistics-MVA-0.0.2                    87426,87426
 Scraper-3.05                            109931
 File-SmartTail-v1.0.2                   106760
 Bryar-4.0                               55553
@@ -1693,7 +1644,7 @@ Illumos-SMF-0.1.4                       https://github.com/hadfl/Illumos-SMF/iss
 Parallel-MapReduce-0.09                 109995
 OpenGL-List-0.01                        109996
 HTML-Valid-0.01                         https://github.com/benkasminbullock/html-valid/issues/4
-Biblio-Refbase-0.04                     https://github.com/hma/Biblio-Refbase/issues/1
+Biblio-Refbase-0.04                     https://github.com/hma/Biblio-Refbase/issues/1,https://github.com/hma/Biblio-Refbase/issues/1
 WebService-Recruit-FromA-0.0.1          110017
 Illumos-SMF-0.1.5                       https://github.com/hadfl/Illumos-SMF/issues/5
 Illumos-Zones-0.1.1                     https://github.com/hadfl/Illumos-Zones/issues/3
@@ -1711,7 +1662,6 @@ IO-stringy-2.111                        103895
 Socialtext-Resting-Utils-0.21           85894
 CatalystX-CRUD-ModelAdapter-DBIC-0.13   110092
 DBIx-Class-Indexer-WebService-Dezi-0.08 110093
-Vim-Debug-0.904                         https://github.com/kablamo/VimDebug/issues/33
 WebService-Instagram-0.06               110067
 DBIx-Class-PgLog-0.03                   110085
 Plack-Middleware-TazXSLT-0.55           110090
@@ -1744,7 +1694,6 @@ Linux-Distribution-Packages-0.05        110181
 POE-Wheel-VimColor-0.01                 110182
 Gtk2-Ex-Carp-0.01                       110183
 WebService-ILS-0.03                     108954
-Gtk2-Ex-Simple-List-0.50                110184
 Class-DataStore-0.07                    110185
 Oracle-SQL-0.01                         110190
 DBD-Template-0.01                       110199
@@ -1754,8 +1703,6 @@ Oracle-DML-Common-0.21                  110203
 SQL-Preproc-0.10                        110204
 Gtk2-Ex-Simple-Menu-0.7                 110205
 Gtk2-TrayManager-0.05                   110206
-Tie-Proxy-Hash-1.01                     110207
-Shell-Base-0.05                         19649
 MailFolder-0.07                         101281
 Device-FTDI-0.10                        https://github.com/leonerd/perl-Device-FTDI/issues/5
 Perinci-CmdLine-Classic-1.60            110234
@@ -1779,7 +1726,6 @@ Syntax-Highlight-Engine-Simple-Perl-0.02 110323
 WebService-Google-Contact-0.1           39234
 Astro-QDP-Parse-0.13                    110325
 Astro-XSPEC-TableModel-0.01             110334
-Bot-BasicBot-Pluggable-Module-Twitter-0.0.3 110335
 Business-CCProcessor-0.09               110336
 Cache-Memcached-Indexable-0.03          110337
 CGI-Application-Plugin-ProtectCSRF-1.01 110338
@@ -1787,13 +1733,12 @@ CGI-Getopt-0.13                         110339
 Tie-NumericRange-0.01                   110344
 Graph-ModularDecomposition-0.13         110347
 Spp-0.04                                110310
-Perl-Modern-Perl-1.000                  110392
 HTML-FormBuilder-0.11                   107633
 MOP4Import-Declare-0.003                110371
 Business-OnlinePayment-BitPay-Client-2.3.1 106755
 Workflow-1.42                           86758
 App-mojopaste-0.15                      https://github.com/jhthorsen/app-mojopaste/issues/10
-Perl-Modern-Perl-1.000                  110394
+Perl-Modern-Perl-1.000                  110392,110394
 App-Pmhack-0.002                        108285
 Quiz-Flashcards-0.04b                   110410
 Wx-Perl-FSHandler-UNC-1.008             110411
@@ -1867,7 +1812,6 @@ File-ExtAttr-1.09                       34394
 File-Lock-Multi-1.02                    104720
 Git-Hook-PostReceive-0.3                https://github.com/c9s/Git-Hook-PostReceive/issues/4
 Devel-SharedLibs-0.2.0                  110770
-Domain-Register-DomainShare-1.02        probably temporary network/webservice problems
 Getopt-Helpful-0.04                     110776
 Dancer2-Plugin-Auth-OAuth-0.09          https://github.com/b10m/p5-Dancer2-Plugin-Auth-OAuth/issues/8
 Perinci-Access-Simple-Server-0.23       110780
@@ -1877,7 +1821,6 @@ File-Attributes-0.04                    56221
 Math-PlanePath-121                      110793
 Catalyst-Plugin-ClamAV-0.03             110797
 WWW-RobotRules-DBIC-0.01                110798
-Net-Nslookup-2.04                       108184
 mop-0.03-TRIAL                          https://github.com/stevan/p5-mop-redux/issues/160
 VS-RuleEngine-0.09                      110806
 Text-Frundis-2.10                       110788
@@ -1892,13 +1835,12 @@ Log-Any-Adapter-Daemontools-0.090000_001 110864
 WWW-Mechanize-Plugin-Cache-0.06         110875
 Dancer2-Session-Cookie-0.006            https://github.com/PerlDancer/Dancer2-Session-Cookie/issues/13
 Convert-Pluggable-0.031                 110944
-Test-Group-0.20                         https://github.com/Test-More/test-more/issues/627
 Net-SNPP-1.17                           110978
 Bricklayer-Templater-0.9.8              111024
 Data-SIprefixes-0.0.1                   111045
 Evo-0.0175                              https://github.com/alexbyk/perl-evo/issues/3
 HTML-FormHandlerX-JQueryRemoteValidator-0.10 110859
-Object-Remote-0.003006                  108016
+Object-Remote-0.003006                  108016,108016
 CGI-Wiki-0.63                           111093,deprecated
 Compress-PPMd-0.11                      58833,78521
 App-git-ship-0.20                       https://github.com/jhthorsen/app-git-ship/issues/6
@@ -1921,14 +1863,12 @@ Geo-Coordinates-OSGB-2.11               111395
 Bloom-Scalable-0.01                     98878
 App-JobLog-1.042                        95737
 App-Fetchware-1.014                     https://github.com/deeelwy/Fetchware/issues/5
-BackPAN-Version-Discover-0.01           108393
-Games-Messages-0.05                     24963
+BackPAN-Version-Discover-0.01           108393,108393
 Text-Statistics-Latin-0.06              111413
 Mail-Audit-DKIM-0.003                   https://github.com/rjbs/Mail-Audit-DKIM/issues/1
-Filter-Crypto-2.07                      111423
 Pod-Weaver-Section-Badges-0.0203        https://github.com/Csson/p5-Pod-Weaver-Section-Badges/issues/2
 FIX-Parser-0.01_1                       perlcritic.t fails, no bug tracker
-WWW-Weather-Yahoo-0.07                  111351
+WWW-Weather-Yahoo-0.07                  probably temporary network/webservice problem,111351
 Acme-Incorporated-1.00                  106120
 Scalar-Number-0.006                     85425
 Kwiki-Users-Remote-0.04                 111554
@@ -1938,7 +1878,6 @@ Games-Sudoku-OO-0.03                    111615
 Robotics-IRobot-0.14                    111635
 ExtUtils-ModuleMaker-0.55               111637
 Dist-Zilla-PluginBundle-Prereqs-0.93    https://github.com/SineSwiper/Dist-Zilla-PluginBundle-Prereqs/issues/6
-DBIx-CouchLike-0.16                     95913
 WWW-Scraper-ISBN-WHSmith_Driver-0.08    111700
 Memcached-Client-2.01                   68592,75028
 Business-OnlinePayment-Ogone-0.2.3      111784
@@ -1975,7 +1914,7 @@ Digest-PBKDF2-0.010                     112377
 Dancer-Plugin-SporeDefinitionControl-0.14 84948
 rrdpoller-1.5.0                         112404
 OpusVL-Preferences-0.20                 112429
-DBIx-TextIndex-0.28                     98839
+DBIx-TextIndex-0.28                     98839,98839
 RRD-Simple-1.44                         46193,78785
 Postgredis-0.03                         112433
 WebService-Google-Language-0.14         112435
@@ -2005,7 +1944,6 @@ WWW-Search-PubMed-1.004                 112548
 Cache-Redis-0.13                        https://github.com/Songmu/p5-Cache-Redis/issues/7
 Compress-LZW-Progressive-0.102          112552
 Kwiki-Notify-IRC-0.05                   112553
-Mojolicious-Plugin-DSC-1.005            https://github.com/kberov/Mojolicious--Plugin--DSC/issues/2
 Software-Packager-0.09                  112555
 MMS-Mail-Parser-0.14                    112556
 TimeDate-2.30                           112559
@@ -2023,7 +1961,6 @@ Class-ActsLike-1.00                     112583
 Tie-Comma-0.04                          112589
 Data-Startup-0.04                       112595
 Finance-Bank-Fubon-TW-0.01              112596
-Data-Alias-1.20                         112289
 Sig-PackageScoped-0.04                  https://rt.perl.org/rt3/Ticket/Display.html?id=127644
 Interchange6-Currency-0.101             https://github.com/interchange/Interchange6-Currency/issues/1
 Lingua-Stem-Any-0.05                    https://github.com/patch/lingua-stem-any-pm5/issues/9
@@ -2035,7 +1972,6 @@ Bro-Log-Parse-0.07                      https://github.com/0xxon/perl-bro-log-pa
 Config-Model-OpenSsh-1.236              112736
 Date-EzDate-1.16                        112737
 DateLocale-1.40                         112738
-FFI-1.09                                https://github.com/plicease/FFI/issues/1
 Games-EveOnline-API-0.07                https://github.com/bluefeet/Games-EveOnline-API/issues/6
 Hessian-Translator-1.06                 112740
 Hubot-Scripts-Bundle-0.1.10             112741
@@ -2068,7 +2004,6 @@ Mail-Exchange-0.04                      95177
 MooseX-App-Cmd-Command-BashComplete-0.04 100353,107831
 Net-DiffBot-0.02                        112781
 Statistics-Multtest-0.13                112782
-IO-Infiles-0.06                         95763
 Plack-App-CocProxy-0.04                 112800
 OX-0.14                                 https://github.com/iinteractive/OX/issues/20
 Catalyst-Authentication-Store-MongoDB-0.02 112834
@@ -2134,7 +2069,6 @@ Rex-Endpoint-HTTP-0.35.0                112956
 Bencher-Scenarios-Perl-0.02             112958
 Crypt-OFB-0.01                          112977
 Template-Alloy-XS-1.004                 95102
-Tangence-0.21                           112978
 Data-Dump-Streamer-2.39                 100488,112960
 Tie-DuckDuckGo-0.02                     https://github.com/aggrolite/Tie-DuckDuckGo/issues/1
 WebService-NFSN-1.03                    113096
@@ -2202,7 +2136,6 @@ App-iTan-1.06                           113160
 Catalyst-Plugin-DBIC-Schema-Profiler-0.06 113559
 Mojolicious-Plugin-ForkAndGo-0.01       113586
 WebService-TeamCity-0.03                https://github.com/maxmind/WebService-TeamCity/issues/1
-Data-Printer-0.38                       https://github.com/garu/Data-Printer/issues/85
 MooseX-Attribute-Dependent-1.1.2        113599
 MooseX-Params-0.010                     113600
 SOAP-WSDL-3.003                         71679
@@ -2212,7 +2145,6 @@ Iterator-Paged-1.001                    77712
 Sweet-Home-0.06                         https://github.com/fibo/Sweet-Home-pm/issues/2
 Net-BaruwaAPI-0.04                      113707
 AnyEvent-Eris-0.000001                  https://github.com/xsawyerx/anyevent-eris/issues/12
-WebService-Europeana-0.0.2              https://twitter.com/Europeanaeu/status/719563390860046336
 CGI-OptimalQuery-0.22                   113713
 File-VirusScan-0.103                    103885
 Net-AMQP-RabbitMQ-2.000000_001          https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq/issues/11
@@ -2232,7 +2164,6 @@ File-Find-Rule-CVS-0.01                 113833
 Lingua-ZH-HanDetect-0.04                113834
 Firefox-Sync-Client-0.04                113837
 Acme-No-0.03                            113839,https://rt.perl.org/Ticket/Display.html?id=127909
-HTML-FillInForm-Lite-1.14               https://github.com/gfx/p5-HTML-FillInForm-Lite/issues/5
 WWW-Search-Lycos-2.225                  113889
 Text-Echelon-0.02                       56169
 DNS-EasyDNS-0.04                        113921
@@ -2243,18 +2174,15 @@ Exception-Chain-0.11                    https://github.com/hixi-hyi/p5-Exception
 Math-FFTW-0.01                          95338
 MIME-tools-5.507                        113887
 Test-SharedFork-0.35                    https://github.com/tokuhirom/Test-SharedFork/issues/22
-Math-BigInt-Constant-1.08               113957
 Protocol-CassandraCQL-0.12              113958
 Types-Numbers-0.94                      https://github.com/SineSwiper/Types-Numbers/issues/2
 DBIx-Sunny-0.22                         https://github.com/kazeburo/DBIx-Sunny/issues/3
 ExtUtils-AutoInstall-0.63               113923
-Net-LDNS-0.75                           110365
 AnyEvent-WebSocket-Client-0.33          https://github.com/plicease/AnyEvent-WebSocket-Client/issues/22
 Test-MockPackages-0.4                   113982
-Digest-Skein-0.05                       113998
 Bitmask-Data-2.04                       113991
 Text-TransMetaphone-0.07                114007
-Digest-Skein-0.05                       https://github.com/Perl-Toolchain-Gang/ExtUtils-MakeMaker/pull/266
+Digest-Skein-0.05                       113998,https://github.com/Perl-Toolchain-Gang/ExtUtils-MakeMaker/pull/266
 Math-BigInt-Parts-0.02                  114020
 Net-AMQP-RabbitMQ-1.600000              https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq/issues/11
 Net-AMQP-RabbitMQ-2.000000_002          https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq/issues/11
@@ -2269,7 +2197,6 @@ HTML-FormFu-2.01                        109159,112582
 Zwoelf-Hash-Union-0.1                   114099
 Acme-Alien-DontPanic-0.028              https://github.com/Perl5-Alien/Alien-Base-Extras/issues/13
 Test-Able-0.11                          https://github.com/schwern/test-more/issues/302,https://github.com/schwern/test-more/issues/652
-Log-Dispatch-Config-TestLog-0.02        61462,https://github.com/schwern/test-more/issues/651
 DateTime-Format-Alami-0.07              114108
 head-r-0.1                              114109
 POE-Filter-JSON-0.04                    114131
@@ -2287,44 +2214,15 @@ Perinci-Sub-Normalize-0.17              114308
 once-1.101420                           114313
 Spreadsheet-Reader-ExcelXML-v0.2.0      https://github.com/jandrew/p5-spreadsheet-reader-excelxml/issues/1
 Crypt-JWT-0.015                         114343
-Acme-Hidek-44.0                         https://rt.perl.org/rt3/Ticket/Display.html?id=128139
-DateTime-Calendar-FrenchRevolutionary-0.12 https://rt.perl.org/rt3/Ticket/Display.html?id=128139
-HTML-Defang-1.04                        https://rt.perl.org/rt3/Ticket/Display.html?id=128139
-Language-Farnsworth-0.7.7               https://rt.perl.org/rt3/Ticket/Display.html?id=128139
-LaTeX-Decode-0.04                       https://rt.perl.org/rt3/Ticket/Display.html?id=128139
-Lingua-Slavic-Numbers-0.03              https://rt.perl.org/rt3/Ticket/Display.html?id=128139
-Monitoring-Generator-TestConfig-0.44    https://rt.perl.org/rt3/Ticket/Display.html?id=128139
-MP3-Tag-1.13                            https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 Net-Douban-1.14                         https://rt.perl.org/rt3/Ticket/Display.html?id=128139
-Parse-Eyapp-1.182                       https://rt.perl.org/rt3/Ticket/Display.html?id=128139
-SNMP-Trapinfo-1.03                      https://rt.perl.org/rt3/Ticket/Display.html?id=128139
-TeX-Hyphen-1.16                         https://rt.perl.org/rt3/Ticket/Display.html?id=128139
-Time-OlsonTZ-Download-0.004             https://rt.perl.org/rt3/Ticket/Display.html?id=128139
-XUL-Gui-0.63                            https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 Text-Starfish-1.20                      114354
-App-ZofCMS-1.001006                     https://rt.perl.org/rt3/Ticket/Display.html?id=128139
-BibTeX-Parser-0.69                      https://rt.perl.org/rt3/Ticket/Display.html?id=128139
-Chemistry-Mol-0.37                      https://rt.perl.org/rt3/Ticket/Display.html?id=128139
-Class-DOES-1.00                         https://rt.perl.org/rt3/Ticket/Display.html?id=128139
-Class-MakeMethods-1.01                  https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 Config-Std-0.901                        114342,https://rt.perl.org/rt3/Ticket/Display.html?id=128139
-Data-Inspect-0.04                       https://rt.perl.org/rt3/Ticket/Display.html?id=128139
-HTML-Template-Parser-0.1011             https://rt.perl.org/rt3/Ticket/Display.html?id=128139
-HTML-Toc-1.12                           https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 I22r-Translate-0.95                     115041,https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 Lingua-EN-Tagger-0.25                   114491,https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 Module-Depends-0.16                     115053,https://rt.perl.org/rt3/Ticket/Display.html?id=128139
-Mojolicious-Plugin-ConsoleLogger-0.06   https://rt.perl.org/rt3/Ticket/Display.html?id=128139
-PLUTO-0.30                              https://rt.perl.org/rt3/Ticket/Display.html?id=128139
-Parse-Yapp-1.05                         https://rt.perl.org/rt3/Ticket/Display.html?id=128139
-Plack-Middleware-Log-Minimal-0.06       https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 RPC-ExtDirect-3.21                      https://rt.perl.org/rt3/Ticket/Display.html?id=128139
-RTF-Tokenizer-1.19                      https://rt.perl.org/rt3/Ticket/Display.html?id=128139
-TRD-Velocity-0.0.8                      https://rt.perl.org/rt3/Ticket/Display.html?id=128139
-Text-Extract-MaketextCallPhrases-0.93   https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 UR-0.44                                 https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 WWW-Search-2.515                        https://rt.perl.org/rt3/Ticket/Display.html?id=128139
-XML-Twig-3.49                           https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 DateTime-Calendar-Japanese-Era-0.08002  https://github.com/lestrrat/p5-DateTime-Calendar-Japanese-Era/issues/1
 FFmpeg-Command-0.19                     103139
 B-Size-0.09                             33471
@@ -2344,44 +2242,30 @@ Parse-Method-Signatures-1.003016        114385
 Mojolicious-Plugin-Args-0.05            https://github.com/sharabash/Mojolicious-Plugin-Args/issues/1
 Math-SymbolicX-Calculator-Interface-Shell-0.02 114458
 WebService-Recruit-Eyeco-0.0.1          114459
-Array-Base-0.005                        https://rt.perl.org/rt3/Ticket/Display.html?id=128179
-autobox-2.83                            https://rt.perl.org/rt3/Ticket/Display.html?id=128179
-DestructAssign-0.002004                 https://rt.perl.org/rt3/Ticket/Display.html?id=128179
 Devel-Cover-1.23                        https://rt.perl.org/rt3/Ticket/Display.html?id=128179
-Devel-NYTProf-6.03                      https://rt.perl.org/rt3/Ticket/Display.html?id=128179
-Hash-SharedMem-0.004                    https://rt.perl.org/rt3/Ticket/Display.html?id=128179
-List-Gather-0.12                        https://rt.perl.org/rt3/Ticket/Display.html?id=128179
-optimizer-0.08                          https://rt.perl.org/rt3/Ticket/Display.html?id=128179
-Params-Classify-0.013                   https://rt.perl.org/rt3/Ticket/Display.html?id=128179
-Scope-Cleanup-0.002                     https://rt.perl.org/rt3/Ticket/Display.html?id=128179
-Sereal-Decoder-3.014                    https://rt.perl.org/rt3/Ticket/Display.html?id=128179
-String-Base-0.001                       https://rt.perl.org/rt3/Ticket/Display.html?id=128179
-Sub-StopCalls-0.02                      https://rt.perl.org/rt3/Ticket/Display.html?id=128179
-UNIVERSAL-ref-0.14                      https://rt.perl.org/rt3/Ticket/Display.html?id=128179
 PDF-Table-0.9.11                        https://github.com/kamenov/PDF-Table/issues/29
 ExtJS-Generator-DBIC-0.002              114531,114532
 CouchDB-View-0.003                      67033
-XML-Twig-3.49                           105702
+XML-Twig-3.49                           https://rt.perl.org/rt3/Ticket/Display.html?id=128139,105702
 Test-Pretty-0.32                        https://github.com/tokuhirom/Test-Pretty/issues/36
-Data-Alias-1.20                         114544
+Data-Alias-1.20                         112289,114544
 DBIx-Class-FromSledge-0.03              114546
-Params-Classify-0.013                   114490
+Params-Classify-0.013                   https://rt.perl.org/rt3/Ticket/Display.html?id=128179,114490
 Gwybodaeth-0.02                         114547
-Parse-Yapp-1.05                         106685
+Parse-Yapp-1.05                         https://rt.perl.org/rt3/Ticket/Display.html?id=128139,106685
 WWW-Tracking-0.02                       https://github.com/jozef/WWW-Tracking/issues/1
 Wx-0.9928                               114552
 Data-SCORM-0.07                         114553
 Test-Declare-0.06                       114555
 Geo-OGC-Service-WMTS-0.02               114567
-Test-Group-0.20                         111124
+Test-Group-0.20                         https://github.com/Test-More/test-more/issues/627,111124
 Test-Mini-v1.1.3                        https://github.com/pvande/Test-Mini/issues/15
 Mojolicious-Plugin-Libravatar-1.09      98855
-autobox-2.83                            https://github.com/chocolateboy/autobox/issues/4
+autobox-2.83                            https://rt.perl.org/rt3/Ticket/Display.html?id=128179,https://github.com/chocolateboy/autobox/issues/4
 Bio-HTS-v0.0.1                          113926,113927
 JavaScript-V8-Handlebars-0.06           114583
 Perl-Lint-0.24                          https://github.com/moznion/Perl-Lint/issues/97
 Dallycot-0.151630                       114585
-Sereal-Decoder-3.014                    https://github.com/Sereal/Sereal/issues/136
 Audio-TagLib-1.65                       114586
 Sub-Call-Tail-0.06                      112244
 Lingua-Identify-CLD2-0.03               114587,114588
@@ -2393,11 +2277,11 @@ Data-Sah-Coerce-0.009                   114593
 Data-Sah-0.78                           114613
 Perinci-Sub-ValidateArgs-0.004          114616
 RocksDB-0.04                            https://github.com/spiritloose/RocksDB/issues/3
-Log-Dispatch-Config-TestLog-0.02        114617
+Log-Dispatch-Config-TestLog-0.02        61462,https://github.com/schwern/test-more/issues/651,114617
 Test-Kantan-0.40                        https://github.com/tokuhirom/Test-Kantan/issues/12
 TPath-1.007                             99931
 B-Tap-0.15                              https://github.com/tokuhirom/B-Tap/issues/4
-Devel-PeekPoke-0.04                     108478
+Devel-PeekPoke-0.04                     98745,108478
 Test-TAPv13-0.002                       114626
 Lingua-EN-Keywords-Yahoo-0.5            114627
 perl-lisp-0.06                          114635
@@ -2408,11 +2292,9 @@ GoogleIDToken-Validator-0.02            114654
 Ark-Plugin-Authentication-0.01          https://github.com/ark-framework/Ark-Plugin-Authentication/issues/1
 Music-Abc-DT-0.01                       114655
 OAuth-Lite-1.34                         114657
-Types-ReadOnly-0.002                    104553
 WWW-Shorten-SCK-0.5                     https://github.com/celogeek/WWW-Shorten-SCK/issues/3
 WebService-Validator-Feed-W3C-0.8       91598
 Test-DBIx-Class-Stats-0.01              114662
-Devel-BeginLift-0.001003                114663
 Modern-Perl-1.20150127                  114690
 Shell-EnvImporter-1.07                  105478
 Data-Sah-Coerce-0.012                   114593
@@ -2429,7 +2311,7 @@ System-Wrapper-v0.0.2                   114794
 Data-Walk-Extracted-v0.26.8             https://github.com/jandrew/Data-Walk-Extracted/issues/2
 Dist-Zilla-Plugin-ChangelogFromGit-CPAN-Changes-0.109 https://github.com/ioanrogers/Dist-Zilla-Plugin-ChangelogFromGit-CPAN-Changes/issues/24
 Net-Server-2.008                        105512
-Parse-Eyapp-1.182                       105643
+Parse-Eyapp-1.182                       https://rt.perl.org/rt3/Ticket/Display.html?id=128139,105643
 Devel-cst-0.009                         114914
 Sys-CPU-0.61                            54267
 PerlX-Assert-0.904                      114938
@@ -2457,40 +2339,37 @@ XHTML-MediaWiki-0.11                    115134,115135
 Youri-Config-0.2.1                      115137,115139
 WWW-Shopify-Liquid-0.05                 115141,115142
 SQL-QueryBuilder-Pretty-0.01            115158
-Class-MakeMethods-1.01                  115108
-HTML-Toc-1.12                           115109
+Class-MakeMethods-1.01                  https://rt.perl.org/rt3/Ticket/Display.html?id=128139,115108
+HTML-Toc-1.12                           https://rt.perl.org/rt3/Ticket/Display.html?id=128139,115109
 I18N-Charset-1.414                      115110
 Switch-Plain-0.04                       115178
 Dancer2-Plugin-Redis-0.004              https://github.com/burnersk/Dancer2-Plugin-Redis/issues/11
 Dancer2-Plugin-GoogleAnalytics-0.002    115179
 Dancer2-Plugin-SendAs-0.001             https://github.com/veryrusty/Dancer2-Plugin-SendAs/issues/1
 Device-Chip-0.09                        114210
-Plucene-1.25                            108644
+Plucene-1.25                            108644,108644
 WWW-Search-Yandex-0.07                  115224
 WWW-Search-News-1.079                   115226
 WWW-Search-NCBI-PubMed-0.01             115227
 WWW-Ebay-1.003                          115228
-Date-Pcalc-6.1                          115100
+Date-Pcalc-6.1                          76442,115100
 Log-TraceMessages-1.4                   115089
 CGI-ExceptionManager-0.06               115245
 Parallel-Tiny-0.03                      115211
-Chemistry-Mol-0.37                      115215
+Chemistry-Mol-0.37                      https://rt.perl.org/rt3/Ticket/Display.html?id=128139,115215
 Stash-REST-0.10                         https://github.com/renatocron/Stash-REST/issues/2
 Catalyst-Plugin-Browser-0.08            115259
 Catalyst-View-Reproxy-0.05              115266
 DBI-Shell-11.95                         43524
 CSS-Sass-3.3.4                          115024
 Rose-DB-0.777                           114925
-Devel-BeginLift-0.001003                115272
-Socket-Class-2.258                      115277
-Time-Format-1.12                        111230
+Devel-BeginLift-0.001003                64033,114663,115272
 ack-2.15_02                             https://github.com/petdance/ack2/issues/602
 DBIx-Class-IndexSearch-Dezi-0.05        115189
 App-AutoCRUD-0.13                       115319
 Git-CPAN-Patch-2.3.0                    https://github.com/yanick/git-cpan-patch/issues/33
 Device-I2C-0.03                         no tracker, contacted by email
 PGXN-API-v0.16.4                        https://github.com/pgxn/pgxn-api/issues/25
-invoker-0.34                            https://rt.perl.org/Public/Bug/Display.html?id=128179
 YAML-Logic-0.06                         115363
 Data-MessagePack-Stream-0.07            115389
 Cikl-0.5.1                              115414
@@ -2531,10 +2410,7 @@ Sub-Attributes-0.01                     115570
 DOM-Tiny-0.004                          115573
 PPIx-Refactor-0.07                      https://github.com/lackita/PPIx-Refactor/issues/2
 Class-Roles-0.30                        102367
-CNC-Cog-0.061                           111909
 Tie-REHash-1.05                         115659,https://rt.perl.org/Ticket/Display.html?id=128482
-Image-Resize-0.5                        60038
-String-Diff-0.07                        https://github.com/yappo/p5-String-Diff/issues/4
 File-Find-Iterator-0.4                  91854
 Acme-MyPeek-0.07                        112733
 App-Presto-0.009                        115594
@@ -2561,7 +2437,6 @@ Plack-Middleware-StaticShared-0.05      84264
 Class-Injection-1.09                    81624
 Paranoid-0.36                           88773
 XML-Tidy-1.12.B55J2qn                   85592
-IPC-Transit-1.133280                    https://github.com/dana/perl-IPC-Transit/issues/4
 Text-MediawikiFormat-v1.0               90115
 Template-Plugin-UTF8toANSI-0.01         96416
 HTML-FillInForm-Lite-1.13               https://rt.perl.org/rt3/Ticket/Display.html?id=122121
@@ -2575,9 +2450,7 @@ Expect-1.32                             https://github.com/Test-More/test-more/i
 Code-TidyAll-Plugin-SVG-0.002           100981
 File-Next-1.12                          https://rt.perl.org/rt3/Ticket/Display.html?id=123739
 Moose-Autobox-0.15                      https://rt.perl.org/rt3/Ticket/Display.html?id=123619,102917
-Contenticious-0.35                      https://github.com/memowe/contenticious/issues/12
-Contenticious-0.35                      https://github.com/memowe/contenticious/issues/12
-XML-Liberal-0.30                        103458
+Contenticious-0.35                      https://github.com/memowe/contenticious/issues/12,https://github.com/memowe/contenticious/issues/12
 Mojolicious-Plugin-MailException-0.19   https://github.com/dr-co/libmojolicious-plugin-mail_exception/pull/10
 Net-Hadoop-YARN-0.002                   105149
 libintl-perl-1.24                       47968
@@ -2616,11 +2489,10 @@ Convert-TBX-Min-0.05                    112327
 Ado-0.921                               https://github.com/kberov/Ado/issues/104
 MojoX-Transaction-WebSocket76-0.04      https://github.com/dionys/mojox-transaction-websocket76/issues/3
 LMDB_File-0.09                          112225
-IPC-Transit-1.133280                    https://github.com/dana/perl-IPC-Transit/issues/2
+IPC-Transit-1.133280                    https://github.com/dana/perl-IPC-Transit/issues/4,https://github.com/dana/perl-IPC-Transit/issues/2
 PDL-2.015                               https://sourceforge.net/p/pdl/bugs/407/
 WebService-SonarQube-0.07               112436
 Sailthru-Client-2.002                   112895
-Business-Payment-SwissESR-0.13.0        https://github.com/oetiker/business-payment-swissesr/issues/1
 Test-Mock-Wrapper-0.17                  112965
 Scope-Upper-0.28                        112246
 Date-Easy-0.01                          https://github.com/barefootcoder/date-easy/issues/2
@@ -2638,7 +2510,7 @@ JSV-0.07                                https://github.com/zigorou/perl-JSV/issu
 Riji-v0.9.7                             https://github.com/Songmu/p5-Riji/issues/19
 HTML-Template-2.95                      98029
 Test-Unit-0.25                          102732
-FamilyTreeInfo-2.3.37 https://github.com/mishin/Ftree-cpan/issues/25
+FamilyTreeInfo-2.3.37                   https://github.com/mishin/Ftree-cpan/issues/25
 Text-Distill-0.02                       113928
 Selenium-UserAgent-0.08                 https://github.com/gempesaw/Selenium-UserAgent/issues/2
 Catmandu-LIDO-0.01                      https://github.com/LibreCat/Catmandu-LIDO/issues/1
@@ -2671,14 +2543,11 @@ Module-Install-Rust-0.01                114244
 Trace-Mask-0.000007                     https://github.com/exodist/Trace-Mask/issues/3
 Carp-Clan-6.04                          114537,https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 XML-Compile-SOAP-Daemon-3.11            114366
-App-perlbrew-0.75                       https://rt.perl.org/rt3/Ticket/Display.html?id=128139
-Data-Show-0.002003                      https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 Graph-Easy-0.75                         https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 GraphViz2-2.38.tgz                      https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 Mac-Errors-1.18                         https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 Parse-FSM-1.12                          https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 Type-Tiny-1.000005                      114386,https://rt.perl.org/rt3/Ticket/Display.html?id=128139
-WWW-Search-Ebay-3.045                   https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 Text-Starfish-1.21                      114354
 App-VW-0.01                             114391
 Struct-Diff-0.53                        no bugtracker, use of experimental functions on references
@@ -2686,22 +2555,21 @@ Mojolicious-Plugin-TemplatePerlish-0.001-TRIAL https://github.com/polettix/Mojol
 Struct-Diff-0.54                        no bugtracker, use of experimental functions on references
 Script-Toolbox-0.49                     111379
 B-OPCheck-0.30                          https://rt.perl.org/rt3/Ticket/Display.html?id=128179
-Devel-MAT-0.23                          https://rt.perl.org/rt3/Ticket/Display.html?id=128179
 IPC-Mmap-0.21                           https://rt.perl.org/rt3/Ticket/Display.html?id=128179
 Char-GBK-1.05                           114484
-CNC-Cog-0.061                           111909
-Image-Resize-0.5                        60038
+CNC-Cog-0.061                           111909,111909
+Image-Resize-0.5                        60038,60038
 Apache-Solr-1.03                        114542
 Excel-Template-XLSX-v1.0.5              114543
 MsgPack-RPC-0.1.1                       https://github.com/yanick/MsgPack-RPC/issues/5
-Data-Show-0.002003                      114550
+Data-Show-0.002003                      https://rt.perl.org/rt3/Ticket/Display.html?id=128139,114550
 GraphViz-2.20                           114551
 Mojolicious-Plugin-StaticLog-0.02       114577
 App-Rssfilter-0.07                      https://github.com/dgholz/App-Rssfilter/issues/8
 Mojolicious-Plugin-DebugDumperHelper-0.02 114578
 Mojolicious-Plugin-PlackMiddleware-0.35 114579
 MojoX-JSON-RPC-0.08                     114580
-Devel-MAT-0.23                          114581
+Devel-MAT-0.23                          https://rt.perl.org/rt3/Ticket/Display.html?id=128179,114581
 WWW-Crawler-Mojo-0.16                   https://github.com/jamadam/WWW-Crawler-Mojo/issues/4
 YATT-Lite-0.100                         106776
 IPC-PrettyPipe-0.03                     108397
@@ -2716,8 +2584,8 @@ Hex-Record-0.07                         114778
 HTML-FormFu-2.01_03                     109159
 Regexp-Common-2016052802                114783
 Cache-Profile-0.02                      114790
-App-perlbrew-0.75                       114871
-Business-Payment-SwissESR-0.13.0        https://github.com/oetiker/business-payment-swissesr/issues/2
+App-perlbrew-0.75                       https://rt.perl.org/rt3/Ticket/Display.html?id=128139,114871
+Business-Payment-SwissESR-0.13.0        https://github.com/oetiker/business-payment-swissesr/issues/1,https://github.com/oetiker/business-payment-swissesr/issues/2
 Minilla-v3.0.1                          https://github.com/tokuhirom/Minilla/issues/193
 Devel-QuickCover-0.600000               115010
 Test-Needs-0.002001                     115021
@@ -2735,7 +2603,7 @@ Dancer2-0.200000                        https://github.com/PerlDancer/Dancer2/is
 Text-Amuse-Compile-0.59                 115177
 Dancer2-Plugin-UnicodeNormalize-0.033   115180
 Dancer2-Serializer-JSONMaybeXS-0.001    https://github.com/Grinnz/Dancer2-Serializer-JSONMaybeXS/issues/1
-WWW-Search-Ebay-3.045                   115225
+WWW-Search-Ebay-3.045                   https://rt.perl.org/rt3/Ticket/Display.html?id=128139,115225
 Erlang-Parser-0.5                       115216
 Dist-Zilla-PluginBundle-Author-KENTNL-2.025010 https://github.com/kentnl/Dist-Zilla-PluginBundle-Author-KENTNL/issues/1
 ack-2.14                                https://github.com/petdance/ack2/issues/602
@@ -2779,7 +2647,7 @@ QBit-Application-0.011                  115878
 LCFG-Build-PkgSpec-0.1.0                115899
 Regexp-Whitespace-0.001_1-TRIAL         fails for perl >= 5.18, no issue tracker
 JMAP-Validation-0.003                   115130
-RTF-Tokenizer-1.19                      115956
+RTF-Tokenizer-1.19                      https://rt.perl.org/rt3/Ticket/Display.html?id=128139,115956
 OptArgs2-0.0.6                          https://github.com/mlawren/p5-OptArgs2/issues/2
 Template-Pure-0.020                     https://github.com/jjn1056/Template-Pure/issues/9
 Class-Constant-0.06                     115995
@@ -2796,7 +2664,6 @@ Monitoring-GLPlugin-2.2.0.1             116130
 Monitoring-GLPlugin-2.1.3               116130
 Math-BigInt-1.999725                    116123
 Time-Ago-0.07                           116151
-XML-DOM-XPath-0.14                      https://rt.perl.org/Ticket/Display.html?id=128622
 B-Hooks-Parser-0.16                     https://rt.perl.org/Ticket/Display.html?id=128621
 Devel-Declare-0.006018                  https://rt.perl.org/Ticket/Display.html?id=128621
 Lingua-FR-Numbers-1.161950              98817
@@ -2827,7 +2694,7 @@ Deeme-Backend-Mango-0.02                https://github.com/mudler/p5-Deeme-Backe
 Mojo-JSON_XS-0.101                      https://github.com/niczero/mojo-jsonxs/issues/1
 Mojolicious-Command-generate-lexicont-0.05 https://github.com/dokechin/Mojolicious-Command-generate-lexicont/issues/2
 Mojolicious-Plugin-RelativeUrlFor-0.051 116350
-Mojolicious-Plugin-DSC-1.005            https://github.com/kberov/Mojolicious--Plugin--DSC/issues/3
+Mojolicious-Plugin-DSC-1.005            https://github.com/kberov/Mojolicious--Plugin--DSC/issues/2,https://github.com/kberov/Mojolicious--Plugin--DSC/issues/3
 Time-Verbal-1.0.0                       116192
 Math-NumSeq-71                          116357
 Mojo-UserAgent-Mockable-1.31            https://github.com/PopeFelix/Mojo-UserAgent-Mockable/issues/8
@@ -2843,21 +2710,20 @@ Mojolicious-Plugin-MethodOverride-0.053 116375
 Dancer2-Plugin-HTTP-Auth-Extensible-0.121 116377
 DBIx-Mojo-Template-0.04                 116379
 Date-Japanese-Era-0.06                  116381
-HTML-FillInForm-Lite-1.14               https://github.com/gfx/p5-HTML-FillInForm-Lite/issues/6
-Lingua-Slavic-Numbers-0.03              116382
+HTML-FillInForm-Lite-1.14               https://github.com/gfx/p5-HTML-FillInForm-Lite/issues/5,https://github.com/gfx/p5-HTML-FillInForm-Lite/issues/6
+Lingua-Slavic-Numbers-0.03              https://rt.perl.org/rt3/Ticket/Display.html?id=128139,116382
 Mojolicious-Plugin-ReplyTable-0.06      https://github.com/jberger/Mojolicious-Plugin-ReplyTable/issues/4
 Template-Pure-0.022                     https://github.com/jjn1056/Template-Pure/issues/9
 URI-Find-Schemeless-Stricter-1.03       116383
-XML-DOM-XPath-0.14                      115098
+XML-DOM-XPath-0.14                      https://rt.perl.org/Ticket/Display.html?id=128622,115098
 WWW-Amazon-Wishlist-2.014               116384
-BibTeX-Parser-0.69                      116391
+BibTeX-Parser-0.69                      https://rt.perl.org/rt3/Ticket/Display.html?id=128139,116391
 Business-Mondo-0.04                     https://github.com/leejo/business-mondo/issues/4
 Crypt-SaltedHash-0.09                   116392
-MP3-Tag-1.13                            105165
-XML-Atom-0.41                           115101
-Devel-NYTProf-6.03                      https://github.com/timbunce/devel-nytprof/issues/97
+MP3-Tag-1.13                            https://rt.perl.org/rt3/Ticket/Display.html?id=128139,105165
+XML-Atom-0.41                           https://rt.perl.org/rt3/Ticket/Display.html?id=122121,115101
+Devel-NYTProf-6.03                      https://rt.perl.org/rt3/Ticket/Display.html?id=128179,https://github.com/timbunce/devel-nytprof/issues/97
 DateTime-Calendar-Japanese-0.06001      116410
-BSD-Process-0.07                        88975
 Graph-Dijkstra-0.70                     116412
 JavaScript-Writer-0.3.1                 116413,116414,116415
 REST-Google-1.0.8                       92061
@@ -2902,14 +2768,14 @@ Devel-NYTProf-Callgrind-TicksDiff-0.05  115284
 NanoMsg-Raw-0.08                        116555
 Net-HTTPS-Any-0.11                      116405
 Nginx-ParseLog-1.02                     116557
-Sereal-Decoder-3.014                    https://github.com/Sereal/Sereal/issues/138
+Sereal-Decoder-3.014                    https://rt.perl.org/rt3/Ticket/Display.html?id=128179,https://github.com/Sereal/Sereal/issues/136,https://github.com/Sereal/Sereal/issues/138
 Mail-SimpleList-0.94                    116565
 OrePAN2-0.42                            https://github.com/tokuhirom/OrePAN2/issues/42
 Class-C3-XS-0.13                        116566
 Acme-UTOPIA-Utils-0.03                  116576
 Text-Document-1.07                      73120
 Dist-Zilla-Plugin-Test-Inline-0.011005  116578
-Tangence-0.21                           116579
+Tangence-0.21                           112978,116579
 Test-UNIXSock-0.1                       https://github.com/fujiwara/Test-UNIXSock/issues/1
 deferred-0.01                           116581
 Debug-Easy-1.13                         116583
@@ -2969,7 +2835,7 @@ DBI-Test-0.001                          102912
 Filter-PerlTags-Extra-0.01              116723
 Sys-PageCache-0.02                      116724
 Trac-RPC-1.0.0                          https://github.com/bessarabov/Trac-RPC/issues/2
-Params-Lazy-0.005                       99807
+Params-Lazy-0.005                       https://rt.perl.org/rt3/Ticket/Display.html?id=123052,99807
 Test-Class-Moose-0.75                   https://github.com/test-class-moose/test-class-moose/issues/65
 Lingua-SWE-Num2Word-0.0682              104855
 Finance-btce-0.1                        116729
@@ -2983,7 +2849,7 @@ FCGI-Engine-0.22                        116751
 WWW-Scraper-ISBN-Blackwell_Driver-0.09  106780
 Net-DNS-ZoneFile-Fast-1.24              99093
 NoSQL-PL2SQL-1.21                       90543
-Vim-Debug-0.904                         https://github.com/kablamo/VimDebug/issues/36
+Vim-Debug-0.904                         https://github.com/kablamo/VimDebug/issues/33,https://github.com/kablamo/VimDebug/issues/36
 Thread-SharedTreeSet-0.01               116752
 WebService-Freshservice-0.001           116753
 Data-RuledValidator-0.13                91403
@@ -3012,7 +2878,6 @@ Finance-FITF-0.31                       116945
 Bread-Board-Svc-0.01                    116947
 WWW-Desk-0.09                           116965
 Dist-Zilla-Plugins-CJM-4.27             116902
-Const-Fast-0.014                        https://rt.perl.org/Ticket/Display.html?id=128966
 Reply-0.41                              https://github.com/doy/reply/issues/52
 Net-Flotum-0.09                         https://github.com/eokoe/Net-Flotum/issues/5
 DBIx-EAV-0.08                           https://github.com/cafe01/dbix-eav/issues/1
@@ -3032,7 +2897,7 @@ Performance-Probability-0.04            117088
 textrender-1.09                         117089
 WWW-Trello-Lite-1.00                    98204
 Variable-Magic-0.59                     117081,https://rt.perl.org/Ticket/Display.html?id=128989
-Data-Printer-0.38                       https://github.com/garu/Data-Printer/issues/98
+Data-Printer-0.38                       https://github.com/garu/Data-Printer/issues/85,https://github.com/garu/Data-Printer/issues/98
 YAML-1.18                               https://github.com/ingydotnet/yaml-pm/issues/134
 HPCI-0.45                               113594
 Dancer2-Plugin-PageHistory-0.206        https://github.com/SysPete/Dancer2-Plugin-PageHistory/issues/3
@@ -3055,7 +2920,7 @@ Alien-MuPDF-0.005_03                    117145
 Devel-Chitin-0.07                       117146
 Mojolicious-Plugin-Riotjs-0.06          https://github.com/jhthorsen/mojolicious-plugin-riotjs/issues/2
 Mojolicious-Plugin-DevexpressHelpers-0.160822 117155
-Data-Inspect-0.04                       117168
+Data-Inspect-0.04                       https://rt.perl.org/rt3/Ticket/Display.html?id=128139,117168
 WWW-Tumblr-5.2                          https://github.com/damog/www-tumblr/issues/14
 Readonly-Tiny-3                         117170
 Device-Chip-PCF8563-0.01                117171
@@ -3075,16 +2940,16 @@ WWW-Scraper-ISBN-ORA_Driver-0.22        117200
 Finance-Bank-Postbank_de-0.40           117204
 Net--RabbitMQ-0.2.8                     102508
 Tie-Hash-Check-0.04                     117194
-invoker-0.34                            117215
+invoker-0.34                            https://rt.perl.org/Public/Bug/Display.html?id=128179,117215
 Date-Reformat-0.03                      117216
-TeX-Hyphen-1.16                         117217
-WWW-Google-PageRank-0.17                117218
+TeX-Hyphen-1.16                         https://rt.perl.org/rt3/Ticket/Display.html?id=128139,117217
+WWW-Google-PageRank-0.17                https://rt.perl.org/rt3/Ticket/Display.html?id=122121,117218
 JSON-XS-Sugar-1.01                      https://github.com/maxmind/JSON-XS-Sugar-perl/issues/4
 Tree-Binary-XS-0.03                     117220
-LaTeX-Decode-0.04                       110678
-Mojolicious-Plugin-ConsoleLogger-0.06   117228
+LaTeX-Decode-0.04                       https://rt.perl.org/rt3/Ticket/Display.html?id=128139,110678
+Mojolicious-Plugin-ConsoleLogger-0.06   https://rt.perl.org/rt3/Ticket/Display.html?id=128139,117228
 Test-Toolbox-0.3                        117181
-DestructAssign-0.002004                 117229
+DestructAssign-0.002004                 https://rt.perl.org/rt3/Ticket/Display.html?id=128179,117229
 Char-Big5HKSCS-1.05                     117230
 Char-Big5Plus-1.05                      117230
 Char-GB18030-1.05                       117230
@@ -3094,25 +2959,25 @@ Char-KPS9566-1.05                       117230
 Char-Sjis-1.05                          117230
 Char-UHC-1.05                           117230
 Sub-Trigger-Lock-0.002                  117231
-WWW-StationJp-API-0.01                  https://github.com/sue7ga/WWW-StationJp-API/issues/2
+WWW-StationJp-API-0.01                  https://github.com/sue7ga/WWW-StationJp-API/issues/1,https://github.com/sue7ga/WWW-StationJp-API/issues/2
 Catmandu-Importer-MWTemplates-0.01      https://github.com/LibreCat/Catmandu-Importer-MWTemplates/issues/4
 CDB-TinyCDB-0.05                        107191
-DateTime-Calendar-FrenchRevolutionary-0.12 117246
+DateTime-Calendar-FrenchRevolutionary-0.12 https://rt.perl.org/rt3/Ticket/Display.html?id=128139,117246
 Dist-Zilla-Plugin-MakeMaker-SkipInstall-1.100 117247
 Log-Any-Plugin-0.005                    117248
 Mojolicious-Plugin-Browserify-0.06      https://github.com/jhthorsen/mojolicious-plugin-browserify/issues/2
-SNMP-Trapinfo-1.03                      117249
-Text-Extract-MaketextCallPhrases-0.93   117250
+SNMP-Trapinfo-1.03                      https://rt.perl.org/rt3/Ticket/Display.html?id=128139,117249
+Text-Extract-MaketextCallPhrases-0.93   https://rt.perl.org/rt3/Ticket/Display.html?id=128139,117250
 Try-Tiny-Except-0.01                    https://github.com/tfoertsch/perl-Try-Tiny-Except/issues/1
 Web-API-Mock-0.01                       https://github.com/takihito/Web-API-Mock/issues/10
 Webservice-OVH-0.21                     https://github.com/itnode/Webservice-OVH/issues/2
 Net-DirectConnect-TigerHash-0.08        117264
 Finance-YahooJPN-Quote-1.08             117251
-Acme-Hidek-44.0                         117253
+Acme-Hidek-44.0                         https://rt.perl.org/rt3/Ticket/Display.html?id=128139,117253
 Git-Gitalist-0.000003                   103277
 Cond-Expr-0.04                          117254
-Hash-SharedMem-0.004                    117255
-List-Gather-0.12                        116694
+Hash-SharedMem-0.004                    https://rt.perl.org/rt3/Ticket/Display.html?id=128179,117255
+List-Gather-0.12                        https://rt.perl.org/rt3/Ticket/Display.html?id=128179,116694
 warnings-pedantic-0.02                  117256
 Ham-ADIF-1.5                            117262
 Devel-ModInfo-2.04                      117266
@@ -3132,7 +2997,7 @@ MarpaX-Database-Terminfo-0.010          117274
 Panotools-Script-0.28                   117275
 Acme-Pano-Util-0.011                    117280
 CSS-Parse-Packed-0.06                   https://github.com/ziguzagu/perl-css-parse-packed/issues/3
-HTML-Template-Parser-0.1011             117281
+HTML-Template-Parser-0.1011             https://rt.perl.org/rt3/Ticket/Display.html?id=128139,117281
 Acme-Nyaa-0.0.10                        117282
 App-Followme-1.90                       https://github.com/Jinzang/App-Followme/issues/3
 Gideon-0.0.3                            117283
@@ -3144,7 +3009,7 @@ Plack-Middleware-EnvTracer-0.01         https://github.com/bayashi/Plack-Middlew
 Test-Trivial-1.901.2                    79972
 Test-WWW-Selenium-HTML-0.02             117289
 Told-Client-0.001                       117290
-Types-ReadOnly-0.002                    117291
+Types-ReadOnly-0.002                    104553,117291
 WoW-Armory-API-1.031                    117292
 WWW-ArsenalFC-TicketInformation-1.123160 https://github.com/andrewrjones/perl5-WWW-ArsenalFC-TicketInformation/issues/2
 Devel-Optrace-0.05                      106110
@@ -3186,19 +3051,19 @@ B-C-1.54_12                             117333
 Catalyst-Plugin-UploadProgress-0.06     117335
 Config-Layered-0.000003                 117336
 Net-DNS-DurableDNS-v1.1                 98461
-Sub-StopCalls-0.02                      117338
+Sub-StopCalls-0.02                      https://rt.perl.org/rt3/Ticket/Display.html?id=128179,117338
 DBIx-Class-FilterColumn-ByType-1.122121 117340
 InlineX-CPP2XS-0.24                     117341
 Data-Structure-Compare-0.02             117342
 Net-XMPP-1.05                           https://github.com/dap/Net-XMPP/issues/13
 NIST-NVD-1.00.00                        117343
 Mojolicious-Plugin-ParamLogger-0.01     https://github.com/sshaw/Mojolicious-Plugin-ParamLogger/issues/2
-Fun-0.05                                117344
+Fun-0.05                                89825,117344
 Dancer-Plugin-CDN-1.001                 https://github.com/grantm/Dancer-Plugin-CDN/issues/2
 Net-Rexster-Client-v0.0.5               117347
-Monitoring-Generator-TestConfig-0.44    https://github.com/sni/Monitoring-Generator-TestConfig/issues/3
+Monitoring-Generator-TestConfig-0.44    https://rt.perl.org/rt3/Ticket/Display.html?id=128139,https://github.com/sni/Monitoring-Generator-TestConfig/issues/3
 use-0.05                                117349
-rpm-build-perl-0.82                     117350
+rpm-build-perl-0.82                     85411,117350
 PerlPowerTools-1.011                    https://github.com/briandfoy/PerlPowerTools/issues/40
 WWW-DoctypeGrabber-0.007                117388
 TeX-AutoTeX-v0.906.0                    117355
@@ -3222,18 +3087,18 @@ Games-PangZero-v1.4.1                   https://github.com/kthakore/pangzero/iss
 LPDS-0.02                               117381
 Net-OpenVPN-TrayIcon-v0.2.2             117382
 Haineko-0.2.16                          117383
-XML-RPC-Fast-0.8                        117384
-Array-Base-0.005                        117385
-optimizer-0.08                          117387
-App-ZofCMS-1.001006                     https://github.com/zoffixznet/App-ZofCMS/issues/11
+XML-RPC-Fast-0.8                        waiting for newer URI::Escape than 1.61,117384
+Array-Base-0.005                        https://rt.perl.org/rt3/Ticket/Display.html?id=128179,117385
+optimizer-0.08                          https://rt.perl.org/rt3/Ticket/Display.html?id=128179,117387
+App-ZofCMS-1.001006                     https://rt.perl.org/rt3/Ticket/Display.html?id=128139,https://github.com/zoffixznet/App-ZofCMS/issues/11
 Attribute-Args-0.05                     117389
 Bio-Phylo-Beagle-0.03                   113941
 Telephone-Mnemonic-US-0.07              117390,117391
-Text-Summarize-0.50                     117392
+Text-Summarize-0.50                     75845,117392
 Lingua-EN-Sentence-Offsets-0.03         https://github.com/andrefs/Lingua-EN-Sentence-Offsets/issues/3
 Module-Mask-Deps-0.07                   103995
 Acme-CPAN-Testers-FAIL-0.02             expected to fail
-Plack-Middleware-Log-Minimal-0.06       117402
+Plack-Middleware-Log-Minimal-0.06       https://rt.perl.org/rt3/Ticket/Display.html?id=128139,117402
 Syntax-Highlight-Engine-Simple-0.09     117403
 Date-Manip-6.55                         117404
 LWP-UserAgent-ExponentialBackoff-0.04   117405
@@ -3241,18 +3106,18 @@ PasswordMonkey-0.09                     117406
 WWW-NHKProgram-API-0.03                 https://github.com/moznion/WWW-NHKProgram-API/issues/3
 WWW-YouTube-Download-Channel-0.09       117408
 Geo-PostalCode-NoDB-0.01                77506
-Scope-Cleanup-0.002                     117409
-Socket-Class-2.258                      114734
-String-Base-0.001                       117410
+Scope-Cleanup-0.002                     https://rt.perl.org/rt3/Ticket/Display.html?id=128179,117409
+Socket-Class-2.258                      Similar fails now with 5.18.2,115277,114734
+String-Base-0.001                       https://rt.perl.org/rt3/Ticket/Display.html?id=128179,117410
 Math-ThinPlateSpline-0.06               117412,117413
-Scope-Escape-0.004                      117416
+Scope-Escape-0.004                      https://rt.perl.org/rt3/Ticket/Display.html?id=114556,117416
 TM-1.56                                 86022
 File-RelDir-0.1                         88465
 Lingua-XFST-0.1                         95249
 OpenERP-XMLRPC-Simple-0.22              https://github.com/OpusVL/OpenERP-XMLRPC-Simple/issues/1
 Tie-Handle-Flock-0.02                   117351
 UTM5-URFAClient-0.54                    117419
-Const-Fast-0.014                        117420
+Const-Fast-0.014                        https://rt.perl.org/Ticket/Display.html?id=128966,117420
 optimize-0.05                           117421
 Acme-Greeting-0.0.3                     117425
 LoadHtml-7.08                           117426
@@ -3263,7 +3128,7 @@ Bio-Das-Lite-2.11                       117430
 Mojolicious-Plugin-Plift-0.01           https://github.com/cafe01/Mojolicious-Plugin-Plift/issues/1
 App-Mowyw-v0.7.1                        107510
 Perl-Repository-APC-2.002001            117435
-PLUTO-0.30                              117436
+PLUTO-0.30                              https://rt.perl.org/rt3/Ticket/Display.html?id=128139,117436
 Schedule-Cron-1.01                      117437
 Crypt-Nettle-0.3                        117438
 Memoize-Lift-0.000                      117439
@@ -3273,7 +3138,7 @@ IPC-XPA-0.10                            117442
 App-Bernard-0.01                        117444
 Crypt-Serpent-1.01                      117445
 Data-Semantic-Net-1.101760              117446
-DBIx-CouchLike-0.16                     95913
+DBIx-CouchLike-0.16                     95913,95913
 DBIx-MyServer-0.42                      117447
 Debug-LTrace-0.03                       95281
 JSAN-Client-0.29                        117448
@@ -3282,34 +3147,33 @@ DBD-Sys-0.102                           117450
 DBIx-QueryByName-0.18                   67034
 Devel-EdTrace-0.95                      117451
 Finance-Quote-Sberbank-0.04             117452
-Convert-EastAsianWidth-1.02             117453
+Convert-EastAsianWidth-1.02             https://rt.perl.org/rt3/Ticket/Display.html?id=122121,117453
 DataWarehouse-0.04                      117454
-Javascript-Closure-0.07                 117455
+Javascript-Closure-0.07                 91916,117455
 Module-Build-JSAN-Installable-0.13      117456
 Ser-BinRPC-0.01                         117457
-String-Simrank-0.079                    96377
-TRD-Velocity-0.0.8                      117459
+String-Simrank-0.079                    https://rt.perl.org/rt3/Ticket/Display.html?id=122077,96377
+TRD-Velocity-0.0.8                      https://rt.perl.org/rt3/Ticket/Display.html?id=128139,117459
 Weasel-0.09                             https://github.com/perl-weasel/weasel/issues/3
 App-get_flash_videos-1.24               117465
 Astro-FITS-CFITSIO-Utils-0.13           117466
 HTML-Tested-0.58                        117467
 Mojolicious-Plugin-SassRenderer-0.02    96120
 Sys-Hwloc-0.10                          117468
-XUL-Gui-0.63                            117469
+XUL-Gui-0.63                            https://rt.perl.org/rt3/Ticket/Display.html?id=128139,117469
 PFT-v1.0.4                              116333
-Clone-Closure-0.06                      117470
+Clone-Closure-0.06                      69111,117470
 Devel-Hints-0.21                        76398
 Calendar-Model-0.04                     95963
-Class-Maker-0.06                        80618
 SVG-Estimate-1.0103                     https://github.com/rizen/SVG-Estimate/issues/11
 Alien-QtSmoke-4.3.3                     117483
 Devel-StackBlech-0.06                   112296
 File-Locate-0.62                        76413
-Lexical-SingleAssignment-0.01           117484
-AI-Pathfinding-SMAstar-0.07             108697
+Lexical-SingleAssignment-0.01           95297,117484
+AI-Pathfinding-SMAstar-0.07             108697,108697
 App-USBKeyCopyCon-1.02                  117487,117488
 Catalyst-Authentication-Store-Jifty-DBI-0.03 117489
-Class-Maker-0.06                        80618
+Class-Maker-0.06                        80618,80618
 Dancer-Plugin-Tapir-0.05                https://github.com/ewaters/dancer-plugin-tapir/issues/1
 DateTimeX-Factory-1.00                  https://github.com/takuji31/DateTimeX-Factory/issues/1
 ETLp-0.04                               117490
@@ -3326,7 +3190,7 @@ lib-if-dev-0.002                        117498
 Test-Mimic-Recorder-0.012005            117499
 Text-EmacsColor-0.03                    117500
 RRD-Daemon-1.01                         63890
-Text-ParseAHD-0.0.2                     117501
+Text-ParseAHD-0.0.2                     95295,117501
 VIM-Packager-2010.03218                 117502
 DBIx-DBStag-0.12                        117503
 RMI-0.10                                117504
@@ -3345,9 +3209,9 @@ Gtk2-Ex-PodViewer-0.18                  117509
 Params-Validate-Aggregated-0.05         117510
 WWW-Shorten-PunyURL-0.03                102934
 Cache-Memcached-Tags-0.02               45827
-Data-Transform-SSL-0.03                 75854
+Data-Transform-SSL-0.03                 75854,75854
 AnyEvent-XMLRPC-0.03                    117514
-Class-DOES-1.00                         117515
+Class-DOES-1.00                         https://rt.perl.org/rt3/Ticket/Display.html?id=128139,117515
 Bio-PrimerDesigner-0.07                 85968
 Git-SVNReplay-1.0214                    117516
 Mail-SNCF-0.02                          55128
@@ -3392,9 +3256,8 @@ HTML-MobileJpCSS-0.02                   117558
 AI-Evolve-Befunge-0.03                  117559
 Catalyst-Authentication-Store-FromSub-Hash-0.09 117551
 Data-HTMLDumper-0.08                    117560
-DBD-SQLite-Amalgamation-3.6.1.2         117561
 fp-0.03                                 117562
-Games-Messages-0.05                     24963
+Games-Messages-0.05                     24963,24963
 GD-Tab-Guitar-0.03                      117563
 Goo-0.09                                102123
 IO-EventMux-Socket-MsgHdr-0.02          117564
@@ -3402,7 +3265,7 @@ Maildir-Lite-0.02                       63389
 Daemonise-1.0-1                         117565
 Mail-MboxParser-0.55                    85805
 POE-XUL-0.0601                          117566
-DBD-SQLite-Amalgamation-3.6.1.2         https://rt.cpan.org/Ticket/Display.html?id=117561
+DBD-SQLite-Amalgamation-3.6.1.2         117561,https://rt.cpan.org/Ticket/Display.html?id=117561
 Catalyst-View-CSS-Squish-0.02           117568
 GD-Tab-Ukulele-0.01                     117569
 Apache-Scriptor-1.21                    117571
@@ -3428,12 +3291,12 @@ XML-Handler-ExtOn-0.06                  117592
 Acme-PerlTidy-0.02                      117593
 Alvis-Bags-0.3                          117594
 Acme-Spider-0.02                        117595
-Alvis-QueryFilter-0.3                   117597
+Alvis-QueryFilter-0.3                   109418,117597
 AxKit2-1.1                              117598
 File-FilterFuncs-0.53                   117599
 Lingua-AlignmentSet-1.1                 117600
 encoding-warnings-0.11                  100538
-Regexp-Ethiopic-0.15                    117602
+Regexp-Ethiopic-0.15                    https://rt.perl.org/rt3/Ticket/Display.html?id=122121,117602
 Regexp-Genex-0.07                       117603
 Test-Legacy-1.2502                      84606
 Test-SerialFork-0.01                    117605
@@ -3476,7 +3339,7 @@ Pod-Manual-0.08                         62600
 Log-Dispatch-Scribe-0.06                117682
 Module-Pluggable-5.2                    111539
 Postgres-Handler-HTML-1                 117683
-Shell-Base-0.05                         117685
+Shell-Base-0.05                         19649,117685
 SMS-Send-AT-SmsAt-v0.0.4                117686
 System2-0.84                            117687
 autobless-1.0.1                         117688
@@ -3494,8 +3357,8 @@ Website-1.14.01                         117716
 WSDL-Generator-0.04                     117717
 WWW-SherlockSearch-0.20                 117718
 Acme-Goto-Line-0.01                     117719
-CVSUtils-1.01                           108860
-Tie-Proxy-Hash-1.01                     110208
+CVSUtils-1.01                           1333,108860
+Tie-Proxy-Hash-1.01                     110207,110208
 X-Osd-0.7                               113937
 XML-Handler-HTMLWriter-2.01             117726
 Blog-BlogML-Reader-1.03                 117720
@@ -3549,7 +3412,7 @@ Text-Unaccent-1.10                      21177
 Tie-Hash-Indexed-0.05_03                https://github.com/mhx/Tie-Hash-Indexed/issues/2
 Image-Signature-0.01                    117775
 Myco-1.22                               117776
-Time-Format-1.12                        85001
+Time-Format-1.12                        a case for strace, Date::Manip only a "recommends",111230,85001
 Alien-LibANN-0.01000                    82688
 Alien-Libevent-0.01004                  98058
 Crypt-PBC-0.9000                        97122
@@ -3572,8 +3435,7 @@ Perlanet-DBIx-Class-0.02                117808
 Catalyst-Plugin-AtomServer-0.04         51124
 RPC-Any-1.00                            90926
 Bot-BasicBot-Pluggable-Module-Notes-0.02 117809
-Bot-BasicBot-Pluggable-FromConfig-0.6   https://github.com/ungrim97/Bot-BasicBot-Pluggable-FromConfig/issues/2
-Bot-BasicBot-Pluggable-Module-Twitter-0.0.3 110335
+Bot-BasicBot-Pluggable-Module-Twitter-0.0.3 110335,110335
 Scalar-List-Utils-1.45_05               117815,117816
 Net-ThreeScale-Client-2.0.2             103074
 Net-Mollom-0.09                         117822
@@ -3608,7 +3470,7 @@ DBIx-Class-CustomPrefetch-0.09          117899
 AI-ConfusionMatrix-0.005                117933
 JSON-Schema-Shorthand-0.0.1             https://github.com/yanick/perl-json-schema-shorthand/issues/1
 Polloc-1.5.3b                           113621
-Bio-Graphics-2.39                       117905
+Bio-Graphics-2.39                       103175,117905
 Finance-QuoteTW-0.08                    117906
 Module-Build-TAPArchive-0.04            46632
 WWW-Dict-0.0.1                          117907
@@ -3645,7 +3507,7 @@ AnyEvent-Atom-Stream-0.02               118006
 Coro-6.511                              114708
 App-Licensecheck-v3.0.24                118007
 Cache-RedisDB-0.10                      https://github.com/binary-com/perl-Cache-RedisDB/issues/9
-UNIVERSAL-ref-0.14                      118008
+UNIVERSAL-ref-0.14                      https://rt.perl.org/rt3/Ticket/Display.html?id=128179,118008
 BrowserStack-Local-1.0.0                no bugtracker, missing dependency specifications
 DDG-1008                                https://github.com/duckduckgo/duckduckgo/issues/222
 Evo-XS-0.005                            https://github.com/alexbyk/perl-evo-xs/issues/1
@@ -3665,14 +3527,14 @@ PersistentPerl-2.22                     33287
 Pod-Weaver-Section-ClassMopper-1.150880 118089
 Email-MIME-Kit-Bulk-0.0.2               https://github.com/iinteractive/Email-MIME-Kit-Bulk/issues/2
 SVG-2.64                                118091
-Time-OlsonTZ-Download-0.004             110676
+Time-OlsonTZ-Download-0.004             https://rt.perl.org/rt3/Ticket/Display.html?id=128139,110676
 Lexical-Var-0.009                       115992
 Prima-Cairo-1.03                        118093
 Fl-0.99.14                              https://github.com/sanko/Fl.pm/issues/2
 Dancer-Plugin-Interchange6-0.121        deprecated
 Perl-Lint-0.25                          https://github.com/moznion/Perl-Lint/issues/97
 FormValidator-Lite-0.38                 https://github.com/tokuhirom/FormValidator-Lite/issues/15
-Boost-Geometry-Utils-0.15               96145
+Boost-Geometry-Utils-0.15               https://rt.perl.org/rt3/Ticket/Display.html?id=121826,96145
 Apache-Logmonster-5.36                  118104
 FIX-Parser-0.01                         118105
 Message-Passing-Syslog-0.011            103914
@@ -3681,13 +3543,12 @@ Monitoring-TT-1.0.0                     https://github.com/sni/Monitoring-TT/iss
 Script-Ichigeki-0.04                    https://github.com/Songmu/p5-Script-Ichigeki/issues/1
 Sub-Information-0.10                    118106
 Bio-Tools-Primer3Redux-0.09             118107
-Monitoring-Livestatus-0.76              https://github.com/sni/Monitoring-Livestatus/issues/2
-IO-Infiles-0.06                         118109
-HTML-Defang-1.04                        110663
+IO-Infiles-0.06                         95763,118109
+HTML-Defang-1.04                        https://rt.perl.org/rt3/Ticket/Display.html?id=128139,110663
 DateTime-Format-EMIUCP-0.0300           118110
 Plack-Middleware-Debug-Notepad-0.10     118112
 CGI-Application-Plugin-Authorization-0.07 116397
-Language-Farnsworth-0.7.7               118125
+Language-Farnsworth-0.7.7               https://rt.perl.org/rt3/Ticket/Display.html?id=128139,118125
 DBIx-Class-DigestColumns-0.06000        108694
 Froody-42.034                           118126
 Kwiki-LivedoorAuth-0.01                 118127
@@ -3724,7 +3585,7 @@ STANAG-0.01                             118199
 WebService-Ustream-API-0.03             66971
 perlbal-plugin-stickysessions-0.02      118200
 Apache-SWIT-Security-0.13               118201
-Monitoring-Livestatus-0.76              https://github.com/sni/Monitoring-Livestatus/issues/3
+Monitoring-Livestatus-0.76              https://github.com/sni/Monitoring-Livestatus/issues/2,https://github.com/sni/Monitoring-Livestatus/issues/3
 DBD-AnyData-0.110                       deprecated,101630
 Locale-Maketext-Lexicon-DBI-v0.2.1      79049
 Net-Random-QRBG-0.02                    118208
@@ -3760,13 +3621,10 @@ DR-Tnt-0.04                             118326
 Test-Aggregate-0.374                    100035
 AnyEvent-ClickHouse-0.021               118359
 Footprintless-1.18                      118360
-Image-Magick-Text-AutoBreak-0.02        118361
 WebService-Images-Nofrag-0.06           118362
 RPC-ExtDirect-Client-1.24               https://github.com/nohuhu/RPC-ExtDirect-Client/issues/3
 App-VTide-v0.0.7                        118369
-Classic-Perl-0.06                       https://rt.perl.org/Public/Bug/Display.html?id=129821
 Devel-Chitin-0.09                       https://rt.perl.org/Public/Bug/Display.html?id=129821
-Devel-OptreeDiff-2.3                    https://rt.perl.org/Public/Bug/Display.html?id=129821
 Conductrics-Client-0.001                118378
 Lucy-0.6.0                              https://issues.apache.org/jira/browse/LUCY-314
 Eixo-Rest-1.206                         118387
@@ -3793,7 +3651,7 @@ App-GitHubWebhooks2Ikachan-0.10         https://github.com/moznion/App-GitHubWeb
 App-MusicExpo-1.002                     118534
 B-Debug-1.23                            118391
 CPAN-Distribution-ReleaseHistory-0.002003 https://github.com/kentnl/CPAN-Distribution-ReleaseHistory/issues/1
-Classic-Perl-0.06                       118374
+Classic-Perl-0.06                       https://rt.perl.org/Public/Bug/Display.html?id=129821,118374
 Data-Checker-1.06                       118541
 Devel-CheckOS-1.77                      https://github.com/DrHyde/perl-modules-Devel-CheckOS/issues/17
 Devel-EnforceEncapsulation-0.51         118555,http://rt.perl.org/rt3/Public/Bug/Display.html?id=129851
@@ -3805,7 +3663,7 @@ Perinci-Sub-Complete-0.87               118535
 Pickles-0.10                            118538
 Plack-Middleware-JSONParser-0.02        https://github.com/yosuke-furukawa/Plack-Middleware-JSONParser/issues/2
 Riak-Client-1.96                        https://github.com/dams/riak-client/issues/4
-ShardedKV-Storage-Rest-0.8              100774
+ShardedKV-Storage-Rest-0.8              100774,100774
 Test-BrewBuild-2.08                     https://github.com/stevieb9/p5-test-brewbuild/issues/155
 Test-Debian-0.06                        https://github.com/dr-co/test-debian-perl/issues/4
 Test-PDL-0.12                           118529
@@ -3815,8 +3673,8 @@ Time-Duration-Locale-10                 118556
 Time-Duration-Locale-11                 118556
 Util-Any-0.24                           https://github.com/ktat/Util-Any/issues/1
 XML-CompileX-Schema-Loader-0.006        https://github.com/mjgardner/xml-compilex-schema-loader/issues/1
-Devel-OptreeDiff-2.3                    118372
-Image-Magick-Text-AutoBreak-0.02        118573
+Devel-OptreeDiff-2.3                    https://rt.perl.org/Public/Bug/Display.html?id=129821,118372
+Image-Magick-Text-AutoBreak-0.02        118361,118573
 Statistics-Associations-0.00003         76229
 Statistics-Zscore-0.00002               76228
 Net-RabbitMQ-Java-2.030102              118575
@@ -3881,8 +3739,6 @@ Net-GNUDBSearch-1.01                    118820
 Business-OnlinePayment-Skipjack-0.05    118821
 WebService-MusicBrainz-0.94             118822
 Footprintless-1.21                      118360
-IO-Prompt-0.997003                      https://rt.perl.org/Ticket/Display.html?id=130126
-Date-Manip-6.56                         https://rt.perl.org/Ticket/Display.html?id=130132
 Tatsumaki-0.1013                        118843
 Tatsumaki-0.101301                      118843
 MetaCPAN-Client-2.000000                https://github.com/metacpan/metacpan-client/issues/55
@@ -3890,13 +3746,13 @@ Parallel-Boss-0.02                      118842
 CatalystX-ASP-1.06                      https://github.com/stvleung/CatalystX-ASP/issues/4
 Config-Model-Systemd-0.232.1            https://github.com/dod38fr/config-model-systemd/issues/2
 Astro-App-Satpass2-0.031_01             118861
-Date-Manip-6.56                         118862
+Date-Manip-6.56                         https://rt.perl.org/Ticket/Display.html?id=130132,118862
 Test-HTTPStatus-2.001                   https://github.com/briandfoy/test-httpstatus/issues/2
 Data-Checker-1.07                       118881
 Alien-MuPDF-0.006                       118882
 WebService-SendInBlue-0.003             118884
 Finance-Bank-Postbank_de-0.43           117204
-IO-Prompt-0.997003                      118893
+IO-Prompt-0.997003                      https://rt.perl.org/Ticket/Display.html?id=130126,118893
 Test-Dist-Zilla-v0.4.2_02               118894
 Astro-satpass-0.076_01                  118910
 XML-Twig-3.50                           118909
@@ -3913,7 +3769,7 @@ Mite-v0.0.1                             https://github.com/evalEmpire/Mite/issue
 Dist-Zilla-Plugin-Test-NewVersion-0.009 118946
 WebService-SmartyStreets-0.0105         https://github.com/aanari/WebService-SmartyStreets/issues/4
 Test-Collectd-Plugins-0.1008            https://rt.perl.org/Ticket/Display.html?id=130126,118947
-Bot-BasicBot-Pluggable-FromConfig-0.6   https://github.com/ungrim97/Bot-BasicBot-Pluggable-FromConfig/issues/3
+Bot-BasicBot-Pluggable-FromConfig-0.6   https://github.com/ungrim97/Bot-BasicBot-Pluggable-FromConfig/issues/2,https://github.com/ungrim97/Bot-BasicBot-Pluggable-FromConfig/issues/3
 Search-Fulltext-Tokenizer-Ngram-0.01    https://github.com/sekia/Search-Fulltext-Tokenizer-Ngram/issues/1
 WebService-NetSuite-0.04                118954
 Devel-cst-0.010                         114914
@@ -3928,7 +3784,7 @@ Graphics-ColorNames-GrayScale-2.00      56120
 Cogwheel-0.03                           118980
 File-ShareDir-PAR-0.06                  118981
 IronMan-Schema-0.03                     118982
-Math-BigInt-Constant-1.08               118987
+Math-BigInt-Constant-1.08               113957,118987
 Lucene-0.18                             35519
 Speech-Recognizer-SPX-0.09              40537
 BatchSystem-SBS-0.41                    41692
@@ -4023,7 +3879,7 @@ CGI-Buffer-0.78                         119729
 FCGI-Buffer-0.08                        119730
 Template-Declare-0.47                   119731
 Mojolicious-Plugin-HTMLLint-0.04        119732
-String-Diff-0.07                        https://github.com/yappo/p5-String-Diff/issues/7
+String-Diff-0.07                        https://github.com/yappo/p5-String-Diff/issues/4,https://github.com/yappo/p5-String-Diff/issues/7
 App-CharmKit-2.07                       https://github.com/charmkit/App-CharmKit/issues/6,https://github.com/charmkit/App-CharmKit/issues/7
 Date-Holidays-AU-0.14                   119749
 Paws-Kinesis-MemoryCaller-0.08          https://github.com/keithbro/Paws-Kinesis-MemoryCaller/issues/3
@@ -4042,7 +3898,7 @@ Ryu-0.001                               119766
 Catalyst-View-CSV-1.7                   119769
 IPC-Lock-WithTTL-0.01                   119775
 LWP-UserAgent-DNS-Hosts-0.08            119776
-App-Sysadmin-Log-Simple-0.009           https://github.com/doherty/App-Sysadmin-Log-Simple/issues/17,deprecated
+App-Sysadmin-Log-Simple-0.009           waiting for newer URI::Escape than 1.61,https://github.com/doherty/App-Sysadmin-Log-Simple/issues/17,deprecated
 Locale-Meta-0.002                       119798
 Form-Processor-Model-RDBO-0.02          119778
 Data-FormValidator-Filters-Image-0.40   119781
@@ -4077,20 +3933,20 @@ Curses-UI-Grid-0.15                     119921
 Tk-EntryCheck-0.04                      119933
 Text-Bidi-2.12                          108739
 Sys-Info-Driver-Linux-0.7903            98099
-XML-Liberal-0.30                        119940
+XML-Liberal-0.30                        103458,119940
 Mojolicious-Plugin-AssetPack-1.38       https://github.com/jhthorsen/mojolicious-plugin-assetpack/issues/115
 Mojo-SMTP-Client-0.11                   119946
 Ogg-Vorbis-Decoder-0.9                  119947
 SMS-Send-Sergel-Simple-HTTP-0.01        119948
 Geo-Coder-List-0.02                     119952
-Linux-Smaps-0.13                        104515
+Linux-Smaps-0.13                        104515,104515
 ELF-Extract-Sections-1.001000           https://github.com/kentnl/ELF-Extract-Sections/issues/2
-FFI-1.09                                https://github.com/plicease/FFI/issues/2
+FFI-1.09                                https://github.com/plicease/FFI/issues/1,https://github.com/plicease/FFI/issues/2
 Eixo-Zone-Driver-0.03                   119991
 Archive-Rar-2.02                        114246
 Finance-Bank-JP-Mizuho-0.02             120025
 Devel-Valgrind-Client-0.01              76890
-Gtk2-Ex-Simple-List-0.50                120027
+Gtk2-Ex-Simple-List-0.50                110184,120027
 XML-Debian-ENetInterfaces-0.07          120028
 Locale-Meta-0.004                       120031
 Text-AI-CRM114-0.05                     120035
@@ -4161,7 +4017,6 @@ Message-Passing-Output-Log-Any-Adapter-0.003 120419
 Mojolicious-Plugin-AssetPack-Che-1.40   120428
 Math-Business-Blackscholes-Binaries-1.23 112745,120430
 code-UnifdefPlus-0.005.004              120449
-AnyEvent-TLS-SNI-0.03                   module is deprecated
 LWP-UserAgent-DNS-Hosts-0.09            119776
 POE-Component-Client-DNS-Recursive-1.10 116609
 Google-Ads-AdWords-Client-4.12.0        118509
@@ -4190,7 +4045,6 @@ Dancer2-0.205000                        https://github.com/PerlDancer/Dancer2/is
 HTTP-Cache-Transparent-1.3              120584
 PEF-Front-WebSocket-0.06                https://github.com/jef-sure/pef-front-websocket/issues/2
 Authen-SASL-XS-1.00                     120606
-Crypt-OpenSSL-VerifyX509-0.10           120607,120608
 Crypt-Password-0.28                     120609
 Mail-Builder-2.12                       118885
 Mojolicious-Plugin-SimpleSlides-0.05    deprecated
@@ -4249,7 +4103,7 @@ Git-Database-0.008                      120760
 Combine-Keys-0.02                       120761
 Panda-Time-3.1.1                        120703
 Devel-MAT-0.25                          114581
-XRI-Resolution-Lite-0.04                120780
+XRI-Resolution-Lite-0.04                probably temporary network/server failure,120780
 Ham-ADIF-v1.5.1                         117262
 Kavorka-0.037                           109841
 MarpaX-ESLIF-1.0.49                     120784
@@ -4297,7 +4151,7 @@ Tk-DBIx-0.01                            5561
 Net-FTPServer-1.125                     121209
 Crypt-OpenSSL-SMIME-0.05                121212
 Crypt-Keyczar-0.08                      121213
-Crypt-OpenSSL-VerifyX509-0.10           121214
+Crypt-OpenSSL-VerifyX509-0.10           120607,120608,121214
 Crypt-SMimeEngine-0.06                  121215
 OpenCA-OpenSSL-2.0.29                   121216
 Net_TCLink-3.4                          108515
@@ -4337,7 +4191,7 @@ Alien-LMDB-0.103                        https://github.com/hoytech/Alien-LMDB/is
 Crypt-OpenSSL-EC-1.01                   104000
 WWW-Wookie-0.101                        121287
 Date-Extract-P800Picture-0.107          121288
-WWW-NOS-Open-0.100                      121289
+WWW-NOS-Open-0.100                      waiting for newer URI::Escape than 1.61,121289
 Template-Plugin-ListMoreUtils-0.03      121291
 Sereal-Decoder-4.001_002                https://github.com/Sereal/Sereal/issues/165
 Sereal-Encoder-4.001_002                https://github.com/Sereal/Sereal/issues/166
@@ -4346,7 +4200,7 @@ Dancer-Plugin-Thumbnail-0.13            121295
 GD-2.61                                 121297
 Net-WebSocket-0.021                     121299
 Mojolicious-Plugin-SQLiteViewerLite-0.13 121301
-AnyEvent-TLS-SNI-0.03                   https://github.com/nalobin/AnyEvent-TLS-SNI/issues/2
+AnyEvent-TLS-SNI-0.03                   module is deprecated,https://github.com/nalobin/AnyEvent-TLS-SNI/issues/2
 Barcode-Code128-2.21                    121307
 Catalyst-ActionRole-MethodSignatureDependencyInjection-0.0200 https://github.com/jjn1056/Catalyst-ActionRole-MethodSignatureDependencyInjection/issues/3
 CSS-Watcher-0.5.0                       121308
@@ -4363,7 +4217,6 @@ Finance-TickerSymbols-2.01              121314
 Time-C-0.024                            https://github.com/pink-mist/Time-C/issues/3
 App-perluse-0.0102                      https://github.com/dex4er/perluse/issues/2
 State-Machine-0.07                      121317
-Date-LibICal-0.01                       121318
 Class-DBI-ClassGenerator-1.04           deprecated
 Device-Delcom-VSI-0.08                  120479
 File-Xcopy-0.12                         121323
@@ -4513,7 +4366,7 @@ Unicode-Collate-1.19                    121664
 Unicode-EastAsianWidth-1.33             120750
 Mojar-Google-Analytics-1.112            https://github.com/niczero/mojar-google-analytics/issues/1
 Mojolicious-Plugin-INIConfig-Extended-0.06 121669
-Net-Nslookup-2.04                       121672
+Net-Nslookup-2.04                       108184,121672
 CatalystX-VCS-Lookup-0.06               121673
 Net-Easypost-0.19                       121674
 MooX-Struct-0.015                       121624
@@ -4660,7 +4513,7 @@ Music-Tag-MusicBrainz-0.4101            122242
 Plack-Middleware-DebugLogging-0.001005  https://github.com/mattp-/Plack-Middleware-DebugLogging/issues/4
 Devel-FindRef-1.45                      122264
 Bio-IlluminaSAV-1.0.9706                122244
-CGI-IDS-1.0217                          122256
+CGI-IDS-1.0217                          96381,122256
 Module-CheckDep-Version-0.05            https://github.com/stevieb9/module-checkdep-version/issues/1
 Workflow-1.44                           https://github.com/jonasbn/perl-workflow/issues/13
 Template-Mustache-1.0.0_0               https://github.com/yanick/Template-Mustache/issues/45
@@ -4674,7 +4527,7 @@ Git-Release-0.05                        122298
 Triglav-Client-0.03                     122299
 Algorithm-Simplex-0.43                  122300
 PRANG-0.20                              122301
-Domain-Register-DomainShare-1.02        122302
+Domain-Register-DomainShare-1.02        probably temporary network/webservice problems,122302
 HPCI-0.52                               120461
 Log-Dispatch-Growl-1.0.0                https://github.com/gugod/Log-Dispatch-Growl/issues/1
 Debug-Flags-0.26                        122307,122309
@@ -4773,7 +4626,7 @@ Sys-PageCache-0.04                      122591
 IO-Compress-Lzf-2.074                   91419
 Data-Edit-Xml-Lint-2017.725             122596
 Perinci-CmdLine-Lite-1.77               122597
-Filter-Crypto-2.07                      119937
+Filter-Crypto-2.07                      111423,119937
 Tree-Authz-0.03                         19421,19422
 Text-VimColor-0.26                      121756
 Coro-ProcessPool-0.26                   122565
@@ -4787,12 +4640,12 @@ DateTime-Format-Human-Duration-Simple-0.02 https://github.com/toreau/DateTime-Fo
 Criteria-Compile-0.047                  122625
 App-Module-Template-0.11                122635
 Audio-SndFile-0.09                      122636,122637
-PITA-XML-0.52                           122638,122639
+PITA-XML-0.52                           81592,122638,122639
 Crypt-PKCS11-1.03                       122640
 Log-Journald-0.20                       122642
 Net-Social-Mapper-0.5                   122643
 Mojo-JSON_XS-1.003                      https://github.com/niczero/mojo-jsonxs/issues/2
-Date-LibICal-0.01                       122645
+Date-LibICal-0.01                       121318,122645
 App-RecordStream-4.0.23                 122646
 Mojo-JSON-MaybeXS-0.012                 https://github.com/Grinnz/Mojo-JSON-MaybeXS/issues/3
 Apache-SWIT-0.54                        122647
@@ -4859,9 +4712,9 @@ UR-0.46                                 https://github.com/genome/UR/issues/136
 CPAN-Testers-Reports-Counts-0.05        122886
 Device-Chip-AnalogConverters-0.01       122887
 Unicode-BiDiRule-0.03                   122862
-WebService-Europeana-0.0.2              https://github.com/hatorikibble/webservice-europeana/issues/1
+WebService-Europeana-0.0.2              https://twitter.com/Europeanaeu/status/719563390860046336,https://github.com/hatorikibble/webservice-europeana/issues/1
 ETL-Yertl-0.029                         https://github.com/preaction/ETL-Yertl/issues/153
-Net-LDNS-0.75                           119935
+Net-LDNS-0.75                           110365,119935
 W3C-LogValidator-1.5                    117591
 Math-Transform-List-20170821            122865
 Math-Transform-List-20170822            122865
@@ -4874,7 +4727,7 @@ Vimana-2.26                             122902
 WebService-NetSuite-0.05                118954
 WWW-Analytics-MultiTouch-0.36           122907
 Perinci-Sub-GetArgs-Argv-0.83           122903
-RDF-Notation3-0.91                      72828,122904
+RDF-Notation3-0.91                      62575, 72828,72828,122904
 Elastic-Model-0.52                      https://github.com/clintongormley/Elastic-Model/issues/45
 Net-Google-Calendar-Server-0.1          122905
 File-Stat-Trigger-0.05                  122906
@@ -4883,7 +4736,7 @@ Tk-LockDisplay-1.3                      122913
 Finance-Loan-Repayment-1.0              122918
 WWW-Alexa-TrafficRank-1.11              122935
 Unix-Processors-2.045                   122943
-BSD-Process-0.07                        122947
+BSD-Process-0.07                        88975,122947
 Word2vec-Interface-0.036                122998
 ElasticEmail-0.02                       122999
 Connector-1.23                          123001
@@ -4915,7 +4768,7 @@ Event-1.26                              123115
 YAML-Perl-0.12                          123103
 Google-Ads-AdWords-Client-4.17.0        118509
 POSIX-1003-0.98                         123109
-Business-OnlinePayment-BitPay-KeyUtils-2.0.1 123112
+Business-OnlinePayment-BitPay-KeyUtils-2.0.1 106730,123112
 EBook-EPUB-Check-0.04                   https://github.com/pawa-/EBook-EPUB-Check/issues/1
 libsoldout-0.02                         123113
 Test-UNIXSock-0.2                       https://github.com/fujiwara/Test-UNIXSock/issues/3
