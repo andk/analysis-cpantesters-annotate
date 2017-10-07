@@ -4407,7 +4407,6 @@ AmbientOrb-Serial-0.02                  121378,121379
 Location-GeoTool-2                      121380
 PGP-Sign-0.20                           121381
 Cache-Memcached-GetParserXS-0.01        121384
-Catalyst-View-Template-Lace-0.001       121385
 PerlBuildSystem-0.44                    121386
 Signals-XSIG-0.14                       103457
 Rinchi-CPlusPlus-Preprocessor-0.02      121387
@@ -4525,7 +4524,6 @@ Text-SenseClusters-LabelEvaluation-Driver-0.09 121690
 XML-SRS-0.09                            90666
 DBIx-Class-Result-Validation-0.16       121715
 Mojolicious-Plugin-CGI-0.37             https://github.com/jhthorsen/mojolicious-plugin-cgi/issues/27
-Catalyst-View-Template-Lace-0.002       121385
 CloudCron-0.02                          121780
 Data-Compare-Plugins-JSON-1.03          https://github.com/dionys/data-compare-plugins-json/issues/1
 CloudDeploy-1.05                        121782
@@ -4538,7 +4536,6 @@ Lingua-Translate-Bing-0.04              121797
 Perl-Syntax-1.00                        https://github.com/rocky/Perl-Syntax/issues/2
 Test-Stochastic-0.03                    121800
 App-VTide-v0.1.2                        118369
-Catalyst-View-Template-Lace-0.003       121385
 Alvis-Convert-0.4                       121823
 Net-YASA-0.03                           121842
 App-Prove-Plugin-Distributed-0.08       121843
@@ -4637,7 +4634,6 @@ Log-ger-OptAway-0.002                   122192
 Log-ger-Output-LogAny-0.003             122193
 Test-PDL-0.13                           122194
 Feersum-1.405                           122177
-Catalyst-View-Template-Lace-0.004       121385,https://github.com/jjn1056/Catalyst-View-Template-Lace/issues/1
 Catmandu-MARC-1.13                      https://github.com/LibreCat/Catmandu-MARC/issues/71
 Google-Ads-AdWords-Client-4.15.0        118509
 Keyword-TreeFold-v0.1.1                 122184
@@ -4765,7 +4761,6 @@ Tickit-Widget-Term-0.003                122509
 Finance-QuoteHist-1.26                  122510
 Mail-DMARC-1.20170222                   https://github.com/msimerson/mail-dmarc/issues/111
 Mojolicious-Plugin-Template-Mustache-0.01 122511
-Catalyst-View-Template-Lace-0.006       121385,https://github.com/jjn1056/Catalyst-View-Template-Lace/issues/1
 CGIS-1.6                                122491
 Class-Builder-1.010                     122492
 Finance-Bank-Postbank_de-0.46           122506
@@ -4811,7 +4806,6 @@ Text-Password-AutoMigration-0.01        https://github.com/worthmine/Text-Passwo
 Text-vCard-Precisely-0.04               https://github.com/worthmine/Text-vCard-Precisely/issues/2
 Text-Password-AutoMigration-0.02        https://github.com/worthmine/Text-Password-AutoMigration/issues/1
 Data-Edit-Xml-Lint-20170801             122596
-Catalyst-View-Template-Lace-0.007       121385,https://github.com/jjn1056/Catalyst-View-Template-Lace/issues/1
 DateTime-Format-Strptime-1.73           https://github.com/houseabsolute/DateTime-Format-Strptime/issues/18
 URI-UTF8-Punycode-1.05                  122593
 Proc-InvokeEditor-1.08                  122703
@@ -4831,7 +4825,6 @@ WordNet-Extend-1.000                    122732
 Google-Ads-AdWords-Client-4.16.0        118509
 Map-Tube-3.33                           122765
 SQLite_File-0.1001                      122766
-Catalyst-View-Template-Lace-0.008       121385,https://github.com/jjn1056/Catalyst-View-Template-Lace/issues/1
 Hash-SharedMem-0.005                    122775
 Tie-REHash-1.07                         122776
 Data-Edit-Xml-Lint-20170802             122789
@@ -4871,7 +4864,6 @@ ETL-Yertl-0.029                         https://github.com/preaction/ETL-Yertl/i
 Net-LDNS-0.75                           119935
 W3C-LogValidator-1.5                    117591
 Math-Transform-List-20170821            122865
-Catalyst-View-Template-Lace-0.009       121385,https://github.com/jjn1056/Catalyst-View-Template-Lace/issues/1
 Math-Transform-List-20170822            122865
 DateTime-Format-JSON-MicrosoftDateFormat-0.03 122895
 Net-PMP-Profile-0.101                   122896
@@ -4888,7 +4880,6 @@ Net-Google-Calendar-Server-0.1          122905
 File-Stat-Trigger-0.05                  122906
 Algorithm-DistanceMatrix-0.04           https://github.com/chadadavis/Algorithm-DistanceMatrix/issues/2
 Tk-LockDisplay-1.3                      122913
-Catalyst-View-Template-Lace-0.010       121385,https://github.com/jjn1056/Catalyst-View-Template-Lace/issues/1
 Finance-Loan-Repayment-1.0              122918
 WWW-Alexa-TrafficRank-1.11              122935
 Unix-Processors-2.045                   122943
