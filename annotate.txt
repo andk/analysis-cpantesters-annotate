@@ -584,7 +584,6 @@ Image-Magick-Thumbnail-Simple-0.12      95982
 C-TinyCompiler-0.04                     https://github.com/run4flat/perl-TCC/issues/5
 Flea-0.04                               96073
 MooseX-ABC-0.06                         96112
-Math-GSL-0.29_1                         newer release: 0.29_2
 Math-Clipper-1.23                       74828
 Mojolicious-Command-generate-dbicdump-v0.1.1 96179
 Mojolicious-Plugin-AdvancedMod-0.38     96180
@@ -1270,7 +1269,6 @@ Decode-Source-1.01                      108872
 sol-inst-0.90a                          108903
 Spreadsheet-HTML-1.09                   108768
 ddb-1.3.1                               108870
-Data-Integer-0.005                      https://rt.perl.org/rt3/Ticket/Display.html?id=126635
 Data-Rmap-0.64                          https://rt.perl.org/rt3/Ticket/Display.html?id=126637
 Net-DNS-Paranoid-0.08                   https://github.com/tokuhirom/Net-DNS-Paranoid/issues/2
 Net-DNS-Async-1.07                      108915
@@ -4006,7 +4004,6 @@ Date-Extract-PERLANCAR-0.001            122085
 HTML-Template-Nest-0.02                 122095
 Mojolicious-Plugin-Vparam-2.09          https://github.com/dr-co/libmojolicious-plugin-vparam-perl/issues/26
 Acme-Honkidasu-0.01                     122106
-Ledger-Parser-0.05                      122107
 ElasticSearchX-Model-Generator-0.1.8    https://github.com/kentfredric/ElasticSearchX-Model-Generator/issues/1
 Time-dt-v0.0.1                          122111
 Time-Duration-Concise-Localize-2.61     122112
