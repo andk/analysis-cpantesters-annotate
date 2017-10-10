@@ -929,7 +929,6 @@ Brownie-0.09                            98810
 Catalyst-Action-Wizard-0.008            103975
 Data-HAL-1.000                          101827
 Log-Message-Structured-Stringify-AsSereal-0.11 https://github.com/dams/log-message-structured-stringify-sereal/issues/2
-lc_time-0.11                            103977
 Perinci-Sub-Property-dies_on_error-0.05 103932
 Rose-DBx-Object-Cached-FastMmap-0.05    103978
 App-assh-1.1.2                          103976
@@ -2078,7 +2077,6 @@ Parse-HTTP-UserAgent-0.40_01            112106
 HTML-Miner-1.03                         114388
 Geo-PostalAddress-0.04                  114329
 IO-Async-0.70                           114376
-Unicode-Casing-0.15                     114396
 Parse-Method-Signatures-1.003016        114385
 Mojolicious-Plugin-Args-0.05            https://github.com/sharabash/Mojolicious-Plugin-Args/issues/1
 Math-SymbolicX-Calculator-Interface-Shell-0.02 114458
@@ -3318,7 +3316,6 @@ IO-Socket-Socks-0.71                    118522
 App-GitHubWebhooks2Ikachan-0.10         https://github.com/moznion/App-GitHubWebhooks2Ikachan/issues/1
 App-MusicExpo-1.002                     118534
 B-Debug-1.23                            118391
-Classic-Perl-0.06                       https://rt.perl.org/Public/Bug/Display.html?id=129821,118374
 Devel-CheckOS-1.77                      https://github.com/DrHyde/perl-modules-Devel-CheckOS/issues/17
 Devel-EnforceEncapsulation-0.51         118555,http://rt.perl.org/rt3/Public/Bug/Display.html?id=129851
 Encode-2.87                             103896
@@ -3496,7 +3493,6 @@ Travel-Status-DE-IRIS-1.12              119598
 Benchmark-Perl-CoreHashes-0.02          119566
 App-TimeClock-0.11                      https://github.com/soren/App-TimeClock/issues/17
 sBNC-User-Summary-1.00                  https://github.com/n7st/sBNC-User-Summary/issues/1
-Math-ProvablePrime-0.042                119604
 Geo-Coder-All-0.06                      https://github.com/raigad/geo-coder-all/issues/3
 AnyEvent-SIP-0.002                      https://github.com/xsawyerx/anyevent-sip/issues/1
 WebService-Async-UserAgent-0.005        119608
