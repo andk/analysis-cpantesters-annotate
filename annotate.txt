@@ -232,7 +232,6 @@ WWW-RobotRules-Extended-0.02            73439
 XIRCD-0.0.1                             74231
 CGI-Application-Plugin-AJAXUpload-v0.0.3 74284
 Carp-Diagnostics-0.05.3                 74295
-Net-Whois-Parser-0.07                   74340
 Test-Assert-0.0504                      74341 Class::Inspector
 ObjectDB-InflateColumn-0.01             74416
 Plack-App-Proxy-Selective-0.10          https://github.com/schwern/test-more/issues/249
@@ -529,7 +528,6 @@ Mojolicious-Plugin-YamlConfig-0.1.6     93059
 Lingua-Sentence-1.05                    93063
 Math-Geometry-Planar-GPC-Polygon-0.05   92572
 Typed-0.11                              89874
-RedisDB-2.27                            https://github.com/trinitum/RedisDB/issues/17
 Yote-0.1022                             93451
 Buscape-API-0.000003                    https://github.com/estantevirtual/Buscape-API/issues/2
 PDL-Dims-0.004                          93527
@@ -946,7 +944,6 @@ Class-ObjectTemplate-0.7                104177
 CPAN-Reporter-Smoker-Safer-0.04         may fail if www.cpantesters.org is unavailable
 Graph-Similarity-v0.0.5                 95943
 Socket-Netlink-Taskstats-0.03           104514
-Math-Derivative-0.02                    104557
 xml-tag-0.5                             104643
 Mojolicious-Plugin-RenderSteps-0.05     https://github.com/marcusramberg/Mojolicious-Plugin-RenderSteps/issues/1
 Tinder-API-0.03                         104675
@@ -1985,7 +1982,6 @@ Class-StorageFactory-1.0                113467
 Kwiki-GDGraphGenerator-0.04             113468
 Kwiki-VimMode-0.05                      113469
 Tie-LogFile-0.1                         113474
-Quant-Framework-0.07                    113485
 WWW-Mixi-OO-0.03                        113509
 TOML-Parser-0.07                        https://github.com/karupanerura/TOML-Parser/issues/7
 Net-IPA-1.0                             113511
@@ -2147,7 +2143,6 @@ Sys-CPU-0.61                            54267
 PerlX-Assert-0.904                      114938
 WordNet-Insert-0.02                     114921
 Wiktionary-Parser-0.11                  114923
-Params-Sah-0.05                         115009
 CHI-0.60                                109993,115022
 XML-Ant-BuildFile-0.216                 https://github.com/mjgardner/xml-ant-buildfile/issues/3
 Pg-DatabaseManager-0.05                 115050
@@ -2287,7 +2282,6 @@ Convert-TBX-Min-0.05                    112327
 MojoX-Transaction-WebSocket76-0.04      https://github.com/dionys/mojox-transaction-websocket76/issues/3
 LMDB_File-0.09                          112225
 WebService-SonarQube-0.07               112436
-Sailthru-Client-2.002                   112895
 Test-Mock-Wrapper-0.17                  112965
 Scope-Upper-0.28                        112246
 Date-Easy-0.01                          https://github.com/barefootcoder/date-easy/issues/2
@@ -2428,7 +2422,6 @@ SocketIO-Emitter-0.03                   116068
 Getopt-Long-DescriptivePod-0.03         116088
 Plift-0.01                              https://github.com/cafe01/template-plift/issues/1
 Math-BigInt-1.999725                    116123
-Time-Ago-0.07                           116151
 B-Hooks-Parser-0.16                     https://rt.perl.org/Ticket/Display.html?id=128621
 Devel-Declare-0.006018                  https://rt.perl.org/Ticket/Display.html?id=128621
 Lingua-FR-Numbers-1.161950              98817
@@ -2677,7 +2670,6 @@ Sub-Trigger-Lock-0.002                  117231
 WWW-StationJp-API-0.01                  https://github.com/sue7ga/WWW-StationJp-API/issues/1,https://github.com/sue7ga/WWW-StationJp-API/issues/2
 Catmandu-Importer-MWTemplates-0.01      https://github.com/LibreCat/Catmandu-Importer-MWTemplates/issues/4
 CDB-TinyCDB-0.05                        107191
-Log-Any-Plugin-0.005                    117248
 Mojolicious-Plugin-Browserify-0.06      https://github.com/jhthorsen/mojolicious-plugin-browserify/issues/2
 SNMP-Trapinfo-1.03                      https://rt.perl.org/rt3/Ticket/Display.html?id=128139,117249
 Try-Tiny-Except-0.01                    https://github.com/tfoertsch/perl-Try-Tiny-Except/issues/1
@@ -3998,7 +3990,6 @@ CPAN-Distribution-ReleaseHistory-0.002005 https://github.com/kentnl/CPAN-Distrib
 WWW-Finger-0.105                        122002
 CPANPLUS-Internals-Source-MetaCPAN-0.08 122003
 MetaCPAN-API-Tiny-1.150270              122004
-Net-Azure-NotificationHubs-0.01         https://github.com/ytnobody/p5-Net-Azure-NotifcationHubs/issues/1
 Dist-Surveyor-0.016                     122005
 Gtk2-Notify-0.05                        67467
 LWP-CurlLog-0.01                        122025
