@@ -2289,7 +2289,7 @@ Net-Kubernetes-1.01                     112961
 Module-Install-Rust-0.01                114244
 Trace-Mask-0.000007                     https://github.com/exodist/Trace-Mask/issues/3
 Graph-Easy-0.75                         https://rt.perl.org/rt3/Ticket/Display.html?id=128139
-GraphViz2-2.38.tgz                      https://rt.perl.org/rt3/Ticket/Display.html?id=128139
+GraphViz2-2.38                          https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 Mac-Errors-1.18                         https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 Parse-FSM-1.12                          https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 Type-Tiny-1.000005                      114386,https://rt.perl.org/rt3/Ticket/Display.html?id=128139
