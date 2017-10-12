@@ -4115,7 +4115,6 @@ Syntax-Highlight-Engine-Simple-Perl-0.04 110323,123097
 CGI-Buffer-0.79                         123101
 Event-1.26                              123115
 YAML-Perl-0.12                          123103
-Google-Ads-AdWords-Client-4.17.0        118509
 POSIX-1003-0.98                         123109
 Business-OnlinePayment-BitPay-KeyUtils-2.0.1 106730,123112
 EBook-EPUB-Check-0.04                   https://github.com/pawa-/EBook-EPUB-Check/issues/1
