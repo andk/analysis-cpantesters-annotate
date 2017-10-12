@@ -579,7 +579,6 @@ Mojolicious-Command-generate-dbicdump-v0.1.1 96179
 Mojolicious-Plugin-AdvancedMod-0.38     96180
 Labyrinth-Plugin-Guestbook-1.00         newer release: 1.02
 Geo-Mercator-1.01                       96230
-DateTime-Util-Calc-0.13002              96232
 Mojolicious-Plugin-ParamsAuth-0.03      96234
 Encode-JP-Emoji-0.60                    https://rt.perl.org/rt3/Ticket/Display.html?id=122029
 Package-DeprecationManager-0.13         96271, wrong positive by AUTHOR_TESTING=1
@@ -885,7 +884,6 @@ SVN-Notify-Mirror-0.040                 98443
 Redis-Queue-0.01                        103553
 Devel-Leak-Cb-0.04                      103549
 POE-API-Peek-2.20                       103803
-File-BaseDir-0.06                       103805
 BackPAN-Index-0.42                      probably temporary network/webservice problem
 CPAN-Mini-Extract-1.23                  probably temporary network/webservice problem
 Time-Piece-Over24-0.016                 103160
@@ -945,7 +943,6 @@ Catalyst-View-TT-ControllerLocal-0.02   105010
 Scalar-Accessors-LikeHash-0.002         100223
 WWW-Gittip-0.07                         101887
 WWW-Mechanize-Query-0.03                105014
-WWW-Shorten-Googl-1.02                  104847,104847
 Ask-0.007                               105038
 DBIx-Class-Storage-DBI-mysql-backup-0.04 105039
 Filesys-Type-0.02                       105041
@@ -1015,7 +1012,6 @@ HTTP-Server-Brick-0.1.7                 107203
 XML-XSH-1.8.4                           deprecated
 Makefile-Parser-0.216                   77738
 Mojolicious-Plugin-RedisSubscriber-0.0.1 107207
-Net-SNTP-Server-0.02                    107214
 WWW-SFDC-0.37                           105992
 Dist-Zilla-Plugin-Templates-v0.5.0      107250
 Locale-India-0.001                      107029
@@ -1199,7 +1195,6 @@ MetaTrans-1.05                          108765
 Acme-PricelessMethods-0.01              108766
 Test-CallFlow-0.03                      108769
 Data-FetchPath-0.02                     108770
-DBIx-Class-ResultSet-Void-0.06          108771
 Authen-SASL-Cyrus-0.13                  48734
 IO-Buffered-1.00                        108833
 Mail-Webmail-Gmail-1.09                 108834
@@ -1502,7 +1497,6 @@ Parallel-MapReduce-0.09                 109995
 OpenGL-List-0.01                        109996
 Biblio-Refbase-0.04                     https://github.com/hma/Biblio-Refbase/issues/1,https://github.com/hma/Biblio-Refbase/issues/1
 WebService-Recruit-FromA-0.0.1          110017
-Illumos-SMF-0.1.5                       https://github.com/hadfl/Illumos-SMF/issues/5
 Illumos-Zones-0.1.1                     https://github.com/hadfl/Illumos-Zones/issues/3
 HTML-Valid-0.02                         https://github.com/benkasminbullock/html-valid/issues/9
 Curses-UI-0.9609                        110032
@@ -1677,7 +1671,6 @@ Dist-Zilla-MintingProfile-Iller-CSSON-0.0100 https://github.com/Csson/p5-Dist-Zi
 re-engine-GNU-0.019                     111311
 WWW-Wikipedia-2.04                      111354
 WWW-HostipInfo-0.14                     111360
-Complete-Getopt-Long-0.39               111382
 Geo-Coordinates-OSGB-2.11               111395
 Bloom-Scalable-0.01                     98878
 App-JobLog-1.042                        95737
@@ -2147,13 +2140,11 @@ Keyword-With-0.001                      https://github.com/mcmillhj/Keyword-With
 WebService-Lob-0.0107                   https://github.com/aanari/WebService-Lob/issues/3
 MooX-Types-CLike-0.92                   https://github.com/SineSwiper/MooX-Types-CLike/issues/1
 Selenium-Remote-Driver-UserAgent-0.0301 https://github.com/gempesaw/Selenium-UserAgent/issues/2
-Tree-VP-0.02                            115542
 Test-Proto-0.027                        https://github.com/pdl/Test-Proto/issues/44
 Parse-Path-0.92                         https://github.com/SineSwiper/Parse-Path/issues/2
 Dancer2-Logger-Radis-0.001              https://github.com/zurborg/libdancer2-logger-radis-perl/issues/1
 Dancer2-Logger-Syslog-0.4               115557
 MySQL-Diff-0.47                         https://github.com/aspiers/mysqldiff/issues/31
-Sub-Attributes-0.01                     115570
 DOM-Tiny-0.004                          115573
 PPIx-Refactor-0.07                      https://github.com/lackita/PPIx-Refactor/issues/2
 Class-Roles-0.30                        102367
@@ -2172,7 +2163,6 @@ WebService-DPD-API-v0.0004              115664
 WebService-GeoPost-Shipping-API-v0.0006 115665
 WebService-BambooHR-0.07                112434
 String-FilenameStatic-0.02              68558
-HTML-StripScripts-1.05                  https://rt.perl.org/rt3//Public/Bug/Display.html?id=113094
 MooseX-AttributeHelpers-0.23            81564
 Class-Injection-1.09                    81624
 Paranoid-0.36                           88773
@@ -2219,7 +2209,6 @@ WebService-SonarQube-0.07               112436
 Test-Mock-Wrapper-0.17                  112965
 Scope-Upper-0.28                        112246
 Date-Easy-0.01                          https://github.com/barefootcoder/date-easy/issues/2
-Dancer-Plugin-RPC-1.00                  https://github.com/abeltje/Dancer-Plugin-RPC/issues/3
 App-ClusterSSH-4.06                     https://github.com/duncs/clusterssh/issues/60
 HPC-Runner-2.46                         https://bitbucket.org/jerowe/hpc-runner/issues/1/undeclared-prereq-moosex-object-pluggable
 Dancer2-Plugin-Swagger2-0.003           https://github.com/dboehmer/Dancer2-Plugin-Swagger2/issues/3
@@ -2302,7 +2291,6 @@ Erlang-Parser-0.5                       115216
 Dist-Zilla-PluginBundle-Author-KENTNL-2.025010 https://github.com/kentnl/Dist-Zilla-PluginBundle-Author-KENTNL/issues/1
 Pgtools-0.008                           https://github.com/tom--bo/Pgtools/issues/8
 Spreadsheet-Read-0.65                   115348
-Dist-Zilla-PluginBundle-Author-RWSTAUNER-4.212 115387
 Net-Fritz-v0.0.1                        115356
 Graphics-Framebuffer-5.81               115390
 Params-CheckCompiler-0.05               115410
@@ -2359,7 +2347,6 @@ WWW-Lipsum-1.001012                     https://github.com/zoffixznet/WWW-Lipsum
 Ado-Plugin-Admin-0.13                   https://github.com/kberov/Ado-Plugin-Admin/issues/6
 Contenticious-0.36                      https://github.com/memowe/contenticious/issues/17
 Galileo-0.040                           https://github.com/jberger/Galileo/issues/51
-HTML-ExtractMeta-0.11                   116347
 Mojolicious-Plugin-Piwik-0.18           116348
 Deeme-Backend-Mango-0.02                https://github.com/mudler/p5-Deeme-Backend-Mango/issues/1
 Mojolicious-Command-generate-lexicont-0.05 https://github.com/dokechin/Mojolicious-Command-generate-lexicont/issues/2
@@ -2414,7 +2401,6 @@ DBIx-DBHResolver-Strategy-RoundRobin-0.02 68256
 Biblio-RFID-0.03                        116462
 Class-OWL-0.0.6                         70543
 Data-Sah-Resolve-0.003                  116464
-Dist-Zilla-PluginBundle-BAREFOOT-0.06   https://github.com/barefootcoder/dist-zilla-pluginbundle-barefoot/issues/14
 PDL-Drawing-Prima-0.11                  https://github.com/run4flat/PDL-Drawing-Prima/issues/32
 Catalyst-View-Xslate-0.00019            https://github.com/lestrrat/Catalyst-View-Xslate/issues/25
 RDF-AllegroGraph-Easy-0.08              116474
@@ -2618,7 +2604,6 @@ Types-ReadOnly-0.002                    104553,117291
 WoW-Armory-API-1.031                    117292
 WWW-ArsenalFC-TicketInformation-1.123160 https://github.com/andrewrjones/perl5-WWW-ArsenalFC-TicketInformation/issues/2
 Devel-Optrace-0.05                      106110
-Document-eSign-Docusign-0.02            117293
 RandomJungle-0.05                       117302
 App-Reg-1.2.5                           https://github.com/xfix/App-Reg/issues
 Catalyst-Controller-Validation-DFV-0.0.8 117303
@@ -3029,7 +3014,6 @@ Genealogy-Gedcom-Date-2.07              117843
 Dancer-Plugin-SimpleCRUD-1.00_01        https://github.com/bigpresh/Dancer-Plugin-SimpleCRUD/issues/80
 App-BoolFindGrep-0.06                   117848
 File-Find-Rule-LibMagic-0.02            117850
-Config-Model-LcdProc-2.049              https://github.com/dod38fr/config-model-lcdproc/issues/2
 CPAN-SQLite-0.211                       117853
 Sub-Lvalue-0.01                         117868
 Statistics-Test-WilcoxonRankSum-0.0.7   117869,117870
@@ -3467,7 +3451,6 @@ Algorithm-QuineMcCluskey-0.15           120360
 Binary-Heap-Array-2017.121              120361
 BioX-FedDB-0.01                         120362
 Dezi-Bot-0.003                          120363
-Dancer-Template-Caribou-0.1.1           120364
 Dancer2-Template-Caribou-0.2.1          120365
 Log-Dispatch-Screen-Color-0.04          120329
 Any-Renderer-Data-Printer-0.04          120366
@@ -3557,7 +3540,6 @@ Devel-MAT-0.25                          114581
 XRI-Resolution-Lite-0.04                probably temporary network/server failure,120780
 Ham-ADIF-v1.5.1                         117262
 Kavorka-0.037                           109841
-MarpaX-ESLIF-1.0.49                     120784
 App-PDF-Link-0.18                       120801
 Net-Moip-V2-0.05                        https://github.com/cafe01/Net-Moip-V2/issues/1
 Business-OnlinePayment-Vindicia-Select-0.002 120948
@@ -3566,7 +3548,6 @@ Math-AnyNum-0.02                        120910
 Sys-Prctl-1.02                          120911
 X11-Xlib-0.12                           121010
 Pcore-ExtJS-v0.7.0                      https://bitbucket.org/softvisio/pcore-nginx/issues/2/undeclared-dependency-mouse
-Pcore-Nginx-v1.2.3                      https://bitbucket.org/softvisio/pcore-nginx/issues/2/undeclared-dependency-mouse
 App-MechaCPAN-0.17                      121054
 Contextual-Return-0.004012              121092
 App-UnifdefPlus-0.005.005               121135
@@ -3598,7 +3579,6 @@ Crypt-OpenSSL-VerifyX509-0.10           120607,120608,121214
 Crypt-SMimeEngine-0.06                  121215
 OpenCA-OpenSSL-2.0.29                   121216
 Alien-MuPDF-0.007                       121218
-Domain-PublicSuffix-0.14.1              121222
 GnuPG-Interface-0.52                    102651
 Lingua-RU-Money-XS-0.03                 121227
 HTML-Tree-5.04                          121230
@@ -3617,7 +3597,6 @@ DateTime-Format-CLDR-1.18               121273
 OxdPerlModule-0.01                      121276
 WWW-Pastebin-PastebinCom-API-1.001004   https://github.com/zoffixznet/WWW-Pastebin-PastebinCom-API/issues/4
 Pod-Pandoc-0.4.0                        121277
-SVG-Grid-1.03                           121278
 Tilt-Email-BlueHornet-0.001             121279
 Mail-CheckUser-1.24                     121285
 Defaults-Modern-0.011001                121286
@@ -3715,12 +3694,10 @@ Mojolicious-Plugin-AppCacheManifest-0.05 https://github.com/sbertrang/mojoliciou
 Mojolicious-Plugin-ConfigHashMerge-0.02 https://github.com/dotandimet/Mojolicious-Plugin-ConfigHashMerge/issues/1
 Mojolicious-Plugin-Directory-0.12       https://github.com/hayajo/Mojolicious-Plugin-Directory/issues/6
 Mojolicious-Plugin-FeedReader-0.08      https://github.com/dotandimet/Mojolicious-Plugin-FeedReader/issues/2
-Mojolicious-Plugin-INIConfig-0.03       121407
 Mojolicious-Plugin-HTMLTemplateProRenderer-0.05 121410
 Mojolicious-Plugin-Notifications-0.9    121411
 MetaCPAN-Client-2.011000                https://github.com/metacpan/metacpan-client/issues/83
 Mojolicious-Plugin-WebAPI-0.03          https://github.com/reneeb/Mojolicious-Plugin-WebAPI/issues/1
-Test-Clustericious-Cluster-0.34         https://github.com/clustericious/Test-Clustericious-Cluster/issues/10
 REST-Neo4p-0.3012                       121413
 Mojolicious-Plugin-Webtail-0.06         https://github.com/hayajo/Mojolicious-Plugin-Webtail/issues/1
 Geo-Coder-Many-0.47                     121414
@@ -3901,7 +3878,6 @@ Bio-IlluminaSAV-1.0.9706                122244
 CGI-IDS-1.0217                          96381,122256
 Workflow-1.44                           https://github.com/jonasbn/perl-workflow/issues/13
 Template-Mustache-1.0.0_0               https://github.com/yanick/Template-Mustache/issues/45
-WWW-Amazon-Wishlist-2.016               122282
 WebService-Freshservice-0.003           122283
 WebService-Spotify-1.003                122284
 WebService-OMDB-1.140440                https://github.com/andrewrjones/perl5-WebService-OMDBAPI/issues/2
@@ -4131,9 +4107,7 @@ WebService-Qiita-V2-0.01                123152
 ClearPress-v476.4.2                     https://rt.cpan.org/Ticket/Display.html?id=123164
 Bencode-1.500                           https://github.com/ap/Bencode/issues/4
 QBit-Application-Model-DB-clickhouse-0.005 123073
-Mojo-IOLoop-ReadWriteProcess-0.08       123176
 Config-Model-Backend-Augeas-0.121       https://github.com/dod38fr/config-model/issues/14
-CPAN-Testers-API-0.019                  https://github.com/cpan-testers/cpantesters-api/issues/14
 Log-Any-Adapter-LinuxJournal-0.172762   123181
 String-Tagged-Terminal-0.01             123182
 Mylisp-2.0                              123183,123184
