@@ -2147,7 +2147,6 @@ Net-CardDAVTalk-0.02                    108359
 WWW-AUR-0.19                            106766
 WWW-Mechanize-PhantomJS-0.11            108505
 DateTime-Tiny-1.04                      108636
-Catalyst-Authentication-Store-Htpasswd-1.003 102187
 Date-Tiny-1.04                          108636
 Time-Tiny-1.05                          108636
 Map-Tube-London-0.74                    109054
@@ -2248,7 +2247,6 @@ Specio-0.21                             115418
 Dist-Zilla-PluginBundle-Author-ETHER-0.116 115444
 Dist-Zilla-PluginBundle-DAGOLDEN-0.076  https://github.com/dagolden/Dist-Zilla-PluginBundle-DAGOLDEN/issues/10
 Lorem-0.22                              80289
-OTRS-OPM-Maker-Command-sopm-1.34        https://github.com/reneeb/OTRS-OPM-Maker-Command-sopm/issues/1
 Tie-SecureHash-1.10                     115772
 Test-Clear-0.04                         https://github.com/hixi-hyi/p5-Test-Clear/issues/2
 Net-ISP-Balance-1.25                    115778
@@ -2519,7 +2517,6 @@ Devel-ModInfo-2.04                      117266
 Devel-PatchPerl-Plugin-Cygwin-v0.0.1    117267
 Eve-0.06                                117268
 Log-Minimal-Object-0.02                 https://github.com/moznion/Log-Minimal-Object/issues/1
-Net-MPD-0.05                            https://github.com/bentglasstube/Net-MPD/issues/4
 Search-Elasticsearch-Async-Simple-0.03  https://github.com/dionys/search-elasticsearch-async-simple/issues/3
 Business-OnlinePayment-IPPay-0.09       106878
 Crypt-GCrypt-1.26                       97201
@@ -2701,7 +2698,6 @@ Module-Install-Bundle-Platypus-0.00002  117494
 Nes-1.03                                108698
 Net-BitTorrent-0.052                    https://github.com/sanko/net-bittorrent/issues/4
 NetSDS-Kannel-1.300                     75536
-Plack-Middleware-AutoRefresh-0.08       117496
 lib-if-dev-0.002                        117498
 Test-Mimic-Recorder-0.012005            117499
 Text-EmacsColor-0.03                    117500
