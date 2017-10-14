@@ -1652,7 +1652,6 @@ Evo-0.0196                              https://github.com/alexbyk/perl-evo/issu
 Dist-Zilla-MintingProfile-Iller-CSSON-0.0100 https://github.com/Csson/p5-Dist-Zilla-MintingProfile-Iller-CSSON/issues/1
 re-engine-GNU-0.019                     111311
 WWW-HostipInfo-0.14                     111360
-Geo-Coordinates-OSGB-2.11               111395
 Bloom-Scalable-0.01                     98878
 App-JobLog-1.042                        95737
 BackPAN-Version-Discover-0.01           108393,108393
@@ -1685,7 +1684,6 @@ Kwiki-ForeignLinkGlyphs-0.02            112015
 File-Find-Rule-Type-0.05                112031
 CGI-Application-PhotoGallery-0.16       112069
 Class-DBI-MSAccess-0.10.2               112070
-Dist-Zilla-Plugin-Stenciller-HtmlExamples-0.0200 https://github.com/Csson/p5-Dist-Zilla-Plugin-Stenciller-HtmlExamples/issues/2
 PPM-Profile-1.4                         112148
 Net-Jifty-0.14                          112231
 File-FDpasser-0.09                      112233
@@ -1891,7 +1889,6 @@ WWW-Finances-Bovespa-0.10               113338
 Acme-Ognon-1990.6                       https://github.com/leejo/acme-ognon/issues/4
 Tree-Object-0.03                        113409
 Dist-Zilla-Plugin-ChangesFromYaml-0.005 https://github.com/carloslima/dist-zilla-plugin-changesfromyaml/issues/4
-Sub-Disable-1.01                        113421
 Class-DBI-Frozen-301-3.0.1              113447
 Math-Prime-TiedArray-0.04               58150
 Class-StorageFactory-1.0                113467
@@ -2177,7 +2174,6 @@ Dancer2-Plugin-Swagger2-0.003           https://github.com/dboehmer/Dancer2-Plug
 Lemonldap-NG-Portal-1.9.1               113684
 HTML-CalendarMonth-2.03                 113513
 JSV-0.07                                https://github.com/zigorou/perl-JSV/issues/45
-Riji-v0.9.7                             https://github.com/Songmu/p5-Riji/issues/19
 HTML-Template-2.95                      98029
 FamilyTreeInfo-2.3.37                   https://github.com/mishin/Ftree-cpan/issues/25
 Text-Distill-0.02                       113928
@@ -3300,7 +3296,6 @@ Net-Async-Tangence-0.13                 119750
 Stepford-Grapher-1.01                   https://github.com/maxmind/Stepford-Grapher/issues/5
 Linux-Unshare-1.1                       108556
 Yars-Command-yars_exercise-0.06         https://github.com/clustericious/Yars-Command-yars_exercise/issues/2
-WWW-Wolfram-DataDrop-0.01               119633
 Mojolicious-Plugin-Angular-MaterialDesign-1.1.0 https://github.com/mudler/Mojolicious-Plugin-Angular-MaterialDesign/issues/2
 Net-Statsd-Server-0.20                  119763
 Catalyst-View-CSV-1.7                   119769
@@ -3645,7 +3640,6 @@ Math-BigInt-Lite-0.17                   120893
 Audio-TagLib-1.67                       114586
 JSON-RPC-Spec-v1.0.6                    https://github.com/nqounet/p5-json-rpc-spec/issues/6
 Math-Polynomial-Solve-2.75              121649
-Minilla-v3.0.10                         https://github.com/tokuhirom/Minilla/issues/220
 Modern-PBP-Perl-1.240                   121650
 MojoX-UserAgent-Throttler-v1.0.2        https://github.com/powerman/perl-MojoX-UserAgent-Throttler/issues/1
 TestRail-API-0.039                      121643
@@ -3854,7 +3848,6 @@ Syntax-Highlight-WithEmacs-0.2          122430
 Device-USB-TEMPer1F-0.04                120478
 Device-USB-PX1674-1.04                  122442
 Dancer-Template-Mustache-1.0.0          https://github.com/yanick/Dancer-Template-Mustache/issues/2
-WebService-CastleIO-1.00                122445
 GraphViz-Graph-0.02                     122452
 Time-Strptime-1.01                      https://github.com/karupanerura/Time-Strptime/issues/9
 AnyEvent-Proc-0.105                     https://github.com/zurborg/libanyevent-proc-perl/issues/2
@@ -3932,7 +3925,6 @@ POE-Filter-SSL-0.34                     122573
 AnyEvent-DBI-3.0                        122863
 IPC-MorseSignals-0.17                   117528, module is deprecated
 Devel-DebugHooks-0.05                   122872
-HTTP-Cookies-Safari-1.152               122874
 Resource-Pack-0.03                      122855
 WWW-Search-Ebay-Europe-2.017            122876
 List-MoreUtils-0.423                    122875
@@ -3944,7 +3936,6 @@ WebService-Europeana-0.0.2              https://twitter.com/Europeanaeu/status/7
 ETL-Yertl-0.029                         https://github.com/preaction/ETL-Yertl/issues/153
 Net-LDNS-0.75                           110365,119935
 W3C-LogValidator-1.5                    117591
-Math-Transform-List-20170822            122865
 DateTime-Format-JSON-MicrosoftDateFormat-0.03 122895
 Net-PMP-Profile-0.101                   122896
 API-Drip-Request-0.03                   122898
