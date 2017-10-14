@@ -1987,7 +1987,6 @@ Parse-Method-Signatures-1.003016        114385
 Mojolicious-Plugin-Args-0.05            https://github.com/sharabash/Mojolicious-Plugin-Args/issues/1
 Math-SymbolicX-Calculator-Interface-Shell-0.02 114458
 WebService-Recruit-Eyeco-0.0.1          114459
-PDF-Table-0.9.11                        https://github.com/kamenov/PDF-Table/issues/29
 ExtJS-Generator-DBIC-0.002              114531,114532
 CouchDB-View-0.003                      67033
 Test-Pretty-0.32                        https://github.com/tokuhirom/Test-Pretty/issues/36
