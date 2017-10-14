@@ -3109,7 +3109,6 @@ Test-RestAPI-0.1.4                      https://github.com/JaSei/Test-RestAPI/is
 DBIx-TransactionManager-Distributed-0.01 https://github.com/binary-com/perl-DBIx-TransactionManager-Distributed/issues/3
 Text-HikiDoc-1.022                      https://github.com/higemaru/p5-text-hikidoc/issues/1
 AnyEvent-Riak-0.93                      https://github.com/dams/p5-anyevent-riak/issues/1
-App-Spec-0.003_001                      118515
 BSON-XS-v0.2.1                          118516
 File-Find-Rule-Age-0.302                106579
 App-GitHubWebhooks2Ikachan-0.10         https://github.com/moznion/App-GitHubWebhooks2Ikachan/issues/1
@@ -3536,7 +3535,6 @@ Unix-Mgt-0.14                           121309
 Type-Tiny-Signatures-0.06               https://github.com/alnewkirk/Type-Tiny-Signatures/issues/1
 MasonX-Resolver-WidgetFactory-0.009     https://github.com/rjbs/MasonX-Resolver-WidgetFactory/issues/1,121310
 Encode-Detect-Upload-0.04               99315
-Net-ICAP-0.03                           121311
 Alien-GCrypt-1.6.5.0                    https://github.com/ajgb/alien-gcrypt/issues/2
 App-Basis-Email-0.3                     121312
 Alien-Lua-v5.2.2.2                      121313
