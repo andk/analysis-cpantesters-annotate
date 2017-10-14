@@ -2308,7 +2308,6 @@ Mojolicious-Plugin-DSC-1.005            https://github.com/kberov/Mojolicious--P
 Time-Verbal-1.0.0                       116192
 Math-NumSeq-71                          116357
 Mojo-UserAgent-Mockable-1.31            https://github.com/PopeFelix/Mojo-UserAgent-Mockable/issues/8
-Mojolicious-Plugin-MoreUtilHelpers-0.05 https://github.com/sshaw/Mojolicious-Plugin-MoreUtilHelpers/issues/3
 Mojolicious-Plugin-Qaptcha-0.11         https://github.com/hrupprecht/Mojolicious-Plugin-Qaptcha/issues/2
 XML-Loy-0.42                            116363
 Mojolicious-Plugin-XML-Loy-0.13         116364
@@ -2653,7 +2652,6 @@ OSPF-LSDB-1.07                          117427
 Parse-HP-ACU-0.03                       117428
 Sphinx-Manager-0.06                     117429
 Bio-Das-Lite-2.11                       117430
-Mojolicious-Plugin-Plift-0.01           https://github.com/cafe01/Mojolicious-Plugin-Plift/issues/1
 Perl-Repository-APC-2.002001            117435
 PLUTO-0.30                              https://rt.perl.org/rt3/Ticket/Display.html?id=128139,117436
 Crypt-Nettle-0.3                        117438
@@ -2936,7 +2934,6 @@ Captcha-reCAPTCHA-0.98                  117790
 WebService-NotifyMyAndroid-0.0.6        117791
 Net-SAML2-0.18                          117797
 Test-LatestPrereqs-0.02                 117802
-Text-Sequence-0.25                      111173
 Test-Benchmark-0.004                    78290
 Template-Provider-DBIC-0.02             117803
 Template-Provider-PrefixDBIC-0.01       117804
@@ -3531,7 +3528,6 @@ Template-Plugin-ListMoreUtils-0.03      121291
 Sereal-Decoder-4.001_002                https://github.com/Sereal/Sereal/issues/165
 Dancer-Plugin-Thumbnail-0.13            121295
 GD-2.61                                 121297
-Net-WebSocket-0.021                     121299
 Mojolicious-Plugin-SQLiteViewerLite-0.13 121301
 AnyEvent-TLS-SNI-0.03                   module is deprecated,https://github.com/nalobin/AnyEvent-TLS-SNI/issues/2
 Barcode-Code128-2.21                    121307
@@ -3683,7 +3679,6 @@ Text-SenseClusters-LabelEvaluation-Driver-0.09 121690
 XML-SRS-0.09                            90666
 DBIx-Class-Result-Validation-0.16       121715
 CloudCron-0.02                          121780
-Data-Compare-Plugins-JSON-1.03          https://github.com/dionys/data-compare-plugins-json/issues/1
 CloudDeploy-1.05                        121782
 Net-BrowserID-Verify-0.003              121783
 Tapper-Reports-API-5.0.5                121784
