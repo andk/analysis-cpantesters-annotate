@@ -1937,7 +1937,6 @@ MIME-tools-5.507                        113887
 Test-SharedFork-0.35                    https://github.com/tokuhirom/Test-SharedFork/issues/22
 Protocol-CassandraCQL-0.12              113958
 Types-Numbers-0.94                      https://github.com/SineSwiper/Types-Numbers/issues/2
-DBIx-Sunny-0.22                         https://github.com/kazeburo/DBIx-Sunny/issues/3
 ExtUtils-AutoInstall-0.63               113923
 AnyEvent-WebSocket-Client-0.33          https://github.com/plicease/AnyEvent-WebSocket-Client/issues/22
 Test-MockPackages-0.4                   113982
@@ -1972,7 +1971,6 @@ Module-Depends-0.16                     115053,https://rt.perl.org/rt3/Ticket/Di
 DateTime-Calendar-Japanese-Era-0.08002  https://github.com/lestrrat/p5-DateTime-Calendar-Japanese-Era/issues/1
 FFmpeg-Command-0.19                     103139
 B-Size-0.09                             33471
-Compress-LZO-1.08                       46544,86115
 PerlIO-subfile-0.08                     95340
 Email-Abstract-3.008                    https://github.com/rjbs/Email-Abstract/issues/9
 OurNet-BBSAgent-1.61                    114377
@@ -3944,7 +3942,6 @@ RRD-Tweak-1.00                          122901
 Vimana-2.26                             122902
 WebService-NetSuite-0.05                118954
 WWW-Analytics-MultiTouch-0.36           122907
-Perinci-Sub-GetArgs-Argv-0.83           122903
 RDF-Notation3-0.91                      62575, 72828,72828,122904
 Elastic-Model-0.52                      https://github.com/clintongormley/Elastic-Model/issues/45
 Net-Google-Calendar-Server-0.1          122905
