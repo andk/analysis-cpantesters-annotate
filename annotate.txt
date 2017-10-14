@@ -27,7 +27,6 @@ Catalyst-Plugin-XMLRPC-2.01             50810
 AProf-0.6                               50855
 CairoX-Pager-0.02                       50988
 CGI-Application-Plugin-TmplInnerOuter-1.13 51034
-Event-ScreenSaver-0.0.3                 51122
 Perl6-Feeds-0.20                        50551
 XS-MRO-Compat-0.14                      51197
 TRD-Watch-Web-0.0.4                     51220
@@ -654,7 +653,6 @@ PDL-Stats-0.6.5                         96742
 DBIx-MyParsePP-0.50                     98472
 HTML-WikiConverter-0.68                 92554
 Template-Semantic-0.09                  https://github.com/tomill/Template-Semantic/issues/10
-Music-Canon-2.00                        98626
 App-Cmd-Starter-0.02                    98627
 Acme-TLDR-0.004                         https://github.com/creaktive/Acme-TLDR/issues/3
 AnyEvent-Delay-0.01                     95245
@@ -897,7 +895,6 @@ Brownie-0.09                            98810
 Catalyst-Action-Wizard-0.008            103975
 Data-HAL-1.000                          101827
 Log-Message-Structured-Stringify-AsSereal-0.11 https://github.com/dams/log-message-structured-stringify-sereal/issues/2
-Perinci-Sub-Property-dies_on_error-0.05 103932
 Rose-DBx-Object-Cached-FastMmap-0.05    103978
 App-assh-1.1.2                          103976
 RDF-Flow-0.178                          https://github.com/nichtich/RDF-Flow/issues/1
@@ -1003,7 +1000,6 @@ XML-XSH-1.8.4                           deprecated
 Makefile-Parser-0.216                   77738
 Mojolicious-Plugin-RedisSubscriber-0.0.1 107207
 WWW-SFDC-0.37                           105992
-Dist-Zilla-Plugin-Templates-v0.5.0      107250
 Locale-India-0.001                      107029
 PerlIO-via-GnuPG-0.006                  https://github.com/RsrchBoy/perlio-via-gnupg/issues/1
 Strehler-Element-Extra-1.0.1            106758
@@ -2041,7 +2037,6 @@ System-Wrapper-v0.0.2                   114794
 Data-Walk-Extracted-v0.26.8             https://github.com/jandrew/Data-Walk-Extracted/issues/2
 Parse-Eyapp-1.182                       https://rt.perl.org/rt3/Ticket/Display.html?id=128139,105643
 Sys-CPU-0.61                            54267
-PerlX-Assert-0.904                      114938
 WordNet-Insert-0.02                     114921
 Wiktionary-Parser-0.11                  114923
 CHI-0.60                                109993,115022
@@ -2387,7 +2382,6 @@ DBIx-PgCoroAnyEvent-0.03                https://github.com/jef-sure/dbd-pg-cae/i
 Attribute-Generator-0.02                116669
 Net-SSH-Mechanize-0.1.3                 85555
 Net-Whois-1.9                           63485
-Module-Installed-Tiny-0.002             116686
 Weasel-Widgets-Dojo-0.02                https://github.com/perl-weasel/weasel-widgets-dojo/issues/1
 W3C-SOAP-WADL-0.007                     116696
 Business-CPI-Gateway-Moip-0.05          91905
@@ -2576,7 +2570,6 @@ Config-Layered-0.000003                 117336
 Net-DNS-DurableDNS-v1.1                 98461
 Sub-StopCalls-0.02                      https://rt.perl.org/rt3/Ticket/Display.html?id=128179,117338
 DBIx-Class-FilterColumn-ByType-1.122121 117340
-InlineX-CPP2XS-0.24                     117341
 Data-Structure-Compare-0.02             117342
 Net-XMPP-1.05                           https://github.com/dap/Net-XMPP/issues/13
 NIST-NVD-1.00.00                        117343
@@ -2980,7 +2973,6 @@ Devel-Command-NewF-0.02                 117919
 Encode-compat-0.07                      104304
 Games-3D-0.10                           117921
 Date-Remind-Event-0.05                  117925
-Crypt-MatrixSSL3-v3.7.7                 https://github.com/powerman/perl-Crypt-MatrixSSL3/issues/36
 Any-Renderer-1.015_02                   117097
 Plack-Middleware-Profiler-NYTProf-0.17  117946
 MasonX-Profiler-0.06                    117947
@@ -3617,7 +3609,6 @@ Template-Lace-0.002                     https://github.com/jjn1056/Template-Lace
 App-vaporcalc-0.005004                  121479
 XML-Filter-NSNormalise-0.04             121480
 Alt-FFI-libffi-0.01                     https://github.com/plicease/Alt-FFI-libffi/issues/2,https://github.com/plicease/Alt-FFI-libffi/issues/3
-Log-Dispatch-Tk-1.8                     121482
 LinkEmbedder-0.05                       120901
 Mojar-Mysql-2.132                       https://github.com/niczero/mojar-mysql/issues/1
 App-GHPT-1.000002                       https://github.com/maxmind/App-GHPT/issues/7
@@ -3863,7 +3854,6 @@ POEx-Tickit-0.04                        122589
 IO-Compress-Lzf-2.074                   91419
 Filter-Crypto-2.07                      111423,119937
 Tree-Authz-0.03                         19421,19422
-Text-VimColor-0.26                      121756
 Coro-ProcessPool-0.26                   122565
 AnyEvent-GnuPG-1.001                    https://github.com/zurborg/libanyevent-gnupg-perl/issues/2
 Asterisk-CoroManager-0.11               122602
