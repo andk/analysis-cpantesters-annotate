@@ -1668,7 +1668,6 @@ Memcached-Client-2.01                   68592,75028
 Business-OnlinePayment-Ogone-0.2.3      111784
 Juju-2.002                              100355
 WebService-Cryptsy-1.008007             https://github.com/zoffixznet/WebService-Cryptsy/issues/2
-SNMP-OID-Translate-0.0004               https://github.com/rfdrake/p5-SNMP-OID-Translate/issues/1
 Test-Stream-1.302027                    Deprecated module
 Data-Session-1.16                       111844
 PerlGuard-Agent-0.15                    110579
@@ -1961,7 +1960,6 @@ Spreadsheet-Reader-ExcelXML-v0.2.0      https://github.com/jandrew/p5-spreadshee
 Crypt-JWT-0.015                         114343
 Net-Douban-1.14                         https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 Config-Std-0.901                        114342,https://rt.perl.org/rt3/Ticket/Display.html?id=128139
-I22r-Translate-0.95                     115041,https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 Lingua-EN-Tagger-0.25                   114491,https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 Module-Depends-0.16                     115053,https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 DateTime-Calendar-Japanese-Era-0.08002  https://github.com/lestrrat/p5-DateTime-Calendar-Japanese-Era/issues/1
