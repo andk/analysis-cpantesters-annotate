@@ -2482,14 +2482,12 @@ TeX-Hyphen-1.16                         https://rt.perl.org/rt3/Ticket/Display.h
 WWW-Google-PageRank-0.17                https://rt.perl.org/rt3/Ticket/Display.html?id=122121,117218
 JSON-XS-Sugar-1.01                      https://github.com/maxmind/JSON-XS-Sugar-perl/issues/4
 Tree-Binary-XS-0.03                     117220
-LaTeX-Decode-0.04                       https://rt.perl.org/rt3/Ticket/Display.html?id=128139,110678
 Mojolicious-Plugin-ConsoleLogger-0.06   https://rt.perl.org/rt3/Ticket/Display.html?id=128139,117228
 Test-Toolbox-0.3                        117181
 DestructAssign-0.002004                 https://rt.perl.org/rt3/Ticket/Display.html?id=128179,117229
 Char-Big5Plus-1.05                      117230
 Char-GB18030-1.05                       117230
 Char-HP15-1.05                          117230
-Char-INFORMIXV6ALS-1.05                 117230
 Char-KPS9566-1.05                       117230
 Char-UHC-1.05                           117230
 Sub-Trigger-Lock-0.002                  117231
@@ -3058,7 +3056,6 @@ perlbal-plugin-stickysessions-0.02      118200
 Apache-SWIT-Security-0.13               118201
 DBD-AnyData-0.110                       deprecated,101630
 Locale-Maketext-Lexicon-DBI-v0.2.1      79049
-Net-Random-QRBG-0.02                    118208
 Voldemort-0.11                          118231
 Hyle-0.4                                118212
 Crypt-Util-0.11                         118214
@@ -3303,7 +3300,6 @@ Graphics-GVG-SVG-0.4                    119578
 KeyedMutex-0.06                         119867
 Modern-Perl-1.20170115                  114690
 FFI-TinyCC-0.23                         https://github.com/plicease/FFI-TinyCC/issues/6
-WWW-Flatten-0.06                        119892
 WebService-Gitter-0.2.0                 119894
 Statocles-0.081                         https://github.com/preaction/Statocles/issues/526
 Sort-Naturally-XS-0.7.3                 119923
@@ -3893,7 +3889,6 @@ GD-Map-1.00                             122729
 DBIx-Class-InflateColumn-S3-0.01        hidden MacOSX files, no bugtracker
 Data-Validate-XSD-1.05                  122730
 WordNet-Extend-1.000                    122732
-SQLite_File-0.1001                      122766
 Hash-SharedMem-0.005                    122775
 Data-Edit-Xml-Lint-20170802             122789
 Cloudinary-0.15                         https://github.com/jhthorsen/cloudinary/issues/2
