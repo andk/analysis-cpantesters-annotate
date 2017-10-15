@@ -3984,3 +3984,5 @@ Mashtree-0.24                           121971
 Term-Table-0.011                        https://github.com/exodist/Term-Table/issues/8
 Google-Ads-AdWords-Client-4.18.0        118509
 Marky-0.035                             123251
+Wx-Perl-IconDepot-0.01                  123278
+Test-Module-Runnable-0.2.0              123286
