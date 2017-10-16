@@ -1830,7 +1830,6 @@ Map-Metro-Plugin-Map-Amsterdam-0.1102   https://github.com/Csson/p5-Map-Metro/is
 Map-Metro-Plugin-Map-Barcelona-0.1007   https://github.com/Csson/p5-Map-Metro/issues/11
 Map-Metro-Plugin-Map-Copenhagen-0.2006  https://github.com/Csson/p5-Map-Metro/issues/11
 Map-Metro-Plugin-Map-Gothenburg-0.1004  https://github.com/Csson/p5-Map-Metro/issues/11
-Map-Metro-Plugin-Map-Helsinki-0.1985    https://github.com/Csson/p5-Map-Metro/issues/11
 Map-Metro-Plugin-Map-Lyon-1.000         https://github.com/Csson/p5-Map-Metro/issues/11
 Data-Format-Pretty-Console-0.36         112947
 Business-PayPal-EWP-1.03                112952
@@ -2114,7 +2113,6 @@ Unix-SavedIDs-0.004003                  115635
 Digest-Hashcash-1.1                     115644
 Data-Dumper-MessagePack-0.002           115607
 HTML-FormBuilder-0.12                   107633
-JSON-Create-0.20                        https://github.com/benkasminbullock/json-create/issues/41
 WebService-DPD-API-v0.0004              115664
 WebService-GeoPost-Shipping-API-v0.0006 115665
 WebService-BambooHR-0.07                112434
@@ -2143,7 +2141,6 @@ DateTime-Tiny-1.04                      108636
 Date-Tiny-1.04                          108636
 Time-Tiny-1.05                          108636
 Map-Tube-London-0.74                    109054
-Simple-Accessor-0.10                    109396
 RateLimitations-0.03                    https://github.com/binary-com/perl-RateLimitations/issues/1
 Gimp-2.31                               110704
 WWW-Scripter-Plugin-JavaScript-0.008a   110763
@@ -2191,7 +2188,6 @@ Module-Install-Rust-0.01                114244
 Trace-Mask-0.000007                     https://github.com/exodist/Trace-Mask/issues/3
 Graph-Easy-0.75                         https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 GraphViz2-2.38                          https://rt.perl.org/rt3/Ticket/Display.html?id=128139
-Mac-Errors-1.18                         https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 Parse-FSM-1.12                          https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 Text-Starfish-1.21                      114354
 Struct-Diff-0.54                        no bugtracker, use of experimental functions on references
@@ -2301,7 +2297,6 @@ DBIx-Mojo-Template-0.04                 116379
 Date-Japanese-Era-0.06                  116381
 HTML-FillInForm-Lite-1.14               https://github.com/gfx/p5-HTML-FillInForm-Lite/issues/5,https://github.com/gfx/p5-HTML-FillInForm-Lite/issues/6
 Lingua-Slavic-Numbers-0.03              https://rt.perl.org/rt3/Ticket/Display.html?id=128139,116382
-Mojolicious-Plugin-ReplyTable-0.06      https://github.com/jberger/Mojolicious-Plugin-ReplyTable/issues/4
 URI-Find-Schemeless-Stricter-1.03       116383
 XML-DOM-XPath-0.14                      https://rt.perl.org/Ticket/Display.html?id=128622,115098
 BibTeX-Parser-0.69                      https://rt.perl.org/rt3/Ticket/Display.html?id=128139,116391
@@ -2948,7 +2943,6 @@ Net-IP-1.26                             117898
 MojoX-Run-0.15                          82104
 Log-File-Rolling-0.101                  https://github.com/hoytech/Log-File-Rolling/issues/3
 DBIx-Class-CustomPrefetch-0.09          117899
-AI-ConfusionMatrix-0.005                117933
 Polloc-1.5.3b                           113621
 Bio-Graphics-2.39                       103175,117905
 Finance-QuoteTW-0.08                    117906
@@ -3289,8 +3283,6 @@ REST-Client-273                         119829
 Cookieville-0.06                        https://github.com/jhthorsen/cookieville/issues/1
 Flower-0.10                             119828
 Mercury-0.011                           https://github.com/preaction/Mercury/issues/37
-Toadfarm-0.75                           https://github.com/jhthorsen/toadfarm/issues/24
-Time-Piece-1.31_01                      119842
 Config-IOD-Reader-0.31                  119861
 WWW-Eksi-0.22                           119862
 DBIx-Class-Helper-ResultSet-CrossTab-0.004 119864
@@ -3870,7 +3862,6 @@ Scope-Escape-Sugar-0.002                122650
 WWW-Offliberty-1.000005                 122651
 Inline-Python-0.55                      122664
 App-Gallery-0.001                       122663
-Graphics-TIFF-5                         122665
 MarpaX-Languages-M4-0.018               122674
 DateTime-Format-Strptime-1.73           https://github.com/houseabsolute/DateTime-Format-Strptime/issues/18
 URI-UTF8-Punycode-1.05                  122593
@@ -3965,7 +3956,6 @@ Test-UNIXSock-0.2                       https://github.com/fujiwara/Test-UNIXSoc
 PDF-Builder-3.006                       123123
 PFT-v1.2.1                              116333
 Catalyst-View-Template-Lace-0.011       121385,https://github.com/jjn1056/Catalyst-View-Template-Lace/issues/1,123125
-Mojolicious-Plugin-Loop-0.02            https://github.com/jhthorsen/mojolicious-plugin-loop/issues/1
 JPList-0.05                             123090
 Dancer2-Plugin-Paginator-2.0            https://github.com/manwar/Dancer2-Plugin-Paginator/issues/2
 Geo-Coder-Cache-0.06                    123135
