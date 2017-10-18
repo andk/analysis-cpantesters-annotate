@@ -688,7 +688,6 @@ MooseX-Enumeration-0.005                99223
 HTTP-Headers-ActionPack-0.09            98843
 Catalyst-Engine-PSGI-0.13               98874
 Dist-Inkt-Profile-TOBYINK-0.023         99286
-Class-Accessor-Lazy-0.35                99304
 Geo-CEP-1.0                             https://github.com/creaktive/Geo-CEP/issues/3
 Dist-Zilla-Plugin-ReleaseOnlyWithLatest-0.003 99338
 HTTP-Throwable-0.019                    https://github.com/rjbs/HTTP-Throwable/issues/6
@@ -761,7 +760,6 @@ XS-Object-Magic-0.04                    ok.pm victim
 Method-Lexical-0.30                     https://rt.perl.org/rt3/Ticket/Display.html?id=123341
 Test-Vars-0.005                         https://rt.perl.org/rt3/Ticket/Display.html?id=123349
 HTML-Hyphenate-0.05                     bug in irrelevant HTML::TreeBuilder 4.0,100704
-Pod-Readme-v1.1.1                       https://rt.perl.org/rt3/Ticket/Display.html?id=122146
 Test-ParallelSubtest-0.05               https://github.com/Test-More/test-more/issues/508
 Test-HTTP-Response-0.06                 100786
 RDF-Trine-Node-Literal-XML-0.16         100790
@@ -2184,7 +2182,6 @@ Math-Cephes-0.5304                      114158
 Gazelle-0.42                            https://github.com/kazeburo/Gazelle/issues/26
 FuseBead-From-PNG-0.01                  114212
 Net-Kubernetes-1.01                     112961
-Module-Install-Rust-0.01                114244
 Trace-Mask-0.000007                     https://github.com/exodist/Trace-Mask/issues/3
 Graph-Easy-0.75                         https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 GraphViz2-2.38                          https://rt.perl.org/rt3/Ticket/Display.html?id=128139
@@ -2200,7 +2197,6 @@ Image-Resize-0.5                        60038,60038
 Apache-Solr-1.03                        114542
 Excel-Template-XLSX-v1.0.5              114543
 MsgPack-RPC-0.1.1                       https://github.com/yanick/MsgPack-RPC/issues/5
-GraphViz-2.20                           114551
 App-Rssfilter-0.07                      https://github.com/dgholz/App-Rssfilter/issues/8
 Mojolicious-Plugin-DebugDumperHelper-0.02 114578
 YATT-Lite-0.100                         106776
@@ -2999,7 +2995,6 @@ Perl-Lint-0.25                          https://github.com/moznion/Perl-Lint/iss
 FormValidator-Lite-0.38                 https://github.com/tokuhirom/FormValidator-Lite/issues/15
 Boost-Geometry-Utils-0.15               https://rt.perl.org/rt3/Ticket/Display.html?id=121826,96145
 Apache-Logmonster-5.36                  118104
-FIX-Parser-0.01                         118105
 Message-Passing-Syslog-0.011            103914
 Mojolicious-Plugin-OpenAPI-1.02         https://github.com/jhthorsen/mojolicious-plugin-openapi/issues/8
 Monitoring-TT-1.0.0                     https://github.com/sni/Monitoring-TT/issues/2
@@ -3093,7 +3088,6 @@ Pickles-0.10                            118538
 Plack-Middleware-JSONParser-0.02        https://github.com/yosuke-furukawa/Plack-Middleware-JSONParser/issues/2
 Riak-Client-1.96                        https://github.com/dams/riak-client/issues/4
 ShardedKV-Storage-Rest-0.8              100774,100774
-Test-BrewBuild-2.08                     https://github.com/stevieb9/p5-test-brewbuild/issues/155
 Test-Debian-0.06                        https://github.com/dr-co/test-debian-perl/issues/4
 Test-Ping-0.203                         https://github.com/xsawyerx/test-ping/issues/5
 Test-Prereq-2.001_001                   https://github.com/briandfoy/test-prereq/issues/14
