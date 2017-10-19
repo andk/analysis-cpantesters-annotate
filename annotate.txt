@@ -281,7 +281,6 @@ AnyEvent-FlashSocketPolicy-0.03         removed from CPAN
 Net-Stream-0.28                         76545
 Net-Fluidinfo-0.45                      76547
 Math-Geometry-Planar-Offset-1.05        42045
-Data-Validate-0.08                      63213
 nextgen-0.06                            https://rt.perl.org:443/rt3/Ticket/Display.html?id=112444
 Text-KnuthPlass-1.02                    76548
 WWW-Class-0.03                          removed from cpan
@@ -1875,7 +1874,6 @@ Log-Declare-0.10                        https://github.com/companieshouse/Log-De
 Ouroboros-0.01-TRIAL                    https://github.com/vickenty/ouroboros/issues/1
 Wily-0.02                               113334
 WWW-Finances-Bovespa-0.10               113338
-Acme-Ognon-1990.6                       https://github.com/leejo/acme-ognon/issues/4
 Tree-Object-0.03                        113409
 Dist-Zilla-Plugin-ChangesFromYaml-0.005 https://github.com/carloslima/dist-zilla-plugin-changesfromyaml/issues/4
 Class-DBI-Frozen-301-3.0.1              113447
@@ -2161,7 +2159,6 @@ Text-Distill-0.02                       113928
 Selenium-UserAgent-0.08                 https://github.com/gempesaw/Selenium-UserAgent/issues/2
 Catmandu-LIDO-0.01                      https://github.com/LibreCat/Catmandu-LIDO/issues/1
 Lido-XML-0.02                           https://github.com/phochste/Lido-XML/issues/1
-Dist-Zilla-Plugin-ReadmeAnyFromPod-0.160630 113942
 Test-DBIx-Class-Schema-1.0.9            https://github.com/chiselwright/test-dbix-class-schema/issues/12
 List-Uniq-0.20                          113952
 Math-Big-1.12                           113959
@@ -2202,7 +2199,6 @@ Dancer-Plugin-TagHelper-0.01            114652
 DBIx-Class-RandomStringColumns-0.09     https://github.com/kan/p5-dbic-random-string-columns/issues/1
 File-Copy-NoClobber-0.2.0               114664
 Log-Log4perl-Appender-RabbitMQ-0.141470 102485
-Dist-Zilla-App-Command-dumpwith-0.002012 https://github.com/kentnl/Dist-Zilla-App-Command-dumpwith/issues/1
 Hex-Record-0.07                         114778
 HTML-FormFu-2.01_03                     109159
 Cache-Profile-0.02                      114790
@@ -2280,7 +2276,6 @@ Math-NumSeq-71                          116357
 Mojo-UserAgent-Mockable-1.31            https://github.com/PopeFelix/Mojo-UserAgent-Mockable/issues/8
 Mojolicious-Plugin-Qaptcha-0.11         https://github.com/hrupprecht/Mojolicious-Plugin-Qaptcha/issues/2
 XML-Loy-0.42                            116363
-Mojolicious-Plugin-XML-Loy-0.13         116364
 Mojolicious-Plugin-MethodOverride-0.053 116375
 Dancer2-Plugin-HTTP-Auth-Extensible-0.121 116377
 DBIx-Mojo-Template-0.04                 116379
@@ -2465,7 +2460,6 @@ WWW-Google-PageRank-0.17                https://rt.perl.org/rt3/Ticket/Display.h
 JSON-XS-Sugar-1.01                      https://github.com/maxmind/JSON-XS-Sugar-perl/issues/4
 Tree-Binary-XS-0.03                     117220
 Mojolicious-Plugin-ConsoleLogger-0.06   https://rt.perl.org/rt3/Ticket/Display.html?id=128139,117228
-Test-Toolbox-0.3                        117181
 DestructAssign-0.002004                 https://rt.perl.org/rt3/Ticket/Display.html?id=128179,117229
 Char-Big5Plus-1.05                      117230
 Char-GB18030-1.05                       117230
@@ -3014,7 +3008,6 @@ FreeMind-Convert-0.03                   118140
 Template-Ast-0.02                       118141
 TRD-Watch-Ping-0.0.4                    118142
 Jabber-PubSub-JEAI-0.03                 118147
-Siebel-Lbconfig-0.001                   https://github.com/glasswalk3r/siebel-monitoring-tools/issues/7
 Workflow-Wfmc-0.01e                     118148
 WoW-Wiki-0.01                           118150
 Mail-FilterXML-0.3                      118151
@@ -3060,7 +3053,6 @@ WebService-Images-Nofrag-0.06           118362
 RPC-ExtDirect-Client-1.24               https://github.com/nohuhu/RPC-ExtDirect-Client/issues/3
 Devel-Chitin-0.09                       https://rt.perl.org/Public/Bug/Display.html?id=129821
 Eixo-Rest-1.206                         118387
-Lab-Measurement-3.520                   https://github.com/lab-measurement/lab-measurement/issues/8
 Math-Polynomial-1.011                   114004
 Test-RestAPI-0.1.4                      https://github.com/JaSei/Test-RestAPI/issues/1
 DBIx-TransactionManager-Distributed-0.01 https://github.com/binary-com/perl-DBIx-TransactionManager-Distributed/issues/3
@@ -3401,8 +3393,6 @@ SOOT-0.17                               120735
 Pcore-API-AftermarketPl-v0.4.1          https://bitbucket.org/softvisio/pcore-nginx/issues/2/undeclared-dependency-mouse
 Pcore-API-Dynadot-v0.5.1                https://bitbucket.org/softvisio/pcore-nginx/issues/2/undeclared-dependency-mouse
 Pcore-API-Majestic-v0.7.1               https://bitbucket.org/softvisio/pcore-nginx/issues/2/undeclared-dependency-mouse
-Pcore-Captcha-v1.0.1                    https://bitbucket.org/softvisio/pcore-nginx/issues/2/undeclared-dependency-mouse
-Pcore-Redis-v0.7.2                      https://bitbucket.org/softvisio/pcore-nginx/issues/2/undeclared-dependency-mouse
 Pcore-SMTP-v0.1.1                       https://bitbucket.org/softvisio/pcore-nginx/issues/2/undeclared-dependency-mouse
 Acme-AXP-Utils-0.06                     120758
 Git-Database-0.008                      120760
@@ -3615,7 +3605,6 @@ Mojolicious-Plugin-INIConfig-Extended-0.06 121669
 Net-Nslookup-2.04                       108184,121672
 CatalystX-VCS-Lookup-0.06               121673
 Net-Easypost-0.19                       121674
-MooX-Struct-0.015                       121624
 Sub-Talisman-Struct-0.005               121677
 Text-SenseClusters-LabelEvaluation-0.06 121689
 Text-SenseClusters-LabelEvaluation-Driver-0.09 121690
