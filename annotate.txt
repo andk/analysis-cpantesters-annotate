@@ -3953,3 +3953,4 @@ Math-GSL-0.39                           123306
 Business-BR-CNJ-WebService-0.03         123326
 MOP-0.10                                123345,https://github.com/stevan/p5-MOP/issues/24
 Test2-Suite-0.000082                    123337
+Number-Format-Calc-0.2                  withdrawn
