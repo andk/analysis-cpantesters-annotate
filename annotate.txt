@@ -3047,7 +3047,6 @@ Net-API-Gett-1.06                       118315
 Business-OnlinePayment-eSelectPlus-0.07 118317
 LIVR-Contract-0.04                      118318
 ETL-Pipeline-2.02                       117766
-DR-Tnt-0.04                             118326
 AnyEvent-ClickHouse-0.021               118359
 WebService-Images-Nofrag-0.06           118362
 RPC-ExtDirect-Client-1.24               https://github.com/nohuhu/RPC-ExtDirect-Client/issues/3
@@ -3945,7 +3944,6 @@ Test-Module-Runnable-0.2.2              123288
 Chloro-0.06                             123295
 Net-APNS-0.0202                         123296
 DR-Tnt-0.20                             118326
-code-UnifdefPlus-v0.4.0                 120449,123311
 code-UnifdefPlus-0.005.004              120449,120449
 App-VideoHost-0.143310-TRIAL            https://github.com/EatMoreCode/video_host/issues/1
 Math-GSL-0.39                           123306
