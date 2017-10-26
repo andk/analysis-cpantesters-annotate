@@ -3954,3 +3954,16 @@ Business-BR-CNJ-WebService-0.03         123326
 MOP-0.10                                123345,https://github.com/stevan/p5-MOP/issues/24
 Test2-Suite-0.000082                    123337
 Number-Format-Calc-0.2                  withdrawn
+CGI-Info-0.64                           https://github.com/nigelhorne/CGI-Info/issues/7
+Mojo-IOLoop-ReadWriteProcess-0.09       123176
+oxdperl_sobhantest-3.2.1                123382
+JsonSQL-0.41                            123383
+Locale-Babelfish-2.001                  https://github.com/regru/Locale-Babelfish/issues/1
+Moxie-0.05                              123391
+Perinci-CmdLine-Lite-1.79               122597
+WWW-API-Bitfinex-0.01                   123392
+App-Anchr-0.4.3                         https://github.com/wang-q/App-Anchr/issues/1
+Clustericious-1.26                      https://github.com/clustericious/Clustericious/issues/44
+Module-CheckDep-Version-0.08            123393
+OpenAPI-Client-0.09                     123394
+PLN-PT-0.006                            123395
