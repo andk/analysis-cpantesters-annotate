@@ -581,7 +581,6 @@ MojoX-Validator-0.0014                  96391
 Cache-Mmap-0.11                         95940
 Geo-KML-0.94                            96392
 Media-Type-Simple-v0.30.2               96393
-Word-Segmenter-Chinese-Lite-0.01        96408
 POE-Component-Generic-0.1403            96442
 Guard-1.022                             https://rt.perl.org/rt3/Ticket/Display.html?id=122031
 CGI-PrintWrapper-0.11                   96495
@@ -683,7 +682,6 @@ HTML-Strip-1.07                         99151
 Spreadsheet-WriteExcel-2.40             test suite not robust against shuffling or parallel testing
 MooseX-Enumeration-0.005                99223
 HTTP-Headers-ActionPack-0.09            98843
-Catalyst-Engine-PSGI-0.13               98874
 Dist-Inkt-Profile-TOBYINK-0.023         99286
 Geo-CEP-1.0                             https://github.com/creaktive/Geo-CEP/issues/3
 Dist-Zilla-Plugin-ReleaseOnlyWithLatest-0.003 99338
@@ -1307,7 +1305,6 @@ Text-MicroMason-SafeServerPages-0.03    76390
 Locale-Handle-Pluggable-0.01            109291
 FormValidator-Simple-0.29               109295
 HTTP-Engine-0.03005                     66938
-File-AptFetch-v0.1.13                   109350
 FASTAParse-0.0.3                        109325
 Plugins-0.41                            109327
 Samba-LDAP-0.05                         109328
@@ -1464,7 +1461,6 @@ Rstat-Client-2.2                        109975
 Remote-Use-0.04                         109976
 Python-Decorator-0.03                   109977
 Kwiki-DB-0.02                           109979
-Text-ECSV-0.01                          109980
 Text-Decorator-1.65                     109981
 Parallel-MapReduce-0.09                 109995
 OpenGL-List-0.01                        109996
@@ -1926,7 +1922,6 @@ Protocol-CassandraCQL-0.12              113958
 Types-Numbers-0.94                      https://github.com/SineSwiper/Types-Numbers/issues/2
 ExtUtils-AutoInstall-0.63               113923
 AnyEvent-WebSocket-Client-0.33          https://github.com/plicease/AnyEvent-WebSocket-Client/issues/22
-Test-MockPackages-0.4                   113982
 Bitmask-Data-2.04                       113991
 Text-TransMetaphone-0.07                114007
 Digest-Skein-0.05                       113998,https://github.com/Perl-Toolchain-Gang/ExtUtils-MakeMaker/pull/266
@@ -2244,7 +2239,6 @@ LCFG-Build-PkgSpec-0.1.0                115899
 Regexp-Whitespace-0.001_1-TRIAL         fails for perl >= 5.18, no issue tracker
 RTF-Tokenizer-1.19                      https://rt.perl.org/rt3/Ticket/Display.html?id=128139,115956
 OptArgs2-0.0.6                          https://github.com/mlawren/p5-OptArgs2/issues/2
-Class-Constant-0.06                     115995
 MooseX-Getopt-0.71                      four fails with dated toolchain, reported and fixed
 Perl6-Pod-0.72                          116024
 Test-Dependencies-0.21                  https://github.com/ehuelsmann/perl-Test-Dependencies/issues/5
@@ -2434,7 +2428,6 @@ WWW-Baidu-0.06                          117103
 NCC-0.001                               117106
 Mojolicious-Plugin-SPNEGO-0.2.3         https://github.com/oetiker/mojolicious-plugin-spnego/issues/1
 CPAN-Mini-Inject-REST-Client-0.02       117133
-Zabbix-Sender-0.05                      https://github.com/dominikschulz/Zabbix-Sender/issues/9
 Zabbix-ServerScript-0.07                https://github.com/Akint/Zabbix-ServerScript/issues/4
 Mojolicious-Plugin-Riotjs-0.06          https://github.com/jhthorsen/mojolicious-plugin-riotjs/issues/2
 Data-Inspect-0.04                       https://rt.perl.org/rt3/Ticket/Display.html?id=128139,117168
@@ -3013,7 +3006,6 @@ WoW-Wiki-0.01                           118150
 Mail-FilterXML-0.3                      118151
 SVN-Dumpfile-0.13.107                   118152
 Tk-ACH-0.07                             117713
-DateTime-Calendar-Christian-0.04        118050
 Test-RandomCheck-0.02                   https://github.com/hiratara/p5-Test-RandomCheck/issues/2
 Monitoring-GLPlugin-2.3.2.2             116130
 Text-Macros-0.04                        118193
@@ -3031,7 +3023,6 @@ Voldemort-0.11                          118231
 Hyle-0.4                                118212
 Crypt-Util-0.11                         118214
 Ubic-Service-Plack-1.18                 118226
-Treex-PML-2.20                          118233
 Encode-Arabic-Franco-0.007              https://github.com/athreef/Encode-Arabic-Franco/issues/1
 Net-Traceroute6-0.03                    118251
 Plack-Server-Coro-0.02                  118252
@@ -3054,7 +3045,6 @@ Devel-Chitin-0.09                       https://rt.perl.org/Public/Bug/Display.h
 Eixo-Rest-1.206                         118387
 Math-Polynomial-1.011                   114004
 Test-RestAPI-0.1.4                      https://github.com/JaSei/Test-RestAPI/issues/1
-DBIx-TransactionManager-Distributed-0.01 https://github.com/binary-com/perl-DBIx-TransactionManager-Distributed/issues/3
 Text-HikiDoc-1.022                      https://github.com/higemaru/p5-text-hikidoc/issues/1
 AnyEvent-Riak-0.93                      https://github.com/dams/p5-anyevent-riak/issues/1
 BSON-XS-v0.2.1                          118516
@@ -3185,7 +3175,6 @@ Class-Class-0.18                        119028
 GedNav-0.02                             119029
 File-BOM-0.15                           119068
 Parse-Syslog-Line-3.5                   119069
-MVC-Neaf-0.13                           119086
 Mojo-RabbitMQ-Client-0.0.6              https://github.com/inway/mojo-rabbitmq-client/issues/4
 Image-Scale-0.13                        119094
 Syntax-Keyword-Try-0.04                 119095
@@ -3314,7 +3303,6 @@ WWW-Desk-0.10                           116965
 AnyEvent-7.13                           120350
 Net-Whois-IANA-0.41                     120357
 Metabrik-1.26                           118279
-Algorithm-QuineMcCluskey-0.15           120360
 Binary-Heap-Array-2017.121              120361
 BioX-FedDB-0.01                         120362
 Dezi-Bot-0.003                          120363
@@ -3459,7 +3447,6 @@ Tilt-Email-BlueHornet-0.001             121279
 Mail-CheckUser-1.24                     121285
 Defaults-Modern-0.011001                121286
 Alien-LMDB-0.103                        https://github.com/hoytech/Alien-LMDB/issues/4
-WWW-NOS-Open-0.100                      waiting for newer URI::Escape than 1.61,121289
 Template-Plugin-ListMoreUtils-0.03      121291
 Sereal-Decoder-4.001_002                https://github.com/Sereal/Sereal/issues/165
 Dancer-Plugin-Thumbnail-0.13            121295
@@ -3506,7 +3493,6 @@ Inline-BC-0.08                          121355
 Mojolicious-Plugin-HTMLTemplateRenderer-0.04 121356
 Ogg-LibOgg-0.02                         121357
 XCAP-Client-0.07                        121358
-MusicBrainz-DiscID-0.03                 85212,89285
 Tie-Judy-0.05                           121361
 AI-ParticleSwarmOptimization-1.006      121362
 Image-Filter-0.07                       121370
@@ -3590,7 +3576,6 @@ Global-IPC-StaticVariable-0.015         https://github.com/itsusony/Global-IPC-S
 Global-MutexLock-0.026                  https://github.com/itsusony/Global-MutexLock/issues/1
 PDL-VectorValued-1.0.6                  121661
 Redis-Jet-0.08                          https://github.com/kazeburo/Redis-Jet/issues/8
-Regexp-Compare-0.27                     121662
 Server-Starter-0.33                     https://github.com/kazuho/p5-Server-Starter/issues/46
 StartCom-API-0.2                        121663
 Sys-Info-0.78                           120898
@@ -3621,7 +3606,6 @@ App-VTide-v0.1.2                        118369
 Alvis-Convert-0.4                       121823
 Net-YASA-0.03                           121842
 App-Prove-Plugin-Distributed-0.08       121843
-Lazy-Utils-1.17                         https://github.com/orkunkaraduman/Lazy-Utils/issues/18
 Bio-DB-Big-v1.0.0                       121868
 Geo-Coder-List-0.11                     121919
 HTML-TableExtract-2.15                  121920
@@ -3769,7 +3753,6 @@ Geo-Point-Plugin-Transform-0.0.2        122368
 IO-File-Log-1.01                        34778
 RDF-YAML-0.11                           122369
 Sub-Versive-0.01                        122370
-Module-Metadata-CoreList-1.08           122374
 IPC-Transit-1.171860                    https://github.com/dana/perl-IPC-Transit/issues/2
 Dir-ls-0.002                            122379
 Image-Sane-0.13                         122380
@@ -3832,7 +3815,6 @@ App-Gallery-0.001                       122663
 MarpaX-Languages-M4-0.018               122674
 DateTime-Format-Strptime-1.73           https://github.com/houseabsolute/DateTime-Format-Strptime/issues/18
 URI-UTF8-Punycode-1.05                  122593
-Proc-InvokeEditor-1.08                  122703
 POE-Component-Client-Twitter-0.01       66970
 GnuPG-0.19                              117002
 HPC-Runner-Command-Plugin-Logger-Sqlite-0.01 122705
@@ -3857,7 +3839,6 @@ Algorithm-Cluster-1.53                  120442
 Statistics-Multtest-0.14                122859
 Mail-OpenDKIM-4204                      122861
 POE-Filter-SSL-0.34                     122573
-AnyEvent-DBI-3.0                        122863
 IPC-MorseSignals-0.17                   117528, module is deprecated
 Devel-DebugHooks-0.05                   122872
 Resource-Pack-0.03                      122855
