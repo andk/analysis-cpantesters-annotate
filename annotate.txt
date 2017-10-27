@@ -3936,7 +3936,7 @@ CGI-Info-0.64                           https://github.com/nigelhorne/CGI-Info/i
 Mojo-IOLoop-ReadWriteProcess-0.09       123176
 oxdperl_sobhantest-3.2.1                123382
 JsonSQL-0.41                            123383
-Locale-Babelfish-2.001                  https://github.com/regru/Locale-Babelfish/issues/1
+Locale-Babelfish-2.002                  https://github.com/regru/Locale-Babelfish/issues/2
 Moxie-0.05                              123391
 Perinci-CmdLine-Lite-1.79               122597
 WWW-API-Bitfinex-0.01                   123392
