@@ -2122,7 +2122,6 @@ SOAP-Lite-1.19                          106725
 AnyEvent-Fork-1.2                       106900
 perl5i-v2.13.1                          https://github.com/evalEmpire/perl5i/issues/291,https://rt.perl.org/rt3/Ticket/Display.html?id=126545
 Net-CardDAVTalk-0.02                    108359
-WWW-AUR-0.19                            106766
 WWW-Mechanize-PhantomJS-0.11            108505
 DateTime-Tiny-1.04                      108636
 Date-Tiny-1.04                          108636
@@ -3296,7 +3295,6 @@ Dev-Bollocks-0.06                       120291
 Command-Interactive-1.21                95705
 Test-NoLeaks-0.06                       120315
 Experian-IDAuth-2.3                     120325
-FSM-Basic-0.03                          120333
 Git-Repo-Commits-0.0.4                  120339
 WWW-Desk-0.10                           116965
 AnyEvent-7.13                           120350
@@ -3942,7 +3940,6 @@ App-Anchr-0.4.3                         https://github.com/wang-q/App-Anchr/issu
 Clustericious-1.26                      https://github.com/clustericious/Clustericious/issues/44
 Module-CheckDep-Version-0.08            123393
 OpenAPI-Client-0.09                     123394
-PLN-PT-0.006                            123395
 Text-Aspell-0.09                        122910
 GraphQL-0.18                            https://github.com/graphql-perl/graphql-perl/issues/4
 FSM-Basic-0.12                          123412
