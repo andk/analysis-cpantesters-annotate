@@ -3953,3 +3953,14 @@ XML-Compile-SOAP-WSA-0.13               123425
 Business-BR-CNJ-NumberExtractor-0.03x   123426,123427
 CGI-Application-Server-0.063            123428
 Bio-Phylo-0.58                          https://github.com/rvosa/bio-phylo/issues/31,https://github.com/rvosa/bio-phylo/issues/40
+CGI-FormBuilder-3.10                    https://github.com/rjbs/CGI-Application-Server/issues/2
+Math-Random-SkewNormal-0.03             95929
+Plack-Session-Store-RedisFast-0.05      123429
+XML-DOMBacked-1.00                      123431
+Alien-GEOS-0.01                         123432
+Alien-Hush-0.8889                       123433
+SQL-Translator-0.11021                  121901
+Test-NoXS-1.03                          https://github.com/dagolden/Test-NoXS/issues/3
+Alien-qd-0.01                           123434
+Ryu-Async-0.008                         123430
+Panda-Lib-1.3.2                         123437,https://rt.perl.org/Public/Bug/Display.html?id=131953
