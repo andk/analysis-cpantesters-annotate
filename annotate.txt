@@ -3136,7 +3136,6 @@ Data-Checker-1.07                       118881
 IO-Prompt-0.997003                      https://rt.perl.org/Ticket/Display.html?id=130126,118893
 Test-Dist-Zilla-v0.4.2_02               118894
 XML-Twig-3.50                           118909
-Bio-Phylo-0.58                          https://github.com/rvosa/bio-phylo/issues/31
 Config-Model-Xorg-1.111                 118911
 Template-Plugin-PerlTidy-0.03           118928
 MediaWiki-Bot-5.006003                  https://github.com/MediaWiki-Bot/MediaWiki-Bot/issues/81
@@ -3763,7 +3762,6 @@ RayApp-2.004                            113306
 Tk-AbstractCanvas-1.6                   122404,122405
 XML-Tidy-1.18                           122406
 W3C-XHTML-HTMLCompatChecker-0.10        122411
-Net-ZooIt-0.22                          122317
 Sslscan-Parser-0.02                     122412
 Syntax-Highlight-WithEmacs-0.2          122430
 Device-USB-TEMPer1F-0.04                120478
@@ -3951,7 +3949,7 @@ FSM-Basic-0.12                          123412
 ParseUtil-Domain-2.427                  123418
 Grammar-Graph-0.20                      123420
 Test-Applify-0.02                       123402
-Net-ZooIt-0.22                          123403
+Net-ZooIt-0.22                          122317,123403
 Promises-0.98                           123404
 Coteng-0.11                             https://github.com/yuuki/Coteng/issues/27
 JSON-RPC2-v2.1.1                        https://github.com/powerman/perl-JSON-RPC2/issues/3
@@ -3969,4 +3967,4 @@ Tree-Template-Declare-0.7               123424
 XML-Compile-SOAP-WSA-0.13               123425
 Business-BR-CNJ-NumberExtractor-0.03x   123426,123427
 CGI-Application-Server-0.063            123428
-Bio-Phylo-0.58                          https://github.com/rvosa/bio-phylo/issues/40
+Bio-Phylo-0.58                          https://github.com/rvosa/bio-phylo/issues/31,https://github.com/rvosa/bio-phylo/issues/40
