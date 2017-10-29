@@ -1030,7 +1030,6 @@ Time-HiRes-Value-0.08                   105451
 Redis-ScriptCache-0.04                  107866
 Chimaera-Matcher-1.01                   107892
 AWS-Signature-V2-0.01                   https://github.com/kablamo/AWS-Signature-V2/issues/1
-Locale-Utils-PlaceholderBabelFish-0.001 107912
 Plack-Middleware-DNSBL-0.0304           107913
 outthentic-0.0.2                        renamed to Outthentic
 Outthentic-0.0.5                        107961
@@ -1483,7 +1482,6 @@ SWISH-Filters-ImageToMD5Xml-0.04        110096
 HTTP-Easy-0.02                          110101
 Net-Ikano-0.01                          110112
 WebService-Recruit-AbRoad-0.0.1         110117
-Log-UDP-Client-0.20.0                   110118
 HTML-FormFu-Filter-Demoroniser-0.02     109733
 XML-FeedPP-Plugin-AddMP3-0.02           88586
 MasonX-StaticBuilder-0.04               110149
@@ -1966,7 +1964,6 @@ DBIx-Class-FromSledge-0.03              114546
 Params-Classify-0.013                   https://rt.perl.org/rt3/Ticket/Display.html?id=128179,114490
 Gwybodaeth-0.02                         114547
 Parse-Yapp-1.05                         https://rt.perl.org/rt3/Ticket/Display.html?id=128139,106685
-WWW-Tracking-0.02                       https://github.com/jozef/WWW-Tracking/issues/1
 Wx-0.9928                               114552
 Data-SCORM-0.07                         114553
 Test-Declare-0.06                       114555
@@ -2228,7 +2225,6 @@ QBit-Application-0.011                  115878
 LCFG-Build-PkgSpec-0.1.0                115899
 Regexp-Whitespace-0.001_1-TRIAL         fails for perl >= 5.18, no issue tracker
 RTF-Tokenizer-1.19                      https://rt.perl.org/rt3/Ticket/Display.html?id=128139,115956
-OptArgs2-0.0.6                          https://github.com/mlawren/p5-OptArgs2/issues/2
 MooseX-Getopt-0.71                      four fails with dated toolchain, reported and fixed
 Perl6-Pod-0.72                          116024
 Test-Dependencies-0.21                  https://github.com/ehuelsmann/perl-Test-Dependencies/issues/5
@@ -2373,7 +2369,6 @@ NoSQL-PL2SQL-1.21                       90543
 Vim-Debug-0.904                         https://github.com/kablamo/VimDebug/issues/33,https://github.com/kablamo/VimDebug/issues/36
 Thread-SharedTreeSet-0.01               116752
 Data-RuledValidator-0.13                91403
-Plack-Middleware-Raygun-0.003           116756
 MySQL-Packet-0.2007054                  108528
 Net-PT-0.01                             116757
 Net-PT-Test-0.01                        116758
@@ -2402,7 +2397,6 @@ List-Util-1.46_01                       117080
 Mail-RBL-1.10                           58026
 Cache-Memcached-Queue-0.1.8             117079
 ora-2.0                                 117087
-Performance-Probability-0.04            117088
 textrender-1.09                         117089
 WWW-Trello-Lite-1.00                    98204
 Variable-Magic-0.59                     117081,https://rt.perl.org/Ticket/Display.html?id=128989
@@ -2922,7 +2916,6 @@ Template-Plugin-Transformator-0.001     https://github.com/zurborg/libtemplate-p
 Devel-Command-NewF-0.02                 117919
 Encode-compat-0.07                      104304
 Games-3D-0.10                           117921
-Date-Remind-Event-0.05                  117925
 Any-Renderer-1.015_02                   117097
 Plack-Middleware-Profiler-NYTProf-0.17  117946
 MasonX-Profiler-0.06                    117947
@@ -3228,7 +3221,6 @@ REST-Client-273                         119829
 Cookieville-0.06                        https://github.com/jhthorsen/cookieville/issues/1
 Flower-0.10                             119828
 Mercury-0.011                           https://github.com/preaction/Mercury/issues/37
-Config-IOD-Reader-0.31                  119861
 WWW-Eksi-0.22                           119862
 DBIx-Class-Helper-ResultSet-CrossTab-0.004 119864
 Graphics-GVG-SVG-0.4                    119578
@@ -3363,7 +3355,6 @@ Devel-MAT-0.25                          114581
 XRI-Resolution-Lite-0.04                probably temporary network/server failure,120780
 Ham-ADIF-v1.5.1                         117262
 Kavorka-0.037                           109841
-App-PDF-Link-0.18                       120801
 Net-Moip-V2-0.05                        https://github.com/cafe01/Net-Moip-V2/issues/1
 Business-OnlinePayment-Vindicia-Select-0.002 120948
 List-Flatten-XS-0.02                    120902
@@ -3505,7 +3496,6 @@ Mojo-Log-Clearable-0.002                https://github.com/Grinnz/Mojo-Log-Clear
 Mojo-MySQL5-0.09                        https://github.com/harry-bix/mojo-mysql5/issues/6
 MojoX-JSON-RPC-0.10                     121395
 MojoX-Plugin-PODRenderer-0.01           121396
-Mojolicious-Command-generate-qx_mojo_app-0.2.2 https://github.com/oetiker/qx-mojo-app/issues/4
 Mojolicious-Plugin-AppCacheManifest-0.05 https://github.com/sbertrang/mojolicious-plugin-appcachemanifest/issues/1
 Mojolicious-Plugin-ConfigHashMerge-0.02 https://github.com/dotandimet/Mojolicious-Plugin-ConfigHashMerge/issues/1
 Mojolicious-Plugin-Directory-0.12       https://github.com/hayajo/Mojolicious-Plugin-Directory/issues/6
@@ -3626,7 +3616,6 @@ HTML-WikiConverter-Wikispaces-0.02      122072
 HTML-WikiConverter-XWiki-0.02           122073
 HTML-WikiConverter-MoinMoin-0.54        88003
 ExtUtils-MakeMaker-7.30                 121918
-Log-Log4perl-Appender-Graylog-1.6       122084
 Date-Extract-PERLANCAR-0.001            122085
 HTML-Template-Nest-0.02                 122095
 Mojolicious-Plugin-Vparam-2.09          https://github.com/dr-co/libmojolicious-plugin-vparam-perl/issues/26
@@ -3730,13 +3719,11 @@ IO-File-Log-1.01                        34778
 RDF-YAML-0.11                           122369
 Sub-Versive-0.01                        122370
 IPC-Transit-1.171860                    https://github.com/dana/perl-IPC-Transit/issues/2
-Dir-ls-0.002                            122379
 Image-Sane-0.13                         122380
 Git-MoreHooks-0.005                     122386
 App-Math-Tutor-0.005                    122392
 PDF-TableX-0.014                        122399
 RayApp-2.004                            113306
-XML-Tidy-1.18                           122406
 W3C-XHTML-HTMLCompatChecker-0.10        122411
 Sslscan-Parser-0.02                     122412
 Syntax-Highlight-WithEmacs-0.2          122430
@@ -3752,7 +3739,6 @@ Net-IPv6Address-0.02                    122459
 WWW-ActiveState-PPM-0.01                122460
 Bot-BasicBot-Pluggable-Module-Gitbot-1.00.01 122461
 CIPP-3.0.8                              122464
-Prty-1.118                              122401
 Tickit-Widget-Term-0.003                122509
 Mail-DMARC-1.20170222                   https://github.com/msimerson/mail-dmarc/issues/111
 CGIS-1.6                                122491
