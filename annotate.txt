@@ -3304,7 +3304,6 @@ Math-Business-Blackscholes-Binaries-1.23 112745,120430
 LWP-UserAgent-DNS-Hosts-0.09            119776
 POE-Component-Client-DNS-Recursive-1.12 116609
 Struct-Path-PerlStyle-0.62              120474
-lsn-data-hub-05.00293                   no bugtracker, unescaped left brace in regex
 App-Virtualenv-2.01                     https://github.com/orkunkaraduman/perl5-virtualenv/issues/29
 Object-WithParams-0.3                   120492
 Unicode-Map8-0.13                       24652
@@ -3927,7 +3926,6 @@ Tree-Template-Declare-0.7               123424
 XML-Compile-SOAP-WSA-0.13               123425
 Business-BR-CNJ-NumberExtractor-0.03x   123426,123427
 CGI-Application-Server-0.063            123428
-Bio-Phylo-0.58                          https://github.com/rvosa/bio-phylo/issues/31,https://github.com/rvosa/bio-phylo/issues/40
 CGI-FormBuilder-3.10                    https://github.com/rjbs/CGI-Application-Server/issues/2
 Math-Random-SkewNormal-0.03             95929
 Plack-Session-Store-RedisFast-0.05      123429
