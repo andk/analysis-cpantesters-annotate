@@ -3908,3 +3908,7 @@ lsn-data-hub-05.00297                   no bugtracker, unescaped left brace in r
 Bio-Phylo-v2.0.0                        https://github.com/rvosa/bio-phylo/issues/42
 Data-RecordStore-2.01                   123458
 XML-Liberal-0.30                        119940
+Class-Attrib-1.07                       123457
+POE-Filter-SSL-0.35                     122573
+Pootle-Client-0.01                      123459
+Test2-Harness-0.001028                  https://github.com/Test-More/Test2-Harness/issues/41
