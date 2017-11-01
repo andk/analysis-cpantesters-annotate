@@ -3909,3 +3909,8 @@ POE-Filter-SSL-0.35                     122573
 Pootle-Client-0.01                      123459
 Test2-Harness-0.001028                  https://github.com/Test-More/Test2-Harness/issues/41
 Business-OnlinePayment-CardConnect-0.004 123475
+Tk-StatusBar-0.04                       123473
+MariaDB-NonBlocking-0.13                123474
+Business-OnlinePayment-CardConnect-0.004 123475
+Pootle-Client-0.02                      123459,123469
+Test-Taint-1.06                         119897
