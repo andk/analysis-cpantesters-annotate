@@ -501,7 +501,6 @@ Catalyst-Plugin-DefaultEnd-0.08         91578
 AnyEvent-Gearman-0.10                   91103
 Neo4p-0.0001                            has changed name to DBD- and REST-Neo4p
 WebService-HtmlKitCom-FavIconFromImage-0.002 known bug in analysis: does not pick up 0.003
-HTML-FormFu-MultiForm-1.00              91788
 Plack-Middleware-Assets-1.0.0           https://github.com/monken/p5-moosex-attribute-deflator/issues/5
 BDB-Wrapper-0.49                        92073
 DynGig-Multiplex-1.03                   68257
@@ -1082,7 +1081,6 @@ Authen-TypeKey-0.05                     95938
 Genome-Model-Tools-Music-0.04           108560
 Ecma48-Util-0.01                        108566
 Net-Amazon-SignatureVersion4-0.006      108567
-Parse-CSV-Colnames-0.05                 108568
 Tie-Array-Cavity-0.02                   108570
 WebService-Steam-0.4                    108571
 Algorithm-Paxos-0.001                   108573
@@ -1658,7 +1656,6 @@ RRD-Simple-1.44                         46193,78785
 Postgredis-0.03                         112433
 WebService-Google-Language-0.14         112435
 Perlmazing-1.2806                       112430
-LaTeXML-0.8.1                           112442
 EntityModel-Log-0.006                   96981
 mocked-0.09                             112463
 CDB_File-0.98                           112472
@@ -1994,7 +1991,6 @@ XML-Ant-BuildFile-0.216                 https://github.com/mjgardner/xml-ant-bui
 Ham-APRS-FAP-1.20                       115051
 Cache-FastMmap-1.44                     115043
 autobox-Transform-1.008                 https://github.com/jplindstrom/p5-autobox-Transform/issues/2
-Mojolicious-Command-generate-lexicon-0.995 115085
 Pod-Elemental-Transformer-ExampleRunner-0.002 115056
 RT-Client-0.01                          115064,115065
 Imager-Heatmap-0.03                     115133
@@ -2104,7 +2100,6 @@ Convert-TBX-Min-0.05                    112327
 MojoX-Transaction-WebSocket76-0.04      https://github.com/dionys/mojox-transaction-websocket76/issues/3
 LMDB_File-0.09                          112225
 WebService-SonarQube-0.07               112436
-Test-Mock-Wrapper-0.17                  112965
 Date-Easy-0.01                          https://github.com/barefootcoder/date-easy/issues/2
 App-ClusterSSH-4.06                     https://github.com/duncs/clusterssh/issues/60
 Dancer2-Plugin-Swagger2-0.003           https://github.com/dboehmer/Dancer2-Plugin-Swagger2/issues/3
@@ -2181,7 +2176,6 @@ Module-Install-TestTarget-0.19          102922
 String-Compare-ConstantTime-0.311       https://github.com/hoytech/String-Compare-ConstantTime/issues/4
 Carp-Always-0.13                        115841
 CBOR-XS-1.5                             115844
-Graph-Simple-0.01                       https://github.com/sukria/Graph-Simple/issues/5
 App-Sqitch-0.9994                       https://github.com/theory/sqitch/issues/308
 Task-BeLike-RJRAY-0.009                 115909
 QBit-Application-0.011                  115878
@@ -2921,7 +2915,6 @@ Options-1.5.2                           66945
 WebService-Livedoor-Auth-0.01           118128
 Acme-DateTime-Duration-Numeric-0.03     118131
 Lingua-DE-Tagger-0.16                   118132
-Net-Intermapper-0.01                    118159
 Device-Chip-PCA9685-v0.9                118160
 HTML-Menu-DateTime-1.00                 118133
 Data-Fax-0.02                           118138
@@ -3043,8 +3036,6 @@ Magpie-1.163200                         110699
 I22r-Translate-Microsoft-0.96           118790
 MooseX-CurriedDelegation-0.003          https://github.com/RsrchBoy/moosex-currieddelegation/issues/1
 Dist-Zilla-PluginBundle-Author-RTHOMPSON-0.161990 118800
-DarkSky-API-0.05                        118801
-Dist-Zilla-PluginBundle-Author-HAYOBAAN-0.011 https://github.com/HayoBaan/Dist-Zilla-PluginBundle-Author-HAYOBAAN/issues/4
 Tangence-0.22                           118806
 Net-GNUDBSearch-1.01                    118820
 Business-OnlinePayment-Skipjack-0.05    118821
@@ -3266,7 +3257,6 @@ Crypt-Password-0.28                     120609
 Mojolicious-Plugin-SimpleSlides-0.05    deprecated
 circle-be-0.170740                      101151
 Footprintless-1.24                      118360
-DateTime-Fiction-JRRTolkien-Shire-0.900 120635
 Tickit-Widget-Scroller-0.22             120636
 Search-ElasticSearch-AmazonES-0.02      prereq failure, no bugtracker
 DBD-SQLite-Amalgamation-3.6.16          117561
@@ -3286,7 +3276,6 @@ Taskwarrior-Kusarigama-0.3.0            120704
 Catmandu-Store-Lucy-0.0102              120725
 Data-Transform-ExplicitMetadata-0.07    120726
 Parse-PlainConfig-3.04                  120732
-Panda-URI-1.1.0                         120734
 SOOT-0.17                               120735
 Pcore-API-AftermarketPl-v0.4.1          https://bitbucket.org/softvisio/pcore-nginx/issues/2/undeclared-dependency-mouse
 Pcore-API-Dynadot-v0.5.1                https://bitbucket.org/softvisio/pcore-nginx/issues/2/undeclared-dependency-mouse
@@ -3337,10 +3326,8 @@ OpenCA-OpenSSL-2.0.29                   121216
 Alien-MuPDF-0.007                       121218
 GnuPG-Interface-0.52                    102651
 Lingua-RU-Money-XS-0.03                 121227
-HTML-Tree-5.04                          121230
 OOTools-2.4                             98859
 App-Stacktrace-0.09                     121262
-Facebook-Graph-1.1202                   https://github.com/rizen/Facebook-Graph/issues/61
 Web-Scraper-0.38                        https://github.com/miyagawa/web-scraper/issues/21
 WWW-Pastebin-PastebinCom-Create-1.003   121265
 PDL-2.017                               https://sourceforge.net/p/pdl/bugs/432/
@@ -3419,7 +3406,6 @@ Rinchi-Fortran-Preprocessor-0.02        121388
 Mojolicious-Plugin-AssetPack-Backcompat-1.23 https://github.com/jhthorsen/mojolicious-plugin-assetpack-backcompat/issues/1
 Ado-0.933                               https://github.com/kberov/Ado/issues/110
 Sub-Nary-0.03                           66913
-App-TeleGramma-0.07                     121390
 App-SimpleHTTPServer-0.002              https://github.com/pink-mist/App-SimpleHTTPServer/issues/1
 Bootylicious-1.13                       121391
 eBay-API-0.25                           121392
