@@ -709,7 +709,6 @@ Acme-Study-Perl-0.0.2                   https://github.com/Test-More/test-more/i
 Dist-Zooky-0.12                         100076
 File-Rsync-0.44                         38938 (this is about 0.43 but maybe also about 0.44?)
 List-Tuples-0.04.4                      95305
-Lexical-Types-0.13                      https://rt.perl.org/rt3/Ticket/Display.html?id=123149
 DBD-CSV-0.45                            100188
 Net-Graylog-Client-0.3                  100203
 Text-Glob-DWIW-0.01                     100207
@@ -2559,7 +2558,6 @@ Devel-EdTrace-0.95                      117451
 Finance-Quote-Sberbank-0.04             117452
 Convert-EastAsianWidth-1.02             https://rt.perl.org/rt3/Ticket/Display.html?id=122121,117453
 DataWarehouse-0.04                      117454
-Javascript-Closure-0.07                 91916,117455
 Module-Build-JSAN-Installable-0.13      117456
 Ser-BinRPC-0.01                         117457
 String-Simrank-0.079                    https://rt.perl.org/rt3/Ticket/Display.html?id=122077,96377
@@ -2971,7 +2969,6 @@ ETL-Pipeline-2.02                       117766
 AnyEvent-ClickHouse-0.021               118359
 WebService-Images-Nofrag-0.06           118362
 RPC-ExtDirect-Client-1.24               https://github.com/nohuhu/RPC-ExtDirect-Client/issues/3
-Devel-Chitin-0.09                       https://rt.perl.org/Public/Bug/Display.html?id=129821
 Eixo-Rest-1.206                         118387
 Test-RestAPI-0.1.4                      https://github.com/JaSei/Test-RestAPI/issues/1
 Text-HikiDoc-1.022                      https://github.com/higemaru/p5-text-hikidoc/issues/1
@@ -3389,7 +3386,6 @@ Term-Menu-0.10                          121326
 WebService-Coinbase-0.0200              121328
 WebService-Snapcard-0.0001              121329
 Config-Any-0.31                         121330,121331
-App-TestOnTap-0.032                     121332
 SWFEditor-0.09                          121333
 HTML-TableParser-0.42                   121341
 WWW-Mechanize-Shell-0.55                121334
