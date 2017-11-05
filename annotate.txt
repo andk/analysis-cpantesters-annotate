@@ -3894,3 +3894,4 @@ App-TestOnTap-0.040                     123491
 IPC-System-Simple-1.25                  https://github.com/pjf/ipc-system-simple/issues/21
 QBit-Application-Model-DB-0.023         123516
 Lexical-Types-0.16                      https://rt.perl.org/Ticket/Display.html?id=132385
+UNIVERSAL-isa-1.20171012                https://rt.perl.org/Ticket/Display.html?id=132395
