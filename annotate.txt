@@ -1700,7 +1700,6 @@ Sig-PackageScoped-0.04                  https://rt.perl.org/rt3/Ticket/Display.h
 Interchange6-Currency-0.101             https://github.com/interchange/Interchange6-Currency/issues/1
 Lingua-Stem-Any-0.05                    https://github.com/patch/lingua-stem-any-pm5/issues/9
 MooX-Role-Chatty-1.01                   112680
-App-MultiModule-1.143160                https://github.com/dana/perl-App-MultiModule/issues/1
 Gcode-Interpreter-1.0.1                 112734
 Bio-MaxQuant-Evidence-Statistics-0.01   112735
 Bro-Log-Parse-0.07                      https://github.com/0xxon/perl-bro-log-parse/issues/1
@@ -2084,7 +2083,6 @@ AnyEvent-Fork-1.2                       106900
 Net-CardDAVTalk-0.02                    108359
 WWW-Mechanize-PhantomJS-0.11            108505
 DateTime-Tiny-1.04                      108636
-Date-Tiny-1.04                          108636
 Time-Tiny-1.05                          108636
 Map-Tube-London-0.74                    109054
 RateLimitations-0.03                    https://github.com/binary-com/perl-RateLimitations/issues/1
@@ -3162,7 +3160,6 @@ Graphics-GVG-SVG-0.4                    119578
 KeyedMutex-0.06                         119867
 Modern-Perl-1.20170115                  114690
 FFI-TinyCC-0.23                         https://github.com/plicease/FFI-TinyCC/issues/6
-WebService-Gitter-0.2.0                 119894
 Statocles-0.081                         https://github.com/preaction/Statocles/issues/526
 Sort-Naturally-XS-0.7.3                 119923
 InfluxDB-LineProtocol-1.009             111959
