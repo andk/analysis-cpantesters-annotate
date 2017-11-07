@@ -2341,7 +2341,6 @@ Bread-Board-Svc-0.01                    116947
 Dist-Zilla-Plugins-CJM-4.27             116902
 Reply-0.41                              https://github.com/doy/reply/issues/52
 Net-Flotum-0.09                         https://github.com/eokoe/Net-Flotum/issues/5
-DBIx-EAV-0.08                           https://github.com/cafe01/dbix-eav/issues/1
 PGObject-Util-DBChange-0.04             117029
 App-FindCallers-0.02                    117052
 Interchange6-Schema-0.130               https://github.com/interchange/interchange6-schema/issues/201
