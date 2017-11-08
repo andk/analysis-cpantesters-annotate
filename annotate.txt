@@ -3874,3 +3874,6 @@ QBit-Application-Model-DB-0.023         123516
 Lexical-Types-0.16                      https://rt.perl.org/Ticket/Display.html?id=132385
 UNIVERSAL-isa-1.20171012                https://rt.perl.org/Ticket/Display.html?id=132395
 Time-Moment-Ext-0.04                    https://github.com/dshadow/time-moment-ext/issues/1
+WebService-Google-Closure-0.11          123521
+WebService-Slack-WebApi-0.11            https://github.com/mihyaeru21/p5-WebService-Slack-WebApi/pull/18
+Coro-ProcessPool-0.26_003               122565
