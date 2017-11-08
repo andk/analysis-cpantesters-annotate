@@ -807,7 +807,6 @@ Template-Plugin-Markdown-0.02           83187
 macro-0.06                              https://rt.perl.org/rt3/Ticket/Display.html?id=123947
 Text-RecordParser-v1.6.3                54816
 App-Pipeline-Simple-0.9.1               102756
-LaTeX-Encode-0.091.6                    88094
 GO-TermFinder-0.86                      102758
 Lingua-JA-Numbers-0.05                  101073
 DB_File-Lock-0.05                       https://rt.perl.org/rt3/Ticket/Display.html?id=122136,98224
@@ -1903,7 +1902,6 @@ B-Foreach-Iterator-0.07                 112295
 WWW-Shorten-iiipe-1.00                  114133
 Object-Previous-1.1012                  112245
 Orochi-0.00010                          114144
-Perinci-Sub-Normalize-0.17              114308
 once-1.101420                           114313
 Spreadsheet-Reader-ExcelXML-v0.2.0      https://github.com/jandrew/p5-spreadsheet-reader-excelxml/issues/1
 Crypt-JWT-0.015                         114343
@@ -1967,7 +1965,6 @@ Music-Abc-DT-0.01                       114655
 OAuth-Lite-1.34                         114657
 WWW-Shorten-SCK-0.5                     https://github.com/celogeek/WWW-Shorten-SCK/issues/3
 WebService-Validator-Feed-W3C-0.8       91598
-Test-DBIx-Class-Stats-0.01              114662
 Shell-EnvImporter-1.07                  105478
 Mail-Sender-0.900-TRIAL                 114692
 WebService-DNSMadeEasy-0.02             https://github.com/kablamo/WebService-DNSMadeEasy/issues/1
@@ -2004,7 +2001,6 @@ Plucene-1.25                            108644,108644
 WWW-Search-Yandex-0.07                  115224
 WWW-Search-News-1.079                   115226
 WWW-Search-NCBI-PubMed-0.01             115227
-WWW-Ebay-1.003                          115228
 Date-Pcalc-6.1                          76442,115100
 Log-TraceMessages-1.4                   115089
 CGI-ExceptionManager-0.06               115245
@@ -2069,7 +2065,6 @@ Paranoid-0.36                           88773
 Text-MediawikiFormat-v1.0               90115
 Template-Plugin-UTF8toANSI-0.01         96416
 Device-Gsm-1.60                         https://rt.perl.org/rt3/Ticket/Display.html?id=122121
-Distribution-Cooker-1.01                98445
 Audio-FindChunks-2.00                   95272
 Hook-LexWrap-0.24                       https://rt.perl.org/Ticket/Display.html?id=122757
 Expect-1.32                             https://github.com/Test-More/test-more/issues/499
@@ -2098,7 +2093,6 @@ MojoX-Transaction-WebSocket76-0.04      https://github.com/dionys/mojox-transact
 LMDB_File-0.09                          112225
 WebService-SonarQube-0.07               112436
 Date-Easy-0.01                          https://github.com/barefootcoder/date-easy/issues/2
-App-ClusterSSH-4.06                     https://github.com/duncs/clusterssh/issues/60
 Dancer2-Plugin-Swagger2-0.003           https://github.com/dboehmer/Dancer2-Plugin-Swagger2/issues/3
 Lemonldap-NG-Portal-1.9.1               113684
 HTML-CalendarMonth-2.03                 113513
@@ -2241,7 +2235,6 @@ WWW-DataWiki-0.001                      102432
 RDF-RDB2RDF-0.008                       116439
 Mail-SpamAssassin-Plugin-OpenPGP-1.0.4  74568
 RDF-RDFa-Template-0.05                  116440
-App-PAUSE-Comaint-0.03                  https://github.com/miyagawa/App-PAUSE-Comaint/issues/6
 Mail-SPF-v2.9.0                         93241
 XML-WBXML-0.09                          https://github.com/ivanych/XML-WBXML/issues/1
 App-Mimosa-0.02                         116447
@@ -2724,7 +2717,6 @@ Log-Dispatch-Scribe-0.06                117682
 Module-Pluggable-5.2                    111539
 Postgres-Handler-HTML-1                 117683
 Shell-Base-0.05                         19649,117685
-SMS-Send-AT-SmsAt-v0.0.4                117686
 System2-0.84                            117687
 autobless-1.0.1                         117688
 Games-Poker-OPP-1.0                     117689
@@ -3015,7 +3007,6 @@ Thread-Queue-Any-1.14                   118686
 XML-miniXQL-0.04                        118699
 XML-Node-0.11                           27573
 MooX-BuildArgs-0.03                     https://github.com/bluefeet/MooX-BuildArgs/issues/5
-OpusVL-SimpleCrypto-0.006               https://github.com/OpusVL/OpusVL-SimpleCrypto/issues/1
 Socket-Multicast6-0.04                  118736
 Catalyst-Model-HTML-FormFu-1.00001      module is deprecated
 Net-Kotonoha-0.08                       118738
@@ -3135,7 +3126,6 @@ Template-Declare-0.47                   119731
 Mojolicious-Plugin-HTMLLint-0.04        119732
 String-Diff-0.07                        https://github.com/yappo/p5-String-Diff/issues/4,https://github.com/yappo/p5-String-Diff/issues/7
 App-CharmKit-2.07                       https://github.com/charmkit/App-CharmKit/issues/6,https://github.com/charmkit/App-CharmKit/issues/7
-Date-Holidays-AU-0.14                   119749
 Net-AmazonS3-Simple-0.1.2               https://github.com/JaSei/Net-AmazonS3-Simple/issues/3
 Net-Async-Tangence-0.13                 119750
 Stepford-Grapher-1.01                   https://github.com/maxmind/Stepford-Grapher/issues/5
