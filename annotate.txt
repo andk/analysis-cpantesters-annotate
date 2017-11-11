@@ -3769,7 +3769,6 @@ String-Tagged-Terminal-0.01             123182
 Mylisp-2.0                              123183,123184
 Linux-Systemd-1.172760                  https://github.com/ioanrogers/Linux-Systemd/issues/3
 Yandex-Disk-0.01                        123199
-Mashtree-0.24                           121971
 Term-Table-0.011                        https://github.com/exodist/Term-Table/issues/8
 Google-Ads-AdWords-Client-4.18.0        118509
 Marky-0.035                             123251
@@ -3848,7 +3847,6 @@ Test2-Harness-0.001028                  https://github.com/Test-More/Test2-Harne
 Tk-StatusBar-0.04                       123473
 MariaDB-NonBlocking-0.13                123474
 Business-OnlinePayment-CardConnect-0.004 123475
-Pootle-Client-0.02                      123459,123469
 Test-Taint-1.06                         119897
 Acme-Ford-Prefect2-1.2900               https://github.com/Perl5-Alien/Acme-Ford-Prefect2/issues/1
 Devel-Chitin-0.11                       https://rt.perl.org/Ticket/Display.html?id=132385
