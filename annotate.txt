@@ -3851,3 +3851,11 @@ CGI-Compile-0.22                        https://github.com/miyagawa/CGI-Compile/
 Net-FTPServer-1.125                     121209,121208
 Religion-Bible-Regex-Builder-0.99       109205,123579
 CGI-Application-Plugin-Config-Std-1.003 95762,123580
+Alien-Build-Git-0.05                    123594
+Net-Amazon-AlexaValidator-0.01          123595
+Argon-0.16                              123596,123597
+Crashplan-Client-0.003_0                123598
+Net-MovableType-1.75_01                 99420,99421
+Remember-Anything-AsPath-0.05           123599
+Resources-1.04                          123600
+WebService-TestSystem-0.06              123602
