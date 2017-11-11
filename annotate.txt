@@ -3866,3 +3866,9 @@ WebService-Google-Closure-0.11          123521
 WebService-Slack-WebApi-0.11            https://github.com/mihyaeru21/p5-WebService-Slack-WebApi/pull/18
 Coro-ProcessPool-0.26_003               122565
 Pootle-Client-0.08                      https://github.com/KohaSuomi/Pootle-Client/issues/6
+Mashtree-0.28                           121971
+CGI-Application-Plugin-Config-Std-1.003 95762
+CGI-Compile-0.22                        https://github.com/miyagawa/CGI-Compile/issues/21
+Net-FTPServer-1.125                     121208
+Religion-Bible-Regex-Builder-0.99       123579
+CGI-Application-Plugin-Config-Std-1.003 123580
