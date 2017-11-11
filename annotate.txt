@@ -2101,7 +2101,6 @@ File-Util-4.132140                      106771
 Git-PurePerl-0.51                       106772
 POE-Component-Bundle-WebDevelopment-1.001004 https://github.com/zoffixznet/POE-Component-Bundle-WebDevelopment/issues/3
 Outthentic-DSL-0.1.2                    114098
-Remember-Anything-AsPath-0.02           114110
 Net-DAVTalk-0.08                        114118
 Mirror-YAML-0.03                        114153
 Math-Cephes-0.5304                      114158
