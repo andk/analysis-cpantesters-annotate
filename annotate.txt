@@ -705,7 +705,6 @@ Test-Leaner-0.05                        https://github.com/Test-More/test-more/i
 Parse-RPN-2.85                          88671
 Acme-PrettyCure-0.1                     https://github.com/kan/p5-acme-prettycure/issues/5
 Acme-Study-Perl-0.0.2                   https://github.com/Test-More/test-more/issues/487
-Dist-Zooky-0.12                         100076
 File-Rsync-0.44                         38938 (this is about 0.43 but maybe also about 0.44?)
 List-Tuples-0.04.4                      95305
 DBD-CSV-0.45                            100188
@@ -1224,7 +1223,6 @@ Acme-DonMartin-0.09                     108983
 Eval-Context-0.09.11                    86017
 UNIVERSAL-to_yaml-0.10                  108985
 Text-Index-0.01                         108496
-Graph-Maker-0.02                        108992
 Logic-Tools-0.5.7                       105479
 Net-PDSH-0.01                           108999
 MooX-Cmd-0.015                          109016
@@ -1630,7 +1628,6 @@ Test-Stream-1.302027                    Deprecated module
 Data-Session-1.16                       111844
 PerlGuard-Agent-0.15                    110579
 Math-Units-PhysicalValue-1.0008         111910
-RDF-Generator-Void-0.15_1               https://github.com/kjetilk/RDF-Generator-Void/issues/8
 HTML-Microdata-0.05                     111960
 Deeme-Backend-SQLite-0.03               https://github.com/mudler/p5-Deeme-Backend-SQLite/issues/2
 Kwiki-ForeignLinkGlyphs-0.02            112015
@@ -1796,7 +1793,6 @@ Template-Alloy-XS-1.004                 95102
 Tie-DuckDuckGo-0.02                     https://github.com/aggrolite/Tie-DuckDuckGo/issues/1
 WebService-NFSN-1.03                    113096
 UAV-Pilot-ArdupilotProtocol-0.001       113097
-Catalyst-View-MicroTemplate-DataSection-0.03 https://github.com/masakyst/Catalyst-View-MicroTemplate-DataSection/issues/1
 Test-Approx-0.03                        113129
 DBIx-Array-0.49                         113130
 Net-Amazon-DynamoDB-HighlyAvailable-0.03 https://github.com/kablamo/Net-Amazon-DynamoDB-HighlyAvailable/issues/1
@@ -2014,7 +2010,6 @@ Devel-BeginLift-0.001003                64033,114663,115272
 DBIx-Class-IndexSearch-Dezi-0.05        115189
 App-AutoCRUD-0.13                       115319
 Device-I2C-0.03                         no tracker, contacted by email
-PGXN-API-v0.16.4                        https://github.com/pgxn/pgxn-api/issues/25
 Data-MessagePack-Stream-0.07            115389
 Cikl-0.5.1                              115414
 DateTimeX-AATW-0.04                     115416
@@ -2096,7 +2091,6 @@ Dancer2-Plugin-Swagger2-0.003           https://github.com/dboehmer/Dancer2-Plug
 Lemonldap-NG-Portal-1.9.1               113684
 HTML-CalendarMonth-2.03                 113513
 JSV-0.07                                https://github.com/zigorou/perl-JSV/issues/45
-FamilyTreeInfo-2.3.37                   https://github.com/mishin/Ftree-cpan/issues/25
 Text-Distill-0.02                       113928
 Catmandu-LIDO-0.01                      https://github.com/LibreCat/Catmandu-LIDO/issues/1
 Test-DBIx-Class-Schema-1.0.9            https://github.com/chiselwright/test-dbix-class-schema/issues/12
@@ -2122,7 +2116,6 @@ IPC-Mmap-0.21                           https://rt.perl.org/rt3/Ticket/Display.h
 Char-GBK-1.05                           114484
 CNC-Cog-0.061                           111909,111909
 Image-Resize-0.5                        60038,60038
-Apache-Solr-1.03                        114542
 Excel-Template-XLSX-v1.0.5              114543
 MsgPack-RPC-0.1.1                       https://github.com/yanick/MsgPack-RPC/issues/5
 App-Rssfilter-0.07                      https://github.com/dgholz/App-Rssfilter/issues/8
@@ -2185,7 +2178,6 @@ MooX-Options-4.023                      https://github.com/celogeek/MooX-Options
 Attean-0.017                            https://github.com/kasei/perl-iri/issues/9
 WWW-Wappalyzer-0.18                     115663
 Spreadsheet-ParseXLSX-0.25              https://github.com/doy/spreadsheet-parsexlsx/issues/62
-Lemplate-0.07                           Broken bugtracker link reported per mail to `agent`
 JMAP-Validation-0.005                   115130
 Image-Imager-Thumbnail-0.01             116318
 WWW-Lipsum-1.001012                     https://github.com/zoffixznet/WWW-Lipsum/issues/7
@@ -2206,7 +2198,6 @@ Mojolicious-Plugin-MethodOverride-0.053 116375
 Dancer2-Plugin-HTTP-Auth-Extensible-0.121 116377
 DBIx-Mojo-Template-0.04                 116379
 Date-Japanese-Era-0.06                  116381
-HTML-FillInForm-Lite-1.14               https://github.com/gfx/p5-HTML-FillInForm-Lite/issues/5,https://github.com/gfx/p5-HTML-FillInForm-Lite/issues/6
 Lingua-Slavic-Numbers-0.03              https://rt.perl.org/rt3/Ticket/Display.html?id=128139,116382
 URI-Find-Schemeless-Stricter-1.03       116383
 XML-DOM-XPath-0.14                      https://rt.perl.org/Ticket/Display.html?id=128622,115098
@@ -2330,7 +2321,6 @@ Bread-Board-Svc-0.01                    116947
 Dist-Zilla-Plugins-CJM-4.27             116902
 Reply-0.41                              https://github.com/doy/reply/issues/52
 Net-Flotum-0.09                         https://github.com/eokoe/Net-Flotum/issues/5
-PGObject-Util-DBChange-0.04             117029
 App-FindCallers-0.02                    117052
 Interchange6-Schema-0.130               https://github.com/interchange/interchange6-schema/issues/201
 JQuery-DataTables-Heavy-0.04            https://github.com/ywatase/JQuery-DataTables-Heavy/issues/4
@@ -2371,7 +2361,6 @@ WWW-Scraper-ISBN-ORA_Driver-0.22        117200
 Net--RabbitMQ-0.2.8                     102508
 Tie-Hash-Check-0.04                     117194
 invoker-0.34                            https://rt.perl.org/Public/Bug/Display.html?id=128179,117215
-TeX-Hyphen-1.16                         https://rt.perl.org/rt3/Ticket/Display.html?id=128139,117217
 WWW-Google-PageRank-0.17                https://rt.perl.org/rt3/Ticket/Display.html?id=122121,117218
 JSON-XS-Sugar-1.01                      https://github.com/maxmind/JSON-XS-Sugar-perl/issues/4
 Tree-Binary-XS-0.03                     117220
@@ -2696,7 +2685,6 @@ Class-DBI-View-0.07                     117657
 DBIx-Class-DigestColumns-Lite-0.03      117658
 DBIx-Class-StorageReadOnly-0.05         117659
 Exception-ThrowUnless-1.11              117660,117661
-HTTP-Request-FromTemplate-0.03          117662
 Imager-Filter-Bakumatsu-0.05            https://github.com/tomill/Imager-Filter-Bakumatsu/issues/4
 FLAT-0.9.1                              117663
 GD-Cairo-0.01                           117665
@@ -2916,7 +2904,6 @@ WoW-Wiki-0.01                           118150
 Mail-FilterXML-0.3                      118151
 SVN-Dumpfile-0.13.107                   118152
 Tk-ACH-0.07                             117713
-Test-RandomCheck-0.02                   https://github.com/hiratara/p5-Test-RandomCheck/issues/2
 Monitoring-GLPlugin-2.3.2.2             116130
 Text-Macros-0.04                        118193
 Util-SelfDestruct-1.21                  118194
@@ -3034,7 +3021,6 @@ Date-Manip-6.56                         https://rt.perl.org/Ticket/Display.html?
 Test-HTTPStatus-2.001                   https://github.com/briandfoy/test-httpstatus/issues/2
 Data-Checker-1.07                       118881
 IO-Prompt-0.997003                      https://rt.perl.org/Ticket/Display.html?id=130126,118893
-Test-Dist-Zilla-v0.4.2_02               118894
 XML-Twig-3.50                           118909
 Config-Model-Xorg-1.111                 118911
 Template-Plugin-PerlTidy-0.03           118928
@@ -3250,7 +3236,6 @@ RPi-PIGPIO-0.010                        120656
 Net-Stripe-Simple-0.004                 120668
 AnyEvent-RipeRedis-Cluster-0.25_01      https://github.com/iph0/AnyEvent-RipeRedis-Cluster/issues/1
 Metabase-Backend-SQL-1.001              https://github.com/dagolden/metabase-backend-sql/issues/1
-Pod-Simpler-Aoh-0.04                    120699
 IO-Async-SSL-0.19                       120701
 Date-Utility-1.07                       https://github.com/binary-com/perl-Date-Utility/issues/18
 Pcore-API-Namecheap-v0.5.2              https://bitbucket.org/softvisio/pcore-api-namecheap/issues/1/undeclared-dependency-mouse
@@ -3276,7 +3261,6 @@ List-Flatten-XS-0.02                    120902
 Math-AnyNum-0.02                        120910
 Sys-Prctl-1.02                          120911
 X11-Xlib-0.12                           121010
-Pcore-ExtJS-v0.7.0                      https://bitbucket.org/softvisio/pcore-nginx/issues/2/undeclared-dependency-mouse
 App-MechaCPAN-0.17                      121054
 Contextual-Return-0.004012              121092
 App-UnifdefPlus-0.005.005               121135
