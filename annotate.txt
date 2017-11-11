@@ -308,7 +308,6 @@ Crypt-X509-0.51                         77679
 Perl-Node-Interface-0.35                77731
 POE-Component-IRC-Plugin-WubWubWub-0.1  77981
 Test-Class-Filter-Tags-0.11             78083
-HTML-Perlinfo-1.62                      78637
 Tree-XPathEngine-0.05                   78638
 String-Comments-Extract-0.023           78756
 Data-StreamDeserializer-0.06            78969
@@ -718,7 +717,6 @@ Devel-StackTrace-WithLexicals-0.10      100278
 File-Trash-FreeDesktop-0.14             100281
 Perl-Metrics-Lite-0.08                  100378
 MooseX-Method-0.44                      https://rt.perl.org/rt3/Ticket/Display.html?id=123213
-String-Tagged-IRC-0.02                  100393
 Memory-Leak-Hunter-0.02                 100398
 Test-FileReferenced-0.02                https://github.com/Test-More/test-more/issues/500
 Devel-SmallProf-2.02                    98192
@@ -791,7 +789,6 @@ Slurp-0.4                               https://rt.perl.org/rt3/Ticket/Display.h
 Dist-Zilla-PluginBundle-RBO-0.002       101998
 Catalyst-View-Tenjin-0.050001           102000
 Elasticsearch-1.05                      deprecated namespace
-Ouch-0.0409                             https://github.com/rizen/Ouch/issues/10
 DBIx-Perlish-0.64                       99836,https://rt.perl.org/rt3/Ticket/Display.html?id=122909
 Regexp-ERE-0.04                         101839
 DBIx-Class-TimeStamp-0.14               https://rt.perl.org/rt3/Ticket/Display.html?id=123879
@@ -1977,7 +1974,6 @@ Sys-CPU-0.61                            54267
 WordNet-Insert-0.02                     114921
 Wiktionary-Parser-0.11                  114923
 CHI-0.60                                109993,115022
-XML-Ant-BuildFile-0.216                 https://github.com/mjgardner/xml-ant-buildfile/issues/3
 Ham-APRS-FAP-1.20                       115051
 Cache-FastMmap-1.44                     115043
 autobox-Transform-1.008                 https://github.com/jplindstrom/p5-autobox-Transform/issues/2
@@ -2054,7 +2050,6 @@ WebService-DPD-API-v0.0004              115664
 WebService-GeoPost-Shipping-API-v0.0006 115665
 WebService-BambooHR-0.07                112434
 MooseX-AttributeHelpers-0.23            81564
-Class-Injection-1.09                    81624
 Paranoid-0.36                           88773
 Text-MediawikiFormat-v1.0               90115
 Template-Plugin-UTF8toANSI-0.01         96416
@@ -2065,7 +2060,6 @@ Expect-1.32                             https://github.com/Test-More/test-more/i
 Code-TidyAll-Plugin-SVG-0.002           100981
 Moose-Autobox-0.15                      https://rt.perl.org/rt3/Ticket/Display.html?id=123619,102917
 Mojolicious-Plugin-MailException-0.19   https://github.com/dr-co/libmojolicious-plugin-mail_exception/pull/10
-Net-Hadoop-YARN-0.002                   105149
 SOAP-Lite-1.19                          106725
 AnyEvent-Fork-1.2                       106900
 Net-CardDAVTalk-0.02                    108359
@@ -2542,7 +2536,6 @@ XUL-Gui-0.63                            https://rt.perl.org/rt3/Ticket/Display.h
 Clone-Closure-0.06                      69111,117470
 Devel-Hints-0.21                        76398
 Calendar-Model-0.04                     95963
-SVG-Estimate-1.0103                     https://github.com/rizen/SVG-Estimate/issues/11
 Alien-QtSmoke-4.3.3                     117483
 Devel-StackBlech-0.06                   112296
 File-Locate-0.62                        76413
@@ -2856,7 +2849,6 @@ B-ConstOptree-0.02                      118020
 Dist-Zilla-Role-ModuleIncluder-0.007    118026
 Mojolicious-Plugin-UniqueTagHelpers-0.04 https://github.com/rshadow/mojolicious-plugin-unique_tag_helpers/issues/1
 Devel-RingBuffer-0.31                   118038
-DateTimeX-Web-0.07                      118058
 RestrictionDigest-0.02                  118061
 Log-Any-Adapter-Carp-1.02               118062
 GenOOx-Data-File-SAMbwa-0.0.3           https://github.com/genoo/GenOOx-Sam-BWA/issues/1
@@ -2902,7 +2894,6 @@ Workflow-Wfmc-0.01e                     118148
 WoW-Wiki-0.01                           118150
 Mail-FilterXML-0.3                      118151
 SVN-Dumpfile-0.13.107                   118152
-Tk-ACH-0.07                             117713
 Monitoring-GLPlugin-2.3.2.2             116130
 Text-Macros-0.04                        118193
 Util-SelfDestruct-1.21                  118194
