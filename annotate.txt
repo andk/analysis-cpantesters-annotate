@@ -1256,7 +1256,6 @@ WWW-Ruten-0.03                          https://github.com/gugod/WWW-Ruten/issue
 Rstats-0.0148                           https://github.com/yuki-kimoto/Rstats/issues/4
 Net-RADSWrappers-0.01                   109200
 Religion-Bible-Regex-Config-0.61        109202
-Religion-Bible-Regex-Builder-0.99       109205
 Net-Lighthouse-0.06                     95284
 ShipIt-Step-DistTestExtra-0.01          109207
 Device-OUI-1.04                         109209
@@ -3302,7 +3301,6 @@ Message-Passing-Output-Search-Elasticsearch-0.003 121186
 GTM-0.6                                 121189
 Catmandu-EuropePMC-0.17                 https://github.com/LibreCat/Catmandu-EuropePMC/issues/4
 Tk-DBIx-0.01                            5561
-Net-FTPServer-1.125                     121209
 Crypt-OpenSSL-SMIME-0.05                121212
 Crypt-Keyczar-0.08                      121213
 Crypt-OpenSSL-VerifyX509-0.10           120607,120608,121214
@@ -3867,8 +3865,7 @@ WebService-Slack-WebApi-0.11            https://github.com/mihyaeru21/p5-WebServ
 Coro-ProcessPool-0.26_003               122565
 Pootle-Client-0.08                      https://github.com/KohaSuomi/Pootle-Client/issues/6
 Mashtree-0.28                           121971
-CGI-Application-Plugin-Config-Std-1.003 95762
 CGI-Compile-0.22                        https://github.com/miyagawa/CGI-Compile/issues/21
-Net-FTPServer-1.125                     121208
-Religion-Bible-Regex-Builder-0.99       123579
-CGI-Application-Plugin-Config-Std-1.003 123580
+Net-FTPServer-1.125                     121209,121208
+Religion-Bible-Regex-Builder-0.99       109205,123579
+CGI-Application-Plugin-Config-Std-1.003 95762,123580
