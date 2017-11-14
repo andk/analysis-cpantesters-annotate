@@ -3386,7 +3386,6 @@ Mojolicious-Plugin-Notifications-0.9    121411
 MetaCPAN-Client-2.011000                https://github.com/metacpan/metacpan-client/issues/83
 Mojolicious-Plugin-WebAPI-0.03          https://github.com/reneeb/Mojolicious-Plugin-WebAPI/issues/1
 REST-Neo4p-0.3012                       121413
-Geo-Coder-Many-0.47                     121414
 Erlang-Port-0.04                        121415
 Marketplace-Ebay-0.191                  121429
 App-LLEvalBot-0.01                      https://github.com/Songmu/p5-App-LLEvalBot/issues/1
@@ -3849,6 +3848,6 @@ Net-MovableType-1.75_01                 99420,99421
 Remember-Anything-AsPath-0.05           123599
 Resources-1.04                          123600
 WebService-TestSystem-0.06              123602
-Geo-Coder-Many-0.47                     module is deprecated
+Geo-Coder-Many-0.47                     121414,module is deprecated
 HTTP-Cache-Transparent-1.4              123611
 Bio-Gonzales-0.071                      123614
