@@ -549,7 +549,6 @@ app-tables-0.4                          94788
 Plack-Server-AnyEvent-0.04              deprecated according to README
 Acme-Currency-3.01                      66850
 HTML-StripTags-1.01                     https://github.com/hinnerk-a/perl-strip_tags/issues/2
-Geo-SypexGeo-0.2                        95937
 MooseX-LazyCoercion-0.002               95664
 Image-Magick-Thumbnail-Simple-0.12      95982
 C-TinyCompiler-0.04                     https://github.com/run4flat/perl-TCC/issues/5
@@ -661,7 +660,6 @@ Carp-Assert-0.21                        https://github.com/Test-More/test-more/i
 Data-Util-0.63                          99102,99097,https://rt.perl.org/rt3/Ticket/Display.html?id=122834
 Scalar-Util-Numeric-0.22                https://rt.perl.org/rt3/Ticket/Display.html?id=122843
 Test-Regression-0.07                    https://rt.perl.org/rt3/Ticket/Display.html?id=122845
-Image-PNG-FileConvert-0.08              https://rt.perl.org/rt3/Ticket/Display.html?id=122855
 App-MusicTools-1.17                     99168
 Applify-0.08                            99186,https://github.com/jhthorsen/applify/issues/1
 HTML-Strip-1.07                         99151
@@ -706,14 +704,12 @@ Acme-Study-Perl-0.0.2                   https://github.com/Test-More/test-more/i
 File-Rsync-0.44                         38938 (this is about 0.43 but maybe also about 0.44?)
 List-Tuples-0.04.4                      95305
 DBD-CSV-0.45                            100188
-Net-Graylog-Client-0.3                  100203
 Text-Glob-DWIW-0.01                     100207
 Test-Given-0.3.1                        95383
 subs-auto-0.08                          100221
 NetHack-Item-0.21                       https://github.com/Test-More/test-more/issues/493
 LendingClub-API-0.3.0                   100232
 Devel-StackTrace-WithLexicals-0.10      100278
-File-Trash-FreeDesktop-0.14             100281
 Perl-Metrics-Lite-0.08                  100378
 MooseX-Method-0.44                      https://rt.perl.org/rt3/Ticket/Display.html?id=123213
 Memory-Leak-Hunter-0.02                 100398
@@ -1515,7 +1511,6 @@ Text-Widont-0.01                        110417
 XML-APML-0.04                           110418
 Catalyst-Plugin-Cache-HTTP-Preempt-v0.1.3 110438
 Tapper-TAP-Harness-5.0.0                110450
-Web-ComposableRequest-0.5.1             110453
 File-fgets-v0.0.4                       110460
 BSD-getloadavg-0.03                     110463
 Perl-Modern-Perl-1.006                  110394
@@ -1608,7 +1603,6 @@ Mail-Audit-DKIM-0.003                   https://github.com/rjbs/Mail-Audit-DKIM/
 Pod-Weaver-Section-Badges-0.0203        https://github.com/Csson/p5-Pod-Weaver-Section-Badges/issues/2
 WWW-Weather-Yahoo-0.07                  probably temporary network/webservice problem,111351
 Acme-Incorporated-1.00                  106120
-Scalar-Number-0.006                     85425
 Kwiki-Users-Remote-0.04                 111554
 lightwaverf-0.01                        111610
 go-perl-0.15                            111613
@@ -1917,7 +1911,6 @@ CouchDB-View-0.003                      67033
 Test-Pretty-0.32                        https://github.com/tokuhirom/Test-Pretty/issues/36
 Data-Alias-1.20                         112289,114544
 DBIx-Class-FromSledge-0.03              114546
-Params-Classify-0.013                   https://rt.perl.org/rt3/Ticket/Display.html?id=128179,114490
 Gwybodaeth-0.02                         114547
 Parse-Yapp-1.05                         https://rt.perl.org/rt3/Ticket/Display.html?id=128139,106685
 Wx-0.9928                               114552
@@ -2370,7 +2363,6 @@ Finance-YahooJPN-Quote-1.08             117251
 Acme-Hidek-44.0                         https://rt.perl.org/rt3/Ticket/Display.html?id=128139,117253
 Git-Gitalist-0.000003                   103277
 Cond-Expr-0.04                          117254
-List-Gather-0.12                        https://rt.perl.org/rt3/Ticket/Display.html?id=128179,116694
 warnings-pedantic-0.02                  117256
 Devel-ModInfo-2.04                      117266
 Devel-PatchPerl-Plugin-Cygwin-v0.0.1    117267
@@ -2519,7 +2511,6 @@ Module-Build-JSAN-Installable-0.13      117456
 Ser-BinRPC-0.01                         117457
 String-Simrank-0.079                    https://rt.perl.org/rt3/Ticket/Display.html?id=122077,96377
 TRD-Velocity-0.0.8                      https://rt.perl.org/rt3/Ticket/Display.html?id=128139,117459
-Weasel-0.09                             https://github.com/perl-weasel/weasel/issues/3
 App-get_flash_videos-1.24               117465
 Astro-FITS-CFITSIO-Utils-0.13           117466
 HTML-Tested-0.58                        117467
@@ -2832,7 +2823,6 @@ Set-CrossProduct-2.000_01               117962
 Crypt-Rainbow-1.0.0                     117969
 Crypt-SEAL2-1.0.4                       63050
 Dancer-Plugin-Auth-Github-0.04          117970
-Email-IsEmail-3.04.2                    117998
 AnyEvent-Atom-Stream-0.02               118006
 Cache-RedisDB-0.10                      https://github.com/binary-com/perl-Cache-RedisDB/issues/9
 UNIVERSAL-ref-0.14                      https://rt.perl.org/rt3/Ticket/Display.html?id=128179,118008
@@ -2986,7 +2976,6 @@ DracPerl-Client-0.10                    https://github.com/apcros/Drac-Perl/issu
 WebService-KakakuCom-0.05               118744
 GD-Dashboard-0.04                       720
 Tk-FcyEntry-1.5                         118754
-DateTime-Calendar-FrenchRevolutionary-0.13 118755
 makepp-2.0.98.5                         118765
 Magpie-1.163200                         110699
 I22r-Translate-Microsoft-0.96           118790
@@ -3187,7 +3176,6 @@ Math-Currency-0.50                      120394
 Email-Simple-Markdown-0.7.0             https://github.com/yanick/Email-Simple-Markdown/issues/7
 Date-Holidays-UK-EnglandAndWales-0.04   120427
 Message-Passing-Output-Log-Any-Adapter-0.003 120419
-Mojolicious-Plugin-AssetPack-Che-1.40   120428
 Math-Business-Blackscholes-Binaries-1.23 112745,120430
 LWP-UserAgent-DNS-Hosts-0.09            119776
 POE-Component-Client-DNS-Recursive-1.12 116609
@@ -3214,7 +3202,6 @@ Search-ElasticSearch-AmazonES-0.02      prereq failure, no bugtracker
 DBD-SQLite-Amalgamation-3.6.16          117561
 AnyEvent-Yubico-0.9.3                   95962
 CGI-Application-Plugin-Authentication-Driver-DBIC-0.02 120647
-RPi-PIGPIO-0.010                        120656
 Net-Stripe-Simple-0.004                 120668
 AnyEvent-RipeRedis-Cluster-0.25_01      https://github.com/iph0/AnyEvent-RipeRedis-Cluster/issues/1
 Metabase-Backend-SQL-1.001              https://github.com/dagolden/metabase-backend-sql/issues/1
@@ -3356,7 +3343,6 @@ Mojolicious-Plugin-AssetPack-Backcompat-1.23 https://github.com/jhthorsen/mojoli
 Ado-0.933                               https://github.com/kberov/Ado/issues/110
 Sub-Nary-0.03                           66913
 App-SimpleHTTPServer-0.002              https://github.com/pink-mist/App-SimpleHTTPServer/issues/1
-Bootylicious-1.13                       121391
 eBay-API-0.25                           121392
 Farabi-0.47                             https://github.com/azawawi/farabi/issues/25
 LaTeXML-Plugin-LtxMojo-0.4              121393
@@ -3594,7 +3580,6 @@ Sslscan-Parser-0.02                     122412
 Syntax-Highlight-WithEmacs-0.2          122430
 Device-USB-TEMPer1F-0.04                120478
 Device-USB-PX1674-1.04                  122442
-Dancer-Template-Mustache-1.0.0          https://github.com/yanick/Dancer-Template-Mustache/issues/2
 Time-Strptime-1.01                      https://github.com/karupanerura/Time-Strptime/issues/9
 AnyEvent-Proc-0.105                     https://github.com/zurborg/libanyevent-proc-perl/issues/2
 Plucene-Plugin-WeightedQueryParser-1.0  122456,122457
