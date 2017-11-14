@@ -3842,3 +3842,5 @@ WebService-TestSystem-0.06              123602
 Geo-Coder-Many-0.47                     121414,module is deprecated
 HTTP-Cache-Transparent-1.4              123611
 Bio-Gonzales-0.071                      123614
+Syntax-Highlight-Engine-Simple-Perl-0.05 110323,https://github.com/lab-measurement/Syntax-Highlight-Engine-Simple-Perl/issues/2
+DBD-Firebird-1.25                       123623
