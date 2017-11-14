@@ -3711,7 +3711,6 @@ Data-Sah-0.88                           123089
 App-calendr-0.21                        123094
 Data-Sah-Coerce-0.023                   123095
 Syntax-Highlight-Engine-Simple-HTML-0.04 123096
-Syntax-Highlight-Engine-Simple-Perl-0.04 110323,123097
 CGI-Buffer-0.79                         123101
 Event-1.26                              123115
 YAML-Perl-0.12                          123103
