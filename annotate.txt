@@ -3849,3 +3849,6 @@ Net-MovableType-1.75_01                 99420,99421
 Remember-Anything-AsPath-0.05           123599
 Resources-1.04                          123600
 WebService-TestSystem-0.06              123602
+Geo-Coder-Many-0.47                     module is deprecated
+HTTP-Cache-Transparent-1.4              123611
+Bio-Gonzales-0.071                      123614
