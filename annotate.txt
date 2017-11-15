@@ -653,7 +653,6 @@ WebService-Heartrails-Express-0.01      probably temporary network/webservice pr
 App-cpantested-0.003                    https://github.com/creaktive/App-cpantested/issues/2
 Dist-Zilla-Plugin-OnlyCorePrereqs-0.017 98841
 Text-StemTagPOS-0.61                    98869
-ConfigReader-Simple-1.29                98445,https://rt.perl.org/Ticket/Display.html?id=122670
 Text-Truncate-1.06                      98445
 Test-Class-0.46                         https://github.com/Test-More/test-more/issues/445
 Carp-Assert-0.21                        https://github.com/Test-More/test-more/issues/447
@@ -1021,7 +1020,6 @@ Perinci-Sub-XCompletion-0.02            108341
 Cogit-0.001000                          https://github.com/frioux/Cogit/issues/7
 FT817COMM-0.9.9                         108385
 re-engine-PCRE-0.17                     108386
-Digest-xxHash-1.02                      https://github.com/sanko/digest-xxhash/issues/2
 Finance-CaVirtex-API-0.03               108392
 Test-Mock-Mango-0.09                    https://github.com/necrophonic/test-mock-mango/issues/7
 Security-JWE-0.04                       108399
@@ -1912,7 +1910,6 @@ Test-Pretty-0.32                        https://github.com/tokuhirom/Test-Pretty
 Data-Alias-1.20                         112289,114544
 DBIx-Class-FromSledge-0.03              114546
 Gwybodaeth-0.02                         114547
-Parse-Yapp-1.05                         https://rt.perl.org/rt3/Ticket/Display.html?id=128139,106685
 Wx-0.9928                               114552
 Data-SCORM-0.07                         114553
 Test-Declare-0.06                       114555
@@ -2134,7 +2131,6 @@ Class-HPLOO-0.23                        115714
 Apache-Session-SharedMem-0.6            115766
 Dist-Metadata-0.926                     115814
 Ogg-Vorbis-Header-0.04                  115794
-Dist-Zilla-Plugin-DynamicPrereqs-0.029  115799
 Module-Install-TestTarget-0.19          102922
 String-Compare-ConstantTime-0.311       https://github.com/hoytech/String-Compare-ConstantTime/issues/4
 Carp-Always-0.13                        115841
@@ -2169,7 +2165,6 @@ Deeme-Backend-Mango-0.02                https://github.com/mudler/p5-Deeme-Backe
 Mojolicious-Command-generate-lexicont-0.05 https://github.com/dokechin/Mojolicious-Command-generate-lexicont/issues/2
 Mojolicious-Plugin-RelativeUrlFor-0.051 116350
 Mojolicious-Plugin-DSC-1.005            https://github.com/kberov/Mojolicious--Plugin--DSC/issues/2,https://github.com/kberov/Mojolicious--Plugin--DSC/issues/3
-Time-Verbal-1.0.0                       116192
 Math-NumSeq-71                          116357
 Mojo-UserAgent-Mockable-1.31            https://github.com/PopeFelix/Mojo-UserAgent-Mockable/issues/8
 Mojolicious-Plugin-Qaptcha-0.11         https://github.com/hrupprecht/Mojolicious-Plugin-Qaptcha/issues/2
@@ -2301,7 +2296,6 @@ Bread-Board-Svc-0.01                    116947
 Dist-Zilla-Plugins-CJM-4.27             116902
 Reply-0.41                              https://github.com/doy/reply/issues/52
 Net-Flotum-0.09                         https://github.com/eokoe/Net-Flotum/issues/5
-App-FindCallers-0.02                    117052
 Interchange6-Schema-0.130               https://github.com/interchange/interchange6-schema/issues/201
 JQuery-DataTables-Heavy-0.04            https://github.com/ywatase/JQuery-DataTables-Heavy/issues/4
 List-Util-1.46_01                       117080
@@ -3009,7 +3003,6 @@ Search-Fulltext-Tokenizer-Ngram-0.01    https://github.com/sekia/Search-Fulltext
 Devel-cst-0.010                         114914
 WWW-Shopify-Liquid-0.06                 118969
 HTTP-Cookies-Mozilla-2.03               118975
-CryptX-0.042                            https://github.com/DCIT/perl-CryptX/issues/26
 CPANPLUS-Test-Dummy-UsesScript-0.0004   118974
 Graphics-ColorNames-GrayScale-2.00      56120
 Cogwheel-0.03                           118980
@@ -3720,7 +3713,6 @@ Term-Table-0.011                        https://github.com/exodist/Term-Table/is
 Google-Ads-AdWords-Client-4.18.0        118509
 Marky-0.035                             123251
 Wx-Perl-IconDepot-0.01                  123278
-Test-Module-Runnable-0.2.2              123288
 Chloro-0.06                             123295
 Net-APNS-0.0202                         123296
 DR-Tnt-0.20                             118326
