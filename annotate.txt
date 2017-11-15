@@ -3828,3 +3828,6 @@ HTTP-Cache-Transparent-1.4              123611
 Bio-Gonzales-0.071                      123614
 Syntax-Highlight-Engine-Simple-Perl-0.05 110323,https://github.com/lab-measurement/Syntax-Highlight-Engine-Simple-Perl/issues/2
 DBD-Firebird-1.25                       123623
+Morpheus-0.46                           https://github.com/druxa/morpheus/issues/3
+Tk-Help-0.3                             123632
+Word2vec-Interface-0.037                122998
