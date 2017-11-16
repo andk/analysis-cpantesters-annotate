@@ -208,7 +208,6 @@ MasonX-Request-HTMLTemplate-0.06        73820
 AI-NeuralNet-Kohonen-Visual-0.3         73821
 PlackX-Engine-0.01                      73822
 Text-PO-Parser-0.0.1                    73833
-Tk-Tree-JSON-0.01                       73839
 Switch-Perlish-1.0.5                    66877
 Template-Parser-CET-0.05                65241
 warnings-method-0.10                    66930
@@ -715,7 +714,6 @@ Memory-Leak-Hunter-0.02                 100398
 Test-FileReferenced-0.02                https://github.com/Test-More/test-more/issues/500
 Devel-SmallProf-2.02                    98192
 Device-WH1091-0.03                      100466
-EV-ADNS-2.2                             100467
 Data-Reuse-0.10                         100461
 Test-Name-FromLine-0.13                 https://github.com/Test-More/test-more/issues/502
 B-Utils-0.25                            https://rt.perl.org/Ticket/Display.html?id=123281
@@ -1900,7 +1898,6 @@ SVN-Agent-0.04                          28479,114379
 HTML-Miner-1.03                         114388
 Geo-PostalAddress-0.04                  114329
 IO-Async-0.70                           114376
-Parse-Method-Signatures-1.003016        114385
 Mojolicious-Plugin-Args-0.05            https://github.com/sharabash/Mojolicious-Plugin-Args/issues/1
 Math-SymbolicX-Calculator-Interface-Shell-0.02 114458
 WebService-Recruit-Eyeco-0.0.1          114459
@@ -2043,7 +2040,6 @@ Device-Gsm-1.60                         https://rt.perl.org/rt3/Ticket/Display.h
 Audio-FindChunks-2.00                   95272
 Hook-LexWrap-0.24                       https://rt.perl.org/Ticket/Display.html?id=122757
 Expect-1.32                             https://github.com/Test-More/test-more/issues/499
-Code-TidyAll-Plugin-SVG-0.002           100981
 Moose-Autobox-0.15                      https://rt.perl.org/rt3/Ticket/Display.html?id=123619,102917
 Mojolicious-Plugin-MailException-0.19   https://github.com/dr-co/libmojolicious-plugin-mail_exception/pull/10
 SOAP-Lite-1.19                          106725
@@ -2824,7 +2820,6 @@ BrowserStack-Local-1.0.0                no bugtracker, missing dependency specif
 Evo-XS-0.005                            https://github.com/alexbyk/perl-evo-xs/issues/1
 B-ConstOptree-0.02                      118020
 Dist-Zilla-Role-ModuleIncluder-0.007    118026
-Mojolicious-Plugin-UniqueTagHelpers-0.04 https://github.com/rshadow/mojolicious-plugin-unique_tag_helpers/issues/1
 Devel-RingBuffer-0.31                   118038
 RestrictionDigest-0.02                  118061
 Log-Any-Adapter-Carp-1.02               118062
@@ -3204,7 +3199,6 @@ Pcore-API-Namecheap-v0.5.2              https://bitbucket.org/softvisio/pcore-ap
 Crypt-OpenSSL-RSA-0.28                  117481
 XML-LibXML-SAX-ChunkParser-0.00008      https://github.com/lestrrat/XML-LibXML-SAX-ChunkParser/issues/3
 Taskwarrior-Kusarigama-0.3.0            120704
-Catmandu-Store-Lucy-0.0102              120725
 Data-Transform-ExplicitMetadata-0.07    120726
 Parse-PlainConfig-3.04                  120732
 SOOT-0.17                               120735
@@ -3276,7 +3270,6 @@ Template-Plugin-ListMoreUtils-0.03      121291
 Sereal-Decoder-4.001_002                https://github.com/Sereal/Sereal/issues/165
 Dancer-Plugin-Thumbnail-0.13            121295
 GD-2.61                                 121297
-Mojolicious-Plugin-SQLiteViewerLite-0.13 121301
 AnyEvent-TLS-SNI-0.03                   module is deprecated,https://github.com/nalobin/AnyEvent-TLS-SNI/issues/2
 Barcode-Code128-2.21                    121307
 Catalyst-ActionRole-MethodSignatureDependencyInjection-0.0200 https://github.com/jjn1056/Catalyst-ActionRole-MethodSignatureDependencyInjection/issues/3
@@ -3613,7 +3606,6 @@ Scope-Escape-Sugar-0.002                122650
 WWW-Offliberty-1.000005                 122651
 Inline-Python-0.55                      122664
 App-Gallery-0.001                       122663
-DateTime-Format-Strptime-1.73           https://github.com/houseabsolute/DateTime-Format-Strptime/issues/18
 URI-UTF8-Punycode-1.05                  122593
 POE-Component-Client-Twitter-0.01       66970
 GnuPG-0.19                              117002
