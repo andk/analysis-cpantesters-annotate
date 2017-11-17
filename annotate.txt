@@ -3805,3 +3805,4 @@ QBit-Application-Model-DB-0.024         123516
 GraphQL-Plugin-Convert-DBIC-0.02        https://github.com/graphql-perl/GraphQL-Plugin-Convert-DBIC/issues/1
 App-CLI-Extension-1.421                 123655
 Whatever-0.23                           123654
+CSS-Simple-3224                         123656
