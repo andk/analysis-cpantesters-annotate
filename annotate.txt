@@ -492,7 +492,6 @@ DBIx-Class-FormTools-0.000009           91234
 Devel-Declare-Lexer-0.014               91267
 App-CPAN-MetaDB-0.04                    91352
 Seis-0.12                               https://github.com/perl-seis/Seis/issues/5,https://github.com/perl-seis/Seis/issues/6,https://github.com/perl-seis/Seis/issues/7
-Net-Rest-Generic-0.08                   91482
 WWW-CSRF-1.00                           91488
 Tie-Redis-0.26                          91552
 Catalyst-Plugin-DefaultEnd-0.08         91578
@@ -737,7 +736,6 @@ Log-Dispatch-Binlog-0.02                ok.pm victim
 WWW-jsonip-0.001                        100842
 MooseX-MultiMethods-0.10                https://rt.perl.org/rt3/Ticket/Display.html?id=123213
 Text-Flow-0.01                          https://github.com/Test-More/test-more/issues/513
-define-1.03                             https://rt.perl.org/rt3/Ticket/Display.html?id=123435
 Statistics-Basic-1.6609                 100943,99912,99970
 Module-Version-0.12                     100956
 Inline-CPP-0.69                         100982
@@ -761,7 +759,6 @@ Date-Calc-6.3                           101232
 Devel-SizeMe-0.19                       92348
 Dist-Zilla-PluginBundle-GETTY-0.008     101234
 Data-DynamicValidator-0.03              101068
-Locale-VersionedMessages-0.94           101280
 Test-DistManifest-1.012                 101287
 Mail-Alias-1.12                         101356
 MooseX-Declare-Context-WithOptions-Patch-Extensible-0.002 101357
@@ -972,7 +969,6 @@ WWW-Scraper-ISBN-Booktopia_Driver-0.22  107305
 WWW-Scraper-ISBN-Foyles_Driver-0.18     107305
 WWW-Scraper-ISBN-Yahoo_Driver-0.23      107305
 Crypt-Random-1.25                       99880
-WebService-PayPal-PaymentsAdvanced-0.000006 https://github.com/oalders/webservice-paypal-paymentsadvanced/issues/1
 Text-Info-0.01                          107347
 SQL-QueryBuilder-OO-0.2.3               107348
 POE-Component-SSLify-1.012              104493
@@ -1507,7 +1503,6 @@ Catalyst-Plugin-Cache-HTTP-Preempt-v0.1.3 110438
 Tapper-TAP-Harness-5.0.0                110450
 File-fgets-v0.0.4                       110460
 BSD-getloadavg-0.03                     110463
-Perl-Modern-Perl-1.006                  110394
 PDF-Cropmarks-0.03                      110566
 MARC-Lint-1.49                          110568,note: name is MARC-Lint_1.49, not MARC-Lint-1.49
 Strehler-RSS-1.1.2                      110569
@@ -1807,7 +1802,6 @@ Log-Reproducible-v0.12.4_1              113234
 Unicode-Unihan-0.04                     75802
 Romanian-Person-v0.01_02                pod coverage test fails, no issue tracker
 Acme-24-0.04                            113287
-Common-Routine-0.0.4                    113296
 Log-Declare-0.10                        https://github.com/companieshouse/Log-Declare/issues/8
 Wily-0.02                               113334
 WWW-Finances-Bovespa-0.10               113338
@@ -1939,7 +1933,6 @@ OAuth-Lite-1.34                         114657
 WWW-Shorten-SCK-0.5                     https://github.com/celogeek/WWW-Shorten-SCK/issues/3
 WebService-Validator-Feed-W3C-0.8       91598
 Shell-EnvImporter-1.07                  105478
-Mail-Sender-0.900-TRIAL                 114692
 WebService-DNSMadeEasy-0.02             https://github.com/kablamo/WebService-DNSMadeEasy/issues/1
 Net-Hadoop-WebHDFS-LWP-0.006            114762
 BioX-Map-CLIS-0.0.6                     114772
@@ -2042,7 +2035,6 @@ SOAP-Lite-1.19                          106725
 AnyEvent-Fork-1.2                       106900
 Net-CardDAVTalk-0.02                    108359
 WWW-Mechanize-PhantomJS-0.11            108505
-Time-Tiny-1.05                          108636
 Map-Tube-London-0.74                    109054
 RateLimitations-0.03                    https://github.com/binary-com/perl-RateLimitations/issues/1
 Gimp-2.31                               110704
@@ -2062,7 +2054,6 @@ Dancer2-Plugin-Swagger2-0.003           https://github.com/dboehmer/Dancer2-Plug
 Lemonldap-NG-Portal-1.9.1               113684
 HTML-CalendarMonth-2.03                 113513
 JSV-0.07                                https://github.com/zigorou/perl-JSV/issues/45
-Text-Distill-0.02                       113928
 Catmandu-LIDO-0.01                      https://github.com/LibreCat/Catmandu-LIDO/issues/1
 Test-DBIx-Class-Schema-1.0.9            https://github.com/chiselwright/test-dbix-class-schema/issues/12
 List-Uniq-0.20                          113952
@@ -2093,7 +2084,6 @@ Smolder-1.51                            114624,114625
 DBIx-Class-RandomStringColumns-0.09     https://github.com/kan/p5-dbic-random-string-columns/issues/1
 File-Copy-NoClobber-0.2.0               114664
 Log-Log4perl-Appender-RabbitMQ-0.141470 102485
-Hex-Record-0.07                         114778
 HTML-FormFu-2.01_03                     109159
 Cache-Profile-0.02                      114790
 Devel-QuickCover-0.600000               115010
@@ -2105,12 +2095,10 @@ Encode-Arabic-14.1                      115138
 Inline-Awk-0.03                         115140
 YAML-Logic-0.05                         115143
 Text-Amuse-Compile-0.59                 115177
-Dancer2-Plugin-UnicodeNormalize-0.033   115180
 Dancer2-Serializer-JSONMaybeXS-0.001    https://github.com/Grinnz/Dancer2-Serializer-JSONMaybeXS/issues/1
 Dist-Zilla-PluginBundle-Author-KENTNL-2.025010 https://github.com/kentnl/Dist-Zilla-PluginBundle-Author-KENTNL/issues/1
 Pgtools-0.008                           https://github.com/tom--bo/Pgtools/issues/8
 Net-Fritz-v0.0.1                        115356
-DateTime-1.29-TRIAL                     115413
 Specio-0.21                             115418
 Dist-Zilla-PluginBundle-DAGOLDEN-0.076  https://github.com/dagolden/Dist-Zilla-PluginBundle-DAGOLDEN/issues/10
 Lorem-0.22                              80289
@@ -2572,7 +2560,6 @@ App-Kit-0.62                            117541
 Alien-Box2D-0.105                       117542
 Alien-ROOT-v5.34.3.1                    117543
 Unix-PID-Tiny-0.91                      94785
-Devel-INC-Sorted-0.02                   117544
 Algorithm-MedianSelect-XS-0.21          76474
 App-Open-0.0.4                          106586
 CGI-List-0.05                           117546
@@ -2753,7 +2740,6 @@ RPC-Any-1.00                            90926
 Bot-BasicBot-Pluggable-Module-Notes-0.02 117809
 Bot-BasicBot-Pluggable-Module-Twitter-0.0.3 110335,110335
 Scalar-List-Utils-1.45_05               117815,117816
-Net-ThreeScale-Client-2.0.2             103074
 Net-Mollom-0.09                         117822
 Timeout-Queue-1.02                      117825
 Text-PORE-1.02                          117826
@@ -2966,7 +2952,6 @@ WebService-MusicBrainz-0.94             118822
 Tatsumaki-0.101301                      118843
 CatalystX-ASP-1.06                      https://github.com/stvleung/CatalystX-ASP/issues/4
 Config-Model-Systemd-0.232.1            https://github.com/dod38fr/config-model-systemd/issues/2
-Astro-App-Satpass2-0.031_01             118861
 Date-Manip-6.56                         https://rt.perl.org/Ticket/Display.html?id=130132,118862
 Test-HTTPStatus-2.001                   https://github.com/briandfoy/test-httpstatus/issues/2
 Data-Checker-1.07                       118881
@@ -3002,7 +2987,6 @@ Lucy-0.6.0.3                            https://issues.apache.org/jira/browse/LU
 Math-BigInt-Constant-1.09               119021
 Device-Serdisp-0.06                     119023
 Algorithm-MarkovChain-GHash-0.01        119024
-Devel-LeakTrace-0.05                    44970
 Mhash-0.90                              60966
 Bio-Biblio-1.70                         119025
 File-BOM-0.15                           119068
@@ -3188,7 +3172,6 @@ Crypt-OpenSSL-RSA-0.28                  117481
 XML-LibXML-SAX-ChunkParser-0.00008      https://github.com/lestrrat/XML-LibXML-SAX-ChunkParser/issues/3
 Taskwarrior-Kusarigama-0.3.0            120704
 Data-Transform-ExplicitMetadata-0.07    120726
-Parse-PlainConfig-3.04                  120732
 SOOT-0.17                               120735
 Pcore-API-AftermarketPl-v0.4.1          https://bitbucket.org/softvisio/pcore-nginx/issues/2/undeclared-dependency-mouse
 Pcore-API-Dynadot-v0.5.1                https://bitbucket.org/softvisio/pcore-nginx/issues/2/undeclared-dependency-mouse
@@ -3331,7 +3314,6 @@ MojoX-JSON-RPC-0.10                     121395
 MojoX-Plugin-PODRenderer-0.01           121396
 Mojolicious-Plugin-AppCacheManifest-0.05 https://github.com/sbertrang/mojolicious-plugin-appcachemanifest/issues/1
 Mojolicious-Plugin-ConfigHashMerge-0.02 https://github.com/dotandimet/Mojolicious-Plugin-ConfigHashMerge/issues/1
-Mojolicious-Plugin-Directory-0.12       https://github.com/hayajo/Mojolicious-Plugin-Directory/issues/6
 Mojolicious-Plugin-FeedReader-0.08      https://github.com/dotandimet/Mojolicious-Plugin-FeedReader/issues/2
 Mojolicious-Plugin-HTMLTemplateProRenderer-0.05 121410
 MetaCPAN-Client-2.011000                https://github.com/metacpan/metacpan-client/issues/83
@@ -3402,7 +3384,6 @@ App-VTide-v0.1.2                        118369
 Alvis-Convert-0.4                       121823
 Net-YASA-0.03                           121842
 App-Prove-Plugin-Distributed-0.08       121843
-Bio-DB-Big-v1.0.0                       121868
 Geo-Coder-List-0.11                     121919
 HTML-TableExtract-2.15                  121920
 JavaScript-Duktape-2.1.5                https://github.com/mamod/JavaScript-Duktape/issues/29
@@ -3610,7 +3591,6 @@ Hash-SharedMem-0.005                    122775
 Data-Edit-Xml-Lint-20170802             122789
 Cloudinary-0.15                         https://github.com/jhthorsen/cloudinary/issues/2
 App-Music-ChordPro-0.86                 122815
-Dist-Zilla-Plugin-RequiresExternal-1.007 https://github.com/mjgardner/Dist-Zilla-Plugin-RequiresExternal/issues/7
 Error-ROP-0.02                          https://github.com/paudirac/Error-ROP/issues/3
 Devel-Jemallctl-0.02                    122844
 Algorithm-Cluster-1.53                  120442
@@ -3680,7 +3660,6 @@ Catalyst-View-Template-Lace-0.011       121385,https://github.com/jjn1056/Cataly
 JPList-0.05                             123090
 Geo-Coder-Cache-0.06                    123135
 WebService-Qiita-V2-0.01                123152
-Bencode-1.500                           https://github.com/ap/Bencode/issues/4
 QBit-Application-Model-DB-clickhouse-0.005 123073
 Config-Model-Backend-Augeas-0.121       https://github.com/dod38fr/config-model/issues/14
 Log-Any-Adapter-LinuxJournal-0.172762   123181
