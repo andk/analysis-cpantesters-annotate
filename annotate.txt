@@ -3814,3 +3814,6 @@ DBD-Firebird-1.25                       123623
 Morpheus-0.46                           https://github.com/druxa/morpheus/issues/3
 Tk-Help-0.3                             123632
 Word2vec-Interface-0.037                122998
+Text-Password-AutoMigration-0.11        https://github.com/worthmine/Text-Password-AutoMigration/issues/3
+QBit-Application-Model-DB-0.024         123516
+GraphQL-Plugin-Convert-DBIC-0.02        https://github.com/graphql-perl/GraphQL-Plugin-Convert-DBIC/issues/1
