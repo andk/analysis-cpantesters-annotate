@@ -3785,3 +3785,8 @@ GraphQL-Plugin-Convert-DBIC-0.02        https://github.com/graphql-perl/GraphQL-
 App-CLI-Extension-1.421                 123655
 Whatever-0.23                           123654
 CSS-Simple-3224                         123656
+App-optex-v0.0.1                        123650
+Perl-PrereqScanner-Lite-0.27            https://github.com/moznion/Perl-PrereqScanner-Lite/issues/18
+APISchema-1.28                          https://github.com/hitode909/APISchema/issues/24
+Message-Passing-Output-Search-Elasticsearch-0.004 123660
+Parallel-Prefork-0.18                   113449
