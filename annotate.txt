@@ -1577,7 +1577,6 @@ Object-Remote-0.003006                  108016,108016
 CGI-Wiki-0.63                           111093,deprecated
 Compress-PPMd-0.11                      58833,78521
 RDF-Converter-CSV-0.03                  111185
-Perl-PrereqScanner-Lite-0.26            https://github.com/moznion/Perl-PrereqScanner-Lite/issues/15
 Lchmod-0.02                             111208
 Mason-Plugin-WithEncoding-0.2           https://github.com/davebaird/mason-plugin-withencoding/issues/1
 Evo-0.0196                              https://github.com/alexbyk/perl-evo/issues/2
@@ -3208,7 +3207,6 @@ Template-Benchmark-1.09_01              121157
 Math-Project3D-1.02                     121159
 Redis-NaiveBayes-0.0.4                  121160
 HTML-DOMbo-3.10                         121161
-Message-Passing-Output-Search-Elasticsearch-0.003 121186
 GTM-0.6                                 121189
 Catmandu-EuropePMC-0.17                 https://github.com/LibreCat/Catmandu-EuropePMC/issues/4
 Tk-DBIx-0.01                            5561
