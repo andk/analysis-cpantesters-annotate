@@ -3774,3 +3774,8 @@ Perl-PrereqScanner-Lite-0.27            https://github.com/moznion/Perl-PrereqSc
 APISchema-1.28                          https://github.com/hitode909/APISchema/issues/24
 Message-Passing-Output-Search-Elasticsearch-0.004 123660
 Parallel-Prefork-0.18                   113449
+Catmandu-PICA-0.24                      https://github.com/gbv/Catmandu-PICA/issues/54
+QBit-Application-Model-DB-0.025         123516,https://github.com/QBitFramework/QBit-Application-Model-DB/issues/28
+Alien-libpid-0.02                       123679
+File-Random-0.18                        123680
+DBIx-Class-Schema-Loader-0.07047        123681
