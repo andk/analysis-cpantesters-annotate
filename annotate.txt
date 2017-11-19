@@ -746,7 +746,6 @@ Hailo-0.72                              92795,101085
 ORLite-Mirror-1.24                      101104
 B-Lint-1.20                             101115
 CatalystX-Resource-0.02                 https://github.com/davewood/catalystx-resource/issues/3
-WWW-Google-Time-1.001002                https://github.com/zoffixznet/WWW-Google-Time/issues/2
 Data-Dump-XML-1.19                      81637
 MavenBuilds-Tasks-BuildWebappsWithMaven-0.01 101159
 Test-Effects-0.001005                   https://github.com/Test-More/test-more/issues/528
@@ -1855,7 +1854,6 @@ Protocol-CassandraCQL-0.12              113958
 Types-Numbers-0.94                      https://github.com/SineSwiper/Types-Numbers/issues/2
 ExtUtils-AutoInstall-0.63               113923
 AnyEvent-WebSocket-Client-0.33          https://github.com/plicease/AnyEvent-WebSocket-Client/issues/22
-Bitmask-Data-2.04                       113991
 Text-TransMetaphone-0.07                114007
 Digest-Skein-0.05                       113998,https://github.com/Perl-Toolchain-Gang/ExtUtils-MakeMaker/pull/266
 Net-AMQP-RabbitMQ-2.000000_002          https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq/issues/11
@@ -1992,7 +1990,6 @@ XML-RSS-Aggregate-0.02                  115447
 Digest-Haval256-1.0.5                   24682
 DBIx-Class-InflateColumn-ISBN-0.04000   115448
 RDF-Trine-Exporter-GraphViz-0.141       https://github.com/nichtich/RDF-Trine-Exporter-GraphViz/issues/3
-Dist-Zilla-Plugin-TravisCI-StatusBadge-0.006 https://github.com/Wu-Wu/Dist-Zilla-Plugin-TravisCI-StatusBadge/issues/3
 Rhetoric-Theme-SandStone-0.08           76681
 File-CodeSearch-v0.7.4                  115526
 MooX-HandlesVia-0.001008                115528
@@ -2092,7 +2089,6 @@ libintl-perl-1.25                       115052
 Text-Variations-0.02                    115136
 Encode-Arabic-14.1                      115138
 Inline-Awk-0.03                         115140
-YAML-Logic-0.05                         115143
 Text-Amuse-Compile-0.59                 115177
 Dancer2-Serializer-JSONMaybeXS-0.001    https://github.com/Grinnz/Dancer2-Serializer-JSONMaybeXS/issues/1
 Dist-Zilla-PluginBundle-Author-KENTNL-2.025010 https://github.com/kentnl/Dist-Zilla-PluginBundle-Author-KENTNL/issues/1
@@ -2118,7 +2114,6 @@ Task-BeLike-RJRAY-0.009                 115909
 QBit-Application-0.011                  115878
 LCFG-Build-PkgSpec-0.1.0                115899
 Regexp-Whitespace-0.001_1-TRIAL         fails for perl >= 5.18, no issue tracker
-RTF-Tokenizer-1.19                      https://rt.perl.org/rt3/Ticket/Display.html?id=128139,115956
 MooseX-Getopt-0.71                      four fails with dated toolchain, reported and fixed
 Perl6-Pod-0.72                          116024
 Test-Dependencies-0.21                  https://github.com/ehuelsmann/perl-Test-Dependencies/issues/5
@@ -2742,9 +2737,7 @@ Scalar-List-Utils-1.45_05               117815,117816
 Net-Mollom-0.09                         117822
 Timeout-Queue-1.02                      117825
 Text-PORE-1.02                          117826
-App-MatrixTool-0.04                     117840
 Genealogy-Gedcom-Date-2.07              117843
-Dancer-Plugin-SimpleCRUD-1.00_01        https://github.com/bigpresh/Dancer-Plugin-SimpleCRUD/issues/80
 App-BoolFindGrep-0.06                   117848
 File-Find-Rule-LibMagic-0.02            117850
 CPAN-SQLite-0.211                       117853
@@ -2878,7 +2871,6 @@ Eixo-Rest-1.206                         118387
 Test-RestAPI-0.1.4                      https://github.com/JaSei/Test-RestAPI/issues/1
 Text-HikiDoc-1.022                      https://github.com/higemaru/p5-text-hikidoc/issues/1
 AnyEvent-Riak-0.93                      https://github.com/dams/p5-anyevent-riak/issues/1
-BSON-XS-v0.2.1                          118516
 File-Find-Rule-Age-0.302                106579
 App-GitHubWebhooks2Ikachan-0.10         https://github.com/moznion/App-GitHubWebhooks2Ikachan/issues/1
 App-MusicExpo-1.002                     118534
@@ -3133,7 +3125,6 @@ Template-Plugin-DateTime-Format-0.03    120391
 WebService-Raygun-0.030                 120392
 WebService-Recruit-Dokoiku-0.11         120393
 Math-Currency-0.50                      120394
-Email-Simple-Markdown-0.7.0             https://github.com/yanick/Email-Simple-Markdown/issues/7
 Date-Holidays-UK-EnglandAndWales-0.04   120427
 Message-Passing-Output-Log-Any-Adapter-0.003 120419
 Math-Business-Blackscholes-Binaries-1.23 112745,120430
@@ -3320,7 +3311,6 @@ REST-Neo4p-0.3012                       121413
 Erlang-Port-0.04                        121415
 Marketplace-Ebay-0.191                  121429
 App-LLEvalBot-0.01                      https://github.com/Songmu/p5-App-LLEvalBot/issues/1
-Log-Dispatch-Email-Mailer-1.02          https://github.com/gryphonshafer/Log-Dispatch-Email-Mailer/issues/1
 Signals-XSIG-0.15_03                    103457
 Mojolicious-Plugin-Authorization-1.05   https://github.com/byterock/mojolicious-plugin-authorization/issues/14
 App-vaporcalc-0.005004                  121479
@@ -3329,7 +3319,6 @@ Alt-FFI-libffi-0.01                     https://github.com/plicease/Alt-FFI-libf
 LinkEmbedder-0.05                       120901
 Mojar-Mysql-2.132                       https://github.com/niczero/mojar-mysql/issues/1
 App-GHPT-1.000002                       https://github.com/maxmind/App-GHPT/issues/7
-Future-AsyncAwait-0.02                  121569
 Music-Audioscrobbler-MPD-0.13           121592
 Net-Download-XMLScripted-0.01           121594
 Net-Analysis-Listener-HTTPClientPerf-0.01 121596
@@ -3378,7 +3367,6 @@ Net-Lookup-DotTel-0.04                  121637
 Lingua-Translate-Bing-0.04              121797
 Perl-Syntax-1.00                        https://github.com/rocky/Perl-Syntax/issues/2
 Test-Stochastic-0.03                    121800
-App-VTide-v0.1.2                        118369
 Alvis-Convert-0.4                       121823
 Net-YASA-0.03                           121842
 App-Prove-Plugin-Distributed-0.08       121843
@@ -3450,7 +3438,6 @@ Log-ger-Output-LogAny-0.003             122193
 Test-PDL-0.13                           122194
 Feersum-1.405                           122177
 Keyword-TreeFold-v0.1.1                 122184
-Log-Any-Adapter-LogGer-0.002            122204
 L-0.01                                  122217
 PPI-Xref-0.010                          122218
 Algorithm-VSM-1.70                      122219
@@ -3589,7 +3576,6 @@ Hash-SharedMem-0.005                    122775
 Data-Edit-Xml-Lint-20170802             122789
 Cloudinary-0.15                         https://github.com/jhthorsen/cloudinary/issues/2
 App-Music-ChordPro-0.86                 122815
-Error-ROP-0.02                          https://github.com/paudirac/Error-ROP/issues/3
 Devel-Jemallctl-0.02                    122844
 Algorithm-Cluster-1.53                  120442
 Statistics-Multtest-0.14                122859
