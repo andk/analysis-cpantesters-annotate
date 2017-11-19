@@ -322,7 +322,6 @@ IO-Util-1.5                             79063
 Lingua-PT-Words2Nums-1.04               79080
 Geo-Postcodes-0.32                      79083
 Lingua-PT-Inflect-0.06                  79080
-Data-UUID-Base64URLSafe-0.34            79096
 Catalyst-Engine-Embeddable-0.000003     79128
 AI-Calibrate-1.5                        79145
 MojoX-Renderer-Haml-0.990103            79209
@@ -519,7 +518,6 @@ Params-Validate-Array-0.03              94420
 Mojolicious-Plugin-Airbrake-0.01        94787
 Prancer-0.04                            94886
 B-Hooks-OP-Check-EntersubForCV-0.09     94945
-Device-ELM327-0.11                      95030
 Portable-1.22                           95031
 Interface-Validation-0.01_01            https://github.com/alnewkirk/Interface-Validation/issues/1
 Mojo-Redis-0.9925                       https://github.com/marcusramberg/mojo-redis/issues/28
@@ -658,7 +656,6 @@ Data-Util-0.63                          99102,99097,https://rt.perl.org/rt3/Tick
 Scalar-Util-Numeric-0.22                https://rt.perl.org/rt3/Ticket/Display.html?id=122843
 Test-Regression-0.07                    https://rt.perl.org/rt3/Ticket/Display.html?id=122845
 App-MusicTools-1.17                     99168
-HTML-Strip-1.07                         99151
 Spreadsheet-WriteExcel-2.40             test suite not robust against shuffling or parallel testing
 MooseX-Enumeration-0.005                99223
 HTTP-Headers-ActionPack-0.09            98843
@@ -1681,7 +1678,6 @@ Graph-ChartSVG-2.07                     112744
 Math-Business-BlackScholes-Binaries-1.22 112745
 Module-Text-Template-Build-0.05.10      112746
 Path-Router-Route-Slurpy-0.141330       112752
-Tk-PlotDataset-2.04                     112753
 YAWF-Object-MongoDB-0.03                112754
 Dist-Zilla-Plugin-MakeMaker-IncShareDir-0.01 https://github.com/miyagawa/Dist-Zilla-Plugin-MakeMaker-IncShareDir/issues/1
 WWW-ThisIsMyJam-v0.1.0                  https://github.com/sanko/www-thisismyjam/issues/1
@@ -1991,7 +1987,6 @@ Digest-Haval256-1.0.5                   24682
 DBIx-Class-InflateColumn-ISBN-0.04000   115448
 RDF-Trine-Exporter-GraphViz-0.141       https://github.com/nichtich/RDF-Trine-Exporter-GraphViz/issues/3
 Rhetoric-Theme-SandStone-0.08           76681
-File-CodeSearch-v0.7.4                  115526
 MooX-HandlesVia-0.001008                115528
 Keyword-With-0.001                      https://github.com/mcmillhj/Keyword-With/issues/1
 WebService-Lob-0.0107                   https://github.com/aanari/WebService-Lob/issues/3
@@ -2001,7 +1996,6 @@ Test-Proto-0.027                        https://github.com/pdl/Test-Proto/issues
 Parse-Path-0.92                         https://github.com/SineSwiper/Parse-Path/issues/2
 Dancer2-Logger-Syslog-0.4               115557
 MySQL-Diff-0.47                         https://github.com/aspiers/mysqldiff/issues/31
-DOM-Tiny-0.004                          115573
 PPIx-Refactor-0.07                      https://github.com/lackita/PPIx-Refactor/issues/2
 Class-Roles-0.30                        102367
 File-Find-Iterator-0.4                  91854
@@ -2063,7 +2057,6 @@ Mirror-YAML-0.03                        114153
 Math-Cephes-0.5304                      114158
 Gazelle-0.42                            https://github.com/kazeburo/Gazelle/issues/26
 FuseBead-From-PNG-0.01                  114212
-Graph-Easy-0.75                         https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 Struct-Diff-0.54                        no bugtracker, use of experimental functions on references
 Script-Toolbox-0.49                     111379
 B-OPCheck-0.30                          https://rt.perl.org/rt3/Ticket/Display.html?id=128179
@@ -2137,7 +2130,6 @@ Mojolicious-Plugin-Piwik-0.18           116348
 Deeme-Backend-Mango-0.02                https://github.com/mudler/p5-Deeme-Backend-Mango/issues/1
 Mojolicious-Command-generate-lexicont-0.05 https://github.com/dokechin/Mojolicious-Command-generate-lexicont/issues/2
 Mojolicious-Plugin-RelativeUrlFor-0.051 116350
-Mojolicious-Plugin-DSC-1.005            https://github.com/kberov/Mojolicious--Plugin--DSC/issues/2,https://github.com/kberov/Mojolicious--Plugin--DSC/issues/3
 Math-NumSeq-71                          116357
 Mojo-UserAgent-Mockable-1.31            https://github.com/PopeFelix/Mojo-UserAgent-Mockable/issues/8
 Mojolicious-Plugin-Qaptcha-0.11         https://github.com/hrupprecht/Mojolicious-Plugin-Qaptcha/issues/2
@@ -2300,7 +2292,6 @@ GenOO-1.5.0                             https://github.com/genoo/GenOO/issues/12
 Gnuplot-Simple-0.011                    117178
 Apache2-ASP-2.46                        117180
 Prima-1.48                              117182
-XAS-0.13                                117191
 Alien-NSS-0.23                          https://github.com/0xxon/alien-nss/issues/5
 XML-XSH2-2.1.25                         117196
 WWW-Scraper-ISBN-ORA_Driver-0.22        117200
@@ -2995,7 +2986,6 @@ HTML-Lint-2.23_01                       https://github.com/petdance/html-lint/is
 Catmandu-Store-Datahub-0.01             https://github.com/thedatahub/Catmandu-Store-Datahub/issues/1
 Hash-Persistent-1.02                    https://github.com/berekuk/Hash-Persistent/issues/2
 Data-RuledCluster-0.06                  https://github.com/nekokak/p5-Data-RuledCluster/issues/4
-Scalar-Classify-0.01                    https://github.com/doomvox/scalar-classify/issues/1
 Net-DNS-SPF-Expander-0.018              https://github.com/amiri/Net-DNS-SPF-Expander/issues/7
 Algorithm-LDA-0.03                      119317
 Fabnewsru-Parser-0.01                   https://github.com/pavelsr/Fabnews-Parser/issues/1
@@ -3133,7 +3123,6 @@ POE-Component-Client-DNS-Recursive-1.12 116609
 Struct-Path-PerlStyle-0.62              120474
 Object-WithParams-0.3                   120492
 Unicode-Map8-0.13                       24652
-Mojolicious-Plugin-HostMeta-0.21        120548
 Parse-Debian-PackageDesc-0.15           120549
 Swagger2-Markdown-0.11                  https://github.com/Humanstate/swagger2-markdown/issues/6
 BoutrosLab-TSVStream-v0.5.3             119751
@@ -3172,7 +3161,6 @@ Devel-MAT-0.25                          114581
 XRI-Resolution-Lite-0.04                probably temporary network/server failure,120780
 Ham-ADIF-v1.5.1                         117262
 Kavorka-0.037                           109841
-Net-Moip-V2-0.05                        https://github.com/cafe01/Net-Moip-V2/issues/1
 Business-OnlinePayment-Vindicia-Select-0.002 120948
 List-Flatten-XS-0.02                    120902
 Math-AnyNum-0.02                        120910
@@ -3438,7 +3426,6 @@ Log-ger-Output-LogAny-0.003             122193
 Test-PDL-0.13                           122194
 Feersum-1.405                           122177
 Keyword-TreeFold-v0.1.1                 122184
-L-0.01                                  122217
 PPI-Xref-0.010                          122218
 Algorithm-VSM-1.70                      122219
 Mojolicious-Plugin-ConfigAny-0.1.3      122220
@@ -3649,7 +3636,6 @@ Config-Model-Backend-Augeas-0.121       https://github.com/dod38fr/config-model/
 Log-Any-Adapter-LinuxJournal-0.172762   123181
 String-Tagged-Terminal-0.01             123182
 Mylisp-2.0                              123183,123184
-Linux-Systemd-1.172760                  https://github.com/ioanrogers/Linux-Systemd/issues/3
 Yandex-Disk-0.01                        123199
 Term-Table-0.011                        https://github.com/exodist/Term-Table/issues/8
 Google-Ads-AdWords-Client-4.18.0        118509
