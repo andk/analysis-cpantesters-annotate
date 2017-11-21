@@ -3764,3 +3764,4 @@ QBit-Application-Model-DB-0.025         123516,https://github.com/QBitFramework/
 Alien-libpid-0.02                       123679
 File-Random-0.18                        123680
 DBIx-Class-Schema-Loader-0.07047        123681
+Text-VisualPrintf-2.01                  https://github.com/kaz-utashiro/Text-VisualPrintf/issues/1
