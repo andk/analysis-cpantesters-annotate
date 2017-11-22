@@ -1165,7 +1165,6 @@ WebService-Livedoor-SpamChampuru-DNSBL-0.02 108916
 Mail-SpamAssassin-3.4.1                 https://bz.apache.org/SpamAssassin/show_bug.cgi?id=7265
 POE-Component-Server-DNS-0.30           108936
 Simple-SAX-Serializer-0.05              95307
-Math-String-1.28                        95621
 Catalyst-Plugin-Charsets-Japanese-0.06  108957
 Class-DBI-DATA-Schema-1.00              35364
 Hatena-Keyword-0.05                     108958
@@ -1848,7 +1847,6 @@ MIME-tools-5.507                        113887
 Test-SharedFork-0.35                    https://github.com/tokuhirom/Test-SharedFork/issues/22
 Protocol-CassandraCQL-0.12              113958
 Types-Numbers-0.94                      https://github.com/SineSwiper/Types-Numbers/issues/2
-ExtUtils-AutoInstall-0.63               113923
 AnyEvent-WebSocket-Client-0.33          https://github.com/plicease/AnyEvent-WebSocket-Client/issues/22
 Text-TransMetaphone-0.07                114007
 Digest-Skein-0.05                       113998,https://github.com/Perl-Toolchain-Gang/ExtUtils-MakeMaker/pull/266
@@ -2386,7 +2384,6 @@ Net-XMPP-1.05                           https://github.com/dap/Net-XMPP/issues/1
 NIST-NVD-1.00.00                        117343
 Fun-0.05                                89825,117344
 Net-Rexster-Client-v0.0.5               117347
-Monitoring-Generator-TestConfig-0.44    https://rt.perl.org/rt3/Ticket/Display.html?id=128139,https://github.com/sni/Monitoring-Generator-TestConfig/issues/3
 use-0.05                                117349
 rpm-build-perl-0.82                     85411,117350
 WWW-DoctypeGrabber-0.007                117388
@@ -2414,7 +2411,6 @@ XML-RPC-Fast-0.8                        waiting for newer URI::Escape than 1.61,
 Array-Base-0.005                        https://rt.perl.org/rt3/Ticket/Display.html?id=128179,117385
 optimizer-0.08                          https://rt.perl.org/rt3/Ticket/Display.html?id=128179,117387
 App-ZofCMS-1.001006                     https://rt.perl.org/rt3/Ticket/Display.html?id=128139,https://github.com/zoffixznet/App-ZofCMS/issues/11
-Attribute-Args-0.05                     117389
 Bio-Phylo-Beagle-0.03                   113941
 Telephone-Mnemonic-US-0.07              117390,117391
 Text-Summarize-0.50                     75845,117392
@@ -3044,7 +3040,6 @@ WWW-Eksi-0.22                           119862
 DBIx-Class-Helper-ResultSet-CrossTab-0.004 119864
 Graphics-GVG-SVG-0.4                    119578
 KeyedMutex-0.06                         119867
-Modern-Perl-1.20170115                  114690
 FFI-TinyCC-0.23                         https://github.com/plicease/FFI-TinyCC/issues/6
 Statocles-0.081                         https://github.com/preaction/Statocles/issues/526
 Sort-Naturally-XS-0.7.3                 119923
@@ -3702,7 +3697,6 @@ Object-LocalVars-0.21                   https://github.com/dagolden/Object-Local
 WebService-KVV-Live-Stop-0.005          https://github.com/athreef/WebService-KVV-Live-Stop/issues/1
 Net-MAC-Vendor-1.262                    https://github.com/briandfoy/net-mac-vendor/issues/26
 lsn-data-hub-05.00297                   no bugtracker, unescaped left brace in regex
-Bio-Phylo-v2.0.0                        https://github.com/rvosa/bio-phylo/issues/42
 Data-RecordStore-2.01                   123458
 XML-Liberal-0.30                        119940
 Class-Attrib-1.07                       123457
