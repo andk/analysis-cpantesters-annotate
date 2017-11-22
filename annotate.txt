@@ -2789,7 +2789,6 @@ Catalyst-Plugin-OrderedParams-0.06      52922
 PersistentPerl-2.22                     33287
 Pod-Weaver-Section-ClassMopper-1.150880 118089
 Email-MIME-Kit-Bulk-0.0.2               https://github.com/iinteractive/Email-MIME-Kit-Bulk/issues/2
-SVG-2.64                                118091
 Lexical-Var-0.009                       115992
 Fl-0.99.14                              https://github.com/sanko/Fl.pm/issues/2
 Dancer-Plugin-Interchange6-0.121        deprecated
