@@ -2614,7 +2614,6 @@ Class-DBI-DataMigration-0.02            117655
 Cisco-ACL-0.12                          117656
 Class-DBI-View-0.07                     117657
 DBIx-Class-DigestColumns-Lite-0.03      117658
-DBIx-Class-StorageReadOnly-0.05         117659
 Exception-ThrowUnless-1.11              117660,117661
 Imager-Filter-Bakumatsu-0.05            https://github.com/tomill/Imager-Filter-Bakumatsu/issues/4
 FLAT-0.9.1                              117663
@@ -3191,7 +3190,6 @@ Catmandu-EuropePMC-0.17                 https://github.com/LibreCat/Catmandu-Eur
 Tk-DBIx-0.01                            5561
 Crypt-OpenSSL-SMIME-0.05                121212
 Crypt-Keyczar-0.08                      121213
-Crypt-OpenSSL-VerifyX509-0.10           120607,120608,121214
 Crypt-SMimeEngine-0.06                  121215
 OpenCA-OpenSSL-2.0.29                   121216
 Alien-MuPDF-0.007                       121218
@@ -3765,7 +3763,7 @@ Alien-libpid-0.02                       123679
 File-Random-0.18                        123680
 DBIx-Class-Schema-Loader-0.07047        123681
 Text-VisualPrintf-2.01                  https://github.com/kaz-utashiro/Text-VisualPrintf/issues/1
-Crypt-OpenSSL-VerifyX509-0.10           123690
+Crypt-OpenSSL-VerifyX509-0.10           120607,120608,121214,123690
 App-Textcast-0.06.15                    123692
-DBIx-Class-StorageReadOnly-0.05         123704
+DBIx-Class-StorageReadOnly-0.05         117659,123704
 SVG-2.78                                123705
