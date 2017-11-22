@@ -3765,3 +3765,7 @@ Alien-libpid-0.02                       123679
 File-Random-0.18                        123680
 DBIx-Class-Schema-Loader-0.07047        123681
 Text-VisualPrintf-2.01                  https://github.com/kaz-utashiro/Text-VisualPrintf/issues/1
+Crypt-OpenSSL-VerifyX509-0.10           123690
+App-Textcast-0.06.15                    123692
+DBIx-Class-StorageReadOnly-0.05         123704
+SVG-2.78                                123705
