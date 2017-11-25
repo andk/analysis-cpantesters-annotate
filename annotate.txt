@@ -3761,3 +3761,7 @@ App-Textcast-0.06.15                    123692
 DBIx-Class-StorageReadOnly-0.05         117659,123704
 SVG-2.78                                123705
 Getopt-Flex-1.07                        123715
+criticism-1.02                          123714
+Clownfish-0.6.2 https://issues.apache.org/jira/browse/CLOWNFISH-119
+Data-TableReader-0.002                  123732
+Martian-0.06                            123733
