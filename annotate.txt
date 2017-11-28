@@ -3042,7 +3042,6 @@ Sys-Info-Driver-Linux-0.7903            98099
 Mojolicious-Plugin-AssetPack-1.38       https://github.com/jhthorsen/mojolicious-plugin-assetpack/issues/115
 Mojo-SMTP-Client-0.11                   119946
 Ogg-Vorbis-Decoder-0.9                  119947
-SMS-Send-Sergel-Simple-HTTP-0.01        119948
 Linux-Smaps-0.13                        104515,104515
 FFI-1.09                                https://github.com/plicease/FFI/issues/1,https://github.com/plicease/FFI/issues/2
 Eixo-Zone-Driver-0.03                   119991
