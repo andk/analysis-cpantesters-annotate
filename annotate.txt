@@ -2063,7 +2063,6 @@ Char-GBK-1.05                           114484
 CNC-Cog-0.061                           111909,111909
 Image-Resize-0.5                        60038,60038
 Excel-Template-XLSX-v1.0.5              114543
-MsgPack-RPC-0.1.1                       https://github.com/yanick/MsgPack-RPC/issues/5
 App-Rssfilter-0.07                      https://github.com/dgholz/App-Rssfilter/issues/8
 YATT-Lite-0.100                         106776
 IPC-PrettyPipe-0.03                     108397
