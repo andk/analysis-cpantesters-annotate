@@ -3765,3 +3765,8 @@ criticism-1.02                          123714
 Clownfish-0.6.2 https://issues.apache.org/jira/browse/CLOWNFISH-119
 Data-TableReader-0.002                  123732
 Martian-0.06                            123733
+GitHub-Crud-20171124                    123740
+MsgPack-RPC-2.0.0                       https://github.com/yanick/MsgPack-RPC/issues/9,https://github.com/yanick/MsgPack-RPC/issues/10
+Neovim-RPC-1.0.0                        https://github.com/yanick/Neovim-RPC/issues/4
+Neovim-RPC-Plugin-Taskwarrior-0.0.1     https://github.com/yanick/Neovim-RPC/issues/5
+PDF-Builder-3.008                       123757
