@@ -3770,3 +3770,4 @@ Neovim-RPC-1.0.0                        https://github.com/yanick/Neovim-RPC/iss
 Neovim-RPC-Plugin-Taskwarrior-0.0.1     https://github.com/yanick/Neovim-RPC/issues/5
 PDF-Builder-3.008                       123757
 IO-ReadHandle-Chain-1.0                 123770
+SMS-Send-Sergel-Simple-HTTP-0.02        https://github.com/eskaaren/SMS-Send-Sergel-Simple-HTTP/issues/3
