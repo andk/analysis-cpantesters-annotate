@@ -3764,3 +3764,6 @@ PDF-Builder-3.008                       123757
 IO-ReadHandle-Chain-1.0                 123770
 SMS-Send-Sergel-Simple-HTTP-0.02        https://github.com/eskaaren/SMS-Send-Sergel-Simple-HTTP/issues/3
 optex-0.02                              https://github.com/kaz-utashiro/optex/issues/1
+App-Music-PlayTab-2.903                 123760
+Params-ValidationCompiler-0.25          https://github.com/houseabsolute/Params-ValidationCompiler/issues/19
+App-SimulateReads-0.08                  123761
