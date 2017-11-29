@@ -3755,3 +3755,6 @@ optex-0.02                              https://github.com/kaz-utashiro/optex/is
 App-Music-PlayTab-2.903                 123760
 Params-ValidationCompiler-0.25          https://github.com/houseabsolute/Params-ValidationCompiler/issues/19
 App-SimulateReads-0.08                  123761
+Mail-Sendmail-0.80                      123652
+Mailru-Cloud-0.01                       https://github.com/vrag86/perl-mailru-cloud-api/issues/1
+MariaDB-NonBlocking-0.14                123474
