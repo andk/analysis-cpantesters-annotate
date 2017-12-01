@@ -3678,7 +3678,6 @@ App-TestOnTap-0.040                     123491
 IPC-System-Simple-1.25                  https://github.com/pjf/ipc-system-simple/issues/21
 Lexical-Types-0.16                      https://rt.perl.org/Ticket/Display.html?id=132385
 UNIVERSAL-isa-1.20171012                https://rt.perl.org/Ticket/Display.html?id=132395
-WebService-Google-Closure-0.11          123521
 WebService-Slack-WebApi-0.11            https://github.com/mihyaeru21/p5-WebService-Slack-WebApi/pull/18
 Coro-ProcessPool-0.26_003               122565
 Pootle-Client-0.08                      https://github.com/KohaSuomi/Pootle-Client/issues/6
