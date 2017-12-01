@@ -661,7 +661,6 @@ Dist-Zilla-Plugin-ReleaseOnlyWithLatest-0.003 99338
 HTTP-Throwable-0.019                    https://github.com/rjbs/HTTP-Throwable/issues/6
 EBook-Tools-v0.5.4                      99269
 Dancer-Plugin-Controller-0.153          https://github.com/PerlDancer/Dancer/issues/1080
-MooX-Role-Validatable-0.03              https://github.com/binary-com/perl-MooX-Role-Validatable/issues/1
 Notes-0.001                             99368
 Rex-JobControl-0.18.0                   99391
 CGI-Fast-2.03                           https://github.com/leejo/cgi-fast/issues/7
@@ -755,7 +754,6 @@ Test-DistManifest-1.012                 101287
 Mail-Alias-1.12                         101356
 MooseX-Declare-Context-WithOptions-Patch-Extensible-0.002 101357
 Dist-Zilla-PluginBundle-ROKR-0.0019     101583
-Syccess-0.103                           100220
 Business-BalancedPayments-1.0600        https://github.com/Crowdtilt/Business-BalancedPayments/issues/53
 DBIx-Class-Result-ColumnData-0.16       84928
 WebService-PutIo-0.3                    101809
@@ -828,7 +826,6 @@ Time-Piece-Over24-0.016                 103160
 Catalyst-View-Mason-0.19                102381
 Finance-OFX-Parse-Simple-0.07           96918
 App-perlrdf-0.006                       99158
-Exporter-Proxy-0.07                     103953
 Net-Semantics3-0.20                     103954
 Image-JpegTran-0.02                     98482
 App-PerlCalc-v1.2.0                     103955
@@ -962,7 +959,6 @@ WWW-Scraper-ISBN-Foyles_Driver-0.18     107305
 WWW-Scraper-ISBN-Yahoo_Driver-0.23      107305
 Crypt-Random-1.25                       99880
 Text-Info-0.01                          107347
-SQL-QueryBuilder-OO-0.2.3               107348
 POE-Component-SSLify-1.012              104493
 Path-Class-Rule-0.018                   https://github.com/dagolden/path-class-rule/issues/3
 encoding-source-0.03                    107379
@@ -981,7 +977,6 @@ Filesys-DfPortable-0.85                 https://rt.perl.org/rt3/Ticket/Display.h
 Graph-Writer-TGXML-0.01                 107835
 Kwiki-Attachments-0.21                  104977
 Time-HiRes-Value-0.08                   105451
-Redis-ScriptCache-0.04                  107866
 Chimaera-Matcher-1.01                   107892
 AWS-Signature-V2-0.01                   https://github.com/kablamo/AWS-Signature-V2/issues/1
 Plack-Middleware-DNSBL-0.0304           107913
@@ -1005,7 +1000,6 @@ Cogit-0.001000                          https://github.com/frioux/Cogit/issues/7
 FT817COMM-0.9.9                         108385
 re-engine-PCRE-0.17                     108386
 Finance-CaVirtex-API-0.03               108392
-Test-Mock-Mango-0.09                    https://github.com/necrophonic/test-mock-mango/issues/7
 Security-JWE-0.04                       108399
 Test-Approximate-0.009                  101156
 Plugin-Tiny-0.012                       https://github.com/mokko/p5-Plugin-Tiny/issues/3
@@ -1605,7 +1599,6 @@ Net-Jifty-0.14                          112231
 File-FDpasser-0.09                      112233
 DateTime-Astro-1.00                     112240
 Perinci-Sub-Gen-AccessTable-DBI-0.15    112293
-Perinci-Sub-Property-curry-0.04         112297
 Algorithm-Permute-0.12                  https://rt.perl.org/rt3/Ticket/Display.html?id=127475
 Convert-TBX-UTX-0.032                   112325
 Digest-PBKDF2-0.010                     112377
@@ -1857,7 +1850,6 @@ WWW-Shorten-iiipe-1.00                  114133
 Object-Previous-1.1012                  112245
 Orochi-0.00010                          114144
 once-1.101420                           114313
-Spreadsheet-Reader-ExcelXML-v0.2.0      https://github.com/jandrew/p5-spreadsheet-reader-excelxml/issues/1
 Crypt-JWT-0.015                         114343
 Net-Douban-1.14                         https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 Config-Std-0.901                        114342,https://rt.perl.org/rt3/Ticket/Display.html?id=128139
@@ -1927,7 +1919,6 @@ Net-Jenkins-0.07                        114792
 RDF-Trine-Serializer-SparqlUpdate-0.002 114793
 System-Wrapper-v0.0.2                   114794
 Data-Walk-Extracted-v0.26.8             https://github.com/jandrew/Data-Walk-Extracted/issues/2
-Parse-Eyapp-1.182                       https://rt.perl.org/rt3/Ticket/Display.html?id=128139,105643
 Sys-CPU-0.61                            54267
 WordNet-Insert-0.02                     114921
 Wiktionary-Parser-0.11                  114923
@@ -1961,7 +1952,6 @@ Rose-DB-0.777                           114925
 Devel-BeginLift-0.001003                64033,114663,115272
 DBIx-Class-IndexSearch-Dezi-0.05        115189
 App-AutoCRUD-0.13                       115319
-Device-I2C-0.03                         no tracker, contacted by email
 Data-MessagePack-Stream-0.07            115389
 Cikl-0.5.1                              115414
 DateTimeX-AATW-0.04                     115416
@@ -2055,7 +2045,6 @@ IPC-Mmap-0.21                           https://rt.perl.org/rt3/Ticket/Display.h
 Char-GBK-1.05                           114484
 CNC-Cog-0.061                           111909,111909
 Image-Resize-0.5                        60038,60038
-App-Rssfilter-0.07                      https://github.com/dgholz/App-Rssfilter/issues/8
 YATT-Lite-0.100                         106776
 IPC-PrettyPipe-0.03                     108397
 Smolder-1.51                            114624,114625
@@ -2066,12 +2055,10 @@ HTML-FormFu-2.01_03                     109159
 Cache-Profile-0.02                      114790
 Devel-QuickCover-0.600000               115010
 Test-Needs-0.002001                     115021
-BSON-v0.999.0-TRIAL                     115042
 libintl-perl-1.25                       115052
 Encode-Arabic-14.1                      115138
 Inline-Awk-0.03                         115140
 Text-Amuse-Compile-0.59                 115177
-Dancer2-Serializer-JSONMaybeXS-0.001    https://github.com/Grinnz/Dancer2-Serializer-JSONMaybeXS/issues/1
 Dist-Zilla-PluginBundle-Author-KENTNL-2.025010 https://github.com/kentnl/Dist-Zilla-PluginBundle-Author-KENTNL/issues/1
 Pgtools-0.008                           https://github.com/tom--bo/Pgtools/issues/8
 Net-Fritz-v0.0.1                        115356
@@ -2259,7 +2246,6 @@ Data-Printer-0.38                       https://github.com/garu/Data-Printer/iss
 YAML-1.18                               https://github.com/ingydotnet/yaml-pm/issues/134
 Cache-AgainstFile-1.016                 117098
 DB-Pluggable-Dumper-0.01                117099
-Protocol-SocketIO-0.06                  https://github.com/vti/protocol-socketio/issues/1
 ExtUtils-BundleMaker-0.006              117102
 WWW-Baidu-0.06                          117103
 NCC-0.001                               117106
@@ -3129,7 +3115,6 @@ Data-Transform-ExplicitMetadata-0.07    120726
 SOOT-0.17                               120735
 Pcore-API-AftermarketPl-v0.4.1          https://bitbucket.org/softvisio/pcore-nginx/issues/2/undeclared-dependency-mouse
 Pcore-API-Dynadot-v0.5.1                https://bitbucket.org/softvisio/pcore-nginx/issues/2/undeclared-dependency-mouse
-Pcore-SMTP-v0.1.1                       https://bitbucket.org/softvisio/pcore-nginx/issues/2/undeclared-dependency-mouse
 Acme-AXP-Utils-0.06                     120758
 Git-Database-0.008                      120760
 Devel-MAT-0.25                          114581
