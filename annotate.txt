@@ -3758,3 +3758,4 @@ App-SimulateReads-0.08                  123761
 Mail-Sendmail-0.80                      123652
 Mailru-Cloud-0.01                       https://github.com/vrag86/perl-mailru-cloud-api/issues/1
 MariaDB-NonBlocking-0.14                123474
+Future-HTTP-0.08                        123801
