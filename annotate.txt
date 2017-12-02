@@ -3744,3 +3744,4 @@ Future-HTTP-0.08                        123801
 experimental-0.017                      123784
 WebService-Google-Closure-0.12          123798
 Encode-Unicode-PerlDecodeJava-20171127  123806
+Text-VisualWidth-PP-0.05                https://github.com/tokuhirom/Text-VisualWidth-PP/issues/4
