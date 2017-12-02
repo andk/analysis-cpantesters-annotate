@@ -1804,7 +1804,7 @@ Iterator-Paged-1.001                    77712
 Sweet-Home-0.06                         https://github.com/fibo/Sweet-Home-pm/issues/2
 Net-BaruwaAPI-0.04                      113707
 AnyEvent-Eris-0.000001                  https://github.com/xsawyerx/anyevent-eris/issues/12
-CGI-OptimalQuery-0.22                   113713
+CGI-OptimalQuery-0.26                   113713
 File-VirusScan-0.103                    103885
 App-Dochazka-REST-0.528                 https://github.com/smithfarm/dochazka-rest/issues/76
 Net-DNSBL-Client-0.206                  113714
