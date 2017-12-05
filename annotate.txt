@@ -3752,3 +3752,4 @@ DBM-Deep-2.0014                         123811,https://rt.perl.org/Public/Bug/Di
 Functional-Utility-1.02                 https://github.com/belden/perl-functional-utility/issues
 Glib-1.326                              123813,https://rt.perl.org/Public/Bug/Display.html?id=132252
 Prty-1.121                              https://rt.perl.org/Public/Bug/Display.html?id=132252
+B-RecDeparse-0.10                       https://rt.perl.org/Ticket/Display.html?id=132528
