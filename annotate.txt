@@ -3753,3 +3753,4 @@ Functional-Utility-1.02                 https://github.com/belden/perl-functiona
 Glib-1.326                              123813,https://rt.perl.org/Public/Bug/Display.html?id=132252
 Prty-1.121                              https://rt.perl.org/Public/Bug/Display.html?id=132252
 B-RecDeparse-0.10                       https://rt.perl.org/Ticket/Display.html?id=132528
+File-Rotate-Simple-v0.2.0               https://github.com/robrwo/File-Rotate-Simple/issues/8
