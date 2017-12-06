@@ -180,7 +180,6 @@ Module-Install-AssertOS-0.10            73123
 Web-oEmbed-Common-0.05                  73125
 LinkedList-Single-v0.99.21              73155
 Data-Plist-0.100_001                    73156, 73157
-Roman-Unicode-1.02_03                   was a bleadperl bug
 Perl6-Perldoc-To-Ansi-0.11              was a bleadperl bug
 Regexp-Parser-0.21                      was a bleadperl bug
 Text-CSV-R-0.3                          was a bleadperl bug
@@ -493,7 +492,6 @@ Tie-Redis-0.26                          91552
 Catalyst-Plugin-DefaultEnd-0.08         91578
 AnyEvent-Gearman-0.10                   91103
 Neo4p-0.0001                            has changed name to DBD- and REST-Neo4p
-WebService-HtmlKitCom-FavIconFromImage-0.002 known bug in analysis: does not pick up 0.003
 Plack-Middleware-Assets-1.0.0           https://github.com/monken/p5-moosex-attribute-deflator/issues/5
 BDB-Wrapper-0.49                        92073
 DynGig-Multiplex-1.03                   68257
@@ -1797,7 +1795,6 @@ App-iTan-1.06                           113160
 Catalyst-Plugin-DBIC-Schema-Profiler-0.06 113559
 Mojolicious-Plugin-ForkAndGo-0.01       113586
 WebService-TeamCity-0.03                https://github.com/maxmind/WebService-TeamCity/issues/1
-MooseX-Attribute-Dependent-1.1.2        113599
 MooseX-Params-0.010                     113600
 SOAP-WSDL-3.003                         71679
 Iterator-Paged-1.001                    77712
@@ -2087,7 +2084,6 @@ Test-Dependencies-0.21                  https://github.com/ehuelsmann/perl-Test-
 Net-CampaignMonitor-v2.2.1              https://github.com/campaignmonitor/createsend-perl/issues/16
 Plift-0.01                              https://github.com/cafe01/template-plift/issues/1
 Math-BigInt-1.999725                    116123
-B-Hooks-Parser-0.16                     https://rt.perl.org/Ticket/Display.html?id=128621
 Devel-Declare-0.006018                  https://rt.perl.org/Ticket/Display.html?id=128621
 Lingua-FR-Numbers-1.161950              98817
 MooX-Options-4.023                      https://github.com/celogeek/MooX-Options/issues/53
@@ -2269,7 +2265,6 @@ WWW-Scraper-ISBN-ORA_Driver-0.22        117200
 Net--RabbitMQ-0.2.8                     102508
 Tie-Hash-Check-0.04                     117194
 invoker-0.34                            https://rt.perl.org/Public/Bug/Display.html?id=128179,117215
-WWW-Google-PageRank-0.17                https://rt.perl.org/rt3/Ticket/Display.html?id=122121,117218
 JSON-XS-Sugar-1.01                      https://github.com/maxmind/JSON-XS-Sugar-perl/issues/4
 Tree-Binary-XS-0.03                     117220
 Mojolicious-Plugin-ConsoleLogger-0.06   https://rt.perl.org/rt3/Ticket/Display.html?id=128139,117228
