@@ -3749,3 +3749,7 @@ Glib-1.326                              123813,https://rt.perl.org/Public/Bug/Di
 Prty-1.121                              https://rt.perl.org/Public/Bug/Display.html?id=132252
 B-RecDeparse-0.10                       https://rt.perl.org/Ticket/Display.html?id=132528
 File-Rotate-Simple-v0.2.0               https://github.com/robrwo/File-Rotate-Simple/issues/8
+Catalyst-View-Template-Lace-0.012       121385,https://github.com/jjn1056/Catalyst-View-Template-Lace/issues/1
+JCM-Boilerplate-1.018                   https://github.com/jmaslak/dotfiles/issues/1
+BioX-Workflow-Command-2.3.1             https://github.com/biosails/BioX-Workflow-Command/issues/40
+ISO-639-20171206                        123828
