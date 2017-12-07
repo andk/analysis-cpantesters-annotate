@@ -3753,3 +3753,5 @@ Catalyst-View-Template-Lace-0.012       121385,https://github.com/jjn1056/Cataly
 JCM-Boilerplate-1.018                   https://github.com/jmaslak/dotfiles/issues/1
 BioX-Workflow-Command-2.3.1             https://github.com/biosails/BioX-Workflow-Command/issues/40
 ISO-639-20171206                        123828
+Test-API-0.008                          https://github.com/dagolden/Test-API/issues/7,https://github.com/dagolden/Test-API/pull/6
+Test-Vars-0.014                         https://github.com/houseabsolute/p5-Test-Vars/pull/34
