@@ -3752,3 +3752,4 @@ BioX-Workflow-Command-2.3.1             https://github.com/biosails/BioX-Workflo
 ISO-639-20171206                        123828
 Test-API-0.008                          https://github.com/dagolden/Test-API/issues/7,https://github.com/dagolden/Test-API/pull/6
 Test-Vars-0.014                         https://github.com/houseabsolute/p5-Test-Vars/pull/34
+PDL-2.018                               https://rt.perl.org/Public/Bug/Display.html?id=132385#txn-1510101
