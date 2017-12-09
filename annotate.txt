@@ -1459,7 +1459,6 @@ IO-Event-0.813                          92200
 DB-SPEEDYB-0.1                          110300
 CGI-Application-Plugin-ViewCode-1.02    73317
 Syntax-Feature-Function-0.002           110304
-Geo-GML-0.16                            110311
 Net-FTP-Simple-0.0007                   110315
 HTML-Seamstress-6.112830                110316
 WebService-Google-Contact-0.1           39234
@@ -2283,7 +2282,6 @@ Net-DirectConnect-TigerHash-0.08        117264
 Finance-YahooJPN-Quote-1.08             117251
 Acme-Hidek-44.0                         https://rt.perl.org/rt3/Ticket/Display.html?id=128139,117253
 Git-Gitalist-0.000003                   103277
-Cond-Expr-0.04                          117254
 warnings-pedantic-0.02                  117256
 Devel-ModInfo-2.04                      117266
 Devel-PatchPerl-Plugin-Cygwin-v0.0.1    117267
@@ -2376,7 +2374,6 @@ Haineko-0.2.16                          117383
 XML-RPC-Fast-0.8                        waiting for newer URI::Escape than 1.61,117384
 Array-Base-0.005                        https://rt.perl.org/rt3/Ticket/Display.html?id=128179,117385
 optimizer-0.08                          https://rt.perl.org/rt3/Ticket/Display.html?id=128179,117387
-App-ZofCMS-1.001006                     https://rt.perl.org/rt3/Ticket/Display.html?id=128139,https://github.com/zoffixznet/App-ZofCMS/issues/11
 Bio-Phylo-Beagle-0.03                   113941
 Telephone-Mnemonic-US-0.07              117390,117391
 Text-Summarize-0.50                     75845,117392
@@ -2479,7 +2476,6 @@ Params-Validate-Aggregated-0.05         117510
 WWW-Shorten-PunyURL-0.03                102934
 Cache-Memcached-Tags-0.02               45827
 Data-Transform-SSL-0.03                 75854,75854
-AnyEvent-XMLRPC-0.03                    117514
 Class-DOES-1.00                         https://rt.perl.org/rt3/Ticket/Display.html?id=128139,117515
 Bio-PrimerDesigner-0.07                 85968
 Git-SVNReplay-1.0214                    117516
@@ -3230,7 +3226,6 @@ eBay-API-0.25                           121392
 Farabi-0.47                             https://github.com/azawawi/farabi/issues/25
 LaTeXML-Plugin-LtxMojo-0.4              121393
 Minion-Backend-Storable-5.083           https://github.com/niczero/minion-backend-storable/issues/4
-Mojar-Cron-0.341                        https://github.com/niczero/mojar-cron/issues/2
 Mojo-Cloudflare-0.04                    https://github.com/jhthorsen/mojo-cloudflare/issues/4
 Mojo-Cloudstack-0.07                    121394
 Mojo-CSV-1.001002                       https://github.com/zoffixznet/Mojo-CSV/issues/4
@@ -3649,7 +3644,6 @@ WebService-KVV-Live-Stop-0.005          https://github.com/athreef/WebService-KV
 Net-MAC-Vendor-1.262                    https://github.com/briandfoy/net-mac-vendor/issues/26
 lsn-data-hub-05.00297                   no bugtracker, unescaped left brace in regex
 Data-RecordStore-2.01                   123458
-XML-Liberal-0.30                        119940
 Class-Attrib-1.07                       123457
 POE-Filter-SSL-0.35                     122573
 Test2-Harness-0.001028                  https://github.com/Test-More/Test2-Harness/issues/41
