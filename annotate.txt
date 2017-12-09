@@ -3755,3 +3755,4 @@ Test-Vars-0.014                         https://github.com/houseabsolute/p5-Test
 PDL-2.018                               https://rt.perl.org/Public/Bug/Display.html?id=132385#txn-1510101
 Hash-Match-v0.6.1                       https://github.com/robrwo/Hash-Match/issues/7
 AnyEvent-HTTP-2.23                      https://rt.perl.org/Public/Bug/Display.html?id=132142,https://www.nntp.perl.org/group/perl.perl5.porters/2017/11/msg247426.html
+Devel-TraceMethods-1.00                 123667
