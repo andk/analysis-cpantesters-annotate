@@ -2257,7 +2257,6 @@ Encode-ISO2022-0.04                     117157
 GenOO-1.5.0                             https://github.com/genoo/GenOO/issues/12
 Gnuplot-Simple-0.011                    117178
 Apache2-ASP-2.46                        117180
-Prima-1.48                              117182
 Alien-NSS-0.23                          https://github.com/0xxon/alien-nss/issues/5
 XML-XSH2-2.1.25                         117196
 WWW-Scraper-ISBN-ORA_Driver-0.22        117200
@@ -2980,7 +2979,6 @@ HTTP-MobileAgent-0.36                   119726
 HTTP-MobileAttribute-0.23               119727,119728
 Template-Declare-0.47                   119731
 String-Diff-0.07                        https://github.com/yappo/p5-String-Diff/issues/4,https://github.com/yappo/p5-String-Diff/issues/7
-App-CharmKit-2.07                       https://github.com/charmkit/App-CharmKit/issues/6,https://github.com/charmkit/App-CharmKit/issues/7
 Net-AmazonS3-Simple-0.1.2               https://github.com/JaSei/Net-AmazonS3-Simple/issues/3
 Net-Async-Tangence-0.13                 119750
 Stepford-Grapher-1.01                   https://github.com/maxmind/Stepford-Grapher/issues/5
@@ -3153,7 +3151,6 @@ OOTools-2.4                             98859
 App-Stacktrace-0.09                     121262
 Web-Scraper-0.38                        https://github.com/miyagawa/web-scraper/issues/21
 WWW-Pastebin-PastebinCom-Create-1.003   121265
-PDL-2.017                               https://sourceforge.net/p/pdl/bugs/432/
 Async-Simple-Pool-0.06                  120692
 B-C-1.55                                121270
 Bank-Holidays-0.86                      121271
@@ -3610,7 +3607,6 @@ WWW-API-Bitfinex-0.01                   123392
 App-Anchr-0.4.3                         https://github.com/wang-q/App-Anchr/issues/1
 Clustericious-1.26                      https://github.com/clustericious/Clustericious/issues/44
 Module-CheckDep-Version-0.08            123393
-OpenAPI-Client-0.09                     123394
 Text-Aspell-0.09                        122910
 GraphQL-0.18                            https://github.com/graphql-perl/graphql-perl/issues/4
 FSM-Basic-0.12                          123412
