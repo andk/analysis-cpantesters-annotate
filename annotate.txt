@@ -3757,3 +3757,4 @@ Hash-Match-v0.6.1                       https://github.com/robrwo/Hash-Match/iss
 AnyEvent-HTTP-2.23                      https://rt.perl.org/Public/Bug/Display.html?id=132142,https://www.nntp.perl.org/group/perl.perl5.porters/2017/11/msg247426.html
 Devel-TraceMethods-1.00                 123667
 Log-Trace-1.070                         49409,https://rt.perl.org/Public/Bug/Display.html?id=132252
+Prima-1.52                              https://rt.perl.org/Public/Bug/Display.html?id=132252
