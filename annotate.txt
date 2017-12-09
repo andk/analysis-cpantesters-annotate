@@ -3758,3 +3758,6 @@ AnyEvent-HTTP-2.23                      https://rt.perl.org/Public/Bug/Display.h
 Devel-TraceMethods-1.00                 123667
 Log-Trace-1.070                         49409,https://rt.perl.org/Public/Bug/Display.html?id=132252
 Prima-1.52                              https://rt.perl.org/Public/Bug/Display.html?id=132252
+Data-Random-Flexible-1.01               123845
+OpenAPI-Client-0.11                     123394
+Perl-Critic-More-1.003                  123847
