@@ -3761,3 +3761,6 @@ Prima-1.52                              https://rt.perl.org/Public/Bug/Display.h
 Data-Random-Flexible-1.01               123845
 OpenAPI-Client-0.11                     123394
 Perl-Critic-More-1.003                  123847
+Ryu-Async-0.008                         https://github.com/team-at-cpan/Ryu-Async/issues/2
+Map-Tube-Milan-0.002                    https://github.com/mfontani/Map-Tube-Milan/issues/2
+App-CharmKit-2.08                       undeclared dependency, no issue tracker
