@@ -3753,3 +3753,4 @@ Ryu-Async-0.008                         123430,https://github.com/team-at-cpan/R
 Map-Tube-Milan-0.002                    https://github.com/mfontani/Map-Tube-Milan/issues/2
 App-CharmKit-2.08                       undeclared dependency, no issue tracker
 File-Rotate-Simple-v0.2.1               https://github.com/robrwo/File-Rotate-Simple/issues/10
+PerlX-bash-0.01                         https://github.com/barefootcoder/perlx-bash/issues/2
