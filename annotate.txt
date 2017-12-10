@@ -3734,7 +3734,6 @@ Functional-Utility-1.02                 https://github.com/belden/perl-functiona
 Glib-1.326                              123813,https://rt.perl.org/Public/Bug/Display.html?id=132252
 Prty-1.121                              https://rt.perl.org/Public/Bug/Display.html?id=132252
 B-RecDeparse-0.10                       https://rt.perl.org/Ticket/Display.html?id=132528
-File-Rotate-Simple-v0.2.0               https://github.com/robrwo/File-Rotate-Simple/issues/8
 Catalyst-View-Template-Lace-0.012       121385,https://github.com/jjn1056/Catalyst-View-Template-Lace/issues/1
 JCM-Boilerplate-1.018                   https://github.com/jmaslak/dotfiles/issues/1
 BioX-Workflow-Command-2.3.1             https://github.com/biosails/BioX-Workflow-Command/issues/40
@@ -3753,3 +3752,4 @@ Perl-Critic-More-1.003                  123847
 Ryu-Async-0.008                         123430,https://github.com/team-at-cpan/Ryu-Async/issues/2
 Map-Tube-Milan-0.002                    https://github.com/mfontani/Map-Tube-Milan/issues/2
 App-CharmKit-2.08                       undeclared dependency, no issue tracker
+File-Rotate-Simple-v0.2.1               https://github.com/robrwo/File-Rotate-Simple/issues/10
