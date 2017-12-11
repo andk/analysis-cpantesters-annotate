@@ -645,7 +645,6 @@ Text-StemTagPOS-0.61                    98869
 Text-Truncate-1.06                      98445
 Test-Class-0.46                         https://github.com/Test-More/test-more/issues/445
 Carp-Assert-0.21                        https://github.com/Test-More/test-more/issues/447
-Data-Util-0.63                          99102,99097,https://rt.perl.org/rt3/Ticket/Display.html?id=122834
 Scalar-Util-Numeric-0.22                https://rt.perl.org/rt3/Ticket/Display.html?id=122843
 Test-Regression-0.07                    https://rt.perl.org/rt3/Ticket/Display.html?id=122845
 App-MusicTools-1.17                     99168
@@ -2259,7 +2258,6 @@ Alien-NSS-0.23                          https://github.com/0xxon/alien-nss/issue
 XML-XSH2-2.1.25                         117196
 WWW-Scraper-ISBN-ORA_Driver-0.22        117200
 Net--RabbitMQ-0.2.8                     102508
-Tie-Hash-Check-0.04                     117194
 invoker-0.34                            https://rt.perl.org/Public/Bug/Display.html?id=128179,117215
 JSON-XS-Sugar-1.01                      https://github.com/maxmind/JSON-XS-Sugar-perl/issues/4
 Tree-Binary-XS-0.03                     117220
@@ -2277,7 +2275,6 @@ Mojolicious-Plugin-Browserify-0.06      https://github.com/jhthorsen/mojolicious
 SNMP-Trapinfo-1.03                      https://rt.perl.org/rt3/Ticket/Display.html?id=128139,117249
 Try-Tiny-Except-0.01                    https://github.com/tfoertsch/perl-Try-Tiny-Except/issues/1
 Web-API-Mock-0.01                       https://github.com/takihito/Web-API-Mock/issues/10
-Net-DirectConnect-TigerHash-0.08        117264
 Finance-YahooJPN-Quote-1.08             117251
 Acme-Hidek-44.0                         https://rt.perl.org/rt3/Ticket/Display.html?id=128139,117253
 Git-Gitalist-0.000003                   103277
@@ -3649,7 +3646,6 @@ Test2-Harness-0.001028                  https://github.com/Test-More/Test2-Harne
 Tk-StatusBar-0.04                       123473
 Business-OnlinePayment-CardConnect-0.004 123475
 Test-Taint-1.06                         119897
-Acme-Ford-Prefect2-1.2900               https://github.com/Perl5-Alien/Acme-Ford-Prefect2/issues/1
 Devel-Chitin-0.11                       https://rt.perl.org/Ticket/Display.html?id=132385
 Bit-Vector-7.4                          https://rt.perl.org/Ticket/Display.html?id=132385
 Javascript-Closure-0.09                 117455
@@ -3704,7 +3700,6 @@ SVG-2.78                                123705
 Getopt-Flex-1.07                        123715
 criticism-1.02                          123714
 Clownfish-0.6.2                         https://issues.apache.org/jira/browse/CLOWNFISH-119
-Data-TableReader-0.002                  123732
 Martian-0.06                            123733
 GitHub-Crud-20171124                    123740
 MsgPack-RPC-2.0.0                       https://github.com/yanick/MsgPack-RPC/issues/9,https://github.com/yanick/MsgPack-RPC/issues/10
