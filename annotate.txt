@@ -3760,3 +3760,4 @@ App-sdif-3.2.2                          https://github.com/kaz-utashiro/sdif-too
 Catalyst-Plugin-Upload-Image-Magick-0.04 123861
 MojoX-UserAgent-Throttler-v1.0.2        https://github.com/powerman/perl-MojoX-UserAgent-Throttler/issues/2
 Git-Hooks-2.2.0                         https://github.com/gnustavo/Git-Hooks/issues/44
+Set-IntSpan-Partition-0.03              123879
