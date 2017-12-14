@@ -112,7 +112,6 @@ Data-OpenGraph-0.01                     65024
 Sub-Op-0.02                             64998
 Method-Cumulative-0.05                  64993
 Net-SNMP-v6.0.1                         pjacklam set AUTHOR_TESTING
-Module-Manifest-1.08                    pjacklam set AUTHOR_TESTING
 Data-TxnBuffer-0.05                     https://github.com/schwern/test-more/issues/issue/130
 DBIx-PasswordIniFile-2.00               65320, 65321
 jsonpretty-1                            65638
@@ -167,7 +166,6 @@ Perldoc-0.20                            72191
 Proc-Class-0.05                         72043
 DBIx-Encoding-0.06                      52663
 SQLx-Core-0.11                          gone from CPAN
-PITA-Image-0.60                         72235
 RPC-Async-1.05                          72325
 Class-Value-Net-1.110250                72367
 Table-Wave-0.02                         72510
@@ -333,7 +331,6 @@ Unicode-Support-0.001                   79669
 Data-Rx-TypeBundle-Rx-0.103520          79743
 Mojolicious-Plugin-ParamCondition-0.003 79768
 WebService-Pastefire-0.02               79857
-ORDB-CPANMeta-Generator-0.12            67599
 DataCube-1.01                           79957
 HTTP-Response-Encoding-0.06             80051
 Clone-Fast-0.97                         43248
@@ -680,7 +677,6 @@ Number-Format-1.73                      97607
 SUPER-1.20120705                        https://github.com/Test-More/test-more/issues/476
 Class-Data-ConfigHash-0.00002           https://github.com/Test-More/test-more/issues/475
 Graphics-Color-0.29                     https://github.com/Test-More/test-more/issues/478
-Aspect-1.04                             https://github.com/Test-More/test-more/issues/474
 Test-Leaner-0.05                        https://github.com/Test-More/test-more/issues/484
 Parse-RPN-2.85                          88671
 Acme-PrettyCure-0.1                     https://github.com/kan/p5-acme-prettycure/issues/5
@@ -730,7 +726,6 @@ Switch-2.17                             96753
 Parse-MediaWikiDump-1.0.6               https://rt.perl.org/rt3/Ticket/Display.html?id=123462
 XML-XML2JSON-0.06                       101082
 Hailo-0.72                              92795,101085
-ORLite-Mirror-1.24                      101104
 B-Lint-1.20                             101115
 CatalystX-Resource-0.02                 https://github.com/davewood/catalystx-resource/issues/3
 Data-Dump-XML-1.19                      81637
@@ -756,8 +751,6 @@ mousex-getopt-0.35                      https://github.com/gfx/mousex-getopt/iss
 File-Locate-Iterator-23                 https://rt.perl.org/rt3/Ticket/Display.html?id=123739
 IO-Handle-Util-0.01                     https://rt.perl.org/rt3/Ticket/Display.html?id=123739
 Iterator-IO-0.02                        https://rt.perl.org/rt3/Ticket/Display.html?id=123739
-Xtract-0.16                             https://github.com/gfx/p5-Mouse/issues/38
-FBP-0.41                                https://github.com/gfx/p5-Mouse/issues/38
 Slurp-0.4                               https://rt.perl.org/rt3/Ticket/Display.html?id=123739
 Dist-Zilla-PluginBundle-RBO-0.002       101998
 Catalyst-View-Tenjin-0.050001           102000
@@ -794,7 +787,6 @@ TryCatch-1.003002                       103263
 AnyMQ-0.35                              95255
 Catalyst-Manual-Monthly-0.04            103294
 String-Incremental-0.01                 https://github.com/issm/p5-String-Incremental/issues/5
-Test-POE-Stopping-1.09                  103313
 here-0.03                               103322
 Kafka-0.8010                            103330
 HTML-FormHandlerX-Form-JQueryValidator-0.05 103324
@@ -816,7 +808,6 @@ Redis-Queue-0.01                        103553
 Devel-Leak-Cb-0.04                      103549
 POE-API-Peek-2.20                       103803
 BackPAN-Index-0.42                      probably temporary network/webservice problem
-CPAN-Mini-Extract-1.23                  probably temporary network/webservice problem
 Time-Piece-Over24-0.016                 103160
 Catalyst-View-Mason-0.19                102381
 Finance-OFX-Parse-Simple-0.07           96918
@@ -1394,7 +1385,6 @@ Python-Decorator-0.03                   109977
 Kwiki-DB-0.02                           109979
 Text-Decorator-1.65                     109981
 Parallel-MapReduce-0.09                 109995
-OpenGL-List-0.01                        109996
 Biblio-Refbase-0.04                     https://github.com/hma/Biblio-Refbase/issues/1,https://github.com/hma/Biblio-Refbase/issues/1
 WebService-Recruit-FromA-0.0.1          110017
 Illumos-Zones-0.1.1                     https://github.com/hadfl/Illumos-Zones/issues/3
@@ -2077,7 +2067,6 @@ Regexp-Whitespace-0.001_1-TRIAL         fails for perl >= 5.18, no issue tracker
 MooseX-Getopt-0.71                      four fails with dated toolchain, reported and fixed
 Perl6-Pod-0.72                          116024
 Test-Dependencies-0.21                  https://github.com/ehuelsmann/perl-Test-Dependencies/issues/5
-Net-CampaignMonitor-v2.2.1              https://github.com/campaignmonitor/createsend-perl/issues/16
 Plift-0.01                              https://github.com/cafe01/template-plift/issues/1
 Math-BigInt-1.999725                    116123
 Devel-Declare-0.006018                  https://rt.perl.org/Ticket/Display.html?id=128621
@@ -2416,7 +2405,6 @@ DBD-Sys-0.102                           117450
 DBIx-QueryByName-0.18                   67034
 Devel-EdTrace-0.95                      117451
 Finance-Quote-Sberbank-0.04             117452
-Convert-EastAsianWidth-1.02             https://rt.perl.org/rt3/Ticket/Display.html?id=122121,117453
 DataWarehouse-0.04                      117454
 Module-Build-JSAN-Installable-0.13      117456
 Ser-BinRPC-0.01                         117457
@@ -2429,7 +2417,6 @@ Mojolicious-Plugin-SassRenderer-0.02    96120
 Sys-Hwloc-0.10                          117468
 XUL-Gui-0.63                            https://rt.perl.org/rt3/Ticket/Display.html?id=128139,117469
 Clone-Closure-0.06                      69111,117470
-Devel-Hints-0.21                        76398
 Calendar-Model-0.04                     95963
 Alien-QtSmoke-4.3.3                     117483
 Devel-StackBlech-0.06                   112296
@@ -3170,7 +3157,6 @@ Encode-Detect-Upload-0.04               99315
 Alien-GCrypt-1.6.5.0                    https://github.com/ajgb/alien-gcrypt/issues/2
 App-Basis-Email-0.3                     121312
 Alien-Lua-v5.2.2.2                      121313
-App-Midgen-0.34                         https://github.com/kevindawson/App-Midgen/issues/10
 Finance-TickerSymbols-2.01              121314
 Time-C-0.024                            https://github.com/pink-mist/Time-C/issues/3
 App-perluse-0.0102                      https://github.com/dex4er/perluse/issues/2
@@ -3397,10 +3383,8 @@ Log-Dispatch-Growl-1.0.0                https://github.com/gugod/Log-Dispatch-Gr
 Debug-Flags-0.26                        122307,122309
 KSx-Highlight-Summarizer-0.06           122308
 KSx-Search-WildCardQuery-0.05           122308
-LWP-Online-1.08                         114154,122310
 Perl-Dist-1.16                          122312
 Net-Prober-0.16                         122313
-CPAN-Mini-Visit-1.15                    122314
 anarch-0.04                             122315
 Dancer2-Plugin-Locale-0.07              122318
 Catalyst-View-Seamstress-2.2            122319
@@ -3471,7 +3455,6 @@ DateTime-Format-Human-Duration-Simple-0.02 https://github.com/toreau/DateTime-Fo
 Criteria-Compile-0.047                  122625
 App-Module-Template-0.11                122635
 Audio-SndFile-0.09                      122636,122637
-PITA-XML-0.52                           81592,122638,122639
 Crypt-PKCS11-1.03                       122640
 Log-Journald-0.20                       122642
 Net-Social-Mapper-0.5                   122643
@@ -3489,7 +3472,6 @@ GnuPG-0.19                              117002
 HPC-Runner-Command-Plugin-Logger-Sqlite-0.01 122705
 Chart-HeatMap-Simple-0.01               122721
 Net-Icecast2-0.005                      https://github.com/R3VoLuT1OneR/Net-Icecast2/issues/2
-PITA-Scheme-0.43                        122725
 CGI-Application-Plugin-BREAD-0.12_2     122726
 HTML-Pager-0.03                         122727
 GD-Map-1.00                             122729
@@ -3760,3 +3742,87 @@ Catalyst-Plugin-Upload-Image-Magick-0.04 123861
 MojoX-UserAgent-Throttler-v1.0.2        https://github.com/powerman/perl-MojoX-UserAgent-Throttler/issues/1,https://github.com/powerman/perl-MojoX-UserAgent-Throttler/issues/2
 Git-Hooks-2.2.0                         https://github.com/gnustavo/Git-Hooks/issues/44
 Set-IntSpan-Partition-0.03              123879
+ADAMK-Release-0.02                      https://rt.cpan.org/Ticket/Display.html?id=123867
+Archive-Builder-1.16                    https://rt.cpan.org/Ticket/Display.html?id=123867
+Aspect-1.04                             https://github.com/Test-More/test-more/issues/474,https://rt.cpan.org/Ticket/Display.html?id=123867
+Aspect-Library-Memoize-1.00             https://rt.cpan.org/Ticket/Display.html?id=123867
+Aspect-Library-NYTProf-1.00             https://rt.cpan.org/Ticket/Display.html?id=123867
+Aspect-Library-Profiler-1.00            https://rt.cpan.org/Ticket/Display.html?id=123867
+Aspect-Library-TestClass-1.00           https://rt.cpan.org/Ticket/Display.html?id=123867
+Aspect-Library-Timer-1.10               https://rt.cpan.org/Ticket/Display.html?id=123867
+Aspect-Library-Trace-1.00               https://rt.cpan.org/Ticket/Display.html?id=123867
+Business-AU-ABN-1.09                    https://rt.cpan.org/Ticket/Display.html?id=123867
+CPAN-Mini-Extract-1.23                  probably temporary network/webservice problem,https://rt.cpan.org/Ticket/Display.html?id=123867
+CPAN-Mini-Visit-1.15                    122314,https://rt.cpan.org/Ticket/Display.html?id=123867
+CPAN-WWW-Top100-Generator-0.10          https://rt.cpan.org/Ticket/Display.html?id=123867
+CPANDB-0.18                             https://rt.cpan.org/Ticket/Display.html?id=123867
+Chart-Math-Axis-1.06                    https://rt.cpan.org/Ticket/Display.html?id=123867
+Class-Adapter-1.08                      https://rt.cpan.org/Ticket/Display.html?id=123867
+Class-Autouse-2.01                      https://rt.cpan.org/Ticket/Display.html?id=123867
+Devel-Leak-Module-0.02                  https://rt.cpan.org/Ticket/Display.html?id=123867
+Devel-Leak-Object-1.01                  https://rt.cpan.org/Ticket/Display.html?id=123867
+FBP-0.41                                https://github.com/gfx/p5-Mouse/issues/38,https://rt.cpan.org/Ticket/Display.html?id=123867
+FBP-Demo-0.03                           https://rt.cpan.org/Ticket/Display.html?id=123867
+FBP-Perl-0.78                           https://rt.cpan.org/Ticket/Display.html?id=123867
+File-BLOB-1.08                          https://rt.cpan.org/Ticket/Display.html?id=123867
+File-Find-Rule-PPI-1.06                 https://rt.cpan.org/Ticket/Display.html?id=123867
+File-Find-Rule-VCS-1.08                 https://rt.cpan.org/Ticket/Display.html?id=123867
+GitHub-Extract-0.02                     https://rt.cpan.org/Ticket/Display.html?id=123867
+HTML-InfoVis-0.03                       https://rt.cpan.org/Ticket/Display.html?id=123867
+HTTP-Online-0.02                        https://rt.cpan.org/Ticket/Display.html?id=123867
+Imager-Search-1.01                      https://rt.cpan.org/Ticket/Display.html?id=123867
+JSAN-Shell-2.04                         https://rt.cpan.org/Ticket/Display.html?id=123867
+LWP-Online-1.08                         114154,122310,https://rt.cpan.org/Ticket/Display.html?id=123867
+Module-Manifest-1.08                    pjacklam set AUTHOR_TESTING,https://rt.cpan.org/Ticket/Display.html?id=123867
+ORDB-CPANMeta-Generator-0.12            67599,https://rt.cpan.org/Ticket/Display.html?id=123867
+ORDB-CPANRT-0.04                        https://rt.cpan.org/Ticket/Display.html?id=123867
+ORDB-CPANRelease-0.01                   https://rt.cpan.org/Ticket/Display.html?id=123867
+ORDB-CPANTS-0.05                        https://rt.cpan.org/Ticket/Display.html?id=123867
+ORDB-CPANUploads-1.08                   https://rt.cpan.org/Ticket/Display.html?id=123867
+ORLite-1.98                             https://rt.cpan.org/Ticket/Display.html?id=123867
+ORLite-Migrate-1.10                     https://rt.cpan.org/Ticket/Display.html?id=123867
+ORLite-Mirror-1.24                      101104,https://rt.cpan.org/Ticket/Display.html?id=123867
+ORLite-Pod-0.11                         https://rt.cpan.org/Ticket/Display.html?id=123867
+Object-Destroyer-2.01                   https://rt.cpan.org/Ticket/Display.html?id=123867
+Object-Signature-1.07                   https://rt.cpan.org/Ticket/Display.html?id=123867
+OpenGL-List-0.01                        109996,https://rt.cpan.org/Ticket/Display.html?id=123867
+OpenGL-RWX-0.02                         https://rt.cpan.org/Ticket/Display.html?id=123867
+Oz-0.01                                 https://rt.cpan.org/Ticket/Display.html?id=123867
+PITA-0.60                               https://rt.cpan.org/Ticket/Display.html?id=123867
+PITA-Image-0.60                         72235,https://rt.cpan.org/Ticket/Display.html?id=123867
+PITA-Scheme-0.43                        122725,https://rt.cpan.org/Ticket/Display.html?id=123867
+PITA-XML-0.52                           81592,122638,122639,https://rt.cpan.org/Ticket/Display.html?id=123867
+POE-Declare-0.59                        https://rt.cpan.org/Ticket/Display.html?id=123867
+POE-Declare-HTTP-Client-0.05            https://rt.cpan.org/Ticket/Display.html?id=123867
+POE-Declare-HTTP-Online-0.02            https://rt.cpan.org/Ticket/Display.html?id=123867
+POE-Declare-HTTP-Server-0.05            https://rt.cpan.org/Ticket/Display.html?id=123867
+POE-Declare-Log-File-0.01               https://rt.cpan.org/Ticket/Display.html?id=123867
+Padre-Plugin-FormBuilder-0.04           https://rt.cpan.org/Ticket/Display.html?id=123867
+Perl-Shell-0.04                         https://rt.cpan.org/Ticket/Display.html?id=123867
+Process-0.30                            https://rt.cpan.org/Ticket/Display.html?id=123867
+SDL-Tutorial-3DWorld-0.33               https://rt.cpan.org/Ticket/Display.html?id=123867
+SMS-Send-1.06                           https://rt.cpan.org/Ticket/Display.html?id=123867
+Test-POE-Stopping-1.09                  103313,https://rt.cpan.org/Ticket/Display.html?id=123867
+Xtract-0.16                             https://github.com/gfx/p5-Mouse/issues/38,https://rt.cpan.org/Ticket/Display.html?id=123867
+YAML-Tiny-Stream-0.01                   https://rt.cpan.org/Ticket/Display.html?id=123867
+asa-1.03                                https://rt.cpan.org/Ticket/Display.html?id=123867
+pler-1.06                               https://rt.cpan.org/Ticket/Display.html?id=123867
+Convert-EastAsianWidth-1.02             https://rt.perl.org/rt3/Ticket/Display.html?id=122121,117453,https://rt.cpan.org/Ticket/Display.html?id=123867
+Devel-Hints-0.21                        76398,https://rt.cpan.org/Ticket/Display.html?id=123867
+YiJing-0.10                             https://rt.cpan.org/Ticket/Display.html?id=123867
+Locale-Msgfmt-0.15                      https://rt.cpan.org/Ticket/Display.html?id=123867
+RT-Extension-MandatoryFields-0.6        https://rt.cpan.org/Ticket/Display.html?id=123867
+RT-Extension-ReferenceIDoitObjects-1.00 https://rt.cpan.org/Ticket/Display.html?id=123867
+App-Midgen-0.34                         https://github.com/kevindawson/App-Midgen/issues/10,https://rt.cpan.org/Ticket/Display.html?id=123867
+Padre-Plugin-Autodia-0.04               https://rt.cpan.org/Ticket/Display.html?id=123867
+Padre-Plugin-Git-0.12                   https://rt.cpan.org/Ticket/Display.html?id=123867
+Padre-Plugin-Nopaste-0.08               https://rt.cpan.org/Ticket/Display.html?id=123867
+Padre-Plugin-SpellCheck-1.33            https://rt.cpan.org/Ticket/Display.html?id=123867
+Padre-Plugin-YAML-0.10                  https://rt.cpan.org/Ticket/Display.html?id=123867
+Padre-Plugin-Swarm-0.2                  https://rt.cpan.org/Ticket/Display.html?id=123867
+Text-FindIndent-0.11                    https://rt.cpan.org/Ticket/Display.html?id=123867
+Module-Install-PerlTar-1.001            https://rt.cpan.org/Ticket/Display.html?id=123867
+PPI-XS-0.904                            https://rt.cpan.org/Ticket/Display.html?id=123867
+Net-CampaignMonitor-v2.2.1              https://github.com/campaignmonitor/createsend-perl/issues/16,https://rt.cpan.org/Ticket/Display.html?id=123867
+Module-Install-ORLite2Pod-1.000         https://rt.cpan.org/Ticket/Display.html?id=123867
+MooseX-Atom-0.02                        https://rt.cpan.org/Ticket/Display.html?id=123867
