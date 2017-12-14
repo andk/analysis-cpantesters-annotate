@@ -3258,7 +3258,6 @@ Audio-TagLib-1.67                       114586
 JSON-RPC-Spec-v1.0.6                    https://github.com/nqounet/p5-json-rpc-spec/issues/6
 Math-Polynomial-Solve-2.75              121649
 Modern-PBP-Perl-1.240                   121650
-MojoX-UserAgent-Throttler-v1.0.2        https://github.com/powerman/perl-MojoX-UserAgent-Throttler/issues/1
 TestRail-API-0.039                      121643
 Acme-CPANAuthors-Turkish-0.23           121657
 Devel-PPPort-3.35                       https://github.com/mhx/Devel-PPPort/issues/49
@@ -3758,6 +3757,6 @@ Blessed-Merge-0.05                      123858
 Markdown-Pod-0.006                      https://github.com/keedi/Markdown-Pod/issues/8
 App-sdif-3.2.2                          https://github.com/kaz-utashiro/sdif-tools/issues/2
 Catalyst-Plugin-Upload-Image-Magick-0.04 123861
-MojoX-UserAgent-Throttler-v1.0.2        https://github.com/powerman/perl-MojoX-UserAgent-Throttler/issues/2
+MojoX-UserAgent-Throttler-v1.0.2        https://github.com/powerman/perl-MojoX-UserAgent-Throttler/issues/1,https://github.com/powerman/perl-MojoX-UserAgent-Throttler/issues/2
 Git-Hooks-2.2.0                         https://github.com/gnustavo/Git-Hooks/issues/44
 Set-IntSpan-Partition-0.03              123879
