@@ -3828,3 +3828,6 @@ Module-Install-ORLite2Pod-1.000         123867
 MooseX-Atom-0.02                        123867
 Module-Install-1.18                     123867
 Tribology-Lubricant-0.01                123882
+XML-XSH-1.8.5                           123866
+App-sdif-3.2.3                          https://github.com/kaz-utashiro/sdif-tools/issues/2
+Panda-Time-3.1.4                        123881
