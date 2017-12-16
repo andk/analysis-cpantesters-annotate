@@ -923,7 +923,6 @@ CGI-Simple-1.115                        103039
 Email-ARF-0.010                         https://github.com/rjbs/Email-ARF/issues/2
 HTML-Element-Replacer-0.08              https://github.com/mixedconnections/html-element-replacer/issues/1
 HTTP-Server-Brick-0.1.7                 107203
-XML-XSH-1.8.4                           deprecated
 Makefile-Parser-0.216                   77738
 Mojolicious-Plugin-RedisSubscriber-0.0.1 107207
 WWW-SFDC-0.37                           105992
@@ -3737,7 +3736,6 @@ IPC-Cache-0.02                          123852
 ClearPress-v477.1.4                     122425
 Blessed-Merge-0.05                      123858
 Markdown-Pod-0.006                      https://github.com/keedi/Markdown-Pod/issues/8
-App-sdif-3.2.2                          https://github.com/kaz-utashiro/sdif-tools/issues/2
 Catalyst-Plugin-Upload-Image-Magick-0.04 123861
 MojoX-UserAgent-Throttler-v1.0.2        https://github.com/powerman/perl-MojoX-UserAgent-Throttler/issues/1,https://github.com/powerman/perl-MojoX-UserAgent-Throttler/issues/2
 Git-Hooks-2.2.0                         https://github.com/gnustavo/Git-Hooks/issues/44
