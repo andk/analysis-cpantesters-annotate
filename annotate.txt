@@ -3832,3 +3832,4 @@ Panda-Time-3.1.4                        123881
 Catmandu-MARC-1.23                      https://github.com/LibreCat/Catmandu-MARC/commit/855037a8cb93c098f3aeeab0e1f9ad89283403bc#r26305354
 WWW-Freshmeat-0.22                      123889
 App-Cme-1.025                           https://github.com/dod38fr/cme-perl/issues/3
+Dancer2-Plugin-DebugDump-0.21           123893
