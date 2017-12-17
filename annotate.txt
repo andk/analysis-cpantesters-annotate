@@ -3833,3 +3833,4 @@ Catmandu-MARC-1.23                      https://github.com/LibreCat/Catmandu-MAR
 WWW-Freshmeat-0.22                      123889
 App-Cme-1.025                           https://github.com/dod38fr/cme-perl/issues/3
 Dancer2-Plugin-DebugDump-0.21           123893
+Mail-SpamAssassin-3.4.1.                https://bz.apache.org/SpamAssassin/show_bug.cgi?id=7522
