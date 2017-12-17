@@ -3833,3 +3833,6 @@ WWW-Freshmeat-0.22                      123889
 App-Cme-1.025                           https://github.com/dod38fr/cme-perl/issues/3
 Dancer2-Plugin-DebugDump-0.22           123893
 Mail-SpamAssassin-3.4.1.                https://bz.apache.org/SpamAssassin/show_bug.cgi?id=7265,https://bz.apache.org/SpamAssassin/show_bug.cgi?id=7522
+FSM-Basic-0.14                          123894
+Yancy-0.007                             https://github.com/preaction/Yancy/issues/4
+Test-Roo-DataDriven-v0.2.0              https://github.com/robrwo/Test-Roo-DataDriven/issues/6
