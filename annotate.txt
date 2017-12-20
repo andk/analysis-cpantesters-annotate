@@ -3847,3 +3847,9 @@ Test-Ranger-v0.0.4                      https://rt.perl.org/rt3/Ticket/Display.h
 Org-Parser-0.54                         https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 XML-Assert-0.03                         https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Unicode-Tussle-1.111                    https://rt.perl.org/rt3/Ticket/Display.html?id=132594
+Zonemaster-LDNS-1.0.1                   123902
+HTTP-SimpleLinkChecker-1.165            https://github.com/briandfoy/http-simplelinkchecker/issues/3
+Alien-MuPDF-0.009                       123916
+Mail-Milter-Authentication-v1.1.6       https://github.com/fastmail/authentication_milter/issues/9
+WWW-Shorten-ptl-0.04                    123924
+WWW-Shorten-URLchen-v0.0.3              123925
