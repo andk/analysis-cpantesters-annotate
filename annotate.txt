@@ -3115,7 +3115,6 @@ Crypt-OpenSSL-SMIME-0.05                121212
 Crypt-Keyczar-0.08                      121213
 Crypt-SMimeEngine-0.06                  121215
 OpenCA-OpenSSL-2.0.29                   121216
-Alien-MuPDF-0.007                       121218
 GnuPG-Interface-0.52                    102651
 Lingua-RU-Money-XS-0.03                 121227
 OOTools-2.4                             98859
