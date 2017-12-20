@@ -2839,7 +2839,6 @@ WWW-Search-PubMedLite-0.05              118625
 WWW-MSA-Hadith-1.01                     118626
 WWW-Scraper-ISBN-ISBNnu_Driver-0.24     118627
 Schedule-Cron-1.02_3                    117437
-Org-Parser-0.51                         118647
 Tickit-Widget-Decoration-0.004          118652
 Method-Signatures-WithDocumentation-1.000 https://github.com/zurborg/libmethod-signatures-withdocumentation-perl/issues/1
 WWW-HatenaStar-0.04                     76449
@@ -2863,7 +2862,6 @@ Magpie-1.163200                         110699
 I22r-Translate-Microsoft-0.96           118790
 MooseX-CurriedDelegation-0.003          https://github.com/RsrchBoy/moosex-currieddelegation/issues/1
 Dist-Zilla-PluginBundle-Author-RTHOMPSON-0.161990 118800
-Tangence-0.22                           118806
 Net-GNUDBSearch-1.01                    118820
 Business-OnlinePayment-Skipjack-0.05    118821
 WebService-MusicBrainz-0.94             118822
