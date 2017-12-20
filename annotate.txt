@@ -3579,7 +3579,6 @@ Clustericious-1.26                      https://github.com/clustericious/Cluster
 Module-CheckDep-Version-0.08            123393
 Text-Aspell-0.09                        122910
 GraphQL-0.18                            https://github.com/graphql-perl/graphql-perl/issues/4
-FSM-Basic-0.12                          123412
 ParseUtil-Domain-2.427                  123418
 Grammar-Graph-0.20                      123420
 Test-Applify-0.02                       123402
