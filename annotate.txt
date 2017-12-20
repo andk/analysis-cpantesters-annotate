@@ -3842,3 +3842,15 @@ DBIx-Class-Candy-0.005003               https://rt.perl.org/rt3/Ticket/Display.h
 Perinci-Sub-DepChecker-0.11             https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Regexp-Common-2017060201                https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Syntax-Keyword-Junction-0.003008        https://rt.perl.org/rt3/Ticket/Display.html?id=132594
+Async-Defer-v1.0.0                      https://rt.perl.org/rt3/Ticket/Display.html?id=132594
+JavaScript-Prepare-v0.1                 https://rt.perl.org/rt3/Ticket/Display.html?id=132594
+Data-DPath-0.57                         https://rt.perl.org/rt3/Ticket/Display.html?id=132594
+Lingua-Boolean-0.008                    https://rt.perl.org/rt3/Ticket/Display.html?id=132594
+Lingua-Boolean-Tiny-0.007               https://rt.perl.org/rt3/Ticket/Display.html?id=132594
+match-simple-0.010                      https://rt.perl.org/rt3/Ticket/Display.html?id=132594
+Number-Tolerant-1.708                   https://rt.perl.org/rt3/Ticket/Display.html?id=132594
+Tangence-0.24                           https://rt.perl.org/rt3/Ticket/Display.html?id=132594
+Test-Ranger-v0.0.4                      https://rt.perl.org/rt3/Ticket/Display.html?id=132594
+Org-Parser-0.54                         https://rt.perl.org/rt3/Ticket/Display.html?id=132594
+XML-Assert-0.03                         https://rt.perl.org/rt3/Ticket/Display.html?id=132594
+Unicode-Tussle-1.111                    https://rt.perl.org/rt3/Ticket/Display.html?id=132594
