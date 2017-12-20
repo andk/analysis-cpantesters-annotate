@@ -1992,14 +1992,11 @@ Gimp-2.31                               110704
 WWW-Scripter-Plugin-JavaScript-0.008a   110763
 Net-Address-Ethernet-1.123              110772
 Dist-Zilla-Plugin-CheckPrereqsIndexed-0.017 https://github.com/rjbs/Dist-Zilla-Plugin-CheckPrereqsIndexed/issues/19
-ActiveRecord-Simple-0.80                111358
 AXL-Client-Simple-0.01                  111412
 Mojolicious-Plugin-UnicodeNormalize-1.20150802 111430
 Dist-Zilla-Plugin-RPM-0.011             111572
-Convert-TBX-Min-0.05                    112327
 MojoX-Transaction-WebSocket76-0.04      https://github.com/dionys/mojox-transaction-websocket76/issues/3
 LMDB_File-0.09                          112225
-WebService-SonarQube-0.07               112436
 Date-Easy-0.01                          https://github.com/barefootcoder/date-easy/issues/2
 Dancer2-Plugin-Swagger2-0.003           https://github.com/dboehmer/Dancer2-Plugin-Swagger2/issues/3
 Lemonldap-NG-Portal-1.9.1               113684
@@ -2227,7 +2224,6 @@ DB-Pluggable-Dumper-0.01                117099
 ExtUtils-BundleMaker-0.006              117102
 WWW-Baidu-0.06                          117103
 NCC-0.001                               117106
-Mojolicious-Plugin-SPNEGO-0.2.3         https://github.com/oetiker/mojolicious-plugin-spnego/issues/1
 CPAN-Mini-Inject-REST-Client-0.02       117133
 Zabbix-ServerScript-0.07                https://github.com/Akint/Zabbix-ServerScript/issues/4
 Mojolicious-Plugin-Riotjs-0.06          https://github.com/jhthorsen/mojolicious-plugin-riotjs/issues/2
@@ -3698,7 +3694,6 @@ Encode-Unicode-PerlDecodeJava-20171127  123806
 Text-VisualWidth-PP-0.05                https://github.com/tokuhirom/Text-VisualWidth-PP/issues/4
 Net-Async-Beanstalk-0.002               123809
 Class-Declare-Attributes-0.12           123669
-Class-Spiffy-0.15                       123675
 DBM-Deep-2.0014                         123811,https://rt.perl.org/Public/Bug/Display.html?id=132493
 Functional-Utility-1.02                 https://github.com/belden/perl-functional-utility/issues
 Glib-1.326                              123813,https://rt.perl.org/Public/Bug/Display.html?id=132252
