@@ -3853,3 +3853,4 @@ Finance-Contract-0.011                  122114,https://github.com/binary-com/per
 Mail-Message-3.004                      123929
 Bio-FastParsers-0.173510                123930
 Mojolicious-Plugin-Prometheus-1.0.2     https://github.com/tyldum/mojolicious-plugin-prometheus/issues/3
+Class-Spiffy-0.15                       123675
