@@ -3322,7 +3322,6 @@ Time-dt-v0.0.1                          122111
 Time-Duration-Concise-Localize-2.61     122112
 Time-List-0.13                          122113
 Time-Piece-Plus-0.05                    122113
-Finance-Contract-0.010                  122114
 Graphics-Fig-v1.0.2                     122059
 SQL-Schema-Versioned-0.21               122145
 Beam-Runner-0.012                       https://github.com/preaction/Beam-Runner/issues/11
@@ -3849,6 +3848,9 @@ Unicode-Tussle-1.111                    https://rt.perl.org/rt3/Ticket/Display.h
 Zonemaster-LDNS-1.0.1                   123902
 HTTP-SimpleLinkChecker-1.165            https://github.com/briandfoy/http-simplelinkchecker/issues/3
 Alien-MuPDF-0.009                       123916
-Mail-Milter-Authentication-v1.1.6       https://github.com/fastmail/authentication_milter/issues/9
 WWW-Shorten-ptl-0.04                    123924
 WWW-Shorten-URLchen-v0.0.3              123925
+Mail-Milter-Authentication-v1.1.7       https://github.com/fastmail/authentication_milter/issues/9
+Mojolicious-Plugin-Prometheus-0.9.3     https://github.com/tyldum/mojolicious-plugin-prometheus/issues/2
+Finance-Contract-0.011                  122114,https://github.com/binary-com/perl-Finance-Contract/issues/32
+App-ClusterSSH-4.09                     https://github.com/duncs/clusterssh/issues/99
