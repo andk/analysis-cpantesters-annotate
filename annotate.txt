@@ -3851,7 +3851,6 @@ Alien-MuPDF-0.009                       123916
 WWW-Shorten-ptl-0.04                    123924
 WWW-Shorten-URLchen-v0.0.3              123925
 Mail-Milter-Authentication-v1.1.7       https://github.com/fastmail/authentication_milter/issues/9
-Mojolicious-Plugin-Prometheus-0.9.3     https://github.com/tyldum/mojolicious-plugin-prometheus/issues/2
 App-ClusterSSH-4.09                     https://github.com/duncs/clusterssh/issues/99
 Finance-Contract-0.011                  122114,https://github.com/binary-com/perl-Finance-Contract/issues/32,https://github.com/binary-com/perl-Finance-Contract/issues/33
 Mail-Message-3.004                      123929
