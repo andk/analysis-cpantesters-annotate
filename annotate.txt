@@ -3854,3 +3854,7 @@ Mail-Milter-Authentication-v1.1.7       https://github.com/fastmail/authenticati
 Mojolicious-Plugin-Prometheus-0.9.3     https://github.com/tyldum/mojolicious-plugin-prometheus/issues/2
 Finance-Contract-0.011                  122114,https://github.com/binary-com/perl-Finance-Contract/issues/32
 App-ClusterSSH-4.09                     https://github.com/duncs/clusterssh/issues/99
+Finance-Contract-0.011                  https://github.com/binary-com/perl-Finance-Contract/issues/33
+Mail-Message-3.004                      123929
+Bio-FastParsers-0.173510                123930
+Mojolicious-Plugin-Prometheus-1.0.2     https://github.com/tyldum/mojolicious-plugin-prometheus/issues/3
