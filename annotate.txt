@@ -3890,3 +3890,4 @@ sanity-1.03                             https://rt.perl.org/rt3/Ticket/Display.h
 SQL-Bibliosoph-2.55                     https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Tapper-Installer-5.0.0                  https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Try-0.03                                https://rt.perl.org/rt3/Ticket/Display.html?id=132594
+CGI-Application-Bouquet-Rose-1.05       123942
