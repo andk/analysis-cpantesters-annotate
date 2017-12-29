@@ -2907,7 +2907,6 @@ DBIx-Class-DigestColumns-0.06001_01     108694
 Sepia-0.992_01                          103979
 Tie-FlatFile-Array-0.05_01              117590
 AnyEvent-Google-PageRank-0.04           119150
-HTML-Lint-2.23_01                       https://github.com/petdance/html-lint/issues/49
 Catmandu-Store-Datahub-0.01             https://github.com/thedatahub/Catmandu-Store-Datahub/issues/1
 Hash-Persistent-1.02                    https://github.com/berekuk/Hash-Persistent/issues/2
 Data-RuledCluster-0.06                  https://github.com/nekokak/p5-Data-RuledCluster/issues/4
@@ -3539,7 +3538,6 @@ String-Tagged-Terminal-0.01             123182
 Mylisp-2.0                              123183,123184
 Yandex-Disk-0.01                        123199
 Term-Table-0.011                        https://github.com/exodist/Term-Table/issues/8
-Google-Ads-AdWords-Client-4.18.0        118509
 Marky-0.035                             123251
 Wx-Perl-IconDepot-0.01                  123278
 Chloro-0.06                             123295
@@ -3710,7 +3708,6 @@ Map-Tube-Milan-0.002                    https://github.com/mfontani/Map-Tube-Mil
 App-CharmKit-2.08                       undeclared dependency, no issue tracker
 File-Rotate-Simple-v0.2.1               https://github.com/robrwo/File-Rotate-Simple/issues/10
 PerlX-bash-0.01                         https://github.com/barefootcoder/perlx-bash/issues/2
-Net-Async-Redis-1.000                   https://github.com/team-at-cpan/Net-Async-Redis/issues/1
 Poloniex-API-0.001                      https://github.com/mirkos-vf/Poloniex-API/issues/1
 AnyEvent-WebSocket-Client-0.43          https://github.com/plicease/AnyEvent-WebSocket-Client/issues/33
 Alien-LZO-0.02                          123851
