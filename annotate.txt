@@ -3897,4 +3897,6 @@ Mojolicious-Plugin-PgLock-0.01          https://github.com/onokhov/Mojolicious-P
 Text-Amuse-0.94                         123958
 Geo-Proj-Japan-0.0.2                    123950
 Finance-Robinhood-0.20                  https://github.com/sanko/Finance-Robinhood/issues/2
-App-cpanexec-0.03                       https://github.com/oklas/cpanexec/issues/1
+Google-Ads-AdWords-Client-5.0.0         118509
+File-LibMagic-1.16                      123962
+App-cpanexec-0.04                       https://github.com/oklas/cpanexec/issues/2
