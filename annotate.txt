@@ -3897,3 +3897,4 @@ Finance-Robinhood-0.20                  https://github.com/sanko/Finance-Robinho
 Google-Ads-AdWords-Client-5.0.0         118509
 File-LibMagic-1.16                      123962
 App-cpanexec-0.04                       https://github.com/oklas/cpanexec/issues/2
+FIAS-SQL-0.04                           123969
