@@ -3879,7 +3879,7 @@ Tapper-Installer-5.0.0                  https://rt.perl.org/rt3/Ticket/Display.h
 Try-0.03                                https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 CGI-Application-Bouquet-Rose-1.05       123942
 HTML-Lint-2.27_01                       https://github.com/petdance/html-lint/issues/63
-Net-Async-Redis-1.003                   https://github.com/team-at-cpan/Net-Async-Redis/issues/5
+Net-Async-Redis-1.004                   https://github.com/team-at-cpan/Net-Async-Redis/issues/5
 Mojolicious-Plugin-PgLock-0.01          https://github.com/onokhov/Mojolicious-Plugin-PgLock/issues/1
 Text-Amuse-0.94                         123958
 Geo-Proj-Japan-0.0.2                    123950
