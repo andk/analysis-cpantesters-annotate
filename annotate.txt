@@ -416,7 +416,6 @@ Text-LevenshteinXS-0.04                 85564,85565,85590
 Dist-Zilla-Plugin-AutoMetaResources-1.20 84878
 Acme-Warn-LOLCAT-0.02                   85750
 SOAP-Transport-TCP-0.717                85787
-POE-Filter-DHCPd-Lease-0.0502           86507
 Paper-Specs-0.10                        https://rt.perl.org:443/rt3/Ticket/Display.html?id=118655
 GCC-TranslationUnit-1.00                https://rt.perl.org:443/rt3/Ticket/Display.html?id=118655
 HTTP-Proxy-0.300                        56259
@@ -1016,7 +1015,6 @@ WebService-Zusaar-v0.0.4                108502
 WWW-Scraper-ISBN-TheNile_Driver-0.14    108503
 WebService-Booklog-v0.0.1               108504
 GuiBuilder-v0_3                         108506
-Git-Bunch-0.50                          108519
 File-Tail-Dir-0.16                      108526
 Debug-Client-0.29                       108534
 Crypt-Password-StretchedHash-0.05       https://github.com/ritou/p5-Crypt-Password-StretchedHash/issues/4
@@ -1849,7 +1847,6 @@ WebService-Recruit-Eyeco-0.0.1          114459
 ExtJS-Generator-DBIC-0.002              114531,114532
 CouchDB-View-0.003                      67033
 Test-Pretty-0.32                        https://github.com/tokuhirom/Test-Pretty/issues/36
-Data-Alias-1.20                         112289,114544
 DBIx-Class-FromSledge-0.03              114546
 Gwybodaeth-0.02                         114547
 Wx-0.9928                               114552
@@ -2774,7 +2771,6 @@ Net-Traceroute6-0.03                    118251
 Plack-Server-Coro-0.02                  118252
 POE-Component-IRC-Plugin-WWW-Reddit-TIL-0.07 https://github.com/aggrolite/POE-Component-IRC-Plugin-WWW-Reddit-TIL/issues/1
 List-MergeSorted-XS-1.06                118261
-Search-Elasticsearch-2.03               https://github.com/elastic/elasticsearch-perl/issues/108
 SWISH-3-1.000014                        118263
 CGI-Session-ODBC-0.5                    118274
 WWW-Mechanize-1.81                      https://github.com/libwww-perl/WWW-Mechanize/issues/54
@@ -3359,7 +3355,6 @@ Dist-Zilla-Plugin-WSDL-0.207            https://github.com/mjgardner/Dist-Zilla-
 XML-Compile-SOAP-Daemon-3.12            122304
 Git-Release-0.05                        122298
 Triglav-Client-0.03                     122299
-Algorithm-Simplex-0.43                  122300
 PRANG-0.20                              122301
 Domain-Register-DomainShare-1.02        probably temporary network/webservice problems,122302
 Log-Dispatch-Growl-1.0.0                https://github.com/gugod/Log-Dispatch-Growl/issues/1
@@ -3383,7 +3378,6 @@ Log-ger-Plugin-SingleLog-0.001          122329
 Crypt-Libmcrypt-1.0.5                   122330
 Data-Describe-1.03                      122331
 ELF-Extract-Sections-1.001004-TRIAL     https://github.com/kentnl/ELF-Extract-Sections/issues/2
-Catmandu-VIAF-0.04                      122342
 Class-Modular-0.05                      122343
 Deco-0.12                               122344
 DirDB-0.12                              122345
@@ -3499,7 +3493,6 @@ WWW-Alexa-TrafficRank-1.11              122935
 Unix-Processors-2.045                   122943
 BSD-Process-0.07                        88975,122947
 ElasticEmail-0.02                       122999
-Connector-1.23                          123001
 WebService-NextEpisode-0.001            https://github.com/athreef/WebService-NextEpisode/issues/1
 Proc-Swarm-1.161060                     https://github.com/dana/perl-Proc-Swarm/issues/2
 Dios-0.002011                           123015
@@ -3513,7 +3506,6 @@ HTTP-Client-1.57                        123051
 AnsibleModule-0.4                       109959
 BioPerl-Run-1.007002                    123058
 DBD-Multi-1.01                          https://github.com/dwright/DBD-Multi/issues/2
-Role-MimeInfo-0.01                      https://github.com/doriantaylor/p5-role-mimeinfo/issues/1
 Config-Model-Itself-2.011               https://github.com/dod38fr/config-model-itself/issues/2
 App-calendr-0.21                        123094
 Data-Sah-Coerce-0.023                   123095
@@ -3614,7 +3606,6 @@ App-TestOnTap-0.040                     123491
 IPC-System-Simple-1.25                  https://github.com/pjf/ipc-system-simple/issues/21
 Lexical-Types-0.16                      https://rt.perl.org/Ticket/Display.html?id=132385
 UNIVERSAL-isa-1.20171012                https://rt.perl.org/Ticket/Display.html?id=132395
-WebService-Slack-WebApi-0.11            https://github.com/mihyaeru21/p5-WebService-Slack-WebApi/pull/18
 Coro-ProcessPool-0.26_003               122565
 Pootle-Client-0.08                      https://github.com/KohaSuomi/Pootle-Client/issues/6
 Mashtree-0.28                           121971
