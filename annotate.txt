@@ -1582,7 +1582,6 @@ DateTime-Astro-1.00                     112240
 Perinci-Sub-Gen-AccessTable-DBI-0.15    112293
 Algorithm-Permute-0.12                  https://rt.perl.org/rt3/Ticket/Display.html?id=127475
 Convert-TBX-UTX-0.032                   112325
-Digest-PBKDF2-0.010                     112377
 Dancer-Plugin-SporeDefinitionControl-0.14 84948
 rrdpoller-1.5.0                         112404
 DBIx-TextIndex-0.28                     98839,98839
