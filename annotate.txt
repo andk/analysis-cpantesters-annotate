@@ -2093,7 +2093,6 @@ REST-Google-1.0.8                       92061
 TAP-Formatter-Bamboo-0.04               114258
 WebService-Strava-0.05                  116416
 AtteanX-Query-Cache-0.002               https://github.com/kjetilk/p5-atteanx-query-cache/issues/36
-Template-Resolver-1.12                  116437
 Net-AS2-0.03                            116418
 CPAN-Testers-Common-Client-0.13         https://github.com/garu/CPAN-Testers-Common-Client/issues/8
 LWPx-TimedHTTP-1.8                      116429
