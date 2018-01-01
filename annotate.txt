@@ -791,7 +791,6 @@ Kafka-0.8010                            103330
 HTML-FormHandlerX-Form-JQueryValidator-0.05 103324
 Code-Statistics-1.112980                103333
 Data-Printer-Filter-ClassicRegex-0.01   103335
-Device-WebIO-Dancer-0.003               103336
 Flickr-API2-2.10                        103337
 Twitter-Daily-0.1.3                     103396
 Triggermail-1.005                       The module Triggermail is now deprecated.
@@ -843,7 +842,6 @@ CPAN-Reporter-Smoker-Safer-0.04         may fail if www.cpantesters.org is unava
 Graph-Similarity-v0.0.5                 95943
 Socket-Netlink-Taskstats-0.03           104514
 xml-tag-0.5                             104643
-Mojolicious-Plugin-RenderSteps-0.05     https://github.com/marcusramberg/Mojolicious-Plugin-RenderSteps/issues/1
 Tinder-API-0.03                         104675
 Business-Shipping-MRW-0.02              104684
 Crypt-CipherSaber-1.01                  104680
@@ -979,7 +977,6 @@ re-engine-RE2-0.13                      108357
 Email-Assets-0.10                       108358
 WWW-Scraper-ISBN-Waterstones_Driver-0.08 108373
 SQL-Abstract-FromQuery-0.10             108374
-Perinci-Sub-XCompletion-0.02            108341
 Cogit-0.001000                          https://github.com/frioux/Cogit/issues/7
 FT817COMM-0.9.9                         108385
 re-engine-PCRE-0.17                     108386
@@ -1596,7 +1593,6 @@ SGML-Parser-OpenSP-0.994                112508
 Tapper-Testplan-4.1.2                   112509
 Tapper-Notification-4.1.1               112510
 DBD-PgLite-0.11                         112536,112537
-WWW-Coursera-0.11                       112538
 Linux-Pdeathsig-0.10                    112539
 Text-Printf-1.03                        112541
 Enumeration-0.03                        112543
@@ -2068,7 +2064,6 @@ WWW-Lipsum-1.001012                     https://github.com/zoffixznet/WWW-Lipsum
 Ado-Plugin-Admin-0.13                   https://github.com/kberov/Ado-Plugin-Admin/issues/6
 Contenticious-0.36                      https://github.com/memowe/contenticious/issues/17
 Galileo-0.040                           https://github.com/jberger/Galileo/issues/51
-Mojolicious-Plugin-Piwik-0.18           116348
 Deeme-Backend-Mango-0.02                https://github.com/mudler/p5-Deeme-Backend-Mango/issues/1
 Mojolicious-Command-generate-lexicont-0.05 https://github.com/dokechin/Mojolicious-Command-generate-lexicont/issues/2
 Mojolicious-Plugin-RelativeUrlFor-0.051 116350
@@ -2138,7 +2133,6 @@ Jifty-1.50430                           116632
 MogileFS-Server-2.72                    116633
 MojoX-CPAN-Uploader-0.034               https://github.com/yko/mojox-cpan-uploader/issues/5
 WWW-Scraper-ISBN-GoogleBooks_Driver-0.30 93222
-JSON-RPC2-AnyEvent-Client-0.01          116643
 NexposeSimpleXML-Parser-0.04            116652
 MetasploitExpress-Parser-0.02           116653
 WebService-GialloZafferano-0.02         https://github.com/mudler/WebService-GialloZafferano/issues/1
@@ -2708,7 +2702,6 @@ Dist-Zilla-Role-ModuleIncluder-0.007    118026
 Devel-RingBuffer-0.31                   118038
 RestrictionDigest-0.02                  118061
 Log-Any-Adapter-Carp-1.02               118062
-GenOOx-Data-File-SAMbwa-0.0.3           https://github.com/genoo/GenOOx-Sam-BWA/issues/1
 Plack-Middleware-NewRelic-0.0502        https://github.com/aanari/Plack-Middleware-NewRelic/issues/9
 Catalyst-Plugin-OrderedParams-0.06      52922
 PersistentPerl-2.22                     33287
@@ -2857,7 +2850,6 @@ Config-Model-Systemd-0.232.1            https://github.com/dod38fr/config-model-
 Date-Manip-6.56                         https://rt.perl.org/Ticket/Display.html?id=130132,118862
 Test-HTTPStatus-2.001                   https://github.com/briandfoy/test-httpstatus/issues/2
 Data-Checker-1.07                       118881
-IO-Prompt-0.997003                      https://rt.perl.org/Ticket/Display.html?id=130126,118893
 XML-Twig-3.50                           118909
 Config-Model-Xorg-1.111                 118911
 Template-Plugin-PerlTidy-0.03           118928
@@ -3062,7 +3054,6 @@ Pcore-API-Namecheap-v0.5.2              https://bitbucket.org/softvisio/pcore-ap
 Crypt-OpenSSL-RSA-0.28                  117481
 XML-LibXML-SAX-ChunkParser-0.00008      https://github.com/lestrrat/XML-LibXML-SAX-ChunkParser/issues/3
 Taskwarrior-Kusarigama-0.3.0            120704
-Data-Transform-ExplicitMetadata-0.07    120726
 SOOT-0.17                               120735
 Pcore-API-AftermarketPl-v0.4.1          https://bitbucket.org/softvisio/pcore-nginx/issues/2/undeclared-dependency-mouse
 Pcore-API-Dynadot-v0.5.1                https://bitbucket.org/softvisio/pcore-nginx/issues/2/undeclared-dependency-mouse
@@ -3074,7 +3065,6 @@ Ham-ADIF-v1.5.1                         117262
 Kavorka-0.037                           109841
 Business-OnlinePayment-Vindicia-Select-0.002 120948
 List-Flatten-XS-0.02                    120902
-Math-AnyNum-0.02                        120910
 Sys-Prctl-1.02                          120911
 X11-Xlib-0.12                           121010
 App-MechaCPAN-0.17                      121054
@@ -3393,7 +3383,6 @@ IO-File-Log-1.01                        34778
 RDF-YAML-0.11                           122369
 Sub-Versive-0.01                        122370
 IPC-Transit-1.171860                    https://github.com/dana/perl-IPC-Transit/issues/2
-Image-Sane-0.13                         122380
 Git-MoreHooks-0.005                     122386
 App-Math-Tutor-0.005                    122392
 PDF-TableX-0.014                        122399
@@ -3506,7 +3495,6 @@ AnsibleModule-0.4                       109959
 BioPerl-Run-1.007002                    123058
 DBD-Multi-1.01                          https://github.com/dwright/DBD-Multi/issues/2
 Config-Model-Itself-2.011               https://github.com/dod38fr/config-model-itself/issues/2
-App-calendr-0.21                        123094
 Data-Sah-Coerce-0.023                   123095
 Syntax-Highlight-Engine-Simple-HTML-0.04 123096
 CGI-Buffer-0.79                         123101
@@ -3539,13 +3527,11 @@ Math-GSL-0.39                           123306
 Business-BR-CNJ-WebService-0.03         123326
 MOP-0.10                                123345,https://github.com/stevan/p5-MOP/issues/24
 Test2-Suite-0.000082                    123337
-Number-Format-Calc-0.2                  withdrawn
 CGI-Info-0.64                           https://github.com/nigelhorne/CGI-Info/issues/7
 Mojo-IOLoop-ReadWriteProcess-0.09       123176
 oxdperl_sobhantest-3.2.1                123382
 JsonSQL-0.41                            123383
 Locale-Babelfish-2.002                  https://github.com/regru/Locale-Babelfish/issues/2
-Moxie-0.05                              123391
 Perinci-CmdLine-Lite-1.79               122597
 WWW-API-Bitfinex-0.01                   123392
 App-Anchr-0.4.3                         https://github.com/wang-q/App-Anchr/issues/1
@@ -3660,9 +3646,7 @@ PDF-Builder-3.008                       123757
 IO-ReadHandle-Chain-1.0                 123770
 SMS-Send-Sergel-Simple-HTTP-0.02        https://github.com/eskaaren/SMS-Send-Sergel-Simple-HTTP/issues/3
 optex-0.02                              https://github.com/kaz-utashiro/optex/issues/1
-App-Music-PlayTab-2.903                 123760
 Params-ValidationCompiler-0.25          https://github.com/houseabsolute/Params-ValidationCompiler/issues/19
-App-SimulateReads-0.08                  123761
 Mail-Sendmail-0.80                      123652
 Mailru-Cloud-0.01                       https://github.com/vrag86/perl-mailru-cloud-api/issues/1
 MariaDB-NonBlocking-0.14                123474
@@ -3697,8 +3681,6 @@ Map-Tube-Milan-0.002                    https://github.com/mfontani/Map-Tube-Mil
 App-CharmKit-2.08                       undeclared dependency, no issue tracker
 File-Rotate-Simple-v0.2.1               https://github.com/robrwo/File-Rotate-Simple/issues/10
 PerlX-bash-0.01                         https://github.com/barefootcoder/perlx-bash/issues/2
-Poloniex-API-0.001                      https://github.com/mirkos-vf/Poloniex-API/issues/1
-AnyEvent-WebSocket-Client-0.43          https://github.com/plicease/AnyEvent-WebSocket-Client/issues/33
 Alien-LZO-0.02                          123851
 IPC-Cache-0.02                          123852
 ClearPress-v477.1.4                     122425
@@ -3788,7 +3770,6 @@ Padre-Plugin-YAML-0.10                  123867
 Padre-Plugin-Swarm-0.2                  123867
 Text-FindIndent-0.11                    123867
 Module-Install-PerlTar-1.001            123867
-PPI-XS-0.904                            123867
 Net-CampaignMonitor-v2.2.1              https://github.com/campaignmonitor/createsend-perl/issues/16,123867
 Module-Install-ORLite2Pod-1.000         123867
 MooseX-Atom-0.02                        123867
