@@ -3674,7 +3674,7 @@ Text-VisualWidth-PP-0.05                https://github.com/tokuhirom/Text-Visual
 Net-Async-Beanstalk-0.002               123809
 Class-Declare-Attributes-0.12           123669
 DBM-Deep-2.0014                         123811,https://rt.perl.org/Public/Bug/Display.html?id=132493
-Functional-Utility-1.02                 https://github.com/belden/perl-functional-utility/issues
+Functional-Utility-1.02                 https://github.com/belden/perl-functional-utility/issues/2
 Glib-1.326                              123813,https://rt.perl.org/Public/Bug/Display.html?id=132252
 Prty-1.121                              https://rt.perl.org/Public/Bug/Display.html?id=132252
 B-RecDeparse-0.10                       https://rt.perl.org/Ticket/Display.html?id=132528
