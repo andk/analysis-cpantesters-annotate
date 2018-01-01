@@ -3892,3 +3892,4 @@ File-Copy-Recursive-0.39                123964
 Digest-PBKDF2-0.012                     123976
 Template-Resolver-1.16                  123977
 Algorithm-QuineMcCluskey-0.16           https://rt.perl.org/Ticket/Display.html?id=132671
+Symbol-Global-Name-0.05                 https://rt.perl.org/Public/Bug/Display.html?id=132252
