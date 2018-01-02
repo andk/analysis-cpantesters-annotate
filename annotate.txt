@@ -1511,7 +1511,6 @@ Test-Mimic-Generator-0.009005           110767
 File-ExtAttr-1.09                       34394
 File-Lock-Multi-1.02                    104720
 Git-Hook-PostReceive-0.3                https://github.com/c9s/Git-Hook-PostReceive/issues/4
-Devel-SharedLibs-0.2.0                  110770
 Getopt-Helpful-0.04                     110776
 DateTime-Event-Klingon-1.0.1            110782,110783
 HTML-Xit-0.05                           110784
