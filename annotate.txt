@@ -3867,3 +3867,5 @@ Algorithm-QuineMcCluskey-0.16           https://rt.perl.org/Ticket/Display.html?
 Symbol-Global-Name-0.05                 https://rt.perl.org/Public/Bug/Display.html?id=132252
 psh-1.8                                 105916
 Devel-SharedLibs-v0.3.3                 123992
+ack-2.999_01                            https://github.com/beyondgrep/ack2/issues/656
+DBIx-DataModel-2.47_03                  123995
