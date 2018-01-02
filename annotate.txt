@@ -1111,7 +1111,6 @@ YAML-MLDBM-0.10                         108852
 WWW-BBSWatch-1.02                       108853
 CGI-WML-0.09                            108854
 Carp-Datum-0.1.3                        105296
-CGI-Session-Driver-aggregator-0.03      108858
 Class-MethodMapper-1.0                  108859
 Data-Match-0.06                         93935
 DDL-Oracle-1.11                         15315
@@ -2555,7 +2554,6 @@ Shell-Base-0.05                         19649,117685
 System2-0.84                            117687
 autobless-1.0.1                         117688
 Games-Poker-OPP-1.0                     117689
-Module-CPANTS-Generator-0.006           117691
 only-latest-0.01                        117692
 Parse-Plain-3.03                        117702
 POE-Component-SimpleLog-1.05            117703
@@ -3012,7 +3010,6 @@ POE-Component-WWW-XKCD-AsText-0.002     120386
 Swagger2-0.89                           https://github.com/jhthorsen/swagger2/issues/99
 Template-Provider-HTTP-0.05             120387
 Test-HTTP-Server-Simple-StashWarnings-0.04 120388
-Perl-Lexer-0.22                         https://github.com/tokuhirom/Perl-Lexer/issues/8
 Class-DBI-Replicated-0.040              120389
 Template-Plugin-DateTime-Format-0.03    120391
 WebService-Raygun-0.030                 120392
@@ -3180,7 +3177,6 @@ Minion-Backend-Storable-5.083           https://github.com/niczero/minion-backen
 Mojo-Cloudflare-0.04                    https://github.com/jhthorsen/mojo-cloudflare/issues/4
 Mojo-Cloudstack-0.07                    121394
 Mojo-CSV-1.001002                       https://github.com/zoffixznet/Mojo-CSV/issues/4
-Mojo-Log-Clearable-0.002                https://github.com/Grinnz/Mojo-Log-Clearable/issues/1
 Mojo-MySQL5-0.09                        https://github.com/harry-bix/mojo-mysql5/issues/6
 MojoX-JSON-RPC-0.10                     121395
 MojoX-Plugin-PODRenderer-0.01           121396
@@ -3429,7 +3425,6 @@ Apache-SWIT-0.54                        122647
 Scope-Escape-Sugar-0.002                122650
 WWW-Offliberty-1.000005                 122651
 Inline-Python-0.55                      122664
-App-Gallery-0.001                       122663
 URI-UTF8-Punycode-1.05                  122593
 POE-Component-Client-Twitter-0.01       66970
 GnuPG-0.19                              117002
@@ -3457,7 +3452,6 @@ WWW-Search-Ebay-Europe-2.017            122876
 List-MoreUtils-0.423                    122875
 UR-0.46                                 https://github.com/genome/UR/issues/136
 CPAN-Testers-Reports-Counts-0.05        122886
-Device-Chip-AnalogConverters-0.01       122887
 Unicode-BiDiRule-0.03                   122862
 WebService-Europeana-0.0.2              https://twitter.com/Europeanaeu/status/719563390860046336,https://github.com/hatorikibble/webservice-europeana/issues/1
 ETL-Yertl-0.029                         https://github.com/preaction/ETL-Yertl/issues/153
@@ -3578,7 +3572,6 @@ Net-MAC-Vendor-1.262                    https://github.com/briandfoy/net-mac-ven
 lsn-data-hub-05.00297                   no bugtracker, unescaped left brace in regex
 Data-RecordStore-2.01                   123458
 Class-Attrib-1.07                       123457
-POE-Filter-SSL-0.35                     122573
 Test2-Harness-0.001028                  https://github.com/Test-More/Test2-Harness/issues/41
 Tk-StatusBar-0.04                       123473
 Business-OnlinePayment-CardConnect-0.004 123475
