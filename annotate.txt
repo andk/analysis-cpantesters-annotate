@@ -3865,3 +3865,4 @@ psh-1.8                                 105916
 Devel-SharedLibs-v0.3.3                 123992
 ack-2.999_01                            https://github.com/beyondgrep/ack2/issues/656
 DBIx-DataModel-2.47_03                  123995
+Job-Async-0.001                         https://github.com/team-at-cpan/Job-Async/issues/1
