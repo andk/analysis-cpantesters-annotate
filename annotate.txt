@@ -900,7 +900,6 @@ WebService-Shutterstock-0.006           https://github.com/shutterstock/WebServi
 Net-Netmask-1.9022                      99184,https://rt.perl.org/Ticket/Display.html?id=122730
 Text-UnAbbrev-0.03                      105447
 IO-Async-Resolver-StupidCache-0.03      106961
-Net-DNS-Lite-0.12                       106963
 LWPx-ParanoidHandler-0.07               https://github.com/tokuhirom/LWPx-ParanoidHandler/issues/2
 Lingua-EN-Segmenter-0.1                 87567
 File-MimeInfo-Simple-0.7                95158
