@@ -3499,7 +3499,6 @@ PFT-v1.2.1                              116333
 JPList-0.05                             123090
 Geo-Coder-Cache-0.06                    123135
 WebService-Qiita-V2-0.01                123152
-QBit-Application-Model-DB-clickhouse-0.005 123073
 Config-Model-Backend-Augeas-0.121       https://github.com/dod38fr/config-model/issues/14
 Log-Any-Adapter-LinuxJournal-0.172762   123181
 String-Tagged-Terminal-0.01             123182
