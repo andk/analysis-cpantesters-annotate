@@ -2768,7 +2768,6 @@ Business-OnlinePayment-eSelectPlus-0.07 118317
 LIVR-Contract-0.04                      118318
 ETL-Pipeline-2.02                       117766
 WebService-Images-Nofrag-0.06           118362
-RPC-ExtDirect-Client-1.24               https://github.com/nohuhu/RPC-ExtDirect-Client/issues/3
 Eixo-Rest-1.206                         118387
 Test-RestAPI-0.1.4                      https://github.com/JaSei/Test-RestAPI/issues/1
 Text-HikiDoc-1.022                      https://github.com/higemaru/p5-text-hikidoc/issues/1
@@ -2835,7 +2834,6 @@ makepp-2.0.98.5                         118765
 Magpie-1.163200                         110699
 I22r-Translate-Microsoft-0.96           118790
 MooseX-CurriedDelegation-0.003          https://github.com/RsrchBoy/moosex-currieddelegation/issues/1
-Dist-Zilla-PluginBundle-Author-RTHOMPSON-0.161990 118800
 Net-GNUDBSearch-1.01                    118820
 Business-OnlinePayment-Skipjack-0.05    118821
 WebService-MusicBrainz-0.94             118822
@@ -3285,7 +3283,6 @@ HTML-WikiConverter-XWiki-0.02           122073
 HTML-WikiConverter-MoinMoin-0.54        88003
 ExtUtils-MakeMaker-7.30                 121918
 Date-Extract-PERLANCAR-0.001            122085
-Mojolicious-Plugin-Vparam-2.09          https://github.com/dr-co/libmojolicious-plugin-vparam-perl/issues/26
 Acme-Honkidasu-0.01                     122106
 ElasticSearchX-Model-Generator-0.1.8    https://github.com/kentfredric/ElasticSearchX-Model-Generator/issues/1
 Time-dt-v0.0.1                          122111
@@ -3500,7 +3497,6 @@ JPList-0.05                             123090
 Geo-Coder-Cache-0.06                    123135
 WebService-Qiita-V2-0.01                123152
 Config-Model-Backend-Augeas-0.121       https://github.com/dod38fr/config-model/issues/14
-Log-Any-Adapter-LinuxJournal-0.172762   123181
 String-Tagged-Terminal-0.01             123182
 Mylisp-2.0                              123183,123184
 Yandex-Disk-0.01                        123199
@@ -3515,7 +3511,6 @@ App-VideoHost-0.143310-TRIAL            https://github.com/EatMoreCode/video_hos
 Math-GSL-0.39                           123306
 Business-BR-CNJ-WebService-0.03         123326
 MOP-0.10                                123345,https://github.com/stevan/p5-MOP/issues/24
-Test2-Suite-0.000082                    123337
 CGI-Info-0.64                           https://github.com/nigelhorne/CGI-Info/issues/7
 Mojo-IOLoop-ReadWriteProcess-0.09       123176
 oxdperl_sobhantest-3.2.1                123382
