@@ -3863,5 +3863,5 @@ XML-Schema-0.07                         71111
 ActiveRecord-Simple-1.01                124011
 Math-GComplex-0.04                      https://github.com/trizen/Math-GComplex/issues/1
 QBit-Application-Model-DB-clickhouse-0.006 123073
-Test-Snapshot-0.02                      https://github.com/mohawk2/Test-Snapshot/issues/1
+Test-Snapshot-0.03                      https://github.com/mohawk2/Test-Snapshot/issues/1
 Struct-Path-JsonPointer-0.01            124038
