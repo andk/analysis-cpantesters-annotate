@@ -1688,7 +1688,6 @@ DBIx-Class-QueryProfiler-0.05           112887
 DBIx-Config-0.000002                    112888
 Net-Radio-Modem-0.002                   112889
 Net-SMS-TextMagic-1.00                  93647
-Perinci-Sub-Property-memoize-0.02       112890
 App-MyPerl-0.003000                     112891
 Test-Pcuke-Gherkin-0.000003             112892
 ProgressBar-Stack-1.01                  112893
@@ -2060,7 +2059,6 @@ Image-Imager-Thumbnail-0.01             116318
 WWW-Lipsum-1.001012                     https://github.com/zoffixznet/WWW-Lipsum/issues/7
 Ado-Plugin-Admin-0.13                   https://github.com/kberov/Ado-Plugin-Admin/issues/6
 Contenticious-0.36                      https://github.com/memowe/contenticious/issues/17
-Galileo-0.040                           https://github.com/jberger/Galileo/issues/51
 Deeme-Backend-Mango-0.02                https://github.com/mudler/p5-Deeme-Backend-Mango/issues/1
 Mojolicious-Command-generate-lexicont-0.05 https://github.com/dokechin/Mojolicious-Command-generate-lexicont/issues/2
 Mojolicious-Plugin-RelativeUrlFor-0.051 116350
@@ -2696,7 +2694,6 @@ B-ConstOptree-0.02                      118020
 Dist-Zilla-Role-ModuleIncluder-0.007    118026
 Devel-RingBuffer-0.31                   118038
 RestrictionDigest-0.02                  118061
-Log-Any-Adapter-Carp-1.02               118062
 Plack-Middleware-NewRelic-0.0502        https://github.com/aanari/Plack-Middleware-NewRelic/issues/9
 Catalyst-Plugin-OrderedParams-0.06      52922
 PersistentPerl-2.22                     33287
@@ -2843,7 +2840,6 @@ Date-Manip-6.56                         https://rt.perl.org/Ticket/Display.html?
 Test-HTTPStatus-2.001                   https://github.com/briandfoy/test-httpstatus/issues/2
 Data-Checker-1.07                       118881
 XML-Twig-3.50                           118909
-Config-Model-Xorg-1.111                 118911
 Template-Plugin-PerlTidy-0.03           118928
 MediaWiki-Bot-5.006003                  https://github.com/MediaWiki-Bot/MediaWiki-Bot/issues/81
 Dist-Zilla-Plugin-TravisCI-0.010        118930
@@ -3036,7 +3032,6 @@ DBD-SQLite-Amalgamation-3.6.16          117561
 AnyEvent-Yubico-0.9.3                   95962
 CGI-Application-Plugin-Authentication-Driver-DBIC-0.02 120647
 Net-Stripe-Simple-0.004                 120668
-AnyEvent-RipeRedis-Cluster-0.25_01      https://github.com/iph0/AnyEvent-RipeRedis-Cluster/issues/1
 Metabase-Backend-SQL-1.001              https://github.com/dagolden/metabase-backend-sql/issues/1
 IO-Async-SSL-0.19                       120701
 Date-Utility-1.07                       https://github.com/binary-com/perl-Date-Utility/issues/18
@@ -3434,7 +3429,6 @@ Hash-SharedMem-0.005                    122775
 Data-Edit-Xml-Lint-20170802             122789
 Cloudinary-0.15                         https://github.com/jhthorsen/cloudinary/issues/2
 App-Music-ChordPro-0.86                 122815
-Devel-Jemallctl-0.02                    122844
 Algorithm-Cluster-1.53                  120442
 Statistics-Multtest-0.14                122859
 Mail-OpenDKIM-4204                      122861
