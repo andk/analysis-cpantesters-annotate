@@ -3861,3 +3861,4 @@ Struct-Path-JsonPointer-0.01            124038
 Test-Snapshot-0.03                      https://github.com/mohawk2/Test-Snapshot/issues/1
 Test-BDD-Cucumber-Definitions-0.03      https://github.com/ivanych/Test-BDD-Cucumber-Definitions/issues/1
 PDL-Algorithm-Center-0.06               124043
+Math-WalshTransform-1.17                122909
