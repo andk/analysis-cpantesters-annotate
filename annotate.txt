@@ -3862,3 +3862,4 @@ Test-Snapshot-0.03                      https://github.com/mohawk2/Test-Snapshot
 Test-BDD-Cucumber-Definitions-0.03      https://github.com/ivanych/Test-BDD-Cucumber-Definitions/issues/1
 PDL-Algorithm-Center-0.06               124043
 Math-WalshTransform-1.17                122909
+Mojolicious-Command-generate-resources-0.04 https://github.com/kberov/Mojolicious-Command-generate-resources/issues/1
