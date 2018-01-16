@@ -2028,7 +2028,6 @@ Specio-0.21                             115418
 Lorem-0.22                              80289
 Tie-SecureHash-1.10                     115772
 Test-Clear-0.04                         https://github.com/hixi-hyi/p5-Test-Clear/issues/2
-Net-ISP-Balance-1.25                    115778
 HDB-1.05                                115713
 Class-HPLOO-0.23                        115714
 Apache-Session-SharedMem-0.6            115766
@@ -3459,7 +3458,6 @@ Tk-LockDisplay-1.3                      122913
 WWW-Alexa-TrafficRank-1.11              122935
 Unix-Processors-2.045                   122943
 BSD-Process-0.07                        88975,122947
-ElasticEmail-0.02                       122999
 WebService-NextEpisode-0.001            https://github.com/athreef/WebService-NextEpisode/issues/1
 Proc-Swarm-1.161060                     https://github.com/dana/perl-Proc-Swarm/issues/2
 Dios-0.002011                           123015
@@ -3607,7 +3605,6 @@ Text-VisualPrintf-2.01                  https://github.com/kaz-utashiro/Text-Vis
 Crypt-OpenSSL-VerifyX509-0.10           120607,120608,121214,123690
 App-Textcast-0.06.15                    123692
 DBIx-Class-StorageReadOnly-0.05         117659,123704
-SVG-2.78                                123705
 Getopt-Flex-1.07                        123715
 criticism-1.02                          123714
 Clownfish-0.6.2                         https://issues.apache.org/jira/browse/CLOWNFISH-119
