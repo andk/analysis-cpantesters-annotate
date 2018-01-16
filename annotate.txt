@@ -868,7 +868,6 @@ Privileges-Drop-1.03                    105046
 Net-Interface-1.012                     83994,102390
 Exodist-Util-0.008                      https://github.com/exodist/Exodist-Util/issues/6
 Test-WWW-Simple-0.34                    95958
-CatalystX-I18N-1.13                     100351
 SOAP-DirectI-0.001                      103222
 Locales-0.33                            103291
 Lego-From-PNG-0.04                      106000
@@ -3843,7 +3842,6 @@ Google-Ads-AdWords-Client-5.0.0         118509
 File-LibMagic-1.16                      123962
 App-cpanexec-0.04                       https://github.com/oklas/cpanexec/issues/2
 FIAS-SQL-0.04                           123969
-File-Copy-Recursive-0.39                123964
 Digest-PBKDF2-0.012                     123976
 Template-Resolver-1.16                  123977
 Algorithm-QuineMcCluskey-0.16           https://rt.perl.org/Ticket/Display.html?id=132671
