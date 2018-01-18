@@ -3861,3 +3861,5 @@ Crypt-SMIME-0.20                        124074
 CatalystX-I18N-1.14                     124078,100351
 File-Copy-Recursive-0.40                123964
 Net-Ethereum-0.28                       123919
+SPVM-0.0304                             124123
+MVC-Neaf-0.2201                         124124
