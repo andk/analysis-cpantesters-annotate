@@ -552,7 +552,6 @@ PostScript-Easy-0.01                    https://github.com/ytnobody/PostScript-E
 MojoX-Validator-0.0014                  96391
 Cache-Mmap-0.11                         95940
 Geo-KML-0.94                            96392
-Media-Type-Simple-v0.30.2               96393
 POE-Component-Generic-0.1403            96442
 Guard-1.022                             https://rt.perl.org/rt3/Ticket/Display.html?id=122031
 CGI-PrintWrapper-0.11                   96495
@@ -1884,7 +1883,6 @@ Data-Bind-0.30                          114791
 Net-Jenkins-0.07                        114792
 RDF-Trine-Serializer-SparqlUpdate-0.002 114793
 System-Wrapper-v0.0.2                   114794
-Data-Walk-Extracted-v0.26.8             https://github.com/jandrew/Data-Walk-Extracted/issues/2
 Sys-CPU-0.61                            54267
 WordNet-Insert-0.02                     114921
 Wiktionary-Parser-0.11                  114923
@@ -3015,7 +3013,6 @@ Unicode-Map8-0.13                       24652
 Parse-Debian-PackageDesc-0.15           120549
 Swagger2-Markdown-0.11                  https://github.com/Humanstate/swagger2-markdown/issues/6
 BoutrosLab-TSVStream-v0.5.3             119751
-Lingua-PT-Actants-0.04                  120577
 IO-Async-XMLStream-SAXReader-0.001002   https://github.com/kentnl/IO-Async-XMLStream-SAXReader/issues/2
 Dancer2-0.205000                        https://github.com/PerlDancer/Dancer2/issues/1332
 PEF-Front-WebSocket-0.06                https://github.com/jef-sure/pef-front-websocket/issues/2
