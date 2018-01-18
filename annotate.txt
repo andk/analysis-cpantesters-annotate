@@ -3757,7 +3757,6 @@ Mail-SpamAssassin-3.4.1.                https://bz.apache.org/SpamAssassin/show_
 FSM-Basic-0.14                          123894
 Yancy-0.007                             https://github.com/preaction/Yancy/issues/4
 Test-Roo-DataDriven-v0.2.0              https://github.com/robrwo/Test-Roo-DataDriven/issues/6
-Net-Ethereum-0.01                       123919
 B-Keywords-1.15                         https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 DateTime-Format-Strptime-1.74           https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 DBIx-Class-Candy-0.005003               https://rt.perl.org/rt3/Ticket/Display.html?id=132594
@@ -3861,3 +3860,4 @@ Mojolicious-Command-generate-resources-0.04 https://github.com/kberov/Mojoliciou
 Crypt-SMIME-0.20                        124074
 CatalystX-I18N-1.14                     124078,100351
 File-Copy-Recursive-0.40                123964
+Net-Ethereum-0.28                       123919
