@@ -3588,7 +3588,6 @@ GraphQL-Plugin-Convert-DBIC-0.02        https://github.com/graphql-perl/GraphQL-
 App-CLI-Extension-1.421                 123655
 Whatever-0.23                           123654
 CSS-Simple-3224                         123656
-App-optex-v0.0.1                        123650
 Perl-PrereqScanner-Lite-0.27            https://github.com/moznion/Perl-PrereqScanner-Lite/issues/18
 APISchema-1.28                          https://github.com/hitode909/APISchema/issues/24
 Message-Passing-Output-Search-Elasticsearch-0.004 123660
@@ -3754,7 +3753,6 @@ Mail-SpamAssassin-3.4.1.                https://bz.apache.org/SpamAssassin/show_
 FSM-Basic-0.14                          123894
 Yancy-0.007                             https://github.com/preaction/Yancy/issues/4
 Test-Roo-DataDriven-v0.2.0              https://github.com/robrwo/Test-Roo-DataDriven/issues/6
-B-Keywords-1.15                         https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 DateTime-Format-Strptime-1.74           https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 DBIx-Class-Candy-0.005003               https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Regexp-Common-2017060201                https://rt.perl.org/rt3/Ticket/Display.html?id=132594
@@ -3777,7 +3775,6 @@ Alien-MuPDF-0.009                       123916
 WWW-Shorten-ptl-0.04                    123924
 WWW-Shorten-URLchen-v0.0.3              123925
 Mail-Milter-Authentication-v1.1.7       https://github.com/fastmail/authentication_milter/issues/9
-App-ClusterSSH-4.09                     https://github.com/duncs/clusterssh/issues/99
 Finance-Contract-0.011                  122114,https://github.com/binary-com/perl-Finance-Contract/issues/32,https://github.com/binary-com/perl-Finance-Contract/issues/33
 Mail-Message-3.004                      123929
 Bio-FastParsers-0.173510                123930
@@ -3799,7 +3796,6 @@ Operator-Util-0.05                      https://rt.perl.org/rt3/Ticket/Display.h
 Package-FromData-0.01                   https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Test-Mockify-1.0                        https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Lingua-EN-Inflexion-0.001006            https://rt.perl.org/rt3/Ticket/Display.html?id=132594
-Catalyst-Runtime-5.90115                https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 experimental-0.019                      https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 MooseX-App-1.39                         https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 DBIx-Diff-Schema-0.090                  https://rt.perl.org/rt3/Ticket/Display.html?id=132594
@@ -3846,7 +3842,6 @@ DBIx-DataModel-2.47_03                  123995
 Job-Async-0.001                         https://github.com/team-at-cpan/Job-Async/issues/1
 XML-Schema-0.07                         71111
 ActiveRecord-Simple-1.01                124011
-Math-GComplex-0.04                      https://github.com/trizen/Math-GComplex/issues/1
 QBit-Application-Model-DB-clickhouse-0.006 123073
 Struct-Path-JsonPointer-0.01            124038
 Test-Snapshot-0.03                      https://github.com/mohawk2/Test-Snapshot/issues/1
@@ -3858,7 +3853,6 @@ Crypt-SMIME-0.20                        124074
 CatalystX-I18N-1.14                     124078,100351
 File-Copy-Recursive-0.40                123964
 Net-Ethereum-0.28                       123919
-SPVM-0.0304                             124123
 MVC-Neaf-0.2201                         124124
 Catalyst-Runtime-5.90116                124136
 MarpaX-ESLIF-ECMA404-0.008              124137
