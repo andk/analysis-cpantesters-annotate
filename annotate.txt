@@ -3860,3 +3860,4 @@ Getopt-Long-Descriptive-0.100           https://github.com/rjbs/Getopt-Long-Desc
 IO-Socket-SSL-2.052                     124141
 App-optex-v0.0.10                       https://github.com/kaz-utashiro/optex/issues/3
 B-Keywords-1.16                         124143
+Class-MethodMaker-2.24                  124104
