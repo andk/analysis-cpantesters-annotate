@@ -3866,3 +3866,10 @@ SPVM-0.0305                             124123
 Time-OlsonTZ-Download-0.008             124138
 Mojolicious-Plugin-OpenAPI-1.24         https://github.com/jhthorsen/mojolicious-plugin-openapi/issues/59
 Sys-Syscall-0.25                        124139
+Math-GComplex-0.06                      https://github.com/trizen/Math-GComplex/issues/2
+App-ClusterSSH-4.13                     https://github.com/duncs/clusterssh/issues/102
+File-Slurp-9999.19                      88968
+Getopt-Long-Descriptive-0.100           https://github.com/rjbs/Getopt-Long-Descriptive/pull/25
+IO-Socket-SSL-2.052                     124141
+App-optex-v0.0.10                       https://github.com/kaz-utashiro/optex/issues/3
+B-Keywords-1.16                         124143
