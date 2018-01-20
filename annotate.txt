@@ -3860,3 +3860,9 @@ File-Copy-Recursive-0.40                123964
 Net-Ethereum-0.28                       123919
 SPVM-0.0304                             124123
 MVC-Neaf-0.2201                         124124
+Catalyst-Runtime-5.90116                124136
+MarpaX-ESLIF-ECMA404-0.008              124137
+SPVM-0.0305                             124123
+Time-OlsonTZ-Download-0.008             124138
+Mojolicious-Plugin-OpenAPI-1.24         https://github.com/jhthorsen/mojolicious-plugin-openapi/issues/59
+Sys-Syscall-0.25                        124139
