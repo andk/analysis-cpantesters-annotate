@@ -1928,7 +1928,6 @@ DBIx-Class-InflateColumn-ISBN-0.04000   115448
 RDF-Trine-Exporter-GraphViz-0.141       https://github.com/nichtich/RDF-Trine-Exporter-GraphViz/issues/3
 Rhetoric-Theme-SandStone-0.08           76681
 MooX-HandlesVia-0.001008                115528
-Keyword-With-0.001                      https://github.com/mcmillhj/Keyword-With/issues/1
 WebService-Lob-0.0107                   https://github.com/aanari/WebService-Lob/issues/3
 MooX-Types-CLike-0.92                   https://github.com/SineSwiper/MooX-Types-CLike/issues/1
 Selenium-Remote-Driver-UserAgent-0.0301 https://github.com/gempesaw/Selenium-UserAgent/issues/2
@@ -3053,7 +3052,6 @@ HAM-Device-IcomCIV-0.02                 41860
 HAM-Device-IcomCIVSerialIO-0.02         121147
 Image-Magick-Info-0.03                  121149
 String-Ediff-0.09                       121151
-Parallel-PreForkManager-1.20170415      121153
 WWW-MySociety-Gaze-0.02                 121154
 XMLNews-HTMLTemplate-0.01               121155
 Template-Benchmark-1.09_01              121157
@@ -3257,7 +3255,6 @@ MetaCPAN-API-Tiny-1.150270              122004
 Dist-Surveyor-0.016                     122005
 Gtk2-Notify-0.05                        67467
 LWP-CurlLog-0.01                        122025
-RPerl-2.601000                          113430
 HTML-WikiConverter-MediaWiki-0.59       110685
 HTML-WikiConverter-Txt2tags-0.04        122071
 HTML-WikiConverter-Wikispaces-0.02      122072
