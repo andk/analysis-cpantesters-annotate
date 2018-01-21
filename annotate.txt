@@ -3860,4 +3860,17 @@ Getopt-Long-Descriptive-0.100           https://github.com/rjbs/Getopt-Long-Desc
 IO-Socket-SSL-2.052                     124141
 App-optex-v0.0.10                       https://github.com/kaz-utashiro/optex/issues/3
 B-Keywords-1.16                         124143
+Module-ExtractUse-0.341                 124146
 Class-MethodMaker-2.24                  124104
+Data-Sah-JS-0.87                        124148
+Dist-Zilla-PluginBundle-Author-TABULO-0.197 124149
+MarpaX-Languages-PowerBuilder-0.01      124145
+WWW-xkcd-0.008                          https://github.com/xsawyerx/www-xkcd/issues/3
+List-Flatten-XS-0.03                    120902
+Zonemaster-LDNS-1.0.2                   https://github.com/dotse/zonemaster-ldns/issues/10
+Type-Tiny-1.002001                      124067
+DBD-Pg-3.7.0                            121630
+Clustericious-1.27                      https://github.com/clustericious/Clustericious/issues/45
+Devel-Chitin-0.13                       124153
+Devel-Size-0.81                         124105
+MOP-0.12                                https://github.com/stevan/p5-MOP/issues/25
