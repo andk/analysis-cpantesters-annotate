@@ -1281,7 +1281,6 @@ WWW-Shorten-Durl-0.05                   109702
 App-podweaver-1.00                      109705
 Dist-Iller-0.1201                       https://github.com/Csson/p5-Dist-Iller/issues/2
 Template-Plugin-HTML-SuperForm-1.0      76116
-WWW-xkcd-0.005                          https://github.com/xsawyerx/www-xkcd/issues/3
 NetSDS-SMPP-1.204                       65987
 Parse-Fedora-Packages-0.06              109759
 Cache-Static-0.9905                     109760
@@ -3039,7 +3038,6 @@ XRI-Resolution-Lite-0.04                probably temporary network/server failur
 Ham-ADIF-v1.5.1                         117262
 Kavorka-0.037                           109841
 Business-OnlinePayment-Vindicia-Select-0.002 120948
-List-Flatten-XS-0.02                    120902
 Sys-Prctl-1.02                          120911
 X11-Xlib-0.12                           121010
 App-MechaCPAN-0.17                      121054
@@ -3492,7 +3490,6 @@ code-UnifdefPlus-0.005.004              120449,120449
 App-VideoHost-0.143310-TRIAL            https://github.com/EatMoreCode/video_host/issues/1
 Math-GSL-0.39                           123306
 Business-BR-CNJ-WebService-0.03         123326
-MOP-0.10                                123345,https://github.com/stevan/p5-MOP/issues/24
 CGI-Info-0.64                           https://github.com/nigelhorne/CGI-Info/issues/7
 Mojo-IOLoop-ReadWriteProcess-0.09       123176
 oxdperl_sobhantest-3.2.1                123382
@@ -3501,7 +3498,6 @@ Locale-Babelfish-2.002                  https://github.com/regru/Locale-Babelfis
 Perinci-CmdLine-Lite-1.79               122597
 WWW-API-Bitfinex-0.01                   123392
 App-Anchr-0.4.3                         https://github.com/wang-q/App-Anchr/issues/1
-Clustericious-1.26                      https://github.com/clustericious/Clustericious/issues/44
 Module-CheckDep-Version-0.08            123393
 Text-Aspell-0.09                        122910
 GraphQL-0.18                            https://github.com/graphql-perl/graphql-perl/issues/4
@@ -3547,7 +3543,6 @@ Test2-Harness-0.001028                  https://github.com/Test-More/Test2-Harne
 Tk-StatusBar-0.04                       123473
 Business-OnlinePayment-CardConnect-0.004 123475
 Test-Taint-1.06                         119897
-Devel-Chitin-0.11                       https://rt.perl.org/Ticket/Display.html?id=132385
 Bit-Vector-7.4                          https://rt.perl.org/Ticket/Display.html?id=132385
 Javascript-Closure-0.09                 117455
 App-TestOnTap-0.040                     123491
@@ -3763,7 +3758,6 @@ Test-Ranger-v0.0.4                      https://rt.perl.org/rt3/Ticket/Display.h
 Org-Parser-0.54                         https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 XML-Assert-0.03                         https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Unicode-Tussle-1.111                    https://rt.perl.org/rt3/Ticket/Display.html?id=132594
-Zonemaster-LDNS-1.0.1                   123902
 HTTP-SimpleLinkChecker-1.165            https://github.com/briandfoy/http-simplelinkchecker/issues/3
 Alien-MuPDF-0.009                       123916
 WWW-Shorten-ptl-0.04                    123924
