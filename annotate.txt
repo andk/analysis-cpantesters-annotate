@@ -2590,7 +2590,6 @@ Text-Yats-0.03                          117762
 Bot-BasicBot-Pluggable-Module-Delicious-0.011 117721
 Text-EtText-2.2                         117764
 GDA-0.2                                 117765
-Poker-Robot-0.01                        117300
 JavaScript-Code-0.08                    101279
 File-ReadBackwards-1.05                 92313
 Data-Walker-1.05                        117768
@@ -2725,7 +2724,6 @@ Workflow-Wfmc-0.01e                     118148
 WoW-Wiki-0.01                           118150
 Mail-FilterXML-0.3                      118151
 SVN-Dumpfile-0.13.107                   118152
-Monitoring-GLPlugin-2.3.2.2             116130
 Text-Macros-0.04                        118193
 Util-SelfDestruct-1.21                  118194
 Business-Payment-SwissESR-0.13.3        https://github.com/oetiker/business-payment-swissesr/issues/3
@@ -2881,7 +2879,6 @@ LWP-UserAgent-Caching-Simple-0.02       119344
 Badger-0.12                             119422
 List-Pairwise-1.03                      https://rt.perl.org/Ticket/Display.html?id=130385
 Method-Signatures-20160315              https://rt.perl.org/Ticket/Display.html?id=130398
-Data-UUID-LibUUID-0.05_04               119469
 Scalar-Does-0.202                       119030
 HTML-SocialMedia-0.26                   119421
 Text-AutoCSV-1.1.4                      119440
@@ -3039,7 +3036,6 @@ Kavorka-0.037                           109841
 Business-OnlinePayment-Vindicia-Select-0.002 120948
 Sys-Prctl-1.02                          120911
 X11-Xlib-0.12                           121010
-App-MechaCPAN-0.17                      121054
 Contextual-Return-0.004012              121092
 App-UnifdefPlus-0.005.005               121135
 B-Tree-0.02                             84137
@@ -3114,7 +3110,6 @@ Config-Any-0.31                         121330,121331
 SWFEditor-0.09                          121333
 HTML-TableParser-0.42                   121341
 WWW-Mechanize-Shell-0.55                121334
-App-bovespa-0.002                       121335
 Date-Passover-1.12                      121343
 HTML-Selector-XPath-Simple-v0.0.3       121344
 Algorithm-CurveFit-1.05                 121352
@@ -3148,7 +3143,6 @@ App-SimpleHTTPServer-0.002              https://github.com/pink-mist/App-SimpleH
 eBay-API-0.25                           121392
 Farabi-0.47                             https://github.com/azawawi/farabi/issues/25
 LaTeXML-Plugin-LtxMojo-0.4              121393
-Minion-Backend-Storable-5.083           https://github.com/niczero/minion-backend-storable/issues/4
 Mojo-Cloudflare-0.04                    https://github.com/jhthorsen/mojo-cloudflare/issues/4
 Mojo-Cloudstack-0.07                    121394
 Mojo-CSV-1.001002                       https://github.com/zoffixznet/Mojo-CSV/issues/4
@@ -3252,7 +3246,6 @@ CPAN-Distribution-ReleaseHistory-0.002005 https://github.com/kentnl/CPAN-Distrib
 WWW-Finger-0.105                        122002
 CPANPLUS-Internals-Source-MetaCPAN-0.08 122003
 MetaCPAN-API-Tiny-1.150270              122004
-Dist-Surveyor-0.016                     122005
 Gtk2-Notify-0.05                        67467
 LWP-CurlLog-0.01                        122025
 HTML-WikiConverter-MediaWiki-0.59       110685
