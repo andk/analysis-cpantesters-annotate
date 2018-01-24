@@ -2041,7 +2041,6 @@ Math-BigInt-1.999725                    116123
 Devel-Declare-0.006018                  https://rt.perl.org/Ticket/Display.html?id=128621
 Lingua-FR-Numbers-1.161950              98817
 MooX-Options-4.023                      https://github.com/celogeek/MooX-Options/issues/53
-Attean-0.017                            https://github.com/kasei/perl-iri/issues/9
 Spreadsheet-ParseXLSX-0.25              https://github.com/doy/spreadsheet-parsexlsx/issues/62
 JMAP-Validation-0.005                   115130
 Image-Imager-Thumbnail-0.01             116318
@@ -2626,7 +2625,6 @@ Scalar-List-Utils-1.45_05               117815,117816
 Net-Mollom-0.09                         117822
 Timeout-Queue-1.02                      117825
 Text-PORE-1.02                          117826
-Genealogy-Gedcom-Date-2.07              117843
 App-BoolFindGrep-0.06                   117848
 File-Find-Rule-LibMagic-0.02            117850
 CPAN-SQLite-0.211                       117853
@@ -3171,7 +3169,6 @@ Tie-DB_FileLock-0.11                    121601
 Debug-EchoMessage-1.03                  121602
 Math-BigInt-Lite-0.17                   120893
 Audio-TagLib-1.67                       114586
-JSON-RPC-Spec-v1.0.6                    https://github.com/nqounet/p5-json-rpc-spec/issues/6
 Math-Polynomial-Solve-2.75              121649
 Modern-PBP-Perl-1.240                   121650
 TestRail-API-0.039                      121643
@@ -3475,7 +3472,6 @@ code-UnifdefPlus-0.005.004              120449,120449
 App-VideoHost-0.143310-TRIAL            https://github.com/EatMoreCode/video_host/issues/1
 Math-GSL-0.39                           123306
 Business-BR-CNJ-WebService-0.03         123326
-CGI-Info-0.64                           https://github.com/nigelhorne/CGI-Info/issues/7
 Mojo-IOLoop-ReadWriteProcess-0.09       123176
 oxdperl_sobhantest-3.2.1                123382
 JsonSQL-0.41                            123383
@@ -3562,7 +3558,6 @@ GraphQL-Plugin-Convert-DBIC-0.02        https://github.com/graphql-perl/GraphQL-
 App-CLI-Extension-1.421                 123655
 Whatever-0.23                           123654
 CSS-Simple-3224                         123656
-Perl-PrereqScanner-Lite-0.27            https://github.com/moznion/Perl-PrereqScanner-Lite/issues/18
 APISchema-1.28                          https://github.com/hitode909/APISchema/issues/24
 Message-Passing-Output-Search-Elasticsearch-0.004 123660
 Parallel-Prefork-0.18                   113449
