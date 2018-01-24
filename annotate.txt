@@ -1996,7 +1996,6 @@ Struct-Diff-0.54                        no bugtracker, use of experimental funct
 Script-Toolbox-0.49                     111379
 B-OPCheck-0.30                          https://rt.perl.org/rt3/Ticket/Display.html?id=128179
 IPC-Mmap-0.21                           https://rt.perl.org/rt3/Ticket/Display.html?id=128179
-Char-GBK-1.05                           114484
 CNC-Cog-0.061                           111909,111909
 Image-Resize-0.5                        60038,60038
 YATT-Lite-0.100                         106776
@@ -2804,7 +2803,6 @@ Math-Derivative_XS-0.02                 118685
 Thread-Queue-Any-1.14                   118686
 XML-miniXQL-0.04                        118699
 XML-Node-0.11                           27573
-MooX-BuildArgs-0.03                     https://github.com/bluefeet/MooX-BuildArgs/issues/5
 Socket-Multicast6-0.04                  118736
 Catalyst-Model-HTML-FormFu-1.00001      module is deprecated
 Net-Kotonoha-0.08                       118738
@@ -2883,7 +2881,6 @@ Scalar-Does-0.202                       119030
 HTML-SocialMedia-0.26                   119421
 Text-AutoCSV-1.1.4                      119440
 Git-Open-0.1.9                          119476
-CatalystX-Test-MockContext-0.000001     119477
 WWW-Search-Ebay-3.046                   119480
 Acme-State-0.03                         119520
 Text-FromAny-0.21                       119538
@@ -3721,7 +3718,6 @@ Tribology-Lubricant-0.01                123882
 XML-XSH-1.8.5                           123866
 App-sdif-3.2.3                          https://github.com/kaz-utashiro/sdif-tools/issues/2
 Panda-Time-3.1.4                        123881
-Catmandu-MARC-1.23                      https://github.com/LibreCat/Catmandu-MARC/commit/855037a8cb93c098f3aeeab0e1f9ad89283403bc#r26305354
 WWW-Freshmeat-0.22                      123889
 App-Cme-1.025                           https://github.com/dod38fr/cme-perl/issues/3
 Dancer2-Plugin-DebugDump-0.22           123893
