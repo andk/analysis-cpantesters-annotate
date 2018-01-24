@@ -3269,7 +3269,6 @@ JobCenter-Client-Mojo-0.22              https://github.com/a6502/JobCenter-Clien
 WWW-Scraper-ISBN-Blackwell_Driver-0.10  122155
 Perl6-Controls-0.000003                 122156
 Acme-Tools-0.21                         121321
-Mail-BIMI-1.20170624                    122197
 Text-FIGlet-2.19.3                      122198
 Yote-Server-1.26                        122201
 Keyword-Value-v0.1.1                    122185
@@ -3572,7 +3571,6 @@ APISchema-1.28                          https://github.com/hitode909/APISchema/i
 Message-Passing-Output-Search-Elasticsearch-0.004 123660
 Parallel-Prefork-0.18                   113449
 Catmandu-PICA-0.24                      https://github.com/gbv/Catmandu-PICA/issues/54
-QBit-Application-Model-DB-0.025         123516,https://github.com/QBitFramework/QBit-Application-Model-DB/issues/28
 Alien-libpid-0.02                       123679
 File-Random-0.18                        123680
 DBIx-Class-Schema-Loader-0.07047        123681
@@ -3605,7 +3603,6 @@ Class-Declare-Attributes-0.12           123669
 DBM-Deep-2.0014                         123811,https://rt.perl.org/Public/Bug/Display.html?id=132493
 Functional-Utility-1.02                 https://github.com/belden/perl-functional-utility/issues/2
 Glib-1.326                              123813,https://rt.perl.org/Public/Bug/Display.html?id=132252
-Prty-1.121                              https://rt.perl.org/Public/Bug/Display.html?id=132252
 B-RecDeparse-0.10                       https://rt.perl.org/Ticket/Display.html?id=132528
 Catalyst-View-Template-Lace-0.012       121385,https://github.com/jjn1056/Catalyst-View-Template-Lace/issues/1
 JCM-Boilerplate-1.018                   https://github.com/jmaslak/dotfiles/issues/1
@@ -3819,7 +3816,6 @@ DBIx-DataModel-2.47_03                  123995
 Job-Async-0.001                         https://github.com/team-at-cpan/Job-Async/issues/1
 XML-Schema-0.07                         71111
 ActiveRecord-Simple-1.01                124011
-QBit-Application-Model-DB-clickhouse-0.006 123073
 Struct-Path-JsonPointer-0.01            124038
 Test-Snapshot-0.03                      https://github.com/mohawk2/Test-Snapshot/issues/1
 Test-BDD-Cucumber-Definitions-0.03      https://github.com/ivanych/Test-BDD-Cucumber-Definitions/issues/1
@@ -3842,7 +3838,6 @@ App-ClusterSSH-4.13                     https://github.com/duncs/clusterssh/issu
 File-Slurp-9999.19                      88968
 Getopt-Long-Descriptive-0.100           https://github.com/rjbs/Getopt-Long-Descriptive/pull/25
 IO-Socket-SSL-2.052                     124141
-App-optex-v0.0.10                       https://github.com/kaz-utashiro/optex/issues/3
 B-Keywords-1.16                         124143
 Module-ExtractUse-0.341                 124146
 Class-MethodMaker-2.24                  124104
@@ -3882,7 +3877,6 @@ Mail-BIMI-1.20180122                    124182
 Mastodon-Client-0.013                   https://gitlab.com/jjatria/Mastodon-Client/issues/1
 PerlX-AsyncAwait-0.001002               124183
 Catalyst-Plugin-Session-0.40            89631
-Mojolicious-Plugin-SessionStorage-0.02  124187
 Test-Instance-Apache-0.001              https://github.com/TBSliver/Test-Instance-Apache/issues/5
 App-optex-v0.0.11                       https://github.com/kaz-utashiro/optex/issues/3
 QBit-Application-Model-DB-0.026         123516,https://github.com/QBitFramework/QBit-Application-Model-DB/issues/28
