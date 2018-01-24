@@ -2052,7 +2052,6 @@ Deeme-Backend-Mango-0.02                https://github.com/mudler/p5-Deeme-Backe
 Mojolicious-Command-generate-lexicont-0.05 https://github.com/dokechin/Mojolicious-Command-generate-lexicont/issues/2
 Mojolicious-Plugin-RelativeUrlFor-0.051 116350
 Math-NumSeq-71                          116357
-Mojo-UserAgent-Mockable-1.31            https://github.com/PopeFelix/Mojo-UserAgent-Mockable/issues/8
 Mojolicious-Plugin-Qaptcha-0.11         https://github.com/hrupprecht/Mojolicious-Plugin-Qaptcha/issues/2
 XML-Loy-0.42                            116363
 Dancer2-Plugin-HTTP-Auth-Extensible-0.121 116377
@@ -3879,7 +3878,6 @@ QBit-Application-Model-DB-0.026         123516,https://github.com/QBitFramework/
 QBit-Application-Model-DB-clickhouse-0.007 123073
 XS-Logger-0.003                         https://github.com/atoomic/XS-Logger/issues/1
 Prty-1.122                              124195
-Mojolicious-Plugin-SessionStorage-0.0.3 124187
 Mojolicious-Plugin-SessionStorage-0.1.4 124187
 Algorithm-ConstructDFA2-0.01            124209,124210
 Mojolicious-Plugin-AssetPack-Pipe-ElmLang-0.2 https://github.com/csandeep/mojolicious-plugin-assetpack-pipe-elmlang/issues/2
