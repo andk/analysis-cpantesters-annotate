@@ -3884,3 +3884,6 @@ App-revealup-0.21                       https://github.com/yusukebe/App-revealup
 Catalyst-Controller-Imager-0.06         124225
 GraphViz2-2.46                          124228
 Devel-Trace-Syscall-0.04                https://github.com/hoelzro/devel-trace-syscall/issues/19
+Scalar-Validation-0.700                 124232
+Plack-App-Proxy-0.29                    124233
+Sniffer-HTTP-0.24                       124234
