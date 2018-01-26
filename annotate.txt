@@ -1973,7 +1973,6 @@ AXL-Client-Simple-0.01                  111412
 Mojolicious-Plugin-UnicodeNormalize-1.20150802 111430
 Dist-Zilla-Plugin-RPM-0.011             111572
 MojoX-Transaction-WebSocket76-0.04      https://github.com/dionys/mojox-transaction-websocket76/issues/3
-LMDB_File-0.09                          112225
 Date-Easy-0.01                          https://github.com/barefootcoder/date-easy/issues/2
 Dancer2-Plugin-Swagger2-0.003           https://github.com/dboehmer/Dancer2-Plugin-Swagger2/issues/3
 Lemonldap-NG-Portal-1.9.1               113684
@@ -2013,7 +2012,6 @@ Encode-Arabic-14.1                      115138
 Inline-Awk-0.03                         115140
 Text-Amuse-Compile-0.59                 115177
 Dist-Zilla-PluginBundle-Author-KENTNL-2.025010 https://github.com/kentnl/Dist-Zilla-PluginBundle-Author-KENTNL/issues/1
-Pgtools-0.008                           https://github.com/tom--bo/Pgtools/issues/8
 Net-Fritz-v0.0.1                        115356
 Specio-0.21                             115418
 Lorem-0.22                              80289
@@ -3793,7 +3791,6 @@ Finance-Robinhood-0.20                  https://github.com/sanko/Finance-Robinho
 Google-Ads-AdWords-Client-5.0.0         118509
 File-LibMagic-1.16                      123962
 App-cpanexec-0.04                       https://github.com/oklas/cpanexec/issues/2
-FIAS-SQL-0.04                           123969
 Digest-PBKDF2-0.012                     123976
 Template-Resolver-1.16                  123977
 Algorithm-QuineMcCluskey-0.16           https://rt.perl.org/Ticket/Display.html?id=132671
