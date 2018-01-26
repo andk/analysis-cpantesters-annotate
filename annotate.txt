@@ -2878,7 +2878,6 @@ Scalar-Does-0.202                       119030
 HTML-SocialMedia-0.26                   119421
 Text-AutoCSV-1.1.4                      119440
 Git-Open-0.1.9                          119476
-WWW-Search-Ebay-3.046                   119480
 Acme-State-0.03                         119520
 Text-FromAny-0.21                       119538
 Weblogic-UserAdmin-1.03                 119539
