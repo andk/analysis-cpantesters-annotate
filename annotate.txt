@@ -2348,7 +2348,6 @@ Perl-Repository-APC-2.002001            117435
 PLUTO-0.30                              https://rt.perl.org/rt3/Ticket/Display.html?id=128139,117436
 Crypt-Nettle-0.3                        117438
 Memoize-Lift-0.000                      117439
-Memoize-Once-0.000                      117440
 HTML-CTPP2-2.6.7                        103536
 IPC-XPA-0.10                            117442
 App-Bernard-0.01                        117444
@@ -2740,7 +2739,6 @@ List-MergeSorted-XS-1.06                118261
 SWISH-3-1.000014                        118263
 CGI-Session-ODBC-0.5                    118274
 WWW-Mechanize-1.81                      https://github.com/libwww-perl/WWW-Mechanize/issues/54
-parent-0.235                            118310
 Net-API-Gett-1.06                       118315
 Business-OnlinePayment-eSelectPlus-0.07 118317
 LIVR-Contract-0.04                      118318
@@ -3180,7 +3178,6 @@ Server-Starter-0.33                     https://github.com/kazuho/p5-Server-Star
 StartCom-API-0.2                        121663
 Sys-Info-0.78                           120898
 Term-ANSIScreen-1.50                    120879
-Text-Markdown-Hoedown-1.01              https://github.com/tokuhirom/Text-Markdown-Hoedown/issues/7
 Unicode-Collate-1.19                    121664
 Unicode-EastAsianWidth-1.33             120750
 Mojar-Google-Analytics-1.112            https://github.com/niczero/mojar-google-analytics/issues/1
@@ -3455,7 +3452,6 @@ PFT-v1.2.1                              116333
 JPList-0.05                             123090
 Geo-Coder-Cache-0.06                    123135
 WebService-Qiita-V2-0.01                123152
-Config-Model-Backend-Augeas-0.121       https://github.com/dod38fr/config-model/issues/14
 String-Tagged-Terminal-0.01             123182
 Mylisp-2.0                              123183,123184
 Yandex-Disk-0.01                        123199
@@ -3607,7 +3603,6 @@ Prima-1.52                              https://rt.perl.org/Public/Bug/Display.h
 Data-Random-Flexible-1.01               123845
 OpenAPI-Client-0.11                     123394
 Perl-Critic-More-1.003                  123847
-Ryu-Async-0.008                         123430,https://github.com/team-at-cpan/Ryu-Async/issues/2
 Map-Tube-Milan-0.002                    https://github.com/mfontani/Map-Tube-Milan/issues/2
 App-CharmKit-2.08                       undeclared dependency, no issue tracker
 File-Rotate-Simple-v0.2.1               https://github.com/robrwo/File-Rotate-Simple/issues/10
