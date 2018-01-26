@@ -3879,3 +3879,12 @@ Mojolicious-Plugin-AssetPack-Pipe-ElmLang-0.2 https://github.com/csandeep/mojoli
 Catalyst-Plugin-Static-Simple-0.34      124211
 List-Lazy-0.3.0                         https://github.com/yanick/List-Lazy/issues/3,https://rt.perl.org/Ticket/Display.html?id=132760
 Mojo-UserAgent-Mockable-1.53            https://github.com/PopeFelix/Mojo-UserAgent-Mockable/issues/18
+Business-YQL-0.0004                     124215
+WebService-Yamli-0.003                  https://github.com/athreef/WebService-Yamli/issues/1
+WWW-Search-Ebay-3.047                   124216
+Bio-PhyloXS-v0.1.0                      https://github.com/rvosa/bio-phylo-xs/issues/7
+Module-CPANTS-ProcessCPAN-0.77          124220
+App-revealup-0.21                       https://github.com/yusukebe/App-revealup/issues/11
+Catalyst-Controller-Imager-0.06         124225
+GraphViz2-2.46                          124228
+Devel-Trace-Syscall-0.04                https://github.com/hoelzro/devel-trace-syscall/issues/19
