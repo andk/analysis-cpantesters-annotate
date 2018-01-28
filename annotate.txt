@@ -2997,7 +2997,6 @@ Dancer2-0.205000                        https://github.com/PerlDancer/Dancer2/is
 PEF-Front-WebSocket-0.06                https://github.com/jef-sure/pef-front-websocket/issues/2
 Authen-SASL-XS-1.00                     120606
 Crypt-Password-0.28                     120609
-Mojolicious-Plugin-SimpleSlides-0.05    deprecated
 circle-be-0.170740                      101151
 Footprintless-1.24                      118360
 Tickit-Widget-Scroller-0.22             120636
@@ -3519,7 +3518,6 @@ Business-OnlinePayment-CardConnect-0.004 123475
 Test-Taint-1.06                         119897
 Bit-Vector-7.4                          https://rt.perl.org/Ticket/Display.html?id=132385
 Javascript-Closure-0.09                 117455
-App-TestOnTap-0.040                     123491
 IPC-System-Simple-1.25                  https://github.com/pjf/ipc-system-simple/issues/21
 Lexical-Types-0.16                      https://rt.perl.org/Ticket/Display.html?id=132385
 UNIVERSAL-isa-1.20171012                https://rt.perl.org/Ticket/Display.html?id=132395
