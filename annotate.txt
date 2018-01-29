@@ -3883,3 +3883,4 @@ GraphQL-Plugin-Convert-OpenAPI-0.08     https://github.com/graphql-perl/GraphQL-
 MarekPodHtml-0.49                       94629
 Catalyst-Plugin-Static-Simple-ButMaintained-0.30 124245
 CGI-Application-MailPage-1.7            124257,124258
+Mojolicious-Plugin-Paging-0.0.2         124265
