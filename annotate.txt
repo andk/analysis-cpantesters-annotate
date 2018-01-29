@@ -3163,7 +3163,6 @@ Tie-DB_FileLock-0.11                    121601
 Debug-EchoMessage-1.03                  121602
 Math-BigInt-Lite-0.17                   120893
 Audio-TagLib-1.67                       114586
-Math-Polynomial-Solve-2.75              121649
 Modern-PBP-Perl-1.240                   121650
 TestRail-API-0.039                      121643
 Acme-CPANAuthors-Turkish-0.23           121657
@@ -3587,7 +3586,6 @@ Functional-Utility-1.02                 https://github.com/belden/perl-functiona
 Glib-1.326                              123813,https://rt.perl.org/Public/Bug/Display.html?id=132252
 B-RecDeparse-0.10                       https://rt.perl.org/Ticket/Display.html?id=132528
 Catalyst-View-Template-Lace-0.012       121385,https://github.com/jjn1056/Catalyst-View-Template-Lace/issues/1
-JCM-Boilerplate-1.018                   https://github.com/jmaslak/dotfiles/issues/1
 BioX-Workflow-Command-2.3.1             https://github.com/biosails/BioX-Workflow-Command/issues/40
 ISO-639-20171206                        123828
 Test-API-0.008                          https://github.com/dagolden/Test-API/issues/7,https://github.com/dagolden/Test-API/pull/6
@@ -3601,7 +3599,6 @@ Prima-1.52                              https://rt.perl.org/Public/Bug/Display.h
 Data-Random-Flexible-1.01               123845
 OpenAPI-Client-0.11                     123394
 Perl-Critic-More-1.003                  123847
-Map-Tube-Milan-0.002                    https://github.com/mfontani/Map-Tube-Milan/issues/2
 App-CharmKit-2.08                       undeclared dependency, no issue tracker
 File-Rotate-Simple-v0.2.1               https://github.com/robrwo/File-Rotate-Simple/issues/10
 PerlX-bash-0.01                         https://github.com/barefootcoder/perlx-bash/issues/2
