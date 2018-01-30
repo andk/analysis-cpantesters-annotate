@@ -1153,7 +1153,6 @@ Games-Othello-0.01                      108973
 Graphics-GnuplotIF-Shortcut-0.03        108974
 Hoppy-0.01005                           108975
 HTML-XHTML-DVSM-1.2                     108976
-DateTime-Format-Human-Duration-0.62     108601
 Acme-Greek-1.0                          108980
 Acme-Hoge-0.03                          108981
 DBX-Simple-0.01                         108982
@@ -3424,7 +3423,6 @@ BSD-Process-0.07                        88975,122947
 WebService-NextEpisode-0.001            https://github.com/athreef/WebService-NextEpisode/issues/1
 Proc-Swarm-1.161060                     https://github.com/dana/perl-Proc-Swarm/issues/2
 Dios-0.002011                           123015
-JSON-Schema-ToJSON-0.11                 123016
 Pod-POM-Web-1.22                        123017
 SVN-S4-1.066                            https://www.veripool.org/issues/1207-SVN::S4-Non-portable-use-of-xargs,https://www.veripool.org/issues/1208-SVN::S4-FS-format-7
 Geo-OSM-DBI-0.01                        123024,123025
@@ -3566,8 +3564,6 @@ GitHub-Crud-20171124                    123740
 MsgPack-RPC-2.0.0                       https://github.com/yanick/MsgPack-RPC/issues/9,https://github.com/yanick/MsgPack-RPC/issues/10
 Neovim-RPC-1.0.0                        https://github.com/yanick/Neovim-RPC/issues/4
 Neovim-RPC-Plugin-Taskwarrior-0.0.1     https://github.com/yanick/Neovim-RPC/issues/5
-PDF-Builder-3.008                       123757
-IO-ReadHandle-Chain-1.0                 123770
 SMS-Send-Sergel-Simple-HTTP-0.02        https://github.com/eskaaren/SMS-Send-Sergel-Simple-HTTP/issues/3
 optex-0.02                              https://github.com/kaz-utashiro/optex/issues/1
 Params-ValidationCompiler-0.25          https://github.com/houseabsolute/Params-ValidationCompiler/issues/19
@@ -3704,7 +3700,6 @@ Dancer2-Plugin-DebugDump-0.22           123893
 Mail-SpamAssassin-3.4.1.                https://bz.apache.org/SpamAssassin/show_bug.cgi?id=7265,https://bz.apache.org/SpamAssassin/show_bug.cgi?id=7522
 FSM-Basic-0.14                          123894
 Yancy-0.007                             https://github.com/preaction/Yancy/issues/4
-Test-Roo-DataDriven-v0.2.0              https://github.com/robrwo/Test-Roo-DataDriven/issues/6
 DateTime-Format-Strptime-1.74           https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 DBIx-Class-Candy-0.005003               https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Regexp-Common-2017060201                https://rt.perl.org/rt3/Ticket/Display.html?id=132594
