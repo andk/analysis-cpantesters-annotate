@@ -3884,3 +3884,9 @@ MarekPodHtml-0.49                       94629
 Catalyst-Plugin-Static-Simple-ButMaintained-0.30 124245
 CGI-Application-MailPage-1.7            124257,124258
 Mojolicious-Plugin-Paging-0.0.2         124265
+CPAN-Reporter-Smoker-Safer-0.04         96959
+Math-MatrixReal-2.13                    101173
+Mojolicious-Plugin-OpenAPI-1.25         https://github.com/jhthorsen/mojolicious-plugin-openapi/issues/59
+Fukurama-Class-0.032                    124263
+WWW-Selenium-Utils-0.09                 124264
+Hash-Wrap-0.04                          124266
