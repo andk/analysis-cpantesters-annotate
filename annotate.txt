@@ -1752,7 +1752,6 @@ Kwiki-GDGraphGenerator-0.04             113468
 Kwiki-VimMode-0.05                      113469
 Tie-LogFile-0.1                         113474
 WWW-Mixi-OO-0.03                        113509
-TOML-Parser-0.07                        https://github.com/karupanerura/TOML-Parser/issues/7
 Net-IPA-1.0                             113511
 App-iTan-1.06                           113160
 Catalyst-Plugin-DBIC-Schema-Profiler-0.06 113559
@@ -2743,7 +2742,6 @@ ETL-Pipeline-2.02                       117766
 WebService-Images-Nofrag-0.06           118362
 Eixo-Rest-1.206                         118387
 Test-RestAPI-0.1.4                      https://github.com/JaSei/Test-RestAPI/issues/1
-Text-HikiDoc-1.022                      https://github.com/higemaru/p5-text-hikidoc/issues/1
 AnyEvent-Riak-0.93                      https://github.com/dams/p5-anyevent-riak/issues/1
 File-Find-Rule-Age-0.302                106579
 App-GitHubWebhooks2Ikachan-0.10         https://github.com/moznion/App-GitHubWebhooks2Ikachan/issues/1
@@ -3255,7 +3253,6 @@ Text-FIGlet-2.19.3                      122198
 Yote-Server-1.26                        122201
 Keyword-Value-v0.1.1                    122185
 Log-ger-OptAway-0.002                   122192
-Log-ger-Output-LogAny-0.003             122193
 Test-PDL-0.13                           122194
 Feersum-1.405                           122177
 Keyword-TreeFold-v0.1.1                 122184
@@ -3785,7 +3782,6 @@ DBIx-DataModel-2.47_03                  123995
 Job-Async-0.001                         https://github.com/team-at-cpan/Job-Async/issues/1
 XML-Schema-0.07                         71111
 ActiveRecord-Simple-1.01                124011
-Struct-Path-JsonPointer-0.01            124038
 Test-Snapshot-0.03                      https://github.com/mohawk2/Test-Snapshot/issues/1
 Test-BDD-Cucumber-Definitions-0.03      https://github.com/ivanych/Test-BDD-Cucumber-Definitions/issues/1
 PDL-Algorithm-Center-0.06               124043
