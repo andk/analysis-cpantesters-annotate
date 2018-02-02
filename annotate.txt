@@ -3883,3 +3883,6 @@ Mojolicious-Plugin-OpenAPI-1.25         https://github.com/jhthorsen/mojolicious
 Fukurama-Class-0.032                    124263
 WWW-Selenium-Utils-0.09                 124264
 Hash-Wrap-0.04                          124266
+Mojolicious-Plugin-AssetPack-Pipe-ElmLang-0.3 https://github.com/csandeep/mojolicious-plugin-assetpack-pipe-elmlang/issues/2
+WWW-Scraper-ISBN-TWSanmin_Driver-0.02   124276
+Thread-RWLock-1.02                      124295
