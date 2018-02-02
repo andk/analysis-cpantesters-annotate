@@ -3853,7 +3853,6 @@ XS-Logger-0.003                         https://github.com/atoomic/XS-Logger/iss
 Prty-1.122                              124195
 Mojolicious-Plugin-SessionStorage-0.1.4 124187
 Algorithm-ConstructDFA2-0.01            124209,124210
-Mojolicious-Plugin-AssetPack-Pipe-ElmLang-0.2 https://github.com/csandeep/mojolicious-plugin-assetpack-pipe-elmlang/issues/2
 Catalyst-Plugin-Static-Simple-0.34      124211
 List-Lazy-0.3.0                         https://github.com/yanick/List-Lazy/issues/3,https://rt.perl.org/Ticket/Display.html?id=132760
 Mojo-UserAgent-Mockable-1.53            https://github.com/PopeFelix/Mojo-UserAgent-Mockable/issues/18
