@@ -242,7 +242,6 @@ Pod-Coverage-MethodSignatures-0.02      74873
 Scalar-Construct-0.000                  74910
 Text-Ngramize-1.03                      74983
 mysubs-1.14                             74985
-WWW-Scraper-ISBN-TWSanmin_Driver-0.02   75133
 CatalystX-AuthenCookie-0.02             harmless: a few fails due to old B::Hooks::EndOfScope
 MooseX-Struct-0.06                      75321
 CGI-Application-Plugin-CaptureIO-0.01   67178
@@ -3884,5 +3883,5 @@ Fukurama-Class-0.032                    124263
 WWW-Selenium-Utils-0.09                 124264
 Hash-Wrap-0.04                          124266
 Mojolicious-Plugin-AssetPack-Pipe-ElmLang-0.3 https://github.com/csandeep/mojolicious-plugin-assetpack-pipe-elmlang/issues/2
-WWW-Scraper-ISBN-TWSanmin_Driver-0.02   124276
+WWW-Scraper-ISBN-TWSanmin_Driver-0.02   75133,124276
 Thread-RWLock-1.02                      124295
