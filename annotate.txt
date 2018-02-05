@@ -3880,3 +3880,11 @@ Hash-Wrap-0.04                          124266
 Mojolicious-Plugin-AssetPack-Pipe-ElmLang-0.3 https://github.com/csandeep/mojolicious-plugin-assetpack-pipe-elmlang/issues/2
 WWW-Scraper-ISBN-TWSanmin_Driver-0.02   75133,124276
 Thread-RWLock-1.02                      124295
+App-Pastebin-sprunge-0.012              https://github.com/doherty/App-Pastebin-sprunge/issues/4
+EZID-0.02                               124300
+Mojolicious-Plugin-AssetPack-Pipe-ElmLang-0.4 https://github.com/csandeep/mojolicious-plugin-assetpack-pipe-elmlang/issues/2
+Devel-Scope-0.02                        124317
+PerlX-AsyncAwait-0.001002               124318
+WWW-Velib-0.05                          124319
+AtteanX-Compatibility-Trine-0.001       https://github.com/kjetilk/p5-atteanx-compatibility-trine/issues/2
+RDF-RDFa-Generator-0.192                https://github.com/kjetilk/p5-rdf-rdfa-generator/issues/2
