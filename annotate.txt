@@ -516,7 +516,6 @@ Enbugger-2.016                          95079
 IO-Pty-Easy-0.09                        95702
 Cisco-Regex-0.91                        95703
 Embperl-2.5.0                           95335
-Filesys-POSIX-0.9.12                    95838
 Test-DBICSchemaLoaderDigest-0.04        https://github.com/RsrchBoy/test-dbicschemaloaderdigest/issues/2
 ifdef-0.09                              95772 (needs more work)
 Log-Report-1.02                         https://rt.perl.org/Ticket/Display.html?id=121941
@@ -2017,7 +2016,6 @@ HDB-1.05                                115713
 Class-HPLOO-0.23                        115714
 Apache-Session-SharedMem-0.6            115766
 Dist-Metadata-0.926                     115814
-Ogg-Vorbis-Header-0.04                  115794
 Module-Install-TestTarget-0.19          102922
 String-Compare-ConstantTime-0.311       https://github.com/hoytech/String-Compare-ConstantTime/issues/4
 Carp-Always-0.13                        115841
@@ -2437,7 +2435,6 @@ XML-AutoWriter-0.4                      76225
 Devel-Kit-0.81                          105980
 App-Kit-0.62                            117541
 Alien-Box2D-0.105                       117542
-Alien-ROOT-v5.34.3.1                    117543
 Unix-PID-Tiny-0.91                      94785
 Algorithm-MedianSelect-XS-0.21          76474
 App-Open-0.0.4                          106586
@@ -3245,7 +3242,6 @@ Graphics-Fig-v1.0.2                     122059
 SQL-Schema-Versioned-0.21               122145
 Beam-Runner-0.012                       https://github.com/preaction/Beam-Runner/issues/11
 JSON-Tiny-0.56                          122139
-JobCenter-Client-Mojo-0.22              https://github.com/a6502/JobCenter-Client-Mojo/issues/1
 WWW-Scraper-ISBN-Blackwell_Driver-0.10  122155
 Perl6-Controls-0.000003                 122156
 Acme-Tools-0.21                         121321
@@ -3556,7 +3552,6 @@ Getopt-Flex-1.07                        123715
 criticism-1.02                          123714
 Clownfish-0.6.2                         https://issues.apache.org/jira/browse/CLOWNFISH-119
 Martian-0.06                            123733
-GitHub-Crud-20171124                    123740
 MsgPack-RPC-2.0.0                       https://github.com/yanick/MsgPack-RPC/issues/9,https://github.com/yanick/MsgPack-RPC/issues/10
 Neovim-RPC-1.0.0                        https://github.com/yanick/Neovim-RPC/issues/4
 Neovim-RPC-Plugin-Taskwarrior-0.0.1     https://github.com/yanick/Neovim-RPC/issues/5
@@ -3828,7 +3823,6 @@ Minion-Backend-Storable-7.012           https://github.com/niczero/minion-backen
 Monitoring-GLPlugin-2.4.14.6            124161
 Moonshine-Util-0.07                     124162
 Business-OnlinePayment-CardFortress-0.04 124163
-HPC-Runner-Command-3.2.13               https://github.com/biosails/HPC-Runner-Command/issues/34
 MooseX-ErrorHandling-0.2                124164
 Data-UUID-LibUUID-0.05                  119469
 Net-Whois-RIPE-2.006002                 https://github.com/arhuman/Net-Whois-RIPE/issues/22
