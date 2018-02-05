@@ -3839,7 +3839,6 @@ MooseX-Exception-Rot13-0.001            124181
 Git-Repository-Plugin-Status-0.03       https://github.com/nichtich/Git-Repository-Plugin-Status/issues/3
 Mail-BIMI-1.20180122                    124182
 Mastodon-Client-0.013                   https://gitlab.com/jjatria/Mastodon-Client/issues/1
-PerlX-AsyncAwait-0.001002               124183
 Catalyst-Plugin-Session-0.40            89631
 Test-Instance-Apache-0.001              https://github.com/TBSliver/Test-Instance-Apache/issues/5
 App-optex-v0.0.11                       https://github.com/kaz-utashiro/optex/issues/3
@@ -3884,7 +3883,7 @@ App-Pastebin-sprunge-0.012              https://github.com/doherty/App-Pastebin-
 EZID-0.02                               124300
 Mojolicious-Plugin-AssetPack-Pipe-ElmLang-0.4 https://github.com/csandeep/mojolicious-plugin-assetpack-pipe-elmlang/issues/2
 Devel-Scope-0.02                        124317
-PerlX-AsyncAwait-0.001002               124318
+PerlX-AsyncAwait-0.001002               124183,124318
 WWW-Velib-0.05                          124319
 AtteanX-Compatibility-Trine-0.001       https://github.com/kjetilk/p5-atteanx-compatibility-trine/issues/2
 RDF-RDFa-Generator-0.192                https://github.com/kjetilk/p5-rdf-rdfa-generator/issues/2
