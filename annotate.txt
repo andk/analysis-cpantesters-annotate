@@ -3763,7 +3763,6 @@ Mojolicious-Plugin-PgLock-0.01          https://github.com/onokhov/Mojolicious-P
 Text-Amuse-0.94                         123958
 Geo-Proj-Japan-0.0.2                    123950
 Finance-Robinhood-0.20                  https://github.com/sanko/Finance-Robinhood/issues/2
-Google-Ads-AdWords-Client-5.0.0         118509
 File-LibMagic-1.16                      123962
 App-cpanexec-0.04                       https://github.com/oklas/cpanexec/issues/2
 Digest-PBKDF2-0.012                     123976
@@ -3778,7 +3777,6 @@ Job-Async-0.001                         https://github.com/team-at-cpan/Job-Asyn
 XML-Schema-0.07                         71111
 ActiveRecord-Simple-1.01                124011
 Test-Snapshot-0.03                      https://github.com/mohawk2/Test-Snapshot/issues/1
-Test-BDD-Cucumber-Definitions-0.03      https://github.com/ivanych/Test-BDD-Cucumber-Definitions/issues/1
 PDL-Algorithm-Center-0.06               124043
 Math-WalshTransform-1.17                122909
 Mojolicious-Command-generate-resources-0.04 https://github.com/kberov/Mojolicious-Command-generate-resources/issues/1
