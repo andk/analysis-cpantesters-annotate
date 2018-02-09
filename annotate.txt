@@ -3880,3 +3880,6 @@ PerlX-AsyncAwait-0.001002               124183,124318
 WWW-Velib-0.05                          124319
 AtteanX-Compatibility-Trine-0.001       https://github.com/kjetilk/p5-atteanx-compatibility-trine/issues/2
 RDF-RDFa-Generator-0.192                https://github.com/kjetilk/p5-rdf-rdfa-generator/issues/2
+WWW-Fimfiction-v0.3.7                   124343
+Test-BDD-Cucumber-Definitions-0.09      https://github.com/ivanych/Test-BDD-Cucumber-Definitions/issues/2
+Google-Ads-AdWords-Client-5.1.0         118509
