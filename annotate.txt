@@ -1843,7 +1843,6 @@ Dallycot-0.151630                       114585
 Sub-Call-Tail-0.06                      112244
 Lingua-Identify-CLD2-0.03               114587,114588
 DBIx-Fast-0.07                          114615
-Mojolicious-Plugin-Helper-Vars-0.0002   114622
 Test-Flatten-0.11                       https://github.com/xaicron/p5-Test-Flatten/issues/5
 RocksDB-0.04                            https://github.com/spiritloose/RocksDB/issues/3
 Log-Dispatch-Config-TestLog-0.02        61462,https://github.com/schwern/test-more/issues/651,114617
@@ -2051,7 +2050,6 @@ Date-Japanese-Era-0.06                  116381
 Lingua-Slavic-Numbers-0.03              https://rt.perl.org/rt3/Ticket/Display.html?id=128139,116382
 URI-Find-Schemeless-Stricter-1.03       116383
 XML-DOM-XPath-0.14                      https://rt.perl.org/Ticket/Display.html?id=128622,115098
-BibTeX-Parser-0.69                      https://rt.perl.org/rt3/Ticket/Display.html?id=128139,116391
 Crypt-SaltedHash-0.09                   116392
 XML-Atom-0.41                           https://rt.perl.org/rt3/Ticket/Display.html?id=122121,115101
 Devel-NYTProf-6.03                      https://rt.perl.org/rt3/Ticket/Display.html?id=128179,https://github.com/timbunce/devel-nytprof/issues/97
@@ -2835,7 +2833,6 @@ Speech-Recognizer-SPX-0.09              40537
 BatchSystem-SBS-0.41                    41692
 CGI-FileUpload-0.03                     41693
 Kafka-Librd-0.04                        https://github.com/trinitum/perl-Kafka-Librd/issues/2
-SilverGoldBull-API-0.06                 119003
 Lucy-0.6.0.3                            https://issues.apache.org/jira/browse/LUCY-316
 Device-Serdisp-0.06                     119023
 Algorithm-MarkovChain-GHash-0.01        119024
