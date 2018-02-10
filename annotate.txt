@@ -3878,3 +3878,5 @@ RDF-RDFa-Generator-0.192                https://github.com/kjetilk/p5-rdf-rdfa-g
 WWW-Fimfiction-v0.3.7                   124343
 Test-BDD-Cucumber-Definitions-0.09      https://github.com/ivanych/Test-BDD-Cucumber-Definitions/issues/2
 Google-Ads-AdWords-Client-5.1.0         118509
+SPVM-0.0309                             124384
+DT-0.2.2                                https://github.com/nohuhu/DT/issues/3
