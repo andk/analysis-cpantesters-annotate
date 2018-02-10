@@ -3784,7 +3784,6 @@ Net-Ethereum-0.28                       123919
 MVC-Neaf-0.2201                         124124
 Catalyst-Runtime-5.90116                124136
 MarpaX-ESLIF-ECMA404-0.008              124137
-SPVM-0.0305                             124123
 Time-OlsonTZ-Download-0.008             124138
 Sys-Syscall-0.25                        124139
 Math-GComplex-0.06                      https://github.com/trizen/Math-GComplex/issues/2
