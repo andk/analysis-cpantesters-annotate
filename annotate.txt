@@ -1969,7 +1969,6 @@ Dist-Zilla-Plugin-RPM-0.011             111572
 MojoX-Transaction-WebSocket76-0.04      https://github.com/dionys/mojox-transaction-websocket76/issues/3
 Date-Easy-0.01                          https://github.com/barefootcoder/date-easy/issues/2
 Dancer2-Plugin-Swagger2-0.003           https://github.com/dboehmer/Dancer2-Plugin-Swagger2/issues/3
-Lemonldap-NG-Portal-1.9.1               113684
 HTML-CalendarMonth-2.03                 113513
 JSV-0.07                                https://github.com/zigorou/perl-JSV/issues/45
 Catmandu-LIDO-0.01                      https://github.com/LibreCat/Catmandu-LIDO/issues/1
@@ -3524,7 +3523,6 @@ WebService-TestSystem-0.06              123602
 Geo-Coder-Many-0.47                     121414,module is deprecated
 HTTP-Cache-Transparent-1.4              123611
 Bio-Gonzales-0.071                      123614
-Syntax-Highlight-Engine-Simple-Perl-0.05 110323,https://github.com/lab-measurement/Syntax-Highlight-Engine-Simple-Perl/issues/2
 DBD-Firebird-1.25                       123623
 Morpheus-0.46                           https://github.com/druxa/morpheus/issues/3
 Tk-Help-0.3                             123632
