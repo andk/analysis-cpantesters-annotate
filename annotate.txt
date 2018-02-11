@@ -3877,3 +3877,6 @@ Test-BDD-Cucumber-Definitions-0.09      https://github.com/ivanych/Test-BDD-Cucu
 Google-Ads-AdWords-Client-5.1.0         118509
 SPVM-0.0309                             124384
 DT-0.2.2                                https://github.com/nohuhu/DT/issues/3
+Dist-Zilla-6.011                        https://github.com/rjbs/Dist-Zilla/issues/612
+DBD-Pg-3.7.1                            124393,124394,124395
+Plugin-Simple-1.01                      https://github.com/stevieb9/p5-plugin-simple/issues/11
