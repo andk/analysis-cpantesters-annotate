@@ -3874,3 +3874,6 @@ Games-RolePlay-MapGen-1.5008            124345
 RDF-Endpoint-0.09                       124403
 POE-Filter-SSL-0.41                     124442
 Object-Trampoline-1.42                  124441
+SPVM-0.0310                             124384
+Catalyst-Runtime-5.90117                124450
+Fsdb-2.64                               124452
