@@ -3702,7 +3702,6 @@ Mail-Milter-Authentication-v1.1.7       https://github.com/fastmail/authenticati
 Finance-Contract-0.011                  122114,https://github.com/binary-com/perl-Finance-Contract/issues/32,https://github.com/binary-com/perl-Finance-Contract/issues/33
 Mail-Message-3.004                      123929
 Bio-FastParsers-0.173510                123930
-Mojolicious-Plugin-Prometheus-1.0.2     https://github.com/tyldum/mojolicious-plugin-prometheus/issues/3
 Class-Spiffy-0.15                       123675
 Config-TinyDNS-1                        https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Data-Dump-Partial-0.05                  https://rt.perl.org/rt3/Ticket/Display.html?id=132594
