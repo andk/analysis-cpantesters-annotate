@@ -3166,7 +3166,6 @@ Mojolicious-Plugin-INIConfig-Extended-0.06 121669
 Net-Nslookup-2.04                       108184,121672
 CatalystX-VCS-Lookup-0.06               121673
 Net-Easypost-0.19                       121674
-Sub-Talisman-Struct-0.005               121677
 Text-SenseClusters-LabelEvaluation-0.06 121689
 Text-SenseClusters-LabelEvaluation-Driver-0.09 121690
 XML-SRS-0.09                            90666
