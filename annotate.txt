@@ -518,7 +518,6 @@ Cisco-Regex-0.91                        95703
 Embperl-2.5.0                           95335
 Test-DBICSchemaLoaderDigest-0.04        https://github.com/RsrchBoy/test-dbicschemaloaderdigest/issues/2
 ifdef-0.09                              95772 (needs more work)
-Log-Report-1.02                         https://rt.perl.org/Ticket/Display.html?id=121941
 Parse-Selenese-0.006                    95655
 overload-eval-0.10                      95269
 ensure-1.10                             95312
@@ -1954,7 +1953,6 @@ Mojolicious-Plugin-MailException-0.19   https://github.com/dr-co/libmojolicious-
 SOAP-Lite-1.19                          106725
 AnyEvent-Fork-1.2                       106900
 WWW-Mechanize-PhantomJS-0.11            108505
-Map-Tube-London-0.74                    109054
 RateLimitations-0.03                    https://github.com/binary-com/perl-RateLimitations/issues/1
 Gimp-2.31                               110704
 WWW-Scripter-Plugin-JavaScript-0.008a   110763
@@ -3430,7 +3428,6 @@ JPList-0.05                             123090
 Geo-Coder-Cache-0.06                    123135
 WebService-Qiita-V2-0.01                123152
 String-Tagged-Terminal-0.01             123182
-Mylisp-2.0                              123183,123184
 Yandex-Disk-0.01                        123199
 Term-Table-0.011                        https://github.com/exodist/Term-Table/issues/8
 Marky-0.035                             123251
@@ -3677,7 +3674,6 @@ App-Cme-1.025                           https://github.com/dod38fr/cme-perl/issu
 Mail-SpamAssassin-3.4.1.                https://bz.apache.org/SpamAssassin/show_bug.cgi?id=7265,https://bz.apache.org/SpamAssassin/show_bug.cgi?id=7522
 FSM-Basic-0.14                          123894
 Yancy-0.007                             https://github.com/preaction/Yancy/issues/4
-DateTime-Format-Strptime-1.74           https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 DBIx-Class-Candy-0.005003               https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Regexp-Common-2017060201                https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Syntax-Keyword-Junction-0.003008        https://rt.perl.org/rt3/Ticket/Display.html?id=132594
@@ -3757,7 +3753,6 @@ Symbol-Global-Name-0.05                 https://rt.perl.org/Public/Bug/Display.h
 psh-1.8                                 105916
 Devel-SharedLibs-v0.3.3                 123992
 ack-2.999_01                            https://github.com/beyondgrep/ack2/issues/656
-Job-Async-0.001                         https://github.com/team-at-cpan/Job-Async/issues/1
 XML-Schema-0.07                         71111
 ActiveRecord-Simple-1.01                124011
 Test-Snapshot-0.03                      https://github.com/mohawk2/Test-Snapshot/issues/1
