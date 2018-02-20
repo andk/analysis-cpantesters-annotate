@@ -3877,3 +3877,6 @@ Devel-TimeStats-0.04                    124450
 Mojolicious-Plugin-Prometheus-1.1.0     https://github.com/tyldum/mojolicious-plugin-prometheus/issues/15
 JSONAPI-Document-0.1                    124454
 Test-Mojo-Role-Debug-JSON-0.003         https://github.com/atoomic/Test-Mojo-Role-Debug-JSON/issues/1
+Graph-Feather-0.03                      124457
+Parse-ABNF-0.26                         124466
+URI-Fast-0.01                           https://github.com/sysread/URI-Fast/issues/1
