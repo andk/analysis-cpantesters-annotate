@@ -3875,3 +3875,4 @@ Test-Mojo-Role-Debug-JSON-0.003         https://github.com/atoomic/Test-Mojo-Rol
 Graph-Feather-0.03                      124457
 Parse-ABNF-0.26                         124466
 URI-Fast-0.01                           https://github.com/sysread/URI-Fast/issues/1
+Text-Summarizer-1.050                   124493
