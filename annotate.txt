@@ -514,7 +514,6 @@ OAuth2-Google-Plus-0.03                 90368
 Catalyst-Controller-SOAP-1.25           95327
 Enbugger-2.016                          95079
 IO-Pty-Easy-0.09                        95702
-Cisco-Regex-0.91                        95703
 Embperl-2.5.0                           95335
 Test-DBICSchemaLoaderDigest-0.04        https://github.com/RsrchBoy/test-dbicschemaloaderdigest/issues/2
 ifdef-0.09                              95772 (needs more work)
@@ -952,7 +951,6 @@ Chimaera-Matcher-1.01                   107892
 AWS-Signature-V2-0.01                   https://github.com/kablamo/AWS-Signature-V2/issues/1
 Plack-Middleware-DNSBL-0.0304           107913
 outthentic-0.0.2                        renamed to Outthentic
-Outthentic-0.0.5                        107961
 AnyEvent-Curl-Multi-1.1                 105767
 Filesys-Df-0.92                         107904
 Filesys-Statvfs-0.82                    108191
@@ -1803,7 +1801,6 @@ WWW-Shorten-iiipe-1.00                  114133
 Object-Previous-1.1012                  112245
 Orochi-0.00010                          114144
 once-1.101420                           114313
-Crypt-JWT-0.015                         114343
 Net-Douban-1.14                         https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 Config-Std-0.901                        114342,https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 Lingua-EN-Tagger-0.25                   114491,https://rt.perl.org/rt3/Ticket/Display.html?id=128139
@@ -1958,12 +1955,10 @@ Gimp-2.31                               110704
 WWW-Scripter-Plugin-JavaScript-0.008a   110763
 Net-Address-Ethernet-1.123              110772
 Dist-Zilla-Plugin-CheckPrereqsIndexed-0.017 https://github.com/rjbs/Dist-Zilla-Plugin-CheckPrereqsIndexed/issues/19
-AXL-Client-Simple-0.01                  111412
 Mojolicious-Plugin-UnicodeNormalize-1.20150802 111430
 Dist-Zilla-Plugin-RPM-0.011             111572
 MojoX-Transaction-WebSocket76-0.04      https://github.com/dionys/mojox-transaction-websocket76/issues/3
 Date-Easy-0.01                          https://github.com/barefootcoder/date-easy/issues/2
-Dancer2-Plugin-Swagger2-0.003           https://github.com/dboehmer/Dancer2-Plugin-Swagger2/issues/3
 HTML-CalendarMonth-2.03                 113513
 JSV-0.07                                https://github.com/zigorou/perl-JSV/issues/45
 Catmandu-LIDO-0.01                      https://github.com/LibreCat/Catmandu-LIDO/issues/1
@@ -2732,7 +2727,6 @@ Test-RestAPI-0.1.4                      https://github.com/JaSei/Test-RestAPI/is
 AnyEvent-Riak-0.93                      https://github.com/dams/p5-anyevent-riak/issues/1
 File-Find-Rule-Age-0.302                106579
 App-GitHubWebhooks2Ikachan-0.10         https://github.com/moznion/App-GitHubWebhooks2Ikachan/issues/1
-App-MusicExpo-1.002                     118534
 Devel-CheckOS-1.77                      https://github.com/DrHyde/perl-modules-Devel-CheckOS/issues/17
 Devel-EnforceEncapsulation-0.51         118555,http://rt.perl.org/rt3/Public/Bug/Display.html?id=129851
 Net-Riak-0.1702                         118547
@@ -2841,7 +2835,6 @@ DBIx-Class-DigestColumns-0.06001_01     108694
 Sepia-0.992_01                          103979
 Tie-FlatFile-Array-0.05_01              117590
 AnyEvent-Google-PageRank-0.04           119150
-Catmandu-Store-Datahub-0.01             https://github.com/thedatahub/Catmandu-Store-Datahub/issues/1
 Hash-Persistent-1.02                    https://github.com/berekuk/Hash-Persistent/issues/2
 Data-RuledCluster-0.06                  https://github.com/nekokak/p5-Data-RuledCluster/issues/4
 Net-DNS-SPF-Expander-0.018              https://github.com/amiri/Net-DNS-SPF-Expander/issues/7
@@ -3432,7 +3425,6 @@ Yandex-Disk-0.01                        123199
 Term-Table-0.011                        https://github.com/exodist/Term-Table/issues/8
 Marky-0.035                             123251
 Wx-Perl-IconDepot-0.01                  123278
-Chloro-0.06                             123295
 Net-APNS-0.0202                         123296
 DR-Tnt-0.20                             118326
 code-UnifdefPlus-0.005.004              120449,120449
@@ -3851,7 +3843,6 @@ Mojolicious-Plugin-AssetPack-Pipe-ElmLang-0.4 https://github.com/csandeep/mojoli
 Devel-Scope-0.02                        124317
 PerlX-AsyncAwait-0.001002               124183,124318
 WWW-Velib-0.05                          124319
-AtteanX-Compatibility-Trine-0.001       https://github.com/kjetilk/p5-atteanx-compatibility-trine/issues/2
 RDF-RDFa-Generator-0.192                https://github.com/kjetilk/p5-rdf-rdfa-generator/issues/2
 WWW-Fimfiction-v0.3.7                   124343
 Test-BDD-Cucumber-Definitions-0.09      https://github.com/ivanych/Test-BDD-Cucumber-Definitions/issues/2
