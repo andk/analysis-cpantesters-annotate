@@ -3222,7 +3222,6 @@ WWW-Scraper-ISBN-Blackwell_Driver-0.10  122155
 Perl6-Controls-0.000003                 122156
 Text-FIGlet-2.19.3                      122198
 Yote-Server-1.26                        122201
-Keyword-Value-v0.1.1                    122185
 Log-ger-OptAway-0.002                   122192
 Test-PDL-0.13                           122194
 Feersum-1.405                           122177
@@ -3472,7 +3471,6 @@ WebService-KVV-Live-Stop-0.005          https://github.com/athreef/WebService-KV
 Net-MAC-Vendor-1.262                    https://github.com/briandfoy/net-mac-vendor/issues/26
 lsn-data-hub-05.00297                   no bugtracker, unescaped left brace in regex
 Data-RecordStore-2.01                   123458
-Class-Attrib-1.07                       123457
 Test2-Harness-0.001028                  https://github.com/Test-More/Test2-Harness/issues/41
 Tk-StatusBar-0.04                       123473
 Business-OnlinePayment-CardConnect-0.004 123475
@@ -3694,7 +3692,6 @@ File-XDG-0.04                           https://rt.perl.org/rt3/Ticket/Display.h
 IO-Prompter-0.004014                    https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Operator-Util-0.05                      https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Package-FromData-0.01                   https://rt.perl.org/rt3/Ticket/Display.html?id=132594
-Test-Mockify-1.0                        https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Lingua-EN-Inflexion-0.001006            https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 experimental-0.019                      https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 MooseX-App-1.39                         https://rt.perl.org/rt3/Ticket/Display.html?id=132594
