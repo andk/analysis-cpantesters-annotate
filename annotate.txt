@@ -248,7 +248,6 @@ CGI-Application-Plugin-CaptureIO-0.01   67178
 POE-Component-Server-SimpleXMLRPC-0.02  works with 5.15.8, unlikely to be a Carp issue
 Thread-Pool-0.33                        works with 5.15.8, unlikely to be a Carp issue
 Class-Std-Slots-0.31                    75379
-Devel-LeakGuard-Object-0.06             75381
 Slay-Makefile-0.12                      75383
 Log-Info-2.00                           75385
 XML-FOAF-0.04                           75490
@@ -690,7 +689,6 @@ Device-WH1091-0.03                      100466
 Data-Reuse-0.10                         100461
 Test-Name-FromLine-0.13                 https://github.com/Test-More/test-more/issues/502
 B-Utils-0.25                            https://rt.perl.org/Ticket/Display.html?id=123281
-Test-HexDifferences-0.008               100489
 Data-File-Map-0.09                      100541
 Template-Plugin-SortNatural-0.001       100542
 Types-Git-0.02                          https://github.com/bluefeet/Types-Git/issues/1
@@ -787,7 +785,6 @@ Twitter-Daily-0.1.3                     103396
 Triggermail-1.005                       The module Triggermail is now deprecated.
 Test-AutoLoader-0.03                    77942
 RTMP-Client-0.04                        103021
-Redis-JobQueue-1.15                     103426
 Finance-Bitcoin-Feed-0.04               https://github.com/binary-com/perl-Finance-Bitcoin-Feed/issues/3
 Plack-Middleware-File-Sass-0.03         96823
 Acme-SGABRIEL-Utils-0.01c               PASS reports for unknown reason only from CPANPLUS smokers
@@ -1514,7 +1511,6 @@ Dancer2-Session-Cookie-0.006            https://github.com/PerlDancer/Dancer2-Se
 Net-SNPP-1.17                           110978
 Bricklayer-Templater-0.9.8              111024
 Data-SIprefixes-0.0.1                   111045
-HTML-FormHandlerX-JQueryRemoteValidator-0.10 110859
 Object-Remote-0.003006                  108016,108016
 CGI-Wiki-0.63                           111093,deprecated
 Compress-PPMd-0.11                      58833,78521
@@ -2190,7 +2186,6 @@ JSON-XS-Sugar-1.01                      https://github.com/maxmind/JSON-XS-Sugar
 Tree-Binary-XS-0.03                     117220
 Mojolicious-Plugin-ConsoleLogger-0.06   https://rt.perl.org/rt3/Ticket/Display.html?id=128139,117228
 DestructAssign-0.002004                 https://rt.perl.org/rt3/Ticket/Display.html?id=128179,117229
-Char-Big5Plus-1.05                      117230
 Char-KPS9566-1.05                       117230
 Char-UHC-1.05                           117230
 Sub-Trigger-Lock-0.002                  117231
@@ -3566,7 +3561,6 @@ File-Rotate-Simple-v0.2.1               https://github.com/robrwo/File-Rotate-Si
 Alien-LZO-0.02                          123851
 IPC-Cache-0.02                          123852
 ClearPress-v477.1.4                     122425
-Blessed-Merge-0.05                      123858
 Markdown-Pod-0.006                      https://github.com/keedi/Markdown-Pod/issues/8
 Catalyst-Plugin-Upload-Image-Magick-0.04 123861
 MojoX-UserAgent-Throttler-v1.0.2        https://github.com/powerman/perl-MojoX-UserAgent-Throttler/issues/1,https://github.com/powerman/perl-MojoX-UserAgent-Throttler/issues/2
@@ -3655,7 +3649,6 @@ Module-Install-PerlTar-1.001            123867
 Net-CampaignMonitor-v2.2.1              https://github.com/campaignmonitor/createsend-perl/issues/16,123867
 Module-Install-ORLite2Pod-1.000         123867
 MooseX-Atom-0.02                        123867
-Module-Install-1.18                     123867
 Tribology-Lubricant-0.01                123882
 XML-XSH-1.8.5                           123866
 App-sdif-3.2.3                          https://github.com/kaz-utashiro/sdif-tools/issues/2
@@ -3688,7 +3681,6 @@ Mail-Milter-Authentication-v1.1.7       https://github.com/fastmail/authenticati
 Finance-Contract-0.011                  122114,https://github.com/binary-com/perl-Finance-Contract/issues/32,https://github.com/binary-com/perl-Finance-Contract/issues/33
 Mail-Message-3.004                      123929
 Bio-FastParsers-0.173510                123930
-Class-Spiffy-0.15                       123675
 Config-TinyDNS-1                        https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Data-Dump-Partial-0.05                  https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Data-Unixish-1.56                       https://rt.perl.org/rt3/Ticket/Display.html?id=132594
