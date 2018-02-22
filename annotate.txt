@@ -3225,7 +3225,6 @@ Beam-Runner-0.012                       https://github.com/preaction/Beam-Runner
 JSON-Tiny-0.56                          122139
 WWW-Scraper-ISBN-Blackwell_Driver-0.10  122155
 Perl6-Controls-0.000003                 122156
-Acme-Tools-0.21                         121321
 Text-FIGlet-2.19.3                      122198
 Yote-Server-1.26                        122201
 Keyword-Value-v0.1.1                    122185
@@ -3855,7 +3854,6 @@ Games-RolePlay-MapGen-1.5008            124345
 RDF-Endpoint-0.09                       124403
 POE-Filter-SSL-0.41                     124442
 Object-Trampoline-1.42                  124441
-SPVM-0.0310                             124384
 Catalyst-Runtime-5.90117                124450
 Fsdb-2.64                               124452
 ExtUtils-HasCompiler-0.021              124453
@@ -3866,7 +3864,6 @@ Test-Mojo-Role-Debug-JSON-0.003         https://github.com/atoomic/Test-Mojo-Rol
 Graph-Feather-0.03                      124457
 Parse-ABNF-0.26                         124466
 URI-Fast-0.01                           https://github.com/sysread/URI-Fast/issues/1
-Text-Summarizer-1.050                   124493
 App-NDTools-0.5.1                       124505
 Perlmazing-1.2812                       124320
 SPVM-0.0311                             124384
