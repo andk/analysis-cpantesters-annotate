@@ -3742,7 +3742,6 @@ Test-Snapshot-0.03                      https://github.com/mohawk2/Test-Snapshot
 PDL-Algorithm-Center-0.06               124043
 Math-WalshTransform-1.17                122909
 Mojolicious-Command-generate-resources-0.04 https://github.com/kberov/Mojolicious-Command-generate-resources/issues/1
-Crypt-SMIME-0.20                        124074
 CatalystX-I18N-1.14                     124078,100351
 File-Copy-Recursive-0.40                123964
 Net-Ethereum-0.28                       123919
