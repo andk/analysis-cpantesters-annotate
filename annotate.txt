@@ -3863,3 +3863,6 @@ Text-Summarizer-1.053                   124506
 Acme-Tools-0.22                         124516,124517
 Config-Model-Backend-Augeas-0.123       124519
 CSS-Inliner-4008                        124467
+Analizo-1.20.7                          https://github.com/analizo/analizo/issues/115
+Crypt-SMIME-0.24                        124522
+YAML-Tiny-1.73                          124399
