@@ -3854,7 +3854,6 @@ Parse-ABNF-0.26                         124466
 URI-Fast-0.01                           https://github.com/sysread/URI-Fast/issues/1
 App-NDTools-0.5.1                       124505
 Perlmazing-1.2812                       124320
-SPVM-0.0311                             124384
 Text-Summarizer-1.053                   124506
 Acme-Tools-0.22                         124516,124517
 Config-Model-Backend-Augeas-0.123       124519
