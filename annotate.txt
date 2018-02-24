@@ -3862,3 +3862,7 @@ CSS-Inliner-4008                        124467
 Analizo-1.20.7                          https://github.com/analizo/analizo/issues/115
 Crypt-SMIME-0.24                        124522
 YAML-Tiny-1.73                          124399
+Dist-Zilla-Role-TextTemplater-v0.8.6    124540
+Distribution-Cooker-1.01                124541
+Geo-Coder-XYZ-0.06                      124542
+SPVM-0.0312                             124384
