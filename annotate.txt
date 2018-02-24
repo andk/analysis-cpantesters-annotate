@@ -919,7 +919,6 @@ WebService-SiftScience-0.0100           https://github.com/aanari/WebService-Sif
 WWW-JSONAPI-0.01                        107273
 AnyEvent-Twitter-Stream-0.27            https://github.com/miyagawa/AnyEvent-Twitter-Stream/issues/25
 CGI-Untaint-1.26                        105917
-LWP-UserAgent-Mockable-1.14             107252
 WWW-Scraper-ISBN-BookDepository_Driver-0.12 107305
 WWW-Scraper-ISBN-Booktopia_Driver-0.22  107305
 WWW-Scraper-ISBN-Foyles_Driver-0.18     107305
@@ -1866,7 +1865,6 @@ WordNet-Insert-0.02                     114921
 Wiktionary-Parser-0.11                  114923
 CHI-0.60                                109993,115022
 Cache-FastMmap-1.44                     115043
-autobox-Transform-1.008                 https://github.com/jplindstrom/p5-autobox-Transform/issues/2
 Pod-Elemental-Transformer-ExampleRunner-0.002 115056
 RT-Client-0.01                          115064,115065
 Imager-Heatmap-0.03                     115133
@@ -1953,7 +1951,6 @@ Net-Address-Ethernet-1.123              110772
 Dist-Zilla-Plugin-CheckPrereqsIndexed-0.017 https://github.com/rjbs/Dist-Zilla-Plugin-CheckPrereqsIndexed/issues/19
 Mojolicious-Plugin-UnicodeNormalize-1.20150802 111430
 Dist-Zilla-Plugin-RPM-0.011             111572
-MojoX-Transaction-WebSocket76-0.04      https://github.com/dionys/mojox-transaction-websocket76/issues/3
 Date-Easy-0.01                          https://github.com/barefootcoder/date-easy/issues/2
 HTML-CalendarMonth-2.03                 113513
 JSV-0.07                                https://github.com/zigorou/perl-JSV/issues/45
