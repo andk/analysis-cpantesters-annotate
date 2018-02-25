@@ -3862,3 +3862,11 @@ Dist-Zilla-Role-TextTemplater-v0.8.6    124540
 Distribution-Cooker-1.01                124541
 Geo-Coder-XYZ-0.06                      124542
 SPVM-0.0312                             124384
+Mojo-Reactor-IOAsync-1.000              https://github.com/Grinnz/Mojo-Reactor-IOAsync/issues/1
+Mojo-SMTP-Client-0.14                   124562
+Net-Flotum-0.10                         https://github.com/eokoe/Net-Flotum/issues/6
+Mojo-Reactor-Epoll-0.006                https://github.com/Grinnz/Mojo-Reactor-Epoll/issues/1
+Plack-Middleware-Auth-JWT-0.901         124565
+Plack-Middleware-Debug-TraceENV-0.042   124566
+RDF-aREF-0.27                           https://github.com/nichtich/RDF-aREF/issues/21
+Time-Strptime-1.02                      https://github.com/karupanerura/Time-Strptime/issues/11
