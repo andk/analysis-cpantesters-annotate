@@ -1248,7 +1248,6 @@ Module-AutoLoad-0.04                    109531
 Flickr-Tools-1.21_02                    109558
 Time-StasisField-0.01                   109559
 Data-BitStream-0.08                     109561,109561
-Perl6-Export-Attrs-0.000005             107603
 Setup-Project-0.01                      https://github.com/hixi-hyi/p5-Setup-Project/issues/1
 Test-LectroTest-0.5001                  28203
 Throw-Back-0.01                         109593
@@ -3865,3 +3864,4 @@ Plack-Middleware-Auth-JWT-0.901         124565
 Plack-Middleware-Debug-TraceENV-0.042   124566
 RDF-aREF-0.27                           https://github.com/nichtich/RDF-aREF/issues/21
 Time-Strptime-1.02                      https://github.com/karupanerura/Time-Strptime/issues/11
+Perl6-Export-Attrs-0.000006             107603
