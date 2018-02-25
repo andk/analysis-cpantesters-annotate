@@ -2952,7 +2952,6 @@ Struct-Path-PerlStyle-0.62              120474
 Object-WithParams-0.3                   120492
 Unicode-Map8-0.13                       24652
 Parse-Debian-PackageDesc-0.15           120549
-Swagger2-Markdown-0.11                  https://github.com/Humanstate/swagger2-markdown/issues/6
 BoutrosLab-TSVStream-v0.5.3             119751
 IO-Async-XMLStream-SAXReader-0.001002   https://github.com/kentnl/IO-Async-XMLStream-SAXReader/issues/2
 Dancer2-0.205000                        https://github.com/PerlDancer/Dancer2/issues/1332
@@ -2969,7 +2968,6 @@ CGI-Application-Plugin-Authentication-Driver-DBIC-0.02 120647
 Net-Stripe-Simple-0.004                 120668
 Metabase-Backend-SQL-1.001              https://github.com/dagolden/metabase-backend-sql/issues/1
 IO-Async-SSL-0.19                       120701
-Date-Utility-1.07                       https://github.com/binary-com/perl-Date-Utility/issues/18
 Pcore-API-Namecheap-v0.5.2              https://bitbucket.org/softvisio/pcore-api-namecheap/issues/1/undeclared-dependency-mouse
 Crypt-OpenSSL-RSA-0.28                  117481
 XML-LibXML-SAX-ChunkParser-0.00008      https://github.com/lestrrat/XML-LibXML-SAX-ChunkParser/issues/3
@@ -3105,7 +3103,6 @@ Mojolicious-Plugin-HTMLTemplateProRenderer-0.05 121410
 MetaCPAN-Client-2.011000                https://github.com/metacpan/metacpan-client/issues/83
 Mojolicious-Plugin-WebAPI-0.03          https://github.com/reneeb/Mojolicious-Plugin-WebAPI/issues/1
 Erlang-Port-0.04                        121415
-Marketplace-Ebay-0.191                  121429
 App-LLEvalBot-0.01                      https://github.com/Songmu/p5-App-LLEvalBot/issues/1
 Signals-XSIG-0.15_03                    103457
 Mojolicious-Plugin-Authorization-1.05   https://github.com/byterock/mojolicious-plugin-authorization/issues/14
@@ -3392,7 +3389,6 @@ DBD-Multi-1.01                          https://github.com/dwright/DBD-Multi/iss
 Config-Model-Itself-2.011               https://github.com/dod38fr/config-model-itself/issues/2
 Data-Sah-Coerce-0.023                   123095
 Syntax-Highlight-Engine-Simple-HTML-0.04 123096
-CGI-Buffer-0.79                         123101
 Event-1.26                              123115
 YAML-Perl-0.12                          123103
 POSIX-1003-0.98                         123109
@@ -3462,7 +3458,6 @@ WebService-KVV-Live-Stop-0.005          https://github.com/athreef/WebService-KV
 Net-MAC-Vendor-1.262                    https://github.com/briandfoy/net-mac-vendor/issues/26
 lsn-data-hub-05.00297                   no bugtracker, unescaped left brace in regex
 Data-RecordStore-2.01                   123458
-Test2-Harness-0.001028                  https://github.com/Test-More/Test2-Harness/issues/41
 Tk-StatusBar-0.04                       123473
 Business-OnlinePayment-CardConnect-0.004 123475
 Test-Taint-1.06                         119897
@@ -3471,7 +3466,6 @@ Javascript-Closure-0.09                 117455
 IPC-System-Simple-1.25                  https://github.com/pjf/ipc-system-simple/issues/21
 Lexical-Types-0.16                      https://rt.perl.org/Ticket/Display.html?id=132385
 UNIVERSAL-isa-1.20171012                https://rt.perl.org/Ticket/Display.html?id=132395
-Coro-ProcessPool-0.26_003               122565
 Pootle-Client-0.08                      https://github.com/KohaSuomi/Pootle-Client/issues/6
 Mashtree-0.28                           121971
 CGI-Compile-0.22                        https://github.com/miyagawa/CGI-Compile/issues/21
@@ -3504,7 +3498,6 @@ Catmandu-PICA-0.24                      https://github.com/gbv/Catmandu-PICA/iss
 Alien-libpid-0.02                       123679
 File-Random-0.18                        123680
 DBIx-Class-Schema-Loader-0.07047        123681
-Text-VisualPrintf-2.01                  https://github.com/kaz-utashiro/Text-VisualPrintf/issues/1
 Crypt-OpenSSL-VerifyX509-0.10           120607,120608,121214,123690
 App-Textcast-0.06.15                    123692
 DBIx-Class-StorageReadOnly-0.05         117659,123704
@@ -3749,7 +3742,6 @@ Data-Sah-JS-0.87                        124148
 Dist-Zilla-PluginBundle-Author-TABULO-0.197 124149
 MarpaX-Languages-PowerBuilder-0.01      124145
 WWW-xkcd-0.008                          https://github.com/xsawyerx/www-xkcd/issues/3
-List-Flatten-XS-0.03                    120902
 Zonemaster-LDNS-1.0.2                   https://github.com/dotse/zonemaster-ldns/issues/10
 Type-Tiny-1.002001                      124067
 Clustericious-1.27                      https://github.com/clustericious/Clustericious/issues/45
