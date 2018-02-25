@@ -2146,7 +2146,6 @@ Finance-FITF-0.31                       116945
 Bread-Board-Svc-0.01                    116947
 Dist-Zilla-Plugins-CJM-4.27             116902
 Reply-0.41                              https://github.com/doy/reply/issues/52
-Net-Flotum-0.09                         https://github.com/eokoe/Net-Flotum/issues/5
 Interchange6-Schema-0.130               https://github.com/interchange/interchange6-schema/issues/201
 JQuery-DataTables-Heavy-0.04            https://github.com/ywatase/JQuery-DataTables-Heavy/issues/4
 List-Util-1.46_01                       117080
@@ -2243,7 +2242,6 @@ Lingua-SWE-Word2Num-0.0682              117317
 Lingua-ZH-MMSEG-0.4005                  117318
 NoZone-1.0                              117319
 App-Prove-Plugin-Cluster-0.02           117321
-Plack-Middleware-Debug-TraceENV-0.041   117322
 HTTP-UserAgentString-Parser-0.6.1       101968
 WWW-Socrata-0.02                        117324
 CPAN-Digger-0.08                        117328
@@ -2890,7 +2888,6 @@ Tk-EntryCheck-0.04                      119933
 Text-Bidi-2.12                          108739
 Sys-Info-Driver-Linux-0.7903            98099
 Mojolicious-Plugin-AssetPack-1.38       https://github.com/jhthorsen/mojolicious-plugin-assetpack/issues/115
-Mojo-SMTP-Client-0.11                   119946
 Ogg-Vorbis-Decoder-0.9                  119947
 Linux-Smaps-0.13                        104515,104515
 FFI-1.09                                https://github.com/plicease/FFI/issues/1,https://github.com/plicease/FFI/issues/2
@@ -3298,7 +3295,6 @@ Sslscan-Parser-0.02                     122412
 Syntax-Highlight-WithEmacs-0.2          122430
 Device-USB-TEMPer1F-0.04                120478
 Device-USB-PX1674-1.04                  122442
-Time-Strptime-1.01                      https://github.com/karupanerura/Time-Strptime/issues/9
 AnyEvent-Proc-0.105                     https://github.com/zurborg/libanyevent-proc-perl/issues/2
 Plucene-Plugin-WeightedQueryParser-1.0  122456,122457
 TRD-Uranai-0.0.2                        122458
