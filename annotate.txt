@@ -3865,3 +3865,7 @@ Plack-Middleware-Debug-TraceENV-0.042   124566
 RDF-aREF-0.27                           https://github.com/nichtich/RDF-aREF/issues/21
 Time-Strptime-1.02                      https://github.com/karupanerura/Time-Strptime/issues/11
 Perl6-Export-Attrs-0.000006             107603
+Dancer2-Plugin-Interchange6-0.203       https://github.com/interchange/Dancer2-Plugin-Interchange6/issues/2
+Time-Strptime-1.02                      https://github.com/karupanerura/Time-Strptime/issues/12
+Weather-YR-0.38                         124573
+Steemit-WsClient-0.05                   124574,124575
