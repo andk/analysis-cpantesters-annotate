@@ -3208,7 +3208,6 @@ Time-dt-v0.0.1                          122111
 Time-Duration-Concise-Localize-2.61     122112
 Time-List-0.13                          122113
 Time-Piece-Plus-0.05                    122113
-Graphics-Fig-v1.0.2                     122059
 SQL-Schema-Versioned-0.21               122145
 Beam-Runner-0.012                       https://github.com/preaction/Beam-Runner/issues/11
 JSON-Tiny-0.56                          122139
