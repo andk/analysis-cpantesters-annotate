@@ -3862,3 +3862,7 @@ Moonshine-Bootstrap-0.03                124586
 Finance-Currency-Convert-Custom-1.00    124587
 Steemit-WsClient-0.07                   124579
 Plack-Middleware-Auth-JWT-0.902         124565
+RDF-Trine-Serializer-RDFa-0.100         https://github.com/kjetilk/p5-rdf-trine-serializer-rdfa/issues/1
+RDF-RDFa-Generator-0.200                https://github.com/kjetilk/p5-rdf-rdfa-generator/issues/3
+SPVM-0.0313                             124384
+Term-CLI-0.03001                        https://github.com/sbakker/perl-Term-CLI/issues/1
