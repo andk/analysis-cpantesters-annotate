@@ -3806,7 +3806,6 @@ Mojolicious-Plugin-AssetPack-Pipe-ElmLang-0.4 https://github.com/csandeep/mojoli
 Devel-Scope-0.02                        124317
 PerlX-AsyncAwait-0.001002               124183,124318
 WWW-Velib-0.05                          124319
-RDF-RDFa-Generator-0.192                https://github.com/kjetilk/p5-rdf-rdfa-generator/issues/2
 WWW-Fimfiction-v0.3.7                   124343
 Test-BDD-Cucumber-Definitions-0.09      https://github.com/ivanych/Test-BDD-Cucumber-Definitions/issues/2
 Google-Ads-AdWords-Client-5.1.0         118509
@@ -3840,7 +3839,6 @@ YAML-Tiny-1.73                          124399
 Dist-Zilla-Role-TextTemplater-v0.8.6    124540
 Distribution-Cooker-1.01                124541
 Geo-Coder-XYZ-0.06                      124542
-SPVM-0.0312                             124384
 Mojo-Reactor-IOAsync-1.000              https://github.com/Grinnz/Mojo-Reactor-IOAsync/issues/1
 Mojo-SMTP-Client-0.14                   124562
 Net-Flotum-0.10                         https://github.com/eokoe/Net-Flotum/issues/6
