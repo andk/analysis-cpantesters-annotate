@@ -3394,7 +3394,6 @@ PFT-v1.2.1                              116333
 JPList-0.05                             123090
 Geo-Coder-Cache-0.06                    123135
 WebService-Qiita-V2-0.01                123152
-String-Tagged-Terminal-0.01             123182
 Yandex-Disk-0.01                        123199
 Term-Table-0.011                        https://github.com/exodist/Term-Table/issues/8
 Marky-0.035                             123251
@@ -3485,7 +3484,6 @@ GraphQL-Plugin-Convert-DBIC-0.02        https://github.com/graphql-perl/GraphQL-
 App-CLI-Extension-1.421                 123655
 Whatever-0.23                           123654
 CSS-Simple-3224                         123656
-APISchema-1.28                          https://github.com/hitode909/APISchema/issues/24
 Message-Passing-Output-Search-Elasticsearch-0.004 123660
 Parallel-Prefork-0.18                   113449
 Catmandu-PICA-0.24                      https://github.com/gbv/Catmandu-PICA/issues/54
@@ -3498,7 +3496,6 @@ DBIx-Class-StorageReadOnly-0.05         117659,123704
 Getopt-Flex-1.07                        123715
 criticism-1.02                          123714
 Clownfish-0.6.2                         https://issues.apache.org/jira/browse/CLOWNFISH-119
-Martian-0.06                            123733
 MsgPack-RPC-2.0.0                       https://github.com/yanick/MsgPack-RPC/issues/9,https://github.com/yanick/MsgPack-RPC/issues/10
 Neovim-RPC-1.0.0                        https://github.com/yanick/Neovim-RPC/issues/4
 Neovim-RPC-Plugin-Taskwarrior-0.0.1     https://github.com/yanick/Neovim-RPC/issues/5
@@ -3694,7 +3691,6 @@ sanity-1.03                             https://rt.perl.org/rt3/Ticket/Display.h
 SQL-Bibliosoph-2.55                     https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Tapper-Installer-5.0.0                  https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Try-0.03                                https://rt.perl.org/rt3/Ticket/Display.html?id=132594
-CGI-Application-Bouquet-Rose-1.05       123942
 HTML-Lint-2.27_01                       https://github.com/petdance/html-lint/issues/63
 Net-Async-Redis-1.004                   https://github.com/team-at-cpan/Net-Async-Redis/issues/5
 Mojolicious-Plugin-PgLock-0.01          https://github.com/onokhov/Mojolicious-Plugin-PgLock/issues/1
@@ -3728,7 +3724,6 @@ App-ClusterSSH-4.13                     https://github.com/duncs/clusterssh/issu
 File-Slurp-9999.19                      88968
 Getopt-Long-Descriptive-0.100           https://github.com/rjbs/Getopt-Long-Descriptive/pull/25
 IO-Socket-SSL-2.052                     124141
-B-Keywords-1.16                         124143
 Module-ExtractUse-0.341                 124146
 Class-MethodMaker-2.24                  124104
 Data-Sah-JS-0.87                        124148
