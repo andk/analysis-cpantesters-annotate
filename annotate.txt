@@ -505,7 +505,6 @@ Prancer-0.04                            94886
 B-Hooks-OP-Check-EntersubForCV-0.09     94945
 Portable-1.22                           95031
 Interface-Validation-0.01_01            https://github.com/alnewkirk/Interface-Validation/issues/1
-Mojo-Redis-0.9925                       https://github.com/marcusramberg/mojo-redis/issues/28
 Search-Query-Dialect-DBIxClass-0.005    95087
 Tie-Array-QueueExpire-1.04              95090
 Dancer-Logger-LogHandler-0.01           87580
@@ -715,7 +714,6 @@ Switch-2.17                             96753
 Parse-MediaWikiDump-1.0.6               https://rt.perl.org/rt3/Ticket/Display.html?id=123462
 XML-XML2JSON-0.06                       101082
 Hailo-0.72                              92795,101085
-B-Lint-1.20                             101115
 CatalystX-Resource-0.02                 https://github.com/davewood/catalystx-resource/issues/3
 Data-Dump-XML-1.19                      81637
 MavenBuilds-Tasks-BuildWebappsWithMaven-0.01 101159
@@ -1367,7 +1365,6 @@ Queue-Q4M-0.00019                       100224
 Geo-USCensus-Geocoding-0.01             110061
 IO-stringy-2.111                        103895
 Socialtext-Resting-Utils-0.21           85894
-CatalystX-CRUD-ModelAdapter-DBIC-0.13   110092
 DBIx-Class-Indexer-WebService-Dezi-0.08 110093
 DBIx-Class-PgLog-0.03                   110085
 Plack-Middleware-TazXSLT-0.55           110090
@@ -1975,7 +1972,6 @@ IPC-PrettyPipe-0.03                     108397
 Smolder-1.51                            114624,114625
 DBIx-Class-RandomStringColumns-0.09     https://github.com/kan/p5-dbic-random-string-columns/issues/1
 File-Copy-NoClobber-0.2.0               114664
-Log-Log4perl-Appender-RabbitMQ-0.141470 102485
 HTML-FormFu-2.01_03                     109159
 Cache-Profile-0.02                      114790
 Devel-QuickCover-0.600000               115010
@@ -3203,7 +3199,6 @@ Time-dt-v0.0.1                          122111
 Time-Duration-Concise-Localize-2.61     122112
 Time-List-0.13                          122113
 Time-Piece-Plus-0.05                    122113
-SQL-Schema-Versioned-0.21               122145
 Beam-Runner-0.012                       https://github.com/preaction/Beam-Runner/issues/11
 JSON-Tiny-0.56                          122139
 WWW-Scraper-ISBN-Blackwell_Driver-0.10  122155
@@ -3538,7 +3533,6 @@ Data-Random-Flexible-1.01               123845
 OpenAPI-Client-0.11                     123394
 Perl-Critic-More-1.003                  123847
 App-CharmKit-2.08                       undeclared dependency, no issue tracker
-File-Rotate-Simple-v0.2.1               https://github.com/robrwo/File-Rotate-Simple/issues/10
 Alien-LZO-0.02                          123851
 IPC-Cache-0.02                          123852
 ClearPress-v477.1.4                     122425
