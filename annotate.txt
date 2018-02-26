@@ -852,7 +852,6 @@ Filesys-Type-0.02                       105041
 Finance-TW-TAIFEX-0.39                  105043
 Lingua-ZH-Wrap-0.03                     105044
 Privileges-Drop-1.03                    105046
-Net-Interface-1.012                     83994,102390
 Exodist-Util-0.008                      https://github.com/exodist/Exodist-Util/issues/6
 Test-WWW-Simple-0.34                    95958
 SOAP-DirectI-0.001                      103222
@@ -3852,14 +3851,12 @@ Mojo-Reactor-IOAsync-1.000              https://github.com/Grinnz/Mojo-Reactor-I
 Mojo-SMTP-Client-0.14                   124562
 Net-Flotum-0.10                         https://github.com/eokoe/Net-Flotum/issues/6
 Mojo-Reactor-Epoll-0.006                https://github.com/Grinnz/Mojo-Reactor-Epoll/issues/1
-Plack-Middleware-Auth-JWT-0.901         124565
 Plack-Middleware-Debug-TraceENV-0.042   124566
 RDF-aREF-0.27                           https://github.com/nichtich/RDF-aREF/issues/21
 Perl6-Export-Attrs-0.000006             107603
 Dancer2-Plugin-Interchange6-0.203       https://github.com/interchange/Dancer2-Plugin-Interchange6/issues/2
 Time-Strptime-1.02                      https://github.com/karupanerura/Time-Strptime/issues/11,https://github.com/karupanerura/Time-Strptime/issues/12
 Weather-YR-0.38                         124573
-Steemit-WsClient-0.05                   124574,124575
 PESEL-Generator-1.0                     124578
 Alien-OpenVcdiff-0.101                  https://github.com/hoytech/Alien-OpenVcdiff/issues/2
 Crypt-OpenSSL-PKCS12-0.8                https://github.com/dsully/perl-crypt-openssl-pkcs12/issues/20
