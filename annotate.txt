@@ -624,7 +624,6 @@ DSL-Tiny-0.001                          https://github.com/hartzell/dsl-tiny/iss
 JavaScript-Dumper-0.011                 95230
 OOPS-0.2005                             95561
 libxml-enno-1.02                        from the year 2000 and newer version 1.05 untested because backpan only
-WebService-Heartrails-Express-0.01      probably temporary network/webservice problem
 App-cpantested-0.003                    https://github.com/creaktive/App-cpantested/issues/2
 Dist-Zilla-Plugin-OnlyCorePrereqs-0.017 98841
 Text-StemTagPOS-0.61                    98869
@@ -2112,7 +2111,6 @@ Params-Lazy-0.005                       https://rt.perl.org/rt3/Ticket/Display.h
 Test-Class-Moose-0.75                   https://github.com/test-class-moose/test-class-moose/issues/65
 Lingua-SWE-Num2Word-0.0682              104855
 Finance-btce-0.1                        116729
-Pg-Corruption-0.02                      116730
 Alien-LibUSBx-0.12                      116731
 Gtk3-Notify-0.01                        109171
 WWW-TheEchoNest-1.1                     116742
@@ -3861,7 +3859,7 @@ SPVM-0.0313                             124384
 Term-CLI-0.03001                        https://github.com/sbakker/perl-Term-CLI/issues/1
 MooX-VariantAttribute-0.08              124601
 App-NDTools-0.5.2.2-TRIAL               124591
-WebService-Heartrails-Express-0.01      https://github.com/sue7ga/WebService-Heartrails-Express/issues/1
+WebService-Heartrails-Express-0.01      probably temporary network/webservice problem,https://github.com/sue7ga/WebService-Heartrails-Express/issues/1
 Module-Release-2.124                    124598
 Term-CLI-0.03002                        https://github.com/sbakker/perl-Term-CLI/issues/2,https://github.com/sbakker/perl-Term-CLI/issues/3
 Git-Hooks-2.6.0                         https://github.com/gnustavo/Git-Hooks/issues/45
@@ -3871,4 +3869,4 @@ Dist-Zilla-PluginBundle-FAYLAND-0.14    124609
 JSON-ize-0.102                          system perl used in tests, no RT queue
 Module-Overview-0.01                    https://github.com/jozef/Module-Overview/issues/1
 Test-MockCommand-0.03                   124611
-Pg-Corruption-0.02                      124612
+Pg-Corruption-0.02                      116730,124612
