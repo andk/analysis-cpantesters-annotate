@@ -2135,7 +2135,6 @@ App-Critique-0.01                       116785
 Dancer-Plugin-Database-2.12             https://github.com/bigpresh/Dancer-Plugin-Database/issues/89
 Dancer2-Session-Redis-0.006             https://github.com/burnersk/Dancer2-Session-Redis/issues/9
 Finance-FITF-0.31                       116945
-Bread-Board-Svc-0.01                    116947
 Dist-Zilla-Plugins-CJM-4.27             116902
 Reply-0.41                              https://github.com/doy/reply/issues/52
 Interchange6-Schema-0.130               https://github.com/interchange/interchange6-schema/issues/201
@@ -3334,7 +3333,6 @@ WordNet-Extend-1.000                    122732
 Hash-SharedMem-0.005                    122775
 Data-Edit-Xml-Lint-20170802             122789
 Cloudinary-0.15                         https://github.com/jhthorsen/cloudinary/issues/2
-App-Music-ChordPro-0.86                 122815
 Algorithm-Cluster-1.53                  120442
 Statistics-Multtest-0.14                122859
 Mail-OpenDKIM-4204                      122861
@@ -3742,7 +3740,6 @@ Dist-Zilla-LocaleTextDomain-0.91        124158
 KelpX-AppBuilder-0.005                  124159
 Minion-Backend-Storable-7.012           https://github.com/niczero/minion-backend-storable/issues/9
 Monitoring-GLPlugin-2.4.14.6            124161
-Moonshine-Util-0.07                     124162
 Business-OnlinePayment-CardFortress-0.04 124163
 MooseX-ErrorHandling-0.2                124164
 Data-UUID-LibUUID-0.05                  119469
@@ -3755,7 +3752,6 @@ Mail-BIMI-1.20180122                    124182
 Mastodon-Client-0.013                   https://gitlab.com/jjatria/Mastodon-Client/issues/1
 Catalyst-Plugin-Session-0.40            89631
 Test-Instance-Apache-0.001              https://github.com/TBSliver/Test-Instance-Apache/issues/5
-App-optex-v0.0.11                       https://github.com/kaz-utashiro/optex/issues/3
 QBit-Application-Model-DB-0.026         123516,https://github.com/QBitFramework/QBit-Application-Model-DB/issues/28
 QBit-Application-Model-DB-clickhouse-0.007 123073
 XS-Logger-0.003                         https://github.com/atoomic/XS-Logger/issues/1
