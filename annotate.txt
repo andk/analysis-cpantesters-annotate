@@ -3860,3 +3860,15 @@ RDF-RDFa-Generator-0.200                https://github.com/kjetilk/p5-rdf-rdfa-g
 SPVM-0.0313                             124384
 Term-CLI-0.03001                        https://github.com/sbakker/perl-Term-CLI/issues/1
 MooX-VariantAttribute-0.08              124601
+App-NDTools-0.5.2.2-TRIAL               124591
+WebService-Heartrails-Express-0.01      https://github.com/sue7ga/WebService-Heartrails-Express/issues/1
+Module-Release-2.124                    124598
+Term-CLI-0.03002                        https://github.com/sbakker/perl-Term-CLI/issues/2,https://github.com/sbakker/perl-Term-CLI/issues/3
+Git-Hooks-2.6.0                         https://github.com/gnustavo/Git-Hooks/issues/45
+URI-Fast-0.04                           https://github.com/sysread/URI-Fast/issues/3
+Device-Chip-Adapter-CH341A-0.01         124608
+Dist-Zilla-PluginBundle-FAYLAND-0.14    124609
+JSON-ize-0.102                          system perl used in tests, no RT queue
+Module-Overview-0.01                    https://github.com/jozef/Module-Overview/issues/1
+Test-MockCommand-0.03                   124611
+Pg-Corruption-0.02                      124612
