@@ -3534,7 +3534,6 @@ ClearPress-v477.1.4                     122425
 Markdown-Pod-0.006                      https://github.com/keedi/Markdown-Pod/issues/8
 Catalyst-Plugin-Upload-Image-Magick-0.04 123861
 MojoX-UserAgent-Throttler-v1.0.2        https://github.com/powerman/perl-MojoX-UserAgent-Throttler/issues/1,https://github.com/powerman/perl-MojoX-UserAgent-Throttler/issues/2
-Git-Hooks-2.2.0                         https://github.com/gnustavo/Git-Hooks/issues/44
 Set-IntSpan-Partition-0.03              123879
 ADAMK-Release-0.02                      123867
 Archive-Builder-1.16                    123867
@@ -3819,8 +3818,6 @@ JSONAPI-Document-0.1                    124454
 Test-Mojo-Role-Debug-JSON-0.003         https://github.com/atoomic/Test-Mojo-Role-Debug-JSON/issues/1
 Graph-Feather-0.03                      124457
 Parse-ABNF-0.26                         124466
-URI-Fast-0.01                           https://github.com/sysread/URI-Fast/issues/1
-App-NDTools-0.5.1                       124505
 Perlmazing-1.2812                       124320
 Text-Summarizer-1.053                   124506
 Acme-Tools-0.22                         124516,124517
@@ -3856,7 +3853,6 @@ Plack-Middleware-Auth-JWT-0.902         124565
 RDF-Trine-Serializer-RDFa-0.100         https://github.com/kjetilk/p5-rdf-trine-serializer-rdfa/issues/1
 RDF-RDFa-Generator-0.200                https://github.com/kjetilk/p5-rdf-rdfa-generator/issues/3
 SPVM-0.0313                             124384
-Term-CLI-0.03001                        https://github.com/sbakker/perl-Term-CLI/issues/1
 MooX-VariantAttribute-0.08              124601
 App-NDTools-0.5.2.2-TRIAL               124591
 WebService-Heartrails-Express-0.01      probably temporary network/webservice problem,https://github.com/sue7ga/WebService-Heartrails-Express/issues/1
