@@ -607,7 +607,6 @@ Crypt-Fernet-0.02                       98418
 CPAN-Mini-Tested-0.23                   98445
 namespace-alias-0.02                    95228
 Config-Trivial-Storable-0.32            95343
-PDL-Stats-0.6.5                         96742
 DBIx-MyParsePP-0.50                     98472
 HTML-WikiConverter-0.68                 92554
 Template-Semantic-0.09                  https://github.com/tomill/Template-Semantic/issues/10
@@ -3182,7 +3181,6 @@ WWW-Finger-0.105                        122002
 CPANPLUS-Internals-Source-MetaCPAN-0.08 122003
 MetaCPAN-API-Tiny-1.150270              122004
 Gtk2-Notify-0.05                        67467
-LWP-CurlLog-0.01                        122025
 HTML-WikiConverter-MediaWiki-0.59       110685
 HTML-WikiConverter-Txt2tags-0.04        122071
 HTML-WikiConverter-Wikispaces-0.02      122072
@@ -3619,7 +3617,6 @@ MooseX-Atom-0.02                        123867
 Tribology-Lubricant-0.01                123882
 XML-XSH-1.8.5                           123866
 App-sdif-3.2.3                          https://github.com/kaz-utashiro/sdif-tools/issues/2
-Panda-Time-3.1.4                        123881
 WWW-Freshmeat-0.22                      123889
 App-Cme-1.025                           https://github.com/dod38fr/cme-perl/issues/3
 Mail-SpamAssassin-3.4.1.                https://bz.apache.org/SpamAssassin/show_bug.cgi?id=7265,https://bz.apache.org/SpamAssassin/show_bug.cgi?id=7522
@@ -3646,7 +3643,6 @@ WWW-Shorten-ptl-0.04                    123924
 WWW-Shorten-URLchen-v0.0.3              123925
 Mail-Milter-Authentication-v1.1.7       https://github.com/fastmail/authentication_milter/issues/9
 Finance-Contract-0.011                  122114,https://github.com/binary-com/perl-Finance-Contract/issues/32,https://github.com/binary-com/perl-Finance-Contract/issues/33
-Mail-Message-3.004                      123929
 Bio-FastParsers-0.173510                123930
 Config-TinyDNS-1                        https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Data-Dump-Partial-0.05                  https://rt.perl.org/rt3/Ticket/Display.html?id=132594
