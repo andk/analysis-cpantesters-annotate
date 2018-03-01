@@ -3862,3 +3862,10 @@ JSON-ize-0.102                          system perl used in tests, no RT queue
 Module-Overview-0.01                    https://github.com/jozef/Module-Overview/issues/1
 Test-MockCommand-0.03                   124611
 Pg-Corruption-0.02                      116730,124612
+Catalyst-Plugin-ConfigLoader-Remote-0.02 54736
+Pod-Elemental-Transformer-Splint-0.1201 123445,https://rt.perl.org/Ticket/Display.html?id=132373
+Archive-Any-Plugin-Rar-0.02             124613
+Pony-Object-1.03                        124614
+Plack-Middleware-Debug-Mongo-0.03       https://github.com/Wu-Wu/Plack-Middleware-Debug-Mongo/issues/1
+Plack-Middleware-Debug-Redis-0.03       https://github.com/Wu-Wu/Plack-Middleware-Debug-Redis/issues/1
+CGI-Application-4.60                    https://github.com/MartinMcGrath/CGI--Application/issues/5
