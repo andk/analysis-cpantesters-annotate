@@ -3865,3 +3865,4 @@ Pony-Object-1.03                        124614
 Plack-Middleware-Debug-Mongo-0.03       https://github.com/Wu-Wu/Plack-Middleware-Debug-Mongo/issues/1
 Plack-Middleware-Debug-Redis-0.03       https://github.com/Wu-Wu/Plack-Middleware-Debug-Redis/issues/1
 CGI-Application-4.60                    https://github.com/MartinMcGrath/CGI--Application/issues/5
+Object-Exercise-3.1                     124632
