@@ -896,7 +896,6 @@ HPC-Runner-Threads-2.35                 107200
 App-makedpkg-0.05                       https://github.com/nichtich/App-makedpkg/issues/3
 Appium-0.0803                           https://github.com/appium/perl-client/issues/10
 Bread-Board-LifeCycle-Session-0.90      106735
-CGI-Simple-1.115                        103039
 Email-ARF-0.010                         https://github.com/rjbs/Email-ARF/issues/2
 HTML-Element-Replacer-0.08              https://github.com/mixedconnections/html-element-replacer/issues/1
 HTTP-Server-Brick-0.1.7                 107203
@@ -3618,7 +3617,6 @@ XML-XSH-1.8.5                           123866
 App-sdif-3.2.3                          https://github.com/kaz-utashiro/sdif-tools/issues/2
 WWW-Freshmeat-0.22                      123889
 App-Cme-1.025                           https://github.com/dod38fr/cme-perl/issues/3
-Mail-SpamAssassin-3.4.1.                https://bz.apache.org/SpamAssassin/show_bug.cgi?id=7265,https://bz.apache.org/SpamAssassin/show_bug.cgi?id=7522
 FSM-Basic-0.14                          123894
 Yancy-0.007                             https://github.com/preaction/Yancy/issues/4
 DBIx-Class-Candy-0.005003               https://rt.perl.org/rt3/Ticket/Display.html?id=132594
@@ -3730,7 +3728,6 @@ Config-Processor-0.26                   https://github.com/iph0/Config-Processor
 App-bovespa-0.003                       121335
 CSS-DOM-0.16                            124156
 Dist-Surveyor-0.020                     124157
-App-MechaCPAN-0.20                      https://github.com/atrodo/App-MechaCPAN/issues/6
 Dist-Zilla-LocaleTextDomain-0.91        124158
 KelpX-AppBuilder-0.005                  124159
 Minion-Backend-Storable-7.012           https://github.com/niczero/minion-backend-storable/issues/9
@@ -3791,7 +3788,6 @@ PerlX-AsyncAwait-0.001002               124183,124318
 WWW-Velib-0.05                          124319
 WWW-Fimfiction-v0.3.7                   124343
 Test-BDD-Cucumber-Definitions-0.09      https://github.com/ivanych/Test-BDD-Cucumber-Definitions/issues/2
-Google-Ads-AdWords-Client-5.1.0         118509
 DT-0.2.2                                https://github.com/nohuhu/DT/issues/3
 Dist-Zilla-6.011                        https://github.com/rjbs/Dist-Zilla/issues/612
 DBD-Pg-3.7.1                            124393,124394,124395
@@ -3839,11 +3835,9 @@ Net-Interface-1.016                     124582
 WebService-SimpleAPI-Wikipedia-0.01     124584
 Moonshine-Bootstrap-0.03                124586
 Finance-Currency-Convert-Custom-1.00    124587
-Steemit-WsClient-0.07                   124579
 Plack-Middleware-Auth-JWT-0.902         124565
 RDF-Trine-Serializer-RDFa-0.100         https://github.com/kjetilk/p5-rdf-trine-serializer-rdfa/issues/1
 RDF-RDFa-Generator-0.200                https://github.com/kjetilk/p5-rdf-rdfa-generator/issues/3
-SPVM-0.0313                             124384
 MooX-VariantAttribute-0.08              124601
 App-NDTools-0.5.2.2-TRIAL               124591
 WebService-Heartrails-Express-0.01      probably temporary network/webservice problem,https://github.com/sue7ga/WebService-Heartrails-Express/issues/1
