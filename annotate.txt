@@ -1258,7 +1258,6 @@ GD-Barcode-Code93-1.4                   109651
 Devel-InterpreterSize-0.01              104092
 DBIx-Recordset-0.26                     105335
 Image-Base-Gtk2-11                      109700
-WWW-Shorten-Durl-0.05                   109702
 App-podweaver-1.00                      109705
 Dist-Iller-0.1201                       https://github.com/Csson/p5-Dist-Iller/issues/2
 Template-Plugin-HTML-SuperForm-1.0      76116
@@ -3881,6 +3880,6 @@ MDV-Repsys-1.00                         124643
 Cache-Memcached-XS-0.01                 124644
 CGI-Simple-1.13                         124645
 CPAN-Reporter-Smoker-OpenBSD-0.013      https://github.com/glasswalk3r/cpan-openbsd-smoker/issues/3
-WWW-Shorten-Durl-0.05                   124648
+WWW-Shorten-Durl-0.05                   109702,124648
 CatalystX-Example-YUIUploader-0.02      124649
 POE-Component-Algorithm-Evolutionary-0.2.1 124651
