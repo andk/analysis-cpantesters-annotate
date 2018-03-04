@@ -3883,3 +3883,12 @@ WebService-Heartrails-Express-0.01      probably temporary network/webservice pr
 WWW-hmaip-0.02                          124659
 Getopt-Config-FromPod-v0.0.3            124662
 Dist-Zilla-PluginBundle-Author-ETHER-0.134 124663
+Catalyst-Plugin-Authentication-Credential-Hatena-0.04 124664
+Catalyst-Plugin-Authentication-Credential-Livedoor-0.03 124665
+Catalyst-Plugin-Email-Japanese-0.07     124666
+Catalyst-View-Template-Lace-0.012       123125
+Locale-CLDR-v0.32.0-TRIAL               https://github.com/ThePilgrim/perlcldr/issues/19,https://github.com/ThePilgrim/perlcldr/issues/20,https://github.com/ThePilgrim/perlcldr/issues/21
+Net-Radius-PacketOrdered-1.53           124672,124673
+What-1.00                               124674
+WWW-Blog-Metadata-Icon-0.02             124675
+Module-FromPerlVer-0.000005             124676
