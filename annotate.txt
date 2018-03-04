@@ -3877,3 +3877,15 @@ CPAN-Reporter-Smoker-OpenBSD-0.013      https://github.com/glasswalk3r/cpan-open
 WWW-Shorten-Durl-0.05                   109702,124648
 CatalystX-Example-YUIUploader-0.02      124649
 POE-Component-Algorithm-Evolutionary-0.2.1 124651
+WebService-Connpass-v0.0.1              124654
+Nodejs-Util-0.009                       124072
+Catmandu-PICA-0.25                      https://github.com/gbv/Catmandu-PICA/issues/62
+PICA-Record-0.585                       https://github.com/gbv/PICA-Record/issues/3
+PICA-Data-0.36                          https://github.com/gbv/PICA-Data/issues/37
+WWW-Search-Tv-Sweden-TvDotNu-1.01       124657
+Crypt-PKCS10-1.9                        https://github.com/openxpki/Crypt-PKCS10/issues/2
+Net-MyCommerce-API-1.0.4                124658
+WebService-Heartrails-Express-0.01      https://github.com/sue7ga/WebService-Heartrails-Express/issues/2
+WWW-hmaip-0.02                          124659
+Getopt-Config-FromPod-v0.0.3            124662
+Dist-Zilla-PluginBundle-Author-ETHER-0.134 124663
