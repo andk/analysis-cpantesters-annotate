@@ -3840,7 +3840,6 @@ RDF-Trine-Serializer-RDFa-0.100         https://github.com/kjetilk/p5-rdf-trine-
 RDF-RDFa-Generator-0.200                https://github.com/kjetilk/p5-rdf-rdfa-generator/issues/3
 MooX-VariantAttribute-0.08              124601
 App-NDTools-0.5.2.2-TRIAL               124591
-WebService-Heartrails-Express-0.01      probably temporary network/webservice problem,https://github.com/sue7ga/WebService-Heartrails-Express/issues/1
 Module-Release-2.124                    124598
 Term-CLI-0.03002                        https://github.com/sbakker/perl-Term-CLI/issues/2,https://github.com/sbakker/perl-Term-CLI/issues/3
 Git-Hooks-2.6.0                         https://github.com/gnustavo/Git-Hooks/issues/45
@@ -3885,7 +3884,7 @@ PICA-Data-0.36                          https://github.com/gbv/PICA-Data/issues/
 WWW-Search-Tv-Sweden-TvDotNu-1.01       124657
 Crypt-PKCS10-1.9                        https://github.com/openxpki/Crypt-PKCS10/issues/2
 Net-MyCommerce-API-1.0.4                124658
-WebService-Heartrails-Express-0.01      https://github.com/sue7ga/WebService-Heartrails-Express/issues/2
+WebService-Heartrails-Express-0.01      probably temporary network/webservice problem,https://github.com/sue7ga/WebService-Heartrails-Express/issues/1,https://github.com/sue7ga/WebService-Heartrails-Express/issues/2
 WWW-hmaip-0.02                          124659
 Getopt-Config-FromPod-v0.0.3            124662
 Dist-Zilla-PluginBundle-Author-ETHER-0.134 124663
