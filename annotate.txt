@@ -2435,7 +2435,6 @@ LWP-Protocol-virtual-0.02               117580
 Stream-1.00                             117581
 Net-Ping-Network-1.62                   117587
 Text-DeLoreanIpsum-0.01                 117588
-What-1.00                               108842
 XML-Handler-ExtOn-0.06                  117592
 Acme-PerlTidy-0.02                      117593
 Alvis-Bags-0.3                          117594
@@ -3503,7 +3502,6 @@ DBM-Deep-2.0014                         123811,https://rt.perl.org/Public/Bug/Di
 Functional-Utility-1.02                 https://github.com/belden/perl-functional-utility/issues/2
 Glib-1.326                              123813,https://rt.perl.org/Public/Bug/Display.html?id=132252
 B-RecDeparse-0.10                       https://rt.perl.org/Ticket/Display.html?id=132528
-Catalyst-View-Template-Lace-0.012       121385,https://github.com/jjn1056/Catalyst-View-Template-Lace/issues/1
 BioX-Workflow-Command-2.3.1             https://github.com/biosails/BioX-Workflow-Command/issues/40
 ISO-639-20171206                        123828
 Test-API-0.008                          https://github.com/dagolden/Test-API/issues/7,https://github.com/dagolden/Test-API/pull/6
@@ -3886,9 +3884,9 @@ Dist-Zilla-PluginBundle-Author-ETHER-0.134 124663
 Catalyst-Plugin-Authentication-Credential-Hatena-0.04 124664
 Catalyst-Plugin-Authentication-Credential-Livedoor-0.03 124665
 Catalyst-Plugin-Email-Japanese-0.07     124666
-Catalyst-View-Template-Lace-0.012       123125
+Catalyst-View-Template-Lace-0.012       121385,https://github.com/jjn1056/Catalyst-View-Template-Lace/issues/1,123125
 Locale-CLDR-v0.32.0-TRIAL               https://github.com/ThePilgrim/perlcldr/issues/19,https://github.com/ThePilgrim/perlcldr/issues/20,https://github.com/ThePilgrim/perlcldr/issues/21
 Net-Radius-PacketOrdered-1.53           124672,124673
-What-1.00                               124674
+What-1.00                               108842,124674
 WWW-Blog-Metadata-Icon-0.02             124675
 Module-FromPerlVer-0.000005             124676
