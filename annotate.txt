@@ -2373,7 +2373,6 @@ Params-Validate-Aggregated-0.05         117510
 WWW-Shorten-PunyURL-0.03                102934
 Cache-Memcached-Tags-0.02               45827
 Data-Transform-SSL-0.03                 75854,75854
-Class-DOES-1.00                         https://rt.perl.org/rt3/Ticket/Display.html?id=128139,117515
 Bio-PrimerDesigner-0.07                 85968
 Git-SVNReplay-1.0214                    117516
 Mail-SNCF-0.02                          55128
@@ -2965,7 +2964,6 @@ SOOT-0.17                               120735
 Pcore-API-AftermarketPl-v0.4.1          https://bitbucket.org/softvisio/pcore-nginx/issues/2/undeclared-dependency-mouse
 Pcore-API-Dynadot-v0.5.1                https://bitbucket.org/softvisio/pcore-nginx/issues/2/undeclared-dependency-mouse
 Acme-AXP-Utils-0.06                     120758
-Git-Database-0.008                      120760
 Devel-MAT-0.25                          114581
 XRI-Resolution-Lite-0.04                probably temporary network/server failure,120780
 Ham-ADIF-v1.5.1                         117262
@@ -3412,7 +3410,6 @@ Net-ZooIt-0.22                          122317,123403
 Promises-0.98                           123404
 Coteng-0.11                             https://github.com/yuuki/Coteng/issues/27
 JSON-RPC2-v2.1.1                        https://github.com/powerman/perl-JSON-RPC2/issues/3
-lc_time-0.13                            123414
 Lingua-Thesaurus-0.13                   123415
 PLN-PT-0.007                            123416
 RDF-Crypt-0.002                         123417
@@ -3787,7 +3784,6 @@ PerlX-AsyncAwait-0.001002               124183,124318
 WWW-Velib-0.05                          124319
 WWW-Fimfiction-v0.3.7                   124343
 Test-BDD-Cucumber-Definitions-0.09      https://github.com/ivanych/Test-BDD-Cucumber-Definitions/issues/2
-DT-0.2.2                                https://github.com/nohuhu/DT/issues/3
 Dist-Zilla-6.011                        https://github.com/rjbs/Dist-Zilla/issues/612
 DBD-Pg-3.7.1                            124393,124394,124395
 Plugin-Simple-1.01                      https://github.com/stevieb9/p5-plugin-simple/issues/11
