@@ -3478,7 +3478,6 @@ Whatever-0.23                           123654
 CSS-Simple-3224                         123656
 Message-Passing-Output-Search-Elasticsearch-0.004 123660
 Parallel-Prefork-0.18                   113449
-Catmandu-PICA-0.24                      https://github.com/gbv/Catmandu-PICA/issues/54
 Alien-libpid-0.02                       123679
 File-Random-0.18                        123680
 DBIx-Class-Schema-Loader-0.07047        123681
