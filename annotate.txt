@@ -2131,7 +2131,6 @@ App-Critique-0.01                       116785
 Dancer-Plugin-Database-2.12             https://github.com/bigpresh/Dancer-Plugin-Database/issues/89
 Dancer2-Session-Redis-0.006             https://github.com/burnersk/Dancer2-Session-Redis/issues/9
 Finance-FITF-0.31                       116945
-Dist-Zilla-Plugins-CJM-4.27             116902
 Reply-0.41                              https://github.com/doy/reply/issues/52
 Interchange6-Schema-0.130               https://github.com/interchange/interchange6-schema/issues/201
 JQuery-DataTables-Heavy-0.04            https://github.com/ywatase/JQuery-DataTables-Heavy/issues/4
