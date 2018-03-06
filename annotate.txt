@@ -3892,3 +3892,4 @@ App-GitHooks-Plugin-DetectCommitNoVerify-v1.0.3 https://github.com/guillaumeaube
 Devel-Examine-Subs-1.69                 https://github.com/stevieb9/devel-examine-subs/issues/25
 Locale-CLDR-v0.32.0-TRIAL1              https://github.com/ThePilgrim/perlcldr/issues/20,https://github.com/ThePilgrim/perlcldr/issues/21
 FindBin-libs-2.016002                   124689,124690
+DateTime-Format-CLDR-1.19               124691
