@@ -972,7 +972,6 @@ App-Diskd-0.01                          108470
 PDL-Ngrams-0.05003                      108472
 Sub-Prototype-Util-0.11                 108469
 App-test-travis-v0.9.7                  https://github.com/gfx/App-test-travis/issues/6
-PGObject-Util-PseudoCSV-1.1.1           108416
 Lvalue-0.21                             95267
 DateTime-Util-Astro-0.12000             105545
 Dancer-Plugin-Facebook-0.991            105761
@@ -1405,7 +1404,6 @@ triceps-2.0.1                           106833
 File-Unpack-0.70                        102745
 Rubic-0.0805                            https://github.com/jhthorsen/rubic/issues/2
 Finance-Bank-ID-BPRKS-0.04              110275
-Test-Expect-0.33                        110276
 IO-Event-0.813                          92200
 DB-SPEEDYB-0.1                          110300
 CGI-Application-Plugin-ViewCode-1.02    73317
@@ -1940,7 +1938,6 @@ WWW-Scripter-Plugin-JavaScript-0.008a   110763
 Net-Address-Ethernet-1.123              110772
 Dist-Zilla-Plugin-CheckPrereqsIndexed-0.017 https://github.com/rjbs/Dist-Zilla-Plugin-CheckPrereqsIndexed/issues/19
 Mojolicious-Plugin-UnicodeNormalize-1.20150802 111430
-Dist-Zilla-Plugin-RPM-0.011             111572
 Date-Easy-0.01                          https://github.com/barefootcoder/date-easy/issues/2
 HTML-CalendarMonth-2.03                 113513
 JSV-0.07                                https://github.com/zigorou/perl-JSV/issues/45
@@ -2871,7 +2868,6 @@ Curses-UI-Grid-0.15                     119921
 Tk-EntryCheck-0.04                      119933
 Text-Bidi-2.12                          108739
 Sys-Info-Driver-Linux-0.7903            98099
-Mojolicious-Plugin-AssetPack-1.38       https://github.com/jhthorsen/mojolicious-plugin-assetpack/issues/115
 Ogg-Vorbis-Decoder-0.9                  119947
 Linux-Smaps-0.13                        104515,104515
 FFI-1.09                                https://github.com/plicease/FFI/issues/1,https://github.com/plicease/FFI/issues/2
@@ -3180,7 +3176,6 @@ HTML-WikiConverter-Wikispaces-0.02      122072
 HTML-WikiConverter-XWiki-0.02           122073
 HTML-WikiConverter-MoinMoin-0.54        88003
 ExtUtils-MakeMaker-7.30                 121918
-Date-Extract-PERLANCAR-0.001            122085
 Acme-Honkidasu-0.01                     122106
 ElasticSearchX-Model-Generator-0.1.8    https://github.com/kentfredric/ElasticSearchX-Model-Generator/issues/1
 Time-dt-v0.0.1                          122111
@@ -3504,7 +3499,6 @@ ISO-639-20171206                        123828
 Test-API-0.008                          https://github.com/dagolden/Test-API/issues/7,https://github.com/dagolden/Test-API/pull/6
 Test-Vars-0.014                         https://github.com/houseabsolute/p5-Test-Vars/pull/34
 PDL-2.018                               https://rt.perl.org/Public/Bug/Display.html?id=132385#txn-1510101
-Hash-Match-v0.6.1                       https://github.com/robrwo/Hash-Match/issues/7
 AnyEvent-HTTP-2.23                      https://rt.perl.org/Public/Bug/Display.html?id=132142,https://www.nntp.perl.org/group/perl.perl5.porters/2017/11/msg247426.html
 Devel-TraceMethods-1.00                 123667
 Log-Trace-1.070                         49409,https://rt.perl.org/Public/Bug/Display.html?id=132252
@@ -3690,7 +3684,6 @@ ActiveRecord-Simple-1.01                124011
 Test-Snapshot-0.03                      https://github.com/mohawk2/Test-Snapshot/issues/1
 PDL-Algorithm-Center-0.06               124043
 Math-WalshTransform-1.17                122909
-Mojolicious-Command-generate-resources-0.04 https://github.com/kberov/Mojolicious-Command-generate-resources/issues/1
 CatalystX-I18N-1.14                     124078,100351
 File-Copy-Recursive-0.40                123964
 Net-Ethereum-0.28                       123919
