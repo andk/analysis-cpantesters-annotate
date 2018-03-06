@@ -3769,7 +3769,6 @@ Math-MatrixReal-2.13                    101173
 Mojolicious-Plugin-OpenAPI-1.25         https://github.com/jhthorsen/mojolicious-plugin-openapi/issues/59
 Fukurama-Class-0.032                    124263
 WWW-Selenium-Utils-0.09                 124264
-Hash-Wrap-0.04                          124266
 WWW-Scraper-ISBN-TWSanmin_Driver-0.02   75133,124276
 Thread-RWLock-1.02                      124295
 App-Pastebin-sprunge-0.012              https://github.com/doherty/App-Pastebin-sprunge/issues/4
