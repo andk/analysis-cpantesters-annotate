@@ -3283,7 +3283,6 @@ Tickit-Widget-Term-0.003                122509
 Mail-DMARC-1.20170222                   https://github.com/msimerson/mail-dmarc/issues/111
 CGIS-1.6                                122491
 Class-Builder-1.010                     122492
-Finance-Bank-Postbank_de-0.46           122506
 PlugAuth-0.36                           https://github.com/clustericious/PlugAuth/issues/3
 Finance-QuoteHist-1.27                  122510
 POEx-Tickit-0.04                        122589
@@ -3890,7 +3889,6 @@ XML-Compile-SOAP-3.23                   124688
 App-GitHooks-Plugin-DetectCommitNoVerify-v1.0.3 https://github.com/guillaumeaubert/App-GitHooks-Plugin-DetectCommitNoVerify/issues/4
 Devel-Examine-Subs-1.69                 https://github.com/stevieb9/devel-examine-subs/issues/25
 Locale-CLDR-v0.32.0-TRIAL1              https://github.com/ThePilgrim/perlcldr/issues/20,https://github.com/ThePilgrim/perlcldr/issues/21
-FindBin-libs-2.016002                   124689,124690
 DateTime-Format-CLDR-1.19               124691
 HPCI-0.62                               124695
 FindBin-libs-2.016004                   124689,124690
