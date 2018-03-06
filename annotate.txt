@@ -3892,3 +3892,7 @@ Devel-Examine-Subs-1.69                 https://github.com/stevieb9/devel-examin
 Locale-CLDR-v0.32.0-TRIAL1              https://github.com/ThePilgrim/perlcldr/issues/20,https://github.com/ThePilgrim/perlcldr/issues/21
 FindBin-libs-2.016002                   124689,124690
 DateTime-Format-CLDR-1.19               124691
+HPCI-0.62                               124695
+FindBin-libs-2.016004                   124689,124690
+Finance-Bank-Postbank_de-0.48           124696
+AnyEvent-SparkBot-0.004                 124697
