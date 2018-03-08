@@ -3775,7 +3775,6 @@ Dist-Zilla-6.011                        https://github.com/rjbs/Dist-Zilla/issue
 DBD-Pg-3.7.1                            124393,124394,124395
 Plugin-Simple-1.01                      https://github.com/stevieb9/p5-plugin-simple/issues/11
 Games-RolePlay-MapGen-1.5008            124345
-RDF-Endpoint-0.09                       124403
 POE-Filter-SSL-0.41                     124442
 Object-Trampoline-1.42                  124441
 Catalyst-Runtime-5.90117                124450
