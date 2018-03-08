@@ -3889,3 +3889,7 @@ Float-Util-0.001                        124718
 oxdperl-0.03                            124708
 Webservice-GAMSTOP-0.001                https://github.com/binary-com/perl-Webservice-GAMSTOP/issues/4
 Module-FromPerlVer-0.003000             124719
+Dancer2-0.205002                        https://github.com/PerlDancer/Dancer2/issues/1435
+Term-CLI-0.04001                        https://github.com/sbakker/perl-Term-CLI/issues/4,https://github.com/sbakker/perl-Term-CLI/issues/5
+HTTP-XSCookies-0.000017                 124727,124731
+Module-FromPerlVer-0.003001             124732
