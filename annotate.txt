@@ -2935,7 +2935,6 @@ Unicode-Map8-0.13                       24652
 Parse-Debian-PackageDesc-0.15           120549
 BoutrosLab-TSVStream-v0.5.3             119751
 IO-Async-XMLStream-SAXReader-0.001002   https://github.com/kentnl/IO-Async-XMLStream-SAXReader/issues/2
-Dancer2-0.205000                        https://github.com/PerlDancer/Dancer2/issues/1332
 PEF-Front-WebSocket-0.06                https://github.com/jef-sure/pef-front-websocket/issues/2
 Authen-SASL-XS-1.00                     120606
 Crypt-Password-0.28                     120609
@@ -3822,7 +3821,6 @@ RDF-RDFa-Generator-0.200                https://github.com/kjetilk/p5-rdf-rdfa-g
 MooX-VariantAttribute-0.08              124601
 App-NDTools-0.5.2.2-TRIAL               124591
 Module-Release-2.124                    124598
-Term-CLI-0.03002                        https://github.com/sbakker/perl-Term-CLI/issues/2,https://github.com/sbakker/perl-Term-CLI/issues/3
 Git-Hooks-2.6.0                         https://github.com/gnustavo/Git-Hooks/issues/45
 URI-Fast-0.04                           https://github.com/sysread/URI-Fast/issues/3
 Device-Chip-Adapter-CH341A-0.01         124608
@@ -3888,7 +3886,6 @@ AnyEvent-SparkBot-0.004                 124697
 Float-Util-0.001                        124718
 oxdperl-0.03                            124708
 Webservice-GAMSTOP-0.001                https://github.com/binary-com/perl-Webservice-GAMSTOP/issues/4
-Module-FromPerlVer-0.003000             124719
 Dancer2-0.205002                        https://github.com/PerlDancer/Dancer2/issues/1435
 Term-CLI-0.04001                        https://github.com/sbakker/perl-Term-CLI/issues/4,https://github.com/sbakker/perl-Term-CLI/issues/5
 HTTP-XSCookies-0.000017                 124727,124731
