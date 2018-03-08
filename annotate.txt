@@ -3887,3 +3887,4 @@ HPCI-0.62                               124695
 FindBin-libs-2.016004                   124689,124690
 Finance-Bank-Postbank_de-0.48           124696
 AnyEvent-SparkBot-0.004                 124697
+Float-Util-0.001                        124718
