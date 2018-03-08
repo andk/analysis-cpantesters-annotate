@@ -1681,7 +1681,6 @@ Data-Format-Pretty-Console-0.36         112947
 Business-PayPal-EWP-1.03                112952
 Algorithm-MCL-0.004                     112955
 Rex-Endpoint-HTTP-0.35.0                112956
-Bencher-Scenarios-Perl-0.02             112958
 Crypt-OFB-0.01                          112977
 Template-Alloy-XS-1.004                 95102
 Tie-DuckDuckGo-0.02                     https://github.com/aggrolite/Tie-DuckDuckGo/issues/1
@@ -2851,7 +2850,6 @@ App-Sysadmin-Log-Simple-0.009           waiting for newer URI::Escape than 1.61,
 Form-Processor-Model-RDBO-0.02          119778
 Data-FormValidator-Filters-Image-0.40   119781
 Gearman-Glutch-0.02                     119791
-Ryu-0.002                               119766
 REST-Client-273                         119829
 Cookieville-0.06                        https://github.com/jhthorsen/cookieville/issues/1
 Flower-0.10                             119828
@@ -3493,7 +3491,6 @@ DBM-Deep-2.0014                         123811,https://rt.perl.org/Public/Bug/Di
 Functional-Utility-1.02                 https://github.com/belden/perl-functional-utility/issues/2
 Glib-1.326                              123813,https://rt.perl.org/Public/Bug/Display.html?id=132252
 B-RecDeparse-0.10                       https://rt.perl.org/Ticket/Display.html?id=132528
-BioX-Workflow-Command-2.3.1             https://github.com/biosails/BioX-Workflow-Command/issues/40
 ISO-639-20171206                        123828
 Test-API-0.008                          https://github.com/dagolden/Test-API/issues/7,https://github.com/dagolden/Test-API/pull/6
 Test-Vars-0.014                         https://github.com/houseabsolute/p5-Test-Vars/pull/34
@@ -3621,7 +3618,6 @@ Unicode-Tussle-1.111                    https://rt.perl.org/rt3/Ticket/Display.h
 HTTP-SimpleLinkChecker-1.165            https://github.com/briandfoy/http-simplelinkchecker/issues/3
 Alien-MuPDF-0.009                       123916
 WWW-Shorten-ptl-0.04                    123924
-WWW-Shorten-URLchen-v0.0.3              123925
 Mail-Milter-Authentication-v1.1.7       https://github.com/fastmail/authentication_milter/issues/9
 Finance-Contract-0.011                  122114,https://github.com/binary-com/perl-Finance-Contract/issues/32,https://github.com/binary-com/perl-Finance-Contract/issues/33
 Bio-FastParsers-0.173510                123930
