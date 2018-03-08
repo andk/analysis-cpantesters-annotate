@@ -3888,3 +3888,6 @@ FindBin-libs-2.016004                   124689,124690
 Finance-Bank-Postbank_de-0.48           124696
 AnyEvent-SparkBot-0.004                 124697
 Float-Util-0.001                        124718
+oxdperl-0.03                            124708
+Webservice-GAMSTOP-0.001                https://github.com/binary-com/perl-Webservice-GAMSTOP/issues/4
+Module-FromPerlVer-0.003000             124719
