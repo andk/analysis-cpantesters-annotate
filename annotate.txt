@@ -3886,3 +3886,4 @@ Dancer2-0.205002                        https://github.com/PerlDancer/Dancer2/is
 Term-CLI-0.04001                        https://github.com/sbakker/perl-Term-CLI/issues/4,https://github.com/sbakker/perl-Term-CLI/issues/5
 HTTP-XSCookies-0.000017                 124727,124731
 Module-FromPerlVer-0.003001             124732
+Finance-Currency-Convert-ECBdaily-0.03  124736
