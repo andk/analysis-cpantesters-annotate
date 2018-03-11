@@ -1146,7 +1146,6 @@ Net-PDSH-0.01                           108999
 MooX-Cmd-0.015                          109016
 KiokuDB-0.57                            https://github.com/kiokudb/kiokudb/issues/16
 SQL-SplitStatement-1.00020              108595
-Mojo-IOLoop-ReadWriteFork-0.15          https://github.com/jhthorsen/mojo-ioloop-readwritefork/issues/2
 Finance-BankVal-International-GetSWIFT-0.4 109030
 Finance-BankVal-International-GetABA-0.4 109029
 Finance-BankVal-International-IBANValidate-0.5 109031
@@ -3477,7 +3476,6 @@ SMS-Send-Sergel-Simple-HTTP-0.02        https://github.com/eskaaren/SMS-Send-Ser
 optex-0.02                              https://github.com/kaz-utashiro/optex/issues/1
 Params-ValidationCompiler-0.25          https://github.com/houseabsolute/Params-ValidationCompiler/issues/19
 Mail-Sendmail-0.80                      123652
-Mailru-Cloud-0.01                       https://github.com/vrag86/perl-mailru-cloud-api/issues/1
 MariaDB-NonBlocking-0.14                123474
 Future-HTTP-0.08                        123801
 WebService-Google-Closure-0.12          123798
@@ -3876,7 +3874,6 @@ Float-Util-0.001                        124718
 oxdperl-0.03                            124708
 Webservice-GAMSTOP-0.001                https://github.com/binary-com/perl-Webservice-GAMSTOP/issues/4
 Dancer2-0.205002                        https://github.com/PerlDancer/Dancer2/issues/1435
-Term-CLI-0.04001                        https://github.com/sbakker/perl-Term-CLI/issues/4,https://github.com/sbakker/perl-Term-CLI/issues/5
 Finance-Currency-Convert-ECBdaily-0.03  124736
 Module-FromPerlVer-0.004002             124732
 WebService-SendGrid-Newsletter-0.02     https://github.com/Sidnet/p5-WebService-SendGrid-Newsletter/issues/17
