@@ -857,7 +857,6 @@ Object-Import-1.004                     106769
 Warnings-Version-0.003002               https://github.com/pink-mist/Warnings-Version/issues/1
 Text-Playlist-0.02                      106775
 KinoSearch1-1.01                        105144
-Archive-BagIt-0.053-TRIAL               https://github.com/rjeschmi/Archive-BagIt/issues/9
 Log-Dispatch-Config-1.04                106746
 CGI-XMLApplication-1.1.5                106829
 Mojolicious-Plugin-FormFieldsFromJSON-0.30 https://github.com/reneeb/Mojolicious-Plugin-FormFieldsFromJSON/issues/2
@@ -2165,7 +2164,6 @@ Tree-Binary-XS-0.03                     117220
 Mojolicious-Plugin-ConsoleLogger-0.06   https://rt.perl.org/rt3/Ticket/Display.html?id=128139,117228
 DestructAssign-0.002004                 https://rt.perl.org/rt3/Ticket/Display.html?id=128179,117229
 Char-KPS9566-1.05                       117230
-Char-UHC-1.05                           117230
 Sub-Trigger-Lock-0.002                  117231
 WWW-StationJp-API-0.01                  https://github.com/sue7ga/WWW-StationJp-API/issues/1,https://github.com/sue7ga/WWW-StationJp-API/issues/2
 Catmandu-Importer-MWTemplates-0.01      https://github.com/LibreCat/Catmandu-Importer-MWTemplates/issues/4
@@ -3689,7 +3687,6 @@ App-ClusterSSH-4.13                     https://github.com/duncs/clusterssh/issu
 File-Slurp-9999.19                      88968
 Getopt-Long-Descriptive-0.100           https://github.com/rjbs/Getopt-Long-Descriptive/pull/25
 IO-Socket-SSL-2.052                     124141
-Module-ExtractUse-0.341                 124146
 Class-MethodMaker-2.24                  124104
 Data-Sah-JS-0.87                        124148
 Dist-Zilla-PluginBundle-Author-TABULO-0.197 124149
