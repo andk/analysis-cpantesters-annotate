@@ -3887,3 +3887,8 @@ Term-CLI-0.04001                        https://github.com/sbakker/perl-Term-CLI
 HTTP-XSCookies-0.000017                 124727,124731
 Module-FromPerlVer-0.003001             124732
 Finance-Currency-Convert-ECBdaily-0.03  124736
+Module-FromPerlVer-0.004002             124732
+WebService-SendGrid-Newsletter-0.02     https://github.com/Sidnet/p5-WebService-SendGrid-Newsletter/issues/17
+HTTP-XSCookies-0.000019                 124731
+JSON-Validator-2.04                     https://github.com/jhthorsen/json-validator/issues/101
+Locale-CLDR-v0.32.0-TRIAL2              https://github.com/ThePilgrim/perlcldr/issues/21
