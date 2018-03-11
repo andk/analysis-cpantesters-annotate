@@ -3660,7 +3660,6 @@ SQL-Bibliosoph-2.55                     https://rt.perl.org/rt3/Ticket/Display.h
 Tapper-Installer-5.0.0                  https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Try-0.03                                https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 HTML-Lint-2.27_01                       https://github.com/petdance/html-lint/issues/63
-Net-Async-Redis-1.004                   https://github.com/team-at-cpan/Net-Async-Redis/issues/5
 Mojolicious-Plugin-PgLock-0.01          https://github.com/onokhov/Mojolicious-Plugin-PgLock/issues/1
 Text-Amuse-0.94                         123958
 Geo-Proj-Japan-0.0.2                    123950
@@ -3887,3 +3886,4 @@ WebService-SendGrid-Newsletter-0.02     https://github.com/Sidnet/p5-WebService-
 HTTP-XSCookies-0.000019                 124731
 JSON-Validator-2.04                     https://github.com/jhthorsen/json-validator/issues/101
 Locale-CLDR-v0.32.0-TRIAL2              https://github.com/ThePilgrim/perlcldr/issues/21
+Net-Async-Redis-1.005                   https://github.com/team-at-cpan/Net-Async-Redis/issues/5
