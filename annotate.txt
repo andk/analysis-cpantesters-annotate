@@ -3884,3 +3884,6 @@ HTTP-XSCookies-0.000019                 124731
 JSON-Validator-2.04                     https://github.com/jhthorsen/json-validator/issues/101
 Locale-CLDR-v0.32.0-TRIAL2              https://github.com/ThePilgrim/perlcldr/issues/21
 Net-Async-Redis-1.005                   https://github.com/team-at-cpan/Net-Async-Redis/issues/5
+Term-CLI-0.04004                        https://github.com/sbakker/perl-Term-CLI/issues/6
+Mailru-Cloud-0.02                       https://github.com/vrag86/perl-mailru-cloud-api/issues/1
+Mojo-IOLoop-ReadWriteFork-0.36          https://github.com/jhthorsen/mojo-ioloop-readwritefork/issues/11
