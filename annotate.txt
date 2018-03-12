@@ -3874,7 +3874,6 @@ oxdperl-0.03                            124708
 Webservice-GAMSTOP-0.001                https://github.com/binary-com/perl-Webservice-GAMSTOP/issues/4
 Dancer2-0.205002                        https://github.com/PerlDancer/Dancer2/issues/1435
 Finance-Currency-Convert-ECBdaily-0.03  124736
-Module-FromPerlVer-0.004002             124732
 WebService-SendGrid-Newsletter-0.02     https://github.com/Sidnet/p5-WebService-SendGrid-Newsletter/issues/17
 HTTP-XSCookies-0.000019                 124731
 JSON-Validator-2.04                     https://github.com/jhthorsen/json-validator/issues/101
