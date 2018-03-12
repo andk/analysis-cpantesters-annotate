@@ -1488,7 +1488,6 @@ VS-RuleEngine-0.09                      110806
 Dist-Zilla-Plugin-TemplateCJM-5.001     110818
 Dist-Iller-Config-Author-CSSON-0.0100   https://github.com/Csson/p5-Dist-Iller-Config-Author-CSSON/issues/1
 Test-RedisServer-0.20                   https://github.com/typester/Test-RedisServer/issues/5
-Text-Frundis-2.11                       110825
 Tie-FieldVals-0.6203                    81596
 SPOPS-0.87                              56320
 Log-Any-Adapter-Daemontools-0.090000_001 110864
@@ -1934,7 +1933,6 @@ Gimp-2.31                               110704
 WWW-Scripter-Plugin-JavaScript-0.008a   110763
 Net-Address-Ethernet-1.123              110772
 Dist-Zilla-Plugin-CheckPrereqsIndexed-0.017 https://github.com/rjbs/Dist-Zilla-Plugin-CheckPrereqsIndexed/issues/19
-Mojolicious-Plugin-UnicodeNormalize-1.20150802 111430
 Date-Easy-0.01                          https://github.com/barefootcoder/date-easy/issues/2
 HTML-CalendarMonth-2.03                 113513
 JSV-0.07                                https://github.com/zigorou/perl-JSV/issues/45
@@ -2585,7 +2583,6 @@ Net-IP-1.26                             117898
 MojoX-Run-0.15                          82104
 Log-File-Rolling-0.101                  https://github.com/hoytech/Log-File-Rolling/issues/3
 DBIx-Class-CustomPrefetch-0.09          117899
-Polloc-1.5.3b                           113621
 Bio-Graphics-2.39                       103175,117905
 Finance-QuoteTW-0.08                    117906
 Module-Build-TAPArchive-0.04            46632
@@ -3413,7 +3410,6 @@ Plack-Session-Store-RedisFast-0.05      123429
 XML-DOMBacked-1.00                      123431
 Alien-GEOS-0.01                         123432
 Alien-Hush-0.8889                       123433
-SQL-Translator-0.11021                  121901
 Test-NoXS-1.03                          https://github.com/dagolden/Test-NoXS/issues/3
 Alien-qd-0.01                           123434
 Panda-Lib-1.3.2                         123437,https://rt.perl.org/Public/Bug/Display.html?id=131953
@@ -3682,7 +3678,6 @@ Sys-Syscall-0.25                        124139
 Math-GComplex-0.06                      https://github.com/trizen/Math-GComplex/issues/2
 App-ClusterSSH-4.13                     https://github.com/duncs/clusterssh/issues/102
 File-Slurp-9999.19                      88968
-Getopt-Long-Descriptive-0.100           https://github.com/rjbs/Getopt-Long-Descriptive/pull/25
 IO-Socket-SSL-2.052                     124141
 Class-MethodMaker-2.24                  124104
 Data-Sah-JS-0.87                        124148
@@ -3778,7 +3773,6 @@ Acme-Tools-0.22                         124516,124517
 Config-Model-Backend-Augeas-0.123       124519
 CSS-Inliner-4008                        124467
 Analizo-1.20.7                          https://github.com/analizo/analizo/issues/115
-Crypt-SMIME-0.24                        124522
 YAML-Tiny-1.73                          124399
 Dist-Zilla-Role-TextTemplater-v0.8.6    124540
 Distribution-Cooker-1.01                124541
@@ -3851,7 +3845,6 @@ WWW-Search-Tv-Sweden-TvDotNu-1.01       124657
 Crypt-PKCS10-1.9                        https://github.com/openxpki/Crypt-PKCS10/issues/2
 Net-MyCommerce-API-1.0.4                124658
 WebService-Heartrails-Express-0.01      probably temporary network/webservice problem,https://github.com/sue7ga/WebService-Heartrails-Express/issues/1,https://github.com/sue7ga/WebService-Heartrails-Express/issues/2
-WWW-hmaip-0.02                          124659
 Getopt-Config-FromPod-v0.0.3            124662
 Dist-Zilla-PluginBundle-Author-ETHER-0.134 124663
 Catalyst-Plugin-Authentication-Credential-Hatena-0.04 124664
