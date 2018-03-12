@@ -3883,3 +3883,5 @@ Net-Async-Redis-1.005                   https://github.com/team-at-cpan/Net-Asyn
 Term-CLI-0.04004                        https://github.com/sbakker/perl-Term-CLI/issues/6
 Mailru-Cloud-0.02                       https://github.com/vrag86/perl-mailru-cloud-api/issues/1
 Mojo-IOLoop-ReadWriteFork-0.36          https://github.com/jhthorsen/mojo-ioloop-readwritefork/issues/11
+Test2-Harness-0.001058                  https://github.com/Test-More/Test2-Harness/issues/53
+Module-FromPerlVer-0.004004             124732
