@@ -3879,3 +3879,4 @@ Test2-Harness-0.001058                  https://github.com/Test-More/Test2-Harne
 Module-FromPerlVer-0.004004             124732
 Reddit-Client-1.20                      124767
 Term-CLI-0.04007                        https://github.com/sbakker/perl-Term-CLI/issues/6
+Test2-Tools-xUnit-0.003                 https://github.com/cv-library/Test2-Tools-xUnit/issues/1
