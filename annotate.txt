@@ -3880,3 +3880,7 @@ Module-FromPerlVer-0.004004             124732
 Reddit-Client-1.20                      124767
 Term-CLI-0.04007                        https://github.com/sbakker/perl-Term-CLI/issues/6
 Test2-Tools-xUnit-0.003                 https://github.com/cv-library/Test2-Tools-xUnit/issues/1
+Catalyst-Plugin-Static-Simple-0.35      124211
+Time-HiRes-1.9755                       124775
+Net-Address-IP-Cipher-0.1               124800
+JavaScript-V8-Handlebars-0.09           114583,124802
