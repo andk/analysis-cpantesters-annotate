@@ -968,7 +968,6 @@ Gzip-RandomAccess-0.91                  108428
 MongoDBx-Class-1.030002                 108430
 Catalyst-Authentication-Store-DBI-ButMaintained-0.03 108418
 App-Diskd-0.01                          108470
-PDL-Ngrams-0.05003                      108472
 Sub-Prototype-Util-0.11                 108469
 App-test-travis-v0.9.7                  https://github.com/gfx/App-test-travis/issues/6
 Lvalue-0.21                             95267
@@ -2920,7 +2919,6 @@ Message-Passing-Output-Log-Any-Adapter-0.003 120419
 Math-Business-Blackscholes-Binaries-1.23 112745,120430
 LWP-UserAgent-DNS-Hosts-0.09            119776
 POE-Component-Client-DNS-Recursive-1.12 116609
-Struct-Path-PerlStyle-0.62              120474
 Object-WithParams-0.3                   120492
 Unicode-Map8-0.13                       24652
 Parse-Debian-PackageDesc-0.15           120549
@@ -3463,7 +3461,6 @@ App-Textcast-0.06.15                    123692
 DBIx-Class-StorageReadOnly-0.05         117659,123704
 Getopt-Flex-1.07                        123715
 criticism-1.02                          123714
-Clownfish-0.6.2                         https://issues.apache.org/jira/browse/CLOWNFISH-119
 MsgPack-RPC-2.0.0                       https://github.com/yanick/MsgPack-RPC/issues/9,https://github.com/yanick/MsgPack-RPC/issues/10
 Neovim-RPC-1.0.0                        https://github.com/yanick/Neovim-RPC/issues/4
 Neovim-RPC-Plugin-Taskwarrior-0.0.1     https://github.com/yanick/Neovim-RPC/issues/5
