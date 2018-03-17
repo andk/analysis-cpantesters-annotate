@@ -1811,7 +1811,6 @@ Test-Group-0.20                         https://github.com/Test-More/test-more/i
 Test-Mini-v1.1.3                        https://github.com/pvande/Test-Mini/issues/15
 Mojolicious-Plugin-Libravatar-1.09      98855
 Bio-HTS-v0.0.1                          113926,113927
-JavaScript-V8-Handlebars-0.06           114583
 Dallycot-0.151630                       114585
 Sub-Call-Tail-0.06                      112244
 Lingua-Identify-CLD2-0.03               114587,114588
@@ -3715,7 +3714,6 @@ XS-Logger-0.003                         https://github.com/atoomic/XS-Logger/iss
 Prty-1.122                              124195
 Mojolicious-Plugin-SessionStorage-0.1.4 124187
 Algorithm-ConstructDFA2-0.01            124209,124210
-Catalyst-Plugin-Static-Simple-0.34      124211
 List-Lazy-0.3.0                         https://github.com/yanick/List-Lazy/issues/3,https://rt.perl.org/Ticket/Display.html?id=132760
 Mojo-UserAgent-Mockable-1.53            https://github.com/PopeFelix/Mojo-UserAgent-Mockable/issues/18
 Business-YQL-0.0004                     124215
@@ -3872,7 +3870,6 @@ HTTP-XSCookies-0.000019                 124731
 JSON-Validator-2.04                     https://github.com/jhthorsen/json-validator/issues/101
 Locale-CLDR-v0.32.0-TRIAL2              https://github.com/ThePilgrim/perlcldr/issues/21
 Net-Async-Redis-1.005                   https://github.com/team-at-cpan/Net-Async-Redis/issues/5
-Term-CLI-0.04004                        https://github.com/sbakker/perl-Term-CLI/issues/6
 Mailru-Cloud-0.02                       https://github.com/vrag86/perl-mailru-cloud-api/issues/1
 Mojo-IOLoop-ReadWriteFork-0.36          https://github.com/jhthorsen/mojo-ioloop-readwritefork/issues/11
 Test2-Harness-0.001058                  https://github.com/Test-More/Test2-Harness/issues/53
