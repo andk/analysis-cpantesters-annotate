@@ -3878,3 +3878,4 @@ Catalyst-Plugin-Static-Simple-0.35      124211
 Time-HiRes-1.9755                       124775
 Net-Address-IP-Cipher-0.1               124800
 JavaScript-V8-Handlebars-0.09           114583,124802
+App-Scheme79asm-0.004                   124826
