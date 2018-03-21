@@ -2948,7 +2948,6 @@ Acme-AXP-Utils-0.06                     120758
 Devel-MAT-0.25                          114581
 XRI-Resolution-Lite-0.04                probably temporary network/server failure,120780
 Ham-ADIF-v1.5.1                         117262
-Kavorka-0.037                           109841
 Business-OnlinePayment-Vindicia-Select-0.002 120948
 Sys-Prctl-1.02                          120911
 X11-Xlib-0.12                           121010
@@ -3879,3 +3878,7 @@ Time-HiRes-1.9755                       124775
 Net-Address-IP-Cipher-0.1               124800
 JavaScript-V8-Handlebars-0.09           114583,124802
 App-Scheme79asm-0.004                   124826
+FindBin-libs-2.017006                   124690
+Text-Unaccent-1.08                      21177
+Kavorka-0.037                           109841,124827
+MooseX-XSAccessor-0.008                 124835
