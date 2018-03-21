@@ -2532,7 +2532,6 @@ Inline-SMITH-0.03                       117769
 Parse-PerlConfig-0.05                   117770
 Data-Utilities-0.04                     103255
 Plack-Middleware-DoCoMoGUID-0.06        95927,117771,117772
-Text-Unaccent-1.10                      21177
 Tie-Hash-Indexed-0.05_03                https://github.com/mhx/Tie-Hash-Indexed/issues/2
 Image-Signature-0.01                    117775
 Myco-1.22                               117776
@@ -3853,7 +3852,6 @@ App-GitHooks-Plugin-DetectCommitNoVerify-v1.0.3 https://github.com/guillaumeaube
 Devel-Examine-Subs-1.69                 https://github.com/stevieb9/devel-examine-subs/issues/25
 DateTime-Format-CLDR-1.19               124691
 HPCI-0.62                               124695
-FindBin-libs-2.016004                   124689,124690
 Finance-Bank-Postbank_de-0.48           124696
 AnyEvent-SparkBot-0.004                 124697
 Float-Util-0.001                        124718
