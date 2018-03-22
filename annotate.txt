@@ -626,7 +626,6 @@ libxml-enno-1.02                        from the year 2000 and newer version 1.0
 App-cpantested-0.003                    https://github.com/creaktive/App-cpantested/issues/2
 Dist-Zilla-Plugin-OnlyCorePrereqs-0.017 98841
 Text-StemTagPOS-0.61                    98869
-Text-Truncate-1.06                      98445
 Test-Class-0.46                         https://github.com/Test-More/test-more/issues/445
 Carp-Assert-0.21                        https://github.com/Test-More/test-more/issues/447
 Scalar-Util-Numeric-0.22                https://rt.perl.org/rt3/Ticket/Display.html?id=122843
@@ -3462,7 +3461,6 @@ SMS-Send-Sergel-Simple-HTTP-0.02        https://github.com/eskaaren/SMS-Send-Ser
 optex-0.02                              https://github.com/kaz-utashiro/optex/issues/1
 Params-ValidationCompiler-0.25          https://github.com/houseabsolute/Params-ValidationCompiler/issues/19
 Mail-Sendmail-0.80                      123652
-MariaDB-NonBlocking-0.14                123474
 Future-HTTP-0.08                        123801
 WebService-Google-Closure-0.12          123798
 Encode-Unicode-PerlDecodeJava-20171127  123806
@@ -3528,7 +3526,6 @@ ORDB-CPANRT-0.04                        123867
 ORDB-CPANRelease-0.01                   123867
 ORDB-CPANTS-0.05                        123867
 ORDB-CPANUploads-1.08                   123867
-ORLite-1.98                             123867
 ORLite-Migrate-1.10                     123867
 ORLite-Mirror-1.24                      101104,123867
 ORLite-Pod-0.11                         123867
@@ -3709,7 +3706,6 @@ Mojo-UserAgent-Mockable-1.53            https://github.com/PopeFelix/Mojo-UserAg
 Business-YQL-0.0004                     124215
 WebService-Yamli-0.003                  https://github.com/athreef/WebService-Yamli/issues/1
 WWW-Search-Ebay-3.047                   124216
-Bio-PhyloXS-v0.1.0                      https://github.com/rvosa/bio-phylo-xs/issues/7
 Module-CPANTS-ProcessCPAN-0.77          124220
 App-revealup-0.21                       https://github.com/yusukebe/App-revealup/issues/11
 Catalyst-Controller-Imager-0.06         124225
@@ -3792,7 +3788,6 @@ Git-Hooks-2.6.0                         https://github.com/gnustavo/Git-Hooks/is
 URI-Fast-0.04                           https://github.com/sysread/URI-Fast/issues/3
 Device-Chip-Adapter-CH341A-0.01         124608
 Dist-Zilla-PluginBundle-FAYLAND-0.14    124609
-JSON-ize-0.102                          system perl used in tests, no RT queue
 Module-Overview-0.01                    https://github.com/jozef/Module-Overview/issues/1
 Test-MockCommand-0.03                   124611
 Pg-Corruption-0.02                      116730,124612
@@ -3878,18 +3873,18 @@ Bio-Gonzales-0.078                      124840
 DBIx-JSON-0.03                          124841
 HTML-Tidy5-1.00                         https://github.com/petdance/html-tidy5/issues/4
 App-Jiffy-0.05                          https://github.com/lejeunerenard/jiffy/issues/8
-Bio-PhyloXS-v0.1.0                      https://github.com/rvosa/bio-phylo-xs/issues/8
+Bio-PhyloXS-v0.1.0                      https://github.com/rvosa/bio-phylo-xs/issues/7,https://github.com/rvosa/bio-phylo-xs/issues/8
 Business-KontoCheck-6.03                https://sourceforge.net/p/kontocheck/bugs/19/
 circle-fe-term-0.173170                 124848
 HPCI-0.64                               124695
 HTTP-Caching-0.11                       124849
-JSON-ize-0.102                          124850
-MariaDB-NonBlocking-0.14                124851
+JSON-ize-0.102                          system perl used in tests, no RT queue,124850
+MariaDB-NonBlocking-0.14                123474,124851
 MogileFS-Server-2.73                    116633
 Store-Digest-0.03                       https://github.com/doriantaylor/p5-store-digest/issues/1
-Text-Truncate-1.06                      121150
+Text-Truncate-1.06                      98445,121150
 Devel-PerlySense-0.0219                 124853
-ORLite-1.98                             124854
+ORLite-1.98                             123867,124854
 PDL-Algorithm-Center-0.07               124855
 Perinci-CmdLine-Inline-0.541            124858
 Search-Xapian-1.2.25.0                  124860
