@@ -2060,7 +2060,6 @@ Tkx-1.09                                115662
 Plack-Middleware-DBGp-0.11              https://github.com/mbarbon/plack-middleware-dbgp/issues/2
 POE-Component-Logger-1.10               116620
 Jifty-1.50430                           116632
-MogileFS-Server-2.72                    116633
 MojoX-CPAN-Uploader-0.034               https://github.com/yko/mojox-cpan-uploader/issues/5
 WWW-Scraper-ISBN-GoogleBooks_Driver-0.30 93222
 NexposeSimpleXML-Parser-0.04            116652
@@ -2078,7 +2077,6 @@ Net-Whois-1.9                           63485
 Weasel-Widgets-Dojo-0.02                https://github.com/perl-weasel/weasel-widgets-dojo/issues/1
 W3C-SOAP-WADL-0.007                     116696
 Business-CPI-Gateway-Moip-0.05          91905
-Devel-PerlySense-0.0218                 107520
 pkg-0.04                                116704
 SOAP-ISIWoK-3.01                        94252
 WebService-Autotask-1.5                 107403
@@ -2142,7 +2140,6 @@ WWW-Tumblr-5.2                          https://github.com/damog/www-tumblr/issu
 Readonly-Tiny-3                         117170
 Device-Chip-PCF8563-0.01                117171
 Mojolicious-Plugin-FontAwesome4-4.5000  https://github.com/jhthorsen/mojolicious-plugin-fontawesome4/issues/4
-Business-KontoCheck-5.8                 https://sourceforge.net/p/kontocheck/bugs/13/
 Encode-ISO2022-0.04                     117157
 GenOO-1.5.0                             https://github.com/genoo/GenOO/issues/12
 Gnuplot-Simple-0.011                    117178
@@ -3652,7 +3649,6 @@ Devel-SharedLibs-v0.3.3                 123992
 ack-2.999_01                            https://github.com/beyondgrep/ack2/issues/656
 XML-Schema-0.07                         71111
 ActiveRecord-Simple-1.01                124011
-PDL-Algorithm-Center-0.06               124043
 Math-WalshTransform-1.17                122909
 CatalystX-I18N-1.14                     124078,100351
 File-Copy-Recursive-0.40                123964
@@ -3839,7 +3835,6 @@ XML-Compile-SOAP-3.23                   124688
 App-GitHooks-Plugin-DetectCommitNoVerify-v1.0.3 https://github.com/guillaumeaubert/App-GitHooks-Plugin-DetectCommitNoVerify/issues/4
 Devel-Examine-Subs-1.69                 https://github.com/stevieb9/devel-examine-subs/issues/25
 DateTime-Format-CLDR-1.19               124691
-HPCI-0.62                               124695
 Finance-Bank-Postbank_de-0.48           124696
 AnyEvent-SparkBot-0.004                 124697
 Float-Util-0.001                        124718
