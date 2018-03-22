@@ -1141,7 +1141,6 @@ UNIVERSAL-to_yaml-0.10                  108985
 Text-Index-0.01                         108496
 Logic-Tools-0.5.7                       105479
 Net-PDSH-0.01                           108999
-MooX-Cmd-0.015                          109016
 KiokuDB-0.57                            https://github.com/kiokudb/kiokudb/issues/16
 SQL-SplitStatement-1.00020              108595
 Finance-BankVal-International-GetSWIFT-0.4 109030
@@ -3468,7 +3467,6 @@ DBM-Deep-2.0014                         123811,https://rt.perl.org/Public/Bug/Di
 Functional-Utility-1.02                 https://github.com/belden/perl-functional-utility/issues/2
 Glib-1.326                              123813,https://rt.perl.org/Public/Bug/Display.html?id=132252
 B-RecDeparse-0.10                       https://rt.perl.org/Ticket/Display.html?id=132528
-ISO-639-20171206                        123828
 Test-API-0.008                          https://github.com/dagolden/Test-API/issues/7,https://github.com/dagolden/Test-API/pull/6
 Test-Vars-0.014                         https://github.com/houseabsolute/p5-Test-Vars/pull/34
 PDL-2.018                               https://rt.perl.org/Public/Bug/Display.html?id=132385#txn-1510101
@@ -3571,7 +3569,6 @@ MooseX-Atom-0.02                        123867
 XML-XSH-1.8.5                           123866
 App-sdif-3.2.3                          https://github.com/kaz-utashiro/sdif-tools/issues/2
 WWW-Freshmeat-0.22                      123889
-App-Cme-1.025                           https://github.com/dod38fr/cme-perl/issues/3
 FSM-Basic-0.14                          123894
 Yancy-0.007                             https://github.com/preaction/Yancy/issues/4
 DBIx-Class-Candy-0.005003               https://rt.perl.org/rt3/Ticket/Display.html?id=132594
