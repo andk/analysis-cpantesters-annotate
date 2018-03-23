@@ -1944,7 +1944,6 @@ Gazelle-0.42                            https://github.com/kazeburo/Gazelle/issu
 FuseBead-From-PNG-0.01                  114212
 Struct-Diff-0.54                        no bugtracker, use of experimental functions on references
 Script-Toolbox-0.49                     111379
-B-OPCheck-0.30                          https://rt.perl.org/rt3/Ticket/Display.html?id=128179
 IPC-Mmap-0.21                           https://rt.perl.org/rt3/Ticket/Display.html?id=128179
 CNC-Cog-0.061                           111909,111909
 Image-Resize-0.5                        60038,60038
@@ -3091,7 +3090,6 @@ Server-Starter-0.33                     https://github.com/kazuho/p5-Server-Star
 StartCom-API-0.2                        121663
 Sys-Info-0.78                           120898
 Term-ANSIScreen-1.50                    120879
-Unicode-Collate-1.19                    121664
 Unicode-EastAsianWidth-1.33             120750
 Mojar-Google-Analytics-1.112            https://github.com/niczero/mojar-google-analytics/issues/1
 Mojolicious-Plugin-INIConfig-Extended-0.06 121669
@@ -3396,7 +3394,6 @@ Alien-GEOS-0.01                         123432
 Alien-Hush-0.8889                       123433
 Test-NoXS-1.03                          https://github.com/dagolden/Test-NoXS/issues/3
 Alien-qd-0.01                           123434
-Panda-Lib-1.3.2                         123437,https://rt.perl.org/Public/Bug/Display.html?id=131953
 jQuery-0.004                            random XPath failures, no RT queue
 PDLA-2.013003                           https://sourceforge.net/p/pdl/bugs/441/
 Device-Network-ConfigParser-0.005       https://github.com/gregfoletta/Device-Network-ConfigParser/issues/1
@@ -3512,7 +3509,6 @@ HTTP-Online-0.02                        123867
 Imager-Search-1.01                      123867
 JSAN-Shell-2.04                         123867
 LWP-Online-1.08                         114154,122310,123867
-Module-Manifest-1.08                    pjacklam set AUTHOR_TESTING,123867
 ORDB-CPANMeta-Generator-0.12            67599,123867
 ORDB-CPANRT-0.04                        123867
 ORDB-CPANRelease-0.01                   123867
