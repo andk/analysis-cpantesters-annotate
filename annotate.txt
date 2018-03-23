@@ -492,7 +492,6 @@ CatalystX-ExtJS-Direct-2.1.5            92466
 Geo-Coder-Cloudmade-0.7                 88469
 Math-Geometry-Planar-GPC-Polygon-0.05   92572
 Typed-0.11                              89874
-Yote-0.1022                             93451
 Buscape-API-0.000003                    https://github.com/estantevirtual/Buscape-API/issues/2
 Array-Lookup-2.3                        93663
 Smart-Comments-1.000005                 https://rt.perl.org/rt3/Ticket/Display.html?id=121484
@@ -1962,7 +1961,6 @@ libintl-perl-1.25                       115052
 Encode-Arabic-14.1                      115138
 Inline-Awk-0.03                         115140
 Text-Amuse-Compile-0.59                 115177
-Dist-Zilla-PluginBundle-Author-KENTNL-2.025010 https://github.com/kentnl/Dist-Zilla-PluginBundle-Author-KENTNL/issues/1
 Net-Fritz-v0.0.1                        115356
 Specio-0.21                             115418
 Lorem-0.22                              80289
