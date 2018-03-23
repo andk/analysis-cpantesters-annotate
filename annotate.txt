@@ -3882,3 +3882,11 @@ Perinci-CmdLine-Inline-0.541            124858
 Search-Xapian-1.2.25.0                  124860
 Git-ObjectStore-0.007                   https://github.com/ssinyagin/p5-Git-ObjectStore/issues/2
 Mojolicious-Plugin-GetSentry-1.1.4      124865
+Net-Google-DataAPI-0.2805               124866
+Dist-Zilla-PluginBundle-Author-KENTNL-2.025021 https://github.com/kentnl/Dist-Zilla-PluginBundle-Author-KENTNL/issues/4
+WWW-Google-Time-1.001005                https://github.com/zoffixznet/WWW-Google-Time/issues/3
+Yote-2.02                               124870
+Youri-Package-RPM-Generator-0.1.3       124871
+Authen-SASL-XS-1.00                     98973
+Database-Async-SQLite-0.001             124872
+Authen-TuringImage-1.006                124873
