@@ -3886,3 +3886,8 @@ Authen-TuringImage-1.006                124873
 JavaScript-Duktape-XS-0.000031          124887
 Net-Address-IP-Cipher-0.2               124888
 IO-ReadHandle-Chain-v1.2.1              124889
+File-Find-Closures-1.112                https://github.com/briandfoy/file-find-closures/issues/1
+FindBin-libs-2.017008                   124690
+HPCI-0.66                               124695
+WebService-Braintree-1.1                https://github.com/singingfish/braintree_perl/issues/22
+WWW-Amazon-Wishlist-2.018               124890
