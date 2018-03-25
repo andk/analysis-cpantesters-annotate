@@ -3689,7 +3689,6 @@ List-Lazy-0.3.0                         https://github.com/yanick/List-Lazy/issu
 Mojo-UserAgent-Mockable-1.53            https://github.com/PopeFelix/Mojo-UserAgent-Mockable/issues/18
 Business-YQL-0.0004                     124215
 WebService-Yamli-0.003                  https://github.com/athreef/WebService-Yamli/issues/1
-WWW-Search-Ebay-3.047                   124216
 Module-CPANTS-ProcessCPAN-0.77          124220
 App-revealup-0.21                       https://github.com/yusukebe/App-revealup/issues/11
 Catalyst-Controller-Imager-0.06         124225
