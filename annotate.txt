@@ -3887,3 +3887,10 @@ FindBin-libs-2.017008                   124690
 HPCI-0.66                               124695
 WebService-Braintree-1.1                https://github.com/singingfish/braintree_perl/issues/22
 WWW-Amazon-Wishlist-2.018               124890
+Data-Table-Text-20180316                124891
+Dist-Zilla-PluginBundle-Author-TABULO-0.197 124892
+Algorithm-BloomFilter-0.02              124893
+WWW-Search-Ebay-3.048                   124894
+Log-Syslog-Fast-0.65                    124895
+Alien-gettext-0.001                     124896
+JSPL-1.07                               124897,124898
