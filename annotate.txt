@@ -1436,7 +1436,6 @@ Plack-Middleware-PostErrorToSlack-0.01  https://github.com/hitode909/Plack-Middl
 Net-Xero-0.44                           105007
 Class-Action-0.4                        95278
 WWW-Mechanize-Plugin-Retry-0.04         110667
-Test-Trap-v0.3.2                        105125
 Tempest-2010.09.26                      110670
 Sys-UniqueID-1.0                        6799
 Objects-Collection-0.37                 110671
@@ -2139,7 +2138,6 @@ GenOO-1.5.0                             https://github.com/genoo/GenOO/issues/12
 Gnuplot-Simple-0.011                    117178
 Apache2-ASP-2.46                        117180
 Alien-NSS-0.23                          https://github.com/0xxon/alien-nss/issues/5
-XML-XSH2-2.1.25                         117196
 WWW-Scraper-ISBN-ORA_Driver-0.22        117200
 Net--RabbitMQ-0.2.8                     102508
 invoker-0.34                            https://rt.perl.org/Public/Bug/Display.html?id=128179,117215
