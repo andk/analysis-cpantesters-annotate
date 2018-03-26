@@ -3890,3 +3890,4 @@ Games-Go-Sgf2Dg-4.252                   124905
 Unicode-Support-0.001                   79669,124907
 UnicornEngine-0.05                      124908
 File-Find-Closures-1.112_01             https://github.com/briandfoy/file-find-closures/issues/1
+Data-ObjectStore-1.103                  124925
