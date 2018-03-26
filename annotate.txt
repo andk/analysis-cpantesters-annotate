@@ -325,7 +325,6 @@ Mojo-Command-Generate-InitScript-0.03   79321
 MooseX-Semantic-0.006                   79349
 Net-GDrive-0.01                         79362
 Net-GoogleDrive-0.02                    79545
-Unicode-Support-0.001                   79669
 Data-Rx-TypeBundle-Rx-0.103520          79743
 Mojolicious-Plugin-ParamCondition-0.003 79768
 WebService-Pastefire-0.02               79857
@@ -3892,6 +3891,6 @@ ICC-Profile-0.601                       124901
 Alien-LibUSB-0.2                        https://github.com/athreef/Alien-LibUSB/issues/1,https://github.com/athreef/Alien-LibUSB/issues/2
 Cv-0.29                                 124904
 Games-Go-Sgf2Dg-4.252                   124905
-Unicode-Support-0.001                   124907
+Unicode-Support-0.001                   79669,124907
 UnicornEngine-0.05                      124908
 File-Find-Closures-1.112_01             https://github.com/briandfoy/file-find-closures/issues/1
