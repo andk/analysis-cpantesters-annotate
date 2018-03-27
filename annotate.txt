@@ -1955,7 +1955,6 @@ Devel-QuickCover-0.600000               115010
 Test-Needs-0.002001                     115021
 libintl-perl-1.25                       115052
 Encode-Arabic-14.1                      115138
-Inline-Awk-0.03                         115140
 Text-Amuse-Compile-0.59                 115177
 Net-Fritz-v0.0.1                        115356
 Specio-0.21                             115418
