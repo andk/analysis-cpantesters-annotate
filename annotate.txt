@@ -3737,7 +3737,6 @@ Geo-Coder-XYZ-0.06                      124542
 Mojo-Reactor-IOAsync-1.000              https://github.com/Grinnz/Mojo-Reactor-IOAsync/issues/1
 Mojo-SMTP-Client-0.14                   124562
 Net-Flotum-0.10                         https://github.com/eokoe/Net-Flotum/issues/6
-Mojo-Reactor-Epoll-0.006                https://github.com/Grinnz/Mojo-Reactor-Epoll/issues/1
 Plack-Middleware-Debug-TraceENV-0.042   124566
 RDF-aREF-0.27                           https://github.com/nichtich/RDF-aREF/issues/21
 Perl6-Export-Attrs-0.000006             107603
@@ -3903,7 +3902,7 @@ DBIx-SecureCGI-v3.0.0                   https://github.com/powerman/perl-DBIx-Se
 Inline-Awk-0.04                         https://rt.cpan.org/Ticket/Display.html?id=121648
 IO-Stream-v2.0.2                        https://github.com/powerman/perl-IO-Stream/issues/2
 Module-Build-Pluggable-AuthorTests-0.01 124926
-Mojo-Reactor-Epoll-0.006                https://github.com/Grinnz/Mojo-Reactor-Epoll/issues/2
+Mojo-Reactor-Epoll-0.006                https://github.com/Grinnz/Mojo-Reactor-Epoll/issues/1,https://github.com/Grinnz/Mojo-Reactor-Epoll/issues/2
 Config-Model-2.118                      https://github.com/dod38fr/config-model/issues/16
 PlantUML-ClassDiagram-Parse-0.1         https://github.com/Kesin11/plantuml_class_digram_parse/issues/2
 Riji-v0.9.8                             https://github.com/Songmu/p5-Riji/issues/20
