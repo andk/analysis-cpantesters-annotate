@@ -3423,7 +3423,6 @@ Morpheus-0.46                           https://github.com/druxa/morpheus/issues
 Tk-Help-0.3                             123632
 Word2vec-Interface-0.037                122998
 Text-Password-AutoMigration-0.11        https://github.com/worthmine/Text-Password-AutoMigration/issues/3
-GraphQL-Plugin-Convert-DBIC-0.02        https://github.com/graphql-perl/GraphQL-Plugin-Convert-DBIC/issues/1
 App-CLI-Extension-1.421                 123655
 Whatever-0.23                           123654
 CSS-Simple-3224                         123656
@@ -3615,7 +3614,6 @@ sanity-1.03                             https://rt.perl.org/rt3/Ticket/Display.h
 SQL-Bibliosoph-2.55                     https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Tapper-Installer-5.0.0                  https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Try-0.03                                https://rt.perl.org/rt3/Ticket/Display.html?id=132594
-HTML-Lint-2.27_01                       https://github.com/petdance/html-lint/issues/63
 Mojolicious-Plugin-PgLock-0.01          https://github.com/onokhov/Mojolicious-Plugin-PgLock/issues/1
 Text-Amuse-0.94                         123958
 Geo-Proj-Japan-0.0.2                    123950
