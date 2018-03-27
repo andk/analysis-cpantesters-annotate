@@ -3394,7 +3394,6 @@ Object-LocalVars-0.21                   https://github.com/dagolden/Object-Local
 WebService-KVV-Live-Stop-0.005          https://github.com/athreef/WebService-KVV-Live-Stop/issues/1
 Net-MAC-Vendor-1.262                    https://github.com/briandfoy/net-mac-vendor/issues/26
 lsn-data-hub-05.00297                   no bugtracker, unescaped left brace in regex
-Data-RecordStore-2.01                   123458
 Tk-StatusBar-0.04                       123473
 Business-OnlinePayment-CardConnect-0.004 123475
 Test-Taint-1.06                         119897
