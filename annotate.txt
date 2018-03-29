@@ -3745,7 +3745,6 @@ Net-Interface-1.016                     124582
 WebService-SimpleAPI-Wikipedia-0.01     124584
 Moonshine-Bootstrap-0.03                124586
 Finance-Currency-Convert-Custom-1.00    124587
-Plack-Middleware-Auth-JWT-0.902         124565
 RDF-Trine-Serializer-RDFa-0.100         https://github.com/kjetilk/p5-rdf-trine-serializer-rdfa/issues/1
 RDF-RDFa-Generator-0.200                https://github.com/kjetilk/p5-rdf-rdfa-generator/issues/3
 MooX-VariantAttribute-0.08              124601
@@ -3766,7 +3765,6 @@ Plack-Middleware-Debug-Mongo-0.03       https://github.com/Wu-Wu/Plack-Middlewar
 Plack-Middleware-Debug-Redis-0.03       https://github.com/Wu-Wu/Plack-Middleware-Debug-Redis/issues/1
 CGI-Application-4.60                    https://github.com/MartinMcGrath/CGI--Application/issues/5
 Object-Exercise-3.1                     124632
-SMS-Send-NANP-Twilio-0.03               124633
 CGI-AuthRegister-1.1                    124630
 SPVM-0.0315                             124384
 App-MechaCPAN-0.21                      124636
