@@ -2735,7 +2735,6 @@ MooseX-CurriedDelegation-0.003          https://github.com/RsrchBoy/moosex-curri
 Net-GNUDBSearch-1.01                    118820
 Business-OnlinePayment-Skipjack-0.05    118821
 WebService-MusicBrainz-0.94             118822
-Tatsumaki-0.101301                      118843
 CatalystX-ASP-1.06                      https://github.com/stvleung/CatalystX-ASP/issues/4
 Config-Model-Systemd-0.232.1            https://github.com/dod38fr/config-model-systemd/issues/2
 Date-Manip-6.56                         https://rt.perl.org/Ticket/Display.html?id=130132,118862
@@ -3332,7 +3331,6 @@ Data-Sah-Coerce-0.023                   123095
 Syntax-Highlight-Engine-Simple-HTML-0.04 123096
 Event-1.26                              123115
 YAML-Perl-0.12                          123103
-POSIX-1003-0.98                         123109
 Business-OnlinePayment-BitPay-KeyUtils-2.0.1 106730,123112
 EBook-EPUB-Check-0.04                   https://github.com/pawa-/EBook-EPUB-Check/issues/1
 libsoldout-0.02                         123113
@@ -3769,7 +3767,6 @@ Plack-Middleware-Debug-Redis-0.03       https://github.com/Wu-Wu/Plack-Middlewar
 CGI-Application-4.60                    https://github.com/MartinMcGrath/CGI--Application/issues/5
 Object-Exercise-3.1                     124632
 SMS-Send-NANP-Twilio-0.03               124633
-Google-Ads-AdWords-Client-5.2.0         118509
 CGI-AuthRegister-1.1                    124630
 SPVM-0.0315                             124384
 App-MechaCPAN-0.21                      124636
@@ -3883,7 +3880,6 @@ Cv-0.29                                 124904
 Games-Go-Sgf2Dg-4.252                   124905
 Unicode-Support-0.001                   79669,124907
 UnicornEngine-0.05                      124908
-File-Find-Closures-1.112_01             https://github.com/briandfoy/file-find-closures/issues/1
 Data-ObjectStore-1.103                  124925
 a2pdf-1.13                              28152,124913
 Amon2-6.13                              https://github.com/tokuhirom/Amon/issues/123
