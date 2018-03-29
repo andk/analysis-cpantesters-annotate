@@ -3029,7 +3029,6 @@ AmbientOrb-Serial-0.02                  121378,121379
 Location-GeoTool-2                      121380
 PGP-Sign-0.20                           121381
 Cache-Memcached-GetParserXS-0.01        121384
-PerlBuildSystem-0.44                    121386
 Rinchi-CPlusPlus-Preprocessor-0.02      121387
 Rinchi-Fortran-Preprocessor-0.02        121388
 Mojolicious-Plugin-AssetPack-Backcompat-1.23 https://github.com/jhthorsen/mojolicious-plugin-assetpack-backcompat/issues/1
@@ -3918,7 +3917,7 @@ Tatsumaki-0.1013                        118843
 POSIX-1003-0.99_07                      124960
 Google-Ads-AdWords-Client-5.3.0         118509
 Video-FourCC-Info-1.005                 118459
-PerlBuildSystem-0.44                    124971
+PerlBuildSystem-0.44                    121386,124971
 Term-Terminfo-0.08                      124969
 Crypt-U2F-Server-0.41                   124973
 File-Find-Closures-1.112_03             https://github.com/briandfoy/file-find-closures/issues/1
