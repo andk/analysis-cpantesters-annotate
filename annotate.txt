@@ -3911,3 +3911,14 @@ GD-Thumbnail-1.42                       123535
 Lingua-Any-Numbers-0.46                 124930
 XML-XSH2-2.1.26                         124931
 Data-RecordStore-3.16                   124933
+C-Utility-0.008                         https://github.com/benkasminbullock/C-Utility/issues/1
+FFmpeg-Thumbnail-0.02                   103159,124945
+Unicode-ICU-Collator-0.002              124946
+Tatsumaki-0.1013                        118843
+POSIX-1003-0.99_07                      124960
+Google-Ads-AdWords-Client-5.3.0         118509
+Video-FourCC-Info-1.005                 118459
+PerlBuildSystem-0.44                    124971
+Term-Terminfo-0.08                      124969
+Crypt-U2F-Server-0.41                   124973
+File-Find-Closures-1.112_03             https://github.com/briandfoy/file-find-closures/issues/1
