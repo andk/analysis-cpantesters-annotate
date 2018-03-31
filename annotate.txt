@@ -3915,3 +3915,4 @@ PerlBuildSystem-0.44                    121386,124971
 Term-Terminfo-0.08                      124969
 Crypt-U2F-Server-0.41                   124973
 File-Find-Closures-1.112_03             https://github.com/briandfoy/file-find-closures/issues/1
+Net-Todoist-0.06                        124981
