@@ -3913,10 +3913,9 @@ Google-Ads-AdWords-Client-5.3.0         118509
 Video-FourCC-Info-1.005                 118459
 PerlBuildSystem-0.44                    121386,124971
 Term-Terminfo-0.08                      124969
-Crypt-U2F-Server-0.41                   124973
 File-Find-Closures-1.112_03             https://github.com/briandfoy/file-find-closures/issues/1
 Net-Todoist-0.06                        124981
-Crypt-U2F-Server-0.41                   124974
+Crypt-U2F-Server-0.41                   124973,124974
 Tk-TextVi-0.015                         124975
 XML-Writer-Lazy-0.05                    https://github.com/pjlsergeant/p5-xml-writer-lazy/issues/2
 Attribute-Persistent-1.1                34968
