@@ -3752,7 +3752,6 @@ App-NDTools-0.5.2.2-TRIAL               124591
 Module-Release-2.124                    124598
 Git-Hooks-2.6.0                         https://github.com/gnustavo/Git-Hooks/issues/45
 URI-Fast-0.04                           https://github.com/sysread/URI-Fast/issues/3
-Device-Chip-Adapter-CH341A-0.01         124608
 Dist-Zilla-PluginBundle-FAYLAND-0.14    124609
 Module-Overview-0.01                    https://github.com/jozef/Module-Overview/issues/1
 Test-MockCommand-0.03                   124611
