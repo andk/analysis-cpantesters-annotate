@@ -3916,3 +3916,12 @@ Term-Terminfo-0.08                      124969
 Crypt-U2F-Server-0.41                   124973
 File-Find-Closures-1.112_03             https://github.com/briandfoy/file-find-closures/issues/1
 Net-Todoist-0.06                        124981
+Crypt-U2F-Server-0.41                   124974
+Tk-TextVi-0.015                         124975
+XML-Writer-Lazy-0.05                    https://github.com/pjlsergeant/p5-xml-writer-lazy/issues/2
+Attribute-Persistent-1.1                34968
+Env-Bash-0.04                           124976
+Chemistry-InternalCoords-0.18           95344
+Linux-Sysfs-0.03                        110318,110319,110321,110326
+Net-Jabber-Loudmouth-0.07               95339
+Device-Chip-Adapter-CH341A-0.02         124608
