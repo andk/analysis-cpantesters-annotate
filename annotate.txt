@@ -686,7 +686,6 @@ B-Utils-0.25                            https://rt.perl.org/Ticket/Display.html?
 Data-File-Map-0.09                      100541
 Template-Plugin-SortNatural-0.001       100542
 Types-Git-0.02                          https://github.com/bluefeet/Types-Git/issues/1
-Zonemaster-v0.1.0                       100591
 Test-HTML-Content-0.09                  100616
 Test-Wrapper-0.3.0                      https://github.com/yanick/test-wrapper/issues/1
 Test-Bomb-0.007                         https://github.com/Test-More/test-more/issues/507
@@ -1889,7 +1888,6 @@ MooX-Types-CLike-0.92                   https://github.com/SineSwiper/MooX-Types
 Selenium-Remote-Driver-UserAgent-0.0301 https://github.com/gempesaw/Selenium-UserAgent/issues/2
 Test-Proto-0.027                        https://github.com/pdl/Test-Proto/issues/44
 Parse-Path-0.92                         https://github.com/SineSwiper/Parse-Path/issues/2
-Dancer2-Logger-Syslog-0.4               115557
 MySQL-Diff-0.47                         https://github.com/aspiers/mysqldiff/issues/31
 PPIx-Refactor-0.07                      https://github.com/lackita/PPIx-Refactor/issues/2
 Class-Roles-0.30                        102367
@@ -2765,7 +2763,6 @@ Speech-Recognizer-SPX-0.09              40537
 BatchSystem-SBS-0.41                    41692
 CGI-FileUpload-0.03                     41693
 Kafka-Librd-0.04                        https://github.com/trinitum/perl-Kafka-Librd/issues/2
-Lucy-0.6.0.3                            https://issues.apache.org/jira/browse/LUCY-316
 Device-Serdisp-0.06                     119023
 Algorithm-MarkovChain-GHash-0.01        119024
 Mhash-0.90                              60966
@@ -3282,7 +3279,6 @@ Data-Validate-XSD-1.05                  122730
 WordNet-Extend-1.000                    122732
 Hash-SharedMem-0.005                    122775
 Data-Edit-Xml-Lint-20170802             122789
-Cloudinary-0.15                         https://github.com/jhthorsen/cloudinary/issues/2
 Algorithm-Cluster-1.53                  120442
 Statistics-Multtest-0.14                122859
 Mail-OpenDKIM-4204                      122861
@@ -3628,7 +3624,6 @@ ActiveRecord-Simple-1.01                124011
 Math-WalshTransform-1.17                122909
 CatalystX-I18N-1.14                     124078,100351
 File-Copy-Recursive-0.40                123964
-Net-Ethereum-0.28                       123919
 MVC-Neaf-0.2201                         124124
 MarpaX-ESLIF-ECMA404-0.008              124137
 Time-OlsonTZ-Download-0.008             124138
@@ -3726,7 +3721,6 @@ CSS-Inliner-4008                        124467
 Analizo-1.20.7                          https://github.com/analizo/analizo/issues/115
 YAML-Tiny-1.73                          124399
 Distribution-Cooker-1.01                124541
-Geo-Coder-XYZ-0.06                      124542
 Mojo-Reactor-IOAsync-1.000              https://github.com/Grinnz/Mojo-Reactor-IOAsync/issues/1
 Mojo-SMTP-Client-0.14                   124562
 Net-Flotum-0.10                         https://github.com/eokoe/Net-Flotum/issues/6
@@ -3819,7 +3813,6 @@ Mojo-IOLoop-ReadWriteFork-0.36          https://github.com/jhthorsen/mojo-ioloop
 Test2-Harness-0.001058                  https://github.com/Test-More/Test2-Harness/issues/53
 Module-FromPerlVer-0.004004             124732
 Reddit-Client-1.20                      124767
-Term-CLI-0.04007                        https://github.com/sbakker/perl-Term-CLI/issues/6
 Test2-Tools-xUnit-0.003                 https://github.com/cv-library/Test2-Tools-xUnit/issues/1
 Catalyst-Plugin-Static-Simple-0.35      124211
 Time-HiRes-1.9755                       124775
