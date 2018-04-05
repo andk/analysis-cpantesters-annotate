@@ -3916,3 +3916,8 @@ Chemistry-InternalCoords-0.18           95344
 Linux-Sysfs-0.03                        110318,110319,110321,110326
 Net-Jabber-Loudmouth-0.07               95339
 Device-Chip-Adapter-CH341A-0.02         124608
+FindBin-libs-2.017009                   124690
+Data-ObjectStore-1.104                  124925
+HPCI-0.68                               124695
+IO-Compress-Lzf-2.080                   91419
+SOAP-Lite-Simple-1.9                    125017
