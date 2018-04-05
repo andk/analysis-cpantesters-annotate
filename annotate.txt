@@ -2107,7 +2107,6 @@ App-Critique-0.01                       116785
 Dancer-Plugin-Database-2.12             https://github.com/bigpresh/Dancer-Plugin-Database/issues/89
 Dancer2-Session-Redis-0.006             https://github.com/burnersk/Dancer2-Session-Redis/issues/9
 Finance-FITF-0.31                       116945
-Reply-0.41                              https://github.com/doy/reply/issues/52
 Interchange6-Schema-0.130               https://github.com/interchange/interchange6-schema/issues/201
 JQuery-DataTables-Heavy-0.04            https://github.com/ywatase/JQuery-DataTables-Heavy/issues/4
 List-Util-1.46_01                       117080
@@ -3625,7 +3624,6 @@ CatalystX-I18N-1.14                     124078,100351
 File-Copy-Recursive-0.40                123964
 MVC-Neaf-0.2201                         124124
 MarpaX-ESLIF-ECMA404-0.008              124137
-Time-OlsonTZ-Download-0.008             124138
 Sys-Syscall-0.25                        124139
 Math-GComplex-0.06                      https://github.com/trizen/Math-GComplex/issues/2
 App-ClusterSSH-4.13                     https://github.com/duncs/clusterssh/issues/102
@@ -3694,7 +3692,6 @@ App-Pastebin-sprunge-0.012              https://github.com/doherty/App-Pastebin-
 EZID-0.02                               124300
 Mojolicious-Plugin-AssetPack-Pipe-ElmLang-0.4 https://github.com/csandeep/mojolicious-plugin-assetpack-pipe-elmlang/issues/2
 Devel-Scope-0.02                        124317
-PerlX-AsyncAwait-0.001002               124183,124318
 WWW-Velib-0.05                          124319
 WWW-Fimfiction-v0.3.7                   124343
 Test-BDD-Cucumber-Definitions-0.09      https://github.com/ivanych/Test-BDD-Cucumber-Definitions/issues/2
@@ -3752,7 +3749,6 @@ Pg-Corruption-0.02                      116730,124612
 Catalyst-Plugin-ConfigLoader-Remote-0.02 54736
 Pod-Elemental-Transformer-Splint-0.1201 123445,https://rt.perl.org/Ticket/Display.html?id=132373
 Archive-Any-Plugin-Rar-0.02             124613
-Pony-Object-1.03                        124614
 Plack-Middleware-Debug-Mongo-0.03       https://github.com/Wu-Wu/Plack-Middleware-Debug-Mongo/issues/1
 Plack-Middleware-Debug-Redis-0.03       https://github.com/Wu-Wu/Plack-Middleware-Debug-Redis/issues/1
 CGI-Application-4.60                    https://github.com/MartinMcGrath/CGI--Application/issues/5
@@ -3836,7 +3832,6 @@ Store-Digest-0.03                       https://github.com/doriantaylor/p5-store
 Text-Truncate-1.06                      98445,121150
 Devel-PerlySense-0.0219                 124853
 ORLite-1.98                             123867,124854
-PDL-Algorithm-Center-0.07               124855
 Perinci-CmdLine-Inline-0.541            124858
 Search-Xapian-1.2.25.0                  124860
 Git-ObjectStore-0.007                   https://github.com/ssinyagin/p5-Git-ObjectStore/issues/2
