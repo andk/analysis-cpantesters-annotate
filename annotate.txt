@@ -3243,7 +3243,6 @@ Class-Builder-1.010                     122492
 PlugAuth-0.36                           https://github.com/clustericious/PlugAuth/issues/3
 Finance-QuoteHist-1.27                  122510
 POEx-Tickit-0.04                        122589
-IO-Compress-Lzf-2.074                   91419
 Filter-Crypto-2.07                      111423,119937
 Tree-Authz-0.03                         19421,19422
 AnyEvent-GnuPG-1.001                    https://github.com/zurborg/libanyevent-gnupg-perl/issues/2
@@ -3853,8 +3852,6 @@ Authen-TuringImage-1.006                124873
 JavaScript-Duktape-XS-0.000031          124887
 Net-Address-IP-Cipher-0.2               124888
 IO-ReadHandle-Chain-v1.2.1              124889
-FindBin-libs-2.017008                   124690
-HPCI-0.66                               124695
 WebService-Braintree-1.1                https://github.com/singingfish/braintree_perl/issues/22
 WWW-Amazon-Wishlist-2.018               124890
 Dist-Zilla-PluginBundle-Author-TABULO-0.197 124149,124892
@@ -3870,7 +3867,6 @@ Cv-0.29                                 124904
 Games-Go-Sgf2Dg-4.252                   124905
 Unicode-Support-0.001                   79669,124907
 UnicornEngine-0.05                      124908
-Data-ObjectStore-1.103                  124925
 a2pdf-1.13                              28152,124913
 Amon2-6.13                              https://github.com/tokuhirom/Amon/issues/123
 App-BigQuery-Importer-MySQL-0.024       https://github.com/myfinder/app-bigquery-importer-mysql/issues/6
