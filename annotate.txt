@@ -3912,3 +3912,5 @@ Data-ObjectStore-1.104                  124925
 HPCI-0.68                               124695
 IO-Compress-Lzf-2.080                   91419
 SOAP-Lite-Simple-1.9                    125017
+HPCI-0.69                               124695
+App-Jiffy-0.06                          https://github.com/lejeunerenard/jiffy/issues/8
