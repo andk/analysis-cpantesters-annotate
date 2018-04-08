@@ -720,7 +720,6 @@ Test-Resub-2.03                         https://rt.perl.org/rt3/Ticket/Display.h
 Date-Calc-6.3                           101232
 Devel-SizeMe-0.19                       92348
 Dist-Zilla-PluginBundle-GETTY-0.008     101234
-Data-DynamicValidator-0.03              101068
 Test-DistManifest-1.012                 101287
 Mail-Alias-1.12                         101356
 MooseX-Declare-Context-WithOptions-Patch-Extensible-0.002 101357
