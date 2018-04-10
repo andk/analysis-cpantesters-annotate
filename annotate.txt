@@ -1886,7 +1886,6 @@ MooX-Types-CLike-0.92                   https://github.com/SineSwiper/MooX-Types
 Selenium-Remote-Driver-UserAgent-0.0301 https://github.com/gempesaw/Selenium-UserAgent/issues/2
 Test-Proto-0.027                        https://github.com/pdl/Test-Proto/issues/44
 Parse-Path-0.92                         https://github.com/SineSwiper/Parse-Path/issues/2
-MySQL-Diff-0.47                         https://github.com/aspiers/mysqldiff/issues/31
 PPIx-Refactor-0.07                      https://github.com/lackita/PPIx-Refactor/issues/2
 Class-Roles-0.30                        102367
 File-Find-Iterator-0.4                  91854
@@ -2996,7 +2995,6 @@ WebService-Coinbase-0.0200              121328
 WebService-Snapcard-0.0001              121329
 Config-Any-0.31                         121330,121331
 SWFEditor-0.09                          121333
-HTML-TableParser-0.42                   121341
 WWW-Mechanize-Shell-0.55                121334
 Date-Passover-1.12                      121343
 HTML-Selector-XPath-Simple-v0.0.3       121344
@@ -3424,7 +3422,6 @@ DBIx-Class-StorageReadOnly-0.05         117659,123704
 Getopt-Flex-1.07                        123715
 criticism-1.02                          123714
 MsgPack-RPC-2.0.0                       https://github.com/yanick/MsgPack-RPC/issues/9,https://github.com/yanick/MsgPack-RPC/issues/10
-Neovim-RPC-1.0.0                        https://github.com/yanick/Neovim-RPC/issues/4
 Neovim-RPC-Plugin-Taskwarrior-0.0.1     https://github.com/yanick/Neovim-RPC/issues/5
 SMS-Send-Sergel-Simple-HTTP-0.02        https://github.com/eskaaren/SMS-Send-Sergel-Simple-HTTP/issues/3
 optex-0.02                              https://github.com/kaz-utashiro/optex/issues/1
@@ -3784,7 +3781,6 @@ Catalyst-View-Template-Lace-0.012       121385,https://github.com/jjn1056/Cataly
 Net-Radius-PacketOrdered-1.53           124672,124673
 What-1.00                               108842,124674
 WWW-Blog-Metadata-Icon-0.02             124675
-XML-Compile-SOAP-3.23                   124688
 App-GitHooks-Plugin-DetectCommitNoVerify-v1.0.3 https://github.com/guillaumeaubert/App-GitHooks-Plugin-DetectCommitNoVerify/issues/4
 Devel-Examine-Subs-1.69                 https://github.com/stevieb9/devel-examine-subs/issues/25
 DateTime-Format-CLDR-1.19               124691
