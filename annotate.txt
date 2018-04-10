@@ -3913,3 +3913,4 @@ Rstats-0.0149                           https://github.com/yuki-kimoto/Rstats/is
 Archive-Zip-SimpleZip-0.020             125043,125044
 Clone-Choose-0.009                      125045
 Compress-Raw-Lzma-2.081                 125046
+Mojolicious-Plugin-JSONAPI-1.1          125061
