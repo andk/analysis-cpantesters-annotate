@@ -1775,7 +1775,6 @@ Net-Douban-1.14                         https://rt.perl.org/rt3/Ticket/Display.h
 Config-Std-0.901                        114342,https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 Lingua-EN-Tagger-0.25                   114491,https://rt.perl.org/rt3/Ticket/Display.html?id=128139
 Module-Depends-0.16                     115053,https://rt.perl.org/rt3/Ticket/Display.html?id=128139
-DateTime-Calendar-Japanese-Era-0.08002  https://github.com/lestrrat/p5-DateTime-Calendar-Japanese-Era/issues/1
 FFmpeg-Command-0.19                     103139
 B-Size-0.09                             33471
 PerlIO-subfile-0.08                     95340
@@ -3868,7 +3867,6 @@ Mojo-Reactor-Epoll-0.006                https://github.com/Grinnz/Mojo-Reactor-E
 Config-Model-2.118                      https://github.com/dod38fr/config-model/issues/16
 PlantUML-ClassDiagram-Parse-0.1         https://github.com/Kesin11/plantuml_class_digram_parse/issues/2
 Riji-v0.9.8                             https://github.com/Songmu/p5-Riji/issues/20
-Scope-UndefSafe-0.03                    https://github.com/pine/p5-Scope-UndefSafe/issues/3
 Stacktrace-Configurable-0.06            https://github.com/tfoertsch/Stacktrace-Configurable/issues/1
 Try-Lite-0.0.3                          https://github.com/yappo/p5-Try-Lite/issues/4
 Alien-RRDtool-0.06                      124928
