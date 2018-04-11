@@ -3911,3 +3911,6 @@ Clone-Choose-0.009                      125045
 Compress-Raw-Lzma-2.081                 125046
 Mojolicious-Plugin-JSONAPI-1.1          125061
 Finance-Robinhood-0.9.0_001             https://github.com/sanko/Finance-Robinhood/issues/3
+IO-Compress-Lzf-2.081                   91419
+HTTP-Caching-0.12                       125047
+Dancer2-Session-PSGI-0.009              https://github.com/veryrusty/Dancer2-Session-PSGI/issues/5
