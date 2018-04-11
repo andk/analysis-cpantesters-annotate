@@ -3601,7 +3601,6 @@ Try-0.03                                https://rt.perl.org/rt3/Ticket/Display.h
 Mojolicious-Plugin-PgLock-0.01          https://github.com/onokhov/Mojolicious-Plugin-PgLock/issues/1
 Text-Amuse-0.94                         123958
 Geo-Proj-Japan-0.0.2                    123950
-Finance-Robinhood-0.20                  https://github.com/sanko/Finance-Robinhood/issues/2
 File-LibMagic-1.16                      123962
 App-cpanexec-0.04                       https://github.com/oklas/cpanexec/issues/2
 Digest-PBKDF2-0.012                     123976
@@ -3816,7 +3815,6 @@ HTML-Tidy5-1.00                         https://github.com/petdance/html-tidy5/i
 Bio-PhyloXS-v0.1.0                      https://github.com/rvosa/bio-phylo-xs/issues/7,https://github.com/rvosa/bio-phylo-xs/issues/8
 Business-KontoCheck-6.03                https://sourceforge.net/p/kontocheck/bugs/19/
 circle-fe-term-0.173170                 124848
-HTTP-Caching-0.11                       124849
 JSON-ize-0.102                          system perl used in tests, no RT queue,124850
 MariaDB-NonBlocking-0.14                123474,124851
 MogileFS-Server-2.73                    116633
@@ -3901,7 +3899,6 @@ Net-Jabber-Loudmouth-0.07               95339
 Device-Chip-Adapter-CH341A-0.02         124608
 FindBin-libs-2.017009                   124690
 Data-ObjectStore-1.104                  124925
-IO-Compress-Lzf-2.080                   91419
 SOAP-Lite-Simple-1.9                    125017
 HPCI-0.69                               124695
 App-Jiffy-0.06                          https://github.com/lejeunerenard/jiffy/issues/8
