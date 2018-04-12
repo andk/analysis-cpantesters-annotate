@@ -1528,7 +1528,6 @@ PPM-Profile-1.4                         112148
 Net-Jifty-0.14                          112231
 File-FDpasser-0.09                      112233
 DateTime-Astro-1.00                     112240
-Perinci-Sub-Gen-AccessTable-DBI-0.15    112293
 Algorithm-Permute-0.12                  https://rt.perl.org/rt3/Ticket/Display.html?id=127475
 Convert-TBX-UTX-0.032                   112325
 Dancer-Plugin-SporeDefinitionControl-0.14 84948
@@ -3281,7 +3280,6 @@ WWW-Search-Ebay-Europe-2.017            122876
 List-MoreUtils-0.423                    122875
 UR-0.46                                 https://github.com/genome/UR/issues/136
 CPAN-Testers-Reports-Counts-0.05        122886
-Unicode-BiDiRule-0.03                   122862
 WebService-Europeana-0.0.2              https://twitter.com/Europeanaeu/status/719563390860046336,https://github.com/hatorikibble/webservice-europeana/issues/1
 ETL-Yertl-0.029                         https://github.com/preaction/ETL-Yertl/issues/153
 Net-LDNS-0.75                           110365,119935
@@ -3315,7 +3313,6 @@ AnsibleModule-0.4                       109959
 BioPerl-Run-1.007002                    123058
 DBD-Multi-1.01                          https://github.com/dwright/DBD-Multi/issues/2
 Config-Model-Itself-2.011               https://github.com/dod38fr/config-model-itself/issues/2
-Data-Sah-Coerce-0.023                   123095
 Syntax-Highlight-Engine-Simple-HTML-0.04 123096
 Event-1.26                              123115
 YAML-Perl-0.12                          123103
@@ -3809,7 +3806,6 @@ Kavorka-0.037                           109841,124827
 MooseX-XSAccessor-0.008                 124835
 App-CSE-0.013                           124839
 Bio-Gonzales-0.078                      124840
-DBIx-JSON-0.03                          124841
 HTML-Tidy5-1.00                         https://github.com/petdance/html-tidy5/issues/4
 Bio-PhyloXS-v0.1.0                      https://github.com/rvosa/bio-phylo-xs/issues/7,https://github.com/rvosa/bio-phylo-xs/issues/8
 Business-KontoCheck-6.03                https://sourceforge.net/p/kontocheck/bugs/19/
