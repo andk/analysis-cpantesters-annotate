@@ -3909,3 +3909,4 @@ Finance-Robinhood-0.9.0_001             https://github.com/sanko/Finance-Robinho
 IO-Compress-Lzf-2.081                   91419
 HTTP-Caching-0.12                       125047
 Dancer2-Session-PSGI-0.009              https://github.com/veryrusty/Dancer2-Session-PSGI/issues/5
+MooseX-SingleArg-0.05                   https://github.com/bluefeet/MooseX-SingleArg/issues/3
