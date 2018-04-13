@@ -3907,3 +3907,6 @@ HTTP-Caching-0.12                       125047
 Dancer2-Session-PSGI-0.009              https://github.com/veryrusty/Dancer2-Session-PSGI/issues/5
 MooseX-SingleArg-0.05                   https://github.com/bluefeet/MooseX-SingleArg/issues/3
 Sentry-0.01                             125077
+BenchmarkAnything-Storage-Frontend-Lib-0.022 116664
+CPP-panda-lib-1.1.2                     125080
+WWW-EZTV-0.07                           https://github.com/diegok/www-eztv/issues/2
