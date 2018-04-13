@@ -2586,7 +2586,6 @@ AnyEvent-Atom-Stream-0.02               118006
 Cache-RedisDB-0.10                      https://github.com/binary-com/perl-Cache-RedisDB/issues/9
 UNIVERSAL-ref-0.14                      https://rt.perl.org/rt3/Ticket/Display.html?id=128179,118008
 BrowserStack-Local-1.0.0                no bugtracker, missing dependency specifications
-Evo-XS-0.005                            https://github.com/alexbyk/perl-evo-xs/issues/1
 B-ConstOptree-0.02                      118020
 Dist-Zilla-Role-ModuleIncluder-0.007    118026
 Devel-RingBuffer-0.31                   118038
@@ -2788,7 +2787,6 @@ Text-FromAny-0.21                       119538
 Weblogic-UserAdmin-1.03                 119539
 Email-Archive-0.03                      119540
 Benchmark-Perl-CoreHashes-0.02          119566
-sBNC-User-Summary-1.00                  https://github.com/n7st/sBNC-User-Summary/issues/1
 Geo-Coder-All-0.06                      https://github.com/raigad/geo-coder-all/issues/3
 AnyEvent-SIP-0.002                      https://github.com/xsawyerx/anyevent-sip/issues/1
 WebService-Async-UserAgent-0.005        119608
@@ -3626,7 +3624,6 @@ Type-Tiny-1.002001                      124067
 Clustericious-1.27                      https://github.com/clustericious/Clustericious/issues/45
 Devel-Chitin-0.13                       124153
 Devel-Size-0.81                         124105
-MOP-0.12                                https://github.com/stevan/p5-MOP/issues/25
 App-bovespa-0.003                       121335
 CSS-DOM-0.16                            124156
 Dist-Surveyor-0.020                     124157
@@ -3796,7 +3793,6 @@ Test2-Harness-0.001058                  https://github.com/Test-More/Test2-Harne
 Module-FromPerlVer-0.004004             124732
 Reddit-Client-1.20                      124767
 Test2-Tools-xUnit-0.003                 https://github.com/cv-library/Test2-Tools-xUnit/issues/1
-Catalyst-Plugin-Static-Simple-0.35      124211
 Time-HiRes-1.9755                       124775
 JavaScript-V8-Handlebars-0.09           114583,124802
 App-Scheme79asm-0.004                   124826
