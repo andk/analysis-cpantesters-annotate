@@ -2906,7 +2906,6 @@ Net-Stripe-Simple-0.004                 120668
 Metabase-Backend-SQL-1.001              https://github.com/dagolden/metabase-backend-sql/issues/1
 IO-Async-SSL-0.19                       120701
 Pcore-API-Namecheap-v0.5.2              https://bitbucket.org/softvisio/pcore-api-namecheap/issues/1/undeclared-dependency-mouse
-Crypt-OpenSSL-RSA-0.28                  117481
 XML-LibXML-SAX-ChunkParser-0.00008      https://github.com/lestrrat/XML-LibXML-SAX-ChunkParser/issues/3
 Taskwarrior-Kusarigama-0.3.0            120704
 SOOT-0.17                               120735
