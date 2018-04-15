@@ -776,7 +776,6 @@ Twitter-Daily-0.1.3                     103396
 Triggermail-1.005                       The module Triggermail is now deprecated.
 Test-AutoLoader-0.03                    77942
 RTMP-Client-0.04                        103021
-Finance-Bitcoin-Feed-0.04               https://github.com/binary-com/perl-Finance-Bitcoin-Feed/issues/3
 Plack-Middleware-File-Sass-0.03         96823
 Acme-SGABRIEL-Utils-0.01c               PASS reports for unknown reason only from CPANPLUS smokers
 WWW-StatusBadge-0.0.2                   https://github.com/ARivottiC/WWW-StatusBadge.pm/issues/1
@@ -3405,7 +3404,6 @@ Message-Passing-Output-Search-Elasticsearch-0.004 123660
 Parallel-Prefork-0.18                   113449
 Alien-libpid-0.02                       123679
 File-Random-0.18                        123680
-DBIx-Class-Schema-Loader-0.07047        123681
 Crypt-OpenSSL-VerifyX509-0.10           120607,120608,121214,123690
 App-Textcast-0.06.15                    123692
 DBIx-Class-StorageReadOnly-0.05         117659,123704
@@ -3606,7 +3604,6 @@ Math-WalshTransform-1.17                122909
 CatalystX-I18N-1.14                     124078,100351
 File-Copy-Recursive-0.40                123964
 MVC-Neaf-0.2201                         124124
-MarpaX-ESLIF-ECMA404-0.008              124137
 Sys-Syscall-0.25                        124139
 Math-GComplex-0.06                      https://github.com/trizen/Math-GComplex/issues/2
 App-ClusterSSH-4.13                     https://github.com/duncs/clusterssh/issues/102
@@ -3645,7 +3642,6 @@ QBit-Application-Model-DB-clickhouse-0.007 123073
 XS-Logger-0.003                         https://github.com/atoomic/XS-Logger/issues/1
 Prty-1.122                              124195
 Mojolicious-Plugin-SessionStorage-0.1.4 124187
-Algorithm-ConstructDFA2-0.01            124209,124210
 List-Lazy-0.3.0                         https://github.com/yanick/List-Lazy/issues/3,https://rt.perl.org/Ticket/Display.html?id=132760
 Mojo-UserAgent-Mockable-1.53            https://github.com/PopeFelix/Mojo-UserAgent-Mockable/issues/18
 Business-YQL-0.0004                     124215
@@ -3791,7 +3787,6 @@ Reddit-Client-1.20                      124767
 Test2-Tools-xUnit-0.003                 https://github.com/cv-library/Test2-Tools-xUnit/issues/1
 Time-HiRes-1.9755                       124775
 JavaScript-V8-Handlebars-0.09           114583,124802
-App-Scheme79asm-0.004                   124826
 Text-Unaccent-1.08                      21177
 Kavorka-0.037                           109841,124827
 MooseX-XSAccessor-0.008                 124835
