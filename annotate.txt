@@ -3815,7 +3815,6 @@ Youri-Package-RPM-Generator-0.1.3       124871
 Authen-SASL-XS-1.00                     120606,98973
 Database-Async-SQLite-0.001             124872
 Authen-TuringImage-1.006                124873
-JavaScript-Duktape-XS-0.000031          124887
 Net-Address-IP-Cipher-0.2               124888
 IO-ReadHandle-Chain-v1.2.1              124889
 WebService-Braintree-1.1                https://github.com/singingfish/braintree_perl/issues/22
@@ -3876,7 +3875,6 @@ Chemistry-InternalCoords-0.18           95344
 Linux-Sysfs-0.03                        110318,110319,110321,110326
 Net-Jabber-Loudmouth-0.07               95339
 Device-Chip-Adapter-CH341A-0.02         124608
-FindBin-libs-2.017009                   124690
 Data-ObjectStore-1.104                  124925
 SOAP-Lite-Simple-1.9                    125017
 HPCI-0.69                               124695
