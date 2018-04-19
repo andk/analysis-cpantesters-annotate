@@ -3900,3 +3900,8 @@ Crypt-OpenSSL-RSA-0.29_01               https://github.com/toddr/Crypt-OpenSSL-R
 WWW-Subsonic-0.005                      https://github.com/reyjrar/WWW-Subsonic/issues/3
 Linux-DVB-1.03                          124165
 Math-Utils-XS-0.000004                  125109
+JavaScript-Duktape-XS-0.000045          125114
+Pandoc-Elements-0.34                    https://github.com/nichtich/Pandoc-Elements/issues/77
+FindBin-libs-2.017011                   125115
+Net-Z3950-ZOOM-1.30                     125116
+WWW-UsePerl-Journal-0.26                125119
