@@ -3602,7 +3602,6 @@ XML-Schema-0.07                         71111
 ActiveRecord-Simple-1.01                124011
 Math-WalshTransform-1.17                122909
 CatalystX-I18N-1.14                     124078,100351
-File-Copy-Recursive-0.40                123964
 MVC-Neaf-0.2201                         124124
 Sys-Syscall-0.25                        124139
 Math-GComplex-0.06                      https://github.com/trizen/Math-GComplex/issues/2
@@ -3899,7 +3898,6 @@ Linux-DVB-1.03                          124165
 Math-Utils-XS-0.000004                  125109
 JavaScript-Duktape-XS-0.000045          125114
 Pandoc-Elements-0.34                    https://github.com/nichtich/Pandoc-Elements/issues/77
-FindBin-libs-2.017011                   125115
 Net-Z3950-ZOOM-1.30                     125116
 WWW-UsePerl-Journal-0.26                125119
 File-Copy-Recursive-0.41                125135
