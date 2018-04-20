@@ -3902,3 +3902,6 @@ Pandoc-Elements-0.34                    https://github.com/nichtich/Pandoc-Eleme
 FindBin-libs-2.017011                   125115
 Net-Z3950-ZOOM-1.30                     125116
 WWW-UsePerl-Journal-0.26                125119
+File-Copy-Recursive-0.41                125135
+Beam-Minion-0.013                       https://github.com/preaction/Beam-Minion/issues/3
+FindBin-libs-2.017014                   125138
