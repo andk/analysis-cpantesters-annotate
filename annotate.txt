@@ -3262,7 +3262,6 @@ DBIx-Class-InflateColumn-S3-0.01        hidden MacOSX files, no bugtracker
 Data-Validate-XSD-1.05                  122730
 WordNet-Extend-1.000                    122732
 Hash-SharedMem-0.005                    122775
-Data-Edit-Xml-Lint-20170802             122789
 Algorithm-Cluster-1.53                  120442
 Statistics-Multtest-0.14                122859
 Mail-OpenDKIM-4204                      122861
@@ -3352,7 +3351,6 @@ WWW-AUR-0.22                            123422
 Net-DAV-Server-1.305                    123423
 Tree-Template-Declare-0.7               123424
 XML-Compile-SOAP-WSA-0.13               123425
-Business-BR-CNJ-NumberExtractor-0.03x   123426,123427
 CGI-Application-Server-0.063            123428
 CGI-FormBuilder-3.10                    https://github.com/rjbs/CGI-Application-Server/issues/2
 Math-Random-SkewNormal-0.03             95929
@@ -3671,7 +3669,6 @@ Devel-Scope-0.02                        124317
 WWW-Velib-0.05                          124319
 WWW-Fimfiction-v0.3.7                   124343
 Test-BDD-Cucumber-Definitions-0.09      https://github.com/ivanych/Test-BDD-Cucumber-Definitions/issues/2
-Dist-Zilla-6.011                        https://github.com/rjbs/Dist-Zilla/issues/612
 DBD-Pg-3.7.1                            124393,124394,124395
 Plugin-Simple-1.01                      https://github.com/stevieb9/p5-plugin-simple/issues/11
 Games-RolePlay-MapGen-1.5008            124345
@@ -3904,10 +3901,8 @@ FindBin-libs-2.017014                   125138
 Type-Tiny-1.002002                      124067
 Lexical-SealRequireHints-0.011          https://rt.perl.org/Ticket/Display.html?id=133135
 Outlook-Mail-Count-1.01                 125155
-WWW-Mechanize-Chrome-0.11               125156
 DBIx-RunSQL-0.18                        125157
 Data-Sah-Coerce-0.024                   123095
-Sub-Name-0.24-TRIAL                     125158,125159
 Business-BR-CNJ-NumberExtractor-0.07    125160
 Config-IniFiles-2.97                    125161
 WWW-Mechanize-Chrome-0.12               125162
