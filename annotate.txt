@@ -3908,3 +3908,11 @@ WWW-Mechanize-Chrome-0.11               125156
 DBIx-RunSQL-0.18                        125157
 Data-Sah-Coerce-0.024                   123095
 Sub-Name-0.24-TRIAL                     125158,125159
+Business-BR-CNJ-NumberExtractor-0.07    125160
+Config-IniFiles-2.97                    125161
+WWW-Mechanize-Chrome-0.12               125162
+Alt-Module-Runtime-ButEUMM-0.001        https://rt.perl.org/Ticket/Display.html?id=133138
+Data-Edit-Xml-Lint-20180421             125166,125167
+Dist-Zilla-6.012                        https://github.com/rjbs/Dist-Zilla/issues/612
+Sub-Name-0.25-TRIAL                     125159
+YAML-PP-0.006_001                       https://github.com/perlpunk/YAML-PP-p5/issues/2
