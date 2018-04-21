@@ -3903,3 +3903,10 @@ WWW-UsePerl-Journal-0.26                125119
 File-Copy-Recursive-0.41                125135
 Beam-Minion-0.013                       https://github.com/preaction/Beam-Minion/issues/3
 FindBin-libs-2.017014                   125138
+Type-Tiny-1.002002                      124067
+Lexical-SealRequireHints-0.011          https://rt.perl.org/Ticket/Display.html?id=133135
+Outlook-Mail-Count-1.01                 125155
+WWW-Mechanize-Chrome-0.11               125156
+DBIx-RunSQL-0.18                        125157
+Data-Sah-Coerce-0.024                   123095
+Sub-Name-0.24-TRIAL                     125158,125159
