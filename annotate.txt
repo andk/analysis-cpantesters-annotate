@@ -3911,3 +3911,7 @@ Data-Edit-Xml-Lint-20180421             125166,125167
 Dist-Zilla-6.012                        https://github.com/rjbs/Dist-Zilla/issues/612
 Sub-Name-0.25-TRIAL                     125159
 YAML-PP-0.006_001                       https://github.com/perlpunk/YAML-PP-p5/issues/2
+BenchmarkAnything-Storage-Frontend-Tools-0.019 125180
+Data-DFA-20180329                       125181
+Devel-Events-0.09                       125182
+Geo-Coder-XYZ-0.07                      125183
