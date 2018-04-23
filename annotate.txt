@@ -172,7 +172,6 @@ Table-Wave-0.02                         72510
 Pod-Trac-0.0.1                          72547
 Plack-Middleware-QRCode-0.02            71802
 Angle-Omega-1.00                        72760
-Devel-Events-0.08                       72895
 Class-Entangle-0.06                     72985
 Module-Install-AssertOS-0.10            73123
 Web-oEmbed-Common-0.05                  73125
