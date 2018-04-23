@@ -2840,7 +2840,6 @@ FrameNet-WordNet-Detour-1.1             120036
 Dancer2-Plugin-Locale-Meta-0.004        120045
 Web-Simple-0.032                        120071
 DBIx-Class-Graph-1.05                   118844
-Config-FileManager-1.6                  120136
 Lingua-Numending-0.01                   120135
 WWW-Hatena-WanWanWorld-0.02             120067
 Test-MockTime-0.15                      120169
@@ -3833,7 +3832,6 @@ App-Memcached-Tool-v0.9.4               https://github.com/progrhyme/perl5-App-M
 DBIx-Fixture-Admin-0.15                 https://github.com/meru-akimbo/DBIx-Fixture-Admin/issues/15
 DBIx-Handler-Sunny-0.02                 https://github.com/tarao/perl5-DBIx-Handler-Sunny/issues/2
 Inline-Awk-0.04                         https://rt.cpan.org/Ticket/Display.html?id=121648
-IO-Stream-v2.0.2                        https://github.com/powerman/perl-IO-Stream/issues/2
 Module-Build-Pluggable-AuthorTests-0.01 124926
 Mojo-Reactor-Epoll-0.006                https://github.com/Grinnz/Mojo-Reactor-Epoll/issues/1,https://github.com/Grinnz/Mojo-Reactor-Epoll/issues/2
 Config-Model-2.118                      https://github.com/dod38fr/config-model/issues/16
