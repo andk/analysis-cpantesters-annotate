@@ -3065,7 +3065,6 @@ Unicode-EastAsianWidth-1.33             120750
 Mojar-Google-Analytics-1.112            https://github.com/niczero/mojar-google-analytics/issues/1
 Mojolicious-Plugin-INIConfig-Extended-0.06 121669
 Net-Nslookup-2.04                       108184,121672
-CatalystX-VCS-Lookup-0.06               121673
 Net-Easypost-0.19                       121674
 Text-SenseClusters-LabelEvaluation-0.06 121689
 Text-SenseClusters-LabelEvaluation-Driver-0.09 121690
@@ -3452,7 +3451,6 @@ CPAN-Mini-Visit-1.15                    122314,123867
 CPAN-WWW-Top100-Generator-0.10          123867
 CPANDB-0.18                             123867
 Chart-Math-Axis-1.06                    123867
-Class-Adapter-1.08                      123867
 Class-Autouse-2.01                      123867
 Devel-Leak-Module-0.02                  123867
 Devel-Leak-Object-1.01                  123867
@@ -3518,7 +3516,6 @@ Module-Install-PerlTar-1.001            123867
 Net-CampaignMonitor-v2.2.1              https://github.com/campaignmonitor/createsend-perl/issues/16,123867
 Module-Install-ORLite2Pod-1.000         123867
 MooseX-Atom-0.02                        123867
-XML-XSH-1.8.5                           123866
 App-sdif-3.2.3                          https://github.com/kaz-utashiro/sdif-tools/issues/2
 WWW-Freshmeat-0.22                      123889
 FSM-Basic-0.14                          123894
@@ -3600,7 +3597,6 @@ Math-WalshTransform-1.17                122909
 CatalystX-I18N-1.14                     124078,100351
 MVC-Neaf-0.2201                         124124
 Sys-Syscall-0.25                        124139
-Math-GComplex-0.06                      https://github.com/trizen/Math-GComplex/issues/2
 App-ClusterSSH-4.13                     https://github.com/duncs/clusterssh/issues/102
 File-Slurp-9999.19                      88968
 IO-Socket-SSL-2.052                     124141
@@ -3808,7 +3804,6 @@ Database-Async-SQLite-0.001             124872
 Authen-TuringImage-1.006                124873
 Net-Address-IP-Cipher-0.2               124888
 IO-ReadHandle-Chain-v1.2.1              124889
-WebService-Braintree-1.1                https://github.com/singingfish/braintree_perl/issues/22
 WWW-Amazon-Wishlist-2.018               124890
 Dist-Zilla-PluginBundle-Author-TABULO-0.197 124149,124892
 Algorithm-BloomFilter-0.02              124893
