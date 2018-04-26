@@ -3920,3 +3920,4 @@ Fierce-Parser-0.08                      125202
 Nikto-Parser-0.01                       125203
 Unix-Statgrab-0.111                     125204
 oxdperl-0.04                            124706
+Math-Clipper-1.24                       74828
