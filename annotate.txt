@@ -528,7 +528,6 @@ Image-Magick-Thumbnail-Simple-0.12      95982
 C-TinyCompiler-0.04                     https://github.com/run4flat/perl-TCC/issues/5
 Flea-0.04                               96073
 MooseX-ABC-0.06                         96112
-Math-Clipper-1.23                       74828
 Mojolicious-Command-generate-dbicdump-v0.1.1 96179
 Mojolicious-Plugin-AdvancedMod-0.38     96180
 Geo-Mercator-1.01                       96230
