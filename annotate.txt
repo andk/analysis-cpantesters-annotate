@@ -3635,7 +3635,6 @@ QBit-Application-Model-DB-0.026         123516,https://github.com/QBitFramework/
 QBit-Application-Model-DB-clickhouse-0.007 123073
 XS-Logger-0.003                         https://github.com/atoomic/XS-Logger/issues/1
 Prty-1.122                              124195
-Mojolicious-Plugin-SessionStorage-0.1.4 124187
 List-Lazy-0.3.0                         https://github.com/yanick/List-Lazy/issues/3,https://rt.perl.org/Ticket/Display.html?id=132760
 Mojo-UserAgent-Mockable-1.53            https://github.com/PopeFelix/Mojo-UserAgent-Mockable/issues/18
 Business-YQL-0.0004                     124215
@@ -3763,7 +3762,6 @@ DateTime-Format-CLDR-1.19               124691
 Finance-Bank-Postbank_de-0.48           124696
 AnyEvent-SparkBot-0.004                 124697
 Float-Util-0.001                        124718
-oxdperl-0.03                            124708
 Webservice-GAMSTOP-0.001                https://github.com/binary-com/perl-Webservice-GAMSTOP/issues/4
 Dancer2-0.205002                        https://github.com/PerlDancer/Dancer2/issues/1435
 Finance-Currency-Convert-ECBdaily-0.03  124736
