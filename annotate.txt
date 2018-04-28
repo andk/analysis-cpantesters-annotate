@@ -3920,3 +3920,6 @@ Nikto-Parser-0.01                       125203
 Unix-Statgrab-0.111                     125204
 oxdperl-0.04                            124706
 Math-Clipper-1.24                       74828
+BoutrosLab-TSVStream-v0.5.4             119751
+Locale-Country-EU-0.002                 125222
+Map-Tube-Nuremberg-0.03                 https://github.com/stelim/Map-Tube-Nuremberg/issues/2
