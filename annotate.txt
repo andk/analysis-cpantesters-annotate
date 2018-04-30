@@ -2886,7 +2886,6 @@ POE-Component-Client-DNS-Recursive-1.12 116609
 Object-WithParams-0.3                   120492
 Unicode-Map8-0.13                       24652
 Parse-Debian-PackageDesc-0.15           120549
-BoutrosLab-TSVStream-v0.5.3             119751
 IO-Async-XMLStream-SAXReader-0.001002   https://github.com/kentnl/IO-Async-XMLStream-SAXReader/issues/2
 PEF-Front-WebSocket-0.06                https://github.com/jef-sure/pef-front-websocket/issues/2
 Crypt-Password-0.28                     120609
@@ -3922,6 +3921,5 @@ oxdperl-0.04                            124706
 Math-Clipper-1.24                       74828
 BoutrosLab-TSVStream-v0.5.4             119751
 Locale-Country-EU-0.002                 125222
-Map-Tube-Nuremberg-0.03                 https://github.com/stelim/Map-Tube-Nuremberg/issues/2
 DataTables-0.04                         125235
 Map-Tube-Nuremberg-0.05                 https://github.com/stelim/Map-Tube-Nuremberg/issues/2
