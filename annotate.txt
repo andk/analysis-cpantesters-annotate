@@ -3418,7 +3418,6 @@ DBM-Deep-2.0014                         123811,https://rt.perl.org/Public/Bug/Di
 Functional-Utility-1.02                 https://github.com/belden/perl-functional-utility/issues/2
 Glib-1.326                              123813,https://rt.perl.org/Public/Bug/Display.html?id=132252
 B-RecDeparse-0.10                       https://rt.perl.org/Ticket/Display.html?id=132528
-Test-API-0.008                          https://github.com/dagolden/Test-API/issues/7,https://github.com/dagolden/Test-API/pull/6
 Test-Vars-0.014                         https://github.com/houseabsolute/p5-Test-Vars/pull/34
 PDL-2.018                               https://rt.perl.org/Public/Bug/Display.html?id=132385#txn-1510101
 AnyEvent-HTTP-2.23                      https://rt.perl.org/Public/Bug/Display.html?id=132142,https://www.nntp.perl.org/group/perl.perl5.porters/2017/11/msg247426.html
@@ -3433,7 +3432,6 @@ IPC-Cache-0.02                          123852
 ClearPress-v477.1.4                     122425
 Markdown-Pod-0.006                      https://github.com/keedi/Markdown-Pod/issues/8
 Catalyst-Plugin-Upload-Image-Magick-0.04 123861
-MojoX-UserAgent-Throttler-v1.0.2        https://github.com/powerman/perl-MojoX-UserAgent-Throttler/issues/1,https://github.com/powerman/perl-MojoX-UserAgent-Throttler/issues/2
 ADAMK-Release-0.02                      123867
 Archive-Builder-1.16                    123867
 Aspect-1.04                             https://github.com/Test-More/test-more/issues/474,123867
@@ -3755,7 +3753,6 @@ Devel-Examine-Subs-1.69                 https://github.com/stevieb9/devel-examin
 DateTime-Format-CLDR-1.19               124691
 Finance-Bank-Postbank_de-0.48           124696
 AnyEvent-SparkBot-0.004                 124697
-Float-Util-0.001                        124718
 Webservice-GAMSTOP-0.001                https://github.com/binary-com/perl-Webservice-GAMSTOP/issues/4
 Dancer2-0.205002                        https://github.com/PerlDancer/Dancer2/issues/1435
 Finance-Currency-Convert-ECBdaily-0.03  124736
