@@ -3429,7 +3429,6 @@ Perl-Critic-More-1.003                  123847
 App-CharmKit-2.08                       undeclared dependency, no issue tracker
 Alien-LZO-0.02                          123851
 IPC-Cache-0.02                          123852
-ClearPress-v477.1.4                     122425
 Markdown-Pod-0.006                      https://github.com/keedi/Markdown-Pod/issues/8
 Catalyst-Plugin-Upload-Image-Magick-0.04 123861
 ADAMK-Release-0.02                      123867
