@@ -1832,7 +1832,6 @@ Sys-CPU-0.61                            54267
 WordNet-Insert-0.02                     114921
 Wiktionary-Parser-0.11                  114923
 CHI-0.60                                109993,115022
-Cache-FastMmap-1.44                     115043
 Pod-Elemental-Transformer-ExampleRunner-0.002 115056
 RT-Client-0.01                          115064,115065
 Imager-Heatmap-0.03                     115133
@@ -3533,7 +3532,6 @@ Unicode-Tussle-1.111                    https://rt.perl.org/rt3/Ticket/Display.h
 HTTP-SimpleLinkChecker-1.165            https://github.com/briandfoy/http-simplelinkchecker/issues/3
 Alien-MuPDF-0.009                       123916
 WWW-Shorten-ptl-0.04                    123924
-Mail-Milter-Authentication-v1.1.7       https://github.com/fastmail/authentication_milter/issues/9
 Finance-Contract-0.011                  122114,https://github.com/binary-com/perl-Finance-Contract/issues/32,https://github.com/binary-com/perl-Finance-Contract/issues/33
 Bio-FastParsers-0.173510                123930
 Config-TinyDNS-1                        https://rt.perl.org/rt3/Ticket/Display.html?id=132594
@@ -3675,7 +3673,6 @@ Text-Summarizer-1.053                   124506
 Acme-Tools-0.22                         124516,124517
 Config-Model-Backend-Augeas-0.123       124519
 CSS-Inliner-4008                        124467
-Analizo-1.20.7                          https://github.com/analizo/analizo/issues/115
 YAML-Tiny-1.73                          124399
 Distribution-Cooker-1.01                124541
 Mojo-Reactor-IOAsync-1.000              https://github.com/Grinnz/Mojo-Reactor-IOAsync/issues/1
@@ -3763,7 +3760,6 @@ Net-Async-Redis-1.005                   https://github.com/team-at-cpan/Net-Asyn
 Mailru-Cloud-0.02                       https://github.com/vrag86/perl-mailru-cloud-api/issues/1
 Mojo-IOLoop-ReadWriteFork-0.36          https://github.com/jhthorsen/mojo-ioloop-readwritefork/issues/11
 Test2-Harness-0.001058                  https://github.com/Test-More/Test2-Harness/issues/53
-Module-FromPerlVer-0.004004             124732
 Reddit-Client-1.20                      124767
 Test2-Tools-xUnit-0.003                 https://github.com/cv-library/Test2-Tools-xUnit/issues/1
 Time-HiRes-1.9755                       124775
@@ -3914,7 +3910,6 @@ Fierce-Parser-0.08                      125202
 Nikto-Parser-0.01                       125203
 Unix-Statgrab-0.111                     125204
 oxdperl-0.04                            124706
-Math-Clipper-1.24                       74828
 BoutrosLab-TSVStream-v0.5.4             119751
 Locale-Country-EU-0.002                 125222
 DataTables-0.04                         125235
