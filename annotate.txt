@@ -3227,7 +3227,6 @@ Tree-Authz-0.03                         19421,19422
 AnyEvent-GnuPG-1.001                    https://github.com/zurborg/libanyevent-gnupg-perl/issues/2
 Asterisk-CoroManager-0.11               122602
 Business-PayPal-0.18                    118450
-Inline-Java-0.58                        122606
 Kossy-0.40                              https://github.com/kazeburo/Kossy/issues/11
 DateTime-Format-Human-Duration-Simple-0.02 https://github.com/toreau/DateTime-Format-Human-Duration-Simple/issues/1
 Criteria-Compile-0.047                  122625
@@ -3748,7 +3747,6 @@ App-GitHooks-Plugin-DetectCommitNoVerify-v1.0.3 https://github.com/guillaumeaube
 Devel-Examine-Subs-1.69                 https://github.com/stevieb9/devel-examine-subs/issues/25
 DateTime-Format-CLDR-1.19               124691
 Finance-Bank-Postbank_de-0.48           124696
-AnyEvent-SparkBot-0.004                 124697
 Webservice-GAMSTOP-0.001                https://github.com/binary-com/perl-Webservice-GAMSTOP/issues/4
 Dancer2-0.205002                        https://github.com/PerlDancer/Dancer2/issues/1435
 Finance-Currency-Convert-ECBdaily-0.03  124736
@@ -3826,7 +3824,6 @@ Alien-RRDtool-0.06                      124928
 Device-CableModem-Motorola-SB4200-0.12  124929
 GD-Thumbnail-1.42                       123535
 Lingua-Any-Numbers-0.46                 124930
-XML-XSH2-2.1.26                         124931
 Data-RecordStore-3.16                   124933
 C-Utility-0.008                         https://github.com/benkasminbullock/C-Utility/issues/1
 FFmpeg-Thumbnail-0.02                   103159,124945
@@ -3854,7 +3851,6 @@ HPCI-0.69                               124695
 App-Jiffy-0.06                          https://github.com/lejeunerenard/jiffy/issues/8
 Rstats-0.0149                           https://github.com/yuki-kimoto/Rstats/issues/4
 Archive-Zip-SimpleZip-0.020             125043,125044
-Clone-Choose-0.009                      125045
 Compress-Raw-Lzma-2.081                 125046
 Mojolicious-Plugin-JSONAPI-1.1          125061
 Finance-Robinhood-0.9.0_001             https://github.com/sanko/Finance-Robinhood/issues/3
