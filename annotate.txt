@@ -3920,3 +3920,6 @@ Map-Tube-Frankfurt-0.03                 https://github.com/reneeb/Map-Tube-Frank
 Math-Clipper-1.25                       125251
 Module-FromPerlVer-0.021000             125253
 Analizo-1.21.0                          https://github.com/analizo/analizo/issues/128
+Geo-Coder-XYZ-0.08                      125254
+CPAN-Testers-WWW-Reports-Query-Report-0.05 125259
+XML-GrammarBase-0.2.5                   125264
