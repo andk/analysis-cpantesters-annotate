@@ -3709,7 +3709,6 @@ Plack-Middleware-Debug-Redis-0.03       https://github.com/Wu-Wu/Plack-Middlewar
 CGI-Application-4.60                    https://github.com/MartinMcGrath/CGI--Application/issues/5
 Object-Exercise-3.1                     124632
 CGI-AuthRegister-1.1                    124630
-SPVM-0.0315                             124384
 App-MechaCPAN-0.21                      124636
 Variable-Declaration-0.01               https://github.com/kfly8/Variable-Declaration/issues/1
 Steemit-WsClient-0.10                   124637
@@ -3904,7 +3903,6 @@ Unix-Statgrab-0.111                     125204
 oxdperl-0.04                            124706
 BoutrosLab-TSVStream-v0.5.4             119751
 Locale-Country-EU-0.002                 125222
-DataTables-0.04                         125235
 Map-Tube-Nuremberg-0.05                 https://github.com/stelim/Map-Tube-Nuremberg/issues/2
 Cache-FastMmap-1.47                     https://github.com/robmueller/cache-fastmmap/issues/13
 Alien-CMake-0.11                        125247
@@ -3914,7 +3912,6 @@ HTTP-Cookies-iCab-1.132                 https://github.com/CPAN-Adoptable-Module
 Mail-Milter-Authentication-2.20180430   https://github.com/fastmail/authentication_milter/issues/12
 Map-Tube-Frankfurt-0.03                 https://github.com/reneeb/Map-Tube-Frankfurt/issues/4
 Math-Clipper-1.25                       125251
-Module-FromPerlVer-0.021000             125253
 Analizo-1.21.0                          https://github.com/analizo/analizo/issues/128
 Geo-Coder-XYZ-0.08                      125254
 CPAN-Testers-WWW-Reports-Query-Report-0.05 125259
