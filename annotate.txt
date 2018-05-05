@@ -3585,7 +3585,6 @@ XML-Schema-0.07                         71111
 ActiveRecord-Simple-1.01                124011
 Math-WalshTransform-1.17                122909
 CatalystX-I18N-1.14                     124078,100351
-MVC-Neaf-0.2201                         124124
 Sys-Syscall-0.25                        124139
 App-ClusterSSH-4.13                     https://github.com/duncs/clusterssh/issues/102
 File-Slurp-9999.19                      88968
@@ -3766,7 +3765,6 @@ App-CSE-0.013                           124839
 Bio-Gonzales-0.078                      124840
 HTML-Tidy5-1.00                         https://github.com/petdance/html-tidy5/issues/4
 Bio-PhyloXS-v0.1.0                      https://github.com/rvosa/bio-phylo-xs/issues/7,https://github.com/rvosa/bio-phylo-xs/issues/8
-Business-KontoCheck-6.03                https://sourceforge.net/p/kontocheck/bugs/19/
 circle-fe-term-0.173170                 124848
 JSON-ize-0.102                          system perl used in tests, no RT queue,124850
 MariaDB-NonBlocking-0.14                123474,124851
