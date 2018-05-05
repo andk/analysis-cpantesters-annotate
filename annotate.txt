@@ -3921,3 +3921,4 @@ CPAN-Testers-WWW-Reports-Query-Report-0.05 125259
 XML-GrammarBase-0.2.5                   125264
 Lab-Measurement-3.640                   https://github.com/lab-measurement/Lab-Measurement/issues/25
 Mojolicious-Plugin-AssetPack-Che-2.023  125271
+DataTables-0.05                         125276
