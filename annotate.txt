@@ -3922,3 +3922,6 @@ XML-GrammarBase-0.2.5                   125264
 Lab-Measurement-3.640                   https://github.com/lab-measurement/Lab-Measurement/issues/25
 Mojolicious-Plugin-AssetPack-Che-2.023  125271
 DataTables-0.05                         125276
+Module-FromPerlVer-0.022001             125253
+SPVM-0.0333                             124384
+Model-Envoy-0.1                         125277
