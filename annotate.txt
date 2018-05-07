@@ -3920,3 +3920,4 @@ DataTables-0.05                         125276
 Module-FromPerlVer-0.022001             125253
 SPVM-0.0333                             124384
 Model-Envoy-0.1                         125277
+MooseX-Storage-MaybeDeferred-0.0.4      https://rt.cpan.org/Ticket/Create.html?Queue=MooseX-Storage-MaybeDeferred
