@@ -3907,7 +3907,6 @@ Alien-CMake-0.11                        125247
 Bio-DB-HTS-2.11                         125248
 Geo-Coder-CA-0.07                       125249
 HTTP-Cookies-iCab-1.132                 https://github.com/CPAN-Adoptable-Modules/http-cookies-icab/issues/1
-Mail-Milter-Authentication-2.20180430   https://github.com/fastmail/authentication_milter/issues/12
 Map-Tube-Frankfurt-0.03                 https://github.com/reneeb/Map-Tube-Frankfurt/issues/4
 Math-Clipper-1.25                       125251
 Analizo-1.21.0                          https://github.com/analizo/analizo/issues/128
