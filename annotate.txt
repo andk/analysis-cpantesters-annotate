@@ -3922,3 +3922,4 @@ SPVM-0.0333                             124384
 Model-Envoy-0.1                         125277
 MooseX-Storage-MaybeDeferred-0.0.4      https://rt.cpan.org/Ticket/Create.html?Queue=MooseX-Storage-MaybeDeferred
 Pod-Weaver-Plugin-Include-v0.1.8        https://github.com/vrurg/Pod-Weaver-Plugin-Include/issues/1
+Test-Conditions-0.82                    125294
