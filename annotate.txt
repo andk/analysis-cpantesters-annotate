@@ -3856,11 +3856,9 @@ Sentry-0.01                             125077
 BenchmarkAnything-Storage-Frontend-Lib-0.022 116664
 CPP-panda-lib-1.1.2                     125080
 WWW-EZTV-0.07                           https://github.com/diegok/www-eztv/issues/2
-Crypt-OpenSSL-Random-0.12               125087
 Crypt-OpenSSL-RSA-0.29_01               https://github.com/toddr/Crypt-OpenSSL-RSA/issues/10
 WWW-Subsonic-0.005                      https://github.com/reyjrar/WWW-Subsonic/issues/3
 Linux-DVB-1.03                          124165
-Math-Utils-XS-0.000004                  125109
 JavaScript-Duktape-XS-0.000045          125114
 Pandoc-Elements-0.34                    https://github.com/nichtich/Pandoc-Elements/issues/77
 Net-Z3950-ZOOM-1.30                     125116
