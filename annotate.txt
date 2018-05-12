@@ -3921,3 +3921,4 @@ MooseX-Storage-MaybeDeferred-0.0.4      https://rt.cpan.org/Ticket/Create.html?Q
 Pod-Weaver-Plugin-Include-v0.1.8        https://github.com/vrurg/Pod-Weaver-Plugin-Include/issues/1
 Test-Conditions-0.82                    125294
 Mail-Milter-Authentication-2.20180509   https://github.com/fastmail/authentication_milter/issues/12
+IO-K8s-0.02                             https://github.com/pplu/io-k8s-p5/issues/3
