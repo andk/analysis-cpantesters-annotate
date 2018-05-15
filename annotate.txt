@@ -3743,7 +3743,6 @@ App-GitHooks-Plugin-DetectCommitNoVerify-v1.0.3 https://github.com/guillaumeaube
 Devel-Examine-Subs-1.69                 https://github.com/stevieb9/devel-examine-subs/issues/25
 DateTime-Format-CLDR-1.19               124691
 Finance-Bank-Postbank_de-0.48           124696
-Webservice-GAMSTOP-0.001                https://github.com/binary-com/perl-Webservice-GAMSTOP/issues/4
 Dancer2-0.205002                        https://github.com/PerlDancer/Dancer2/issues/1435
 Finance-Currency-Convert-ECBdaily-0.03  124736
 WebService-SendGrid-Newsletter-0.02     https://github.com/Sidnet/p5-WebService-SendGrid-Newsletter/issues/17
@@ -3809,7 +3808,6 @@ DBIx-Fixture-Admin-0.15                 https://github.com/meru-akimbo/DBIx-Fixt
 DBIx-Handler-Sunny-0.02                 https://github.com/tarao/perl5-DBIx-Handler-Sunny/issues/2
 Inline-Awk-0.04                         https://rt.cpan.org/Ticket/Display.html?id=121648
 Module-Build-Pluggable-AuthorTests-0.01 124926
-Mojo-Reactor-Epoll-0.006                https://github.com/Grinnz/Mojo-Reactor-Epoll/issues/1,https://github.com/Grinnz/Mojo-Reactor-Epoll/issues/2
 Config-Model-2.118                      https://github.com/dod38fr/config-model/issues/16
 PlantUML-ClassDiagram-Parse-0.1         https://github.com/Kesin11/plantuml_class_digram_parse/issues/2
 Riji-v0.9.8                             https://github.com/Songmu/p5-Riji/issues/20
