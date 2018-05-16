@@ -3922,3 +3922,6 @@ Devel-Debug-DBGp-0.21                   https://github.com/mbarbon/perl-remote-d
 Mail-Milter-Authentication-2.20180511   https://github.com/fastmail/authentication_milter/issues/12
 Web-Microformats2-0.3                   https://github.com/jmacdotorg/microformats2-perl/issues/1
 oxdperl-0.05                            124706,124707,124708
+DBIx-Error-1.0.1                        125319
+WebService-Pokemon-0.04                 https://github.com/kianmeng/webservice-pokemon/issues/3
+TaskPipe-0.02                           125320
