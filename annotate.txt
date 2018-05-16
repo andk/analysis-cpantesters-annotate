@@ -3660,7 +3660,6 @@ Fsdb-2.64                               124452
 ExtUtils-HasCompiler-0.021              124453
 Devel-TimeStats-0.04                    124450
 Mojolicious-Plugin-Prometheus-1.1.0     https://github.com/tyldum/mojolicious-plugin-prometheus/issues/15
-JSONAPI-Document-0.1                    124454
 Test-Mojo-Role-Debug-JSON-0.003         https://github.com/atoomic/Test-Mojo-Role-Debug-JSON/issues/1
 Graph-Feather-0.03                      124457
 Parse-ABNF-0.26                         124466
@@ -3871,14 +3870,12 @@ DBIx-RunSQL-0.18                        125157
 Data-Sah-Coerce-0.024                   123095
 Business-BR-CNJ-NumberExtractor-0.07    125160
 Config-IniFiles-2.97                    125161
-WWW-Mechanize-Chrome-0.12               125162
 Alt-Module-Runtime-ButEUMM-0.001        https://rt.perl.org/Ticket/Display.html?id=133138
 Data-Edit-Xml-Lint-20180421             125166,125167
 Dist-Zilla-6.012                        https://github.com/rjbs/Dist-Zilla/issues/612
 Sub-Name-0.25-TRIAL                     125159
 YAML-PP-0.006_001                       https://github.com/perlpunk/YAML-PP-p5/issues/2
 BenchmarkAnything-Storage-Frontend-Tools-0.019 125180
-Data-DFA-20180329                       125181
 Devel-Events-0.09                       125182
 Keyword-API-0.0004                      125186
 Mojolicious-Plugin-SessionStorage-0.1.5 124187,125187
