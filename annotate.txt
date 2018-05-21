@@ -2914,7 +2914,6 @@ B-Tree-0.02                             84137
 CGI-MakeItStatic-0.03                   121137
 CGI-Untaint-upload-1.0                  121144
 Dancer2-Serializer-XML-0.04             120285
-Data-JSONSchema-Ajv-0.02                121145
 Test-JSON-Schema-Acceptance-0.0.2       121146
 HAM-Device-IcomCIV-0.02                 41860
 HAM-Device-IcomCIVSerialIO-0.02         121147
@@ -3513,7 +3512,6 @@ Yancy-0.007                             https://github.com/preaction/Yancy/issue
 DBIx-Class-Candy-0.005003               https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Regexp-Common-2017060201                https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Syntax-Keyword-Junction-0.003008        https://rt.perl.org/rt3/Ticket/Display.html?id=132594
-Async-Defer-v1.0.0                      https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 JavaScript-Prepare-v0.1                 https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Data-DPath-0.57                         https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Lingua-Boolean-0.008                    https://rt.perl.org/rt3/Ticket/Display.html?id=132594
@@ -3619,7 +3617,6 @@ QBit-Application-Model-DB-0.026         123516,https://github.com/QBitFramework/
 QBit-Application-Model-DB-clickhouse-0.007 123073
 XS-Logger-0.003                         https://github.com/atoomic/XS-Logger/issues/1
 Prty-1.122                              124195
-List-Lazy-0.3.0                         https://github.com/yanick/List-Lazy/issues/3,https://rt.perl.org/Ticket/Display.html?id=132760
 Mojo-UserAgent-Mockable-1.53            https://github.com/PopeFelix/Mojo-UserAgent-Mockable/issues/18
 Business-YQL-0.0004                     124215
 WebService-Yamli-0.003                  https://github.com/athreef/WebService-Yamli/issues/1
@@ -3763,7 +3760,6 @@ Bio-Gonzales-0.078                      124840
 HTML-Tidy5-1.00                         https://github.com/petdance/html-tidy5/issues/4
 Bio-PhyloXS-v0.1.0                      https://github.com/rvosa/bio-phylo-xs/issues/7,https://github.com/rvosa/bio-phylo-xs/issues/8
 circle-fe-term-0.173170                 124848
-JSON-ize-0.102                          system perl used in tests, no RT queue,124850
 MariaDB-NonBlocking-0.14                123474,124851
 MogileFS-Server-2.73                    116633
 Store-Digest-0.03                       https://github.com/doriantaylor/p5-store-digest/issues/1
