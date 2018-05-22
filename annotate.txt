@@ -3921,3 +3921,11 @@ Text-PerlPP-0.4.0                       125326
 Software-LicenseMoreUtils-0.001         https://github.com/dod38fr/Software-LicenseMoreUtils/issues/1
 Dancer-1.3203-TRIAL                     https://github.com/PerlDancer/Dancer/issues/1183,https://github.com/PerlDancer/Dancer/issues/1184
 Data-Printer-0.99_010                   https://github.com/garu/Data-Printer/issues/128
+Stor-1.2.0                              https://github.com/avast/Stor/issues/18,https://github.com/avast/Stor/issues/19
+Mashtree-0.33                           121971
+Bat-Interpreter-0.007                   https://github.com/pablrod/p5-Bat-Interpreter/issues/8
+Glib-Object-Introspection-0.045         125375
+Gtk3-0.034                              125376
+Mojolicious-Plugin-Mailgun-0.07         https://github.com/marcusramberg/mojolicious-plugin-mailgun/issues/2
+Mojolicious-Plugin-PromiseActions-0.04  https://github.com/marcusramberg/mojolicious-plugin-promiseactions/issues/1
+PMLTQ-Suggest-0.0.2                     https://github.com/ufal/pmltq-suggest-server/issues/4,https://github.com/ufal/pmltq-suggest-server/issues/5
