@@ -3509,7 +3509,6 @@ Syntax-Keyword-Junction-0.003008        https://rt.perl.org/rt3/Ticket/Display.h
 JavaScript-Prepare-v0.1                 https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Data-DPath-0.57                         https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Lingua-Boolean-0.008                    https://rt.perl.org/rt3/Ticket/Display.html?id=132594
-Lingua-Boolean-Tiny-0.007               https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 match-simple-0.010                      https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Number-Tolerant-1.708                   https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Tangence-0.24                           https://rt.perl.org/rt3/Ticket/Display.html?id=132594
@@ -3656,7 +3655,6 @@ Parse-ABNF-0.26                         124466
 Perlmazing-1.2812                       124320
 Text-Summarizer-1.053                   124506
 Acme-Tools-0.22                         124516,124517
-Config-Model-Backend-Augeas-0.123       124519
 CSS-Inliner-4008                        124467
 YAML-Tiny-1.73                          124399
 Distribution-Cooker-1.01                124541
@@ -3898,7 +3896,6 @@ DataTables-0.05                         125276
 Module-FromPerlVer-0.022001             125253
 SPVM-0.0333                             124384
 Model-Envoy-0.1                         125277
-MooseX-Storage-MaybeDeferred-0.0.4      https://rt.cpan.org/Ticket/Create.html?Queue=MooseX-Storage-MaybeDeferred
 Pod-Weaver-Plugin-Include-v0.1.8        https://github.com/vrurg/Pod-Weaver-Plugin-Include/issues/1
 Test-Conditions-0.82                    125294
 IO-K8s-0.02                             https://github.com/pplu/io-k8s-p5/issues/3
