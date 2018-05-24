@@ -1998,7 +1998,6 @@ TAP-Formatter-Bamboo-0.04               114258
 WebService-Strava-0.05                  116416
 AtteanX-Query-Cache-0.002               https://github.com/kjetilk/p5-atteanx-query-cache/issues/36
 Net-AS2-0.03                            116418
-CPAN-Testers-Common-Client-0.13         https://github.com/garu/CPAN-Testers-Common-Client/issues/8
 LWPx-TimedHTTP-1.8                      116429
 Tcl-pTk-0.90                            116430,116432
 RDF-Lazy-0.09                           https://github.com/nichtich/RDF-Lazy/issues/6,https://github.com/nichtich/RDF-Lazy/issues/5
@@ -3409,7 +3408,6 @@ Functional-Utility-1.02                 https://github.com/belden/perl-functiona
 Glib-1.326                              123813,https://rt.perl.org/Public/Bug/Display.html?id=132252
 B-RecDeparse-0.10                       https://rt.perl.org/Ticket/Display.html?id=132528
 Test-Vars-0.014                         https://github.com/houseabsolute/p5-Test-Vars/pull/34
-PDL-2.018                               https://rt.perl.org/Public/Bug/Display.html?id=132385#txn-1510101
 AnyEvent-HTTP-2.23                      https://rt.perl.org/Public/Bug/Display.html?id=132142,https://www.nntp.perl.org/group/perl.perl5.porters/2017/11/msg247426.html
 Devel-TraceMethods-1.00                 123667
 Log-Trace-1.070                         49409,https://rt.perl.org/Public/Bug/Display.html?id=132252
@@ -3708,7 +3706,6 @@ Mail-SpamAssassin-3.4.1                 https://bz.apache.org/SpamAssassin/show_
 Mason-Tidy-2.57                         124604
 MDV-Repsys-1.00                         124643
 Cache-Memcached-XS-0.01                 124644
-CGI-Simple-1.13                         124645
 CPAN-Reporter-Smoker-OpenBSD-0.013      https://github.com/glasswalk3r/cpan-openbsd-smoker/issues/3
 WWW-Shorten-Durl-0.05                   109702,124648
 CatalystX-Example-YUIUploader-0.02      124649
