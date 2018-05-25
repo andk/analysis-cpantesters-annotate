@@ -3924,3 +3924,4 @@ Net-Amazon-SNS-Signature-0.007          125381
 CGI-Simple-1.15                         125383
 CPAN-Testers-Common-Client-0.14         https://github.com/garu/CPAN-Testers-Common-Client/issues/8
 Evo-0.0405                              https://github.com/alexbyk/perl-evo/issues/6
+Graph-Maker-0.02                        108992
