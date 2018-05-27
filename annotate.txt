@@ -627,7 +627,6 @@ Scalar-Util-Numeric-0.22                https://rt.perl.org/rt3/Ticket/Display.h
 Test-Regression-0.07                    https://rt.perl.org/rt3/Ticket/Display.html?id=122845
 App-MusicTools-1.17                     99168
 Spreadsheet-WriteExcel-2.40             test suite not robust against shuffling or parallel testing
-MooseX-Enumeration-0.005                99223
 HTTP-Headers-ActionPack-0.09            98843
 Dist-Inkt-Profile-TOBYINK-0.023         99286
 Geo-CEP-1.0                             https://github.com/creaktive/Geo-CEP/issues/3
@@ -1384,7 +1383,6 @@ SQL-Preproc-0.10                        110204
 Gtk2-Ex-Simple-Menu-0.7                 110205
 Gtk2-TrayManager-0.05                   110206
 MailFolder-0.07                         101281
-Mojolicious-Plugin-FormFieldsFromJSON-Date-0.03 https://github.com/reneeb/Mojolicious-Plugin-FormFieldsFromJSON-Date/issues/3
 Lithium-WebDriver-1.0.0                 110256,110257
 triceps-2.0.1                           106833
 File-Unpack-0.70                        102745
@@ -1479,7 +1477,6 @@ Tie-FieldVals-0.6203                    81596
 SPOPS-0.87                              56320
 Log-Any-Adapter-Daemontools-0.090000_001 110864
 WWW-Mechanize-Plugin-Cache-0.06         110875
-Dancer2-Session-Cookie-0.006            https://github.com/PerlDancer/Dancer2-Session-Cookie/issues/13
 Net-SNPP-1.17                           110978
 Bricklayer-Templater-0.9.8              111024
 Data-SIprefixes-0.0.1                   111045
@@ -3541,7 +3538,6 @@ Data-Sah-0.88                           123089,https://rt.perl.org/rt3/Ticket/Di
 Module-XSOrPP-0.11                      https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Perinci-Sub-DepChecker-0.11             https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Perl-Stripper-0.10                      https://rt.perl.org/rt3/Ticket/Display.html?id=132594
-Progress-Any-Output-TermProgressBarColor-0.23 https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Text-ANSITable-0.49                     https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Unix-Passwd-File-0.250                  https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 autodie-2.29                            https://rt.perl.org/rt3/Ticket/Display.html?id=132594
