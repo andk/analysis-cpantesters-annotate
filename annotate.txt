@@ -1489,7 +1489,6 @@ Compress-PPMd-0.11                      58833,78521
 RDF-Converter-CSV-0.03                  111185
 Lchmod-0.02                             111208
 Mason-Plugin-WithEncoding-0.2           https://github.com/davebaird/mason-plugin-withencoding/issues/1
-Evo-0.0196                              https://github.com/alexbyk/perl-evo/issues/2
 re-engine-GNU-0.019                     111311
 WWW-HostipInfo-0.14                     111360
 Bloom-Scalable-0.01                     98878
