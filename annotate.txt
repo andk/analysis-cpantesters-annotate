@@ -3926,3 +3926,4 @@ CPAN-Testers-Common-Client-0.14         https://github.com/garu/CPAN-Testers-Com
 Evo-0.0405                              https://github.com/alexbyk/perl-evo/issues/6
 Graph-Maker-0.02                        108992
 B-DeparseTree-v3.1.0                    125407
+AWS-CLIWrapper-1.14                     125410
