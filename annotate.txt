@@ -3561,7 +3561,6 @@ File-LibMagic-1.16                      123962
 App-cpanexec-0.04                       https://github.com/oklas/cpanexec/issues/2
 Digest-PBKDF2-0.012                     123976
 Template-Resolver-1.16                  123977
-Algorithm-QuineMcCluskey-0.16           https://rt.perl.org/Ticket/Display.html?id=132671
 Symbol-Global-Name-0.05                 https://rt.perl.org/Public/Bug/Display.html?id=132252
 psh-1.8                                 105916
 Devel-SharedLibs-v0.3.3                 123992
@@ -3922,3 +3921,7 @@ Evo-0.0405                              https://github.com/alexbyk/perl-evo/issu
 Graph-Maker-0.02                        108992
 B-DeparseTree-v3.1.0                    125407
 AWS-CLIWrapper-1.14                     125410
+Algorithm-QuineMcCluskey-0.16           125391,132671
+Class-Generate-1.16                     125393
+Crypt-Sodium-0.11                       125394
+Mojolicious-Plugin-Cron-0.016           https://github.com/dmanto/Mojolicious-Plugin-Cron/issues/1,https://github.com/dmanto/Mojolicious-Plugin-Cron/issues/2
