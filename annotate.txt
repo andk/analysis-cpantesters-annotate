@@ -1350,7 +1350,6 @@ DBIx-Class-PgLog-0.03                   110085
 Plack-Middleware-TazXSLT-0.55           110090
 GD-Graph-Cartesian-0.11                 96313
 XML-RSS-Tools-0.34                      110091
-SWISH-Filters-ImageToMD5Xml-0.04        110096
 HTTP-Easy-0.02                          110101
 Net-Ikano-0.01                          110112
 WebService-Recruit-AbRoad-0.0.1         110117
@@ -3808,7 +3807,6 @@ PerlBuildSystem-0.44                    121386,124971
 Term-Terminfo-0.08                      124969
 File-Find-Closures-1.112_03             https://github.com/briandfoy/file-find-closures/issues/1
 Net-Todoist-0.06                        124981
-Crypt-U2F-Server-0.41                   124973,124974
 Tk-TextVi-0.015                         124975
 XML-Writer-Lazy-0.05                    https://github.com/pjlsergeant/p5-xml-writer-lazy/issues/2
 Attribute-Persistent-1.1                34968
@@ -3882,7 +3880,6 @@ Math-Clipper-1.25                       125251
 Analizo-1.21.0                          https://github.com/analizo/analizo/issues/128
 Geo-Coder-XYZ-0.08                      125254
 CPAN-Testers-WWW-Reports-Query-Report-0.05 125259
-XML-GrammarBase-0.2.5                   125264
 Lab-Measurement-3.640                   https://github.com/lab-measurement/Lab-Measurement/issues/25
 Mojolicious-Plugin-AssetPack-Che-2.023  125271
 DataTables-0.05                         125276
