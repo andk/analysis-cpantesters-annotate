@@ -3842,7 +3842,6 @@ WWW-UsePerl-Journal-0.26                125119
 File-Copy-Recursive-0.41                125135
 Beam-Minion-0.013                       https://github.com/preaction/Beam-Minion/issues/3
 FindBin-libs-2.017014                   125138
-Type-Tiny-1.002002                      124067
 Lexical-SealRequireHints-0.011          https://rt.perl.org/Ticket/Display.html?id=133135
 Outlook-Mail-Count-1.01                 125155
 DBIx-RunSQL-0.18                        125157
@@ -3899,7 +3898,6 @@ Web-Microformats2-0.3                   https://github.com/jmacdotorg/microforma
 oxdperl-0.05                            124706,124707,124708
 DBIx-Error-1.0.1                        125319
 WebService-Pokemon-0.04                 https://github.com/kianmeng/webservice-pokemon/issues/3
-TaskPipe-0.02                           125320
 Docker-Registry-0.02                    https://github.com/pplu/docker-registry/issues/1
 Text-PerlPP-0.4.0                       125326
 Software-LicenseMoreUtils-0.001         https://github.com/dod38fr/Software-LicenseMoreUtils/issues/1
@@ -3924,7 +3922,6 @@ AWS-CLIWrapper-1.14                     125410
 Algorithm-QuineMcCluskey-0.16           125391,132671
 Class-Generate-1.16                     125393
 Crypt-Sodium-0.11                       125394
-Mojolicious-Plugin-Cron-0.016           https://github.com/dmanto/Mojolicious-Plugin-Cron/issues/1,https://github.com/dmanto/Mojolicious-Plugin-Cron/issues/2
 Test-Spec-Acceptance-0.01               https://github.com/meis/Test-Spec-Acceptance/issues/1
 TaskPipe-0.04                           125411
 Mojolicious-Plugin-Cron-0.019           https://github.com/dmanto/Mojolicious-Plugin-Cron/issues/1,https://github.com/dmanto/Mojolicious-Plugin-Cron/issues/2
