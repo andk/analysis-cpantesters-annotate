@@ -3926,3 +3926,8 @@ Class-Generate-1.16                     125393
 Crypt-Sodium-0.11                       125394
 Mojolicious-Plugin-Cron-0.016           https://github.com/dmanto/Mojolicious-Plugin-Cron/issues/1,https://github.com/dmanto/Mojolicious-Plugin-Cron/issues/2
 Test-Spec-Acceptance-0.01               https://github.com/meis/Test-Spec-Acceptance/issues/1
+TaskPipe-0.04                           125411
+Mojolicious-Plugin-Cron-0.019           https://github.com/dmanto/Mojolicious-Plugin-Cron/issues/1,https://github.com/dmanto/Mojolicious-Plugin-Cron/issues/2
+Perlito5-9.024                          125417
+Config-From-0.06                        125418
+Type-Tiny-1.003_002                     124067
