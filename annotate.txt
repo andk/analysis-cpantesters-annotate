@@ -2012,7 +2012,6 @@ Data-Sah-Resolve-0.003                  116464
 PDL-Drawing-Prima-0.11                  https://github.com/run4flat/PDL-Drawing-Prima/issues/32
 Catalyst-View-Xslate-0.00019            https://github.com/lestrrat/Catalyst-View-Xslate/issues/25
 RDF-AllegroGraph-Easy-0.08              116474
-App-perlbrew-0.76                       116517
 Text-MarkPerl-0.1                       116547
 Finance-TA-v0.4.3                       116548
 App-LDAP-0.1.2                          116553
@@ -3921,7 +3920,6 @@ Class-Generate-1.16                     125393
 Crypt-Sodium-0.11                       125394
 Test-Spec-Acceptance-0.01               https://github.com/meis/Test-Spec-Acceptance/issues/1
 TaskPipe-0.04                           125411
-Mojolicious-Plugin-Cron-0.019           https://github.com/dmanto/Mojolicious-Plugin-Cron/issues/1,https://github.com/dmanto/Mojolicious-Plugin-Cron/issues/2
 Perlito5-9.024                          125417
 Config-From-0.06                        125418
 Type-Tiny-1.003_002                     124067
