@@ -3925,3 +3925,9 @@ Mojolicious-Plugin-Cron-0.019           https://github.com/dmanto/Mojolicious-Pl
 Perlito5-9.024                          125417
 Config-From-0.06                        125418
 Type-Tiny-1.003_002                     124067
+Mojolicious-Plugin-Cron-0.022           https://github.com/dmanto/Mojolicious-Plugin-Cron/issues/1
+Date-Holidays-1.08                      https://github.com/jonasbn/perl-date-holidays/issues/21
+Data-Sah-CoerceBundle-App-cryp-0.001    125424
+Log-Log4perl-Shortcuts-0.006            125426
+App-perlbrew-0.83                       125431
+Sah-Schemas-CryptoCurrency-0.006        125432
