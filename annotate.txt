@@ -3701,7 +3701,6 @@ WWW-Shorten-Durl-0.05                   109702,124648
 CatalystX-Example-YUIUploader-0.02      124649
 POE-Component-Algorithm-Evolutionary-0.2.1 124651
 WebService-Connpass-v0.0.1              124654
-Catmandu-PICA-0.25                      https://github.com/gbv/Catmandu-PICA/issues/62
 PICA-Record-0.585                       https://github.com/gbv/PICA-Record/issues/3
 PICA-Data-0.36                          https://github.com/gbv/PICA-Data/issues/37
 WWW-Search-Tv-Sweden-TvDotNu-1.01       124657
@@ -3813,7 +3812,6 @@ Linux-Sysfs-0.03                        110318,110319,110321,110326
 Net-Jabber-Loudmouth-0.07               95339
 Device-Chip-Adapter-CH341A-0.02         124608
 SOAP-Lite-Simple-1.9                    125017
-HPCI-0.69                               124695
 App-Jiffy-0.06                          https://github.com/lejeunerenard/jiffy/issues/8
 Rstats-0.0149                           https://github.com/yuki-kimoto/Rstats/issues/4
 Archive-Zip-SimpleZip-0.020             125043,125044
@@ -3922,11 +3920,9 @@ Perlito5-9.024                          125417
 Config-From-0.06                        125418
 Type-Tiny-1.003_002                     124067
 Mojolicious-Plugin-Cron-0.022           https://github.com/dmanto/Mojolicious-Plugin-Cron/issues/1
-Date-Holidays-1.08                      https://github.com/jonasbn/perl-date-holidays/issues/21
 Data-Sah-CoerceBundle-App-cryp-0.001    125424
 Log-Log4perl-Shortcuts-0.006            125426
 App-perlbrew-0.83                       125431
-Sah-Schemas-CryptoCurrency-0.006        125432
 Catmandu-PICA-0.26                      https://github.com/gbv/Catmandu-PICA/issues/62
 Date-Holidays-1.10                      https://github.com/jonasbn/perl-date-holidays/issues/26
 Dist-Zilla-MintingProfile-FB11-0.016    https://github.com/OpusVL/Dist-Zilla-MintingProfile-FB11/issues/1
