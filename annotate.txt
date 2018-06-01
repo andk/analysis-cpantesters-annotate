@@ -3673,7 +3673,6 @@ RDF-RDFa-Generator-0.200                https://github.com/kjetilk/p5-rdf-rdfa-g
 MooX-VariantAttribute-0.08              124601
 App-NDTools-0.5.2.2-TRIAL               124591
 Module-Release-2.124                    124598
-Git-Hooks-2.6.0                         https://github.com/gnustavo/Git-Hooks/issues/45
 URI-Fast-0.04                           https://github.com/sysread/URI-Fast/issues/3
 Dist-Zilla-PluginBundle-FAYLAND-0.14    124609
 Module-Overview-0.01                    https://github.com/jozef/Module-Overview/issues/1
@@ -3834,7 +3833,6 @@ Net-Z3950-ZOOM-1.30                     125116
 WWW-UsePerl-Journal-0.26                125119
 File-Copy-Recursive-0.41                125135
 Beam-Minion-0.013                       https://github.com/preaction/Beam-Minion/issues/3
-FindBin-libs-2.017014                   125138
 Lexical-SealRequireHints-0.011          https://rt.perl.org/Ticket/Display.html?id=133135
 Outlook-Mail-Count-1.01                 125155
 DBIx-RunSQL-0.18                        125157
