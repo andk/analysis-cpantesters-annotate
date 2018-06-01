@@ -3927,3 +3927,8 @@ Data-Sah-CoerceBundle-App-cryp-0.001    125424
 Log-Log4perl-Shortcuts-0.006            125426
 App-perlbrew-0.83                       125431
 Sah-Schemas-CryptoCurrency-0.006        125432
+Catmandu-PICA-0.26                      https://github.com/gbv/Catmandu-PICA/issues/62
+Date-Holidays-1.10                      https://github.com/jonasbn/perl-date-holidays/issues/26
+Dist-Zilla-MintingProfile-FB11-0.016    https://github.com/OpusVL/Dist-Zilla-MintingProfile-FB11/issues/1
+HPCI-0.70                               124695
+Sah-Schemas-CryptoCurrency-0.007        125449
