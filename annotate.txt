@@ -3926,3 +3926,4 @@ Date-Holidays-1.10                      https://github.com/jonasbn/perl-date-hol
 Dist-Zilla-MintingProfile-FB11-0.016    https://github.com/OpusVL/Dist-Zilla-MintingProfile-FB11/issues/1
 HPCI-0.70                               124695
 Sah-Schemas-CryptoCurrency-0.007        125449
+WebService-Naver-TTS-v0.0.3             125467
