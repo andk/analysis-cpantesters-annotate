@@ -420,7 +420,6 @@ Geo-Coordinates-KKJ-0.01                87092
 Log-Syslog-Abstract-1.200               87093
 Class-DBI-FormBuilder-0.483             87214
 LaTeX-TikZ-0.02                         87282
-MyCPAN-Indexer-1.28_12                  87376
 WordLists-0.013                         87427
 Catalyst-Plugin-Params-Profile-0.05     87533
 Acme-Tategaki-0.12                      https://github.com/kazuph/Acme-Tategaki/issues/2
@@ -602,7 +601,6 @@ Crypt-Fernet-0.02                       98418
 CPAN-Mini-Tested-0.23                   98445
 namespace-alias-0.02                    95228
 Config-Trivial-Storable-0.32            95343
-DBIx-MyParsePP-0.50                     98472
 HTML-WikiConverter-0.68                 92554
 Template-Semantic-0.09                  https://github.com/tomill/Template-Semantic/issues/10
 App-Cmd-Starter-0.02                    98627
@@ -2340,7 +2338,6 @@ Algorithm-FuzzyCmeans-0.02              76248
 Algorithm-Kmeanspp-0.03                 76423
 Debug-STDERR-0.00003                    76243
 Methods-CheckNames-0.06                 108840
-URI-tel-0.03                            117539
 Scalar-Alias-0.06                       76433
 WebService-APIKeys-AutoChanger-0.00002  76682
 XML-AutoWriter-0.4                      76225
@@ -3494,7 +3491,6 @@ MooseX-Atom-0.02                        123867
 App-sdif-3.2.3                          https://github.com/kaz-utashiro/sdif-tools/issues/2
 WWW-Freshmeat-0.22                      123889
 FSM-Basic-0.14                          123894
-Yancy-0.007                             https://github.com/preaction/Yancy/issues/4
 DBIx-Class-Candy-0.005003               https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Regexp-Common-2017060201                https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Syntax-Keyword-Junction-0.003008        https://rt.perl.org/rt3/Ticket/Display.html?id=132594
@@ -3729,7 +3725,6 @@ Test2-Harness-0.001058                  https://github.com/Test-More/Test2-Harne
 Reddit-Client-1.20                      124767
 Test2-Tools-xUnit-0.003                 https://github.com/cv-library/Test2-Tools-xUnit/issues/1
 Time-HiRes-1.9755                       124775
-JavaScript-V8-Handlebars-0.09           114583,124802
 Text-Unaccent-1.08                      21177
 Kavorka-0.037                           109841,124827
 MooseX-XSAccessor-0.008                 124835
@@ -3810,7 +3805,6 @@ Device-Chip-Adapter-CH341A-0.02         124608
 SOAP-Lite-Simple-1.9                    125017
 App-Jiffy-0.06                          https://github.com/lejeunerenard/jiffy/issues/8
 Rstats-0.0149                           https://github.com/yuki-kimoto/Rstats/issues/4
-Archive-Zip-SimpleZip-0.020             125043,125044
 Compress-Raw-Lzma-2.081                 125046
 Finance-Robinhood-0.9.0_001             https://github.com/sanko/Finance-Robinhood/issues/3
 IO-Compress-Lzf-2.081                   91419
