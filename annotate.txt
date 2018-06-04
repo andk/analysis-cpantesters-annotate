@@ -3927,3 +3927,7 @@ Google-GeoCoder-Smart-v2.0.1            125464
 Lexical-Types-0.16                      https://rt.perl.org/Ticket/Display.html?id=132385,125465
 Mojolicious-Plugin-JSONAPI-1.5          125470
 Test2-Tools-HTTP-UA-Mojo-0.02           https://github.com/plicease/Test2-Tools-HTTP-UA-Mojo/issues/1
+JSONAPI-Document-1.4                    125471
+Mojolicious-Plugin-SessionStorage-0.1.6 125187
+Sah-Schemas-Net-0.004                   125476
+Sah-Schemas-URL-0.005                   125477
