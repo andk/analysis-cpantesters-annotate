@@ -1946,7 +1946,6 @@ Class-HPLOO-0.23                        115714
 Apache-Session-SharedMem-0.6            115766
 Dist-Metadata-0.926                     115814
 Module-Install-TestTarget-0.19          102922
-String-Compare-ConstantTime-0.311       https://github.com/hoytech/String-Compare-ConstantTime/issues/4
 Carp-Always-0.13                        115841
 CBOR-XS-1.5                             115844
 App-Sqitch-0.9994                       https://github.com/theory/sqitch/issues/308
@@ -3851,7 +3850,6 @@ Nikto-Parser-0.01                       125203
 Unix-Statgrab-0.111                     125204
 BoutrosLab-TSVStream-v0.5.4             119751
 Locale-Country-EU-0.002                 125222
-Map-Tube-Nuremberg-0.05                 https://github.com/stelim/Map-Tube-Nuremberg/issues/2
 Cache-FastMmap-1.47                     https://github.com/robmueller/cache-fastmmap/issues/13
 Alien-CMake-0.11                        125247
 Bio-DB-HTS-2.11                         125248
@@ -3867,7 +3865,6 @@ DataTables-0.05                         125276
 Module-FromPerlVer-0.022001             125253
 SPVM-0.0333                             124384
 Model-Envoy-0.1                         125277
-Pod-Weaver-Plugin-Include-v0.1.8        https://github.com/vrurg/Pod-Weaver-Plugin-Include/issues/1
 Test-Conditions-0.82                    125294
 IO-K8s-0.02                             https://github.com/pplu/io-k8s-p5/issues/3
 Devel-Debug-DBGp-0.21                   https://github.com/mbarbon/perl-remote-debugging-client/issues/3
