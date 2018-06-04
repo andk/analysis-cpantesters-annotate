@@ -3837,7 +3837,6 @@ YAML-PP-0.006_001                       https://github.com/perlpunk/YAML-PP-p5/i
 BenchmarkAnything-Storage-Frontend-Tools-0.019 125180
 Devel-Events-0.09                       125182
 Keyword-API-0.0004                      125186
-Mojolicious-Plugin-SessionStorage-0.1.5 124187,125187
 Git-Demo-0.02                           125188
 MojoX-Encode-Gzip-1.11                  https://github.com/reneeb/MojoX-Encode-Gzip/issues/1
 Mirror-URI-0.90                         125189
