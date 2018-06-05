@@ -3931,3 +3931,4 @@ Moxie-0.07                              https://github.com/stevan/p5-Moxie/issue
 Net-OAuth-0.28                          125482
 pmtools-2.2.0                           124784
 Template-Plugin-Filter-IDN-0.02         https://github.com/mschout/perl-template-plugin-filter-idn/issues/1
+URL-Normalize-0.38                      https://github.com/toreau/URL-Normalize/issues/4
