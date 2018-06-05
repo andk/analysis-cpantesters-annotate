@@ -3936,3 +3936,4 @@ Mojolicious-Plugin-SslAuth-0.08         125484
 Net-WhoisNG-0.09                        125485
 MARC-Transform-0.003006                 125307
 QBit-Base-0.002                         125490
+File-Rename-0.30                        125496
