@@ -1431,7 +1431,6 @@ Object-By-v0.08                         110672
 Norma-0.02                              110673
 Dist-Zilla-Plugin-RunByBranch-0.214     110690
 Plack-Middleware-Rewrite-Query-0.1.1    https://github.com/nichtich/Plack-Middleware-Rewrite-Query/issues/1
-pmtools-2.0.0                           110691
 Test-MemoryGrowth-0.02                  110692
 True-Truth-1.1                          https://github.com/norbu09/True-Truth/issues/2
 JDBC-0.02                               95932
@@ -3525,7 +3524,6 @@ Lingua-EN-Inflexion-0.001006            https://rt.perl.org/rt3/Ticket/Display.h
 experimental-0.019                      https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 MooseX-App-1.39                         https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 DBIx-Diff-Schema-0.090                  https://rt.perl.org/rt3/Ticket/Display.html?id=132594
-Data-Sah-0.88                           123089,https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Module-XSOrPP-0.11                      https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Perinci-Sub-DepChecker-0.11             https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Perl-Stripper-0.10                      https://rt.perl.org/rt3/Ticket/Display.html?id=132594
@@ -3903,7 +3901,6 @@ Perlito5-9.024                          125417
 Config-From-0.06                        125418
 Type-Tiny-1.003_002                     124067
 Mojolicious-Plugin-Cron-0.022           https://github.com/dmanto/Mojolicious-Plugin-Cron/issues/1
-Data-Sah-CoerceBundle-App-cryp-0.001    125424
 Log-Log4perl-Shortcuts-0.006            125426
 App-perlbrew-0.83                       125431
 Catmandu-PICA-0.26                      https://github.com/gbv/Catmandu-PICA/issues/62
