@@ -3523,7 +3523,6 @@ Package-FromData-0.01                   https://rt.perl.org/rt3/Ticket/Display.h
 Lingua-EN-Inflexion-0.001006            https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 experimental-0.019                      https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 MooseX-App-1.39                         https://rt.perl.org/rt3/Ticket/Display.html?id=132594
-DBIx-Diff-Schema-0.090                  https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Module-XSOrPP-0.11                      https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Perinci-Sub-DepChecker-0.11             https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Perl-Stripper-0.10                      https://rt.perl.org/rt3/Ticket/Display.html?id=132594
@@ -3627,7 +3626,6 @@ DBD-Pg-3.7.1                            124393,124394,124395
 Plugin-Simple-1.01                      https://github.com/stevieb9/p5-plugin-simple/issues/11
 Games-RolePlay-MapGen-1.5008            124345
 POE-Filter-SSL-0.41                     124442
-Catalyst-Runtime-5.90117                124450
 Fsdb-2.64                               124452
 ExtUtils-HasCompiler-0.021              124453
 Devel-TimeStats-0.04                    124450
