@@ -3933,3 +3933,9 @@ pmtools-2.2.0                           124784
 Template-Plugin-Filter-IDN-0.02         https://github.com/mschout/perl-template-plugin-filter-idn/issues/1
 URL-Normalize-0.38                      https://github.com/toreau/URL-Normalize/issues/4
 MooseX-BuildArgs-0.05                   https://github.com/bluefeet/MooseX-BuildArgs/issues/2
+Mojo-APNS-1.00                          https://github.com/jhthorsen/mojo-apns/issues/8
+Mojo-SMTP-Client-0.15                   125483
+Mojolicious-Plugin-SslAuth-0.08         125484
+Net-WhoisNG-0.09                        125485
+MARC-Transform-0.003006                 125307
+QBit-Base-0.002                         125490
