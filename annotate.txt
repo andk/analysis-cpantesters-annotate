@@ -3819,7 +3819,6 @@ Pandoc-Elements-0.34                    https://github.com/nichtich/Pandoc-Eleme
 Net-Z3950-ZOOM-1.30                     125116
 WWW-UsePerl-Journal-0.26                125119
 File-Copy-Recursive-0.41                125135
-Beam-Minion-0.013                       https://github.com/preaction/Beam-Minion/issues/3
 Lexical-SealRequireHints-0.011          https://rt.perl.org/Ticket/Display.html?id=133135
 Outlook-Mail-Count-1.01                 125155
 DBIx-RunSQL-0.18                        125157
