@@ -3642,7 +3642,6 @@ CSS-Inliner-4008                        124467
 YAML-Tiny-1.73                          124399
 Distribution-Cooker-1.01                124541
 Mojo-Reactor-IOAsync-1.000              https://github.com/Grinnz/Mojo-Reactor-IOAsync/issues/1
-Mojo-SMTP-Client-0.14                   124562
 Net-Flotum-0.10                         https://github.com/eokoe/Net-Flotum/issues/6
 Plack-Middleware-Debug-TraceENV-0.042   124566
 RDF-aREF-0.27                           https://github.com/nichtich/RDF-aREF/issues/21
