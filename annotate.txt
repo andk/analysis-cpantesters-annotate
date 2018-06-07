@@ -1963,7 +1963,6 @@ MooX-Options-4.023                      https://github.com/celogeek/MooX-Options
 Spreadsheet-ParseXLSX-0.25              https://github.com/doy/spreadsheet-parsexlsx/issues/62
 JMAP-Validation-0.005                   115130
 Image-Imager-Thumbnail-0.01             116318
-WWW-Lipsum-1.001012                     https://github.com/zoffixznet/WWW-Lipsum/issues/7
 Ado-Plugin-Admin-0.13                   https://github.com/kberov/Ado-Plugin-Admin/issues/6
 Contenticious-0.36                      https://github.com/memowe/contenticious/issues/17
 Deeme-Backend-Mango-0.02                https://github.com/mudler/p5-Deeme-Backend-Mango/issues/1
@@ -3668,7 +3667,6 @@ Pod-Elemental-Transformer-Splint-0.1201 123445,https://rt.perl.org/Ticket/Displa
 Archive-Any-Plugin-Rar-0.02             124613
 Plack-Middleware-Debug-Mongo-0.03       https://github.com/Wu-Wu/Plack-Middleware-Debug-Mongo/issues/1
 Plack-Middleware-Debug-Redis-0.03       https://github.com/Wu-Wu/Plack-Middleware-Debug-Redis/issues/1
-CGI-Application-4.60                    https://github.com/MartinMcGrath/CGI--Application/issues/5
 Object-Exercise-3.1                     124632
 CGI-AuthRegister-1.1                    124630
 App-MechaCPAN-0.21                      124636
@@ -3857,7 +3855,6 @@ Module-FromPerlVer-0.022001             125253
 SPVM-0.0333                             124384
 Model-Envoy-0.1                         125277
 Test-Conditions-0.82                    125294
-IO-K8s-0.02                             https://github.com/pplu/io-k8s-p5/issues/3
 Devel-Debug-DBGp-0.21                   https://github.com/mbarbon/perl-remote-debugging-client/issues/3
 Mail-Milter-Authentication-2.20180511   https://github.com/fastmail/authentication_milter/issues/12
 Web-Microformats2-0.3                   https://github.com/jmacdotorg/microformats2-perl/issues/1
