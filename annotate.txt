@@ -2796,7 +2796,6 @@ Gearman-Glutch-0.02                     119791
 REST-Client-273                         119829
 Cookieville-0.06                        https://github.com/jhthorsen/cookieville/issues/1
 Flower-0.10                             119828
-Mercury-0.011                           https://github.com/preaction/Mercury/issues/37
 WWW-Eksi-0.22                           119862
 DBIx-Class-Helper-ResultSet-CrossTab-0.004 119864
 Graphics-GVG-SVG-0.4                    119578
@@ -3241,7 +3240,6 @@ Mail-OpenDKIM-4204                      122861
 IPC-MorseSignals-0.17                   117528, module is deprecated
 Devel-DebugHooks-0.05                   122872
 Resource-Pack-0.03                      122855
-WWW-Search-Ebay-Europe-2.017            122876
 List-MoreUtils-0.423                    122875
 UR-0.46                                 https://github.com/genome/UR/issues/136
 CPAN-Testers-Reports-Counts-0.05        122886
@@ -3592,7 +3590,6 @@ QBit-Application-Model-DB-0.026         123516,https://github.com/QBitFramework/
 QBit-Application-Model-DB-clickhouse-0.007 123073
 XS-Logger-0.003                         https://github.com/atoomic/XS-Logger/issues/1
 Prty-1.122                              124195
-Mojo-UserAgent-Mockable-1.53            https://github.com/PopeFelix/Mojo-UserAgent-Mockable/issues/18
 Business-YQL-0.0004                     124215
 WebService-Yamli-0.003                  https://github.com/athreef/WebService-Yamli/issues/1
 Module-CPANTS-ProcessCPAN-0.77          124220
@@ -3902,7 +3899,6 @@ App-perlbrew-0.83                       125431
 Catmandu-PICA-0.26                      https://github.com/gbv/Catmandu-PICA/issues/62
 Dist-Zilla-MintingProfile-FB11-0.016    https://github.com/OpusVL/Dist-Zilla-MintingProfile-FB11/issues/1
 HPCI-0.70                               124695
-Sah-Schemas-CryptoCurrency-0.007        125449
 WebService-Naver-TTS-v0.0.3             125467
 Date-Holidays-1.11                      https://github.com/jonasbn/perl-date-holidays/issues/26
 Alien-Google-GRPC-0.07                  125456
@@ -3916,7 +3912,6 @@ Google-GeoCoder-Smart-v2.0.1            125464
 Lexical-Types-0.16                      https://rt.perl.org/Ticket/Display.html?id=132385,125465
 Mojolicious-Plugin-JSONAPI-1.5          125470
 Test2-Tools-HTTP-UA-Mojo-0.02           https://github.com/plicease/Test2-Tools-HTTP-UA-Mojo/issues/1
-JSONAPI-Document-1.4                    125471
 Mojolicious-Plugin-SessionStorage-0.1.6 125187
 Sah-Schemas-Net-0.004                   125476
 Sah-Schemas-URL-0.005                   125477
