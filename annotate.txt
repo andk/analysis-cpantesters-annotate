@@ -3937,3 +3937,11 @@ Net-WhoisNG-0.09                        125485
 MARC-Transform-0.003006                 125307
 QBit-Base-0.002                         125490
 File-Rename-0.30                        125496
+JSONAPI-Document-1.5                    125471
+Sah-Schemas-CryptoCurrency-0.009        125498
+GraphQL-Plugin-Convert-OpenAPI-0.11     https://github.com/graphql-perl/GraphQL-Plugin-Convert-OpenAPI/issues/2
+Mercury-0.016                           https://github.com/preaction/Mercury/issues/44
+Mojo-UserAgent-Mockable-1.54            https://github.com/PopeFelix/Mojo-UserAgent-Mockable/issues/20
+XML-Sig-0.22                            125505
+WWW-Search-Ebay-Europe-2.018            125507
+Regexp-Compare-0.28                     125509
