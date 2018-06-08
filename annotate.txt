@@ -3865,7 +3865,6 @@ Docker-Registry-0.02                    https://github.com/pplu/docker-registry/
 Text-PerlPP-0.4.0                       125326
 Software-LicenseMoreUtils-0.001         https://github.com/dod38fr/Software-LicenseMoreUtils/issues/1
 Dancer-1.3203-TRIAL                     https://github.com/PerlDancer/Dancer/issues/1183,https://github.com/PerlDancer/Dancer/issues/1184
-Data-Printer-0.99_010                   https://github.com/garu/Data-Printer/issues/128
 Stor-1.2.0                              https://github.com/avast/Stor/issues/18,https://github.com/avast/Stor/issues/19
 Mashtree-0.33                           121971
 Bat-Interpreter-0.007                   https://github.com/pablrod/p5-Bat-Interpreter/issues/8
