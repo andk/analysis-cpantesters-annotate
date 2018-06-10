@@ -1919,7 +1919,6 @@ Mirror-YAML-0.03                        114153
 Math-Cephes-0.5304                      114158
 Gazelle-0.42                            https://github.com/kazeburo/Gazelle/issues/26
 FuseBead-From-PNG-0.01                  114212
-Struct-Diff-0.54                        no bugtracker, use of experimental functions on references
 Script-Toolbox-0.49                     111379
 IPC-Mmap-0.21                           https://rt.perl.org/rt3/Ticket/Display.html?id=128179
 CNC-Cog-0.061                           111909,111909
@@ -2130,7 +2129,6 @@ Acme-Hidek-44.0                         https://rt.perl.org/rt3/Ticket/Display.h
 Git-Gitalist-0.000003                   103277
 warnings-pedantic-0.02                  117256
 Devel-ModInfo-2.04                      117266
-Devel-PatchPerl-Plugin-Cygwin-v0.0.1    117267
 Eve-0.06                                117268
 Log-Minimal-Object-0.02                 https://github.com/moznion/Log-Minimal-Object/issues/1
 Search-Elasticsearch-Async-Simple-0.03  https://github.com/dionys/search-elasticsearch-async-simple/issues/3
@@ -3687,7 +3685,6 @@ Crypt-PKCS10-1.9                        https://github.com/openxpki/Crypt-PKCS10
 Net-MyCommerce-API-1.0.4                124658
 WebService-Heartrails-Express-0.01      probably temporary network/webservice problem,https://github.com/sue7ga/WebService-Heartrails-Express/issues/1,https://github.com/sue7ga/WebService-Heartrails-Express/issues/2
 Getopt-Config-FromPod-v0.0.3            124662
-Dist-Zilla-PluginBundle-Author-ETHER-0.134 124663
 Catalyst-Plugin-Authentication-Credential-Hatena-0.04 124664
 Catalyst-Plugin-Authentication-Credential-Livedoor-0.03 124665
 Catalyst-Plugin-Email-Japanese-0.07     124666
@@ -3845,7 +3842,6 @@ Analizo-1.21.0                          https://github.com/analizo/analizo/issue
 Geo-Coder-XYZ-0.08                      125254
 CPAN-Testers-WWW-Reports-Query-Report-0.05 125259
 Lab-Measurement-3.640                   https://github.com/lab-measurement/Lab-Measurement/issues/25
-Mojolicious-Plugin-AssetPack-Che-2.023  125271
 DataTables-0.05                         125276
 Module-FromPerlVer-0.022001             125253
 SPVM-0.0333                             124384
