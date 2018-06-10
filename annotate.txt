@@ -3940,3 +3940,14 @@ Sah-Schemas-App-cryp-0.001              125512
 Hush-0.03                               125521
 Lingua-Norms-SUBTLEX-0.06               125522
 Data-Printer-0.99_013                   https://github.com/garu/Data-Printer/issues/130
+Sah-Schemas-App-cryp-0.002              125528
+App-Docker-Client-0.010300              125529
+Geo-Coder-Free-0.11                     125530,125531
+CPAN-Testers-Common-DBUtils-0.11        125361
+Date-Holidays-CA_ES-0.03                https://github.com/miquelruiz/Date-Holidays-CA_ES/issues/2
+Global-IPC-StaticVariable-0.015         https://github.com/itsusony/Global-IPC-StaticVariable/issues/2,https://github.com/itsusony/Global-IPC-StaticVariable/issues/3
+DBIx-Handler-Sunny-0.02                 https://github.com/tarao/perl5-DBIx-Handler-Sunny/issues/3
+B-RecDeparse-0.10                       125533
+Net-Azure-EventHubs-0.04                https://github.com/ytnobody/p5-Net-Azure-EventHubs/issues/2
+Net-Azure-NotificationHubs-0.02         https://github.com/ytnobody/p5-Net-Azure-NotifcationHubs/issues/2
+Hubot-0.2.8                             125534
