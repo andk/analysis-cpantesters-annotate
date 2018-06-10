@@ -2846,7 +2846,6 @@ Dancer2-Template-Caribou-0.2.1          120365
 Log-Dispatch-Screen-Color-0.04          120329
 Any-Renderer-Data-Printer-0.04          120366
 CGI-Application-Plugin-Config-Any-0.14  120371
-Hubot-0.2.8                             120374
 Log-Dispatch-Colorful-0.03              120376
 Log-Dispatch-File-Alerts-1.04           120377
 Log-Dispatch-File-Rolling-1.09          120378
@@ -3030,7 +3029,6 @@ TestRail-API-0.039                      121643
 Acme-CPANAuthors-Turkish-0.23           121657
 Devel-PPPort-3.35                       https://github.com/mhx/Devel-PPPort/issues/49
 File-NFSLock-1.27                       120088
-Global-IPC-StaticVariable-0.015         https://github.com/itsusony/Global-IPC-StaticVariable/issues/1
 Global-MutexLock-0.026                  https://github.com/itsusony/Global-MutexLock/issues/1
 PDL-VectorValued-1.0.6                  121661
 Redis-Jet-0.08                          https://github.com/kazeburo/Redis-Jet/issues/8
@@ -3390,7 +3388,6 @@ Class-Declare-Attributes-0.12           123669
 DBM-Deep-2.0014                         123811,https://rt.perl.org/Public/Bug/Display.html?id=132493
 Functional-Utility-1.02                 https://github.com/belden/perl-functional-utility/issues/2
 Glib-1.326                              123813,https://rt.perl.org/Public/Bug/Display.html?id=132252
-B-RecDeparse-0.10                       https://rt.perl.org/Ticket/Display.html?id=132528
 Test-Vars-0.014                         https://github.com/houseabsolute/p5-Test-Vars/pull/34
 AnyEvent-HTTP-2.23                      https://rt.perl.org/Public/Bug/Display.html?id=132142,https://www.nntp.perl.org/group/perl.perl5.porters/2017/11/msg247426.html
 Devel-TraceMethods-1.00                 123667
@@ -3759,7 +3756,6 @@ Amon2-6.13                              https://github.com/tokuhirom/Amon/issues
 App-BigQuery-Importer-MySQL-0.024       https://github.com/myfinder/app-bigquery-importer-mysql/issues/6
 App-Memcached-Tool-v0.9.4               https://github.com/progrhyme/perl5-App-Memcached-Tool/issues/1
 DBIx-Fixture-Admin-0.15                 https://github.com/meru-akimbo/DBIx-Fixture-Admin/issues/15
-DBIx-Handler-Sunny-0.02                 https://github.com/tarao/perl5-DBIx-Handler-Sunny/issues/2
 Inline-Awk-0.04                         https://rt.cpan.org/Ticket/Display.html?id=121648
 Module-Build-Pluggable-AuthorTests-0.01 124926
 Config-Model-2.118                      https://github.com/dod38fr/config-model/issues/16
@@ -3945,9 +3941,9 @@ App-Docker-Client-0.010300              125529
 Geo-Coder-Free-0.11                     125530,125531
 CPAN-Testers-Common-DBUtils-0.11        125361
 Date-Holidays-CA_ES-0.03                https://github.com/miquelruiz/Date-Holidays-CA_ES/issues/2
-Global-IPC-StaticVariable-0.015         https://github.com/itsusony/Global-IPC-StaticVariable/issues/2,https://github.com/itsusony/Global-IPC-StaticVariable/issues/3
-DBIx-Handler-Sunny-0.02                 https://github.com/tarao/perl5-DBIx-Handler-Sunny/issues/3
-B-RecDeparse-0.10                       125533
+Global-IPC-StaticVariable-0.015         https://github.com/itsusony/Global-IPC-StaticVariable/issues/1,https://github.com/itsusony/Global-IPC-StaticVariable/issues/2,https://github.com/itsusony/Global-IPC-StaticVariable/issues/3
+DBIx-Handler-Sunny-0.02                 https://github.com/tarao/perl5-DBIx-Handler-Sunny/issues/2,https://github.com/tarao/perl5-DBIx-Handler-Sunny/issues/3
+B-RecDeparse-0.10                       https://rt.perl.org/Ticket/Display.html?id=132528,125533
 Net-Azure-EventHubs-0.04                https://github.com/ytnobody/p5-Net-Azure-EventHubs/issues/2
 Net-Azure-NotificationHubs-0.02         https://github.com/ytnobody/p5-Net-Azure-NotifcationHubs/issues/2
-Hubot-0.2.8                             125534
+Hubot-0.2.8                             120374,125534
