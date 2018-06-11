@@ -2177,7 +2177,6 @@ WWW-Socrata-0.02                        117324
 CPAN-Digger-0.08                        117328
 Sys-GNU-ldconfig-0.02                   117329
 Alien-mpg123-0.002                      83975
-Games-Checkers-0.2.0                    99017
 Data-Dump-Streamer-2.40                 117331
 Memoize-Expire-ByInstance-0.500005      117332
 Catalyst-Plugin-UploadProgress-0.06     117335
