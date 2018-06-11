@@ -1744,7 +1744,6 @@ Protocol-CassandraCQL-0.12              113958
 Types-Numbers-0.94                      https://github.com/SineSwiper/Types-Numbers/issues/2
 Text-TransMetaphone-0.07                114007
 Digest-Skein-0.05                       113998,https://github.com/Perl-Toolchain-Gang/ExtUtils-MakeMaker/pull/266
-Net-AMQP-RabbitMQ-2.000000_002          https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq/issues/11
 Time-HiRes-Sleep-Until-0.07             114031
 Alien-Judy-0.27                         98693
 Bio-ToolBox-1.36                        114093
@@ -3844,7 +3843,6 @@ CPAN-Testers-WWW-Reports-Query-Report-0.05 125259
 Lab-Measurement-3.640                   https://github.com/lab-measurement/Lab-Measurement/issues/25
 DataTables-0.05                         125276
 Module-FromPerlVer-0.022001             125253
-SPVM-0.0333                             124384
 Model-Envoy-0.1                         125277
 Test-Conditions-0.82                    125294
 Devel-Debug-DBGp-0.21                   https://github.com/mbarbon/perl-remote-debugging-client/issues/3
@@ -3918,7 +3916,6 @@ Mojo-SMTP-Client-0.15                   125483
 Mojolicious-Plugin-SslAuth-0.08         125484
 Net-WhoisNG-0.09                        125485
 MARC-Transform-0.003006                 125307
-QBit-Base-0.002                         125490
 File-Rename-0.30                        125496
 JSONAPI-Document-1.5                    125471
 Sah-Schemas-CryptoCurrency-0.009        125498
