@@ -3942,3 +3942,12 @@ B-RecDeparse-0.10                       https://rt.perl.org/Ticket/Display.html?
 Net-Azure-EventHubs-0.04                https://github.com/ytnobody/p5-Net-Azure-EventHubs/issues/2
 Net-Azure-NotificationHubs-0.02         https://github.com/ytnobody/p5-Net-Azure-NotifcationHubs/issues/2
 Hubot-0.2.8                             120374,125534
+OAI-Harvester-1.20                      125453
+QBit-Base-0.003                         125490
+SPVM-0.0345                             125541
+Array-Ordered-0.03                      125543
+Keyword-Declare-0.001008                125545,125546
+Text-SimpleTable-2.05                   125547
+Net-DNSBL-MultiDaemon-0.39              125548
+Thread-CriticalSection-0.02             125549
+Net-AMQP-RabbitMQ-2.30000               https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq/issues/154
