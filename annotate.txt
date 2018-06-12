@@ -1788,7 +1788,6 @@ Mojolicious-Plugin-Libravatar-1.09      98855
 Bio-HTS-v0.0.1                          113926,113927
 Dallycot-0.151630                       114585
 Sub-Call-Tail-0.06                      112244
-Lingua-Identify-CLD2-0.03               114587,114588
 DBIx-Fast-0.07                          114615
 Test-Flatten-0.11                       https://github.com/xaicron/p5-Test-Flatten/issues/5
 RocksDB-0.04                            https://github.com/spiritloose/RocksDB/issues/3
@@ -3951,7 +3950,7 @@ Net-Azure-NotificationHubs-0.04         https://github.com/ytnobody/p5-Net-Azure
 Yote-Server-1.27                        122201
 Unix-Lsof-0.1.0                         125550
 DBD-SQLcipher-0.02                      121290
-Lingua-Identify-CLD2-0.03               125554
+Lingua-Identify-CLD2-0.03               114587,114588,125554
 Systemd-Daemon-0.07                     117701
 SPVM-0.0346                             125541
 WWW-Mechanize-PhantomJS-0.18            125559
