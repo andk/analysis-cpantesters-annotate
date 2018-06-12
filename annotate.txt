@@ -3301,7 +3301,6 @@ Grammar-Graph-0.20                      123420
 Net-ZooIt-0.22                          122317,123403
 Promises-0.98                           123404
 Coteng-0.11                             https://github.com/yuuki/Coteng/issues/27
-JSON-RPC2-v2.1.1                        https://github.com/powerman/perl-JSON-RPC2/issues/3
 Lingua-Thesaurus-0.13                   123415
 PLN-PT-0.007                            123416
 RDF-Crypt-0.002                         123417
@@ -3795,7 +3794,6 @@ Crypt-OpenSSL-RSA-0.29_01               https://github.com/toddr/Crypt-OpenSSL-R
 WWW-Subsonic-0.005                      https://github.com/reyjrar/WWW-Subsonic/issues/3
 Linux-DVB-1.03                          124165
 JavaScript-Duktape-XS-0.000045          125114
-Pandoc-Elements-0.34                    https://github.com/nichtich/Pandoc-Elements/issues/77
 Net-Z3950-ZOOM-1.30                     125116
 WWW-UsePerl-Journal-0.26                125119
 File-Copy-Recursive-0.41                125135
@@ -3814,7 +3812,6 @@ BenchmarkAnything-Storage-Frontend-Tools-0.019 125180
 Devel-Events-0.09                       125182
 Keyword-API-0.0004                      125186
 Git-Demo-0.02                           125188
-MojoX-Encode-Gzip-1.11                  https://github.com/reneeb/MojoX-Encode-Gzip/issues/1
 Mirror-URI-0.90                         125189
 Perl-PrereqScanner-NotQuiteLite-0.91    125190,125191
 Rex-Template-Mojo-1.0                   125192
