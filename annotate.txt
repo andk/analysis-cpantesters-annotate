@@ -3947,3 +3947,11 @@ Text-SimpleTable-2.05                   125547
 Net-DNSBL-MultiDaemon-0.39              125548
 Thread-CriticalSection-0.02             125549
 Net-AMQP-RabbitMQ-2.30000               https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq/issues/154
+Net-Azure-NotificationHubs-0.04         https://github.com/ytnobody/p5-Net-Azure-NotifcationHubs/issues/3
+Yote-Server-1.27                        122201
+Unix-Lsof-0.1.0                         125550
+DBD-SQLcipher-0.02                      121290
+Lingua-Identify-CLD2-0.03               125554
+Systemd-Daemon-0.07                     117701
+SPVM-0.0346                             125541
+WWW-Mechanize-PhantomJS-0.18            125559
