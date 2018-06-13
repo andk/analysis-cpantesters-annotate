@@ -3947,3 +3947,6 @@ Lingua-Identify-CLD2-0.03               114587,114588,125554
 Systemd-Daemon-0.07                     117701
 SPVM-0.0346                             125541
 WWW-Mechanize-PhantomJS-0.18            125559
+Crypt-Dining-1.01                       125560
+URI-ParseSearchString-More-0.17         https://github.com/oalders/uri-parsesearchstring-more/issues/1,https://github.com/oalders/uri-parsesearchstring-more/issues/2
+Dita-Project-20180530                   125570
