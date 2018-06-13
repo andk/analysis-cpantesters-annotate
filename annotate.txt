@@ -3822,7 +3822,6 @@ Fierce-Parser-0.08                      125202
 Nikto-Parser-0.01                       125203
 Unix-Statgrab-0.111                     125204
 BoutrosLab-TSVStream-v0.5.4             119751
-Locale-Country-EU-0.002                 125222
 Cache-FastMmap-1.47                     https://github.com/robmueller/cache-fastmmap/issues/13
 Alien-CMake-0.11                        125247
 Bio-DB-HTS-2.11                         125248
