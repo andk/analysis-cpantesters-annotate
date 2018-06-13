@@ -3613,7 +3613,6 @@ POE-Filter-SSL-0.41                     124442
 Fsdb-2.64                               124452
 ExtUtils-HasCompiler-0.021              124453
 Devel-TimeStats-0.04                    124450
-Mojolicious-Plugin-Prometheus-1.1.0     https://github.com/tyldum/mojolicious-plugin-prometheus/issues/15
 Test-Mojo-Role-Debug-JSON-0.003         https://github.com/atoomic/Test-Mojo-Role-Debug-JSON/issues/1
 Graph-Feather-0.03                      124457
 Parse-ABNF-0.26                         124466
@@ -3844,7 +3843,6 @@ DBIx-Error-1.0.1                        125319
 WebService-Pokemon-0.04                 https://github.com/kianmeng/webservice-pokemon/issues/3
 Docker-Registry-0.02                    https://github.com/pplu/docker-registry/issues/1
 Text-PerlPP-0.4.0                       125326
-Dancer-1.3203-TRIAL                     https://github.com/PerlDancer/Dancer/issues/1183,https://github.com/PerlDancer/Dancer/issues/1184
 Stor-1.2.0                              https://github.com/avast/Stor/issues/18,https://github.com/avast/Stor/issues/19
 Mashtree-0.33                           121971
 Bat-Interpreter-0.007                   https://github.com/pablrod/p5-Bat-Interpreter/issues/8
