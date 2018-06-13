@@ -3757,7 +3757,6 @@ Device-CableModem-Motorola-SB4200-0.12  124929
 GD-Thumbnail-1.42                       123535
 Lingua-Any-Numbers-0.46                 124930
 Data-RecordStore-3.16                   124933
-C-Utility-0.008                         https://github.com/benkasminbullock/C-Utility/issues/1
 FFmpeg-Thumbnail-0.02                   103159,124945
 Unicode-ICU-Collator-0.002              124946
 Tatsumaki-0.1013                        118843
@@ -3841,7 +3840,6 @@ Web-Microformats2-0.3                   https://github.com/jmacdotorg/microforma
 oxdperl-0.05                            124706,124707,124708
 DBIx-Error-1.0.1                        125319
 WebService-Pokemon-0.04                 https://github.com/kianmeng/webservice-pokemon/issues/3
-Docker-Registry-0.02                    https://github.com/pplu/docker-registry/issues/1
 Text-PerlPP-0.4.0                       125326
 Stor-1.2.0                              https://github.com/avast/Stor/issues/18,https://github.com/avast/Stor/issues/19
 Mashtree-0.33                           121971
