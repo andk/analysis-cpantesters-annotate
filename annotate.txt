@@ -3948,3 +3948,7 @@ Crypt-Dining-1.01                       125560
 URI-ParseSearchString-More-0.17         https://github.com/oalders/uri-parsesearchstring-more/issues/1,https://github.com/oalders/uri-parsesearchstring-more/issues/2
 Dita-Project-20180530                   125570
 Bot-Training-0.06                       125575
+Mojolicious-Plugin-Prometheus-1.1.1     https://github.com/tyldum/mojolicious-plugin-prometheus/issues/15
+Mojolicious-Plugin-Prometheus-Shared-FastMmap-1.0.0 https://github.com/tyldum/Mojolicious-Plugin-Prometheus-Shared-FastMmap/issues/1
+Catalyst-Plugin-ErrorCatcher-ActiveMQ-Stomp-0.1.5 125576
+Dancer-1.3204-TRIAL                     https://github.com/PerlDancer/Dancer/issues/1184
