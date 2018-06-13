@@ -642,7 +642,6 @@ ByteBeat-0.0.4                          https://github.com/ingydotnet/bytebeat-p
 Algorithm-KMeans-2.05                   92551
 YAML-Diff-0.0.2                         https://github.com/ingydotnet/yaml-diff-pm/issues/1
 CGI-Alert-2.09                          99806
-Bot-Training-0.04                       https://rt.perl.org/rt3/Ticket/Display.html?id=123057
 Flv-Info-Lite-0.03                      99873
 Apache-EmbeddedPerl-Lite-0.06           99012
 App-Basis-ConvertText2-0.4              99874
