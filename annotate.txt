@@ -3949,3 +3949,4 @@ WWW-Mechanize-PhantomJS-0.18            125559
 Crypt-Dining-1.01                       125560
 URI-ParseSearchString-More-0.17         https://github.com/oalders/uri-parsesearchstring-more/issues/1,https://github.com/oalders/uri-parsesearchstring-more/issues/2
 Dita-Project-20180530                   125570
+Bot-Training-0.06                       125575
