@@ -3944,11 +3944,10 @@ Dita-Project-20180530                   125570
 Bot-Training-0.06                       125575
 Mojolicious-Plugin-Prometheus-1.1.1     https://github.com/tyldum/mojolicious-plugin-prometheus/issues/15
 Mojolicious-Plugin-Prometheus-Shared-FastMmap-1.0.0 https://github.com/tyldum/Mojolicious-Plugin-Prometheus-Shared-FastMmap/issues/1
-Catalyst-Plugin-ErrorCatcher-ActiveMQ-Stomp-0.1.5 125576
 Dancer-1.3204-TRIAL                     https://github.com/PerlDancer/Dancer/issues/1184
 TestML1-0.55                            https://github.com/ingydotnet/testml-pm/issues/11
 Paws-0.37                               https://github.com/pplu/aws-sdk-perl/issues/248
-Catalyst-Plugin-ErrorCatcher-ActiveMQ-Stomp-0.1.5 125580
+Catalyst-Plugin-ErrorCatcher-ActiveMQ-Stomp-0.1.5 125576,125580
 Pod-Tidy-0.10                           51281
 Google-Ads-AdWords-Client-5.4.0         118509
 Test-WWW-Simple-0.35                    95958
