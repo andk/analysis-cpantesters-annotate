@@ -836,7 +836,6 @@ Finance-TW-TAIFEX-0.39                  105043
 Lingua-ZH-Wrap-0.03                     105044
 Privileges-Drop-1.03                    105046
 Exodist-Util-0.008                      https://github.com/exodist/Exodist-Util/issues/6
-Test-WWW-Simple-0.34                    95958
 SOAP-DirectI-0.001                      103222
 Locales-0.33                            103291
 Lego-From-PNG-0.04                      106000
@@ -3760,7 +3759,6 @@ FFmpeg-Thumbnail-0.02                   103159,124945
 Unicode-ICU-Collator-0.002              124946
 Tatsumaki-0.1013                        118843
 POSIX-1003-0.99_07                      124960
-Google-Ads-AdWords-Client-5.3.0         118509
 Video-FourCC-Info-1.005                 118459
 PerlBuildSystem-0.44                    121386,124971
 Term-Terminfo-0.08                      124969
