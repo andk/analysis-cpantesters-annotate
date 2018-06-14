@@ -3948,3 +3948,4 @@ Mojolicious-Plugin-Prometheus-1.1.1     https://github.com/tyldum/mojolicious-pl
 Mojolicious-Plugin-Prometheus-Shared-FastMmap-1.0.0 https://github.com/tyldum/Mojolicious-Plugin-Prometheus-Shared-FastMmap/issues/1
 Catalyst-Plugin-ErrorCatcher-ActiveMQ-Stomp-0.1.5 125576
 Dancer-1.3204-TRIAL                     https://github.com/PerlDancer/Dancer/issues/1184
+TestML1-0.55                            https://github.com/ingydotnet/testml-pm/issues/11
