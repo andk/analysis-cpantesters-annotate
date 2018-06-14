@@ -3947,3 +3947,8 @@ Mojolicious-Plugin-Prometheus-Shared-FastMmap-1.0.0 https://github.com/tyldum/Mo
 Catalyst-Plugin-ErrorCatcher-ActiveMQ-Stomp-0.1.5 125576
 Dancer-1.3204-TRIAL                     https://github.com/PerlDancer/Dancer/issues/1184
 TestML1-0.55                            https://github.com/ingydotnet/testml-pm/issues/11
+Paws-0.37                               https://github.com/pplu/aws-sdk-perl/issues/248
+Catalyst-Plugin-ErrorCatcher-ActiveMQ-Stomp-0.1.5 125580
+Pod-Tidy-0.10                           51281
+Google-Ads-AdWords-Client-5.4.0         118509
+Test-WWW-Simple-0.35                    95958
