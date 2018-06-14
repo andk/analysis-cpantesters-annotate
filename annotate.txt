@@ -2333,7 +2333,6 @@ WebService-APIKeys-AutoChanger-0.00002  76682
 XML-AutoWriter-0.4                      76225
 Devel-Kit-0.81                          105980
 App-Kit-0.62                            117541
-Alien-Box2D-0.105                       117542
 Unix-PID-Tiny-0.91                      94785
 Algorithm-MedianSelect-XS-0.21          76474
 App-Open-0.0.4                          106586
@@ -3782,7 +3781,6 @@ Compress-Raw-Lzma-2.081                 125046
 Finance-Robinhood-0.9.0_001             https://github.com/sanko/Finance-Robinhood/issues/3
 IO-Compress-Lzf-2.081                   91419
 HTTP-Caching-0.12                       125047
-MooseX-SingleArg-0.05                   https://github.com/bluefeet/MooseX-SingleArg/issues/3
 Sentry-0.01                             125077
 BenchmarkAnything-Storage-Frontend-Lib-0.022 116664
 CPP-panda-lib-1.1.2                     125080
