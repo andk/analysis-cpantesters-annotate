@@ -3045,7 +3045,6 @@ Perl-Syntax-1.00                        https://github.com/rocky/Perl-Syntax/iss
 Test-Stochastic-0.03                    121800
 Alvis-Convert-0.4                       121823
 Net-YASA-0.03                           121842
-Geo-Coder-List-0.11                     121919
 HTML-TableExtract-2.15                  121920
 JavaScript-Duktape-2.1.5                https://github.com/mamod/JavaScript-Duktape/issues/29
 AnyEvent-Radius-1.1.0                   121940
@@ -3779,7 +3778,6 @@ BenchmarkAnything-Storage-Frontend-Lib-0.022 116664
 CPP-panda-lib-1.1.2                     125080
 WWW-EZTV-0.07                           https://github.com/diegok/www-eztv/issues/2
 Crypt-OpenSSL-RSA-0.29_01               https://github.com/toddr/Crypt-OpenSSL-RSA/issues/10
-WWW-Subsonic-0.005                      https://github.com/reyjrar/WWW-Subsonic/issues/3
 Linux-DVB-1.03                          124165
 JavaScript-Duktape-XS-0.000045          125114
 Net-Z3950-ZOOM-1.30                     125116
