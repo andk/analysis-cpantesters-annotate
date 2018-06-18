@@ -3949,3 +3949,10 @@ Format-0.2                              125586
 CGI-OptimalQuery-0.30                   113713
 Statistics-SDT-0.07                     125599
 Net-Mattermost-Bot-0.02                 125611
+Word2vec-Interface-0.038                122998
+Mojolicious-Command-generate-DBIxCustomModel-1.0.2 125598
+Test-WWW-Simple-0.38                    82970
+Net-SMTP-Verify-1.03                    125600
+BerkeleyDB-0.55                         125605
+Monitoring-GLPlugin-3.0.2.6             124161
+Net-RDAP-0.1                            125617
