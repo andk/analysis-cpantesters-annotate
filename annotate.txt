@@ -3346,7 +3346,6 @@ HTTP-Cache-Transparent-1.4              123611
 DBD-Firebird-1.25                       123623
 Morpheus-0.46                           https://github.com/druxa/morpheus/issues/3
 Tk-Help-0.3                             123632
-Word2vec-Interface-0.037                122998
 Text-Password-AutoMigration-0.11        https://github.com/worthmine/Text-Password-AutoMigration/issues/3
 App-CLI-Extension-1.421                 123655
 Whatever-0.23                           123654
@@ -3556,7 +3555,6 @@ Dist-Surveyor-0.020                     124157
 Dist-Zilla-LocaleTextDomain-0.91        124158
 KelpX-AppBuilder-0.005                  124159
 Minion-Backend-Storable-7.012           https://github.com/niczero/minion-backend-storable/issues/9
-Monitoring-GLPlugin-2.4.14.6            124161
 Business-OnlinePayment-CardFortress-0.04 124163
 MooseX-ErrorHandling-0.2                124164
 Data-UUID-LibUUID-0.05                  119469
@@ -3944,7 +3942,6 @@ Paws-0.37                               https://github.com/pplu/aws-sdk-perl/iss
 Catalyst-Plugin-ErrorCatcher-ActiveMQ-Stomp-0.1.5 125576,125580
 Pod-Tidy-0.10                           51281
 Google-Ads-AdWords-Client-5.4.0         118509
-Test-WWW-Simple-0.35                    95958
 Format-0.2                              125586
 CGI-OptimalQuery-0.30                   113713
 Statistics-SDT-0.07                     125599
