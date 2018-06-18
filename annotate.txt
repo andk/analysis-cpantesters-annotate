@@ -3948,3 +3948,4 @@ Test-WWW-Simple-0.35                    95958
 Format-0.2                              125586
 CGI-OptimalQuery-0.30                   113713
 Statistics-SDT-0.07                     125599
+Net-Mattermost-Bot-0.02                 125611
