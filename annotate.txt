@@ -3874,7 +3874,6 @@ Mojolicious-Plugin-JSONAPI-1.5          125470
 Test2-Tools-HTTP-UA-Mojo-0.02           https://github.com/plicease/Test2-Tools-HTTP-UA-Mojo/issues/1
 Mojolicious-Plugin-SessionStorage-0.1.6 125187
 Sah-Schemas-Net-0.004                   125476
-Sah-Schemas-URL-0.005                   125477
 Data-Sah-0.891                          125478
 Data-Sah-CoerceBundle-App-cryp-0.003    125479
 Image-Magick-Brand-0.01                 125480
@@ -3893,7 +3892,6 @@ MARC-Transform-0.003006                 125307
 File-Rename-0.30                        125496
 JSONAPI-Document-1.5                    125471
 Sah-Schemas-CryptoCurrency-0.009        125498
-GraphQL-Plugin-Convert-OpenAPI-0.11     https://github.com/graphql-perl/GraphQL-Plugin-Convert-OpenAPI/issues/2
 Mercury-0.016                           https://github.com/preaction/Mercury/issues/44
 Mojo-UserAgent-Mockable-1.54            https://github.com/PopeFelix/Mojo-UserAgent-Mockable/issues/20
 XML-Sig-0.22                            125505
