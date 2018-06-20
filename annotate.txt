@@ -1888,7 +1888,6 @@ Device-Gsm-1.60                         https://rt.perl.org/rt3/Ticket/Display.h
 Audio-FindChunks-2.00                   95272
 Hook-LexWrap-0.24                       https://rt.perl.org/Ticket/Display.html?id=122757
 Expect-1.32                             https://github.com/Test-More/test-more/issues/499
-Moose-Autobox-0.15                      https://rt.perl.org/rt3/Ticket/Display.html?id=123619,102917
 Mojolicious-Plugin-MailException-0.19   https://github.com/dr-co/libmojolicious-plugin-mail_exception/pull/10
 SOAP-Lite-1.19                          106725
 AnyEvent-Fork-1.2                       106900
