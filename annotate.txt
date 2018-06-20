@@ -2577,7 +2577,6 @@ Script-Ichigeki-0.04                    https://github.com/Songmu/p5-Script-Ichi
 Sub-Information-0.10                    118106
 Bio-Tools-Primer3Redux-0.09             118107
 IO-Infiles-0.06                         95763,118109
-HTML-Defang-1.04                        https://rt.perl.org/rt3/Ticket/Display.html?id=128139,110663
 DateTime-Format-EMIUCP-0.0300           118110
 CGI-Application-Plugin-Authorization-0.07 116397
 Language-Farnsworth-0.7.7               https://rt.perl.org/rt3/Ticket/Display.html?id=128139,118125
@@ -3957,3 +3956,4 @@ Data-MuForm-Model-DBIC-0.02             125623
 Net-SIP-0.815                           125624
 OpenGL-Sandbox-0.02                     https://github.com/nrdvana/perl-OpenGL-Sandbox/issues/1
 Resque-0.36                             https://github.com/diegok/resque-perl/issues/30
+HTML-Defang-1.05                        https://rt.perl.org/rt3/Ticket/Display.html?id=128139,110663
