@@ -3953,3 +3953,10 @@ Monitoring-GLPlugin-3.0.2.6             124161
 Net-RDAP-0.1                            125617
 Sah-Schemas-URL-0.006                   125618
 IO-Termios-0.06                         125619
+GraphQL-Plugin-Convert-OpenAPI-0.12     https://github.com/graphql-perl/GraphQL-Plugin-Convert-OpenAPI/issues/3
+Crypt-Perl-0.19                         125621
+D-oh-1.00                               125622
+Data-MuForm-Model-DBIC-0.02             125623
+Net-SIP-0.815                           125624
+OpenGL-Sandbox-0.02                     https://github.com/nrdvana/perl-OpenGL-Sandbox/issues/1
+Resque-0.36                             https://github.com/diegok/resque-perl/issues/30
