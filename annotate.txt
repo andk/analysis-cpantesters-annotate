@@ -3957,3 +3957,7 @@ Net-SIP-0.815                           125624
 OpenGL-Sandbox-0.02                     https://github.com/nrdvana/perl-OpenGL-Sandbox/issues/1
 Resque-0.36                             https://github.com/diegok/resque-perl/issues/30
 HTML-Defang-1.05                        https://rt.perl.org/rt3/Ticket/Display.html?id=128139,110663
+HTML-Defang-1.05                        110663
+WWW-XBoxLive-1.123160                   https://github.com/andrewrjones/perl5-WWW-XBoxLive/issues/3
+EventStore-Tiny-0.22                    https://github.com/memowe/EventStore-Tiny/issues/14
+DBIx-Array-0.57                         125644
