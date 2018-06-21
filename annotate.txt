@@ -1660,7 +1660,6 @@ Tie-DuckDuckGo-0.02                     https://github.com/aggrolite/Tie-DuckDuc
 WebService-NFSN-1.03                    113096
 UAV-Pilot-ArdupilotProtocol-0.001       113097
 Test-Approx-0.03                        113129
-DBIx-Array-0.49                         113130
 Net-Amazon-DynamoDB-HighlyAvailable-0.03 https://github.com/kablamo/Net-Amazon-DynamoDB-HighlyAvailable/issues/1
 App-GitHooks-Plugin-RubyCompile-v1.0.0  https://github.com/jacobmaurer/App-GitHooks-Plugin-RubyCompile/issues/2
 App-Validation-Automation-0.02          113159
