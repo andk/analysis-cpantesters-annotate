@@ -3869,7 +3869,6 @@ Test2-Tools-HTTP-UA-Mojo-0.02           https://github.com/plicease/Test2-Tools-
 Mojolicious-Plugin-SessionStorage-0.1.6 125187
 Sah-Schemas-Net-0.004                   125476
 Data-Sah-0.891                          125478
-Data-Sah-CoerceBundle-App-cryp-0.003    125479
 Image-Magick-Brand-0.01                 125480
 Linux-Clone-1.2                         fails on older linux kernels (without bug report)
 Moxie-0.07                              https://github.com/stevan/p5-Moxie/issues/9
