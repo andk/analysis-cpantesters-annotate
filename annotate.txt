@@ -1279,7 +1279,6 @@ WebService-Recruit-CarSensor-0.0.2      109878
 TiVo-Calypso-1.3.5                      109879
 Template-Plugin-Filter-VisualTruncate-0.05 109882
 Module-Mapper-1.01                      56069
-Class-STL-Containers-0.35               88547
 HTML-Tag-1.08                           109883
 Email-Send-TheSchwartz-0.01             109884
 WebService-JugemKey-Auth-0.04           109890
