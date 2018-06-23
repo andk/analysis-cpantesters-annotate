@@ -3838,7 +3838,6 @@ Evo-0.0405                              https://github.com/alexbyk/perl-evo/issu
 Graph-Maker-0.02                        108992
 B-DeparseTree-v3.1.0                    125407
 AWS-CLIWrapper-1.14                     125410
-Algorithm-QuineMcCluskey-0.16           125391,132671
 Class-Generate-1.16                     125393
 Crypt-Sodium-0.11                       125394
 Test-Spec-Acceptance-0.01               https://github.com/meis/Test-Spec-Acceptance/issues/1
@@ -3936,7 +3935,6 @@ Statistics-SDT-0.07                     125599
 Net-Mattermost-Bot-0.02                 125611
 Word2vec-Interface-0.038                122998
 Mojolicious-Command-generate-DBIxCustomModel-1.0.2 125598
-Test-WWW-Simple-0.38                    82970
 Net-SMTP-Verify-1.03                    125600
 BerkeleyDB-0.55                         125605
 Monitoring-GLPlugin-3.0.2.6             124161
@@ -3953,7 +3951,6 @@ Resque-0.36                             https://github.com/diegok/resque-perl/is
 HTML-Defang-1.05                        https://rt.perl.org/rt3/Ticket/Display.html?id=128139,110663,110663
 WWW-XBoxLive-1.123160                   https://github.com/andrewrjones/perl5-WWW-XBoxLive/issues/3
 EventStore-Tiny-0.22                    https://github.com/memowe/EventStore-Tiny/issues/14
-DBIx-Array-0.57                         125644
 Class-STL-Containers-0.37               125650
 Devel-KYTProf-Logger-XRay-0.02          https://github.com/fujiwara/Devel-KYTProf-Logger-XRay/issues/1
 Module-Extract-DeclaredVersion-1.021    https://github.com/briandfoy/module-extract-declaredversion/issues/1
