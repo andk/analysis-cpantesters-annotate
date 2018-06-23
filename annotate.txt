@@ -3957,3 +3957,5 @@ EventStore-Tiny-0.22                    https://github.com/memowe/EventStore-Tin
 DBIx-Array-0.57                         125644
 Class-STL-Containers-0.37               125650
 Devel-KYTProf-Logger-XRay-0.02          https://github.com/fujiwara/Devel-KYTProf-Logger-XRay/issues/1
+Module-Extract-DeclaredVersion-1.021    https://github.com/briandfoy/module-extract-declaredversion/issues/1
+OpusVL-Preferences-0.30                 https://github.com/OpusVL/OpusVL-Preferences/issues/1
