@@ -3958,3 +3958,7 @@ Class-STL-Containers-0.37               125650
 Devel-KYTProf-Logger-XRay-0.02          https://github.com/fujiwara/Devel-KYTProf-Logger-XRay/issues/1
 Module-Extract-DeclaredVersion-1.021    https://github.com/briandfoy/module-extract-declaredversion/issues/1
 OpusVL-Preferences-0.30                 https://github.com/OpusVL/OpusVL-Preferences/issues/1
+Test-WWW-Simple-0.39                    125651
+Algorithm-QuineMcCluskey-0.17           125391
+DBIx-Array-0.58                         125652
+POSIX-RT-Spawn-0.11                     125666
