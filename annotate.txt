@@ -3885,7 +3885,6 @@ XML-Sig-0.22                            125505
 WWW-Search-Ebay-Europe-2.018            125507
 Regexp-Compare-0.28                     125509
 Hush-0.03                               125521
-Data-Printer-0.99_013                   https://github.com/garu/Data-Printer/issues/130
 Sah-Schemas-App-cryp-0.002              125528
 App-Docker-Client-0.010300              125529
 Geo-Coder-Free-0.11                     125530,125531
@@ -3943,7 +3942,6 @@ Data-MuForm-Model-DBIC-0.02             125623
 Net-SIP-0.815                           125624
 OpenGL-Sandbox-0.02                     https://github.com/nrdvana/perl-OpenGL-Sandbox/issues/1
 Resque-0.36                             https://github.com/diegok/resque-perl/issues/30
-HTML-Defang-1.05                        https://rt.perl.org/rt3/Ticket/Display.html?id=128139,110663,110663
 WWW-XBoxLive-1.123160                   https://github.com/andrewrjones/perl5-WWW-XBoxLive/issues/3
 EventStore-Tiny-0.22                    https://github.com/memowe/EventStore-Tiny/issues/14
 Class-STL-Containers-0.37               125650
