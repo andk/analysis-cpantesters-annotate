@@ -3557,7 +3557,6 @@ Basket-Calc-0.5                         https://github.com/nupfel/Basket-Calc/is
 MooseX-Exception-Rot13-0.001            124181
 Git-Repository-Plugin-Status-0.03       https://github.com/nichtich/Git-Repository-Plugin-Status/issues/3
 Mail-BIMI-1.20180122                    124182
-Mastodon-Client-0.013                   https://gitlab.com/jjatria/Mastodon-Client/issues/1
 Catalyst-Plugin-Session-0.40            89631
 Test-Instance-Apache-0.001              https://github.com/TBSliver/Test-Instance-Apache/issues/5
 QBit-Application-Model-DB-0.026         123516,https://github.com/QBitFramework/QBit-Application-Model-DB/issues/28
@@ -3815,20 +3814,17 @@ Lab-Measurement-3.640                   https://github.com/lab-measurement/Lab-M
 DataTables-0.05                         125276
 Module-FromPerlVer-0.022001             125253
 Model-Envoy-0.1                         125277
-Test-Conditions-0.82                    125294
 Devel-Debug-DBGp-0.21                   https://github.com/mbarbon/perl-remote-debugging-client/issues/3
 Mail-Milter-Authentication-2.20180511   https://github.com/fastmail/authentication_milter/issues/12
 Web-Microformats2-0.3                   https://github.com/jmacdotorg/microformats2-perl/issues/1
 oxdperl-0.05                            124706,124707,124708
 DBIx-Error-1.0.1                        125319
 WebService-Pokemon-0.04                 https://github.com/kianmeng/webservice-pokemon/issues/3
-Text-PerlPP-0.4.0                       125326
 Stor-1.2.0                              https://github.com/avast/Stor/issues/18,https://github.com/avast/Stor/issues/19
 Mashtree-0.33                           121971
 Glib-Object-Introspection-0.045         125375
 Gtk3-0.034                              125376
 Mojolicious-Plugin-Mailgun-0.07         https://github.com/marcusramberg/mojolicious-plugin-mailgun/issues/2
-Mojolicious-Plugin-PromiseActions-0.04  https://github.com/marcusramberg/mojolicious-plugin-promiseactions/issues/1
 PMLTQ-Suggest-0.0.2                     https://github.com/ufal/pmltq-suggest-server/issues/4,https://github.com/ufal/pmltq-suggest-server/issues/5
 PDL-2.019                               https://sourceforge.net/p/pdl/bugs/445/
 Net-Amazon-SNS-Signature-0.007          125381
@@ -3889,7 +3885,6 @@ XML-Sig-0.22                            125505
 WWW-Search-Ebay-Europe-2.018            125507
 Regexp-Compare-0.28                     125509
 Hush-0.03                               125521
-Lingua-Norms-SUBTLEX-0.06               125522
 Data-Printer-0.99_013                   https://github.com/garu/Data-Printer/issues/130
 Sah-Schemas-App-cryp-0.002              125528
 App-Docker-Client-0.010300              125529
