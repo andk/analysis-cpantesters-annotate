@@ -3961,3 +3961,4 @@ WWW-YNAB-0.01                           https://github.com/doy/www-ynab/issues/1
 Data-Printer-0.99_016                   https://github.com/garu/Data-Printer/issues/131
 HTML-Defang-1.06                        110663
 PkgConfig-LibPkgConf-0.08               https://github.com/plicease/PkgConfig-LibPkgConf/issues/6
+Pod-PseudoPod-DocBook-0.101             https://github.com/briandfoy/pod-pseudopod-docbook/issues/1
