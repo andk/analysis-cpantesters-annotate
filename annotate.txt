@@ -3961,3 +3961,6 @@ Config-Model-Approx-1.010               https://github.com/dod38fr/config-model-
 JSONize-0.1                             https://github.com/majensen/jsonize/issues/1
 Mojo-UserAgent-Role-Queued-0.04         https://github.com/dotandimet/Mojo-UserAgent-Role-Queued/issues/2
 WWW-YNAB-0.01                           https://github.com/doy/www-ynab/issues/1
+Data-Printer-0.99_016                   https://github.com/garu/Data-Printer/issues/131
+HTML-Defang-1.06                        110663
+PkgConfig-LibPkgConf-0.08               https://github.com/plicease/PkgConfig-LibPkgConf/issues/6
