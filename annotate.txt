@@ -3729,7 +3729,6 @@ a2pdf-1.13                              28152,124913
 Amon2-6.13                              https://github.com/tokuhirom/Amon/issues/123
 App-BigQuery-Importer-MySQL-0.024       https://github.com/myfinder/app-bigquery-importer-mysql/issues/6
 App-Memcached-Tool-v0.9.4               https://github.com/progrhyme/perl5-App-Memcached-Tool/issues/1
-DBIx-Fixture-Admin-0.15                 https://github.com/meru-akimbo/DBIx-Fixture-Admin/issues/15
 Inline-Awk-0.04                         https://rt.cpan.org/Ticket/Display.html?id=121648
 Module-Build-Pluggable-AuthorTests-0.01 124926
 Config-Model-2.118                      https://github.com/dod38fr/config-model/issues/16
