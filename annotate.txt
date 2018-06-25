@@ -3960,3 +3960,4 @@ Padre-Plugin-Vi-0.23                    125673
 Config-Model-Approx-1.010               https://github.com/dod38fr/config-model-approx/issues/1
 JSONize-0.1                             https://github.com/majensen/jsonize/issues/1
 Mojo-UserAgent-Role-Queued-0.04         https://github.com/dotandimet/Mojo-UserAgent-Role-Queued/issues/2
+WWW-YNAB-0.01                           https://github.com/doy/www-ynab/issues/1
