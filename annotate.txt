@@ -3959,3 +3959,9 @@ Test-WWW-Simple-0.39                    125651
 Algorithm-QuineMcCluskey-0.17           125391
 DBIx-Array-0.58                         125652
 POSIX-RT-Spawn-0.11                     125666
+Autodia-2.14                            125668
+Dancer2-Session-DatabasePlugin-1.0001   125670
+Padre-Plugin-Vi-0.23                    125673
+Config-Model-Approx-1.010               https://github.com/dod38fr/config-model-approx/issues/1
+JSONize-0.1                             https://github.com/majensen/jsonize/issues/1
+Mojo-UserAgent-Role-Queued-0.04         https://github.com/dotandimet/Mojo-UserAgent-Role-Queued/issues/2
