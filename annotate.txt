@@ -3931,7 +3931,6 @@ Mojolicious-Command-generate-DBIxCustomModel-1.0.2 125598
 Net-SMTP-Verify-1.03                    125600
 BerkeleyDB-0.55                         125605
 Monitoring-GLPlugin-3.0.2.6             124161
-Net-RDAP-0.1                            125617
 Sah-Schemas-URL-0.006                   125618
 IO-Termios-0.06                         125619
 GraphQL-Plugin-Convert-OpenAPI-0.12     https://github.com/graphql-perl/GraphQL-Plugin-Convert-OpenAPI/issues/3
