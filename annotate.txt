@@ -3962,3 +3962,6 @@ HTML-Defang-1.06                        110663
 PkgConfig-LibPkgConf-0.08               https://github.com/plicease/PkgConfig-LibPkgConf/issues/6
 Pod-PseudoPod-DocBook-0.101             https://github.com/briandfoy/pod-pseudopod-docbook/issues/1
 Net-RDAP-0.5                            125693
+DataTables-0.06                         125276
+Iterator-Paged-1.001                    125683
+Proc-ProcessTable-Colorizer-0.2.0       125692
