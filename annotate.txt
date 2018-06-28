@@ -3809,7 +3809,6 @@ Analizo-1.21.0                          https://github.com/analizo/analizo/issue
 Geo-Coder-XYZ-0.08                      125254
 CPAN-Testers-WWW-Reports-Query-Report-0.05 125259
 Lab-Measurement-3.640                   https://github.com/lab-measurement/Lab-Measurement/issues/25
-DataTables-0.05                         125276
 Module-FromPerlVer-0.022001             125253
 Model-Envoy-0.1                         125277
 Devel-Debug-DBGp-0.21                   https://github.com/mbarbon/perl-remote-debugging-client/issues/3
