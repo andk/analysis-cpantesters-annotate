@@ -3689,7 +3689,6 @@ Text-Unaccent-1.08                      21177
 Kavorka-0.037                           109841,124827
 MooseX-XSAccessor-0.008                 124835
 App-CSE-0.013                           124839
-Bio-Gonzales-0.078                      124840
 HTML-Tidy5-1.00                         https://github.com/petdance/html-tidy5/issues/4
 Bio-PhyloXS-v0.1.0                      https://github.com/rvosa/bio-phylo-xs/issues/7,https://github.com/rvosa/bio-phylo-xs/issues/8
 circle-fe-term-0.173170                 124848
@@ -3831,7 +3830,6 @@ Evo-0.0405                              https://github.com/alexbyk/perl-evo/issu
 Graph-Maker-0.02                        108992
 B-DeparseTree-v3.1.0                    125407
 AWS-CLIWrapper-1.14                     125410
-Class-Generate-1.16                     125393
 Crypt-Sodium-0.11                       125394
 Test-Spec-Acceptance-0.01               https://github.com/meis/Test-Spec-Acceptance/issues/1
 TaskPipe-0.04                           125411
@@ -3856,7 +3854,6 @@ Geo-Coder-CA-0.08                       125462,125463
 Google-GeoCoder-Smart-v2.0.1            125464
 Lexical-Types-0.16                      https://rt.perl.org/Ticket/Display.html?id=132385,125465
 Mojolicious-Plugin-JSONAPI-1.5          125470
-Test2-Tools-HTTP-UA-Mojo-0.02           https://github.com/plicease/Test2-Tools-HTTP-UA-Mojo/issues/1
 Mojolicious-Plugin-SessionStorage-0.1.6 125187
 Sah-Schemas-Net-0.004                   125476
 Data-Sah-0.891                          125478
