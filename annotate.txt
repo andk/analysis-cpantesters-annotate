@@ -1705,7 +1705,6 @@ Mojolicious-Plugin-ForkAndGo-0.01       113586
 WebService-TeamCity-0.03                https://github.com/maxmind/WebService-TeamCity/issues/1
 MooseX-Params-0.010                     113600
 SOAP-WSDL-3.003                         71679
-Iterator-Paged-1.001                    77712
 Sweet-Home-0.06                         https://github.com/fibo/Sweet-Home-pm/issues/2
 Net-BaruwaAPI-0.04                      113707
 AnyEvent-Eris-0.000001                  https://github.com/xsawyerx/anyevent-eris/issues/12
@@ -3963,5 +3962,5 @@ PkgConfig-LibPkgConf-0.08               https://github.com/plicease/PkgConfig-Li
 Pod-PseudoPod-DocBook-0.101             https://github.com/briandfoy/pod-pseudopod-docbook/issues/1
 Net-RDAP-0.5                            125693
 DataTables-0.06                         125276
-Iterator-Paged-1.001                    125683
+Iterator-Paged-1.001                    77712,125683
 Proc-ProcessTable-Colorizer-0.2.0       125692
