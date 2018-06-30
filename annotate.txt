@@ -3960,3 +3960,4 @@ Net-RDAP-0.5                            125693
 DataTables-0.06                         125276
 Iterator-Paged-1.001                    77712,125683
 Proc-ProcessTable-Colorizer-0.2.0       125692
+WWW-Pastebin-PastebinCa-Retrieve-1.001002 https://github.com/zoffixznet/WWW-Pastebin-PastebinCa-Retrieve/issues/3
