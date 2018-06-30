@@ -3961,3 +3961,7 @@ DataTables-0.06                         125276
 Iterator-Paged-1.001                    77712,125683
 Proc-ProcessTable-Colorizer-0.2.0       125692
 WWW-Pastebin-PastebinCa-Retrieve-1.001002 https://github.com/zoffixznet/WWW-Pastebin-PastebinCa-Retrieve/issues/3
+Ryu-Async-0.009                         123430,https://github.com/team-at-cpan/Ryu-Async/issues/2
+grpc-xs-0.10                            125710
+Data-Edit-Xml-SDL-20170809              125717
+Webservice-Judobase-0.001-TRIAL         https://github.com/lancew/Webservice-Judobase/issues/6
