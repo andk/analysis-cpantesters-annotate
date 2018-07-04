@@ -3965,3 +3965,6 @@ Ryu-Async-0.009                         123430,https://github.com/team-at-cpan/R
 grpc-xs-0.10                            125710
 Data-Edit-Xml-SDL-20170809              125717
 Webservice-Judobase-0.001-TRIAL         https://github.com/lancew/Webservice-Judobase/issues/6
+Test-VCR-LWP-0.5                        125719,125720
+URI-Fast-0.35_6                         https://github.com/sysread/URI-Fast/issues/14
+MooX-Enumeration-0.002                  125748
