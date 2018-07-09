@@ -3371,7 +3371,6 @@ AnyEvent-HTTP-2.23                      https://rt.perl.org/Public/Bug/Display.h
 Devel-TraceMethods-1.00                 123667
 Log-Trace-1.070                         49409,https://rt.perl.org/Public/Bug/Display.html?id=132252
 Prima-1.52                              https://rt.perl.org/Public/Bug/Display.html?id=132252
-OpenAPI-Client-0.11                     123394
 Perl-Critic-More-1.003                  123847
 App-CharmKit-2.08                       undeclared dependency, no issue tracker
 Alien-LZO-0.02                          123851
@@ -3697,7 +3696,6 @@ Text-Truncate-1.06                      98445,121150
 Devel-PerlySense-0.0219                 124853
 ORLite-1.98                             123867,124854
 Perinci-CmdLine-Inline-0.541            124858
-Search-Xapian-1.2.25.0                  124860
 Git-ObjectStore-0.007                   https://github.com/ssinyagin/p5-Git-ObjectStore/issues/2
 Mojolicious-Plugin-GetSentry-1.1.4      124865
 Net-Google-DataAPI-0.2805               124866
