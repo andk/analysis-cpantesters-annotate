@@ -2872,7 +2872,6 @@ Devel-MAT-0.25                          114581
 XRI-Resolution-Lite-0.04                probably temporary network/server failure,120780
 Business-OnlinePayment-Vindicia-Select-0.002 120948
 Sys-Prctl-1.02                          120911
-X11-Xlib-0.12                           121010
 Contextual-Return-0.004012              121092
 App-UnifdefPlus-0.005.005               121135
 B-Tree-0.02                             84137
@@ -3943,7 +3942,6 @@ POSIX-RT-Spawn-0.11                     125666
 Autodia-2.14                            125668
 Dancer2-Session-DatabasePlugin-1.0001   125670
 Padre-Plugin-Vi-0.23                    125673
-Config-Model-Approx-1.010               https://github.com/dod38fr/config-model-approx/issues/1
 JSONize-0.1                             https://github.com/majensen/jsonize/issues/1
 Mojo-UserAgent-Role-Queued-0.04         https://github.com/dotandimet/Mojo-UserAgent-Role-Queued/issues/2
 WWW-YNAB-0.01                           https://github.com/doy/www-ynab/issues/1
