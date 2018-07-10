@@ -1739,7 +1739,6 @@ Text-TransMetaphone-0.07                114007
 Digest-Skein-0.05                       113998,https://github.com/Perl-Toolchain-Gang/ExtUtils-MakeMaker/pull/266
 Time-HiRes-Sleep-Until-0.07             114031
 Alien-Judy-0.27                         98693
-Bio-ToolBox-1.36                        114093
 DateTimeX-Format-Ago-0.005              102423
 Zwoelf-Hash-Union-0.1                   114099
 Test-Able-0.11                          https://github.com/schwern/test-more/issues/302,https://github.com/schwern/test-more/issues/652
@@ -3754,7 +3753,6 @@ Net-Jabber-Loudmouth-0.07               95339
 Device-Chip-Adapter-CH341A-0.02         124608
 SOAP-Lite-Simple-1.9                    125017
 App-Jiffy-0.06                          https://github.com/lejeunerenard/jiffy/issues/8
-Rstats-0.0149                           https://github.com/yuki-kimoto/Rstats/issues/4
 Compress-Raw-Lzma-2.081                 125046
 Finance-Robinhood-0.9.0_001             https://github.com/sanko/Finance-Robinhood/issues/3
 IO-Compress-Lzf-2.081                   91419
@@ -3857,7 +3855,6 @@ Moxie-0.07                              https://github.com/stevan/p5-Moxie/issue
 Net-OAuth-0.28                          125482
 pmtools-2.2.0                           124784
 Template-Plugin-Filter-IDN-0.02         https://github.com/mschout/perl-template-plugin-filter-idn/issues/1
-URL-Normalize-0.38                      https://github.com/toreau/URL-Normalize/issues/4
 MooseX-BuildArgs-0.05                   https://github.com/bluefeet/MooseX-BuildArgs/issues/2
 Mojo-APNS-1.00                          https://github.com/jhthorsen/mojo-apns/issues/8
 Mojo-SMTP-Client-0.15                   125483
