@@ -3966,3 +3966,5 @@ OpenAPI-Client-0.16                     https://github.com/jhthorsen/openapi-cli
 XAO-Base-1.18                           125768
 Module-Install-Bugtracker-0.0304        125799
 Search-Xapian-1.2.25.1                  compile error on many systems
+Net-EGTS-0.01                           https://github.com/dr-co/Net-EGTS/issues/1
+TestML-0.54_01                          https://github.com/ingydotnet/testml-pm/issues/12
