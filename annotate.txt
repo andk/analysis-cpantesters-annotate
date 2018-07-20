@@ -3967,3 +3967,4 @@ Net-EGTS-0.01                           https://github.com/dr-co/Net-EGTS/issues
 TestML-0.54_01                          https://github.com/ingydotnet/testml-pm/issues/12
 Config-HAProxy-1.00                     125827,125828
 Games-ABC_Path-Generator-0.4.0          bugtracker is a 404; dependency declarations on Getopt::Long and Pod::Usage too low
+Mojolicious-Plugin-AssetPack-2.04       https://github.com/jhthorsen/mojolicious-plugin-assetpack/issues/136
