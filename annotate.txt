@@ -3677,7 +3677,6 @@ Locale-CLDR-v0.32.0-TRIAL2              https://github.com/ThePilgrim/perlcldr/i
 Net-Async-Redis-1.005                   https://github.com/team-at-cpan/Net-Async-Redis/issues/5
 Mailru-Cloud-0.02                       https://github.com/vrag86/perl-mailru-cloud-api/issues/1
 Mojo-IOLoop-ReadWriteFork-0.36          https://github.com/jhthorsen/mojo-ioloop-readwritefork/issues/11
-Test2-Harness-0.001058                  https://github.com/Test-More/Test2-Harness/issues/53
 Reddit-Client-1.20                      124767
 Test2-Tools-xUnit-0.003                 https://github.com/cv-library/Test2-Tools-xUnit/issues/1
 Time-HiRes-1.9755                       124775
@@ -3930,7 +3929,6 @@ EventStore-Tiny-0.22                    https://github.com/memowe/EventStore-Tin
 Class-STL-Containers-0.37               125650
 Devel-KYTProf-Logger-XRay-0.02          https://github.com/fujiwara/Devel-KYTProf-Logger-XRay/issues/1
 Module-Extract-DeclaredVersion-1.021    https://github.com/briandfoy/module-extract-declaredversion/issues/1
-OpusVL-Preferences-0.30                 https://github.com/OpusVL/OpusVL-Preferences/issues/1
 Test-WWW-Simple-0.39                    125651
 Algorithm-QuineMcCluskey-0.17           125391
 DBIx-Array-0.58                         125652
