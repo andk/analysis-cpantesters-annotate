@@ -3719,7 +3719,6 @@ Games-Go-Sgf2Dg-4.252                   124905
 Unicode-Support-0.001                   79669,124907
 UnicornEngine-0.05                      124908
 a2pdf-1.13                              28152,124913
-Amon2-6.13                              https://github.com/tokuhirom/Amon/issues/123
 App-BigQuery-Importer-MySQL-0.024       https://github.com/myfinder/app-bigquery-importer-mysql/issues/6
 App-Memcached-Tool-v0.9.4               https://github.com/progrhyme/perl5-App-Memcached-Tool/issues/1
 Inline-Awk-0.04                         https://rt.cpan.org/Ticket/Display.html?id=121648
@@ -3972,7 +3971,7 @@ Test2-Harness-0.001067                  https://github.com/Test-More/Test2-Harne
 Elasticsearch-Model-0.1.4               125898
 Mew-1.002001                            https://github.com/zoffixznet/Mew/issues/5
 Katsubushi-Client-0.2                   https://github.com/kayac/p5-Katsubushi-Client/issues/6
-Amon2-6.13                              https://github.com/tokuhirom/Amon/issues/125
+Amon2-6.13                              https://github.com/tokuhirom/Amon/issues/123,https://github.com/tokuhirom/Amon/issues/125
 Data-Chronicle-0.19                     https://github.com/binary-com/perl-Data-Chronicle/issues/31
 DBIx-Sunny-0.9991                       https://github.com/kazeburo/DBIx-Sunny/issues/15,https://github.com/kazeburo/DBIx-Sunny/issues/16
 Git-LowLevel-0.1                        125938
