@@ -3971,3 +3971,4 @@ Mojolicious-Plugin-AssetPack-2.04       https://github.com/jhthorsen/mojolicious
 Test2-Harness-0.001067                  https://github.com/Test-More/Test2-Harness/issues/82
 Elasticsearch-Model-0.1.4               125898
 Mew-1.002001                            https://github.com/zoffixznet/Mew/issues/5
+Katsubushi-Client-0.2                   https://github.com/kayac/p5-Katsubushi-Client/issues/6
