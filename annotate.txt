@@ -3976,3 +3976,5 @@ Git-LowLevel-0.1                        125938
 OpusVL-Preferences-0.31                 https://github.com/OpusVL/OpusVL-Preferences/issues/1
 Sport-Analytics-NHL-1.20                125941
 Test2-Harness-0.001068                  https://github.com/Test-More/Test2-Harness/issues/82
+JavaScript-Duktape-XS-0.000069          125950
+Google-Ads-AdWords-Client-5.5.0         118509
