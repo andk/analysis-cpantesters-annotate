@@ -3978,3 +3978,4 @@ Sport-Analytics-NHL-1.20                125941
 Test2-Harness-0.001068                  https://github.com/Test-More/Test2-Harness/issues/82
 JavaScript-Duktape-XS-0.000069          125950
 Google-Ads-AdWords-Client-5.5.0         118509
+LWP-ConsoleLogger-0.000038              https://github.com/oalders/lwp-consolelogger/issues/13
