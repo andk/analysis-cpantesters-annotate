@@ -3981,3 +3981,4 @@ dategrep-2.00                           https://github.com/mdom/dategrep/issues/
 Ryu-Async-0.010                         https://github.com/team-at-cpan/Ryu-Async/issues/2
 Alien-TinyCC-0.06                       https://github.com/run4flat/Alien-TinyCC/issues/11
 Future-HTTP-0.09                        126012
+Net-Async-FTP-0.08                      126038
