@@ -3986,4 +3986,4 @@ WebService-Hexonet-Connector-1.11       126013
 overload-x-0.101                        126042
 Mojo-WebSocketProxy-0.10                https://github.com/binary-com/perl-Mojo-WebSocketProxy/issues/38
 App-ygeo-0.02                           126283
-Babble-0.090002                         126285
+Babble-0.090005                         126285
