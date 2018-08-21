@@ -2507,7 +2507,6 @@ CPAN-SQLite-0.211                       117853
 Sub-Lvalue-0.01                         117868
 Statistics-Test-WilcoxonRankSum-0.0.7   117869,117870
 Prima-IPA-1.09                          117871
-Babble-0.07                             113967
 Bison-0.05                              95931
 Catalyst-Plugin-CDBI-Transaction-0.03   117873
 Class-RDF-0.20                          117875
@@ -3040,7 +3039,6 @@ JavaScript-Duktape-2.1.5                https://github.com/mamod/JavaScript-Dukt
 AnyEvent-Radius-1.1.0                   121940
 Mail-Builder-2.13                       118885
 Mojar-Message-1.102                     https://github.com/niczero/mojar-message/issues/2
-Mojo-WebSocketProxy-0.06                https://github.com/binary-com/perl-Mojo-WebSocketProxy/issues/15
 PDL-CCS-1.23.3                          121952
 CSS-Sass-3.4.6                          https://github.com/sass/perl-libsass/issues/31
 File-CounterSS-0.01                     121989
