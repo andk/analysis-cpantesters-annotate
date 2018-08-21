@@ -3987,3 +3987,5 @@ overload-x-0.101                        126042
 Mojo-WebSocketProxy-0.10                https://github.com/binary-com/perl-Mojo-WebSocketProxy/issues/38
 App-ygeo-0.02                           126283
 Babble-0.090005                         126285
+Archive-Zip-1.62                        126905
+Lexical-TypeTiny-0.002                  126912
