@@ -3990,3 +3990,4 @@ Lexical-TypeTiny-0.002                  126912
 Amazon-S3-Thin-0.22                     https://github.com/DQNEO/Amazon-S3-Thin/issues/25
 Sah-Schemas-ISBN-0.003                  126933
 SockJS-0.04                             https://github.com/vti/sockjs-perl/issues/8
+Test2-Harness-0.001069                  https://github.com/Test-More/Test2-Harness/issues/90
