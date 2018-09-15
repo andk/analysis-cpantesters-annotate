@@ -3998,3 +3998,5 @@ Mojolicious-Plugin-OAuth2-1.55          127076
 DBD-mysql-4.047                         https://github.com/perl5-dbi/DBD-mysql/issues/262
 Data-Grid-0.04                          https://github.com/doriantaylor/p5-data-grid/issues/1
 Catalyst-Runtime-5.90118                127050,127096
+Log-Log4perl-Shortcuts-0.019            https://github.com/sdondley/Log-Log4perl-Shortcuts/issues/2
+DBD-mysql-4.048                         https://github.com/perl5-dbi/DBD-mysql/issues/262
