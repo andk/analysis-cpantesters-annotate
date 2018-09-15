@@ -3993,3 +3993,4 @@ Number-Phone-JP-0.20180904              96155
 Sah-Schemas-ISBN-0.004                  126933
 SPVM-0.0369                             127069
 App-Cleo-Patra-0.001                    127078
+Weasel-0.14                             https://github.com/perl-weasel/weasel/issues/18
