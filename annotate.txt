@@ -3994,3 +3994,7 @@ Sah-Schemas-ISBN-0.004                  126933
 SPVM-0.0369                             127069
 App-Cleo-Patra-0.001                    127078
 Weasel-0.14                             https://github.com/perl-weasel/weasel/issues/18
+Mojolicious-Plugin-OAuth2-1.55          127076
+DBD-mysql-4.047                         https://github.com/perl5-dbi/DBD-mysql/issues/262
+Data-Grid-0.04                          https://github.com/doriantaylor/p5-data-grid/issues/1
+Catalyst-Runtime-5.90118                127050,127096
