@@ -4000,3 +4000,4 @@ Log-Log4perl-Shortcuts-0.019            https://github.com/sdondley/Log-Log4perl
 DBD-mysql-4.048                         https://github.com/perl5-dbi/DBD-mysql/issues/262
 BSD-Sysctl-0.11                         127121
 FB3-Convert-0.13                        127150
+Context-Singleton-1.0.4                 127155
