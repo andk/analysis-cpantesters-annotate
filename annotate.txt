@@ -4003,3 +4003,4 @@ App-Git-Workflow-v1.1.0                 https://github.com/ivanwills/git-workflo
 Google-Ads-AdWords-Client-5.6.0         118509
 DBIx-Array-0.62                         127167
 MediaWiki-API-0.41                      127168
+Perinci-CmdLine-Inline-0.543            127175
