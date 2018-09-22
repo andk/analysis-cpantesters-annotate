@@ -3923,7 +3923,6 @@ Devel-KYTProf-Logger-XRay-0.02          https://github.com/fujiwara/Devel-KYTPro
 Module-Extract-DeclaredVersion-1.021    https://github.com/briandfoy/module-extract-declaredversion/issues/1
 Test-WWW-Simple-0.39                    125651
 Algorithm-QuineMcCluskey-0.17           125391
-DBIx-Array-0.58                         125652
 POSIX-RT-Spawn-0.11                     125666
 Autodia-2.14                            125668
 Dancer2-Session-DatabasePlugin-1.0001   125670
@@ -3966,7 +3965,6 @@ Git-LowLevel-0.1                        125938
 OpusVL-Preferences-0.31                 https://github.com/OpusVL/OpusVL-Preferences/issues/1
 Sport-Analytics-NHL-1.20                125941
 JavaScript-Duktape-XS-0.000069          125950
-Google-Ads-AdWords-Client-5.5.0         118509
 LWP-ConsoleLogger-0.000038              https://github.com/oalders/lwp-consolelogger/issues/13
 Net-SugarCRM-3.310000                   125997
 App-cryp-arbit-0.003                    126001
