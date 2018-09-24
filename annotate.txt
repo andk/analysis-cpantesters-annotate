@@ -2482,7 +2482,6 @@ Devel-DProf-20110802.00                 70629
 Math-Modular-SquareRoot-1.001           117780
 Perl6-Form-0.05                         117781
 Poker-Eval-0.03                         111046
-Test-Fake-HTTPD-0.07                    117788
 Captcha-reCAPTCHA-0.98                  117790
 WebService-NotifyMyAndroid-0.0.6        117791
 Net-SAML2-0.18                          117797
@@ -2683,7 +2682,6 @@ I22r-Translate-Microsoft-0.96           118790
 MooseX-CurriedDelegation-0.003          https://github.com/RsrchBoy/moosex-currieddelegation/issues/1
 Net-GNUDBSearch-1.01                    118820
 Business-OnlinePayment-Skipjack-0.05    118821
-WebService-MusicBrainz-0.94             118822
 CatalystX-ASP-1.06                      https://github.com/stvleung/CatalystX-ASP/issues/4
 Date-Manip-6.56                         https://rt.perl.org/Ticket/Display.html?id=130132,118862
 Test-HTTPStatus-2.001                   https://github.com/briandfoy/test-httpstatus/issues/2
