@@ -2785,7 +2785,6 @@ Sort-Naturally-XS-0.7.3                 119923
 InfluxDB-LineProtocol-1.009             111959
 Curses-UI-Grid-0.15                     119921
 Tk-EntryCheck-0.04                      119933
-Text-Bidi-2.12                          108739
 Sys-Info-Driver-Linux-0.7903            98099
 Ogg-Vorbis-Decoder-0.9                  119947
 Linux-Smaps-0.13                        104515,104515
@@ -3688,7 +3687,6 @@ MogileFS-Server-2.73                    116633
 Text-Truncate-1.06                      98445,121150
 Devel-PerlySense-0.0219                 124853
 ORLite-1.98                             123867,124854
-Perinci-CmdLine-Inline-0.541            124858
 Git-ObjectStore-0.007                   https://github.com/ssinyagin/p5-Git-ObjectStore/issues/2
 Mojolicious-Plugin-GetSentry-1.1.4      124865
 Net-Google-DataAPI-0.2805               124866
@@ -3988,7 +3986,6 @@ Test2-Harness-0.001069                  https://github.com/Test-More/Test2-Harne
 Stringify-Deep-0.03                     127010
 Number-Phone-JP-0.20180904              96155
 Sah-Schemas-ISBN-0.004                  126933
-SPVM-0.0369                             127069
 App-Cleo-Patra-0.001                    127078
 Weasel-0.14                             https://github.com/perl-weasel/weasel/issues/18
 Mojolicious-Plugin-OAuth2-1.55          127076
