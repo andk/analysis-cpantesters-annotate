@@ -121,7 +121,6 @@ Plack-Middleware-Auth-Digest-0.04       65912
 MySQL-Easy-PYH-0.01                     65958
 AnyMongo-0.03                           66148
 Dao-Map-Helper-0.04                     66161
-MongoDBx-AutoDeref-1.110560             66343
 JavaScript-Framework-jQuery-0.07        66586
 Catalyst-View-SVGTTGraph-0.02           66587
 Mediawiki-Blame-0.0.3                   66679
@@ -4025,7 +4024,7 @@ Glib-Object-Introspection-0.046         127205
 LinkEmbedder-1.00                       https://github.com/jhthorsen/linkembedder/issues/6
 Text-Bidi-2.15                          108739
 Eixo-Queue-0.5.7                        127206
-MongoDBx-AutoDeref-1.110560             127207
+MongoDBx-AutoDeref-1.110560             66343,127207
 MongoDBx-Tiny-0.04                      127208
 Mongoose-1.02                           https://github.com/rodrigolive/mongoose/issues/51
 MongooseX-JSMethod-0.01                 127209
