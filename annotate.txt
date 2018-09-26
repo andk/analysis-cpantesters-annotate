@@ -4020,3 +4020,12 @@ Mojolicious-Plugin-StripePayment-0.03   https://github.com/jhthorsen/mojolicious
 Mojolicious-Plugin-Toto-0.25            127201
 Mojolicious-Plugin-RenderSteps-0.06     https://github.com/marcusramberg/Mojolicious-Plugin-RenderSteps/issues/5
 Analizo-1.22.0                          https://github.com/analizo/analizo/issues/128
+Data-Localize-Storage-MongoDB-0.001     123751
+Glib-Object-Introspection-0.046         127205
+LinkEmbedder-1.00                       https://github.com/jhthorsen/linkembedder/issues/6
+Text-Bidi-2.15                          108739
+Eixo-Queue-0.5.7                        127206
+MongoDBx-AutoDeref-1.110560             127207
+MongoDBx-Tiny-0.04                      127208
+Mongoose-1.02                           https://github.com/rodrigolive/mongoose/issues/51
+MongooseX-JSMethod-0.01                 127209
