@@ -2986,7 +2986,6 @@ Mojolicious-Plugin-Authorization-1.05   https://github.com/byterock/mojolicious-
 App-vaporcalc-0.005004                  121479
 XML-Filter-NSNormalise-0.04             121480
 Alt-FFI-libffi-0.01                     https://github.com/plicease/Alt-FFI-libffi/issues/2,https://github.com/plicease/Alt-FFI-libffi/issues/3
-LinkEmbedder-0.05                       120901
 Mojar-Mysql-2.132                       https://github.com/niczero/mojar-mysql/issues/1
 App-GHPT-1.000002                       https://github.com/maxmind/App-GHPT/issues/7
 Music-Audioscrobbler-MPD-0.13           121592
@@ -4009,7 +4008,7 @@ Toadfarm-0.78                           https://github.com/jhthorsen/toadfarm/is
 Test-Clustericious-Cluster-0.38         deprecated
 Ado-0.935                               https://github.com/kberov/Ado/issues/112
 App-mojopaste-0.26                      https://github.com/jhthorsen/app-mojopaste/issues/15
-LinkEmbedder-0.05                       https://github.com/jhthorsen/linkembedder/issues/5
+LinkEmbedder-0.05                       120901,https://github.com/jhthorsen/linkembedder/issues/5
 Mojolicious-Command-generate-lexicon-0.997 127194
 Mojolicious-Command-generate-localplugin-0.01 https://github.com/reneeb/Mojolicious-Command-generate-localplugin/issues/1
 Mojolicious-Plugin-StaticLog-0.03       127195
