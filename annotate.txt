@@ -3796,7 +3796,6 @@ DBIx-Error-1.0.1                        125319
 WebService-Pokemon-0.04                 https://github.com/kianmeng/webservice-pokemon/issues/3
 Stor-1.2.0                              https://github.com/avast/Stor/issues/18,https://github.com/avast/Stor/issues/19
 Mashtree-0.33                           121971
-Glib-Object-Introspection-0.045         125375
 Gtk3-0.034                              125376
 Mojolicious-Plugin-Mailgun-0.07         https://github.com/marcusramberg/mojolicious-plugin-mailgun/issues/2
 PMLTQ-Suggest-0.0.2                     https://github.com/ufal/pmltq-suggest-server/issues/4,https://github.com/ufal/pmltq-suggest-server/issues/5
@@ -3994,7 +3993,6 @@ Google-Ads-AdWords-Client-5.6.0         118509
 DBIx-Array-0.62                         127167
 MediaWiki-API-0.41                      127168
 Perinci-CmdLine-Inline-0.543            127175
-Text-Bidi-2.14                          127183
 SPVM-0.0374                             127069
 WebService-MusicBrainz-1.0.4            118822
 WebService-Fake-0.002                   https://github.com/polettix/WebService-Fake/issues/3
@@ -4004,7 +4002,6 @@ Toadfarm-0.78                           https://github.com/jhthorsen/toadfarm/is
 Test-Clustericious-Cluster-0.38         deprecated
 Ado-0.935                               https://github.com/kberov/Ado/issues/112
 App-mojopaste-0.26                      https://github.com/jhthorsen/app-mojopaste/issues/15
-LinkEmbedder-0.05                       120901,https://github.com/jhthorsen/linkembedder/issues/5
 Mojolicious-Command-generate-lexicon-0.997 127194
 Mojolicious-Command-generate-localplugin-0.01 https://github.com/reneeb/Mojolicious-Command-generate-localplugin/issues/1
 Mojolicious-Plugin-StaticLog-0.03       127195
