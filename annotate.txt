@@ -3993,7 +3993,6 @@ Google-Ads-AdWords-Client-5.6.0         118509
 DBIx-Array-0.62                         127167
 MediaWiki-API-0.41                      127168
 Perinci-CmdLine-Inline-0.543            127175
-SPVM-0.0374                             127069
 WebService-MusicBrainz-1.0.4            118822
 WebService-Fake-0.002                   https://github.com/polettix/WebService-Fake/issues/3
 WWW-Proxy4FreeCom-1.004002              https://github.com/zoffixznet/WWW-Proxy4FreeCom/issues/3
@@ -4007,7 +4006,6 @@ Mojolicious-Command-generate-localplugin-0.01 https://github.com/reneeb/Mojolici
 Mojolicious-Plugin-StaticLog-0.03       127195
 MojoX-Dispatcher-Qooxdoo-Jsonrpc-0.96   deprecated
 Mongol-2.3                              126977
-Dist-Zilla-Plugin-UploadToStratopan-0.013 127199
 Email-Stuffer-TestLinks-0.02            127200
 Mojolicious-Plugin-Pingen-0.2.3         https://github.com/oetiker/mojolicious-plugin-pingen/issues/2
 Mojolicious-Plugin-PayPal-0.08          https://github.com/jhthorsen/mojolicious-plugin-paypal/issues/3
