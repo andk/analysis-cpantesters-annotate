@@ -4025,3 +4025,7 @@ MongoDBx-AutoDeref-1.110560             66343,127207
 MongoDBx-Tiny-0.04                      127208
 Mongoose-1.02                           https://github.com/rodrigolive/mongoose/issues/51
 MongooseX-JSMethod-0.01                 127209
+Dist-Zilla-Plugin-UploadToStratopan-0.014-TRIAL 127199
+Dpkg-1.19.1                             127217
+SPVM-0.0375                             127069
+Dist-Zilla-Plugin-Test-NoBOM-0.001      127218
