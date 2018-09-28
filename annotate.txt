@@ -4027,3 +4027,4 @@ Dist-Zilla-Plugin-UploadToStratopan-0.014-TRIAL 127199
 Dpkg-1.19.1                             127217
 SPVM-0.0375                             127069
 Dist-Zilla-Plugin-Test-NoBOM-0.001      127218
+HTML-DOM-0.058                          127251
