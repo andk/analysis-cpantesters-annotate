@@ -4028,3 +4028,6 @@ Dpkg-1.19.1                             127217
 SPVM-0.0375                             127069
 Dist-Zilla-Plugin-Test-NoBOM-0.001      127218
 HTML-DOM-0.058                          127251
+FB3-Convert-0.15                        127150
+Geo-WebService-Elevation-USGS-0.109     127252
+DataTables-0.07                         127254
