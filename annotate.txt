@@ -4029,3 +4029,7 @@ HTML-DOM-0.058                          127251
 FB3-Convert-0.15                        127150
 Geo-WebService-Elevation-USGS-0.109     127252
 DataTables-0.07                         127254
+Graphics-ColorNames-Netscape-v3.1.1     https://github.com/robrwo/Graphics-ColorNames-Netscape/issues/1
+Graphics-ColorNames-v3.1.0              127258
+Graphics-ColorNames-Werner-v1.0.1       https://github.com/robrwo/Graphics-ColorNames-Werner/issues/1
+OpenAPI-Client-0.20                     https://github.com/jhthorsen/openapi-client/issues/15
