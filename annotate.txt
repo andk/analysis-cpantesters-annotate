@@ -53,7 +53,6 @@ Text-ToSentences-0.91                   53313
 Arff-1.0                                53640
 catalyst-traitfor-controller-breadcrumb-followed-0.01 53641
 DBIx-Thin-0.05                          deleted from CPAN
-Graphics-ColorNames-2.11                there were wrong reports submitted
 API-ISPManager-0.07                     53750
 RPC-Lite-0.20                           53941
 Maypole-Config-YAML-0.1                 53999
@@ -3935,7 +3934,6 @@ Test-VCR-LWP-0.5                        125719,125720
 URI-Fast-0.35_6                         https://github.com/sysread/URI-Fast/issues/14
 MooX-Enumeration-0.002                  125748
 B-DeparseTree-v3.3.0                    125753
-OpenAPI-Client-0.16                     https://github.com/jhthorsen/openapi-client/issues/13
 XAO-Base-1.18                           125768
 Module-Install-Bugtracker-0.0304        125799
 Search-Xapian-1.2.25.1                  compile error on many systems
