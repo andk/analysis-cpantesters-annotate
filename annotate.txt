@@ -3925,7 +3925,6 @@ HTML-Defang-1.06                        110663
 PkgConfig-LibPkgConf-0.08               https://github.com/plicease/PkgConfig-LibPkgConf/issues/6
 Pod-PseudoPod-DocBook-0.101             https://github.com/briandfoy/pod-pseudopod-docbook/issues/1
 Net-RDAP-0.5                            125693
-DataTables-0.06                         125276
 Iterator-Paged-1.001                    77712,125683
 Proc-ProcessTable-Colorizer-0.2.0       125692
 WWW-Pastebin-PastebinCa-Retrieve-1.001002 https://github.com/zoffixznet/WWW-Pastebin-PastebinCa-Retrieve/issues/3
@@ -3986,7 +3985,6 @@ Catalyst-Runtime-5.90118                127050,127096
 Log-Log4perl-Shortcuts-0.019            https://github.com/sdondley/Log-Log4perl-Shortcuts/issues/2
 DBD-mysql-4.048                         https://github.com/perl5-dbi/DBD-mysql/issues/262
 BSD-Sysctl-0.11                         127121
-FB3-Convert-0.13                        127150
 Context-Singleton-1.0.4                 127155
 App-Git-Workflow-v1.1.0                 https://github.com/ivanwills/git-workflow-tools/issues/9
 Google-Ads-AdWords-Client-5.6.0         118509
