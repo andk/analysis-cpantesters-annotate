@@ -4031,3 +4031,8 @@ Graphics-ColorNames-Netscape-v3.1.1     https://github.com/robrwo/Graphics-Color
 Graphics-ColorNames-v3.1.0              127258
 Graphics-ColorNames-Werner-v1.0.1       https://github.com/robrwo/Graphics-ColorNames-Werner/issues/1
 OpenAPI-Client-0.20                     https://github.com/jhthorsen/openapi-client/issues/15
+Mojolicious-Command-generate-resources-0.21 https://github.com/kberov/Mojolicious-Command-generate-resources/issues/3
+Yancy-1.008                             https://github.com/preaction/Yancy/issues/18
+Mojolicious-Plugin-JSUrlFor-Angular-0.18 127259
+Mojolicious-Plugin-CHI-0.18             https://github.com/Akron/Mojolicious-Plugin-CHI/issues/7
+Image-Synchronize-1.2                   127261
