@@ -4036,3 +4036,9 @@ Yancy-1.008                             https://github.com/preaction/Yancy/issue
 Mojolicious-Plugin-JSUrlFor-Angular-0.18 127259
 Mojolicious-Plugin-CHI-0.18             https://github.com/Akron/Mojolicious-Plugin-CHI/issues/7
 Image-Synchronize-1.2                   127261
+WWW-Scrape-FindaGrave-0.06              127262
+IMDB-JSON-0.02                          127265
+Graphics-ColorNames-v3.1.1              127258
+Number-WithError-1.01                   127267
+Stor-1.5.2                              https://github.com/avast/Stor/issues/19
+Twitter-API-1.0004                      https://github.com/semifor/Twitter-API/issues/21
