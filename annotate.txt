@@ -1955,7 +1955,6 @@ Math-NumSeq-71                          116357
 Mojolicious-Plugin-Qaptcha-0.11         https://github.com/hrupprecht/Mojolicious-Plugin-Qaptcha/issues/2
 XML-Loy-0.42                            116363
 Dancer2-Plugin-HTTP-Auth-Extensible-0.121 116377
-DBIx-Mojo-Template-0.04                 116379
 Date-Japanese-Era-0.06                  116381
 Lingua-Slavic-Numbers-0.03              https://rt.perl.org/rt3/Ticket/Display.html?id=128139,116382
 URI-Find-Schemeless-Stricter-1.03       116383
@@ -3142,7 +3141,6 @@ IO-File-Log-1.01                        34778
 RDF-YAML-0.11                           122369
 Sub-Versive-0.01                        122370
 IPC-Transit-1.171860                    https://github.com/dana/perl-IPC-Transit/issues/2
-Git-MoreHooks-0.005                     122386
 App-Math-Tutor-0.005                    122392
 PDF-TableX-0.014                        122399
 RayApp-2.004                            113306
@@ -3946,7 +3944,6 @@ Katsubushi-Client-0.2                   https://github.com/kayac/p5-Katsubushi-C
 Amon2-6.13                              https://github.com/tokuhirom/Amon/issues/123,https://github.com/tokuhirom/Amon/issues/125
 Data-Chronicle-0.19                     https://github.com/binary-com/perl-Data-Chronicle/issues/31
 DBIx-Sunny-0.9991                       https://github.com/kazeburo/DBIx-Sunny/issues/15,https://github.com/kazeburo/DBIx-Sunny/issues/16
-Git-LowLevel-0.1                        125938
 OpusVL-Preferences-0.31                 https://github.com/OpusVL/OpusVL-Preferences/issues/1
 Sport-Analytics-NHL-1.20                125941
 JavaScript-Duktape-XS-0.000069          125950
@@ -4043,7 +4040,6 @@ Data-Context-v0.2.3                     127276
 Git-Hooks-2.9.6                         https://github.com/gnustavo/Git-Hooks/issues/56
 Git-MoreHooks-0.006                     127281
 Git-Repository-1.322                    127282
-DBIx-Mojo-Template-0.057                127283
 Git-XS-0.02                             127285
 Git-LowLevel-0.4                        125938
 MySQL-Workbench-DBIC-1.05               https://github.com/reneeb/MySQL-Workbench-DBIC/issues/3
