@@ -4046,3 +4046,6 @@ MySQL-Workbench-DBIC-1.05               https://github.com/reneeb/MySQL-Workbenc
 Net-SMTP-Verify-1.03                    125600,127296
 DBIx-Mojo-Template-0.060                127283
 Graphics-ColorObject-0.5.0              127300
+App-SlowQuitApps-0.000002               127298
+Kafka-Producer-Avro-0.01                https://github.com/alivraghi/Kafka-Producer-Avro/issues/2
+Confluent-SchemaRegistry-0.03           https://github.com/alivraghi/Confluent-SchemaRegistry/issues/1
