@@ -2696,7 +2696,6 @@ WebService-SmartyStreets-0.0105         https://github.com/aanari/WebService-Sma
 Bot-BasicBot-Pluggable-FromConfig-0.6   https://github.com/ungrim97/Bot-BasicBot-Pluggable-FromConfig/issues/2,https://github.com/ungrim97/Bot-BasicBot-Pluggable-FromConfig/issues/3
 Search-Fulltext-Tokenizer-Ngram-0.01    https://github.com/sekia/Search-Fulltext-Tokenizer-Ngram/issues/1
 Devel-cst-0.010                         114914
-WWW-Shopify-Liquid-0.06                 118969
 HTTP-Cookies-Mozilla-2.03               118975
 CPANPLUS-Test-Dummy-UsesScript-0.0004   118974
 Graphics-ColorNames-GrayScale-2.00      56120
