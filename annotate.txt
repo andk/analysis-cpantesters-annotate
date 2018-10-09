@@ -4054,3 +4054,6 @@ Net-Google-Drive-0.01                   https://github.com/vrag86/perl-net-googl
 Net-IPv6Addr-0.95                       127305
 WWW-Shopify-Liquid-0.08                 127306
 DataTables-0.07                         127254
+Mojolicious-Plugin-StaticLog-0.05       127195
+Dpkg-1.19.2                             127314
+App-MechaCPAN-0.24                      https://github.com/atrodo/App-MechaCPAN/issues/10
