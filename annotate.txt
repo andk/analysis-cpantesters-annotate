@@ -4053,3 +4053,5 @@ DataTables-0.07                         127254,127254
 Mojolicious-Plugin-StaticLog-0.05       127195
 Dpkg-1.19.2                             127314
 App-MechaCPAN-0.24                      https://github.com/atrodo/App-MechaCPAN/issues/10
+JSON-Patch-0.01                         127321
+WebService-Mattermost-0.001             127323
