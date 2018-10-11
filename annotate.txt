@@ -3981,7 +3981,6 @@ App-Git-Workflow-v1.1.0                 https://github.com/ivanwills/git-workflo
 Google-Ads-AdWords-Client-5.6.0         118509
 DBIx-Array-0.62                         127167
 MediaWiki-API-0.41                      127168
-Perinci-CmdLine-Inline-0.543            127175
 WebService-MusicBrainz-1.0.4            118822
 WebService-Fake-0.002                   https://github.com/polettix/WebService-Fake/issues/3
 WWW-Proxy4FreeCom-1.004002              https://github.com/zoffixznet/WWW-Proxy4FreeCom/issues/3
@@ -4038,7 +4037,6 @@ Git-Repository-1.322                    127282
 Git-XS-0.02                             127285
 Git-LowLevel-0.4                        125938
 MySQL-Workbench-DBIC-1.05               https://github.com/reneeb/MySQL-Workbench-DBIC/issues/3
-Net-SMTP-Verify-1.03                    125600,127296
 DBIx-Mojo-Template-0.060                127283
 Graphics-ColorObject-0.5.0              127300
 App-SlowQuitApps-0.000002               127298
