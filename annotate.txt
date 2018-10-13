@@ -4059,3 +4059,4 @@ Filesys-POSIX-0.9.19                    127334
 Hetula-Client-0.007                     https://github.com/kivilahtio/libhetula-client-perl/issues/3
 Net-SMTP-Verify-1.04                    125600
 File-Stamped-0.08                       127361,https://rt.perl.org/Ticket/Display.html?id=133585
+Parallel-Loops-0.08                     127362
