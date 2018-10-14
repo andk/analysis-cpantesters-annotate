@@ -4042,7 +4042,7 @@ Graphics-ColorObject-0.5.0              127300
 App-SlowQuitApps-0.000002               127298
 Kafka-Producer-Avro-0.01                https://github.com/alivraghi/Kafka-Producer-Avro/issues/2
 Confluent-SchemaRegistry-0.03           https://github.com/alivraghi/Confluent-SchemaRegistry/issues/1
-BSON-v1.8.1                             https://jira.mongodb.org/browse/PERL-1009
+BSON-v1.8.1                             https://jira.mongodb.org/browse/PERL-1009,https://rt.perl.org/Public/Bug/Display.html?id=133565
 Selenium-UserAgent-0.11                 https://github.com/gempesaw/Selenium-UserAgent/issues/4
 Net-Google-Drive-0.01                   https://github.com/vrag86/perl-net-google-drive/issues/2
 Net-IPv6Addr-0.95                       127305
@@ -4060,3 +4060,4 @@ Hetula-Client-0.007                     https://github.com/kivilahtio/libhetula-
 Net-SMTP-Verify-1.04                    125600
 File-Stamped-0.08                       127361,https://rt.perl.org/Ticket/Display.html?id=133585
 Parallel-Loops-0.08                     127362
+Catalyst-Runtime-5.90119                125843,https://rt.perl.org/Ticket/Display.html?id=133585
