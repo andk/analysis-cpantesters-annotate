@@ -4061,3 +4061,4 @@ Net-SMTP-Verify-1.04                    125600
 File-Stamped-0.08                       127361,https://rt.perl.org/Ticket/Display.html?id=133585
 Parallel-Loops-0.08                     127362
 Catalyst-Runtime-5.90119                125843,https://rt.perl.org/Ticket/Display.html?id=133585
+Mojolicious-Plugin-TtRenderer-1.59      https://github.com/plicease/Mojolicious-Plugin-TtRenderer/issues/47
