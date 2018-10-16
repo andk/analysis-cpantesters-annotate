@@ -3694,7 +3694,6 @@ WWW-Search-Ebay-3.048                   124894
 Log-Syslog-Fast-0.65                    113278,124895
 Alien-gettext-0.001                     124896
 JSPL-1.07                               124897,124898
-Data-Table-Text-20180324                124891
 Alien-LibUSB-0.2                        https://github.com/athreef/Alien-LibUSB/issues/1,https://github.com/athreef/Alien-LibUSB/issues/2
 Cv-0.29                                 124904
 Games-Go-Sgf2Dg-4.252                   124905
@@ -3972,7 +3971,6 @@ App-Cleo-Patra-0.001                    127078
 Weasel-0.14                             https://github.com/perl-weasel/weasel/issues/18
 Mojolicious-Plugin-OAuth2-1.55          127076
 Data-Grid-0.04                          https://github.com/doriantaylor/p5-data-grid/issues/1
-Catalyst-Runtime-5.90118                127050,127096
 Log-Log4perl-Shortcuts-0.019            https://github.com/sdondley/Log-Log4perl-Shortcuts/issues/2
 DBD-mysql-4.048                         https://github.com/perl5-dbi/DBD-mysql/issues/262
 BSD-Sysctl-0.11                         127121
