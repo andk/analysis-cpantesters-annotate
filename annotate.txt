@@ -4063,3 +4063,5 @@ Mojolicious-Plugin-TtRenderer-1.59      https://github.com/plicease/Mojolicious-
 Finance-SE-IDX-Any-0.001                127360
 Astro-SpaceTrack-0.119_01               127371
 Data-Table-Text-20181015                127374
+CPAN-Audit-0.06                         https://github.com/vti/cpan-audit/issues/6
+CPAN-Mini-ProjectDocs-0.03.9            127381
