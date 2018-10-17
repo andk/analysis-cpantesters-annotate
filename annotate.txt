@@ -4006,7 +4006,6 @@ Text-Bidi-2.15                          108739
 Eixo-Queue-0.5.7                        127206
 MongoDBx-AutoDeref-1.110560             66343,127207
 MongoDBx-Tiny-0.04                      127208
-Mongoose-1.02                           https://github.com/rodrigolive/mongoose/issues/51
 MongooseX-JSMethod-0.01                 127209
 Dist-Zilla-Plugin-UploadToStratopan-0.014-TRIAL 127199
 SPVM-0.0375                             127069
@@ -4065,3 +4064,4 @@ Astro-SpaceTrack-0.119_01               127371
 Data-Table-Text-20181015                127374
 CPAN-Audit-0.06                         https://github.com/vti/cpan-audit/issues/6
 CPAN-Mini-ProjectDocs-0.03.9            127381
+Mongoose-2.00                           https://github.com/rodrigolive/mongoose/issues/55
