@@ -1794,7 +1794,6 @@ AnyEvent-Plackup-0.02                   https://github.com/motemen/perl5-AnyEven
 GoogleIDToken-Validator-0.02            114654
 Ark-Plugin-Authentication-0.01          https://github.com/ark-framework/Ark-Plugin-Authentication/issues/1
 Music-Abc-DT-0.01                       114655
-OAuth-Lite-1.34                         114657
 WWW-Shorten-SCK-0.5                     https://github.com/celogeek/WWW-Shorten-SCK/issues/3
 WebService-Validator-Feed-W3C-0.8       91598
 Shell-EnvImporter-1.07                  105478
@@ -4070,7 +4069,7 @@ Config-Model-2.127                      https://github.com/dod38fr/config-model/
 Config-Model-Xorg-1.113                 127387
 Makefile-DOM-0.008                      120809
 Makefile-GraphViz-0.21                  127388
-OAuth-Lite-1.34                         125359
+OAuth-Lite-1.34                         114657,125359
 POE-Component-IRC-Plugin-RTorrentStatus-0.17 127395
 Kasago-0.29                             127396
 MooseX-Workers-0.24                     127397
