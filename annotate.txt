@@ -3703,7 +3703,6 @@ App-BigQuery-Importer-MySQL-0.024       https://github.com/myfinder/app-bigquery
 App-Memcached-Tool-v0.9.4               https://github.com/progrhyme/perl5-App-Memcached-Tool/issues/1
 Inline-Awk-0.04                         https://rt.cpan.org/Ticket/Display.html?id=121648
 Module-Build-Pluggable-AuthorTests-0.01 124926
-Config-Model-2.118                      https://github.com/dod38fr/config-model/issues/16
 PlantUML-ClassDiagram-Parse-0.1         https://github.com/Kesin11/plantuml_class_digram_parse/issues/2
 Riji-v0.9.8                             https://github.com/Songmu/p5-Riji/issues/20
 Stacktrace-Configurable-0.06            https://github.com/tfoertsch/Stacktrace-Configurable/issues/1
