@@ -4077,3 +4077,4 @@ WWW-Mechanize-Plugin-AutoWrite-0.06     127399
 Finance-CoinbasePro-API-CLI-0.013       127410
 HTML-CalendarMonth-2.04                 127411
 Devel-Chitin-0.16                       127414
+Table-Simple-0.02                       127422
