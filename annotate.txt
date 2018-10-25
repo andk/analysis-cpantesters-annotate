@@ -1889,7 +1889,6 @@ WWW-Scripter-Plugin-JavaScript-0.008a   110763
 Net-Address-Ethernet-1.123              110772
 Dist-Zilla-Plugin-CheckPrereqsIndexed-0.017 https://github.com/rjbs/Dist-Zilla-Plugin-CheckPrereqsIndexed/issues/19
 Date-Easy-0.01                          https://github.com/barefootcoder/date-easy/issues/2
-HTML-CalendarMonth-2.03                 113513
 JSV-0.07                                https://github.com/zigorou/perl-JSV/issues/45
 Catmandu-LIDO-0.01                      https://github.com/LibreCat/Catmandu-LIDO/issues/1
 Test-DBIx-Class-Schema-1.0.9            https://github.com/chiselwright/test-dbix-class-schema/issues/12
@@ -2727,7 +2726,6 @@ Net-DNS-SPF-Expander-0.018              https://github.com/amiri/Net-DNS-SPF-Exp
 Algorithm-LDA-0.03                      119317
 Fabnewsru-Parser-0.01                   https://github.com/pavelsr/Fabnews-Parser/issues/1
 LWP-UserAgent-Caching-Simple-0.02       119344
-Badger-0.12                             119422
 List-Pairwise-1.03                      https://rt.perl.org/Ticket/Display.html?id=130385
 Method-Signatures-20160315              https://rt.perl.org/Ticket/Display.html?id=130398
 Scalar-Does-0.202                       119030
@@ -3512,7 +3510,6 @@ Math-WalshTransform-1.17                122909
 CatalystX-I18N-1.14                     124078,100351
 Sys-Syscall-0.25                        124139
 App-ClusterSSH-4.13                     https://github.com/duncs/clusterssh/issues/102
-File-Slurp-9999.19                      88968
 IO-Socket-SSL-2.052                     124141
 Class-MethodMaker-2.24                  124104
 Data-Sah-JS-0.87                        124148
@@ -3520,7 +3517,6 @@ MarpaX-Languages-PowerBuilder-0.01      124145
 WWW-xkcd-0.008                          https://github.com/xsawyerx/www-xkcd/issues/3
 Zonemaster-LDNS-1.0.2                   https://github.com/dotse/zonemaster-ldns/issues/10
 Clustericious-1.27                      https://github.com/clustericious/Clustericious/issues/45
-Devel-Chitin-0.13                       124153
 Devel-Size-0.81                         124105
 App-bovespa-0.003                       121335
 CSS-DOM-0.16                            124156
@@ -3542,7 +3538,6 @@ Test-Instance-Apache-0.001              https://github.com/TBSliver/Test-Instanc
 QBit-Application-Model-DB-0.026         123516,https://github.com/QBitFramework/QBit-Application-Model-DB/issues/28
 QBit-Application-Model-DB-clickhouse-0.007 123073
 XS-Logger-0.003                         https://github.com/atoomic/XS-Logger/issues/1
-Prty-1.122                              124195
 Business-YQL-0.0004                     124215
 WebService-Yamli-0.003                  https://github.com/athreef/WebService-Yamli/issues/1
 Module-CPANTS-ProcessCPAN-0.77          124220
@@ -4021,7 +4016,6 @@ Mojolicious-Plugin-CHI-0.18             https://github.com/Akron/Mojolicious-Plu
 Image-Synchronize-1.2                   127261
 WWW-Scrape-FindaGrave-0.06              127262
 IMDB-JSON-0.02                          127265
-Graphics-ColorNames-v3.1.1              127258
 Number-WithError-1.01                   127267
 Stor-1.5.2                              https://github.com/avast/Stor/issues/19
 Twitter-API-1.0004                      https://github.com/semifor/Twitter-API/issues/21
@@ -4083,7 +4077,6 @@ Badger-0.13                             119422,127427
 File-Slurp-9999.23                      117005
 Overload-FileCheck-0.002                https://github.com/CpanelInc/Overload-FileCheck/issues/5
 Prty-1.125                              127428
-Test-MockFile-0.001                     127429
 Graphics-ColorNames-v3.3.0              127430
 Path-ExpandTilde-0.001                  https://github.com/Grinnz/Path-ExpandTilde/issues/1
 Astro-FITS-CFITSIO-1.12                 127312
