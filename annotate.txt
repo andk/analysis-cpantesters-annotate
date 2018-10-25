@@ -4079,3 +4079,12 @@ HTML-CalendarMonth-2.04                 127411
 Devel-Chitin-0.16                       127414
 Table-Simple-0.02                       127422
 Dancer2-Session-CHI-0.02                https://github.com/cromedome/dancer2-session-chi/issues/2
+Badger-0.13                             119422,127427
+File-Slurp-9999.23                      117005
+Overload-FileCheck-0.002                https://github.com/CpanelInc/Overload-FileCheck/issues/5
+Prty-1.125                              127428
+Test-MockFile-0.001                     127429
+Graphics-ColorNames-v3.3.0              127430
+Path-ExpandTilde-0.001                  https://github.com/Grinnz/Path-ExpandTilde/issues/1
+Astro-FITS-CFITSIO-1.12                 127312
+Test-MockFile-0.002                     https://github.com/CpanelInc/Test-MockFile/issues/5
