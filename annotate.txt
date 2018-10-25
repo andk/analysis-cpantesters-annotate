@@ -4010,7 +4010,6 @@ Graphics-ColorNames-Netscape-v3.1.1     https://github.com/robrwo/Graphics-Color
 Graphics-ColorNames-Werner-v1.0.1       https://github.com/robrwo/Graphics-ColorNames-Werner/issues/1
 OpenAPI-Client-0.20                     https://github.com/jhthorsen/openapi-client/issues/15
 Mojolicious-Command-generate-resources-0.21 https://github.com/kberov/Mojolicious-Command-generate-resources/issues/3
-Yancy-1.008                             https://github.com/preaction/Yancy/issues/18
 Mojolicious-Plugin-JSUrlFor-Angular-0.18 127259
 Mojolicious-Plugin-CHI-0.18             https://github.com/Akron/Mojolicious-Plugin-CHI/issues/7
 Image-Synchronize-1.2                   127261
@@ -4059,7 +4058,6 @@ CPAN-Mini-ProjectDocs-0.03.9            127381
 Mongoose-2.00                           https://github.com/rodrigolive/mongoose/issues/55
 Test-Legal-0.10                         127385
 Config-Model-2.127                      https://github.com/dod38fr/config-model/issues/22
-Config-Model-Xorg-1.113                 127387
 Makefile-DOM-0.008                      120809
 Makefile-GraphViz-0.21                  127388
 OAuth-Lite-1.34                         114657,125359
@@ -4070,20 +4068,15 @@ Tk-PerlMethodList-0.07                  127398
 WWW-Mechanize-Plugin-AutoWrite-0.06     127399
 Finance-CoinbasePro-API-CLI-0.013       127410
 HTML-CalendarMonth-2.04                 127411
-Devel-Chitin-0.16                       127414
 Table-Simple-0.02                       127422
 Dancer2-Session-CHI-0.02                https://github.com/cromedome/dancer2-session-chi/issues/2
 Badger-0.13                             119422,127427
 File-Slurp-9999.23                      117005
-Overload-FileCheck-0.002                https://github.com/CpanelInc/Overload-FileCheck/issues/5
 Prty-1.125                              127428
 Graphics-ColorNames-v3.3.0              127430
 Path-ExpandTilde-0.001                  https://github.com/Grinnz/Path-ExpandTilde/issues/1
 Astro-FITS-CFITSIO-1.12                 127312
-Test-MockFile-0.002                     https://github.com/CpanelInc/Test-MockFile/issues/5
 CryptX-0.061                            https://github.com/DCIT/perl-CryptX/issues/46
-Test-MockFile-0.003                     https://github.com/CpanelInc/Test-MockFile/issues/6
-Yancy-1.009                             https://github.com/preaction/Yancy/issues/20
 Config-Model-Xorg-1.115                 127431
 Overload-FileCheck-0.003                https://github.com/CpanelInc/Overload-FileCheck/issues/6
 Crypt-RSA-1.99                          127436
