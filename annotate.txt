@@ -693,7 +693,6 @@ WWW-jsonip-0.001                        100842
 MooseX-MultiMethods-0.10                https://rt.perl.org/rt3/Ticket/Display.html?id=123213
 Text-Flow-0.01                          https://github.com/Test-More/test-more/issues/513
 Statistics-Basic-1.6609                 100943,99912,99970
-Module-Version-0.12                     100956
 Inline-CPP-0.69                         100982
 Switch-2.17                             96753
 Parse-MediaWikiDump-1.0.6               https://rt.perl.org/rt3/Ticket/Display.html?id=123462
@@ -3905,7 +3904,6 @@ Padre-Plugin-Vi-0.23                    125673
 JSONize-0.1                             https://github.com/majensen/jsonize/issues/1
 Mojo-UserAgent-Role-Queued-0.04         https://github.com/dotandimet/Mojo-UserAgent-Role-Queued/issues/2
 WWW-YNAB-0.01                           https://github.com/doy/www-ynab/issues/1
-Data-Printer-0.99_016                   https://github.com/garu/Data-Printer/issues/131
 HTML-Defang-1.06                        110663
 PkgConfig-LibPkgConf-0.08               https://github.com/plicease/PkgConfig-LibPkgConf/issues/6
 Pod-PseudoPod-DocBook-0.101             https://github.com/briandfoy/pod-pseudopod-docbook/issues/1
@@ -4082,7 +4080,6 @@ Overload-FileCheck-0.003                https://github.com/CpanelInc/Overload-Fi
 Crypt-RSA-1.99                          127436
 PomBase-Chobo-0.023                     https://github.com/pombase/chobo/issues/12
 Devel-Chitin-0.17                       127437,127438,127439
-Test-MockFile-0.005                     https://github.com/CpanelInc/Test-MockFile/issues/10
 XAO-Web-1.72                            127440
 Yancy-1.010                             https://github.com/preaction/Yancy/issues/21
 QBit-Application-Model-DBManager-0.021  127441
