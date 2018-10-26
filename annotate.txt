@@ -4089,3 +4089,14 @@ QBit-Application-Model-DBManager-0.021  127441
 Math-Pari-2.030507                      127442
 qbit-2.6                                127443
 QBit-WebInterface-Routing-0.009         127445
+Module-Version-0.13                     127128
+Net-LastFM-0.36                         127446
+CtrlO-PDF-0.01                          https://github.com/ctrlo/CtrlO-PDF/issues/2
+Net-Statsd-Client-Telegraf-0.1          https://github.com/pierre-vigier/Net-Statsd-Client-Telegraf/issues/1
+Data-Printer-0.99_020                   https://github.com/garu/Data-Printer/issues/136
+Alien-TidyHTML5-v0.1.1                  https://github.com/robrwo/Alien-TidyHTML5/issues/2
+Graphics-ColorNames-WWW-1.13            127455
+PDF-Builder-3.011                       127456
+Test-MockFile-0.007                     https://github.com/CpanelInc/Test-MockFile/issues/12
+Dist-Zilla-Plugin-Generate-ManifestSkip-v0.1.3 https://github.com/robrwo/Dist-Zilla-Plugin-Generate-ManifestSkip/issues/1
+Module-CGI-Install-0.07                 127460
