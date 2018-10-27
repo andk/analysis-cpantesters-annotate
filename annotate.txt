@@ -4100,3 +4100,4 @@ Sub-Fp-0.07                             127473,127474
 DBD-CSV-0.53                            https://github.com/perl5-dbi/DBD-CSV/issues/4
 Carp-Always-Color-0.08                  https://github.com/doy/carp-always-color/issues/3
 CGI-Application-Plugin-HTDot-0.07       127484
+WebService-GoogleAPI-Client-0.13        https://github.com/pscott-au/WebService-GoogleAPI-Client/issues/8
