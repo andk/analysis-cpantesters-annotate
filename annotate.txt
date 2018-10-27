@@ -859,7 +859,6 @@ Markapl-0.14                            106906
 Mojo-JSON-Any-0.990105                  101916
 Perl6-Contexts-0.4                      106908
 WebService-Shutterstock-0.006           https://github.com/shutterstock/WebService-Shutterstock/issues/6
-Net-Netmask-1.9022                      99184,https://rt.perl.org/Ticket/Display.html?id=122730
 Text-UnAbbrev-0.03                      105447
 IO-Async-Resolver-StupidCache-0.03      106961
 LWPx-ParanoidHandler-0.07               https://github.com/tokuhirom/LWPx-ParanoidHandler/issues/2
@@ -3746,7 +3745,6 @@ Alt-Module-Runtime-ButEUMM-0.001        https://rt.perl.org/Ticket/Display.html?
 Data-Edit-Xml-Lint-20180421             125166,125167
 Dist-Zilla-6.012                        https://github.com/rjbs/Dist-Zilla/issues/612
 Sub-Name-0.25-TRIAL                     125159
-YAML-PP-0.006_001                       https://github.com/perlpunk/YAML-PP-p5/issues/2
 BenchmarkAnything-Storage-Frontend-Tools-0.019 125180
 Devel-Events-0.09                       125182
 Keyword-API-0.0004                      125186
@@ -3924,7 +3922,6 @@ Config-HAProxy-1.00                     125827,125828
 Games-ABC_Path-Generator-0.4.0          bugtracker is a 404; dependency declarations on Getopt::Long and Pod::Usage too low
 Mojolicious-Plugin-AssetPack-2.04       https://github.com/jhthorsen/mojolicious-plugin-assetpack/issues/136
 Elasticsearch-Model-0.1.4               125898
-Mew-1.002001                            https://github.com/zoffixznet/Mew/issues/5
 Katsubushi-Client-0.2                   https://github.com/kayac/p5-Katsubushi-Client/issues/6
 Amon2-6.13                              https://github.com/tokuhirom/Amon/issues/123,https://github.com/tokuhirom/Amon/issues/125
 Data-Chronicle-0.19                     https://github.com/binary-com/perl-Data-Chronicle/issues/31
@@ -3962,7 +3959,6 @@ Data-Grid-0.04                          https://github.com/doriantaylor/p5-data-
 Log-Log4perl-Shortcuts-0.019            https://github.com/sdondley/Log-Log4perl-Shortcuts/issues/2
 DBD-mysql-4.048                         https://github.com/perl5-dbi/DBD-mysql/issues/262
 BSD-Sysctl-0.11                         127121
-Context-Singleton-1.0.4                 127155
 App-Git-Workflow-v1.1.0                 https://github.com/ivanwills/git-workflow-tools/issues/9
 Google-Ads-AdWords-Client-5.6.0         118509
 DBIx-Array-0.62                         127167
@@ -4000,7 +3996,6 @@ SPVM-0.0375                             127069
 Dist-Zilla-Plugin-Test-NoBOM-0.001      127218
 HTML-DOM-0.058                          127251
 FB3-Convert-0.15                        127150
-Geo-WebService-Elevation-USGS-0.109     127252
 Graphics-ColorNames-Netscape-v3.1.1     https://github.com/robrwo/Graphics-ColorNames-Netscape/issues/1
 Graphics-ColorNames-Werner-v1.0.1       https://github.com/robrwo/Graphics-ColorNames-Werner/issues/1
 OpenAPI-Client-0.20                     https://github.com/jhthorsen/openapi-client/issues/15
