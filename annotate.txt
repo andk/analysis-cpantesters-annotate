@@ -4101,3 +4101,10 @@ DBD-CSV-0.53                            https://github.com/perl5-dbi/DBD-CSV/iss
 Carp-Always-Color-0.08                  https://github.com/doy/carp-always-color/issues/3
 CGI-Application-Plugin-HTDot-0.07       127484
 WebService-GoogleAPI-Client-0.13        https://github.com/pscott-au/WebService-GoogleAPI-Client/issues/8
+WebService-Hatena-BookmarkCount-0.07    127481
+Hopkins-0.9.2                           127482
+Log-Syslog-DangaSocket-1.06             127483
+Dita-Validate-20180429                  127485
+Dancer-Plugin-Auth-Facebook-0.06        https://github.com/Prajithp/Dancer-Plugin-Auth-Facebook/issues/9
+CPAN-Mini-Extract-1.23                  127486
+Tk-MARC-1.5                             127487
