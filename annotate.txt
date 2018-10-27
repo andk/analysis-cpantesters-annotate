@@ -4099,3 +4099,4 @@ Mojolicious-Quick-0.002                 https://github.com/PopeFelix/Mojolicious
 Sub-Fp-0.07                             127473,127474
 DBD-CSV-0.53                            https://github.com/perl5-dbi/DBD-CSV/issues/4
 Carp-Always-Color-0.08                  https://github.com/doy/carp-always-color/issues/3
+CGI-Application-Plugin-HTDot-0.07       127484
