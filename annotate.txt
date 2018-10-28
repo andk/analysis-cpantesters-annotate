@@ -2383,7 +2383,6 @@ Class-DBI-View-0.07                     117657
 DBIx-Class-DigestColumns-Lite-0.03      117658
 Exception-ThrowUnless-1.11              117660,117661
 Imager-Filter-Bakumatsu-0.05            https://github.com/tomill/Imager-Filter-Bakumatsu/issues/4
-FLAT-0.9.1                              117663
 GD-Cairo-0.01                           117665
 HTTP-Recorder-Httperf-0.02              69374
 blt-0.22                                39986
@@ -3596,7 +3595,6 @@ Finance-Currency-Convert-Custom-1.00    124587
 RDF-Trine-Serializer-RDFa-0.100         https://github.com/kjetilk/p5-rdf-trine-serializer-rdfa/issues/1
 RDF-RDFa-Generator-0.200                https://github.com/kjetilk/p5-rdf-rdfa-generator/issues/3
 MooX-VariantAttribute-0.08              124601
-App-NDTools-0.5.2.2-TRIAL               124591
 Module-Release-2.124                    124598
 Dist-Zilla-PluginBundle-FAYLAND-0.14    124609
 Module-Overview-0.01                    https://github.com/jozef/Module-Overview/issues/1
@@ -3830,7 +3828,6 @@ Regexp-Compare-0.28                     125509
 Hush-0.03                               125521
 Sah-Schemas-App-cryp-0.002              125528
 App-Docker-Client-0.010300              125529
-Geo-Coder-Free-0.11                     125530,125531
 CPAN-Testers-Common-DBUtils-0.11        125361
 Date-Holidays-CA_ES-0.03                https://github.com/miquelruiz/Date-Holidays-CA_ES/issues/2
 Global-IPC-StaticVariable-0.015         https://github.com/itsusony/Global-IPC-StaticVariable/issues/1,https://github.com/itsusony/Global-IPC-StaticVariable/issues/2,https://github.com/itsusony/Global-IPC-StaticVariable/issues/3
