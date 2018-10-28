@@ -863,7 +863,6 @@ Text-UnAbbrev-0.03                      105447
 IO-Async-Resolver-StupidCache-0.03      106961
 LWPx-ParanoidHandler-0.07               https://github.com/tokuhirom/LWPx-ParanoidHandler/issues/2
 Lingua-EN-Segmenter-0.1                 87567
-File-MimeInfo-Simple-0.7                95158
 MouseX-App-Cmd-0.30                     107068
 VM-CloudAtCost-0.1                      107137
 Test-HTTP-0.18                          105999
@@ -4117,4 +4116,4 @@ Data-Table-Text-20181026                127496
 Data-TreeDumper-Renderer-GTK-0.02       127497
 Authen-TuringImage-1.008                124873
 DBI-1.641_90                            127501
-File-MimeInfo-Simple-0.7                127502
+File-MimeInfo-Simple-0.7                95158,127502
