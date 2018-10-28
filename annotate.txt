@@ -3756,7 +3756,6 @@ Burpsuite-Parser-0.01                   125200
 Dirbuster-Parser-0.02                   125201
 Fierce-Parser-0.08                      125202
 Nikto-Parser-0.01                       125203
-Unix-Statgrab-0.111                     125204
 BoutrosLab-TSVStream-v0.5.4             119751
 Cache-FastMmap-1.47                     https://github.com/robmueller/cache-fastmmap/issues/13
 Alien-CMake-0.11                        125247
@@ -3990,7 +3989,6 @@ MongoDBx-Tiny-0.04                      127208
 MongooseX-JSMethod-0.01                 127209
 Dist-Zilla-Plugin-UploadToStratopan-0.014-TRIAL 127199
 SPVM-0.0375                             127069
-Dist-Zilla-Plugin-Test-NoBOM-0.001      127218
 HTML-DOM-0.058                          127251
 FB3-Convert-0.15                        127150
 Graphics-ColorNames-Netscape-v3.1.1     https://github.com/robrwo/Graphics-ColorNames-Netscape/issues/1
