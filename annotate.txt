@@ -4108,3 +4108,8 @@ Dancer-Plugin-Auth-Facebook-0.06        https://github.com/Prajithp/Dancer-Plugi
 CPAN-Mini-Extract-1.23                  probably temporary network/webservice problem,123867,127486
 Tk-MARC-1.5                             127487
 Sub-Fp-0.09                             127473
+App-Validation-Automation-0.02          127490
+Beam-Minion-0.014                       https://github.com/preaction/Beam-Minion/issues/4
+BioX-Map-0.0.12                         127491
+OpusVL-Preferences-0.33                 https://github.com/OpusVL/OpusVL-Preferences/issues/1
+Slovo-2018.10.16                        https://github.com/kberov/Slovo/issues/14
