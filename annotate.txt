@@ -3924,7 +3924,6 @@ Katsubushi-Client-0.2                   https://github.com/kayac/p5-Katsubushi-C
 Amon2-6.13                              https://github.com/tokuhirom/Amon/issues/123,https://github.com/tokuhirom/Amon/issues/125
 Data-Chronicle-0.19                     https://github.com/binary-com/perl-Data-Chronicle/issues/31
 DBIx-Sunny-0.9991                       https://github.com/kazeburo/DBIx-Sunny/issues/15,https://github.com/kazeburo/DBIx-Sunny/issues/16
-OpusVL-Preferences-0.31                 https://github.com/OpusVL/OpusVL-Preferences/issues/1
 Sport-Analytics-NHL-1.20                125941
 JavaScript-Duktape-XS-0.000069          125950
 LWP-ConsoleLogger-0.000038              https://github.com/oalders/lwp-consolelogger/issues/13
@@ -4094,7 +4093,6 @@ WWW-Mechanize-PhantomJS-0.19            125559
 Text-SRT-Align-0.2                      127470
 AtteanX-RDFQueryTranslator-0.100        https://github.com/kasei/atteanx-rdfquerytranslator/issues/1
 Mojolicious-Quick-0.002                 https://github.com/PopeFelix/Mojolicious-Quick/issues/1
-Sub-Fp-0.07                             127473,127474
 DBD-CSV-0.53                            https://github.com/perl5-dbi/DBD-CSV/issues/4
 Carp-Always-Color-0.08                  https://github.com/doy/carp-always-color/issues/3
 CGI-Application-Plugin-HTDot-0.07       127484
