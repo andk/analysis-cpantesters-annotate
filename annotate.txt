@@ -1656,7 +1656,6 @@ UAV-Pilot-ArdupilotProtocol-0.001       113097
 Test-Approx-0.03                        113129
 Net-Amazon-DynamoDB-HighlyAvailable-0.03 https://github.com/kablamo/Net-Amazon-DynamoDB-HighlyAvailable/issues/1
 App-GitHooks-Plugin-RubyCompile-v1.0.0  https://github.com/jacobmaurer/App-GitHooks-Plugin-RubyCompile/issues/2
-App-Validation-Automation-0.02          113159
 App-Prove-Plugin-TraceUse-1.0.3         113161
 Getopt-AsDocumented-v0.0.2              113162
 Algorithm-SixDegrees-0.03               113168
@@ -4108,7 +4107,7 @@ Dancer-Plugin-Auth-Facebook-0.06        https://github.com/Prajithp/Dancer-Plugi
 CPAN-Mini-Extract-1.23                  probably temporary network/webservice problem,123867,127486
 Tk-MARC-1.5                             127487
 Sub-Fp-0.09                             127473
-App-Validation-Automation-0.02          127490
+App-Validation-Automation-0.02          113159,127490
 Beam-Minion-0.014                       https://github.com/preaction/Beam-Minion/issues/4
 BioX-Map-0.0.12                         127491
 OpusVL-Preferences-0.33                 https://github.com/OpusVL/OpusVL-Preferences/issues/1
