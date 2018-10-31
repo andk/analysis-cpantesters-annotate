@@ -4111,3 +4111,7 @@ Data-TreeDumper-Renderer-GTK-0.02       127497
 Authen-TuringImage-1.008                124873
 DBI-1.641_90                            127501
 File-MimeInfo-Simple-0.7                95158,127502
+Alien-Sodium-1.0.8.0                    https://github.com/ajgb/alien-sodium/issues/6
+File-Slurp-9999.24                      117005
+Alien-LMDB-0.104                        https://github.com/hoytech/Alien-LMDB/issues/4
+WWW-Mechanize-PhantomJS-0.21            125559
