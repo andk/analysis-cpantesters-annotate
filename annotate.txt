@@ -2891,7 +2891,6 @@ Pod-Pandoc-0.4.0                        121277
 Tilt-Email-BlueHornet-0.001             121279
 Mail-CheckUser-1.24                     121285
 Defaults-Modern-0.011001                121286
-Alien-LMDB-0.103                        https://github.com/hoytech/Alien-LMDB/issues/4
 Template-Plugin-ListMoreUtils-0.03      121291
 Sereal-Decoder-4.001_002                https://github.com/Sereal/Sereal/issues/165
 Dancer-Plugin-Thumbnail-0.13            121295
@@ -4050,7 +4049,6 @@ HTML-CalendarMonth-2.04                 127411
 Table-Simple-0.02                       127422
 Dancer2-Session-CHI-0.02                https://github.com/cromedome/dancer2-session-chi/issues/2
 Badger-0.13                             119422,127427
-File-Slurp-9999.23                      117005
 Prty-1.125                              127428
 Graphics-ColorNames-v3.3.0              127430
 Path-ExpandTilde-0.001                  https://github.com/Grinnz/Path-ExpandTilde/issues/1
@@ -4104,7 +4102,6 @@ Slovo-2018.10.16                        https://github.com/kberov/Slovo/issues/1
 Anego-0.02                              https://github.com/papix/Anego/issues/5
 AnyEvent-Net-Amazon-S3-v0.04.0.80       127494
 Dist-Zilla-PluginBundle-QBit-0.8        127495
-WWW-Mechanize-PhantomJS-0.20            125559
 Catmandu-OCLC-0.006                     https://github.com/LibreCat/Catmandu-OCLC/issues/2
 Data-Table-Text-20181026                127496
 Data-TreeDumper-Renderer-GTK-0.02       127497
