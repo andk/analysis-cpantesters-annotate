@@ -2213,7 +2213,6 @@ UTM5-URFAClient-0.54                    117419
 Const-Fast-0.014                        https://rt.perl.org/Ticket/Display.html?id=128966,117420
 optimize-0.05                           117421
 Acme-Greeting-0.0.3                     117425
-LoadHtml-7.08                           117426
 OSPF-LSDB-1.07                          117427
 Parse-HP-ACU-0.03                       117428
 Sphinx-Manager-0.06                     117429
@@ -3058,7 +3057,6 @@ Time-Piece-Plus-0.05                    122113
 Beam-Runner-0.012                       https://github.com/preaction/Beam-Runner/issues/11
 JSON-Tiny-0.56                          122139
 WWW-Scraper-ISBN-Blackwell_Driver-0.10  122155
-Text-FIGlet-2.19.3                      122198
 Log-ger-OptAway-0.002                   122192
 Test-PDL-0.13                           122194
 Feersum-1.405                           122177
@@ -3485,7 +3483,6 @@ SQL-Bibliosoph-2.55                     https://rt.perl.org/rt3/Ticket/Display.h
 Tapper-Installer-5.0.0                  https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Try-0.03                                https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Mojolicious-Plugin-PgLock-0.01          https://github.com/onokhov/Mojolicious-Plugin-PgLock/issues/1
-Text-Amuse-0.94                         123958
 Geo-Proj-Japan-0.0.2                    123950
 File-LibMagic-1.16                      123962
 App-cpanexec-0.04                       https://github.com/oklas/cpanexec/issues/2
@@ -3855,7 +3852,6 @@ Bot-Training-0.06                       125575
 Mojolicious-Plugin-Prometheus-1.1.1     https://github.com/tyldum/mojolicious-plugin-prometheus/issues/15
 Mojolicious-Plugin-Prometheus-Shared-FastMmap-1.0.0 https://github.com/tyldum/Mojolicious-Plugin-Prometheus-Shared-FastMmap/issues/1
 Dancer-1.3204-TRIAL                     https://github.com/PerlDancer/Dancer/issues/1184
-TestML1-0.55                            https://github.com/ingydotnet/testml-pm/issues/11
 Paws-0.37                               https://github.com/pplu/aws-sdk-perl/issues/248
 Catalyst-Plugin-ErrorCatcher-ActiveMQ-Stomp-0.1.5 125576,125580
 Pod-Tidy-0.10                           51281
@@ -3944,7 +3940,6 @@ Number-Phone-JP-0.20180904              96155
 Sah-Schemas-ISBN-0.004                  126933
 App-Cleo-Patra-0.001                    127078
 Weasel-0.14                             https://github.com/perl-weasel/weasel/issues/18
-Mojolicious-Plugin-OAuth2-1.55          127076
 Data-Grid-0.04                          https://github.com/doriantaylor/p5-data-grid/issues/1
 Log-Log4perl-Shortcuts-0.019            https://github.com/sdondley/Log-Log4perl-Shortcuts/issues/2
 DBD-mysql-4.048                         https://github.com/perl5-dbi/DBD-mysql/issues/262
