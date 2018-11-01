@@ -4107,3 +4107,4 @@ Alien-Sodium-1.0.8.0                    https://github.com/ajgb/alien-sodium/iss
 File-Slurp-9999.24                      117005
 Alien-LMDB-0.104                        https://github.com/hoytech/Alien-LMDB/issues/4
 WWW-Mechanize-PhantomJS-0.21            125559
+Lingua-EN-Fathom-1.21                   127534,127535
