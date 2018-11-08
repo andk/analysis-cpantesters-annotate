@@ -942,7 +942,6 @@ Plugin-Tiny-0.012                       https://github.com/mokko/p5-Plugin-Tiny/
 Entities-0.5                            108417
 Dancer-Plugin-Queue-MongoDB-0.003       https://github.com/PerlDancer/Dancer-Plugin-Queue-MongoDB/issues/1
 MongoDB-Simple-0.005                    108423
-Devel-Trepan-0.70                       https://github.com/rocky/Perl-Devel-Trepan/issues/39
 Dancer-Plugin-Fake-Response-0.03        106143
 Gzip-RandomAccess-0.91                  108428
 MongoDBx-Class-1.030002                 108430
@@ -3592,7 +3591,6 @@ RDF-RDFa-Generator-0.200                https://github.com/kjetilk/p5-rdf-rdfa-g
 MooX-VariantAttribute-0.08              124601
 Module-Release-2.124                    124598
 Dist-Zilla-PluginBundle-FAYLAND-0.14    124609
-Module-Overview-0.01                    https://github.com/jozef/Module-Overview/issues/1
 Test-MockCommand-0.03                   124611
 Pg-Corruption-0.02                      116730,124612
 Catalyst-Plugin-ConfigLoader-Remote-0.02 54736
@@ -3606,7 +3604,6 @@ Variable-Declaration-0.01               https://github.com/kfly8/Variable-Declar
 Steemit-WsClient-0.10                   124637
 Audio-Extract-PCM-0.04                  124638
 Bio-Grep-v0.10.6                        124639
-Mail-SpamAssassin-3.4.1                 https://bz.apache.org/SpamAssassin/show_bug.cgi?id=7262
 Mason-Tidy-2.57                         124604
 MDV-Repsys-1.00                         124643
 Cache-Memcached-XS-0.01                 124644
@@ -3621,7 +3618,6 @@ WWW-Search-Tv-Sweden-TvDotNu-1.01       124657
 Crypt-PKCS10-1.9                        https://github.com/openxpki/Crypt-PKCS10/issues/2
 Net-MyCommerce-API-1.0.4                124658
 WebService-Heartrails-Express-0.01      probably temporary network/webservice problem,https://github.com/sue7ga/WebService-Heartrails-Express/issues/1,https://github.com/sue7ga/WebService-Heartrails-Express/issues/2
-Getopt-Config-FromPod-v0.0.3            124662
 Catalyst-Plugin-Authentication-Credential-Hatena-0.04 124664
 Catalyst-Plugin-Authentication-Credential-Livedoor-0.03 124665
 Catalyst-Plugin-Email-Japanese-0.07     124666
@@ -3807,7 +3803,6 @@ Mojo-SMTP-Client-0.15                   125483
 Mojolicious-Plugin-SslAuth-0.08         125484
 Net-WhoisNG-0.09                        125485
 MARC-Transform-0.003006                 125307
-File-Rename-0.30                        125496
 Sah-Schemas-CryptoCurrency-0.009        125498
 Mercury-0.016                           https://github.com/preaction/Mercury/issues/44
 Mojo-UserAgent-Mockable-1.54            https://github.com/PopeFelix/Mojo-UserAgent-Mockable/issues/20
@@ -3857,7 +3852,6 @@ Mojolicious-Command-generate-DBIxCustomModel-1.0.2 125598
 BerkeleyDB-0.55                         125605
 Monitoring-GLPlugin-3.0.2.6             124161
 Sah-Schemas-URL-0.006                   125618
-IO-Termios-0.06                         125619
 GraphQL-Plugin-Convert-OpenAPI-0.12     https://github.com/graphql-perl/GraphQL-Plugin-Convert-OpenAPI/issues/3
 Crypt-Perl-0.19                         125621
 D-oh-1.00                               125622
@@ -3982,7 +3976,6 @@ WWW-Scrape-FindaGrave-0.06              127262
 IMDB-JSON-0.02                          127265
 Number-WithError-1.01                   127267
 Stor-1.5.2                              https://github.com/avast/Stor/issues/19
-Twitter-API-1.0004                      https://github.com/semifor/Twitter-API/issues/21
 Data-Context-v0.2.3                     127276
 Git-Hooks-2.9.6                         https://github.com/gnustavo/Git-Hooks/issues/56
 Git-MoreHooks-0.006                     127281
