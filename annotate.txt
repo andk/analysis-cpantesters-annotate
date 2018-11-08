@@ -4046,10 +4046,8 @@ PomBase-Chobo-0.023                     https://github.com/pombase/chobo/issues/
 Devel-Chitin-0.17                       127437,127438,127439
 XAO-Web-1.72                            127440
 Yancy-1.010                             https://github.com/preaction/Yancy/issues/21
-QBit-Application-Model-DBManager-0.021  127441
 Math-Pari-2.030507                      127442
 qbit-2.6                                127443
-QBit-WebInterface-Routing-0.009         127445
 Module-Version-0.13                     127128
 Net-LastFM-0.36                         127446
 CtrlO-PDF-0.01                          https://github.com/ctrlo/CtrlO-PDF/issues/2
@@ -4062,7 +4060,6 @@ Dist-Zilla-Plugin-Generate-ManifestSkip-v0.1.3 https://github.com/robrwo/Dist-Zi
 Module-CGI-Install-0.07                 127460
 WebService-ClinicalTrialsdotGov-0.04    127461
 CGI-Capture-1.14                        127462
-SVG-Calendar-v0.3.12                    127463
 Text-SRT-Align-0.2                      127470
 AtteanX-RDFQueryTranslator-0.100        https://github.com/kasei/atteanx-rdfquerytranslator/issues/1
 Mojolicious-Quick-0.002                 https://github.com/PopeFelix/Mojolicious-Quick/issues/1
