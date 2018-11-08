@@ -4112,3 +4112,8 @@ LWP-ConnCache-MaxKeepAliveRequests-0.33 127562
 WWW-CPAN-0.013                          127563
 Test-Mojo-More-0.061                    127565
 Mojo-Feed-0.16                          https://github.com/dotandimet/Mojo-Feed/issues/16
+SVG-Calendar-v0.3.13                    127463
+QBit-Application-Model-DBManager-0.022  127578
+Dancer2-Plugin-MarkdownFilesToHTML-0.012 https://github.com/sdondley/Dancer2-Plugin-MarkdownFilesToHTML/issues/1
+Shell-Cmd-3.00                          127596
+QBit-WebInterface-Routing-0.010         127597
