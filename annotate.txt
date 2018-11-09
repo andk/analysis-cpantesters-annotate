@@ -4048,7 +4048,6 @@ Data-Printer-0.99_020                   https://github.com/garu/Data-Printer/iss
 Alien-TidyHTML5-v0.1.1                  https://github.com/robrwo/Alien-TidyHTML5/issues/2
 Graphics-ColorNames-WWW-1.13            127455
 PDF-Builder-3.011                       127456
-Dist-Zilla-Plugin-Generate-ManifestSkip-v0.1.3 https://github.com/robrwo/Dist-Zilla-Plugin-Generate-ManifestSkip/issues/1
 Module-CGI-Install-0.07                 127460
 WebService-ClinicalTrialsdotGov-0.04    127461
 CGI-Capture-1.14                        127462
@@ -4104,7 +4103,6 @@ Mojo-Feed-0.16                          https://github.com/dotandimet/Mojo-Feed/
 SVG-Calendar-v0.3.13                    127463
 QBit-Application-Model-DBManager-0.022  127578
 Dancer2-Plugin-MarkdownFilesToHTML-0.012 https://github.com/sdondley/Dancer2-Plugin-MarkdownFilesToHTML/issues/1
-Shell-Cmd-3.00                          127596
 QBit-WebInterface-Routing-0.010         127597
 Dist-Zilla-Plugin-Generate-ManifestSkip-v0.1.4 https://github.com/robrwo/Dist-Zilla-Plugin-Generate-ManifestSkip/issues/1
 Shell-Cmd-3.01                          127604
