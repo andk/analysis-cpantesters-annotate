@@ -4107,3 +4107,9 @@ QBit-Application-Model-DBManager-0.022  127578
 Dancer2-Plugin-MarkdownFilesToHTML-0.012 https://github.com/sdondley/Dancer2-Plugin-MarkdownFilesToHTML/issues/1
 Shell-Cmd-3.00                          127596
 QBit-WebInterface-Routing-0.010         127597
+Dist-Zilla-Plugin-Generate-ManifestSkip-v0.1.4 https://github.com/robrwo/Dist-Zilla-Plugin-Generate-ManifestSkip/issues/1
+Shell-Cmd-3.01                          127604
+Devel-Cover-1.31                        https://github.com/pjcj/Devel--Cover/issues/225
+Sys-Info-Base-0.7804                    121024
+Sys-Info-Driver-Linux-0.7903            127231
+Test-Sys-Info-0.21                      120880
