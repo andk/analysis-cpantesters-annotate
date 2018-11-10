@@ -2883,7 +2883,6 @@ Devel-Cover-Report-Clover-1.01          108629
 Comment-Spell-Check-0.002001            https://github.com/kentnl/Comment-Spell-Check/issues/1
 OxdPerlModule-0.01                      121276
 WWW-Pastebin-PastebinCom-API-1.001004   https://github.com/zoffixznet/WWW-Pastebin-PastebinCom-API/issues/4
-Pod-Pandoc-0.4.0                        121277
 Tilt-Email-BlueHornet-0.001             121279
 Mail-CheckUser-1.24                     121285
 Defaults-Modern-0.011001                121286
@@ -3563,7 +3562,6 @@ Test-Mojo-Role-Debug-JSON-0.003         https://github.com/atoomic/Test-Mojo-Rol
 Graph-Feather-0.03                      124457
 Parse-ABNF-0.26                         124466
 Perlmazing-1.2812                       124320
-Text-Summarizer-1.053                   124506
 Acme-Tools-0.22                         124516,124517
 CSS-Inliner-4008                        124467
 YAML-Tiny-1.73                          124399
@@ -3889,7 +3887,6 @@ XAO-Base-1.18                           125768
 Module-Install-Bugtracker-0.0304        125799
 Search-Xapian-1.2.25.1                  compile error on many systems
 Net-EGTS-0.01                           https://github.com/dr-co/Net-EGTS/issues/1
-TestML-0.54_01                          https://github.com/ingydotnet/testml-pm/issues/12
 Config-HAProxy-1.00                     125827,125828
 Games-ABC_Path-Generator-0.4.0          bugtracker is a 404; dependency declarations on Getopt::Long and Pod::Usage too low
 Mojolicious-Plugin-AssetPack-2.04       https://github.com/jhthorsen/mojolicious-plugin-assetpack/issues/136
@@ -3941,7 +3938,6 @@ Toadfarm-0.78                           https://github.com/jhthorsen/toadfarm/is
 Test-Clustericious-Cluster-0.38         deprecated
 Ado-0.935                               https://github.com/kberov/Ado/issues/112
 Mojolicious-Command-generate-lexicon-0.997 127194
-Mojolicious-Command-generate-localplugin-0.01 https://github.com/reneeb/Mojolicious-Command-generate-localplugin/issues/1
 MojoX-Dispatcher-Qooxdoo-Jsonrpc-0.96   deprecated
 Mongol-2.3                              126977
 Email-Stuffer-TestLinks-0.02            127200
