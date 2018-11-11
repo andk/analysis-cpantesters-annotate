@@ -1900,7 +1900,6 @@ IPC-Mmap-0.21                           https://rt.perl.org/rt3/Ticket/Display.h
 CNC-Cog-0.061                           111909,111909
 Image-Resize-0.5                        60038,60038
 YATT-Lite-0.100                         106776
-IPC-PrettyPipe-0.03                     108397
 Smolder-1.51                            114624,114625
 DBIx-Class-RandomStringColumns-0.09     https://github.com/kan/p5-dbic-random-string-columns/issues/1
 File-Copy-NoClobber-0.2.0               114664
@@ -4086,7 +4085,6 @@ Role-REST-Client-0.23                   127558
 Shell-Config-Generate-0.31              https://github.com/plicease/Shell-Config-Generate/issues/19
 Sort-Naturally-XS-0.7.9                 https://github.com/CaballerosTeam/Sort-Naturally-XS/issues/4
 Sub-Fp-0.10                             127473,127474
-Test-MockFile-0.010                     https://github.com/CpanelInc/Test-MockFile/issues/13
 Kavorka-0.039                           109841
 PerlX-Define-0.101                      127559
 LWP-UserAgent-ProgressBar-1.100810      127560
@@ -4100,7 +4098,6 @@ SVG-Calendar-v0.3.13                    127463
 QBit-Application-Model-DBManager-0.022  127578
 Dancer2-Plugin-MarkdownFilesToHTML-0.012 https://github.com/sdondley/Dancer2-Plugin-MarkdownFilesToHTML/issues/1
 QBit-WebInterface-Routing-0.010         127597
-Dist-Zilla-Plugin-Generate-ManifestSkip-v0.1.4 https://github.com/robrwo/Dist-Zilla-Plugin-Generate-ManifestSkip/issues/1
 Shell-Cmd-3.01                          127604
 Devel-Cover-1.31                        https://github.com/pjcj/Devel--Cover/issues/225
 Sys-Info-Base-0.7804                    121024
