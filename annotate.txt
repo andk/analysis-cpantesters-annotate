@@ -1630,7 +1630,6 @@ WWW-PerlTricksIP-0.01                   112894
 SecondLife-DataTypes-0.900              112920
 Weaving-Tablet-0.009.006                112921
 XML-Crawler-0.01                        112923
-Map-Metro-Plugin-Map-Stockholm-0.1971   https://github.com/Csson/p5-Map-Metro/issues/11
 Map-Metro-Plugin-Map-Athens-0.1102      https://github.com/Csson/p5-Map-Metro/issues/11
 Map-Metro-Plugin-Map-Lille-0.1002       https://github.com/Csson/p5-Map-Metro/issues/11
 Map-Metro-Plugin-Map-Brussels-0.1001    https://github.com/Csson/p5-Map-Metro/issues/11
@@ -3842,13 +3841,11 @@ Pod-Tidy-0.10                           51281
 Format-0.2                              125586
 CGI-OptimalQuery-0.30                   113713
 Statistics-SDT-0.07                     125599
-Net-Mattermost-Bot-0.02                 125611
 Word2vec-Interface-0.038                122998
 Mojolicious-Command-generate-DBIxCustomModel-1.0.2 125598
 BerkeleyDB-0.55                         125605
 Monitoring-GLPlugin-3.0.2.6             124161
 Sah-Schemas-URL-0.006                   125618
-GraphQL-Plugin-Convert-OpenAPI-0.12     https://github.com/graphql-perl/GraphQL-Plugin-Convert-OpenAPI/issues/3
 Crypt-Perl-0.19                         125621
 D-oh-1.00                               125622
 Data-MuForm-Model-DBIC-0.02             125623
@@ -4023,7 +4020,6 @@ Dancer2-Session-CHI-0.02                https://github.com/cromedome/dancer2-ses
 Badger-0.13                             119422,127427
 Prty-1.125                              127428
 Graphics-ColorNames-v3.3.0              127430
-Path-ExpandTilde-0.001                  https://github.com/Grinnz/Path-ExpandTilde/issues/1
 Astro-FITS-CFITSIO-1.12                 127312
 CryptX-0.061                            https://github.com/DCIT/perl-CryptX/issues/46
 Config-Model-Xorg-1.115                 127431
@@ -4042,7 +4038,6 @@ Net-Statsd-Client-Telegraf-0.1          https://github.com/pierre-vigier/Net-Sta
 Data-Printer-0.99_020                   https://github.com/garu/Data-Printer/issues/136
 Alien-TidyHTML5-v0.1.1                  https://github.com/robrwo/Alien-TidyHTML5/issues/2
 Graphics-ColorNames-WWW-1.13            127455
-PDF-Builder-3.011                       127456
 Module-CGI-Install-0.07                 127460
 WebService-ClinicalTrialsdotGov-0.04    127461
 CGI-Capture-1.14                        127462
