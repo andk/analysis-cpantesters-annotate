@@ -4106,3 +4106,6 @@ Devel-Cover-1.31                        https://github.com/pjcj/Devel--Cover/iss
 Sys-Info-Base-0.7804                    121024
 Sys-Info-Driver-Linux-0.7903            98099,127231
 Test-Sys-Info-0.21                      120880
+IPC-PrettyPipe-0.05-TRIAL               127610
+Dist-Zilla-Plugin-Generate-ManifestSkip-v0.1.5 https://github.com/robrwo/Dist-Zilla-Plugin-Generate-ManifestSkip/issues/1
+Test-MockFile-0.011                     https://github.com/CpanelInc/Test-MockFile/issues/13,https://github.com/CpanelInc/Test-MockFile/issues/20,https://github.com/CpanelInc/Test-MockFile/issues/21
