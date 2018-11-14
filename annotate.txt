@@ -4101,3 +4101,6 @@ Test-Sys-Info-0.21                      120880
 IPC-PrettyPipe-0.05-TRIAL               127610
 Dist-Zilla-Plugin-Generate-ManifestSkip-v0.1.5 https://github.com/robrwo/Dist-Zilla-Plugin-Generate-ManifestSkip/issues/1
 Test-MockFile-0.011                     https://github.com/CpanelInc/Test-MockFile/issues/13,https://github.com/CpanelInc/Test-MockFile/issues/20,https://github.com/CpanelInc/Test-MockFile/issues/21
+Keyword-Pluggable-1.02                  127625
+Alien-geos-af-1.001                     https://github.com/shawnlaffan/perl-alien-geos/issues/2
+Device-Chip-ADT7470-0.01                127636
