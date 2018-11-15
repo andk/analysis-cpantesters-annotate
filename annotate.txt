@@ -4066,7 +4066,6 @@ WWW-Kickstarter-v1.14.0                 127547
 Role-REST-Client-0.23                   127558
 Shell-Config-Generate-0.31              https://github.com/plicease/Shell-Config-Generate/issues/19
 Sort-Naturally-XS-0.7.9                 https://github.com/CaballerosTeam/Sort-Naturally-XS/issues/4
-Sub-Fp-0.10                             127473,127474
 Kavorka-0.039                           109841
 PerlX-Define-0.101                      127559
 LWP-UserAgent-ProgressBar-1.100810      127560
