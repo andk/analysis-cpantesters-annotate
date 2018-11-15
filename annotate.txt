@@ -3576,7 +3576,6 @@ Alien-OpenVcdiff-0.101                  https://github.com/hoytech/Alien-OpenVcd
 Crypt-OpenSSL-PKCS12-0.8                https://github.com/dsully/perl-crypt-openssl-pkcs12/issues/20
 Geo-Coordinates-MGRS-XS-0.01            124580
 Net-Host64-0.001                        124581
-Net-Interface-1.016                     124582
 WebService-SimpleAPI-Wikipedia-0.01     124584
 Moonshine-Bootstrap-0.03                124586
 Finance-Currency-Convert-Custom-1.00    124587
@@ -4098,5 +4097,5 @@ Alien-geos-af-1.001                     https://github.com/shawnlaffan/perl-alie
 Device-Chip-ADT7470-0.01                127636
 Dancer2-Plugin-Menu-0.006               https://github.com/sdondley/Dancer2-Plugin-Menu/issues/2
 HTTP-Request-FromCurl-0.01              127641,127642
-Net-Interface-1.016                     124991
+Net-Interface-1.016                     124582,124991
 FilmAffinity-UserRating-1.00            127643
