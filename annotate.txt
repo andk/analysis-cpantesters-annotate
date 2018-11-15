@@ -4095,3 +4095,6 @@ Dancer2-Plugin-Menu-0.006               https://github.com/sdondley/Dancer2-Plug
 HTTP-Request-FromCurl-0.01              127641,127642
 Net-Interface-1.016                     124582,124991
 FilmAffinity-UserRating-1.00            127643
+HTTP-Request-FromCurl-0.01              127644
+Bio-Kmer-0.23                           127645
+Sub-Fp-0.11                             127473
