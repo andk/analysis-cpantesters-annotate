@@ -4096,3 +4096,7 @@ Test-MockFile-0.011                     https://github.com/CpanelInc/Test-MockFi
 Keyword-Pluggable-1.02                  127625
 Alien-geos-af-1.001                     https://github.com/shawnlaffan/perl-alien-geos/issues/2
 Device-Chip-ADT7470-0.01                127636
+Dancer2-Plugin-Menu-0.006               https://github.com/sdondley/Dancer2-Plugin-Menu/issues/2
+HTTP-Request-FromCurl-0.01              127641,127642
+Net-Interface-1.016                     124991
+FilmAffinity-UserRating-1.00            127643
