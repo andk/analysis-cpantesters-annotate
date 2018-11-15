@@ -3754,14 +3754,12 @@ Gtk3-0.034                              125376
 PMLTQ-Suggest-0.0.2                     https://github.com/ufal/pmltq-suggest-server/issues/4,https://github.com/ufal/pmltq-suggest-server/issues/5
 PDL-2.019                               https://sourceforge.net/p/pdl/bugs/445/
 Net-Amazon-SNS-Signature-0.007          125381
-CGI-Simple-1.15                         125383
 CPAN-Testers-Common-Client-0.14         https://github.com/garu/CPAN-Testers-Common-Client/issues/8
 Evo-0.0405                              https://github.com/alexbyk/perl-evo/issues/6
 Graph-Maker-0.02                        108992
 AWS-CLIWrapper-1.14                     125410
 Crypt-Sodium-0.11                       125394
 TaskPipe-0.04                           125411
-Perlito5-9.024                          125417
 Config-From-0.06                        125418
 Type-Tiny-1.003_002                     124067
 Mojolicious-Plugin-Cron-0.022           https://github.com/dmanto/Mojolicious-Plugin-Cron/issues/1
@@ -3870,7 +3868,6 @@ grpc-xs-0.10                            125710
 Data-Edit-Xml-SDL-20170809              125717
 Webservice-Judobase-0.001-TRIAL         https://github.com/lancew/Webservice-Judobase/issues/6
 Test-VCR-LWP-0.5                        125719,125720
-URI-Fast-0.35_6                         https://github.com/sysread/URI-Fast/issues/14
 MooX-Enumeration-0.002                  125748
 B-DeparseTree-v3.3.0                    125753
 XAO-Base-1.18                           125768
@@ -4003,7 +4000,6 @@ OAuth-Lite-1.34                         114657,125359
 POE-Component-IRC-Plugin-RTorrentStatus-0.17 127395
 Kasago-0.29                             127396
 MooseX-Workers-0.24                     127397
-Tk-PerlMethodList-0.07                  127398
 WWW-Mechanize-Plugin-AutoWrite-0.06     127399
 Finance-CoinbasePro-API-CLI-0.013       127410
 HTML-CalendarMonth-2.04                 127411
