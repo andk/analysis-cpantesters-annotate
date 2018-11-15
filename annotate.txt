@@ -3627,7 +3627,6 @@ WebService-SendGrid-Newsletter-0.02     https://github.com/Sidnet/p5-WebService-
 HTTP-XSCookies-0.000019                 124731
 JSON-Validator-2.04                     https://github.com/jhthorsen/json-validator/issues/101
 Locale-CLDR-v0.32.0-TRIAL2              https://github.com/ThePilgrim/perlcldr/issues/21
-Net-Async-Redis-1.005                   https://github.com/team-at-cpan/Net-Async-Redis/issues/5
 Mailru-Cloud-0.02                       https://github.com/vrag86/perl-mailru-cloud-api/issues/1
 Mojo-IOLoop-ReadWriteFork-0.36          https://github.com/jhthorsen/mojo-ioloop-readwritefork/issues/11
 Reddit-Client-1.20                      124767
@@ -3875,7 +3874,6 @@ Module-Install-Bugtracker-0.0304        125799
 Search-Xapian-1.2.25.1                  compile error on many systems
 Net-EGTS-0.01                           https://github.com/dr-co/Net-EGTS/issues/1
 Config-HAProxy-1.00                     125827,125828
-Games-ABC_Path-Generator-0.4.0          bugtracker is a 404; dependency declarations on Getopt::Long and Pod::Usage too low
 Elasticsearch-Model-0.1.4               125898
 Katsubushi-Client-0.2                   https://github.com/kayac/p5-Katsubushi-Client/issues/6
 Amon2-6.13                              https://github.com/tokuhirom/Amon/issues/123,https://github.com/tokuhirom/Amon/issues/125
@@ -3884,7 +3882,6 @@ DBIx-Sunny-0.9991                       https://github.com/kazeburo/DBIx-Sunny/i
 Sport-Analytics-NHL-1.20                125941
 JavaScript-Duktape-XS-0.000069          125950
 LWP-ConsoleLogger-0.000038              https://github.com/oalders/lwp-consolelogger/issues/13
-Net-SugarCRM-3.310000                   125997
 App-cryp-arbit-0.003                    126001
 MouseX-Getopt-0.37                      https://github.com/gfx/mousex-getopt/issues/12
 dategrep-2.00                           https://github.com/mdom/dategrep/issues/31
@@ -3976,7 +3973,6 @@ DataTables-0.07                         127254,127254
 Mojolicious-Plugin-StaticLog-0.05       127195
 Dpkg-1.19.2                             127314
 App-MechaCPAN-0.24                      https://github.com/atrodo/App-MechaCPAN/issues/10
-JSON-Patch-0.01                         127321
 WebService-Mattermost-0.001             127323
 Perinci-Sub-GetArgs-Argv-0.840          127324
 Perinci-CmdLine-Inline-0.544            124858
