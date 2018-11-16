@@ -4092,3 +4092,10 @@ FilmAffinity-UserRating-1.00            127643
 HTTP-Request-FromCurl-0.01              127641,127642,127644
 Bio-Kmer-0.23                           127645
 Sub-Fp-0.11                             127473
+Sub-Fp-0.12                             127473,127647
+HTTP-Request-FromCurl-0.02              127641,127642
+Net-Async-HTTP-0.43                     127649
+Net-Async-HTTP-Server-0.09              127650
+Device-Chip-ADT7470-0.02                127651
+File-Slurp-9999.25                      117005
+Sub-Fp-0.13                             127473
