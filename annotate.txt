@@ -3759,7 +3759,6 @@ Graph-Maker-0.02                        108992
 AWS-CLIWrapper-1.14                     125410
 Crypt-Sodium-0.11                       125394
 TaskPipe-0.04                           125411
-Config-From-0.06                        125418
 Type-Tiny-1.003_002                     124067
 Mojolicious-Plugin-Cron-0.022           https://github.com/dmanto/Mojolicious-Plugin-Cron/issues/1
 App-perlbrew-0.83                       125431
@@ -3933,7 +3932,6 @@ Mojolicious-Plugin-RenderSteps-0.06     https://github.com/marcusramberg/Mojolic
 Analizo-1.22.0                          https://github.com/analizo/analizo/issues/128
 Data-Localize-Storage-MongoDB-0.001     123751
 Glib-Object-Introspection-0.046         127205
-LinkEmbedder-1.00                       https://github.com/jhthorsen/linkembedder/issues/6
 Text-Bidi-2.15                          108739
 Eixo-Queue-0.5.7                        127206
 MongoDBx-AutoDeref-1.110560             66343,127207
@@ -4027,7 +4025,6 @@ CGI-Capture-1.14                        127462
 Text-SRT-Align-0.2                      127470
 AtteanX-RDFQueryTranslator-0.100        https://github.com/kasei/atteanx-rdfquerytranslator/issues/1
 Mojolicious-Quick-0.002                 https://github.com/PopeFelix/Mojolicious-Quick/issues/1
-DBD-CSV-0.53                            https://github.com/perl5-dbi/DBD-CSV/issues/4
 Carp-Always-Color-0.08                  https://github.com/doy/carp-always-color/issues/3
 CGI-Application-Plugin-HTDot-0.07       127484
 WebService-GoogleAPI-Client-0.13        https://github.com/pscott-au/WebService-GoogleAPI-Client/issues/8
