@@ -4053,7 +4053,6 @@ Authen-TuringImage-1.008                124873
 DBI-1.641_90                            127501
 File-MimeInfo-Simple-0.7                95158,127502
 Alien-Sodium-1.0.8.0                    https://github.com/ajgb/alien-sodium/issues/6
-File-Slurp-9999.24                      117005
 Alien-LMDB-0.104                        https://github.com/hoytech/Alien-LMDB/issues/4
 WWW-Mechanize-PhantomJS-0.21            125559
 Lingua-EN-Fathom-1.21                   127534,127535
@@ -4085,14 +4084,10 @@ Dist-Zilla-Plugin-Generate-ManifestSkip-v0.1.5 https://github.com/robrwo/Dist-Zi
 Test-MockFile-0.011                     https://github.com/CpanelInc/Test-MockFile/issues/13,https://github.com/CpanelInc/Test-MockFile/issues/20,https://github.com/CpanelInc/Test-MockFile/issues/21
 Keyword-Pluggable-1.02                  127625
 Alien-geos-af-1.001                     https://github.com/shawnlaffan/perl-alien-geos/issues/2
-Device-Chip-ADT7470-0.01                127636
 Dancer2-Plugin-Menu-0.006               https://github.com/sdondley/Dancer2-Plugin-Menu/issues/2
 Net-Interface-1.016                     124582,124991
 FilmAffinity-UserRating-1.00            127643
-HTTP-Request-FromCurl-0.01              127641,127642,127644
 Bio-Kmer-0.23                           127645
-Sub-Fp-0.11                             127473
-Sub-Fp-0.12                             127473,127647
 HTTP-Request-FromCurl-0.02              127641,127642
 Net-Async-HTTP-0.43                     127649
 Net-Async-HTTP-Server-0.09              127650
