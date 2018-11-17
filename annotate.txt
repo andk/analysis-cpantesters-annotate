@@ -4100,3 +4100,11 @@ Pod-Cats-0.08                           https://github.com/Altreus/Pod-Cats/issu
 Apache2-SiteMap-0.1                     127682
 WWW-Curl-4.17                           117793
 WWW-Search-Ebay-3.051                   127683
+Net-Pcap-0.18                           127685
+Gtk3-Ex-PdfViewer-1.00                  127686,127687
+Test-PerlTidy-20130104                  127688
+Gtk3-0.034                              127071
+Net-Whois-IANA-0.44                     127689
+PerlPowerTools-1.013                    https://github.com/briandfoy/PerlPowerTools/issues/62
+Pod-Weaver-Plugin-Ditaa-0.001006        https://github.com/frioux/Pod-Weaver-Plugin-Ditaa/issues/5
+Run-Parts-0.09                          127691
