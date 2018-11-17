@@ -3652,7 +3652,6 @@ Database-Async-SQLite-0.001             124872
 WWW-Amazon-Wishlist-2.018               124890
 Dist-Zilla-PluginBundle-Author-TABULO-0.197 124149,124892
 Algorithm-BloomFilter-0.02              124893
-WWW-Search-Ebay-3.048                   124894
 Log-Syslog-Fast-0.65                    113278,124895
 Alien-gettext-0.001                     124896
 JSPL-1.07                               124897,124898
