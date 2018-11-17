@@ -4077,7 +4077,6 @@ Sys-Info-Driver-Linux-0.7903            98099,127231
 Test-Sys-Info-0.21                      120880
 IPC-PrettyPipe-0.05-TRIAL               127610
 Dist-Zilla-Plugin-Generate-ManifestSkip-v0.1.5 https://github.com/robrwo/Dist-Zilla-Plugin-Generate-ManifestSkip/issues/1
-Test-MockFile-0.011                     https://github.com/CpanelInc/Test-MockFile/issues/13,https://github.com/CpanelInc/Test-MockFile/issues/20,https://github.com/CpanelInc/Test-MockFile/issues/21
 Keyword-Pluggable-1.02                  127625
 Alien-geos-af-1.001                     https://github.com/shawnlaffan/perl-alien-geos/issues/2
 Dancer2-Plugin-Menu-0.006               https://github.com/sdondley/Dancer2-Plugin-Menu/issues/2
@@ -4089,7 +4088,6 @@ Net-Async-HTTP-0.43                     127649
 Net-Async-HTTP-Server-0.09              127650
 Device-Chip-ADT7470-0.02                127651
 File-Slurp-9999.25                      117005
-Sub-Fp-0.13                             127473
 Sub-Fp-0.21                             127473,127672
 App-skos2jskos-0.1.4                    https://github.com/gbv/skos2jskos/issues/4
 App-wdq-0.4.4                           https://github.com/nichtich/wdq/issues/30
