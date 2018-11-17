@@ -4096,3 +4096,11 @@ GitHub-Extract-0.02                     123867,127674
 Locale-Simple-0.019                     127675
 Log-Dispatch-Email-Mailer-1.03          127677
 Text-Hoborg-0.0.6                       127678
+DBIx-Class-Visualizer-0.0200            https://github.com/Csson/p5-DBIx-Class-Visualizer/issues/2
+Alien-FLTK-v1.3.3_gamma                 https://github.com/sanko/alien-fltk/issues/2
+HTML-Tidy-1.60                          https://github.com/petdance/html-tidy/issues/34
+Mojolicious-Command-deploy-heroku-0.11  127681
+Pod-Cats-0.08                           https://github.com/Altreus/Pod-Cats/issues/2
+Apache2-SiteMap-0.1                     127682
+WWW-Curl-4.17                           117793
+WWW-Search-Ebay-3.051                   127683
