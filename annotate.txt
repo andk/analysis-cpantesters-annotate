@@ -872,7 +872,6 @@ BioPerl-1.6.924                         106756
 Acme-LOLCAT-0.0.5                       95241
 HPC-Runner-Threads-2.35                 107200
 App-makedpkg-0.05                       https://github.com/nichtich/App-makedpkg/issues/3
-Appium-0.0803                           https://github.com/appium/perl-client/issues/10
 Bread-Board-LifeCycle-Session-0.90      106735
 Email-ARF-0.010                         https://github.com/rjbs/Email-ARF/issues/2
 HTML-Element-Replacer-0.08              https://github.com/mixedconnections/html-element-replacer/issues/1
@@ -3495,7 +3494,6 @@ Class-MethodMaker-2.24                  124104
 Data-Sah-JS-0.87                        124148
 MarpaX-Languages-PowerBuilder-0.01      124145
 WWW-xkcd-0.008                          https://github.com/xsawyerx/www-xkcd/issues/3
-Zonemaster-LDNS-1.0.2                   https://github.com/dotse/zonemaster-ldns/issues/10
 Clustericious-1.27                      https://github.com/clustericious/Clustericious/issues/45
 Devel-Size-0.81                         124105
 App-bovespa-0.003                       121335
@@ -3704,7 +3702,6 @@ Sentry-0.01                             125077
 BenchmarkAnything-Storage-Frontend-Lib-0.022 116664
 CPP-panda-lib-1.1.2                     125080
 WWW-EZTV-0.07                           https://github.com/diegok/www-eztv/issues/2
-Crypt-OpenSSL-RSA-0.29_01               https://github.com/toddr/Crypt-OpenSSL-RSA/issues/10
 Linux-DVB-1.03                          124165
 Net-Z3950-ZOOM-1.30                     125116
 WWW-UsePerl-Journal-0.26                125119
@@ -3739,7 +3736,6 @@ HTTP-Cookies-iCab-1.132                 https://github.com/CPAN-Adoptable-Module
 Math-Clipper-1.25                       125251
 Geo-Coder-XYZ-0.08                      125254
 CPAN-Testers-WWW-Reports-Query-Report-0.05 125259
-Lab-Measurement-3.640                   https://github.com/lab-measurement/Lab-Measurement/issues/25
 Module-FromPerlVer-0.022001             125253
 Model-Envoy-0.1                         125277
 Devel-Debug-DBGp-0.21                   https://github.com/mbarbon/perl-remote-debugging-client/issues/3
@@ -3903,7 +3899,6 @@ Number-Phone-JP-0.20180904              96155
 Sah-Schemas-ISBN-0.004                  126933
 App-Cleo-Patra-0.001                    127078
 Weasel-0.14                             https://github.com/perl-weasel/weasel/issues/18
-Data-Grid-0.04                          https://github.com/doriantaylor/p5-data-grid/issues/1
 Log-Log4perl-Shortcuts-0.019            https://github.com/sdondley/Log-Log4perl-Shortcuts/issues/2
 DBD-mysql-4.048                         https://github.com/perl5-dbi/DBD-mysql/issues/262
 BSD-Sysctl-0.11                         127121
@@ -3980,7 +3975,6 @@ File-Stamped-0.08                       127361,https://rt.perl.org/Ticket/Displa
 Parallel-Loops-0.08                     127362
 Catalyst-Runtime-5.90119                125843,https://rt.perl.org/Ticket/Display.html?id=133585
 Mojolicious-Plugin-TtRenderer-1.59      https://github.com/plicease/Mojolicious-Plugin-TtRenderer/issues/47
-Finance-SE-IDX-Any-0.001                127360
 Astro-SpaceTrack-0.119_01               127371
 CPAN-Audit-0.06                         https://github.com/vti/cpan-audit/issues/6
 CPAN-Mini-ProjectDocs-0.03.9            127381
