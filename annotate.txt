@@ -3901,7 +3901,6 @@ Google-Ads-AdWords-Client-5.6.0         118509
 DBIx-Array-0.62                         127167
 MediaWiki-API-0.41                      127168
 WebService-MusicBrainz-1.0.4            118822
-WebService-Fake-0.002                   https://github.com/polettix/WebService-Fake/issues/3
 WWW-Proxy4FreeCom-1.004002              https://github.com/zoffixznet/WWW-Proxy4FreeCom/issues/3
 Test-Fake-HTTPD-0.08                    117789
 Toadfarm-0.78                           https://github.com/jhthorsen/toadfarm/issues/25
@@ -3948,7 +3947,6 @@ Git-XS-0.02                             127285
 Git-LowLevel-0.4                        125938
 DBIx-Mojo-Template-0.060                127283
 Graphics-ColorObject-0.5.0              127300
-App-SlowQuitApps-0.000002               127298
 Kafka-Producer-Avro-0.01                https://github.com/alivraghi/Kafka-Producer-Avro/issues/2
 BSON-v1.8.1                             https://jira.mongodb.org/browse/PERL-1009,https://rt.perl.org/Public/Bug/Display.html?id=133565
 Selenium-UserAgent-0.11                 https://github.com/gempesaw/Selenium-UserAgent/issues/4
@@ -3993,7 +3991,6 @@ CryptX-0.061                            https://github.com/DCIT/perl-CryptX/issu
 Config-Model-Xorg-1.115                 127431
 Overload-FileCheck-0.003                https://github.com/CpanelInc/Overload-FileCheck/issues/6
 Crypt-RSA-1.99                          127436
-PomBase-Chobo-0.023                     https://github.com/pombase/chobo/issues/12
 Devel-Chitin-0.17                       127437,127438,127439
 XAO-Web-1.72                            127440
 Yancy-1.010                             https://github.com/preaction/Yancy/issues/21
