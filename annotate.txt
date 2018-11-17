@@ -4091,3 +4091,17 @@ Net-Async-HTTP-Server-0.09              127650
 Device-Chip-ADT7470-0.02                127651
 File-Slurp-9999.25                      117005
 Sub-Fp-0.13                             127473
+Sub-Fp-0.21                             127473,127672
+App-skos2jskos-0.1.4                    https://github.com/gbv/skos2jskos/issues/4
+App-wdq-0.4.4                           https://github.com/nichtich/wdq/issues/30
+Config-NameValue-1.03                   127668
+CPU-Z80-Disassembler-0.05               127669
+Data-TreeDumper-Utils-0.04.4            127670
+MooseX-DataModel-1.00                   127671
+Test-MockFile-0.012                     https://github.com/CpanelInc/Test-MockFile/issues/20
+Text-SmartLinks-0.01                    127673
+Device-USB-0.37                         125358
+GitHub-Extract-0.02                     127674
+Locale-Simple-0.019                     127675
+Log-Dispatch-Email-Mailer-1.03          127677
+Text-Hoborg-0.0.6                       127678
