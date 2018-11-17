@@ -3363,7 +3363,6 @@ FBP-Perl-0.78                           123867
 File-BLOB-1.08                          123867
 File-Find-Rule-PPI-1.06                 123867
 File-Find-Rule-VCS-1.08                 123867
-GitHub-Extract-0.02                     123867
 HTML-InfoVis-0.03                       123867
 HTTP-Online-0.02                        123867
 Imager-Search-1.01                      123867
@@ -4101,7 +4100,7 @@ MooseX-DataModel-1.00                   127671
 Test-MockFile-0.012                     https://github.com/CpanelInc/Test-MockFile/issues/20
 Text-SmartLinks-0.01                    127673
 Device-USB-0.37                         125358
-GitHub-Extract-0.02                     127674
+GitHub-Extract-0.02                     123867,127674
 Locale-Simple-0.019                     127675
 Log-Dispatch-Email-Mailer-1.03          127677
 Text-Hoborg-0.0.6                       127678
