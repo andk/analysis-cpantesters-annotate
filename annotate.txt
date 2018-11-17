@@ -2791,7 +2791,6 @@ Experian-IDAuth-2.3                     120325
 Git-Repo-Commits-0.0.4                  120339
 WWW-Desk-0.10                           116965
 AnyEvent-7.13                           120350
-Net-Whois-IANA-0.41                     120357
 Binary-Heap-Array-2017.121              120361
 BioX-FedDB-0.01                         120362
 Dezi-Bot-0.003                          120363
