@@ -4105,3 +4105,15 @@ App-CatalystStarter-Bloated-v0.9.3      127694
 FormValidator-Simple-Plugin-V8-0.01     127695
 RPC-XML-0.80                            120472
 Mojolicious-Plugin-CGI-0.39             https://github.com/jhthorsen/mojolicious-plugin-cgi/issues/30
+Data-RecordStore-4                      127709
+IPC-Shareable-0.61                      91197,91841
+Net-SAML2-0.17                          127710
+Flickr-API2-2.50                        127711
+MySQL-Util-0.29                         127712
+TaskPipe-0.06                           127713
+tk-zinc-3.303                           127714
+Types-SQL-v0.3.0                        https://github.com/robrwo/Types-SQL/issues/4
+App-Guiio-0.991                         127715
+Mac-MissileLauncher-0.01                127716
+TreePath-Role-Graph-0.07                127718
+CPAN-Testers-API-0.025                  https://github.com/cpan-testers/cpantesters-api/issues/38
