@@ -760,7 +760,6 @@ Kafka-0.8010                            103330
 HTML-FormHandlerX-Form-JQueryValidator-0.05 103324
 Code-Statistics-1.112980                103333
 Data-Printer-Filter-ClassicRegex-0.01   103335
-Flickr-API2-2.10                        103337
 Twitter-Daily-0.1.3                     103396
 Triggermail-1.005                       The module Triggermail is now deprecated.
 Test-AutoLoader-0.03                    77942
@@ -2465,7 +2464,6 @@ Perl6-Form-0.05                         117781
 Poker-Eval-0.03                         111046
 Captcha-reCAPTCHA-0.98                  117790
 WebService-NotifyMyAndroid-0.0.6        117791
-Net-SAML2-0.18                          117797
 Test-LatestPrereqs-0.02                 117802
 Test-Benchmark-0.004                    78290
 Template-Provider-DBIC-0.02             117803
@@ -3668,7 +3666,6 @@ Alien-RRDtool-0.06                      124928
 Device-CableModem-Motorola-SB4200-0.12  124929
 GD-Thumbnail-1.42                       123535
 Lingua-Any-Numbers-0.46                 124930
-Data-RecordStore-3.16                   124933
 FFmpeg-Thumbnail-0.02                   103159,124945
 Unicode-ICU-Collator-0.002              124946
 Tatsumaki-0.1013                        118843
@@ -3745,7 +3742,6 @@ CPAN-Testers-Common-Client-0.14         https://github.com/garu/CPAN-Testers-Com
 Evo-0.0405                              https://github.com/alexbyk/perl-evo/issues/6
 AWS-CLIWrapper-1.14                     125410
 Crypt-Sodium-0.11                       125394
-TaskPipe-0.04                           125411
 Type-Tiny-1.003_002                     124067
 Mojolicious-Plugin-Cron-0.022           https://github.com/dmanto/Mojolicious-Plugin-Cron/issues/1
 App-perlbrew-0.83                       125431
