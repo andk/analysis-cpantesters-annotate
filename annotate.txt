@@ -2969,7 +2969,6 @@ Gloom-0.25                              https://github.com/ingydotnet/gloom-pm/i
 Tie-DB_FileLock-0.11                    121601
 Debug-EchoMessage-1.03                  121602
 Math-BigInt-Lite-0.17                   120893
-Audio-TagLib-1.67                       114586
 Modern-PBP-Perl-1.240                   121650
 TestRail-API-0.039                      121643
 Acme-CPANAuthors-Turkish-0.23           121657
@@ -4102,7 +4101,7 @@ Net-Whois-IANA-0.44                     127689
 PerlPowerTools-1.013                    https://github.com/briandfoy/PerlPowerTools/issues/62
 Pod-Weaver-Plugin-Ditaa-0.001006        https://github.com/frioux/Pod-Weaver-Plugin-Ditaa/issues/5
 Run-Parts-0.09                          127691
-Audio-TagLib-1.67                       127692
+Audio-TagLib-1.67                       114586,127692
 Log-Dispatch-Message-Passing-0.009      127156
 App-CatalystStarter-Bloated-v0.9.3      127694
 FormValidator-Simple-Plugin-V8-0.01     127695
