@@ -3646,7 +3646,6 @@ Algorithm-BloomFilter-0.02              124893
 Log-Syslog-Fast-0.65                    113278,124895
 Alien-gettext-0.001                     124896
 JSPL-1.07                               124897,124898
-Alien-LibUSB-0.2                        https://github.com/athreef/Alien-LibUSB/issues/1,https://github.com/athreef/Alien-LibUSB/issues/2
 Cv-0.29                                 124904
 Games-Go-Sgf2Dg-4.252                   124905
 Unicode-Support-0.001                   79669,124907
