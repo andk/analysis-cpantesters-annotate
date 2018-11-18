@@ -4111,3 +4111,10 @@ Qudo-Driver-DBI-0.03                    127722,127723
 Alien-LibUSB-0.3                        https://github.com/athreef/Alien-LibUSB/issues/2
 Alien-FreeImage-1.001                   127724
 App-githook-perltidy-0.12.2             127725
+Async-Event-Interval-1.00               https://github.com/stevieb9/async-event-interval/issues/3
+Data-Alias-1.21                         127726
+Filesys-Virtual-SSH-0.03                64397
+Text-Hatena-0.20                        30529
+Classic-Perl-0.07                       127727,127728
+Catalyst-View-Haml-1.00                 127729
+AnyEvent-Redis-RipeRedis-1.62           https://github.com/iph0/AnyEvent-Redis-RipeRedis/issues/3
