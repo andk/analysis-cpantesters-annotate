@@ -3261,7 +3261,6 @@ Plack-Session-Store-RedisFast-0.05      123429
 XML-DOMBacked-1.00                      123431
 Alien-GEOS-0.01                         123432
 Alien-Hush-0.8889                       123433
-Test-NoXS-1.03                          https://github.com/dagolden/Test-NoXS/issues/3
 Alien-qd-0.01                           123434
 jQuery-0.004                            random XPath failures, no RT queue
 PDLA-2.013003                           https://sourceforge.net/p/pdl/bugs/441/
@@ -3369,7 +3368,6 @@ ORLite-Migrate-1.10                     123867
 ORLite-Mirror-1.24                      101104,123867
 ORLite-Pod-0.11                         123867
 Object-Destroyer-2.01                   123867
-Object-Signature-1.07                   123867
 OpenGL-List-0.01                        109996,123867
 OpenGL-RWX-0.02                         123867
 Oz-0.01                                 123867
@@ -3840,7 +3838,6 @@ WWW-YNAB-0.01                           https://github.com/doy/www-ynab/issues/1
 HTML-Defang-1.06                        110663
 PkgConfig-LibPkgConf-0.08               https://github.com/plicease/PkgConfig-LibPkgConf/issues/6
 Pod-PseudoPod-DocBook-0.101             https://github.com/briandfoy/pod-pseudopod-docbook/issues/1
-Net-RDAP-0.5                            125693
 Iterator-Paged-1.001                    77712,125683
 Proc-ProcessTable-Colorizer-0.2.0       125692
 WWW-Pastebin-PastebinCa-Retrieve-1.001002 https://github.com/zoffixznet/WWW-Pastebin-PastebinCa-Retrieve/issues/3
@@ -4012,7 +4009,6 @@ Dancer-Plugin-Auth-Facebook-0.06        https://github.com/Prajithp/Dancer-Plugi
 CPAN-Mini-Extract-1.23                  probably temporary network/webservice problem,123867,127486
 Tk-MARC-1.5                             127487
 App-Validation-Automation-0.02          113159,127490
-Beam-Minion-0.014                       https://github.com/preaction/Beam-Minion/issues/4
 BioX-Map-0.0.12                         127491
 OpusVL-Preferences-0.33                 https://github.com/OpusVL/OpusVL-Preferences/issues/1
 Slovo-2018.10.16                        https://github.com/kberov/Slovo/issues/14
