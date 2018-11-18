@@ -4109,3 +4109,9 @@ App-Guiio-0.991                         127715
 Mac-MissileLauncher-0.01                127716
 TreePath-Role-Graph-0.07                127718
 CPAN-Testers-API-0.025                  https://github.com/cpan-testers/cpantesters-api/issues/38
+Text-Trac-0.19                          127719
+PDL-Algorithm-Center-0.09               127721
+Qudo-Driver-DBI-0.03                    127722,127723
+Alien-LibUSB-0.3                        https://github.com/athreef/Alien-LibUSB/issues/2
+Alien-FreeImage-1.001                   127724
+App-githook-perltidy-0.12.2             127725
