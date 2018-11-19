@@ -4118,3 +4118,7 @@ Text-Hatena-0.20                        30529
 Classic-Perl-0.07                       127727,127728
 Catalyst-View-Haml-1.00                 127729
 AnyEvent-Redis-RipeRedis-1.62           https://github.com/iph0/AnyEvent-Redis-RipeRedis/issues/3
+Catalyst-Authentication-Store-LDAP-1.016 127730
+Log-Dispatch-Atom-0.03                  127731
+Markdown-Pod-0.007                      https://github.com/keedi/Markdown-Pod/issues/12
+XML-Chain-0.05                          127733
