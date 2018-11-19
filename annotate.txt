@@ -3756,7 +3756,6 @@ Google-GeoCoder-Smart-v2.0.1            125464
 Lexical-Types-0.16                      https://rt.perl.org/Ticket/Display.html?id=132385,125465
 Mojolicious-Plugin-JSONAPI-1.5          125470
 Mojolicious-Plugin-SessionStorage-0.1.6 125187
-Sah-Schemas-Net-0.004                   125476
 Data-Sah-0.891                          125478
 Image-Magick-Brand-0.01                 125480
 Linux-Clone-1.2                         fails on older linux kernels (without bug report)
@@ -3841,7 +3840,6 @@ Proc-ProcessTable-Colorizer-0.2.0       125692
 WWW-Pastebin-PastebinCa-Retrieve-1.001002 https://github.com/zoffixznet/WWW-Pastebin-PastebinCa-Retrieve/issues/3
 grpc-xs-0.10                            125710
 Data-Edit-Xml-SDL-20170809              125717
-Webservice-Judobase-0.001-TRIAL         https://github.com/lancew/Webservice-Judobase/issues/6
 Test-VCR-LWP-0.5                        125719,125720
 MooX-Enumeration-0.002                  125748
 B-DeparseTree-v3.3.0                    125753
@@ -4010,7 +4008,6 @@ Slovo-2018.10.16                        https://github.com/kberov/Slovo/issues/1
 Anego-0.02                              https://github.com/papix/Anego/issues/5
 AnyEvent-Net-Amazon-S3-v0.04.0.80       127494
 Dist-Zilla-PluginBundle-QBit-0.8        127495
-Catmandu-OCLC-0.006                     https://github.com/LibreCat/Catmandu-OCLC/issues/2
 Data-Table-Text-20181026                127496
 Data-TreeDumper-Renderer-GTK-0.02       127497
 Authen-TuringImage-1.008                124873
