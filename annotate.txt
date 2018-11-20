@@ -3178,7 +3178,6 @@ UR-0.46                                 https://github.com/genome/UR/issues/136
 CPAN-Testers-Reports-Counts-0.05        122886
 WebService-Europeana-0.0.2              https://twitter.com/Europeanaeu/status/719563390860046336,https://github.com/hatorikibble/webservice-europeana/issues/1
 ETL-Yertl-0.029                         https://github.com/preaction/ETL-Yertl/issues/153
-Net-LDNS-0.75                           110365,119935
 W3C-LogValidator-1.5                    117591
 DateTime-Format-JSON-MicrosoftDateFormat-0.03 122895
 API-Drip-Request-0.03                   122898
@@ -3458,7 +3457,6 @@ SVN-Notify-2.86                         https://rt.perl.org/Public/Bug/Display.h
 XML-XSS-0.3.5                           https://rt.perl.org/Public/Bug/Display.html?id=132385
 Parallel-Queue-3.6                      https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Redis-CappedCollection-1.10             https://rt.perl.org/rt3/Ticket/Display.html?id=132594
-REST-Neo4p-0.3020                       https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 sanity-1.03                             https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 SQL-Bibliosoph-2.55                     https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Tapper-Installer-5.0.0                  https://rt.perl.org/rt3/Ticket/Display.html?id=132594
@@ -4129,11 +4127,11 @@ App-Eduard-0.001002                     127742
 Poloniex-API-0.04                       127746
 Alien-uPB-0.12                          127747
 Catalyst-Controller-POD-1.0.0           127748
-Net-LDNS-0.75                           121217
+Net-LDNS-0.75                           110365,119935,121217
 CPAN-Testers-Reports-Query-JSON-0.04    127749
 Data-FlexSerializer-1.10                127750
 DBD-SQLcipher-0.03_0019                 127751
 LaTeXML-Plugin-latexmls-1.4.3           127752
 JSON-Any-1.39                           127753
 POE-Component-Server-Bayeux-0.04        127754
-REST-Neo4p-0.3020                       127755
+REST-Neo4p-0.3020                       https://rt.perl.org/rt3/Ticket/Display.html?id=132594,127755
