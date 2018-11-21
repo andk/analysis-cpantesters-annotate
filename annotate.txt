@@ -3216,7 +3216,6 @@ PFT-v1.2.1                              116333
 JPList-0.05                             123090
 Geo-Coder-Cache-0.06                    123135
 WebService-Qiita-V2-0.01                123152
-Yandex-Disk-0.01                        123199
 Term-Table-0.011                        https://github.com/exodist/Term-Table/issues/8
 Marky-0.035                             123251
 Wx-Perl-IconDepot-0.01                  123278
@@ -4044,7 +4043,6 @@ App-wdq-0.4.4                           https://github.com/nichtich/wdq/issues/3
 Config-NameValue-1.03                   127668
 CPU-Z80-Disassembler-0.05               127669
 Data-TreeDumper-Utils-0.04.4            127670
-MooseX-DataModel-1.00                   127671
 Test-MockFile-0.012                     https://github.com/CpanelInc/Test-MockFile/issues/20
 Text-SmartLinks-0.01                    127673
 Device-USB-0.37                         125358
