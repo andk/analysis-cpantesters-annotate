@@ -4121,3 +4121,12 @@ LaTeXML-Plugin-latexmls-1.4.3           127752
 JSON-Any-1.39                           127753
 POE-Component-Server-Bayeux-0.04        127754
 REST-Neo4p-0.3020                       https://rt.perl.org/rt3/Ticket/Display.html?id=132594,127755
+Yandex-Disk-0.04                        https://github.com/vrag86/perl-yandex-disk-api/issues/new
+POE-Filter-JSON-Incr-0.03               117578
+Mail-GPG-1.0.12                         127756
+MooseX-DataModel-1.01                   127757,127758
+POE-Component-Server-HTTP-0.09          127759
+Bitcoin-Crypto-0.01                     127760
+Catmandu-FedoraCommons-0.4              https://github.com/LibreCat/Catmandu-FedoraCommons/issues/4
+Catmandu-MediaHaven-0.08                https://github.com/LibreCat/Catmandu-MediaHaven/issues/1
+XMLRPC-Lite-0.717                       127761
