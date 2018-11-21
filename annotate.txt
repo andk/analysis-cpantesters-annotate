@@ -215,7 +215,6 @@ Audio-File-0.11                         74197
 WWW-RobotRules-Extended-0.02            73439
 XIRCD-0.0.1                             74231
 CGI-Application-Plugin-AJAXUpload-v0.0.3 74284
-Carp-Diagnostics-0.05.3                 74295
 Test-Assert-0.0504                      74341 Class::Inspector
 ObjectDB-InflateColumn-0.01             74416
 Plack-App-Proxy-Selective-0.10          https://github.com/schwern/test-more/issues/249
@@ -657,7 +656,6 @@ Parse-RPN-2.85                          88671
 Acme-PrettyCure-0.1                     https://github.com/kan/p5-acme-prettycure/issues/5
 Acme-Study-Perl-0.0.2                   https://github.com/Test-More/test-more/issues/487
 File-Rsync-0.44                         38938 (this is about 0.43 but maybe also about 0.44?)
-List-Tuples-0.04.4                      95305
 Text-Glob-DWIW-0.01                     100207
 Test-Given-0.3.1                        95383
 subs-auto-0.08                          100221
@@ -3270,7 +3268,6 @@ Bit-Vector-7.4                          https://rt.perl.org/Ticket/Display.html?
 Javascript-Closure-0.09                 117455
 IPC-System-Simple-1.25                  https://github.com/pjf/ipc-system-simple/issues/21
 UNIVERSAL-isa-1.20171012                https://rt.perl.org/Ticket/Display.html?id=132395
-Pootle-Client-0.08                      https://github.com/KohaSuomi/Pootle-Client/issues/6
 CGI-Compile-0.22                        https://github.com/miyagawa/CGI-Compile/issues/21
 Net-FTPServer-1.125                     121209,121208
 Religion-Bible-Regex-Builder-0.99       109205,123579
@@ -4126,10 +4123,10 @@ Catmandu-FedoraCommons-0.4              https://github.com/LibreCat/Catmandu-Fed
 Catmandu-MediaHaven-0.08                https://github.com/LibreCat/Catmandu-MediaHaven/issues/1
 XMLRPC-Lite-0.717                       127761
 Mailru-Cloud-0.05                       https://github.com/vrag86/perl-mailru-cloud-api/issues/3
-Pootle-Client-0.08                      127763
+Pootle-Client-0.08                      https://github.com/KohaSuomi/Pootle-Client/issues/6,127763
 TaskPipe-0.07                           127713
-Carp-Diagnostics-0.05.3                 127764,127765
-List-Tuples-0.04.4                      127766
+Carp-Diagnostics-0.05.3                 74295,127764,127765
+List-Tuples-0.04.4                      95305,127766
 Finance-Quant-0.09                      127767
 Qgoda-0.9.4                             127768
 Device-Chip-TMP102-0.01                 127769
