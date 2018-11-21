@@ -1689,7 +1689,6 @@ Net-IPA-1.0                             113511
 App-iTan-1.06                           113160
 Catalyst-Plugin-DBIC-Schema-Profiler-0.06 113559
 Mojolicious-Plugin-ForkAndGo-0.01       113586
-WebService-TeamCity-0.03                https://github.com/maxmind/WebService-TeamCity/issues/1
 MooseX-Params-0.010                     113600
 SOAP-WSDL-3.003                         71679
 Sweet-Home-0.06                         https://github.com/fibo/Sweet-Home-pm/issues/2
@@ -3788,7 +3787,6 @@ Unix-Lsof-0.1.0                         125550
 Lingua-Identify-CLD2-0.03               114587,114588,125554
 Systemd-Daemon-0.07                     117701
 Crypt-Dining-1.01                       125560
-URI-ParseSearchString-More-0.17         https://github.com/oalders/uri-parsesearchstring-more/issues/1,https://github.com/oalders/uri-parsesearchstring-more/issues/2
 Dita-Project-20180530                   125570
 Bot-Training-0.06                       125575
 Mojolicious-Plugin-Prometheus-1.1.1     https://github.com/tyldum/mojolicious-plugin-prometheus/issues/15
@@ -3862,7 +3860,6 @@ SockJS-0.04                             https://github.com/vti/sockjs-perl/issue
 Test2-Harness-0.001069                  https://github.com/Test-More/Test2-Harness/issues/90
 Stringify-Deep-0.03                     127010
 Number-Phone-JP-0.20180904              96155
-Sah-Schemas-ISBN-0.004                  126933
 App-Cleo-Patra-0.001                    127078
 Weasel-0.14                             https://github.com/perl-weasel/weasel/issues/18
 Log-Log4perl-Shortcuts-0.019            https://github.com/sdondley/Log-Log4perl-Shortcuts/issues/2
