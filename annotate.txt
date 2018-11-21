@@ -1748,7 +1748,6 @@ IO-Async-0.70                           114376
 Mojolicious-Plugin-Args-0.05            https://github.com/sharabash/Mojolicious-Plugin-Args/issues/1
 Math-SymbolicX-Calculator-Interface-Shell-0.02 114458
 WebService-Recruit-Eyeco-0.0.1          114459
-ExtJS-Generator-DBIC-0.002              114531,114532
 CouchDB-View-0.003                      67033
 Test-Pretty-0.32                        https://github.com/tokuhirom/Test-Pretty/issues/36
 DBIx-Class-FromSledge-0.03              114546
@@ -3604,7 +3603,6 @@ WebService-SendGrid-Newsletter-0.02     https://github.com/Sidnet/p5-WebService-
 HTTP-XSCookies-0.000019                 124731
 JSON-Validator-2.04                     https://github.com/jhthorsen/json-validator/issues/101
 Locale-CLDR-v0.32.0-TRIAL2              https://github.com/ThePilgrim/perlcldr/issues/21
-Mailru-Cloud-0.02                       https://github.com/vrag86/perl-mailru-cloud-api/issues/1
 Reddit-Client-1.20                      124767
 Test2-Tools-xUnit-0.003                 https://github.com/cv-library/Test2-Tools-xUnit/issues/1
 Time-HiRes-1.9755                       124775
@@ -4070,7 +4068,6 @@ IPC-Shareable-0.61                      91197,91841
 Net-SAML2-0.17                          127710
 Flickr-API2-2.50                        127711
 MySQL-Util-0.29                         127712
-TaskPipe-0.06                           127713
 tk-zinc-3.303                           127714
 Types-SQL-v0.3.0                        https://github.com/robrwo/Types-SQL/issues/4
 App-Guiio-0.991                         127715
