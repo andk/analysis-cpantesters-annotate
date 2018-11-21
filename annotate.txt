@@ -4125,3 +4125,13 @@ Bitcoin-Crypto-0.01                     127760
 Catmandu-FedoraCommons-0.4              https://github.com/LibreCat/Catmandu-FedoraCommons/issues/4
 Catmandu-MediaHaven-0.08                https://github.com/LibreCat/Catmandu-MediaHaven/issues/1
 XMLRPC-Lite-0.717                       127761
+Mailru-Cloud-0.05                       https://github.com/vrag86/perl-mailru-cloud-api/issues/3
+Pootle-Client-0.08                      127763
+TaskPipe-0.07                           127713
+Carp-Diagnostics-0.05.3                 127764,127765
+List-Tuples-0.04.4                      127766
+Finance-Quant-0.09                      127767
+Qgoda-0.9.4                             127768
+Device-Chip-TMP102-0.01                 127769
+ExtJS-Generator-DBIC-0.003              127770
+Alien-sispmctl-0.001                    127771
