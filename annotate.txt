@@ -718,7 +718,6 @@ DBIx-Class-Result-ColumnData-0.16       84928
 WebService-PutIo-0.3                    101809
 mousex-getopt-0.35                      https://github.com/gfx/mousex-getopt/issues/5
 File-Locate-Iterator-23                 https://rt.perl.org/rt3/Ticket/Display.html?id=123739
-IO-Handle-Util-0.01                     https://rt.perl.org/rt3/Ticket/Display.html?id=123739
 Iterator-IO-0.02                        https://rt.perl.org/rt3/Ticket/Display.html?id=123739
 Slurp-0.4                               https://rt.perl.org/rt3/Ticket/Display.html?id=123739
 Dist-Zilla-PluginBundle-RBO-0.002       101998
@@ -1905,7 +1904,6 @@ Devel-QuickCover-0.600000               115010
 Test-Needs-0.002001                     115021
 libintl-perl-1.25                       115052
 Encode-Arabic-14.1                      115138
-Text-Amuse-Compile-0.59                 115177
 Specio-0.21                             115418
 Lorem-0.22                              80289
 Tie-SecureHash-1.10                     115772
@@ -3128,7 +3126,6 @@ WWW-ActiveState-PPM-0.01                122460
 Bot-BasicBot-Pluggable-Module-Gitbot-1.00.01 122461
 CIPP-3.0.8                              122464
 Tickit-Widget-Term-0.003                122509
-Mail-DMARC-1.20170222                   https://github.com/msimerson/mail-dmarc/issues/111
 CGIS-1.6                                122491
 Class-Builder-1.010                     122492
 PlugAuth-0.36                           https://github.com/clustericious/PlugAuth/issues/3
@@ -3613,7 +3610,6 @@ HTTP-XSCookies-0.000019                 124731
 JSON-Validator-2.04                     https://github.com/jhthorsen/json-validator/issues/101
 Locale-CLDR-v0.32.0-TRIAL2              https://github.com/ThePilgrim/perlcldr/issues/21
 Mailru-Cloud-0.02                       https://github.com/vrag86/perl-mailru-cloud-api/issues/1
-Mojo-IOLoop-ReadWriteFork-0.36          https://github.com/jhthorsen/mojo-ioloop-readwritefork/issues/11
 Reddit-Client-1.20                      124767
 Test2-Tools-xUnit-0.003                 https://github.com/cv-library/Test2-Tools-xUnit/issues/1
 Time-HiRes-1.9755                       124775
@@ -3693,10 +3689,8 @@ WWW-UsePerl-Journal-0.26                125119
 File-Copy-Recursive-0.41                125135
 Lexical-SealRequireHints-0.011          https://rt.perl.org/Ticket/Display.html?id=133135
 Outlook-Mail-Count-1.01                 125155
-DBIx-RunSQL-0.18                        125157
 Data-Sah-Coerce-0.024                   123095
 Business-BR-CNJ-NumberExtractor-0.07    125160
-Config-IniFiles-2.97                    125161
 Data-Edit-Xml-Lint-20180421             125166,125167
 Dist-Zilla-6.012                        https://github.com/rjbs/Dist-Zilla/issues/612
 Sub-Name-0.25-TRIAL                     125159
@@ -3839,8 +3833,6 @@ grpc-xs-0.10                            125710
 Data-Edit-Xml-SDL-20170809              125717
 Test-VCR-LWP-0.5                        125719,125720
 MooX-Enumeration-0.002                  125748
-B-DeparseTree-v3.3.0                    125753
-Module-Install-Bugtracker-0.0304        125799
 Search-Xapian-1.2.25.1                  compile error on many systems
 Net-EGTS-0.01                           https://github.com/dr-co/Net-EGTS/issues/1
 Elasticsearch-Model-0.1.4               125898
@@ -3910,7 +3902,6 @@ HTML-DOM-0.058                          127251
 FB3-Convert-0.15                        127150
 Graphics-ColorNames-Netscape-v3.1.1     https://github.com/robrwo/Graphics-ColorNames-Netscape/issues/1
 Graphics-ColorNames-Werner-v1.0.1       https://github.com/robrwo/Graphics-ColorNames-Werner/issues/1
-OpenAPI-Client-0.20                     https://github.com/jhthorsen/openapi-client/issues/15
 Mojolicious-Command-generate-resources-0.21 https://github.com/kberov/Mojolicious-Command-generate-resources/issues/3
 Mojolicious-Plugin-JSUrlFor-Angular-0.18 127259
 Mojolicious-Plugin-CHI-0.18             https://github.com/Akron/Mojolicious-Plugin-CHI/issues/7
@@ -3920,7 +3911,6 @@ IMDB-JSON-0.02                          127265
 Number-WithError-1.01                   127267
 Stor-1.5.2                              https://github.com/avast/Stor/issues/19
 Data-Context-v0.2.3                     127276
-Git-Hooks-2.9.6                         https://github.com/gnustavo/Git-Hooks/issues/56
 Git-MoreHooks-0.006                     127281
 Git-Repository-1.322                    127282
 Git-XS-0.02                             127285
