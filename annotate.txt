@@ -4131,3 +4131,5 @@ Catmandu-Inspire-0.265                  https://github.com/LibreCat/Catmandu-Ins
 PONAPI-Server-0.003002                  127778
 Test-Aggregate-0.375                    100035
 Dist-Zilla-Plugin-LaunchpadPPA-0.1      127779
+Gtk2-1.24992                            127781
+Tk-ExecuteCommand-1.6                   102434
