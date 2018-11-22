@@ -4129,3 +4129,10 @@ Qgoda-0.9.4                             127768
 Device-Chip-TMP102-0.01                 127769
 ExtJS-Generator-DBIC-0.003              127770
 Alien-sispmctl-0.001                    127771
+Perl-Critic-Pulp-96                     127777
+Sub-Fp-0.23                             127672
+TaskPipe-0.08                           127713
+Catmandu-Inspire-0.265                  https://github.com/LibreCat/Catmandu-Inspire/issues/4
+PONAPI-Server-0.003002                  127778
+Test-Aggregate-0.375                    100035
+Dist-Zilla-Plugin-LaunchpadPPA-0.1      127779
