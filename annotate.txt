@@ -4029,7 +4029,6 @@ Net-Async-HTTP-0.43                     127649
 Net-Async-HTTP-Server-0.09              127650
 Device-Chip-ADT7470-0.02                127651
 File-Slurp-9999.25                      117005
-Sub-Fp-0.21                             127473,127672
 App-skos2jskos-0.1.4                    https://github.com/gbv/skos2jskos/issues/4
 App-wdq-0.4.4                           https://github.com/nichtich/wdq/issues/30
 Config-NameValue-1.03                   127668
@@ -4121,7 +4120,6 @@ Catmandu-MediaHaven-0.08                https://github.com/LibreCat/Catmandu-Med
 XMLRPC-Lite-0.717                       127761
 Mailru-Cloud-0.05                       https://github.com/vrag86/perl-mailru-cloud-api/issues/3
 Pootle-Client-0.08                      https://github.com/KohaSuomi/Pootle-Client/issues/6,127763
-TaskPipe-0.07                           127713
 Carp-Diagnostics-0.05.3                 74295,127764,127765
 List-Tuples-0.04.4                      95305,127766
 Finance-Quant-0.09                      127767
