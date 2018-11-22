@@ -3843,7 +3843,6 @@ Alien-TinyCC-0.06                       https://github.com/run4flat/Alien-TinyCC
 Future-HTTP-0.09                        126012
 Net-Async-FTP-0.08                      126038
 Devel-MAT-0.39                          126041
-WebService-Hexonet-Connector-1.11       126013
 overload-x-0.101                        126042
 Mojo-WebSocketProxy-0.10                https://github.com/binary-com/perl-Mojo-WebSocketProxy/issues/38
 App-ygeo-0.02                           126283
@@ -3854,7 +3853,6 @@ Amazon-S3-Thin-0.22                     https://github.com/DQNEO/Amazon-S3-Thin/
 SockJS-0.04                             https://github.com/vti/sockjs-perl/issues/8
 Test2-Harness-0.001069                  https://github.com/Test-More/Test2-Harness/issues/90
 Stringify-Deep-0.03                     127010
-Number-Phone-JP-0.20180904              96155
 App-Cleo-Patra-0.001                    127078
 Weasel-0.14                             https://github.com/perl-weasel/weasel/issues/18
 Log-Log4perl-Shortcuts-0.019            https://github.com/sdondley/Log-Log4perl-Shortcuts/issues/2
@@ -3923,7 +3921,6 @@ Filesys-POSIX-0.9.19                    127334
 Hetula-Client-0.007                     https://github.com/kivilahtio/libhetula-client-perl/issues/3
 Net-SMTP-Verify-1.04                    125600
 File-Stamped-0.08                       127361,https://rt.perl.org/Ticket/Display.html?id=133585
-Parallel-Loops-0.08                     127362
 Catalyst-Runtime-5.90119                125843,https://rt.perl.org/Ticket/Display.html?id=133585
 Mojolicious-Plugin-TtRenderer-1.59      https://github.com/plicease/Mojolicious-Plugin-TtRenderer/issues/47
 Astro-SpaceTrack-0.119_01               127371
