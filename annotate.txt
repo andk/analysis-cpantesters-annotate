@@ -3601,7 +3601,6 @@ Finance-Currency-Convert-ECBdaily-0.03  124736
 WebService-SendGrid-Newsletter-0.02     https://github.com/Sidnet/p5-WebService-SendGrid-Newsletter/issues/17
 HTTP-XSCookies-0.000019                 124731
 JSON-Validator-2.04                     https://github.com/jhthorsen/json-validator/issues/101
-Locale-CLDR-v0.32.0-TRIAL2              https://github.com/ThePilgrim/perlcldr/issues/21
 Reddit-Client-1.20                      124767
 Test2-Tools-xUnit-0.003                 https://github.com/cv-library/Test2-Tools-xUnit/issues/1
 Time-HiRes-1.9755                       124775
@@ -3845,7 +3844,6 @@ Devel-MAT-0.39                          126041
 overload-x-0.101                        126042
 Mojo-WebSocketProxy-0.10                https://github.com/binary-com/perl-Mojo-WebSocketProxy/issues/38
 App-ygeo-0.02                           126283
-Babble-0.090005                         126285
 Archive-Zip-1.62                        126905
 Lexical-TypeTiny-0.002                  126912
 Amazon-S3-Thin-0.22                     https://github.com/DQNEO/Amazon-S3-Thin/issues/25
