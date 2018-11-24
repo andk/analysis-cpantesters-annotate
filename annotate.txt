@@ -3757,7 +3757,6 @@ Regexp-Compare-0.28                     125509
 Hush-0.03                               125521
 Sah-Schemas-App-cryp-0.002              125528
 App-Docker-Client-0.010300              125529
-CPAN-Testers-Common-DBUtils-0.11        125361
 Date-Holidays-CA_ES-0.03                https://github.com/miquelruiz/Date-Holidays-CA_ES/issues/2
 Global-IPC-StaticVariable-0.015         https://github.com/itsusony/Global-IPC-StaticVariable/issues/1,https://github.com/itsusony/Global-IPC-StaticVariable/issues/2,https://github.com/itsusony/Global-IPC-StaticVariable/issues/3
 DBIx-Handler-Sunny-0.02                 https://github.com/tarao/perl5-DBIx-Handler-Sunny/issues/2,https://github.com/tarao/perl5-DBIx-Handler-Sunny/issues/3
@@ -3810,7 +3809,6 @@ Dancer2-Session-DatabasePlugin-1.0001   125670
 Padre-Plugin-Vi-0.23                    125673
 JSONize-0.1                             https://github.com/majensen/jsonize/issues/1
 Mojo-UserAgent-Role-Queued-0.04         https://github.com/dotandimet/Mojo-UserAgent-Role-Queued/issues/2
-WWW-YNAB-0.01                           https://github.com/doy/www-ynab/issues/1
 HTML-Defang-1.06                        110663
 PkgConfig-LibPkgConf-0.08               https://github.com/plicease/PkgConfig-LibPkgConf/issues/6
 Pod-PseudoPod-DocBook-0.101             https://github.com/briandfoy/pod-pseudopod-docbook/issues/1
@@ -3983,7 +3981,6 @@ File-MimeInfo-Simple-0.7                95158,127502
 Alien-Sodium-1.0.8.0                    https://github.com/ajgb/alien-sodium/issues/6
 Alien-LMDB-0.104                        https://github.com/hoytech/Alien-LMDB/issues/4
 WWW-Mechanize-PhantomJS-0.21            125559
-Lingua-EN-Fathom-1.21                   127534,127535
 Mojolicious-Plugin-Mailgun-0.09         https://github.com/marcusramberg/mojolicious-plugin-mailgun/issues/2
 WWW-Kickstarter-v1.14.0                 127547
 Role-REST-Client-0.23                   127558
