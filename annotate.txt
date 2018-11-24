@@ -4128,3 +4128,4 @@ Config-Model-2.128                      https://github.com/dod38fr/config-model/
 Ithumb-XS-v0.1.4.1                      127782
 HPCI-0.72                               124695
 Algorithm-Cluster-1.57                  120442
+POE-Component-DirWatch-0.300004         127804
