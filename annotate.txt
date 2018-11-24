@@ -3159,7 +3159,6 @@ DBIx-Class-InflateColumn-S3-0.01        hidden MacOSX files, no bugtracker
 Data-Validate-XSD-1.05                  122730
 WordNet-Extend-1.000                    122732
 Hash-SharedMem-0.005                    122775
-Algorithm-Cluster-1.53                  120442
 Statistics-Multtest-0.14                122859
 Mail-OpenDKIM-4204                      122861
 IPC-MorseSignals-0.17                   117528, module is deprecated
@@ -3726,7 +3725,6 @@ Mojolicious-Plugin-Cron-0.022           https://github.com/dmanto/Mojolicious-Pl
 App-perlbrew-0.83                       125431
 Catmandu-PICA-0.26                      https://github.com/gbv/Catmandu-PICA/issues/62
 Dist-Zilla-MintingProfile-FB11-0.016    https://github.com/OpusVL/Dist-Zilla-MintingProfile-FB11/issues/1
-HPCI-0.70                               124695
 WebService-Naver-TTS-v0.0.3             125467
 Date-Holidays-1.11                      https://github.com/jonasbn/perl-date-holidays/issues/26
 Alien-Google-GRPC-0.07                  125456
@@ -3924,7 +3922,6 @@ CPAN-Audit-0.06                         https://github.com/vti/cpan-audit/issues
 CPAN-Mini-ProjectDocs-0.03.9            127381
 Mongoose-2.00                           https://github.com/rodrigolive/mongoose/issues/55
 Test-Legal-0.10                         127385
-Config-Model-2.127                      https://github.com/dod38fr/config-model/issues/22
 Makefile-DOM-0.008                      120809
 Makefile-GraphViz-0.21                  127388
 OAuth-Lite-1.34                         114657,125359
