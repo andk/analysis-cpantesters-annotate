@@ -4128,3 +4128,6 @@ Ithumb-XS-v0.1.4.1                      127782
 HPCI-0.72                               124695
 Algorithm-Cluster-1.57                  120442
 POE-Component-DirWatch-0.300004         127804
+JSCalendar-Duration-0.001               https://github.com/wolfsage/JSCalendar-Duration/issues/2
+Mojolicious-Plugin-ZipBomb-0.02         127803
+MVC-Neaf-0.2602                         https://github.com/dallaylaen/perl-mvc-neaf/issues/3
