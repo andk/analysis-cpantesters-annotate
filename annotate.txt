@@ -813,7 +813,6 @@ User-Simple-1.45                        103957
 Riak-Light-0.12                         https://github.com/Weborama/Riak-Light/issues/20
 AnyEvent-Tickit-0.01                    104852
 test-mojo-session-1.02                  https://github.com/avkhozov/Test-Mojo-Session/issues/3,see also Test-Mojo-Session
-POE-Component-DirWatch-0.300003         81765
 Perl-Critic-Dynamic-0.05                103382
 cexio-0.2.3                             105011
 Catalyst-View-TT-ControllerLocal-0.02   105010
