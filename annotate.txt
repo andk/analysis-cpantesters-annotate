@@ -4131,3 +4131,4 @@ POE-Component-DirWatch-0.300004         127804
 JSCalendar-Duration-0.001               https://github.com/wolfsage/JSCalendar-Duration/issues/2
 Mojolicious-Plugin-ZipBomb-0.02         127803
 MVC-Neaf-0.2602                         https://github.com/dallaylaen/perl-mvc-neaf/issues/3
+Sys-HostIP-2.100                        https://github.com/xsawyerx/sys-hostip/issues/17
