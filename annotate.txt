@@ -693,7 +693,6 @@ Inline-CPP-0.69                         100982
 Switch-2.17                             96753
 Parse-MediaWikiDump-1.0.6               https://rt.perl.org/rt3/Ticket/Display.html?id=123462
 XML-XML2JSON-0.06                       101082
-Hailo-0.72                              92795,101085
 CatalystX-Resource-0.02                 https://github.com/davewood/catalystx-resource/issues/3
 Data-Dump-XML-1.19                      81637
 MavenBuilds-Tasks-BuildWebappsWithMaven-0.01 101159
