@@ -3310,7 +3310,6 @@ Devel-TraceMethods-1.00                 123667
 Log-Trace-1.070                         49409,https://rt.perl.org/Public/Bug/Display.html?id=132252
 Prima-1.52                              https://rt.perl.org/Public/Bug/Display.html?id=132252
 Perl-Critic-More-1.003                  123847
-App-CharmKit-2.08                       undeclared dependency, no issue tracker
 Alien-LZO-0.02                          123851
 IPC-Cache-0.02                          123852
 Catalyst-Plugin-Upload-Image-Magick-0.04 123861
@@ -4111,7 +4110,6 @@ ExtJS-Generator-DBIC-0.003              127770
 Alien-sispmctl-0.001                    127771
 Perl-Critic-Pulp-96                     127777
 Sub-Fp-0.23                             127672
-TaskPipe-0.08                           127713
 Catmandu-Inspire-0.265                  https://github.com/LibreCat/Catmandu-Inspire/issues/4
 PONAPI-Server-0.003002                  127778
 Test-Aggregate-0.375                    100035
@@ -4122,7 +4120,6 @@ Pod-Tree-1.25                           https://github.com/szabgab/Pod-Tree/issu
 Data-RecordStore-4.03                   127802
 Config-Model-2.128                      https://github.com/dod38fr/config-model/issues/22
 Ithumb-XS-v0.1.4.1                      127782
-HPCI-0.72                               124695
 Algorithm-Cluster-1.57                  120442
 POE-Component-DirWatch-0.300004         127804
 JSCalendar-Duration-0.001               https://github.com/wolfsage/JSCalendar-Duration/issues/2
@@ -4131,7 +4128,6 @@ MVC-Neaf-0.2602                         https://github.com/dallaylaen/perl-mvc-n
 Sys-HostIP-2.100                        https://github.com/xsawyerx/sys-hostip/issues/17
 Image-Scale-0.14                        119094
 AnyEvent-WebSocket-Client-0.49          https://github.com/plicease/AnyEvent-WebSocket-Client/issues/41
-Hailo-0.73                              127820
 Mojo-Log-Che-0.07                       127822
 App-CharmKit-2.11                       127823
 HPCI-0.73                               127826,124695,120461
