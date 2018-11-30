@@ -4139,3 +4139,7 @@ SRU-1.01                                https://github.com/bricas/sru-perl/issue
 Hailo-0.75                              127838
 Sah-Schemas-Perl-0.014                  127839
 TaskPipe-0.09                           127840
+Catalyst-Plugin-Statsd-v0.4.0           https://github.com/robrwo/CatalystX-Statsd/issues/1
+Data-Sah-Coerce-perl-str-str_to_cryptoexchange_safename-0.003 127845
+Data-Sah-CoerceBundle-App-cryp-0.005    127845
+QWizard-3.15                            127846,121401
