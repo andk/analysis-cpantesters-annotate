@@ -3707,7 +3707,6 @@ Mail-Milter-Authentication-2.20180511   https://github.com/fastmail/authenticati
 Web-Microformats2-0.3                   https://github.com/jmacdotorg/microformats2-perl/issues/1
 oxdperl-0.05                            124706,124707,124708
 DBIx-Error-1.0.1                        125319
-Mashtree-0.33                           121971
 PMLTQ-Suggest-0.0.2                     https://github.com/ufal/pmltq-suggest-server/issues/4,https://github.com/ufal/pmltq-suggest-server/issues/5
 PDL-2.019                               https://sourceforge.net/p/pdl/bugs/445/
 Net-Amazon-SNS-Signature-0.007          125381
@@ -3800,7 +3799,6 @@ Devel-KYTProf-Logger-XRay-0.02          https://github.com/fujiwara/Devel-KYTPro
 Test-WWW-Simple-0.39                    125651
 POSIX-RT-Spawn-0.11                     125666
 Autodia-2.14                            125668
-Dancer2-Session-DatabasePlugin-1.0001   125670
 Padre-Plugin-Vi-0.23                    125673
 JSONize-0.1                             https://github.com/majensen/jsonize/issues/1
 Mojo-UserAgent-Role-Queued-0.04         https://github.com/dotandimet/Mojo-UserAgent-Role-Queued/issues/2
@@ -3837,12 +3835,10 @@ Mojo-WebSocketProxy-0.10                https://github.com/binary-com/perl-Mojo-
 App-ygeo-0.02                           126283
 Archive-Zip-1.62                        126905
 Lexical-TypeTiny-0.002                  126912
-Amazon-S3-Thin-0.22                     https://github.com/DQNEO/Amazon-S3-Thin/issues/25
 SockJS-0.04                             https://github.com/vti/sockjs-perl/issues/8
 Test2-Harness-0.001069                  https://github.com/Test-More/Test2-Harness/issues/90
 Stringify-Deep-0.03                     127010
 App-Cleo-Patra-0.001                    127078
-Weasel-0.14                             https://github.com/perl-weasel/weasel/issues/18
 Log-Log4perl-Shortcuts-0.019            https://github.com/sdondley/Log-Log4perl-Shortcuts/issues/2
 DBD-mysql-4.048                         https://github.com/perl5-dbi/DBD-mysql/issues/262
 BSD-Sysctl-0.11                         127121
@@ -4002,7 +3998,6 @@ Test-Sys-Info-0.21                      120880
 IPC-PrettyPipe-0.05-TRIAL               127610
 Dist-Zilla-Plugin-Generate-ManifestSkip-v0.1.5 https://github.com/robrwo/Dist-Zilla-Plugin-Generate-ManifestSkip/issues/1
 Keyword-Pluggable-1.02                  127625
-Alien-geos-af-1.001                     https://github.com/shawnlaffan/perl-alien-geos/issues/2
 Dancer2-Plugin-Menu-0.006               https://github.com/sdondley/Dancer2-Plugin-Menu/issues/2
 Net-Interface-1.016                     124582,124991
 FilmAffinity-UserRating-1.00            127643
