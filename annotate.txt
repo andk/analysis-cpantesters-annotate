@@ -4135,9 +4135,8 @@ Data-Sah-Coerce-perl-str-str_to_cryptoexchange_safename-0.003 127845
 Data-Sah-CoerceBundle-App-cryp-0.005    127845
 QWizard-3.15                            127846,121401
 App-diffdir-0.7                         127848
-Data-ObjectStore-2.01                   127849,127850
 FB3-0.12                                127868
-Data-ObjectStore-2.01                   127869
+Data-ObjectStore-2.01                   127849,127850,127869
 Date-Manip-6.74                         127870
 Alien-nragent-0.05                      https://github.com/plicease/Alien-nragent/issues/1
 CGI-Lingua-0.58                         127068
