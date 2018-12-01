@@ -2652,7 +2652,6 @@ MooseX-CurriedDelegation-0.003          https://github.com/RsrchBoy/moosex-curri
 Net-GNUDBSearch-1.01                    118820
 Business-OnlinePayment-Skipjack-0.05    118821
 CatalystX-ASP-1.06                      https://github.com/stvleung/CatalystX-ASP/issues/4
-Date-Manip-6.56                         https://rt.perl.org/Ticket/Display.html?id=130132,118862
 Test-HTTPStatus-2.001                   https://github.com/briandfoy/test-httpstatus/issues/2
 Data-Checker-1.07                       118881
 XML-Twig-3.50                           118909
@@ -3303,7 +3302,6 @@ Net-Async-Beanstalk-0.002               123809
 Class-Declare-Attributes-0.12           123669
 DBM-Deep-2.0014                         123811,https://rt.perl.org/Public/Bug/Display.html?id=132493
 Functional-Utility-1.02                 https://github.com/belden/perl-functional-utility/issues/2
-Glib-1.326                              123813,https://rt.perl.org/Public/Bug/Display.html?id=132252
 Test-Vars-0.014                         https://github.com/houseabsolute/p5-Test-Vars/pull/34
 AnyEvent-HTTP-2.23                      https://rt.perl.org/Public/Bug/Display.html?id=132142,https://www.nntp.perl.org/group/perl.perl5.porters/2017/11/msg247426.html
 Devel-TraceMethods-1.00                 123667
@@ -4136,7 +4134,6 @@ Data-Sah-CoerceBundle-App-cryp-0.005    127845
 QWizard-3.15                            127846,121401
 App-diffdir-0.7                         127848
 FB3-0.12                                127868
-Data-ObjectStore-2.01                   127849,127850,127869
 Date-Manip-6.74                         127870
 Alien-nragent-0.05                      https://github.com/plicease/Alien-nragent/issues/1
 CGI-Lingua-0.58                         127068
