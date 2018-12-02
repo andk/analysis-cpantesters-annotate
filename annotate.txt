@@ -3805,9 +3805,7 @@ Iterator-Paged-1.001                    77712,125683
 Proc-ProcessTable-Colorizer-0.2.0       125692
 WWW-Pastebin-PastebinCa-Retrieve-1.001002 https://github.com/zoffixznet/WWW-Pastebin-PastebinCa-Retrieve/issues/3
 grpc-xs-0.10                            125710
-Data-Edit-Xml-SDL-20170809              125717
 Test-VCR-LWP-0.5                        125719,125720
-MooX-Enumeration-0.002                  125748
 Search-Xapian-1.2.25.1                  compile error on many systems
 Net-EGTS-0.01                           https://github.com/dr-co/Net-EGTS/issues/1
 Elasticsearch-Model-0.1.4               125898
