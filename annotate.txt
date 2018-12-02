@@ -3306,7 +3306,6 @@ Test-Vars-0.014                         https://github.com/houseabsolute/p5-Test
 AnyEvent-HTTP-2.23                      https://rt.perl.org/Public/Bug/Display.html?id=132142,https://www.nntp.perl.org/group/perl.perl5.porters/2017/11/msg247426.html
 Devel-TraceMethods-1.00                 123667
 Log-Trace-1.070                         49409,https://rt.perl.org/Public/Bug/Display.html?id=132252
-Prima-1.52                              https://rt.perl.org/Public/Bug/Display.html?id=132252
 Perl-Critic-More-1.003                  123847
 Alien-LZO-0.02                          123851
 IPC-Cache-0.02                          123852
@@ -3714,7 +3713,6 @@ AWS-CLIWrapper-1.14                     125410
 Crypt-Sodium-0.11                       125394
 Type-Tiny-1.003_002                     124067
 Mojolicious-Plugin-Cron-0.022           https://github.com/dmanto/Mojolicious-Plugin-Cron/issues/1
-App-perlbrew-0.83                       125431
 Catmandu-PICA-0.26                      https://github.com/gbv/Catmandu-PICA/issues/62
 Dist-Zilla-MintingProfile-FB11-0.016    https://github.com/OpusVL/Dist-Zilla-MintingProfile-FB11/issues/1
 WebService-Naver-TTS-v0.0.3             125467
@@ -3833,7 +3831,6 @@ Mojo-WebSocketProxy-0.10                https://github.com/binary-com/perl-Mojo-
 App-ygeo-0.02                           126283
 Archive-Zip-1.62                        126905
 Lexical-TypeTiny-0.002                  126912
-SockJS-0.04                             https://github.com/vti/sockjs-perl/issues/8
 Test2-Harness-0.001069                  https://github.com/Test-More/Test2-Harness/issues/90
 Stringify-Deep-0.03                     127010
 App-Cleo-Patra-0.001                    127078
@@ -3894,7 +3891,6 @@ Net-Google-Drive-0.01                   https://github.com/vrag86/perl-net-googl
 WWW-Shopify-Liquid-0.08                 127306
 DataTables-0.07                         127254,127254
 Dpkg-1.19.2                             127314
-App-MechaCPAN-0.24                      https://github.com/atrodo/App-MechaCPAN/issues/10
 WebService-Mattermost-0.001             127323
 Perinci-Sub-GetArgs-Argv-0.840          127324
 Perinci-CmdLine-Inline-0.544            124858
@@ -4150,7 +4146,6 @@ Plerd-1.7                               127876,127877
 Gnome2-Canvas-1.002                     127878
 Gtk3-SimpleList-0.18                    127879
 Prima-1.53                              127880
-SockJS-0.07                             https://github.com/vti/sockjs-perl/issues/12
 Alien-raylib-0.022                      https://github.com/athreef/Alien-raylib/issues/3
 App-MechaCPAN-0.26                      https://github.com/atrodo/App-MechaCPAN/issues/14
 App-perlbrew-0.84                       125066
