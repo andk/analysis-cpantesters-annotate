@@ -4150,3 +4150,16 @@ App-perlbrew-0.84                       125066
 SockJS-0.08                             https://github.com/vti/sockjs-perl/issues/13
 WebService-UrbanDictionary-2.015        https://github.com/woodruffw/WebService-UrbanDictionary/issues/3
 SVG-ChristmasTree-0.0.1                 https://github.com/davorg/svg-christmastree/issues/1
+Class-MethodMaker-2.24                  127884
+WebService-HIBP-0.06                    127885
+POE-Component-SmokeBox-0.54             127886
+Alien-Electron-0.200                    https://github.com/hoytech/Alien-Electron/issues/6
+Backup-EZ-0.34                          111469
+ELF-sign-0.07                           127887
+Math-MatrixReal-2.13                    127888
+Alien-libpid-0.032                      https://github.com/athreef/Alien-libpid/issues/1
+WWW-FCM-HTTP-0.02                       https://github.com/xaicron/p5-WWW-FCM-HTTP/issues/4
+Alien-libvas-0.215                      https://github.com/athreef/Alien-libvas/issues/1
+Business-KontoCheck-6.06                https://sourceforge.net/p/kontocheck/bugs/22/
+Amazon-Credentials-1.0.6                127890
+Mojolicious-Plugin-Log-Any-0.004        https://github.com/Grinnz/Mojolicious-Plugin-Log-Any/issues/1
