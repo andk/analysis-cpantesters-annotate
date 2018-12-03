@@ -1816,7 +1816,6 @@ Rose-DB-0.777                           114925
 Devel-BeginLift-0.001003                64033,114663,115272
 DBIx-Class-IndexSearch-Dezi-0.05        115189
 App-AutoCRUD-0.13                       115319
-Data-MessagePack-Stream-0.07            115389
 Cikl-0.5.1                              115414
 DateTimeX-AATW-0.04                     115416
 HTML-WebDAO-0.91                        115417
@@ -1905,7 +1904,6 @@ Class-HPLOO-0.23                        115714
 Apache-Session-SharedMem-0.6            115766
 Dist-Metadata-0.926                     115814
 Module-Install-TestTarget-0.19          102922
-Carp-Always-0.13                        115841
 CBOR-XS-1.5                             115844
 App-Sqitch-0.9994                       https://github.com/theory/sqitch/issues/308
 Task-BeLike-RJRAY-0.009                 115909
@@ -2956,7 +2954,6 @@ Math-BigInt-Lite-0.17                   120893
 Modern-PBP-Perl-1.240                   121650
 TestRail-API-0.039                      121643
 Acme-CPANAuthors-Turkish-0.23           121657
-Devel-PPPort-3.35                       https://github.com/mhx/Devel-PPPort/issues/49
 File-NFSLock-1.27                       120088
 Global-MutexLock-0.026                  https://github.com/itsusony/Global-MutexLock/issues/1
 PDL-VectorValued-1.0.6                  121661
@@ -3740,7 +3737,6 @@ Mercury-0.016                           https://github.com/preaction/Mercury/iss
 Mojo-UserAgent-Mockable-1.54            https://github.com/PopeFelix/Mojo-UserAgent-Mockable/issues/20
 XML-Sig-0.22                            125505
 WWW-Search-Ebay-Europe-2.018            125507
-Regexp-Compare-0.28                     125509
 Hush-0.03                               125521
 Sah-Schemas-App-cryp-0.002              125528
 App-Docker-Client-0.010300              125529
@@ -3894,7 +3890,6 @@ Hetula-Client-0.007                     https://github.com/kivilahtio/libhetula-
 Net-SMTP-Verify-1.04                    125600
 File-Stamped-0.08                       127361,https://rt.perl.org/Ticket/Display.html?id=133585
 Catalyst-Runtime-5.90119                125843,https://rt.perl.org/Ticket/Display.html?id=133585
-Mojolicious-Plugin-TtRenderer-1.59      https://github.com/plicease/Mojolicious-Plugin-TtRenderer/issues/47
 Astro-SpaceTrack-0.119_01               127371
 CPAN-Audit-0.06                         https://github.com/vti/cpan-audit/issues/6
 CPAN-Mini-ProjectDocs-0.03.9            127381
