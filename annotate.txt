@@ -3459,7 +3459,6 @@ CatalystX-I18N-1.14                     124078,100351
 Sys-Syscall-0.25                        124139
 App-ClusterSSH-4.13                     https://github.com/duncs/clusterssh/issues/102
 IO-Socket-SSL-2.052                     124141
-Class-MethodMaker-2.24                  124104
 Data-Sah-JS-0.87                        124148
 MarpaX-Languages-PowerBuilder-0.01      124145
 WWW-xkcd-0.008                          https://github.com/xsawyerx/www-xkcd/issues/3
@@ -3501,7 +3500,6 @@ Catalyst-Plugin-Static-Simple-ButMaintained-0.30 124245
 CGI-Application-MailPage-1.7            124257,124258
 Mojolicious-Plugin-Paging-0.1.2         124265
 CPAN-Reporter-Smoker-Safer-0.04         may fail if www.cpantesters.org is unavailable,96959
-Math-MatrixReal-2.13                    101173
 Mojolicious-Plugin-OpenAPI-1.25         https://github.com/jhthorsen/mojolicious-plugin-openapi/issues/59
 Fukurama-Class-0.032                    124263
 WWW-Selenium-Utils-0.09                 124264
@@ -4150,13 +4148,13 @@ App-perlbrew-0.84                       125066
 SockJS-0.08                             https://github.com/vti/sockjs-perl/issues/13
 WebService-UrbanDictionary-2.015        https://github.com/woodruffw/WebService-UrbanDictionary/issues/3
 SVG-ChristmasTree-0.0.1                 https://github.com/davorg/svg-christmastree/issues/1
-Class-MethodMaker-2.24                  127884
+Class-MethodMaker-2.24                  124104,127884
 WebService-HIBP-0.06                    127885
 POE-Component-SmokeBox-0.54             127886
 Alien-Electron-0.200                    https://github.com/hoytech/Alien-Electron/issues/6
 Backup-EZ-0.34                          111469
 ELF-sign-0.07                           127887
-Math-MatrixReal-2.13                    127888
+Math-MatrixReal-2.13                    101173,127888
 Alien-libpid-0.032                      https://github.com/athreef/Alien-libpid/issues/1
 WWW-FCM-HTTP-0.02                       https://github.com/xaicron/p5-WWW-FCM-HTTP/issues/4
 Alien-libvas-0.215                      https://github.com/athreef/Alien-libvas/issues/1
