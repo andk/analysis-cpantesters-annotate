@@ -4155,3 +4155,10 @@ Alien-libvas-0.215                      https://github.com/athreef/Alien-libvas/
 Business-KontoCheck-6.06                https://sourceforge.net/p/kontocheck/bugs/22/
 Amazon-Credentials-1.0.6                127890
 Mojolicious-Plugin-Log-Any-0.004        https://github.com/Grinnz/Mojolicious-Plugin-Log-Any/issues/1
+Plack-Middleware-Auth-JWT-0.903         127893
+Crypt-MatrixSSL3-v3.9.1                 https://github.com/powerman/perl-Crypt-MatrixSSL3/issues/41
+Mojolicious-Plugin-DBIC-0.001           https://github.com/preaction/Mojolicious-Plugin-DBIC/issues/1
+NewRelic-Agent-FFI-0.08                 https://github.com/plicease/NewRelic-Agent-FFI/issues/3
+Imager-File-WEBP-0.002                  127894,127895
+Ryu-Async-0.011                         https://github.com/team-at-cpan/Ryu-Async/issues/2
+Sah-Schemas-Perl-0.015                  127839
