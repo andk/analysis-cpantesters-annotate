@@ -3812,7 +3812,6 @@ LWP-ConsoleLogger-0.000038              https://github.com/oalders/lwp-consolelo
 App-cryp-arbit-0.003                    126001
 MouseX-Getopt-0.37                      https://github.com/gfx/mousex-getopt/issues/12
 dategrep-2.00                           https://github.com/mdom/dategrep/issues/31
-Ryu-Async-0.010                         https://github.com/team-at-cpan/Ryu-Async/issues/2
 Alien-TinyCC-0.06                       https://github.com/run4flat/Alien-TinyCC/issues/11
 Future-HTTP-0.09                        126012
 Net-Async-FTP-0.08                      126038
@@ -4112,7 +4111,6 @@ App-CharmKit-2.11                       127823
 HPCI-0.73                               127826,124695,120461
 SRU-1.01                                https://github.com/bricas/sru-perl/issues/6
 Hailo-0.75                              127838
-Sah-Schemas-Perl-0.014                  127839
 TaskPipe-0.09                           127840
 Catalyst-Plugin-Statsd-v0.4.0           https://github.com/robrwo/CatalystX-Statsd/issues/1
 Data-Sah-Coerce-perl-str-str_to_cryptoexchange_safename-0.003 127845
