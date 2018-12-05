@@ -1662,7 +1662,6 @@ Mail-Toaster-5.50                       https://github.com/msimerson/Mail-Toaste
 Mojolious-Plugin-REST2-1.001            experimental functions on refs, no issue tracker
 Five-X-0.01_01                          unknown warnings category 'experimental::autoderef', no issue tracker
 Test-Chai-0.01_01                       experimental functions on refs, no issue tracker
-File-Scan-ClamAV-1.93                   113277
 Mojolicious-Plugin-SizeLimit-0.005      https://github.com/augensalat/mojolicious-plugin-sizelimit/issues/4
 Log-Reproducible-v0.12.4_1              113234
 Unicode-Unihan-0.04                     75802
@@ -1680,7 +1679,6 @@ Kwiki-VimMode-0.05                      113469
 Tie-LogFile-0.1                         113474
 WWW-Mixi-OO-0.03                        113509
 Net-IPA-1.0                             113511
-App-iTan-1.06                           113160
 Catalyst-Plugin-DBIC-Schema-Profiler-0.06 113559
 Mojolicious-Plugin-ForkAndGo-0.01       113586
 MooseX-Params-0.010                     113600
@@ -3456,7 +3454,6 @@ Data-Sah-JS-0.87                        124148
 MarpaX-Languages-PowerBuilder-0.01      124145
 WWW-xkcd-0.008                          https://github.com/xsawyerx/www-xkcd/issues/3
 Clustericious-1.27                      https://github.com/clustericious/Clustericious/issues/45
-Devel-Size-0.81                         124105
 App-bovespa-0.003                       121335
 CSS-DOM-0.16                            124156
 Dist-Surveyor-0.020                     124157
@@ -4026,7 +4023,6 @@ App-Guiio-0.991                         127715
 Mac-MissileLauncher-0.01                127716
 TreePath-Role-Graph-0.07                127718
 CPAN-Testers-API-0.025                  https://github.com/cpan-testers/cpantesters-api/issues/38
-Text-Trac-0.19                          127719
 PDL-Algorithm-Center-0.09               127721
 Qudo-Driver-DBI-0.03                    127722,127723
 Alien-LibUSB-0.3                        https://github.com/athreef/Alien-LibUSB/issues/2
@@ -4090,7 +4086,6 @@ Gtk2-1.24992                            127781
 Tk-ExecuteCommand-1.6                   102434
 Pod-Tree-1.25                           https://github.com/szabgab/Pod-Tree/issues/8
 Data-RecordStore-4.03                   127802
-Config-Model-2.128                      https://github.com/dod38fr/config-model/issues/22
 Ithumb-XS-v0.1.4.1                      127782
 Algorithm-Cluster-1.57                  120442
 POE-Component-DirWatch-0.300004         127804
@@ -4144,7 +4139,6 @@ Alien-libpid-0.032                      https://github.com/athreef/Alien-libpid/
 WWW-FCM-HTTP-0.02                       https://github.com/xaicron/p5-WWW-FCM-HTTP/issues/4
 Alien-libvas-0.215                      https://github.com/athreef/Alien-libvas/issues/1
 Business-KontoCheck-6.06                https://sourceforge.net/p/kontocheck/bugs/22/
-Amazon-Credentials-1.0.6                127890
 Mojolicious-Plugin-Log-Any-0.004        https://github.com/Grinnz/Mojolicious-Plugin-Log-Any/issues/1
 Plack-Middleware-Auth-JWT-0.903         127893
 Crypt-MatrixSSL3-v3.9.1                 https://github.com/powerman/perl-Crypt-MatrixSSL3/issues/41
