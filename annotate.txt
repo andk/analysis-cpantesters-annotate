@@ -3818,7 +3818,6 @@ Test2-Harness-0.001069                  https://github.com/Test-More/Test2-Harne
 Stringify-Deep-0.03                     127010
 App-Cleo-Patra-0.001                    127078
 Log-Log4perl-Shortcuts-0.019            https://github.com/sdondley/Log-Log4perl-Shortcuts/issues/2
-DBD-mysql-4.048                         https://github.com/perl5-dbi/DBD-mysql/issues/262
 BSD-Sysctl-0.11                         127121
 App-Git-Workflow-v1.1.0                 https://github.com/ivanwills/git-workflow-tools/issues/9
 DBIx-Array-0.62                         127167
@@ -3894,7 +3893,6 @@ POE-Component-IRC-Plugin-RTorrentStatus-0.17 127395
 Kasago-0.29                             127396
 MooseX-Workers-0.24                     127397
 WWW-Mechanize-Plugin-AutoWrite-0.06     127399
-Finance-CoinbasePro-API-CLI-0.013       127410
 HTML-CalendarMonth-2.04                 127411
 Table-Simple-0.02                       127422
 Dancer2-Session-CHI-0.02                https://github.com/cromedome/dancer2-session-chi/issues/2
@@ -3907,7 +3905,6 @@ Config-Model-Xorg-1.115                 127431
 Overload-FileCheck-0.003                https://github.com/CpanelInc/Overload-FileCheck/issues/6
 Crypt-RSA-1.99                          127436
 Devel-Chitin-0.17                       127437,127438,127439
-XAO-Web-1.72                            127440
 Yancy-1.010                             https://github.com/preaction/Yancy/issues/21
 Math-Pari-2.030507                      127442
 qbit-2.6                                127443
@@ -4060,7 +4057,6 @@ POE-Component-Server-Bayeux-0.04        127754
 REST-Neo4p-0.3020                       https://rt.perl.org/rt3/Ticket/Display.html?id=132594,127755
 Yandex-Disk-0.04                        https://github.com/vrag86/perl-yandex-disk-api/issues/new
 POE-Filter-JSON-Incr-0.03               117578
-Mail-GPG-1.0.12                         127756
 MooseX-DataModel-1.01                   127757,127758
 POE-Component-Server-HTTP-0.09          127759
 Bitcoin-Crypto-0.01                     127760
