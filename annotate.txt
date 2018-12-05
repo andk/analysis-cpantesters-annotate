@@ -3937,7 +3937,6 @@ Dancer-Plugin-Auth-Facebook-0.06        https://github.com/Prajithp/Dancer-Plugi
 CPAN-Mini-Extract-1.23                  probably temporary network/webservice problem,123867,127486
 Tk-MARC-1.5                             127487
 App-Validation-Automation-0.02          113159,127490
-BioX-Map-0.0.12                         127491
 OpusVL-Preferences-0.33                 https://github.com/OpusVL/OpusVL-Preferences/issues/1
 Slovo-2018.10.16                        https://github.com/kberov/Slovo/issues/14
 Anego-0.02                              https://github.com/papix/Anego/issues/5
@@ -3992,7 +3991,6 @@ CPU-Z80-Disassembler-0.05               127669
 Data-TreeDumper-Utils-0.04.4            127670
 Test-MockFile-0.012                     https://github.com/CpanelInc/Test-MockFile/issues/20
 Text-SmartLinks-0.01                    127673
-Device-USB-0.37                         125358
 GitHub-Extract-0.02                     123867,127674
 Locale-Simple-0.019                     127675
 Text-Hoborg-0.0.6                       127678
@@ -4177,8 +4175,8 @@ CGI-Ex-2.47                             https://github.com/ljepson/CGI-Ex/issues
 KeywordsSpider-0.02                     127917
 metabase-relayd-0.40                    127920
 Alien-ActiveMQ-0.00005                  127921
-BioX-Map-0.0.12                         127922
-Device-USB-0.37                         127923
+BioX-Map-0.0.12                         127491,127922
+Device-USB-0.37                         125358,127923
 Catmandu-Fix-marc_spec-0.0.1            https://github.com/cKlee/Catmandu-Fix-marc_spec/issues/2
 Dist-Zilla-PluginBundle-BAREFOOT-0.06_01-TRIAL https://github.com/barefootcoder/dist-zilla-pluginbundle-barefoot/issues/14
 File-Scan-ClamAV-1.95                   113277
