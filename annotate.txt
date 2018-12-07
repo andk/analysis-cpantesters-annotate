@@ -3925,7 +3925,6 @@ WebService-GoogleAPI-Client-0.13        https://github.com/pscott-au/WebService-
 WebService-Hatena-BookmarkCount-0.07    127481
 Hopkins-0.9.2                           127482
 Log-Syslog-DangaSocket-1.06             127483
-Dita-Validate-20180429                  127485
 Dancer-Plugin-Auth-Facebook-0.06        https://github.com/Prajithp/Dancer-Plugin-Auth-Facebook/issues/9
 CPAN-Mini-Extract-1.23                  probably temporary network/webservice problem,123867,127486
 Tk-MARC-1.5                             127487
@@ -3959,7 +3958,6 @@ Test-Mojo-More-0.061                    127565
 Mojo-Feed-0.16                          https://github.com/dotandimet/Mojo-Feed/issues/16
 SVG-Calendar-v0.3.13                    127463
 QBit-Application-Model-DBManager-0.022  127578
-Dancer2-Plugin-MarkdownFilesToHTML-0.012 https://github.com/sdondley/Dancer2-Plugin-MarkdownFilesToHTML/issues/1
 QBit-WebInterface-Routing-0.010         127597
 Shell-Cmd-3.01                          127604
 Devel-Cover-1.31                        https://github.com/pjcj/Devel--Cover/issues/225
