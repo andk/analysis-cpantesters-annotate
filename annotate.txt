@@ -4205,3 +4205,10 @@ Siebel-Srvrmgr-0.29                     https://github.com/glasswalk3r/siebel-mo
 Test2-Tools-PDL-0.0002                  127955
 Sereal-Path-4.004                       https://github.com/Sereal/Sereal/issues/192
 JS-SourceMap-0.1.2                      127956
+Mail-GPG-1.0.13-TRIAL1                  127960
+Sah-Schemas-Perl-0.016                  127839
+CGI-Lingua-0.59                         127068
+CatalystX-VCS-Lookup-0.07               127965
+WWW-Offliberty-1.000008                 122651
+Image-ObjectDetect-0.12                 127967,127968
+Image-Resize-OpenCV-0.11                127969
