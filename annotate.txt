@@ -3896,7 +3896,6 @@ Table-Simple-0.02                       127422
 Dancer2-Session-CHI-0.02                https://github.com/cromedome/dancer2-session-chi/issues/2
 Badger-0.13                             119422,127427
 Prty-1.125                              127428
-Graphics-ColorNames-v3.3.0              127430
 Astro-FITS-CFITSIO-1.12                 127312
 CryptX-0.061                            https://github.com/DCIT/perl-CryptX/issues/46
 Config-Model-Xorg-1.115                 127431
