@@ -3130,7 +3130,6 @@ Date-LibICal-0.01                       121318,122645
 App-RecordStream-4.0.23                 122646
 Apache-SWIT-0.54                        122647
 Scope-Escape-Sugar-0.002                122650
-WWW-Offliberty-1.000005                 122651
 Inline-Python-0.55                      122664
 URI-UTF8-Punycode-1.05                  122593
 POE-Component-Client-Twitter-0.01       66970
@@ -4101,7 +4100,6 @@ App-diffdir-0.7                         127848
 FB3-0.12                                127868
 Date-Manip-6.74                         127870
 Alien-nragent-0.05                      https://github.com/plicease/Alien-nragent/issues/1
-CGI-Lingua-0.58                         127068
 Config-Model-OpenSsh-1.240              https://github.com/dod38fr/config-model-openssh/issues/4
 Glib-1.328                              127871
 Net-LibIDN2-1.00                        125440
@@ -4138,7 +4136,6 @@ Mojolicious-Plugin-DBIC-0.001           https://github.com/preaction/Mojolicious
 NewRelic-Agent-FFI-0.08                 https://github.com/plicease/NewRelic-Agent-FFI/issues/3
 Imager-File-WEBP-0.002                  127894,127895
 Ryu-Async-0.011                         https://github.com/team-at-cpan/Ryu-Async/issues/2
-Sah-Schemas-Perl-0.015                  127839
 Cache-RedisDB-0.12                      https://github.com/Test-More/test-more/issues/815
 Experian-IDAuth-2.52                    https://github.com/binary-com/perl-experian-idauth/issues/23
 Parallel-ForkManager-Scaled-0.18        127898
