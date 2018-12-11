@@ -3714,7 +3714,7 @@ Mojolicious-Plugin-SessionStorage-0.1.6 125187
 Data-Sah-0.891                          125478
 Image-Magick-Brand-0.01                 125480
 Linux-Clone-1.2                         fails on older linux kernels (without bug report)
-Moxie-0.07                              https://github.com/stevan/p5-Moxie/issues/9
+Moxie-0.07                              127978,https://github.com/stevan/p5-Moxie/issues/9
 Net-OAuth-0.28                          125482
 pmtools-2.2.0                           124784
 Mojo-APNS-1.00                          https://github.com/jhthorsen/mojo-apns/issues/8
