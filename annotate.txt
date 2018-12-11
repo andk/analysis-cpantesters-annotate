@@ -4208,3 +4208,4 @@ Redis-1.991                             https://github.com/PerlRedis/perl-redis/
 Resque-0.38                             https://github.com/diegok/resque-perl/issues/30
 Test-Mojo-Role-PSGI-0.06                https://github.com/jberger/Test-Mojo-Role-PSGI/issues/3
 Shell-Config-Generate-0.33              https://github.com/plicease/Shell-Config-Generate/issues/19
+Crypt-MatrixSSL3-v3.9.2                 https://github.com/powerman/perl-Crypt-MatrixSSL3/issues/42
