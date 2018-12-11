@@ -4208,3 +4208,10 @@ CatalystX-VCS-Lookup-0.07               127965
 WWW-Offliberty-1.000008                 122651
 Image-ObjectDetect-0.12                 127967,127968
 Image-Resize-OpenCV-0.11                127969
+WWW-Amazon-Wishlist-2.019               127970
+Plerd-1.71                              127877
+Backup-EZ-0.37                          123719
+Redis-1.991                             https://github.com/PerlRedis/perl-redis/issues/131
+Resque-0.38                             https://github.com/diegok/resque-perl/issues/30
+Test-Mojo-Role-PSGI-0.06                https://github.com/jberger/Test-Mojo-Role-PSGI/issues/3
+Shell-Config-Generate-0.33              https://github.com/plicease/Shell-Config-Generate/issues/19
