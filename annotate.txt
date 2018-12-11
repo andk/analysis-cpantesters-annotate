@@ -4016,7 +4016,6 @@ PDL-Algorithm-Center-0.09               127721
 Qudo-Driver-DBI-0.03                    127722,127723
 Alien-LibUSB-0.3                        https://github.com/athreef/Alien-LibUSB/issues/2
 Alien-FreeImage-1.001                   127724
-App-githook-perltidy-0.12.2             127725
 Async-Event-Interval-1.00               https://github.com/stevieb9/async-event-interval/issues/3
 Data-Alias-1.21                         127726
 Filesys-Virtual-SSH-0.03                64397
@@ -4078,7 +4077,6 @@ Ithumb-XS-v0.1.4.1                      127782
 Algorithm-Cluster-1.57                  120442
 POE-Component-DirWatch-0.300004         127804
 JSCalendar-Duration-0.001               https://github.com/wolfsage/JSCalendar-Duration/issues/2
-Mojolicious-Plugin-ZipBomb-0.02         127803
 MVC-Neaf-0.2602                         https://github.com/dallaylaen/perl-mvc-neaf/issues/3
 Sys-HostIP-2.100                        https://github.com/xsawyerx/sys-hostip/issues/17
 Image-Scale-0.14                        119094
