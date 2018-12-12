@@ -4209,3 +4209,12 @@ Resque-0.38                             https://github.com/diegok/resque-perl/is
 Test-Mojo-Role-PSGI-0.06                https://github.com/jberger/Test-Mojo-Role-PSGI/issues/3
 Shell-Config-Generate-0.33              https://github.com/plicease/Shell-Config-Generate/issues/19
 Crypt-MatrixSSL3-v3.9.2                 https://github.com/powerman/perl-Crypt-MatrixSSL3/issues/42
+Backup-EZ-0.39                          123719
+Char-Replace-0.001                      https://github.com/atoomic/Char-Replace/issues/1
+DBIx-Class-InflateColumn-TimePiece-0.01 https://github.com/reneeb/DBIx-Class-InflateColumn-TimePiece/issues/1
+Math-Calc-Parser-1.003                  https://github.com/Grinnz/Math-Calc-Parser/issues/2
+Algorithm-Cron-0.10                     127995
+Alien-Unicruft-0.002                    127996
+Mojo-Redis-3.13                         https://github.com/jhthorsen/mojo-redis/issues/29
+HTTP-Request-Generator-0.01             https://github.com/Corion/HTTP-Request-Generator/issues/1
+Test-CheckManifest-1.34                 https://github.com/reneeb/Test-CheckManifest/issues/11
