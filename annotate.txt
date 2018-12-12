@@ -3552,7 +3552,6 @@ Bio-Grep-v0.10.6                        124639
 Mason-Tidy-2.57                         124604
 MDV-Repsys-1.00                         124643
 Cache-Memcached-XS-0.01                 124644
-CPAN-Reporter-Smoker-OpenBSD-0.013      https://github.com/glasswalk3r/cpan-openbsd-smoker/issues/3
 WWW-Shorten-Durl-0.05                   109702,124648
 CatalystX-Example-YUIUploader-0.02      124649
 POE-Component-Algorithm-Evolutionary-0.2.1 124651
@@ -4077,7 +4076,6 @@ Ithumb-XS-v0.1.4.1                      127782
 Algorithm-Cluster-1.57                  120442
 POE-Component-DirWatch-0.300004         127804
 JSCalendar-Duration-0.001               https://github.com/wolfsage/JSCalendar-Duration/issues/2
-MVC-Neaf-0.2602                         https://github.com/dallaylaen/perl-mvc-neaf/issues/3
 Sys-HostIP-2.100                        https://github.com/xsawyerx/sys-hostip/issues/17
 Image-Scale-0.14                        119094
 AnyEvent-WebSocket-Client-0.49          https://github.com/plicease/AnyEvent-WebSocket-Client/issues/41
