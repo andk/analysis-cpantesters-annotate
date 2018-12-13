@@ -4072,7 +4072,6 @@ Gtk2-1.24992                            127781
 Tk-ExecuteCommand-1.6                   102434
 Pod-Tree-1.25                           https://github.com/szabgab/Pod-Tree/issues/8
 Data-RecordStore-4.03                   127802
-Ithumb-XS-v0.1.4.1                      127782
 Algorithm-Cluster-1.57                  120442
 POE-Component-DirWatch-0.300004         127804
 JSCalendar-Duration-0.001               https://github.com/wolfsage/JSCalendar-Duration/issues/2
@@ -4217,3 +4216,11 @@ Test-CheckManifest-1.34                 https://github.com/reneeb/Test-CheckMani
 Ithumb-XS-v0.1.5                        127782
 Test-Simple-1.302144-TRIAL              https://github.com/Test-More/test-more/issues/820
 Binance-API-1.02                        127999
+FFI-1.12                                https://github.com/Perl5-FFI/FFI/issues/1,https://github.com/Perl5-FFI/FFI/issues/2
+Mojo-Redis-3.14
+https://github.com/jhthorsen/mojo-redis/issues/31,https://github.com/jhthorsen/mojo-redis/issues/32
+WWW-Mechanize-Sleepy-0.7                128001
+Net-Azure-EventHubs-0.07                https://github.com/ytnobody/p5-Net-Azure-EventHubs/issues/3
+Serge-v1.3.2                            128003
+Ryu-Async-0.012                         https://github.com/team-at-cpan/Ryu-Async/issues/2
+cPanel-TaskQueue-0.901                  https://github.com/CpanelInc/cPanel-TaskQueue/issues/33
