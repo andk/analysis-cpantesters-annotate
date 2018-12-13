@@ -4214,3 +4214,6 @@ Alien-Unicruft-0.002                    127996
 Mojo-Redis-3.13                         https://github.com/jhthorsen/mojo-redis/issues/29
 HTTP-Request-Generator-0.01             https://github.com/Corion/HTTP-Request-Generator/issues/1
 Test-CheckManifest-1.34                 https://github.com/reneeb/Test-CheckManifest/issues/11
+Ithumb-XS-v0.1.5                        127782
+Test-Simple-1.302144-TRIAL              https://github.com/Test-More/test-more/issues/820
+Binance-API-1.02                        127999
