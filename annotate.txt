@@ -3857,7 +3857,6 @@ Git-MoreHooks-0.006                     127281
 Git-Repository-1.322                    127282
 Git-XS-0.02                             127285
 Git-LowLevel-0.4                        125938
-DBIx-Mojo-Template-0.060                127283
 Graphics-ColorObject-0.5.0              127300
 BSON-v1.8.1                             https://jira.mongodb.org/browse/PERL-1009,https://rt.perl.org/Public/Bug/Display.html?id=133565
 Selenium-UserAgent-0.11                 https://github.com/gempesaw/Selenium-UserAgent/issues/4
@@ -4217,4 +4216,6 @@ WWW-Mechanize-Sleepy-0.7                128001
 Net-Azure-EventHubs-0.07                https://github.com/ytnobody/p5-Net-Azure-EventHubs/issues/3
 Serge-v1.3.2                            128003
 Ryu-Async-0.012                         https://github.com/team-at-cpan/Ryu-Async/issues/2
-cPanel-TaskQueue-0.901                  https://github.com/CpanelInc/cPanel-TaskQueue/issues/33
+JavaScript-SpiderMonkey-0.25            128007
+cPanel-TaskQueue-0.902                  https://github.com/CpanelInc/cPanel-TaskQueue/issues/34
+DBIx-Mojo-Template-0.061                127283
