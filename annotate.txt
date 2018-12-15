@@ -4219,3 +4219,9 @@ Ryu-Async-0.012                         https://github.com/team-at-cpan/Ryu-Asyn
 JavaScript-SpiderMonkey-0.25            128007
 cPanel-TaskQueue-0.902                  https://github.com/CpanelInc/cPanel-TaskQueue/issues/34
 DBIx-Mojo-Template-0.061                127283
+HPCI-0.75                               127826,124695
+App-git-ship-0.30                       https://github.com/jhthorsen/app-git-ship/issues/19
+Net-SSLeay-1.86_07                      128025
+namespace-local-0.05                    https://github.com/dallaylaen/namespace-local-perl/issues/2
+Test-OnlySome-0.001002-TRIAL            128027
+Ryu-Async-0.013                         https://github.com/team-at-cpan/Ryu-Async/issues/2
