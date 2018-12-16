@@ -4208,8 +4208,7 @@ Ithumb-XS-v0.1.5                        127782
 Test-Simple-1.302144-TRIAL              https://github.com/Test-More/test-more/issues/820
 Binance-API-1.02                        127999
 FFI-1.12                                https://github.com/Perl5-FFI/FFI/issues/1,https://github.com/Perl5-FFI/FFI/issues/2
-Mojo-Redis-3.14                         
-32                                      
+Mojo-Redis-3.14                         https://github.com/jhthorsen/mojo-redis/issues/31,https://github.com/jhthorsen/mojo-redis/issues/32
 WWW-Mechanize-Sleepy-0.7                128001
 Net-Azure-EventHubs-0.07                https://github.com/ytnobody/p5-Net-Azure-EventHubs/issues/3
 Serge-v1.3.2                            128003
