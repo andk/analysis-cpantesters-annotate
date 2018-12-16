@@ -4123,7 +4123,6 @@ Cache-RedisDB-0.12                      https://github.com/Test-More/test-more/i
 Experian-IDAuth-2.52                    https://github.com/binary-com/perl-experian-idauth/issues/23
 Parallel-ForkManager-Scaled-0.18        127898
 Moonshine-Template-0.04                 127899
-HPCI-0.74                               124695
 AnyEvent-Task-0.805                     https://github.com/hoytech/AnyEvent-Task/issues/1
 App-Manoc-2.99.2-TRIAL                  https://github.com/ManocLabs/manoc/issues/198
 Callback-Frame-1.102                    https://github.com/hoytech/Callback-Frame/issues/3
@@ -4215,7 +4214,6 @@ Mojo-Redis-3.14
 WWW-Mechanize-Sleepy-0.7                128001
 Net-Azure-EventHubs-0.07                https://github.com/ytnobody/p5-Net-Azure-EventHubs/issues/3
 Serge-v1.3.2                            128003
-Ryu-Async-0.012                         https://github.com/team-at-cpan/Ryu-Async/issues/2
 JavaScript-SpiderMonkey-0.25            128007
 cPanel-TaskQueue-0.902                  https://github.com/CpanelInc/cPanel-TaskQueue/issues/34
 DBIx-Mojo-Template-0.061                127283
