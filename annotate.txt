@@ -4221,3 +4221,7 @@ Net-SSLeay-1.86_07                      128025
 namespace-local-0.05                    https://github.com/dallaylaen/namespace-local-perl/issues/2
 Test-OnlySome-0.001002-TRIAL            128027
 Ryu-Async-0.013                         https://github.com/team-at-cpan/Ryu-Async/issues/2
+App-perlbrew-0.85                       125066
+namespace-local-0.0603                  https://github.com/dallaylaen/namespace-local-perl/issues/3
+Date-TimeOfDay-0.003                    128031
+HTTP-Request-Generator-0.03             128032
