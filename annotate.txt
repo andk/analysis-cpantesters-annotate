@@ -3827,7 +3827,6 @@ Mongol-2.3                              126977
 Email-Stuffer-TestLinks-0.02            127200
 Mojolicious-Plugin-Pingen-0.2.3         https://github.com/oetiker/mojolicious-plugin-pingen/issues/2
 Mojolicious-Plugin-PayPal-0.08          https://github.com/jhthorsen/mojolicious-plugin-paypal/issues/3
-Mojolicious-Plugin-Qooxdoo-0.908        https://github.com/oetiker/mojolicious-plugin-qooxdoo/issues/4
 Mojolicious-Plugin-StripePayment-0.03   https://github.com/jhthorsen/mojolicious-plugin-stripepayment/issues/1
 Mojolicious-Plugin-Toto-0.25            127201
 Mojolicious-Plugin-RenderSteps-0.06     https://github.com/marcusramberg/Mojolicious-Plugin-RenderSteps/issues/5
