@@ -4224,3 +4224,8 @@ App-perlbrew-0.85                       125066
 namespace-local-0.0603                  https://github.com/dallaylaen/namespace-local-perl/issues/3
 Date-TimeOfDay-0.003                    128031
 HTTP-Request-Generator-0.03             128032
+Date-Holidays-BY-0.2019.0               128036
+Date-TimeOfDay-0.004                    128031
+File-Which-1.22                         https://github.com/plicease/File-Which/issues/13
+Sah-Schemas-Domain-0.001                128037
+WWW-Yotpo-0.01                          https://github.com/fayland/perl-WWW-Yotpo/issues/1
