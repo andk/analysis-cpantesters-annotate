@@ -4229,3 +4229,13 @@ Date-TimeOfDay-0.004                    128031
 File-Which-1.22                         https://github.com/plicease/File-Which/issues/13
 Sah-Schemas-Domain-0.001                128037
 WWW-Yotpo-0.01                          https://github.com/fayland/perl-WWW-Yotpo/issues/1
+Test-Simple-1.302148-TRIAL              https://github.com/Test-More/test-more/issues/815
+App-Manoc-2.99.3-TRIAL                  https://github.com/ManocLabs/manoc/issues/198
+Locale-Country-Extra-1.0.0              128040
+Rex-Inline-0.0.8                        128041
+Database-Sophia-0.9                     128042
+DBD-LDAP-0.22                           128038
+Data-Transit-0.8.04                     128047
+Net-SFTP-Foreign-Tempdir-Extract-0.10   128048
+Test-Instance-DNS-0.001                 https://github.com/TBSliver/Test-Instance-DNS/issues/2
+Business-OnlinePayment-BitPay-KeyUtils-2.0.1 123112
