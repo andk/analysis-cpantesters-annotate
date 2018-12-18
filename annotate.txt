@@ -4239,3 +4239,6 @@ Data-Transit-0.8.04                     128047
 Net-SFTP-Foreign-Tempdir-Extract-0.10   128048
 Test-Instance-DNS-0.001                 https://github.com/TBSliver/Test-Instance-DNS/issues/2
 Business-OnlinePayment-BitPay-KeyUtils-2.0.1 123112
+Faker-0.12                              https://github.com/alnewkirk/Faker/issues/7
+namespace-local-0.07_01                 128050
+Mojo-mysql-1.11                         https://github.com/jhthorsen/mojo-mysql/issues/49
