@@ -4251,3 +4251,10 @@ CouchDB-Client-0.09                     128059
 FFI-Platypus-Lang-Rust-0.04             https://github.com/plicease/FFI-Platypus-Lang-Rust/issues/7
 udp_proxy-0.03                          128061
 WWW-KeenIO-0.02                         110507
+Dancer2-Plugin-OAuth2-Server-0.10       https://github.com/pierre-vigier/dancer2-plugin-oauth2-server/issues/4
+Module-Version-0.200                    https://github.com/xsawyerx/module-version/issues/3
+Dancer2-Template-Xslate-v0.1.1          https://github.com/rsimoes/Dancer2-Template-Xslate/issues/10
+Geo-Google-StaticMaps-V2-0.12           128066
+HTTP-PublicKeyPins-0.14                 128067
+Test-MockFile-0.013                     https://github.com/CpanelInc/Test-MockFile/issues/20
+Plack-Middleware-StaticShared-0.06      https://github.com/cho45/Plack-Middleware-StaticShared/issues/4
