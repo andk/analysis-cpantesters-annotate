@@ -4242,3 +4242,12 @@ Business-OnlinePayment-BitPay-KeyUtils-2.0.1 123112
 Faker-0.12                              https://github.com/alnewkirk/Faker/issues/7
 namespace-local-0.07_01                 128050
 Mojo-mysql-1.11                         https://github.com/jhthorsen/mojo-mysql/issues/49
+Data-Object-Prototype-0.06              https://github.com/alnewkirk/Data-Object-Prototype/issues/1
+API-Client-0.04                         https://github.com/alnewkirk/API-Client/issues/2
+Data-Seek-0.09                          https://github.com/alnewkirk/Data-Seek/issues/3
+Math-MatrixReal-2.13                    128057
+AnyEvent-Eris-0.000001                  https://github.com/xsawyerx/anyevent-eris/issues/13
+CouchDB-Client-0.09                     128059
+FFI-Platypus-Lang-Rust-0.04             https://github.com/plicease/FFI-Platypus-Lang-Rust/issues/7
+udp_proxy-0.03                          128061
+WWW-KeenIO-0.02                         110507
