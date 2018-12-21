@@ -4258,3 +4258,9 @@ Geo-Google-StaticMaps-V2-0.12           128066
 HTTP-PublicKeyPins-0.14                 128067
 Test-MockFile-0.013                     https://github.com/CpanelInc/Test-MockFile/issues/20
 Plack-Middleware-StaticShared-0.06      https://github.com/cho45/Plack-Middleware-StaticShared/issues/4
+IPC-PrettyPipe-0.09-TRIAL               128069
+Alien-Libgpg_error-0.02                 128078
+Crypt-OpenSSL-ECDSA-0.08                118330
+App-IMDBtop-0.001001                    128082
+WWW-SubDB-0.01                          128084
+Barcode-ZBar-0.04                       128085
