@@ -1685,7 +1685,6 @@ MooseX-Params-0.010                     113600
 SOAP-WSDL-3.003                         71679
 Sweet-Home-0.06                         https://github.com/fibo/Sweet-Home-pm/issues/2
 Net-BaruwaAPI-0.04                      113707
-AnyEvent-Eris-0.000001                  https://github.com/xsawyerx/anyevent-eris/issues/12
 File-VirusScan-0.103                    103885
 App-Dochazka-REST-0.528                 https://github.com/smithfarm/dochazka-rest/issues/76
 Net-DNSBL-Client-0.206                  113714
@@ -3028,7 +3027,6 @@ Keyword-TreeFold-v0.1.1                 122184
 PPI-Xref-0.010                          122218
 Algorithm-VSM-1.70                      122219
 Mojolicious-Plugin-ConfigAny-0.1.3      122220
-Barcode-ZBar-0.04                       122061
 Image-Base-Magick-4                     122224
 Acme-AutoloadAll-0.005                  122239
 Data-Frame-0.003                        122240
@@ -3186,7 +3184,6 @@ Config-Model-Itself-2.011               https://github.com/dod38fr/config-model-
 Syntax-Highlight-Engine-Simple-HTML-0.04 123096
 Event-1.26                              123115
 YAML-Perl-0.12                          123103
-Business-OnlinePayment-BitPay-KeyUtils-2.0.1 106730,123112
 EBook-EPUB-Check-0.04                   https://github.com/pawa-/EBook-EPUB-Check/issues/1
 libsoldout-0.02                         123113
 Test-UNIXSock-0.2                       https://github.com/fujiwara/Test-UNIXSock/issues/3
@@ -4107,7 +4104,6 @@ WebService-HIBP-0.06                    127885
 POE-Component-SmokeBox-0.54             127886
 Alien-Electron-0.200                    https://github.com/hoytech/Alien-Electron/issues/6
 ELF-sign-0.07                           127887
-Math-MatrixReal-2.13                    101173,127888
 Alien-libpid-0.032                      https://github.com/athreef/Alien-libpid/issues/1
 WWW-FCM-HTTP-0.02                       https://github.com/xaicron/p5-WWW-FCM-HTTP/issues/4
 Alien-libvas-0.215                      https://github.com/athreef/Alien-libvas/issues/1
@@ -4238,15 +4234,15 @@ DBD-LDAP-0.22                           128038
 Data-Transit-0.8.04                     128047
 Net-SFTP-Foreign-Tempdir-Extract-0.10   128048
 Test-Instance-DNS-0.001                 https://github.com/TBSliver/Test-Instance-DNS/issues/2
-Business-OnlinePayment-BitPay-KeyUtils-2.0.1 123112
+Business-OnlinePayment-BitPay-KeyUtils-2.0.1 106730,123112,123112
 Faker-0.12                              https://github.com/alnewkirk/Faker/issues/7
 namespace-local-0.07_01                 128050
 Mojo-mysql-1.11                         https://github.com/jhthorsen/mojo-mysql/issues/49
 Data-Object-Prototype-0.06              https://github.com/alnewkirk/Data-Object-Prototype/issues/1
 API-Client-0.04                         https://github.com/alnewkirk/API-Client/issues/2
 Data-Seek-0.09                          https://github.com/alnewkirk/Data-Seek/issues/3
-Math-MatrixReal-2.13                    128057
-AnyEvent-Eris-0.000001                  https://github.com/xsawyerx/anyevent-eris/issues/13
+Math-MatrixReal-2.13                    101173,127888,128057
+AnyEvent-Eris-0.000001                  https://github.com/xsawyerx/anyevent-eris/issues/12,https://github.com/xsawyerx/anyevent-eris/issues/13
 CouchDB-Client-0.09                     128059
 FFI-Platypus-Lang-Rust-0.04             https://github.com/plicease/FFI-Platypus-Lang-Rust/issues/7
 udp_proxy-0.03                          128061
@@ -4263,7 +4259,7 @@ Alien-Libgpg_error-0.02                 128078
 Crypt-OpenSSL-ECDSA-0.08                118330
 App-IMDBtop-0.001001                    128082
 WWW-SubDB-0.01                          128084
-Barcode-ZBar-0.04                       128085
+Barcode-ZBar-0.04                       122061,128085
 Business-CompanyDesignator-0.13         128087
 Geo-Address-Formatter-1.70              111685
 JSON-API-v1.1.0                         https://github.com/geofffranks/json-api/issues/4
