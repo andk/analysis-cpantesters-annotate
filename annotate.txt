@@ -3894,7 +3894,6 @@ Devel-Chitin-0.17                       127437,127438,127439
 Yancy-1.010                             https://github.com/preaction/Yancy/issues/21
 Math-Pari-2.030507                      127442
 qbit-2.6                                127443
-Module-Version-0.13                     127128
 Net-LastFM-0.36                         127446
 CtrlO-PDF-0.01                          https://github.com/ctrlo/CtrlO-PDF/issues/2
 Net-Statsd-Client-Telegraf-0.1          https://github.com/pierre-vigier/Net-Statsd-Client-Telegraf/issues/1
@@ -3950,7 +3949,6 @@ Devel-Cover-1.31                        https://github.com/pjcj/Devel--Cover/iss
 Sys-Info-Base-0.7804                    121024
 Sys-Info-Driver-Linux-0.7903            98099,127231
 Test-Sys-Info-0.21                      120880
-IPC-PrettyPipe-0.05-TRIAL               127610
 Dist-Zilla-Plugin-Generate-ManifestSkip-v0.1.5 https://github.com/robrwo/Dist-Zilla-Plugin-Generate-ManifestSkip/issues/1
 Keyword-Pluggable-1.02                  127625
 Dancer2-Plugin-Menu-0.006               https://github.com/sdondley/Dancer2-Plugin-Menu/issues/2
@@ -3966,7 +3964,6 @@ App-wdq-0.4.4                           https://github.com/nichtich/wdq/issues/3
 Config-NameValue-1.03                   127668
 CPU-Z80-Disassembler-0.05               127669
 Data-TreeDumper-Utils-0.04.4            127670
-Test-MockFile-0.012                     https://github.com/CpanelInc/Test-MockFile/issues/20
 Text-SmartLinks-0.01                    127673
 GitHub-Extract-0.02                     123867,127674
 Locale-Simple-0.019                     127675
@@ -4095,7 +4092,6 @@ Gtk3-SimpleList-0.18                    127879
 Prima-1.53                              127880
 Alien-raylib-0.022                      https://github.com/athreef/Alien-raylib/issues/3
 App-MechaCPAN-0.26                      https://github.com/atrodo/App-MechaCPAN/issues/14
-App-perlbrew-0.84                       125066
 SockJS-0.08                             https://github.com/vti/sockjs-perl/issues/13
 WebService-UrbanDictionary-2.015        https://github.com/woodruffw/WebService-UrbanDictionary/issues/3
 SVG-ChristmasTree-0.0.1                 https://github.com/davorg/svg-christmastree/issues/1
@@ -4118,7 +4114,6 @@ Experian-IDAuth-2.52                    https://github.com/binary-com/perl-exper
 Parallel-ForkManager-Scaled-0.18        127898
 Moonshine-Template-0.04                 127899
 AnyEvent-Task-0.805                     https://github.com/hoytech/AnyEvent-Task/issues/1
-App-Manoc-2.99.2-TRIAL                  https://github.com/ManocLabs/manoc/issues/198
 Callback-Frame-1.102                    https://github.com/hoytech/Callback-Frame/issues/3
 Finance-Bank-Postbank_de-0.55           127910
 IO-Socket-Socks-Wrapper-0.17            127911
@@ -4197,10 +4192,8 @@ DBIx-Class-InflateColumn-TimePiece-0.01 https://github.com/reneeb/DBIx-Class-Inf
 Math-Calc-Parser-1.003                  https://github.com/Grinnz/Math-Calc-Parser/issues/2
 Algorithm-Cron-0.10                     127995
 Alien-Unicruft-0.002                    127996
-HTTP-Request-Generator-0.01             https://github.com/Corion/HTTP-Request-Generator/issues/1
 Test-CheckManifest-1.34                 https://github.com/reneeb/Test-CheckManifest/issues/11
 Ithumb-XS-v0.1.5                        127782
-Test-Simple-1.302144-TRIAL              https://github.com/Test-More/test-more/issues/820
 Binance-API-1.02                        127999
 FFI-1.12                                https://github.com/Perl5-FFI/FFI/issues/1,https://github.com/Perl5-FFI/FFI/issues/2
 Mojo-Redis-3.14                         https://github.com/jhthorsen/mojo-redis/issues/31,https://github.com/jhthorsen/mojo-redis/issues/32
@@ -4213,12 +4206,9 @@ DBIx-Mojo-Template-0.061                127283
 HPCI-0.75                               127826,124695
 App-git-ship-0.30                       https://github.com/jhthorsen/app-git-ship/issues/19
 Net-SSLeay-1.86_07                      128025
-namespace-local-0.05                    https://github.com/dallaylaen/namespace-local-perl/issues/2
 Test-OnlySome-0.001002-TRIAL            128027
 Ryu-Async-0.013                         https://github.com/team-at-cpan/Ryu-Async/issues/2
 App-perlbrew-0.85                       125066
-namespace-local-0.0603                  https://github.com/dallaylaen/namespace-local-perl/issues/3
-Date-TimeOfDay-0.003                    128031
 HTTP-Request-Generator-0.03             128032
 Date-Holidays-BY-0.2019.0               128036
 Date-TimeOfDay-0.004                    128031
