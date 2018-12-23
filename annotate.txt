@@ -4250,3 +4250,10 @@ Business-CompanyDesignator-0.13         128087
 Geo-Address-Formatter-1.70              111685
 JSON-API-v1.1.0                         https://github.com/geofffranks/json-api/issues/4
 File-HomeDir-1.004                      128096
+WWW-Scraper-ISBN-Pearson_Driver-0.23    128091
+Test-MockFile-0.015                     https://github.com/CpanelInc/Test-MockFile/issues/20
+Overload-FileCheck-0.007                https://github.com/CpanelInc/Overload-FileCheck/issues/8
+Alien-OpenJPEG-0.002                    128094
+Git-Wrapper-0.048_090                   https://github.com/genehack/Git-Wrapper/issues/108
+Catalyst-Plugin-Shorten-0.02            128095
+Class-Superclasses-0.08                 https://github.com/reneeb/Class-Superclasses/issues/2
