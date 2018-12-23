@@ -4257,3 +4257,7 @@ Alien-OpenJPEG-0.002                    128094
 Git-Wrapper-0.048_090                   https://github.com/genehack/Git-Wrapper/issues/108
 Catalyst-Plugin-Shorten-0.02            128095
 Class-Superclasses-0.08                 https://github.com/reneeb/Class-Superclasses/issues/2
+HTTP-Server-Simple-0.52                 96086
+MooX-late-0.015                         124054
+Catalyst-Plugin-Shorten-0.03            128095
+HTTP-Message-6.18                       https://github.com/libwww-perl/HTTP-Message/issues/101
