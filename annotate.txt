@@ -3745,7 +3745,6 @@ Crypt-Dining-1.01                       125560
 Dita-Project-20180530                   125570
 Bot-Training-0.06                       125575
 Mojolicious-Plugin-Prometheus-1.1.1     https://github.com/tyldum/mojolicious-plugin-prometheus/issues/15
-Dancer-1.3204-TRIAL                     https://github.com/PerlDancer/Dancer/issues/1184
 Paws-0.37                               https://github.com/pplu/aws-sdk-perl/issues/248
 Catalyst-Plugin-ErrorCatcher-ActiveMQ-Stomp-0.1.5 125576,125580
 Pod-Tidy-0.10                           51281
@@ -4262,3 +4261,4 @@ MooX-late-0.015                         124054
 Catalyst-Plugin-Shorten-0.03            128095
 HTTP-Message-6.18                       https://github.com/libwww-perl/HTTP-Message/issues/101
 REST-Client-CrossRef-0.003              128100
+Dancer-1.3500                           https://github.com/PerlDancer/Dancer/issues/1203
