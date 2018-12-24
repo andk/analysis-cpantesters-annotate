@@ -4262,3 +4262,4 @@ Catalyst-Plugin-Shorten-0.03            128095
 HTTP-Message-6.18                       https://github.com/libwww-perl/HTTP-Message/issues/101
 REST-Client-CrossRef-0.003              128100
 Dancer-1.3500                           https://github.com/PerlDancer/Dancer/issues/1203
+GD-SecurityImage-1.74                   https://github.com/burak/CPAN-GD-SecurityImage/issues/3
