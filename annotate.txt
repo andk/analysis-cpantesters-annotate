@@ -4273,3 +4273,5 @@ Vim-X-1.3.0                             https://github.com/yanick/Vim-X/issues/4
 Mojolicious-Plugin-Piwik-0.25           https://github.com/Akron/Mojolicious-Plugin-Piwik/issues/2
 MySQL-Workbench-DBIC-1.13               https://github.com/reneeb/MySQL-Workbench-DBIC/issues/11
 Colon-Config-0.004                      https://github.com/atoomic/Colon-Config/issues/2
+Mojolicious-Plugin-Piwik-0.26_1         https://github.com/Akron/Mojolicious-Plugin-Piwik/issues/2
+Mail-Chimp3-0.04                        https://github.com/jdigory/p5-Mail-Chimp3/issues/4
