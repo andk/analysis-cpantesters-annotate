@@ -4275,3 +4275,8 @@ MySQL-Workbench-DBIC-1.13               https://github.com/reneeb/MySQL-Workbenc
 Colon-Config-0.004                      https://github.com/atoomic/Colon-Config/issues/2
 Mojolicious-Plugin-Piwik-0.26_1         https://github.com/Akron/Mojolicious-Plugin-Piwik/issues/2
 Mail-Chimp3-0.04                        https://github.com/jdigory/p5-Mail-Chimp3/issues/4
+DBIx-TableLoader-1.100                  128131
+Class-DBI-Plugin-Type-0.02              128135
+Connector-1.26                          123001
+Dancer2-Plugin-Auth-Extensible-Provider-DBIC-0.623 https://github.com/ctrlo/Dancer2-Plugin-Auth-Extensible-Provider-DBIC/issues/18
+DBIx-OnlineDDL-0.90                     https://github.com/GrantStreetGroup/DBIx-OnlineDDL/issues/1,https://github.com/GrantStreetGroup/DBIx-OnlineDDL/issues/2
