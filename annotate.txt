@@ -4280,3 +4280,9 @@ Class-DBI-Plugin-Type-0.02              128135
 Connector-1.26                          123001
 Dancer2-Plugin-Auth-Extensible-Provider-DBIC-0.623 https://github.com/ctrlo/Dancer2-Plugin-Auth-Extensible-Provider-DBIC/issues/18
 DBIx-OnlineDDL-0.90                     https://github.com/GrantStreetGroup/DBIx-OnlineDDL/issues/1,https://github.com/GrantStreetGroup/DBIx-OnlineDDL/issues/2
+Brick-0.228                             https://github.com/briandfoy/brick/issues/5
+Database-Async-SQLite-0.001             128138
+Nagios-Plugin-OverHTTP-0.16             128140
+Sys-Info-Driver-Linux-0.7905            https://github.com/burak/CPAN-Sys-Info-Driver-Linux/issues/2
+Hatena-API-Auth-0.05                    128141
+Imager-1.008                            128142
