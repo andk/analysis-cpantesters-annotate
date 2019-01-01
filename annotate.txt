@@ -4289,3 +4289,7 @@ Imager-1.008                            128142,128145
 App-Fotagger-0.001.1                    128143,128144
 Net-Curl-0.39                           https://github.com/sparky/perl-Net-Curl/issues/29
 Prima-1.53                              128146
+Ryu-Async-0.014                         https://github.com/team-at-cpan/Ryu-Async/issues/2
+Date-Easy-0.06                          https://github.com/barefootcoder/date-easy/issues/12
+Date-Easy-0.06_01                       https://github.com/barefootcoder/date-easy/issues/12
+Variable-Declaration-0.02               https://github.com/kfly8/Variable-Declaration/issues/1,https://github.com/kfly8/Variable-Declaration/issues/6
