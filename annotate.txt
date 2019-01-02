@@ -3855,7 +3855,7 @@ BSON-v1.8.1                             https://jira.mongodb.org/browse/PERL-100
 Selenium-UserAgent-0.11                 https://github.com/gempesaw/Selenium-UserAgent/issues/4
 Net-Google-Drive-0.01                   https://github.com/vrag86/perl-net-google-drive/issues/2
 WWW-Shopify-Liquid-0.08                 127306
-DataTables-0.07                         127254,127254
+DataTables-0.07                         127254
 Dpkg-1.19.2                             127314
 WebService-Mattermost-0.001             127323
 Perinci-Sub-GetArgs-Argv-0.840          127324
