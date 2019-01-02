@@ -4294,3 +4294,10 @@ Date-Easy-0.06                          https://github.com/barefootcoder/date-ea
 Date-Easy-0.06_01                       https://github.com/barefootcoder/date-easy/issues/12
 Variable-Declaration-0.02               https://github.com/kfly8/Variable-Declaration/issues/1,https://github.com/kfly8/Variable-Declaration/issues/6
 App-dategrep-2.05                       https://github.com/mdom/dategrep/issues/34
+App-Greple-8.3206                       https://github.com/kaz-utashiro/greple/issues/8
+File-Which-1.23                         https://github.com/plicease/File-Which/issues/13
+MathML-itex2MML-1.5.9                   128151
+Variable-Declaration-0.03               https://github.com/kfly8/Variable-Declaration/issues/1
+MooseX-App-Cmd-Command-BashComplete-0.04 128153
+MySQL-Util-0.32                         127712
+Prty-1.125                              128156
