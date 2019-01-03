@@ -4303,4 +4303,5 @@ MySQL-Util-0.32                         127712
 Prty-1.125                              128156
 Test-MockFile-0.016                     https://github.com/CpanelInc/Test-MockFile/issues/28
 JSON-Validator-2.19                     https://github.com/mojolicious/json-validator/issues/139
-Sub-Fp-0.25                             127672
+Sub-Fp-0.27                             127672
+Data-TableReader-0.009                  128159
