@@ -3615,7 +3615,6 @@ POSIX-1003-0.99_07                      124960
 Video-FourCC-Info-1.005                 118459
 PerlBuildSystem-0.44                    121386,124971
 Term-Terminfo-0.08                      124969
-File-Find-Closures-1.112_03             https://github.com/briandfoy/file-find-closures/issues/1
 Net-Todoist-0.06                        124981
 Tk-TextVi-0.015                         124975
 XML-Writer-Lazy-0.05                    https://github.com/pjlsergeant/p5-xml-writer-lazy/issues/2
@@ -3781,7 +3780,6 @@ DBIx-Sunny-0.9991                       https://github.com/kazeburo/DBIx-Sunny/i
 Sport-Analytics-NHL-1.20                125941
 JavaScript-Duktape-XS-0.000069          125950
 LWP-ConsoleLogger-0.000038              https://github.com/oalders/lwp-consolelogger/issues/13
-App-cryp-arbit-0.003                    126001
 MouseX-Getopt-0.37                      https://github.com/gfx/mousex-getopt/issues/12
 dategrep-2.00                           https://github.com/mdom/dategrep/issues/31
 Alien-TinyCC-0.06                       https://github.com/run4flat/Alien-TinyCC/issues/11
@@ -3856,7 +3854,6 @@ Filesys-POSIX-0.9.19                    127334
 Hetula-Client-0.007                     https://github.com/kivilahtio/libhetula-client-perl/issues/3
 Net-SMTP-Verify-1.04                    125600
 File-Stamped-0.08                       127361,https://rt.perl.org/Ticket/Display.html?id=133585
-Catalyst-Runtime-5.90119                125843,https://rt.perl.org/Ticket/Display.html?id=133585
 Astro-SpaceTrack-0.119_01               127371
 CPAN-Audit-0.06                         https://github.com/vti/cpan-audit/issues/6
 CPAN-Mini-ProjectDocs-0.03.9            127381
@@ -3891,7 +3888,6 @@ WebService-ClinicalTrialsdotGov-0.04    127461
 CGI-Capture-1.14                        127462
 Text-SRT-Align-0.2                      127470
 AtteanX-RDFQueryTranslator-0.100        https://github.com/kasei/atteanx-rdfquerytranslator/issues/1
-Mojolicious-Quick-0.002                 https://github.com/PopeFelix/Mojolicious-Quick/issues/1
 Carp-Always-Color-0.08                  https://github.com/doy/carp-always-color/issues/3
 CGI-Application-Plugin-HTDot-0.07       127484
 WebService-GoogleAPI-Client-0.13        https://github.com/pscott-au/WebService-GoogleAPI-Client/issues/8
@@ -4063,7 +4059,6 @@ Alien-nragent-0.05                      https://github.com/plicease/Alien-nragen
 Config-Model-OpenSsh-1.240              https://github.com/dod38fr/config-model-openssh/issues/4
 Glib-1.328                              127871
 Net-LibIDN2-1.00                        125440
-WWW-Correios-SIGEP-0.02                 https://github.com/garu/WWW-Correios-SIGEP/issues/1
 Data-ObjectStore-2.02                   127850
 Alien-PCRE2-0.015000                    127872
 Compiler-Lexer-0.22                     https://github.com/goccy/p5-Compiler-Lexer/issues/68
@@ -4163,7 +4158,6 @@ WWW-Amazon-Wishlist-2.019               127970
 Plerd-1.71                              127877
 Redis-1.991                             https://github.com/PerlRedis/perl-redis/issues/131
 Resque-0.38                             https://github.com/diegok/resque-perl/issues/30
-Test-Mojo-Role-PSGI-0.06                https://github.com/jberger/Test-Mojo-Role-PSGI/issues/3
 Shell-Config-Generate-0.33              https://github.com/plicease/Shell-Config-Generate/issues/19
 Crypt-MatrixSSL3-v3.9.2                 https://github.com/powerman/perl-Crypt-MatrixSSL3/issues/42
 Backup-EZ-0.39                          123719
@@ -4221,7 +4215,6 @@ Dancer2-Template-Xslate-v0.1.1          https://github.com/rsimoes/Dancer2-Templ
 Geo-Google-StaticMaps-V2-0.12           128066
 HTTP-PublicKeyPins-0.14                 128067
 Plack-Middleware-StaticShared-0.06      https://github.com/cho45/Plack-Middleware-StaticShared/issues/4
-IPC-PrettyPipe-0.09-TRIAL               128069
 Alien-Libgpg_error-0.02                 128078
 Crypt-OpenSSL-ECDSA-0.08                118330
 App-IMDBtop-0.001001                    128082
