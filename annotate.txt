@@ -4273,4 +4273,5 @@ Test-MockFile-0.016                     https://github.com/CpanelInc/Test-MockFi
 JSON-Validator-2.19                     https://github.com/mojolicious/json-validator/issues/139
 Sub-Fp-0.27                             127672
 Data-TableReader-0.009                  128159
+Sub-Fp-0.30                             127672
 JSON-Validator-3.00                     https://github.com/mojolicious/json-validator/issues/140
