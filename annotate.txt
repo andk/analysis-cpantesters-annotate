@@ -1863,7 +1863,6 @@ Gimp-2.31                               110704
 WWW-Scripter-Plugin-JavaScript-0.008a   110763
 Net-Address-Ethernet-1.123              110772
 Dist-Zilla-Plugin-CheckPrereqsIndexed-0.017 https://github.com/rjbs/Dist-Zilla-Plugin-CheckPrereqsIndexed/issues/19
-Date-Easy-0.01                          https://github.com/barefootcoder/date-easy/issues/2
 JSV-0.07                                https://github.com/zigorou/perl-JSV/issues/45
 Catmandu-LIDO-0.01                      https://github.com/LibreCat/Catmandu-LIDO/issues/1
 Test-DBIx-Class-Schema-1.0.9            https://github.com/chiselwright/test-dbix-class-schema/issues/12
@@ -3195,7 +3194,6 @@ Net-APNS-0.0202                         123296
 DR-Tnt-0.20                             118326
 code-UnifdefPlus-0.005.004              120449,120449
 App-VideoHost-0.143310-TRIAL            https://github.com/EatMoreCode/video_host/issues/1
-Math-GSL-0.39                           123306
 Business-BR-CNJ-WebService-0.03         123326
 Mojo-IOLoop-ReadWriteProcess-0.09       123176
 oxdperl_sobhantest-3.2.1                123382
@@ -3537,7 +3535,6 @@ Plack-Middleware-Debug-Mongo-0.03       https://github.com/Wu-Wu/Plack-Middlewar
 Plack-Middleware-Debug-Redis-0.03       https://github.com/Wu-Wu/Plack-Middleware-Debug-Redis/issues/1
 Object-Exercise-3.1                     124632
 CGI-AuthRegister-1.1                    124630
-Variable-Declaration-0.01               https://github.com/kfly8/Variable-Declaration/issues/1
 Steemit-WsClient-0.10                   124637
 Audio-Extract-PCM-0.04                  124638
 Bio-Grep-v0.10.6                        124639
@@ -3568,14 +3565,12 @@ Dancer2-0.205002                        https://github.com/PerlDancer/Dancer2/is
 Finance-Currency-Convert-ECBdaily-0.03  124736
 WebService-SendGrid-Newsletter-0.02     https://github.com/Sidnet/p5-WebService-SendGrid-Newsletter/issues/17
 HTTP-XSCookies-0.000019                 124731
-JSON-Validator-2.04                     https://github.com/jhthorsen/json-validator/issues/101
 Reddit-Client-1.20                      124767
 Test2-Tools-xUnit-0.003                 https://github.com/cv-library/Test2-Tools-xUnit/issues/1
 Time-HiRes-1.9755                       124775
 Text-Unaccent-1.08                      21177
 MooseX-XSAccessor-0.008                 124835
 App-CSE-0.013                           124839
-HTML-Tidy5-1.00                         https://github.com/petdance/html-tidy5/issues/4
 Bio-PhyloXS-v0.1.0                      https://github.com/rvosa/bio-phylo-xs/issues/7,https://github.com/rvosa/bio-phylo-xs/issues/8
 circle-fe-term-0.173170                 124848
 MariaDB-NonBlocking-0.14                123474,124851
@@ -3881,7 +3876,6 @@ Badger-0.13                             119422,127427
 Astro-FITS-CFITSIO-1.12                 127312
 CryptX-0.061                            https://github.com/DCIT/perl-CryptX/issues/46
 Config-Model-Xorg-1.115                 127431
-Overload-FileCheck-0.003                https://github.com/CpanelInc/Overload-FileCheck/issues/6
 Crypt-RSA-1.99                          127436
 Devel-Chitin-0.17                       127437,127438,127439
 Yancy-1.010                             https://github.com/preaction/Yancy/issues/21
@@ -3940,7 +3934,6 @@ QBit-WebInterface-Routing-0.010         127597
 Shell-Cmd-3.01                          127604
 Devel-Cover-1.31                        https://github.com/pjcj/Devel--Cover/issues/225
 Sys-Info-Base-0.7804                    121024
-Sys-Info-Driver-Linux-0.7903            98099,127231
 Test-Sys-Info-0.21                      120880
 Dist-Zilla-Plugin-Generate-ManifestSkip-v0.1.5 https://github.com/robrwo/Dist-Zilla-Plugin-Generate-ManifestSkip/issues/1
 Keyword-Pluggable-1.02                  127625
@@ -3986,7 +3979,6 @@ Mojolicious-Plugin-CGI-0.39             https://github.com/jhthorsen/mojolicious
 IPC-Shareable-0.61                      91197,91841
 Net-SAML2-0.17                          127710
 Flickr-API2-2.50                        127711
-MySQL-Util-0.29                         127712
 tk-zinc-3.303                           127714
 Types-SQL-v0.3.0                        https://github.com/robrwo/Types-SQL/issues/4
 App-Guiio-0.991                         127715
@@ -4041,7 +4033,6 @@ Qgoda-0.9.4                             127768
 ExtJS-Generator-DBIC-0.003              127770
 Alien-sispmctl-0.001                    127771
 Perl-Critic-Pulp-96                     127777
-Sub-Fp-0.23                             127672
 Catmandu-Inspire-0.265                  https://github.com/LibreCat/Catmandu-Inspire/issues/4
 PONAPI-Server-0.003002                  127778
 Test-Aggregate-0.375                    100035
@@ -4133,7 +4124,6 @@ Geo-SpatialDB-0.000_001                 out of memory, non-portable hex numbers,
 Locale-TextDomain-OO-Extract-Xslate-0.03 127934,127935
 Log-Fine-0.65                           127936
 Mojo-Redis-Processor-0.07               https://github.com/binary-com/perl-Mojo-Redis-Processor/issues/9
-MySQL-Workbench-DBIC-1.09               https://github.com/reneeb/MySQL-Workbench-DBIC/issues/5
 Net-Async-WebSocket-0.13                127937
 Net-Dropbear-0.10                       https://github.com/atrodo/Net-Dropbear/issues/4
 Net-Evernote-Simple-0.07                127938
@@ -4197,12 +4187,10 @@ HPCI-0.75                               127826,124695
 App-git-ship-0.30                       https://github.com/jhthorsen/app-git-ship/issues/19
 Net-SSLeay-1.86_07                      128025
 Test-OnlySome-0.001002-TRIAL            128027
-Ryu-Async-0.013                         https://github.com/team-at-cpan/Ryu-Async/issues/2
 App-perlbrew-0.85                       125066
 HTTP-Request-Generator-0.03             128032
 Date-Holidays-BY-0.2019.0               128036
 Date-TimeOfDay-0.004                    128031
-File-Which-1.22                         https://github.com/plicease/File-Which/issues/13
 Sah-Schemas-Domain-0.001                128037
 WWW-Yotpo-0.01                          https://github.com/fayland/perl-WWW-Yotpo/issues/1
 Test-Simple-1.302148-TRIAL              https://github.com/Test-More/test-more/issues/815
@@ -4232,7 +4220,6 @@ Module-Version-0.200                    https://github.com/xsawyerx/module-versi
 Dancer2-Template-Xslate-v0.1.1          https://github.com/rsimoes/Dancer2-Template-Xslate/issues/10
 Geo-Google-StaticMaps-V2-0.12           128066
 HTTP-PublicKeyPins-0.14                 128067
-Test-MockFile-0.013                     https://github.com/CpanelInc/Test-MockFile/issues/20
 Plack-Middleware-StaticShared-0.06      https://github.com/cho45/Plack-Middleware-StaticShared/issues/4
 IPC-PrettyPipe-0.09-TRIAL               128069
 Alien-Libgpg_error-0.02                 128078
@@ -4245,11 +4232,9 @@ Geo-Address-Formatter-1.70              111685
 JSON-API-v1.1.0                         https://github.com/geofffranks/json-api/issues/4
 File-HomeDir-1.004                      128096
 WWW-Scraper-ISBN-Pearson_Driver-0.23    128091
-Test-MockFile-0.015                     https://github.com/CpanelInc/Test-MockFile/issues/20
 Overload-FileCheck-0.007                https://github.com/CpanelInc/Overload-FileCheck/issues/8
 Alien-OpenJPEG-0.002                    128094
 Git-Wrapper-0.048_090                   https://github.com/genehack/Git-Wrapper/issues/108
-Catalyst-Plugin-Shorten-0.02            128095
 Class-Superclasses-0.08                 https://github.com/reneeb/Class-Superclasses/issues/2
 HTTP-Server-Simple-0.52                 96086
 MooX-late-0.015                         124054
@@ -4261,11 +4246,8 @@ GD-SecurityImage-1.74                   https://github.com/burak/CPAN-GD-Securit
 HTML-Tidy5-1.04                         https://github.com/petdance/html-tidy5/issues/11
 Math-GSL-0.40                           https://github.com/leto/math--gsl/issues/166
 AnyEvent-Future-0.03                    128099
-MySQL-Util-0.31                         127712
-Sys-Info-Driver-Linux-0.7904            https://github.com/burak/CPAN-Sys-Info-Driver-Linux/issues/1
 Statistics-Lmoments-0.04                128109
 Vim-X-1.3.0                             https://github.com/yanick/Vim-X/issues/4
-Mojolicious-Plugin-Piwik-0.25           https://github.com/Akron/Mojolicious-Plugin-Piwik/issues/2
 MySQL-Workbench-DBIC-1.13               https://github.com/reneeb/MySQL-Workbench-DBIC/issues/11
 Colon-Config-0.004                      https://github.com/atoomic/Colon-Config/issues/2
 Mojolicious-Plugin-Piwik-0.26_1         https://github.com/Akron/Mojolicious-Plugin-Piwik/issues/2
@@ -4285,9 +4267,7 @@ App-Fotagger-0.001.1                    128143,128144
 Net-Curl-0.39                           https://github.com/sparky/perl-Net-Curl/issues/29
 Prima-1.53                              127880,128146
 Ryu-Async-0.014                         https://github.com/team-at-cpan/Ryu-Async/issues/2
-Date-Easy-0.06                          https://github.com/barefootcoder/date-easy/issues/12
 Date-Easy-0.06_01                       https://github.com/barefootcoder/date-easy/issues/12
-Variable-Declaration-0.02               https://github.com/kfly8/Variable-Declaration/issues/1,https://github.com/kfly8/Variable-Declaration/issues/6
 App-dategrep-2.05                       https://github.com/mdom/dategrep/issues/34
 App-Greple-8.3206                       https://github.com/kaz-utashiro/greple/issues/8
 File-Which-1.23                         https://github.com/plicease/File-Which/issues/13
