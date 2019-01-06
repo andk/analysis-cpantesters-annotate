@@ -4275,3 +4275,12 @@ Sub-Fp-0.27                             127672
 Data-TableReader-0.009                  128159
 Sub-Fp-0.30                             127672
 JSON-Validator-3.00                     https://github.com/mojolicious/json-validator/issues/140
+Text-PDF2XML-0.3.1                      128178,128179
+Mojolicious-Plugin-OpenAPI-2.07         https://github.com/jhthorsen/mojolicious-plugin-openapi/issues/100
+MySQL-Util-0.33                         128180
+Message-Passing-Output-PocketIO-0.01    128181
+MySQL-Util-0.33                         128182
+Phone-Number-v1.1.2                     128183
+Prty-1.126                              128184
+Yancy-1.020                             https://github.com/preaction/Yancy/issues/44
+perl-local-env-0.03                     128185
