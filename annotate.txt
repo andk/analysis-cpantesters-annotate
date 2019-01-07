@@ -4284,3 +4284,5 @@ Phone-Number-v1.1.2                     128183
 Prty-1.126                              128184
 Yancy-1.020                             https://github.com/preaction/Yancy/issues/44
 perl-local-env-0.03                     128185
+lazy-0.000009                           https://github.com/oalders/lazy/issues/1
+Test-Mojo-Role-StopOnFail-0.01          128192,128193
