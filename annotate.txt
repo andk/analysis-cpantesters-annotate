@@ -4286,3 +4286,7 @@ Yancy-1.020                             https://github.com/preaction/Yancy/issue
 perl-local-env-0.03                     128185
 lazy-0.000009                           https://github.com/oalders/lazy/issues/1
 Test-Mojo-Role-StopOnFail-0.01          128192,128193
+WebService-Lobid-Organisation-0.0031    https://github.com/hatorikibble/webservice-lobid-organisations/issues/1
+Finance-TickerSymbols-3.11              121314
+Compress-Raw-Lzma-2.084                 128194
+HTTP-Message-6.18                       https://github.com/libwww-perl/HTTP-Message/issues/121
