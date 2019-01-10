@@ -4290,3 +4290,5 @@ WebService-Lobid-Organisation-0.0031    https://github.com/hatorikibble/webservi
 Finance-TickerSymbols-3.11              121314
 Compress-Raw-Lzma-2.084                 128194
 HTTP-Message-6.18                       https://github.com/libwww-perl/HTTP-Message/issues/121
+BioX-Seq-0.007002                       128212
+PMLTQ-Commands-0.0.1                    https://github.com/ufal/pmltq-commands/issues/1
