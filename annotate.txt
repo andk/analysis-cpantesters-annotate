@@ -4292,3 +4292,6 @@ Compress-Raw-Lzma-2.084                 128194
 HTTP-Message-6.18                       https://github.com/libwww-perl/HTTP-Message/issues/121
 BioX-Seq-0.007002                       128212
 PMLTQ-Commands-0.0.1                    https://github.com/ufal/pmltq-commands/issues/1
+Imager-1.009                            128142
+ack-2.999_06                            https://github.com/beyondgrep/ack3/issues/182
+Sub-Fp-0.31                             127672
