@@ -4298,3 +4298,7 @@ Sub-Fp-0.31                             127672
 Types-RENEEB-0.01                       https://github.com/reneeb/Types-RENEEB/issues/1
 Sub-Fp-0.32                             127672
 URI-ws_Punix-0.001                      128236
+Text-Parser-0.800                       128244,128245
+Devel-Probe-0.000003                    128259,128261
+Inline-Perl6-0.09                       123419
+Geo-IPinfo-1.1                          128266
