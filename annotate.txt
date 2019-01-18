@@ -4307,3 +4307,5 @@ Devel-Probe-0.000004                    128259,128261
 File-LsColor-0.194                      https://github.com/trapd00r/File-LsColor/issues/2
 Data-Sah-0.895                          128274
 HTTP-Message-6.19-TRIAL                 https://github.com/libwww-perl/HTTP-Message/issues/124
+Unix-Mknod-0.04                         124687
+LCFG-Build-PkgSpec-0.2.6                115899
