@@ -1902,7 +1902,6 @@ CBOR-XS-1.5                             115844
 App-Sqitch-0.9994                       https://github.com/theory/sqitch/issues/308
 Task-BeLike-RJRAY-0.009                 115909
 QBit-Application-0.011                  115878
-LCFG-Build-PkgSpec-0.1.0                115899
 Regexp-Whitespace-0.001_1-TRIAL         fails for perl >= 5.18, no issue tracker
 MooseX-Getopt-0.71                      four fails with dated toolchain, reported and fixed
 Perl6-Pod-0.72                          116024
@@ -2867,7 +2866,6 @@ Encode-Detect-Upload-0.04               99315
 Alien-GCrypt-1.6.5.0                    https://github.com/ajgb/alien-gcrypt/issues/2
 App-Basis-Email-0.3                     121312
 Alien-Lua-v5.2.2.2                      121313
-Finance-TickerSymbols-2.01              121314
 Time-C-0.024                            https://github.com/pink-mist/Time-C/issues/3
 App-perluse-0.0102                      https://github.com/dex4er/perluse/issues/2
 State-Machine-0.07                      121317
@@ -3212,7 +3210,6 @@ Coteng-0.11                             https://github.com/yuuki/Coteng/issues/2
 Lingua-Thesaurus-0.13                   123415
 PLN-PT-0.007                            123416
 RDF-Crypt-0.002                         123417
-Inline-Perl6-0.08                       123419
 POE-Component-Server-HTTP-KeepAlive-0.0307 82020
 WebService-Cmis-0.09                    123421
 WWW-AUR-0.22                            123422
@@ -3430,7 +3427,6 @@ Template-Resolver-1.16                  123977
 Symbol-Global-Name-0.05                 https://rt.perl.org/Public/Bug/Display.html?id=132252
 psh-1.8                                 105916
 Devel-SharedLibs-v0.3.3                 123992
-ack-2.999_01                            https://github.com/beyondgrep/ack2/issues/656
 XML-Schema-0.07                         71111
 ActiveRecord-Simple-1.01                124011
 Math-WalshTransform-1.17                122909
@@ -3478,7 +3474,6 @@ Catalyst-Plugin-Static-Simple-ButMaintained-0.30 124245
 CGI-Application-MailPage-1.7            124257,124258
 Mojolicious-Plugin-Paging-0.1.2         124265
 CPAN-Reporter-Smoker-Safer-0.04         may fail if www.cpantesters.org is unavailable,96959
-Mojolicious-Plugin-OpenAPI-1.25         https://github.com/jhthorsen/mojolicious-plugin-openapi/issues/59
 Fukurama-Class-0.032                    124263
 WWW-Selenium-Utils-0.09                 124264
 WWW-Scraper-ISBN-TWSanmin_Driver-0.02   75133,124276
@@ -3626,7 +3621,6 @@ Net-Jabber-Loudmouth-0.07               95339
 Device-Chip-Adapter-CH341A-0.02         124608
 SOAP-Lite-Simple-1.9                    125017
 App-Jiffy-0.06                          https://github.com/lejeunerenard/jiffy/issues/8
-Compress-Raw-Lzma-2.081                 125046
 Finance-Robinhood-0.9.0_001             https://github.com/sanko/Finance-Robinhood/issues/3
 IO-Compress-Lzf-2.081                   91419
 HTTP-Caching-0.12                       125047
@@ -3695,7 +3689,6 @@ Google-GeoCoder-Smart-v2.0.1            125464
 Lexical-Types-0.16                      https://rt.perl.org/Ticket/Display.html?id=132385,125465
 Mojolicious-Plugin-JSONAPI-1.5          125470
 Mojolicious-Plugin-SessionStorage-0.1.6 125187
-Data-Sah-0.891                          125478
 Image-Magick-Brand-0.01                 125480
 Linux-Clone-1.2                         fails on older linux kernels (without bug report)
 Moxie-0.07                              127978,https://github.com/stevan/p5-Moxie/issues/9
@@ -3875,7 +3868,6 @@ CryptX-0.061                            https://github.com/DCIT/perl-CryptX/issu
 Config-Model-Xorg-1.115                 127431
 Crypt-RSA-1.99                          127436
 Devel-Chitin-0.17                       127437,127438,127439
-Yancy-1.010                             https://github.com/preaction/Yancy/issues/21
 Math-Pari-2.030507                      127442
 qbit-2.6                                127443
 Net-LastFM-0.36                         127446
@@ -4126,7 +4118,6 @@ Plack-Handler-Stomp-1.14                127939
 Test-WWW-Mechanize-1.52                 https://github.com/petdance/test-www-mechanize/issues/65
 sympatic-0.1_001                        127953
 DBD-cubrid-10.1.0.0001                  127941
-File-LsColor-0.192                      https://github.com/trapd00r/File-LsColor/issues/2
 Plate-0.2                               https://github.com/vlyon/Plate/issues/2
 GCCJIT-0.03                             https://github.com/vickenty/gccjit-perl/issues/1
 Gtk3-Notify-0.02                        127946
@@ -4254,7 +4245,6 @@ Database-Async-SQLite-0.001             124872,128138
 Nagios-Plugin-OverHTTP-0.16             128140
 Sys-Info-Driver-Linux-0.7905            https://github.com/burak/CPAN-Sys-Info-Driver-Linux/issues/2
 Hatena-API-Auth-0.05                    128141
-Imager-1.008                            128142,128145
 App-Fotagger-0.001.1                    128143,128144
 Net-Curl-0.39                           https://github.com/sparky/perl-Net-Curl/issues/29
 Prima-1.53                              127880,128146
@@ -4266,13 +4256,8 @@ File-Which-1.23                         https://github.com/plicease/File-Which/i
 MathML-itex2MML-1.5.9                   128151
 Variable-Declaration-0.03               https://github.com/kfly8/Variable-Declaration/issues/1
 MooseX-App-Cmd-Command-BashComplete-0.04 100353,107831,128153
-MySQL-Util-0.32                         127712
-Prty-1.125                              127428,128156
 Test-MockFile-0.016                     https://github.com/CpanelInc/Test-MockFile/issues/28
-JSON-Validator-2.19                     https://github.com/mojolicious/json-validator/issues/139
-Sub-Fp-0.27                             127672
 Data-TableReader-0.009                  128159
-Sub-Fp-0.30                             127672
 JSON-Validator-3.00                     https://github.com/mojolicious/json-validator/issues/140
 Text-PDF2XML-0.3.1                      128178,128179
 Mojolicious-Plugin-OpenAPI-2.07         https://github.com/jhthorsen/mojolicious-plugin-openapi/issues/100
@@ -4287,17 +4272,13 @@ Test-Mojo-Role-StopOnFail-0.01          128192,128193
 WebService-Lobid-Organisation-0.0031    https://github.com/hatorikibble/webservice-lobid-organisations/issues/1
 Finance-TickerSymbols-3.11              121314
 Compress-Raw-Lzma-2.084                 128194
-HTTP-Message-6.18                       https://github.com/libwww-perl/HTTP-Message/issues/101,https://github.com/libwww-perl/HTTP-Message/issues/121
 BioX-Seq-0.007002                       128212
 PMLTQ-Commands-0.0.1                    https://github.com/ufal/pmltq-commands/issues/1
 Imager-1.009                            128142
 ack-2.999_06                            https://github.com/beyondgrep/ack3/issues/182
-Sub-Fp-0.31                             127672
 Types-RENEEB-0.01                       https://github.com/reneeb/Types-RENEEB/issues/1
 Sub-Fp-0.32                             127672
 URI-ws_Punix-0.001                      128236
-Text-Parser-0.800                       128244,128245
-Devel-Probe-0.000003                    128259,128261
 Inline-Perl6-0.09                       123419
 Geo-IPinfo-1.1                          128266
 Text-Parser-0.801                       128245
