@@ -4277,3 +4277,4 @@ Data-Sah-0.895                          128274
 HTTP-Message-6.19-TRIAL                 https://github.com/libwww-perl/HTTP-Message/issues/124
 Unix-Mknod-0.04                         124687
 LCFG-Build-PkgSpec-0.2.6                115899
+DBIx-Lite-0.32                          https://github.com/alranel/DBIx-Lite/issues/18
