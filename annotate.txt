@@ -4232,7 +4232,6 @@ Class-Superclasses-0.08                 https://github.com/reneeb/Class-Supercla
 HTTP-Server-Simple-0.52                 96086
 MooX-late-0.015                         124054
 Catalyst-Plugin-Shorten-0.03            128095
-HTTP-Message-6.18                       https://github.com/libwww-perl/HTTP-Message/issues/101
 REST-Client-CrossRef-0.003              128100
 Dancer-1.3500                           https://github.com/PerlDancer/Dancer/issues/1203
 GD-SecurityImage-1.74                   https://github.com/burak/CPAN-GD-SecurityImage/issues/3
@@ -4277,9 +4276,8 @@ Sub-Fp-0.30                             127672
 JSON-Validator-3.00                     https://github.com/mojolicious/json-validator/issues/140
 Text-PDF2XML-0.3.1                      128178,128179
 Mojolicious-Plugin-OpenAPI-2.07         https://github.com/jhthorsen/mojolicious-plugin-openapi/issues/100
-MySQL-Util-0.33                         128180
 Message-Passing-Output-PocketIO-0.01    128181
-MySQL-Util-0.33                         128182
+MySQL-Util-0.33                         128180,128182
 Phone-Number-v1.1.2                     128183
 Prty-1.126                              128184
 Yancy-1.020                             https://github.com/preaction/Yancy/issues/44
@@ -4289,7 +4287,7 @@ Test-Mojo-Role-StopOnFail-0.01          128192,128193
 WebService-Lobid-Organisation-0.0031    https://github.com/hatorikibble/webservice-lobid-organisations/issues/1
 Finance-TickerSymbols-3.11              121314
 Compress-Raw-Lzma-2.084                 128194
-HTTP-Message-6.18                       https://github.com/libwww-perl/HTTP-Message/issues/121
+HTTP-Message-6.18                       https://github.com/libwww-perl/HTTP-Message/issues/101,https://github.com/libwww-perl/HTTP-Message/issues/121
 BioX-Seq-0.007002                       128212
 PMLTQ-Commands-0.0.1                    https://github.com/ufal/pmltq-commands/issues/1
 Imager-1.009                            128142
