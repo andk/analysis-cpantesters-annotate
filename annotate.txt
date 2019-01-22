@@ -4283,3 +4283,4 @@ Data-Table-Text-20190119                128301
 Acme-Lingua-ZH-Remix-0.98               https://github.com/gugod/Acme-Lingua-ZH-Remix/issues/1
 Alien-raylib-0.023                      128304
 Data-Edit-Xml-20190121                  128300
+Geo-Coder-Googlev3-0.17                 128326
