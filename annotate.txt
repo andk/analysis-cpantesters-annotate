@@ -4285,3 +4285,6 @@ Alien-raylib-0.023                      128304
 Data-Edit-Xml-20190121                  128300
 Geo-Coder-Googlev3-0.17                 128326
 App-PerinciUtils-0.112                  128330
+Catalyst-Plugin-InjectionHelpers-0.013  https://github.com/jjn1056/Catalyst-Plugin-InjectionHelpers/issues/2
+Dpkg-1.19.3                             128332
+HTTP-Headers-Fast-0.21                  https://github.com/tokuhirom/HTTP-Headers-Fast/issues/11
