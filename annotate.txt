@@ -4288,3 +4288,6 @@ App-PerinciUtils-0.112                  128330
 Catalyst-Plugin-InjectionHelpers-0.013  https://github.com/jjn1056/Catalyst-Plugin-InjectionHelpers/issues/2
 Dpkg-1.19.3                             128332
 HTTP-Headers-Fast-0.21                  https://github.com/tokuhirom/HTTP-Headers-Fast/issues/11
+Acme-AtIncPolice-0.01                   https://github.com/ytnobody/p5-Acme-AtIncPolice/issues/1
+Inline-C-0.79_001                       https://github.com/ingydotnet/inline-c-pm/issues/79
+JSON-Parse-0.55_02                      https://github.com/benkasminbullock/JSON-Parse/issues/40
