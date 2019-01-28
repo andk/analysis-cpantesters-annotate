@@ -4293,3 +4293,16 @@ Inline-C-0.79_001                       https://github.com/ingydotnet/inline-c-p
 JSON-Parse-0.55_02                      https://github.com/benkasminbullock/JSON-Parse/issues/40
 Inline-C-0.79_002                       https://github.com/ingydotnet/inline-c-pm/issues/79
 Sub-Fp-0.39                             127672
+Test-WWW-Simple-0.39                    82970
+Catalyst-Plugin-InjectionHelpers-0.014  https://github.com/jjn1056/Catalyst-Plugin-InjectionHelpers/issues/2
+Dancer-Plugin-SporeDefinitionControl-0.16 84948
+App-SimpleScan-3.01                     128379
+ASP4x-Captcha-Imager-0.003              109730
+Date-Cutoff-JP-0.04                     https://github.com/worthmine/Date-Cutoff-JP/issues/1
+Date-Lectionary-Daily-v1.20180423       128380
+File-BOM-0.15                           128334
+Finance-Bank-Commerzbank-0.29           16724
+Gtk2-Ex-GraphViz-0.01                   128381
+GD-Persian-0.9                          https://github.com/slashmili/perl-gd-persian/issues/2
+JSON-Hyper-0.011                        128382
+perl-ldap-0.65                          120866
