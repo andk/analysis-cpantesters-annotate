@@ -4306,3 +4306,8 @@ Gtk2-Ex-GraphViz-0.01                   128381
 GD-Persian-0.9                          https://github.com/slashmili/perl-gd-persian/issues/2
 JSON-Hyper-0.011                        128382
 perl-ldap-0.65                          120866
+Google-Ads-AdWords-Client-5.7.0         118509
+AtteanX-Store-SPARQL-0.010              https://github.com/kjetilk/p5-atteanx-store-sparql/issues/8
+Math-MPFR-4.07                          128393
+SVG-Calendar-v0.3.14                    127463
+Alien-hiredis-0.001                     https://github.com/Grinnz/Alien-hiredis/issues/1
