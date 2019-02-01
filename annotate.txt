@@ -4311,3 +4311,4 @@ AtteanX-Store-SPARQL-0.010              https://github.com/kjetilk/p5-atteanx-st
 Math-MPFR-4.07                          128393
 SVG-Calendar-v0.3.14                    127463
 Alien-hiredis-0.001                     https://github.com/Grinnz/Alien-hiredis/issues/1
+App-iperlmoddir-1.02                    https://github.com/pavelsr/iperlmoddir/issues/1
