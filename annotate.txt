@@ -4317,3 +4317,4 @@ Archive-SevenZip-0.08                   128407
 App-Sqitch-0.9999                       https://github.com/sqitchers/sqitch/issues/427
 ClearPress-v2019.2.1                    122425
 XML-Easy-0.011                          127416, BBC missing?
+MooX-PDL-Role-Proxy-0.04                128410
