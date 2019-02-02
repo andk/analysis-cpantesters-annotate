@@ -4318,3 +4318,5 @@ App-Sqitch-0.9999                       https://github.com/sqitchers/sqitch/issu
 ClearPress-v2019.2.1                    122425
 XML-Easy-0.011                          127416,https://rt.perl.org/Ticket/Display.html?id=133816
 MooX-PDL-Role-Proxy-0.04                128410
+Quiq-1.132                              128411
+Banal-Mini-Utils-0.002                  https://github.com/tabulon/p5-Banal-Mini-Utils/issues/1
