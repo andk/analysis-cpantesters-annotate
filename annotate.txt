@@ -4322,3 +4322,7 @@ Quiq-1.132                              128411
 Banal-Mini-Utils-0.002                  https://github.com/tabulon/p5-Banal-Mini-Utils/issues/1
 PONAPI-Server-0.003003                  127778
 Prima-1.54                              128414
+IO-Async-SSL-0.22                       128418
+Mojo-Pg-Che-0.8551                      128419
+Types-Mojo-0.01                         https://github.com/reneeb/Types-Mojo/issues/1
+XML-Feed-0.57                           https://github.com/davorg/xml-feed/issues/50
