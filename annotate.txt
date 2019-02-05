@@ -4327,3 +4327,4 @@ Mojo-Pg-Che-0.8551                      128419
 Types-Mojo-0.01                         https://github.com/reneeb/Types-Mojo/issues/1
 XML-Feed-0.57                           https://github.com/davorg/xml-feed/issues/50
 Test-Mocha-0.66                         128420
+Mojolicious-Plugin-RoutesConfig-0.05    https://github.com/kberov/Mojolicious-Plugin-RoutesConfig/issues/1
