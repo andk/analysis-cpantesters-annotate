@@ -4328,3 +4328,8 @@ Types-Mojo-0.01                         https://github.com/reneeb/Types-Mojo/iss
 XML-Feed-0.57                           https://github.com/davorg/xml-feed/issues/50
 Test-Mocha-0.66                         128420
 Mojolicious-Plugin-RoutesConfig-0.05    https://github.com/kberov/Mojolicious-Plugin-RoutesConfig/issues/1
+HTML-Restrict-v2.4.0                    https://github.com/oalders/html-restrict/issues/32
+Mojo-Pg-Che-0.8552                      128419
+GraphQL-Plugin-Convert-OpenAPI-0.17     https://github.com/graphql-perl/GraphQL-Plugin-Convert-OpenAPI/issues/4
+Yancy-1.022                             https://github.com/preaction/Yancy/issues/55
+Lemonldap-NG-Common-1.9.18              128431
