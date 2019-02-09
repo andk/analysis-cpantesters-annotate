@@ -4333,3 +4333,8 @@ Mojo-Pg-Che-0.8552                      128419
 GraphQL-Plugin-Convert-OpenAPI-0.17     https://github.com/graphql-perl/GraphQL-Plugin-Convert-OpenAPI/issues/4
 Yancy-1.022                             https://github.com/preaction/Yancy/issues/55
 Lemonldap-NG-Common-1.9.18              128431
+Mojo-Pg-Che-0.856                       128419
+OTRS-OPM-Parser-1.01                    https://github.com/reneeb/OTRS-OPM-Parser/issues/3
+Mojo-Log-Che-0.8121                     120757
+WebService-GeoIPify-0.01                128453,128454
+Quiq-1.133                              128411
