@@ -4343,3 +4343,6 @@ Locked-Storage-1.06                     128465
 WebService-GeoIPify-0.02                128454
 Locked-Storage-1.07                     128467
 Test-TempFile-0.90                      128472
+Text-PDF2XML-0.3.3                      128179
+Alien-GfsmXL-0.004                      128486
+Net-ISC-DHCPClient-0.11                 128487
