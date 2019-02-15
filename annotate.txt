@@ -4347,3 +4347,8 @@ Text-PDF2XML-0.3.3                      128179
 Alien-GfsmXL-0.004                      128486
 Net-ISC-DHCPClient-0.11                 128487
 Lemonldap-NG-Common-2.0.2               128494
+Text-JSCalendar-0.01                    128501
+Devel-Probe-0.000005                    128259
+Test-Mock-LWP-0.08                      128518
+Lemonldap-NG-Portal-2.0.2               128519
+Text-FixedWidth-Parser-0.5              128522
