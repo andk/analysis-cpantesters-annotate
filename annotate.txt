@@ -4352,3 +4352,4 @@ Devel-Probe-0.000005                    128259
 Test-Mock-LWP-0.08                      128518
 Lemonldap-NG-Portal-2.0.2               128519
 Text-FixedWidth-Parser-0.5              128522
+Data-Match-0.06                         128525
