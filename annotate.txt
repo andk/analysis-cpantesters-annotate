@@ -4319,7 +4319,8 @@ Lemonldap-NG-Portal-2.0.2               128519
 Text-FixedWidth-Parser-0.5              128522
 Data-Match-0.06                         93935,128525
 Net-Async-HTTP-0.44                     127649
-Term-Table2-1.0.0                       128539,128540,128541
 MojoX-JSON-RPC-0.11                     128542
 LCFG-Build-Tools-0.9.19                 128543
 URI-Title-1.901                         128544
+Term-Table2-1.0.1                       128539,128540,128541
+Spreadsheet-Read-Ingester-0.001         various failures, no bugtracker (yet?)
