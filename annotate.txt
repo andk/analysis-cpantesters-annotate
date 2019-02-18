@@ -4324,3 +4324,4 @@ LCFG-Build-Tools-0.9.19                 128543
 URI-Title-1.901                         128544
 Term-Table2-1.0.1                       128539,128540,128541
 Spreadsheet-Read-Ingester-0.001         various failures, no bugtracker (yet?)
+HTML-T5-0.005                           128548,128549
