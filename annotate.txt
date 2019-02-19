@@ -4325,4 +4325,8 @@ URI-Title-1.901                         128544
 Term-Table2-1.0.1                       128539,128540,128541
 HTML-T5-0.005                           128548,128549
 Convert-Base85-1.01                     128553
-Spreadsheet-Read-Ingester-0.002         128554
+SPVM-0.0416                             128555
+DBIx-Config-0.000003                    112888
+Locale-Country-Extra-1.0.3              128040,https://github.com/binary-com/perl-Locale-Country-Extra/issues/16
+File-Signature-1.009                    128558
+Spreadsheet-Read-Ingester-0.005         128554
