@@ -4330,3 +4330,7 @@ DBIx-Config-0.000003                    112888
 Locale-Country-Extra-1.0.3              128040,https://github.com/binary-com/perl-Locale-Country-Extra/issues/16
 File-Signature-1.009                    128558
 Spreadsheet-Read-Ingester-0.005         128554
+Syntax-Keyword-Try-0.09                 128562
+App-mycnfdiff-1.00                      https://github.com/pavelsr/mycnfdiff/issues/1
+Prima-1.54_1                            128421
+Cache-LRU-0.04                          120868
