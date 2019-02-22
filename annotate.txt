@@ -4335,3 +4335,8 @@ App-mycnfdiff-1.00                      https://github.com/pavelsr/mycnfdiff/iss
 Prima-1.54_1                            128421
 Cache-LRU-0.04                          120868
 Term-TermKey-0.16                       128567
+App-sourcepan-0.04                      128583
+Module-Build-Using-PkgConfig-0.01       128584
+Term-Terminfo-0.09                      124969
+Log-Log4perl-Shortcuts-0.023            https://github.com/sdondley/Log-Log4perl-Shortcuts/issues/4
+Geo-Coder-OpenCage-0.20                 https://github.com/OpenCageData/perl-Geo-Coder-OpenCage/issues/6,https://github.com/OpenCageData/perl-Geo-Coder-OpenCage/issues/7
