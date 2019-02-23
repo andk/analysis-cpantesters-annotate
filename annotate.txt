@@ -4345,3 +4345,14 @@ Test-Catch-1.0.3                        128597
 BioPerl-1.7.5                           https://github.com/bioperl/bioperl-live/issues/313
 Bio-DB-SeqFeature-1.7.3                 https://github.com/bioperl/Bio-DB-SeqFeature/issues/1
 DBIx-Config-0.000004                    112888
+Dpkg-1.19.5                             128332
+Context-Handle-0.01                     101152
+Finance-LocalBitcoins-API-0.02          128608
+AnyEvent-CacheDNS-0.08                  https://github.com/potyl/perl-AnyEvent-CacheDNS/issues/5
+Geo-OSM-MapFeatures-0.10                82819,82820
+DigitalRot-0.01                         prereq failure, no issue tracker
+Net-OnlineCode-0.04                     128609
+Finance-Currency-Convert-ECBdaily-0.05  124701,124736
+Cassandra-Lite-0.4.0                    https://github.com/gslin/cassandra-lite-perl/issues/12
+IPC-Exe-2.002001                        128612
+OpenOffice-Parse-SXC-0.03               61192
