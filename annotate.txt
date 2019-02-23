@@ -4341,3 +4341,7 @@ Term-Terminfo-0.09                      124969
 Log-Log4perl-Shortcuts-0.023            https://github.com/sdondley/Log-Log4perl-Shortcuts/issues/4
 Geo-Coder-OpenCage-0.20                 https://github.com/OpenCageData/perl-Geo-Coder-OpenCage/issues/6,https://github.com/OpenCageData/perl-Geo-Coder-OpenCage/issues/7
 App-Git-Workflow-v1.1.1                 https://github.com/ivanwills/git-workflow-tools/issues/9
+C-Mlock-1.11                            128594
+Test-Catch-1.0.3                        128597
+BioPerl-1.7.5                           https://github.com/bioperl/bioperl-live/issues/313
+Bio-DB-SeqFeature-1.7.3                 https://github.com/bioperl/Bio-DB-SeqFeature/issues/1
