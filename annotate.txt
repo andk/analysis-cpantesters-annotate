@@ -4354,3 +4354,5 @@ Test-Kwalitee-Extra-v0.4.0              104113,128602
 Module-Extract-Namespaces-1.021         https://github.com/briandfoy/module-extract-namespaces/issues/6
 IPC-ShareLite-0.17                      65986,128599
 Device-VFD-GP1022-0.01                  66924
+EPublisher-Source-Plugin-PerltutsCom-0.5 https://github.com/reneeb/EPublisher-Source-Plugin-PerltutsCom/issues/4
+TeX-Hyphen-Pattern-0.103                128617
