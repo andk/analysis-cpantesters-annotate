@@ -4347,3 +4347,5 @@ Finance-Currency-Convert-ECBdaily-0.05  124701,124736
 Cassandra-Lite-0.4.0                    https://github.com/gslin/cassandra-lite-perl/issues/12
 IPC-Exe-2.002001                        128612
 OpenOffice-Parse-SXC-0.03               61192
+DBD-Pg-3.7.4                            128529
+WWW-BigDoor-v0.1.1                      128613
