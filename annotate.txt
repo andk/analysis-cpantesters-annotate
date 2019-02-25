@@ -4356,3 +4356,8 @@ IPC-ShareLite-0.17                      65986,128599
 Device-VFD-GP1022-0.01                  66924
 EPublisher-Source-Plugin-PerltutsCom-0.5 https://github.com/reneeb/EPublisher-Source-Plugin-PerltutsCom/issues/4
 TeX-Hyphen-Pattern-0.103                128617
+Whatever-0.23                           128618
+Mail-Sendmail-0.80                      123652
+Tcl-pTk-0.95                            128627
+Net-AMQP-RabbitMQ-PP-0.07               https://github.com/Humanstate/net-amqp-rabbitmq/issues/12
+Facebook-Graph-1.1205                   https://github.com/rizen/Facebook-Graph/issues/76
