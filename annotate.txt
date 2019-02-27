@@ -4361,3 +4361,7 @@ Mail-Sendmail-0.80                      123652
 Tcl-pTk-0.95                            128627
 Net-AMQP-RabbitMQ-PP-0.07               https://github.com/Humanstate/net-amqp-rabbitmq/issues/12
 Facebook-Graph-1.1205                   https://github.com/rizen/Facebook-Graph/issues/76
+HTTP-Request-FromCurl-0.11              128646
+Plack-Middleware-Session-0.31           https://github.com/plack/Plack-Middleware-Session/issues/43
+ClearPress-v2019.2.25                   122425,https://github.com/rmp/libclearpress-perl/issues/4
+App-Chart-266                           116697
