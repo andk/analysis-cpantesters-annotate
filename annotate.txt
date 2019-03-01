@@ -848,7 +848,6 @@ VM-CloudAtCost-0.1                      107137
 Test-HTTP-0.18                          105999
 CPAN-Testers-WWW-Reports-Query-Reports-0.10 107188
 Data-Faker-0.10                         106737
-Box-Calc-1.0200                         https://github.com/rizen/Box-Calc/issues/12
 BioPerl-1.6.924                         106756
 Acme-LOLCAT-0.0.5                       95241
 HPC-Runner-Threads-2.35                 107200
@@ -4369,3 +4368,4 @@ Proc-PID-File-1.29                      128655
 SPVM-0.0417                             128555,128675
 MikroTik-Client-v0.500                  https://github.com/anparker/mikrotik-client/issues/2
 Statistics-Descriptive-Discrete-0.10    128683
+Box-Calc-1.0201                         https://github.com/rizen/Box-Calc/issues/12
