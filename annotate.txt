@@ -4371,3 +4371,8 @@ Statistics-Descriptive-Discrete-0.10    128683
 Box-Calc-1.0201                         https://github.com/rizen/Box-Calc/issues/12
 SPVM-0.0418                             128555
 App-Prove-Plugin-TermTableStty-0.02     https://github.com/plicease/App-Prove-Plugin-TermTableStty/issues/1
+Test-DNS-0.201                          https://github.com/xsawyerx/test-dns/issues/2
+YAML-PP-0.010_001                       https://github.com/perlpunk/YAML-PP-p5/issues/6
+IO-Socket-SSL-2.063                     128693
+Function-Interface-0.01                 https://github.com/kfly8/p5-Function-Interface/issues/2
+NetSNMP-default_store-5.0404            88144
