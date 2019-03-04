@@ -4376,3 +4376,17 @@ YAML-PP-0.010_001                       https://github.com/perlpunk/YAML-PP-p5/i
 IO-Socket-SSL-2.063                     128685,128693
 Function-Interface-0.01                 https://github.com/kfly8/p5-Function-Interface/issues/2
 NetSNMP-default_store-5.0404            88144
+Ceph-Rados-0.12                         128701
+GD-Graph-radar-0.1103                   128702
+Google-ProtocolBuffers-Dynamic-0.24     128703
+PiFlash-0.2.0                           128704
+grpc-xs-0.20                            125710
+Ithumb-XS-v0.2.1                        128706
+Audio-LADSPA-0.021                      53891
+Business-OnlinePayment-IATSPayments-0.02 128708
+Cvs-0.07                                128709
+DBIx-Class-EncodedColumn-Crypt-Scrypt-0.004 128710
+GetWeb-1.11                             128711
+Image-BioChrome-1.16                    128712
+JSORB-0.04                              128713
+Geo-Google-PolylineEncoder-0.06         128714
