@@ -4390,3 +4390,9 @@ GetWeb-1.11                             128711
 Image-BioChrome-1.16                    128712
 JSORB-0.04                              128713
 Geo-Google-PolylineEncoder-0.06         128714
+Test-PerlTidy-20190305                  127688
+Buffer-Transactional-0.02               128718
+sdf-2.001beta1                          128721
+SNMP-Util-1.8                           128722
+Tk-TM-0.53                              128723
+VCS-LibCVS-1.0002                       40168,63776
