@@ -4396,3 +4396,6 @@ sdf-2.001beta1                          128721
 SNMP-Util-1.8                           128722
 Tk-TM-0.53                              128723
 VCS-LibCVS-1.0002                       40168,63776
+Games-EveOnline-API-0.08                deprecated,https://github.com/bluefeet/Games-EveOnline-API/issues/6
+App-SpreadRevolutionaryDate-0.03        128733
+File-LsColor-0.350                      https://github.com/trapd00r/File-LsColor/issues/3
