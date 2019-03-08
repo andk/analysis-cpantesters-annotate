@@ -4399,3 +4399,8 @@ VCS-LibCVS-1.0002                       40168,63776
 Games-EveOnline-API-0.08                deprecated,https://github.com/bluefeet/Games-EveOnline-API/issues/6
 App-SpreadRevolutionaryDate-0.03        128733
 File-LsColor-0.350                      https://github.com/trapd00r/File-LsColor/issues/3
+Serge-Sync-Plugin-TranslationService-phraseapp-0.902.0 https://github.com/dragosv/serge-plugins/issues/11
+File-LsColor-0.351                      https://github.com/trapd00r/File-LsColor/issues/3
+App-skos2jskos-0.1.6                    https://github.com/gbv/skos2jskos/issues/4
+File-PCAP-v0.0.8                        128748
+REST-Client-CrossRef-0.004              128749
