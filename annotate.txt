@@ -4404,3 +4404,6 @@ File-LsColor-0.351                      https://github.com/trapd00r/File-LsColor
 App-skos2jskos-0.1.6                    https://github.com/gbv/skos2jskos/issues/4
 File-PCAP-v0.0.8                        128748
 REST-Client-CrossRef-0.004              128749
+Test-PerlTidy-20190309                  128765
+Geo-Distance-XS-0.13                    https://github.com/bluefeet/Geo-Distance/issues/16
+Travel-Status-DE-IRIS-1.24              https://github.com/bluefeet/Geo-Distance/issues/17
