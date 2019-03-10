@@ -4405,3 +4405,11 @@ File-LsColor-0.494                      https://github.com/trapd00r/File-LsColor
 Tcl-pTk-0.96                            128803,128804
 Template-Plugin-EnvHash-1.06            128805
 Term-ReadLine-Gnu-1.36                  128806
+Term-TermKey-0.17                       128807
+WWW-Alexa-TrafficRank-1.12              122935
+WWW-Scraper-ISBN-GoogleBooks_Driver-0.31 93222
+X-Tiny-0.15                             128809
+Array-Columnize-1.04                    https://github.com/rocky/Perl-Array-Columnize/issues/4
+B-CodeLines-1.1                         128810
+Term-ReadLine-Perl5-1.45                https://github.com/rocky/p5-Term-ReadLine-Perl5/issues/18
+ZMQ-FFI-1.15                            https://github.com/calid/zmq-ffi/issues/42
