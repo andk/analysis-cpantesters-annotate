@@ -3640,7 +3640,6 @@ PDL-2.019                               https://sourceforge.net/p/pdl/bugs/445/
 Net-Amazon-SNS-Signature-0.007          125381
 CPAN-Testers-Common-Client-0.14         https://github.com/garu/CPAN-Testers-Common-Client/issues/8
 Evo-0.0405                              https://github.com/alexbyk/perl-evo/issues/6
-AWS-CLIWrapper-1.14                     125410
 Crypt-Sodium-0.11                       125394
 Type-Tiny-1.003_002                     124067
 Mojolicious-Plugin-Cron-0.022           https://github.com/dmanto/Mojolicious-Plugin-Cron/issues/1
@@ -3655,7 +3654,6 @@ Bio-Phylo-v2.0.1                        https://github.com/rvosa/bio-phylo/issue
 Catalyst-Action-RenderView-0.16         125459
 Google-GeoCoder-Smart-v2.0.1            125464
 Lexical-Types-0.16                      https://rt.perl.org/Ticket/Display.html?id=132385,125465
-Mojolicious-Plugin-JSONAPI-1.5          125470
 Mojolicious-Plugin-SessionStorage-0.1.6 125187
 Image-Magick-Brand-0.01                 125480
 Linux-Clone-1.2                         fails on older linux kernels (without bug report)
@@ -3794,7 +3792,6 @@ Git-Repository-1.322                    127282
 Git-XS-0.02                             127285
 Git-LowLevel-0.4                        125938
 Graphics-ColorObject-0.5.0              127300
-BSON-v1.8.1                             https://jira.mongodb.org/browse/PERL-1009,https://rt.perl.org/Public/Bug/Display.html?id=133565
 Selenium-UserAgent-0.11                 https://github.com/gempesaw/Selenium-UserAgent/issues/4
 Net-Google-Drive-0.01                   https://github.com/vrag86/perl-net-google-drive/issues/2
 WWW-Shopify-Liquid-0.08                 127306
@@ -3921,7 +3918,6 @@ IPC-Shareable-0.61                      91197,91841
 Net-SAML2-0.17                          127710
 Flickr-API2-2.50                        127711
 tk-zinc-3.303                           127714
-Types-SQL-v0.3.0                        https://github.com/robrwo/Types-SQL/issues/4
 App-Guiio-0.991                         127715
 Mac-MissileLauncher-0.01                127716
 TreePath-Role-Graph-0.07                127718
@@ -4123,7 +4119,6 @@ Net-SFTP-Foreign-Tempdir-Extract-0.10   128048
 Test-Instance-DNS-0.001                 https://github.com/TBSliver/Test-Instance-DNS/issues/2
 Business-OnlinePayment-BitPay-KeyUtils-2.0.1 106730,123112,123112
 Faker-0.12                              https://github.com/alnewkirk/Faker/issues/7
-namespace-local-0.07_01                 128050
 Mojo-mysql-1.11                         https://github.com/jhthorsen/mojo-mysql/issues/49
 Data-Object-Prototype-0.06              https://github.com/alnewkirk/Data-Object-Prototype/issues/1
 API-Client-0.04                         https://github.com/alnewkirk/API-Client/issues/2
@@ -4156,7 +4151,6 @@ Git-Wrapper-0.048_090                   https://github.com/genehack/Git-Wrapper/
 Class-Superclasses-0.08                 https://github.com/reneeb/Class-Superclasses/issues/2
 HTTP-Server-Simple-0.52                 96086
 MooX-late-0.015                         124054
-Catalyst-Plugin-Shorten-0.03            128095
 Dancer-1.3500                           https://github.com/PerlDancer/Dancer/issues/1203
 HTML-Tidy5-1.04                         https://github.com/petdance/html-tidy5/issues/11
 Math-GSL-0.40                           https://github.com/leto/math--gsl/issues/166
@@ -4243,7 +4237,6 @@ Google-Ads-AdWords-Client-5.7.0         118509
 AtteanX-Store-SPARQL-0.010              https://github.com/kjetilk/p5-atteanx-store-sparql/issues/8
 Math-MPFR-4.07                          128393
 SVG-Calendar-v0.3.14                    127463
-Alien-hiredis-0.001                     https://github.com/Grinnz/Alien-hiredis/issues/1
 App-iperlmoddir-1.02                    https://github.com/pavelsr/iperlmoddir/issues/1
 LCFG-Utils-Perl-1.13.4                  undeclared prereq, no bugtracker
 Archive-SevenZip-0.08                   128407
@@ -4270,7 +4263,6 @@ Locked-Storage-1.07                     128467
 Test-TempFile-0.90                      128472
 Text-PDF2XML-0.3.3                      128179
 Alien-GfsmXL-0.004                      128486
-Net-ISC-DHCPClient-0.11                 128487
 Lemonldap-NG-Common-2.0.2               128494
 Text-JSCalendar-0.01                    128501
 Devel-Probe-0.000005                    128259
