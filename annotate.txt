@@ -4402,3 +4402,6 @@ Games-EveOnline-API-0.08                deprecated,https://github.com/bluefeet/G
 HTTP-AnyUA-0.903                        https://github.com/chazmcgarvey/HTTP-AnyUA/issues/1
 Plack-Middleware-Session-0.33           https://github.com/plack/Plack-Middleware-Session/issues/41
 File-LsColor-0.494                      https://github.com/trapd00r/File-LsColor/issues/5
+Tcl-pTk-0.96                            128803,128804
+Template-Plugin-EnvHash-1.06            128805
+Term-ReadLine-Gnu-1.36                  128806
