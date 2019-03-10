@@ -4363,7 +4363,6 @@ REST-Client-CrossRef-0.004              128749
 Test-PerlTidy-20190309                  128765
 Geo-Distance-XS-0.13                    https://github.com/bluefeet/Geo-Distance/issues/16
 Travel-Status-DE-IRIS-1.24              https://github.com/bluefeet/Geo-Distance/issues/17
-File-LsColor-0.492                      https://github.com/trapd00r/File-LsColor/issues/5
 Xymon-DB-Schema-0.05                    128769
 XS-MagicExt-0.05                        128770
 XML-EP-0.01                             128771
@@ -4402,3 +4401,4 @@ Template-TAL-0.91                       128800
 Games-EveOnline-API-0.08                deprecated,https://github.com/bluefeet/Games-EveOnline-API/issues/6,https://github.com/bluefeet/Games-EveOnline-API/issues/8
 HTTP-AnyUA-0.903                        https://github.com/chazmcgarvey/HTTP-AnyUA/issues/1
 Plack-Middleware-Session-0.33           https://github.com/plack/Plack-Middleware-Session/issues/41
+File-LsColor-0.494                      https://github.com/trapd00r/File-LsColor/issues/5
