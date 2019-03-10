@@ -4408,3 +4408,5 @@ Test-Nightly-0.03                       128798
 Test-AutoBuild-1.2.4                    95924
 Template-TAL-0.91                       128800
 Games-EveOnline-API-0.08                deprecated,https://github.com/bluefeet/Games-EveOnline-API/issues/6,https://github.com/bluefeet/Games-EveOnline-API/issues/8
+HTTP-AnyUA-0.903                        https://github.com/chazmcgarvey/HTTP-AnyUA/issues/1
+Plack-Middleware-Session-0.33           https://github.com/plack/Plack-Middleware-Session/issues/41
