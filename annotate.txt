@@ -4443,3 +4443,4 @@ Test-UniqueTestNames-0.04.1             93981
 Test-Nightly-0.03                       128798
 Test-AutoBuild-1.2.4                    95924
 Template-TAL-0.91                       128800
+Games-EveOnline-API-0.08                https://github.com/bluefeet/Games-EveOnline-API/issues/8
