@@ -3239,7 +3239,6 @@ Morpheus-0.46                           https://github.com/druxa/morpheus/issues
 Tk-Help-0.3                             123632
 Text-Password-AutoMigration-0.11        https://github.com/worthmine/Text-Password-AutoMigration/issues/3
 App-CLI-Extension-1.421                 123655
-Whatever-0.23                           123654
 CSS-Simple-3224                         123656
 Message-Passing-Output-Search-Elasticsearch-0.004 123660
 Parallel-Prefork-0.18                   113449
@@ -3254,7 +3253,6 @@ Neovim-RPC-Plugin-Taskwarrior-0.0.1     https://github.com/yanick/Neovim-RPC/iss
 SMS-Send-Sergel-Simple-HTTP-0.02        https://github.com/eskaaren/SMS-Send-Sergel-Simple-HTTP/issues/3
 optex-0.02                              https://github.com/kaz-utashiro/optex/issues/1
 Params-ValidationCompiler-0.25          https://github.com/houseabsolute/Params-ValidationCompiler/issues/19
-Mail-Sendmail-0.80                      123652
 WebService-Google-Closure-0.12          123798
 Encode-Unicode-PerlDecodeJava-20171127  123806
 Text-VisualWidth-PP-0.05                https://github.com/tokuhirom/Text-VisualWidth-PP/issues/4
@@ -4355,8 +4353,8 @@ IPC-ShareLite-0.17                      65986,128599
 Device-VFD-GP1022-0.01                  66924
 EPublisher-Source-Plugin-PerltutsCom-0.5 https://github.com/reneeb/EPublisher-Source-Plugin-PerltutsCom/issues/4
 TeX-Hyphen-Pattern-0.103                128617
-Whatever-0.23                           128618
-Mail-Sendmail-0.80                      123652
+Whatever-0.23                           123654,128618
+Mail-Sendmail-0.80                      123652,123652
 Tcl-pTk-0.95                            128627
 Net-AMQP-RabbitMQ-PP-0.07               https://github.com/Humanstate/net-amqp-rabbitmq/issues/12
 Facebook-Graph-1.1205                   https://github.com/rizen/Facebook-Graph/issues/76
@@ -4396,7 +4394,6 @@ sdf-2.001beta1                          128721
 SNMP-Util-1.8                           128722
 Tk-TM-0.53                              128723
 VCS-LibCVS-1.0002                       40168,63776
-Games-EveOnline-API-0.08                deprecated,https://github.com/bluefeet/Games-EveOnline-API/issues/6
 App-SpreadRevolutionaryDate-0.03        128733
 File-LsColor-0.350                      https://github.com/trapd00r/File-LsColor/issues/3
 Serge-Sync-Plugin-TranslationService-phraseapp-0.902.0 https://github.com/dragosv/serge-plugins/issues/11
@@ -4443,4 +4440,4 @@ Test-UniqueTestNames-0.04.1             93981
 Test-Nightly-0.03                       128798
 Test-AutoBuild-1.2.4                    95924
 Template-TAL-0.91                       128800
-Games-EveOnline-API-0.08                https://github.com/bluefeet/Games-EveOnline-API/issues/8
+Games-EveOnline-API-0.08                deprecated,https://github.com/bluefeet/Games-EveOnline-API/issues/6,https://github.com/bluefeet/Games-EveOnline-API/issues/8
