@@ -4413,3 +4413,5 @@ Array-Columnize-1.04                    https://github.com/rocky/Perl-Array-Colu
 B-CodeLines-1.1                         128810
 Term-ReadLine-Perl5-1.45                https://github.com/rocky/p5-Term-ReadLine-Perl5/issues/18
 ZMQ-FFI-1.15                            https://github.com/calid/zmq-ffi/issues/42
+App-Sandy-0.23                          https://github.com/galantelab/sandy/issues/3
+Bio-DB-NCBIHelper-1.7.4                 https://github.com/bioperl/Bio-DB-NCBIHelper/issues/3
