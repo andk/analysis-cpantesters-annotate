@@ -4421,3 +4421,5 @@ FB3-Convert-0.25                        128824
 Google-ProtocolBuffers-Dynamic-0.25     128703
 TAP-Formatter-Camelcade-0.004           128826
 Function-Interface-0.02                 https://github.com/kfly8/p5-Function-Interface/issues/2
+Arrays-Same-0.001                       128829
+TAP-Formatter-Camelcade-0.005           128826
