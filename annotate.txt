@@ -4415,3 +4415,9 @@ Term-ReadLine-Perl5-1.45                https://github.com/rocky/p5-Term-ReadLin
 ZMQ-FFI-1.15                            https://github.com/calid/zmq-ffi/issues/42
 App-Sandy-0.23                          https://github.com/galantelab/sandy/issues/3
 Bio-DB-NCBIHelper-1.7.4                 https://github.com/bioperl/Bio-DB-NCBIHelper/issues/3
+Net-ACME-0.16                           128818
+Proc-Stat-0.01                          128819
+FB3-Convert-0.25                        128824
+Google-ProtocolBuffers-Dynamic-0.25     128703
+TAP-Formatter-Camelcade-0.004           128826
+Function-Interface-0.02                 https://github.com/kfly8/p5-Function-Interface/issues/2
