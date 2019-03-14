@@ -4424,3 +4424,4 @@ Function-Interface-0.02                 https://github.com/kfly8/p5-Function-Int
 Arrays-Same-0.001                       128829
 TAP-Formatter-Camelcade-0.005           128826
 Graph-Traverse-0.02                     128833
+Text-Util-Chinese-0.02                  128837
