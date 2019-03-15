@@ -3813,7 +3813,7 @@ OAuth-Lite-1.34                         114657,125359
 POE-Component-IRC-Plugin-RTorrentStatus-0.17 127395
 Kasago-0.29                             127396
 MooseX-Workers-0.24                     127397
-WWW-Mechanize-Plugin-AutoWrite-0.06     127399
+WWW-Mechanize-Plugin-AutoWrite-0.06     127399,128844
 HTML-CalendarMonth-2.04                 127411
 Table-Simple-0.02                       127422
 Dancer2-Session-CHI-0.02                https://github.com/cromedome/dancer2-session-chi/issues/2
