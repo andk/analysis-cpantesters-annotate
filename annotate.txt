@@ -4425,3 +4425,6 @@ Arrays-Same-0.001                       128829
 TAP-Formatter-Camelcade-0.005           128826
 Graph-Traverse-0.02                     128833
 Text-Util-Chinese-0.02                  128837
+Data-Object-0.91                        https://github.com/iamalnewkirk/data-object/issues/160
+CallBackery-0.14.8                      https://github.com/oetiker/callbackery/issues/50
+Locale-TextDomain-OO-Util-4.001         128843
