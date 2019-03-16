@@ -4428,3 +4428,13 @@ Text-Util-Chinese-0.02                  128837
 Data-Object-0.91                        https://github.com/iamalnewkirk/data-object/issues/160
 CallBackery-0.14.8                      https://github.com/oetiker/callbackery/issues/50
 Locale-TextDomain-OO-Util-4.001         128843
+Mojolicious-Plugin-OpenAPI-2.13         https://github.com/jhthorsen/mojolicious-plugin-openapi/issues/122
+ExtUtils-ModuleMaker-Siffra-0.03        128846,128847
+Siffra-Bootstrap-0.02                   128848
+TAP-Formatter-Camelcade-0.009           128826,https://github.com/Camelcade/TAP-Formatter-Camelcade/issues/3
+PMLTQ-Suggest-0.0.3                     https://github.com/ufal/pmltq-suggest-server/issues/6
+Renard-Incunabula-Frontend-Gtk3-0.004   128849
+Siffra-Base-0.01                        128850
+Siffra-Transfers-0.01                   128851
+grpc-xs-0.30                            125710
+PMLTQ-Commands-2.0.3                    https://github.com/ufal/pmltq-commands/issues/2
