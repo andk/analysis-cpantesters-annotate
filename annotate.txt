@@ -4438,3 +4438,4 @@ Siffra-Base-0.01                        128850
 Siffra-Transfers-0.01                   128851
 grpc-xs-0.30                            125710
 PMLTQ-Commands-2.0.3                    https://github.com/ufal/pmltq-commands/issues/2
+Test-AutoMock-0.01                      https://github.com/hiratara/p5-Test-AutoMock/issues/9
