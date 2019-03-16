@@ -4439,3 +4439,6 @@ Siffra-Transfers-0.01                   128851
 grpc-xs-0.30                            125710
 PMLTQ-Commands-2.0.3                    https://github.com/ufal/pmltq-commands/issues/2
 Test-AutoMock-0.01                      https://github.com/hiratara/p5-Test-AutoMock/issues/9
+CatalystX-InjectModule-0.19             128853
+Dancer2-Logger-Console-Colored-0.007    https://github.com/simbabque/Dancer2-Logger-Console-Colored/issues/1
+Data-MuForm-0.05                        https://github.com/gshank/data-muform/issues/9
