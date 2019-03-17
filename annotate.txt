@@ -4442,3 +4442,9 @@ Test-AutoMock-0.01                      https://github.com/hiratara/p5-Test-Auto
 CatalystX-InjectModule-0.19             128853
 Dancer2-Logger-Console-Colored-0.007    https://github.com/simbabque/Dancer2-Logger-Console-Colored/issues/1
 Data-MuForm-0.05                        https://github.com/gshank/data-muform/issues/9
+Bio-BPWrapper-1.12                      https://github.com/bioperl/p5-bpwrapper/issues/15
+Bio-Graphics-2.40                       128858
+Bio-Tools-Gel-1.7.3                     https://github.com/bioperl/Bio-Tools-Gel/issues/1
+Template-Filters-LazyLoader-0.05        128859
+App-ValidateBankAccount-0.01            128861
+App-ValidateSortCode-0.01               128862
