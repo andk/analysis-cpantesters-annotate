@@ -1413,7 +1413,7 @@ WWW-Scraper-ISBN-PickABook_Driver-0.07  110735
 Bio-DB-NextProt-1.05                    110736
 Gearman-XS-0.15                         110739
 Sys-RotateBackup-0.12                   https://github.com/dominikschulz/Sys-RotateBackup/issues/3
-Message-Passing-0.116                   99463
+Message-Passing-0.116                   99463,123064
 CHI-Cascade-0.284                       110743
 Dancer-Plugin-Locale-0.0103             110745
 Sub-Call-Recur-0.04                     110746
