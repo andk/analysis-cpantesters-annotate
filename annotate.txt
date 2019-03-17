@@ -4451,6 +4451,7 @@ App-ValidateSortCode-0.01               128862
 Siffra-Logger-0.01                      128864,128865
 GitDDL-Migrator-0.08                    https://github.com/Songmu/GitDDL-Migrator/issues/3
 HTTP-AnyUA-0.904                        https://github.com/chazmcgarvey/HTTP-AnyUA/issues/1
-Keyword-Declare-0.001011                128866
 Term-Caca-3.0.0                         https://github.com/yanick/Term-Caca/issues/4
 MsgPack-RPC-2.0.1                       https://github.com/yanick/MsgPack-RPC/issues/11
+Siffra-Logger-0.02                      128864,128865
+Keyword-Declare-0.001012                128866
