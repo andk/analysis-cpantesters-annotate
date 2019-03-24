@@ -4479,3 +4479,4 @@ Mojolicious-Plugin-CascadingConfig-0.02 https://github.com/srchulo/Mojolicious-P
 MP3-Tag-1.15                            128915,https://rt.perl.org/Ticket/Display.html?id=133948
 File-Replace-0.12                       https://rt.perl.org/Ticket/Display.html?id=133952
 Linux-GetPidstat-0.09                   https://rt.perl.org/Ticket/Display.html?id=133953,https://github.com/yoheimuta/Linux-GetPidstat/issues/11
+Text-JSCalendar-0.02                    128501
