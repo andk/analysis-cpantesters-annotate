@@ -4477,3 +4477,5 @@ Dancer-Session-DBIC-0.006               https://github.com/interchange/Dancer-Se
 Test-Mojo-CommandOutputRole-0.01        https://github.com/memowe/Test-Mojo-CommandOutputRole/issues/1
 Mojolicious-Plugin-CascadingConfig-0.02 https://github.com/srchulo/Mojolicious-Plugin-CascadingConfig/issues/1
 MP3-Tag-1.15                            128915,https://rt.perl.org/Ticket/Display.html?id=133948
+File-Replace-0.12                       https://rt.perl.org/Ticket/Display.html?id=133952
+Linux-GetPidstat-0.09                   https://rt.perl.org/Ticket/Display.html?id=133953,https://github.com/yoheimuta/Linux-GetPidstat/issues/11
