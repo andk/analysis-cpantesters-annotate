@@ -4484,3 +4484,5 @@ Dpkg-1.19.6                             128332
 Mojolicious-Plugin-Gzip-0.02            https://github.com/srchulo/Mojolicious-Plugin-Gzip/issues/1
 DBIx-Class-Fixtures-1.001039            128930
 Google-Ads-AdWords-Client-5.8.0         118509
+Unicode-BiDiRule-0.04                   128942,https://rt.perl.org/Ticket/Display.html?id=133623
+Net-MAC-Vendor-1.263                    128946
