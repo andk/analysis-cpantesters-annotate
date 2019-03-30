@@ -4468,7 +4468,7 @@ MariaDB-NonBlocking-0.20                128884
 POSIX-1003-0.98                         123109
 Slack-WebHook-0.001                     128903
 Mojolicious-Plugin-CascadingConfig-0.01 https://github.com/srchulo/Mojolicious-Plugin-CascadingConfig/issues/1
-Net-IDN-Encode-2.500                    https://github.com/cfaerber/Net-IDN-Encode/pull/8
+Net-IDN-Encode-2.500                    https://github.com/cfaerber/Net-IDN-Encode/pull/8,https://rt.perl.org/Public/Bug/Display.html?id=133860
 Siffra-Tools-0.03                       128909
 DNS-Unbound-0.01                        128910
 Dancer-Plugin-Auth-Extensible-1.00      128911
@@ -4486,3 +4486,4 @@ DBIx-Class-Fixtures-1.001039            128930
 Google-Ads-AdWords-Client-5.8.0         118509
 Unicode-BiDiRule-0.04                   128942,https://rt.perl.org/Ticket/Display.html?id=133623
 Net-MAC-Vendor-1.263                    128946
+Roman-Unicode-1.031                     https://github.com/briandfoy/Roman-Unicode/issues/1,https://rt.perl.org/Public/Bug/Display.html?id=133860
