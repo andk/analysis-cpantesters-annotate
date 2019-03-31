@@ -4489,3 +4489,6 @@ Net-MAC-Vendor-1.263                    128946
 Roman-Unicode-1.031                     https://github.com/briandfoy/Roman-Unicode/issues/1,https://rt.perl.org/Public/Bug/Display.html?id=133860
 Crypt-EAMessage-1.190900                https://github.com/jmaslak/Crypt-EAMessage/issues/3
 re-engine-Lua-0.17                      128968,https://rt.perl.org/Public/Bug/Display.html?id=133967
+Gtk2-Ex-Spinner-0.21                    118737
+Net-Int-Stats-2.1                       128969
+Net-Route-v0.02                         128970,128971
