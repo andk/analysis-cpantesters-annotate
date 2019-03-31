@@ -4492,3 +4492,11 @@ re-engine-Lua-0.17                      128968,https://rt.perl.org/Public/Bug/Di
 Gtk2-Ex-Spinner-0.21                    118737
 Net-Int-Stats-2.1                       128969
 Net-Route-v0.02                         128970,128971
+NGS-Tools-BAMSurgeon-v1.0.0             125318
+String-RexxStack-0.3                    128973
+Vector-QRCode-IntoPDF-0.02              https://github.com/ytnobody/Vector-QRCode-IntoPDF/issues/1,https://github.com/ytnobody/Vector-QRCode-IntoPDF/issues/2
+WWW-EchoNest-v0.0.2                     128974,95928
+Sys-Signal-0.02                         128975
+Acme-BeyondPerl-ToSQL-0.01              128976
+Tie-PureDB-0.04                         128977
+Yash-0.2                                system perl used in tests, no working issue tracker
