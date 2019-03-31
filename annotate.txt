@@ -4505,3 +4505,4 @@ Audio-Radio-XM-PCR-0.02                 128979
 Data-ObjectStore-2.03                   128980
 HTML-Hyphenate-v1.1.1                   128981
 Bib-CrossRef-0.10                       128982
+Lingua-JA-Moji-0.56                     https://github.com/benkasminbullock/Lingua-JA-Moji/issues/24,https://rt.perl.org/Public/Bug/Display.html?id=133968
