@@ -4506,3 +4506,6 @@ Data-ObjectStore-2.03                   128980
 HTML-Hyphenate-v1.1.1                   128981
 Bib-CrossRef-0.10                       128982
 Lingua-JA-Moji-0.56                     https://github.com/benkasminbullock/Lingua-JA-Moji/issues/24,https://rt.perl.org/Public/Bug/Display.html?id=133968
+Math-Business-BlackscholesMerton-1.24   https://github.com/binary-com/perl-Math-Business-BlackScholesMerton/issues/25
+JavaScript-V8-CommonJS-0.09             https://github.com/cafe01/javascript-v8-commonjs/issues/1
+OTRS-OPM-Installer-0.04                 https://github.com/reneeb/OTRS-OPM-Installer/issues/3
