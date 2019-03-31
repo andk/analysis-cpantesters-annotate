@@ -4500,3 +4500,8 @@ Sys-Signal-0.02                         128975
 Acme-BeyondPerl-ToSQL-0.01              128976
 Tie-PureDB-0.04                         128977
 Yash-0.2                                system perl used in tests, no working issue tracker
+App-NoPAN-0.01                          128978
+Audio-Radio-XM-PCR-0.02                 128979
+Data-ObjectStore-2.03                   128980
+HTML-Hyphenate-v1.1.1                   128981
+Bib-CrossRef-0.10                       128982
