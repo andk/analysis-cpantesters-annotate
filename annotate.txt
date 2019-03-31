@@ -4487,3 +4487,4 @@ Google-Ads-AdWords-Client-5.8.0         118509
 Unicode-BiDiRule-0.04                   128942,https://rt.perl.org/Ticket/Display.html?id=133623
 Net-MAC-Vendor-1.263                    128946
 Roman-Unicode-1.031                     https://github.com/briandfoy/Roman-Unicode/issues/1,https://rt.perl.org/Public/Bug/Display.html?id=133860
+Crypt-EAMessage-1.190900                https://github.com/jmaslak/Crypt-EAMessage/issues/3
