@@ -4100,7 +4100,7 @@ Serge-v1.3.2                            128003
 JavaScript-SpiderMonkey-0.25            128007
 cPanel-TaskQueue-0.902                  https://github.com/CpanelInc/cPanel-TaskQueue/issues/34
 DBIx-Mojo-Template-0.061                127283
-HPCI-0.75                               127826,124695
+HPCI-0.75                               127826,124695,120461
 App-git-ship-0.30                       https://github.com/jhthorsen/app-git-ship/issues/19
 Net-SSLeay-1.86_07                      128025
 Test-OnlySome-0.001002-TRIAL            128027
