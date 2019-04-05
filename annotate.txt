@@ -4514,3 +4514,5 @@ Date-Extract-P800Picture-0.108          128985
 Alien-Electron-0.201                    https://github.com/hoytech/Alien-Electron/issues/6
 SPVM-0.0421                             128555
 HTML-Normalize-1.0003                   129028
+HTTP-Session-0.49                       https://github.com/tokuhirom/http-session/issues/7
+WWW-Scraper-ISBN-Booktopia_Driver-0.23  129030
