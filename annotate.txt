@@ -4513,3 +4513,4 @@ SMS-API-QuickTelecom-0.04               128983
 Date-Extract-P800Picture-0.108          128985
 Alien-Electron-0.201                    https://github.com/hoytech/Alien-Electron/issues/6
 SPVM-0.0421                             128555
+HTML-Normalize-1.0003                   129028
