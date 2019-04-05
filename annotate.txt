@@ -4512,4 +4512,4 @@ OTRS-OPM-Installer-0.04                 https://github.com/reneeb/OTRS-OPM-Insta
 SMS-API-QuickTelecom-0.04               128983
 Date-Extract-P800Picture-0.108          128985
 Alien-Electron-0.201                    https://github.com/hoytech/Alien-Electron/issues/6
-SPVM-0.0420                             128555
+SPVM-0.0421                             128555
