@@ -4525,3 +4525,25 @@ Bootylicious-1.14                       129041
 Contenticious-0.391                     https://github.com/memowe/contenticious/issues/24
 Data-Cleaner-0.000_002                  types.t fails on most systems, no issue tracker
 Kwiki-AdSense-0.11                      57877
+Geo-Compass-Variation-1.00              https://github.com/stevieb9/geo-compass-variation/issues/5,https://github.com/stevieb9/geo-compass-variation/issues/6
+Markup-MatchTree-1.0.0                  129042
+MassSpec-ViewSpectrum-RealVsHypPeptide-0.02 129043
+MLDBM-Easy-0.01                         129044
+Data-TimeSeries-0.53                    129045
+Markup-Tree-1.2.2                       129046
+Colouring-In-0.14                       129047
+Module-Starter-Plugin-CGIApp-0.44       128881
+NIST-Beacon-1.002                       https://github.com/woodruffw/NIST-Beacon/issues/2
+podlators-4.11                          129048
+Ham-Fldigi-0.02                         129049
+Reconcile-Accounts-Vin-1.03             129050
+Lingua-EN-Phoneme-0.01                  129051,46605
+Sailthru-Client-2.3.0                   112895
+tkShortcuts-1.00a                       129052
+XML-Literal-0.02                        129053
+Freq-0.22                               129054
+Email-Template-0.02                     129055
+Net-MSN-1.022                           129056
+VBTK-0.20                               129057
+WebService-KVV-Live-Stop-0.007          https://github.com/athreef/WebService-KVV-Live-Stop/issues/2
+XML-RSS-Timing-1.07                     129058
