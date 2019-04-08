@@ -4550,3 +4550,4 @@ XML-RSS-Timing-1.07                     129058
 WWW-Correios-CEP-1.02                   https://github.com/renatocron/WWW--Correios--CEP/issues/8
 Yote-3.0                                129059
 Mock-Populate-0.1700                    129060
+CLI-Driver-0.1                          129062
