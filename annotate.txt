@@ -4552,3 +4552,10 @@ Yote-3.0                                129059
 Mock-Populate-0.1700                    129060
 CLI-Driver-0.1                          129062
 App-optex-textconv-0.01                 https://github.com/kaz-utashiro/optex-textconv/issues/1
+Anansi-Script-SOAP-0.02                 129063
+Siffra-Base-0.02                        128850
+Siffra-Bootstrap-0.03                   128848
+Siffra-Logger-0.03                      129064
+Siffra-Tools-0.04                       128909
+Siffra-Transfers-0.02                   128851
+SMS-Matrix-1.01                         129065
