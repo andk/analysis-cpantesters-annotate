@@ -4568,3 +4568,15 @@ Bencher-Scenario-TOMLParsingModules-0.002 129073
 CGI-Session-Driver-flexmysql-0.2.04     129075
 Class-DBI-mysql-1.00                    129076
 DBIx-Timeout-1.01                       30114
+CPAN-Unwind-0.06                        129077
+Devel-TRay-0.03                         129078
+HTTP-SimpleLinkChecker-1.167            https://github.com/briandfoy/http-simplelinkchecker/issues/3
+GD-SecurityImage-AC-1.11                129079
+Graph-Maker-0.02                        108992
+Launcher-Cascade-0.02                   129080
+NIS-DBM-0.02                            129081
+Perlbal-Plugin-Addheader-0.02           129082
+Sah-Schemas-FileHandle-0.001            129083
+Template-Plugin-UTF8toANSI-0.02         129084
+Test-Mojo-Session-1.04                  https://github.com/avkhozov/Test-Mojo-Session/issues/4
+Test-Reporter-Transport-Net-SMTP-SSL-0.1.2 129085
