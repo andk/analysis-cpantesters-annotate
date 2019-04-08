@@ -4562,3 +4562,9 @@ SMS-Matrix-1.01                         129065
 Log-Dispatch-Email-Siffra-0.01          129069,129071
 FB3-0.13                                127868
 JavaScript-Duktape-XS-0.000076          129070
+ACME-QuoteDB-0.1.2                      129072
+B-Graph-0.51                            98928
+Bencher-Scenario-TOMLParsingModules-0.002 129073
+CGI-Session-Driver-flexmysql-0.2.04     129075
+Class-DBI-mysql-1.00                    129076
+DBIx-Timeout-1.01                       30114
