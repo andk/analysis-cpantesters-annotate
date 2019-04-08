@@ -4559,3 +4559,6 @@ Siffra-Logger-0.03                      129064
 Siffra-Tools-0.04                       128909
 Siffra-Transfers-0.02                   128851
 SMS-Matrix-1.01                         129065
+Log-Dispatch-Email-Siffra-0.01          129069
+FB3-0.13                                127868
+JavaScript-Duktape-XS-0.000076          129070
