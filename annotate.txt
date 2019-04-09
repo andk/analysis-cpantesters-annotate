@@ -4580,3 +4580,5 @@ Sah-Schemas-FileHandle-0.001            129083
 Template-Plugin-UTF8toANSI-0.02         129084
 Test-Mojo-Session-1.04                  https://github.com/avkhozov/Test-Mojo-Session/issues/4
 Test-Reporter-Transport-Net-SMTP-SSL-0.1.2 129085
+HTTP-Size-1.151                         https://github.com/briandfoy/http-size/issues/1
+re-engine-PCRE2-0.15                    https://github.com/rurban/re-engine-PCRE2/issues/34
