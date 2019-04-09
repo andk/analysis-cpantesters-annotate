@@ -4586,3 +4586,6 @@ Contenticious-0.392                     https://github.com/memowe/contenticious/
 SQL-Abstract-Prefetch-0.002             https://github.com/mohawk2/SQL-Abstract-Prefetch/issues/1
 Bio-Gonzales-0.082                      129097
 JSON-Schema-Fit-0.04                    129098
+Cstools-3.43                            117730
+HTTP-Cookies-Omniweb-1.131              https://github.com/CPAN-Adoptable-Modules/HTTP-Cookies-Omniweb/issues/1
+Alien-DDC-Concordance-0.003             129101
