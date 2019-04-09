@@ -4582,3 +4582,7 @@ Test-Mojo-Session-1.04                  https://github.com/avkhozov/Test-Mojo-Se
 Test-Reporter-Transport-Net-SMTP-SSL-0.1.2 129085
 HTTP-Size-1.151                         https://github.com/briandfoy/http-size/issues/1
 re-engine-PCRE2-0.15                    https://github.com/rurban/re-engine-PCRE2/issues/34
+Contenticious-0.392                     https://github.com/memowe/contenticious/issues/26
+SQL-Abstract-Prefetch-0.002             https://github.com/mohawk2/SQL-Abstract-Prefetch/issues/1
+Bio-Gonzales-0.082                      129097
+JSON-Schema-Fit-0.04                    129098
