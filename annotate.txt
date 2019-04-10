@@ -4598,3 +4598,7 @@ SPVM-0.0424                             129112
 WWW-Scraper-ISBN-OpenLibrary_Driver-0.10 129113
 Lyrics-Fetcher-LyricWiki-0.10           129114
 WWW-Wunderground-API-0.08               129115
+Crypt-HSXKPasswd-v3.6                   129116
+TAP-Formatter-BambooExtended-1.01       129117
+CGI-Session-BitBucket-1.2               129118
+Data-Object-Autobox-0.14                https://github.com/iamalnewkirk/data-object-autobox/issues/2
