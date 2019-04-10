@@ -4595,3 +4595,6 @@ Device-BusPirate-0.17                   129105
 Math-ContinuedFraction-0.13             129107
 Code-DRY-0.04                           129111
 SPVM-0.0424                             129112
+WWW-Scraper-ISBN-OpenLibrary_Driver-0.10 129113
+Lyrics-Fetcher-LyricWiki-0.10           129114
+WWW-Wunderground-API-0.08               129115
