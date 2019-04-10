@@ -4590,3 +4590,8 @@ Cstools-3.43                            117730
 HTTP-Cookies-Omniweb-1.131              https://github.com/CPAN-Adoptable-Modules/HTTP-Cookies-Omniweb/issues/1
 Alien-DDC-Concordance-0.003             129101
 Git-Database-0.011                      129103
+Astro-SIMBAD-Client-0.038               129104
+Device-BusPirate-0.17                   129105
+Math-ContinuedFraction-0.13             129107
+Code-DRY-0.04                           129111
+SPVM-0.0424                             129112
