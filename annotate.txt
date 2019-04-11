@@ -4518,7 +4518,7 @@ HTTP-Session-0.49                       https://github.com/tokuhirom/http-sessio
 WWW-Scraper-ISBN-Booktopia_Driver-0.23  129030
 Math-Lapack-0.002                       129034
 WWW-Tumblr-5.3                          https://github.com/damog/www-tumblr/issues/17
-Sub-Called-0.05                         https://github.com/reneeb/Sub-Called/issues/3
+Sub-Called-0.05                         https://github.com/reneeb/Sub-Called/issues/3,https://github.com/reneeb/Sub-Called/issues/2
 CSS-Sass-3.4.10                         https://github.com/sass/perl-libsass/issues/38
 Audio-DSP-0.02                          129040
 Bootylicious-1.14                       129041
