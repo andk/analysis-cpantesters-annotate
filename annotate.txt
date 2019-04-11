@@ -4607,3 +4607,9 @@ Parse-Binary-Iterative-1.00             129121,129122
 Genetics-0.03                           129124
 Geo-GNIS-0.01                           129125
 Mail-Webmail-Yahoo-0.601                129126
+JavaScript-V8-0.08                      129127
+Lemonldap-NG-Portal-2.0.3               129128
+Log-Any-Adapter-Multiplexor-0.03        https://github.com/vrag86/Log-Any-Adapter-Multiplexor/issues/1
+Mail-MBX-0.01                           129129
+WebService-BR-Vindi-0.04                129130
+Evented-Configuration-4.02              129131
