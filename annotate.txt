@@ -4603,3 +4603,7 @@ TAP-Formatter-BambooExtended-1.01       129117
 CGI-Session-BitBucket-1.2               129118
 Data-Object-Autobox-0.14                https://github.com/iamalnewkirk/data-object-autobox/issues/2
 Data-Object-Immutable-0.08              https://github.com/iamalnewkirk/data-object-immutable/issues/4
+Parse-Binary-Iterative-1.00             129121,129122
+Genetics-0.03                           129124
+Geo-GNIS-0.01                           129125
+Mail-Webmail-Yahoo-0.601                129126
