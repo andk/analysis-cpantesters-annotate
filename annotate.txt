@@ -4626,3 +4626,14 @@ Date-Handler-1.2                        129140
 Iterator-Misc-0.03                      129141
 Acme-Colour-1.06                        129142
 FlatFile-0.11                           129146
+Math-Random-Brownian-0.03               129147
+File-Stat-Bits-1.01                     129148
+GD-Graph-Polar-0.17                     129149
+IO-Multiplex-KQueue-0.02                52897
+Lingua-JA-Regular-0.09                  37871
+Vector-QRCode-IntoPDF-0.03              https://github.com/ytnobody/Vector-QRCode-IntoPDF/issues/2,https://github.com/ytnobody/Vector-QRCode-IntoPDF/issues/3
+Finance-Robinhood-0.21                  https://github.com/sanko/Finance-Robinhood/issues/4
+Log-ger-Layout-LTSV-0.002               129150
+Log-ger-Layout-Pattern-0.003            129150
+SOAP-Amazon-MerchantTransport-0.02      66871
+Business-Shipping-3.1.0                 129151
