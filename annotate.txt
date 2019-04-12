@@ -4613,3 +4613,4 @@ Log-Any-Adapter-Multiplexor-0.03        https://github.com/vrag86/Log-Any-Adapte
 Mail-MBX-0.01                           129129
 WebService-BR-Vindi-0.04                129130
 Evented-Configuration-4.02              129131
+Unicode-CharWidth-1.05                  https://rt.perl.org/Public/Bug/Display.html?id=133860
