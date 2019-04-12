@@ -4614,3 +4614,4 @@ Mail-MBX-0.01                           129129
 WebService-BR-Vindi-0.04                129130
 Evented-Configuration-4.02              129131
 Unicode-CharWidth-1.05                  https://rt.perl.org/Public/Bug/Display.html?id=133860
+Syntax-Kamelon-0.19                     129134
