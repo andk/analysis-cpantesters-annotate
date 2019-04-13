@@ -4637,3 +4637,6 @@ Log-ger-Layout-LTSV-0.002               129150
 Log-ger-Layout-Pattern-0.003            129150
 SOAP-Amazon-MerchantTransport-0.02      66871
 Business-Shipping-3.1.0                 129151
+Mojolicious-Plugin-WebAPI-0.04          https://github.com/reneeb/Mojolicious-Plugin-WebAPI/issues/3
+MarpaX-ESLIF-URI-0.005                  129152
+Perl-Installed-0.01                     129153
