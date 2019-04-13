@@ -4649,3 +4649,5 @@ PDL-Graphics-PLplot-0.71                129161
 NetworkInfo-Discovery-0.12              107465
 App-pandoc-preprocess-v0.9.10           97958
 Algorithm-TokenBucket-0.38              https://github.com/kappa/Algorithm-TokenBucket/issues/5
+CGI-JSONRPC-0.11                        129166
+HTTP-Headers-Fast-XS-0.001              129167
