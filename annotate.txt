@@ -4641,3 +4641,6 @@ Mojolicious-Plugin-WebAPI-0.04          https://github.com/reneeb/Mojolicious-Pl
 MarpaX-ESLIF-URI-0.005                  129152
 Perl-Installed-0.01                     129153
 Config-Cascade-0.02                     129154
+Vend-Payment-Nova-1.03                  129155
+Net-SFTP-Recursive-0.12                 129156,129158
+Pod-Trial-LinkImg-0.005                 129157
