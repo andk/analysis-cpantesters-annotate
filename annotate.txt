@@ -4662,3 +4662,7 @@ Coro-PriorityQueue-1.1                  129180
 Data-TableAutoSum-0.08                  129181
 Async-Blackboard-v0.3.14                129182
 Seshat-Parallel-1.01                    129183
+Usergrid-Client-0.22                    129184
+Algorithm-LBFGS-0.16                    109860
+Alien-Libgcrypt-0.02                    https://github.com/salva/p5-Alien-Libgcrypt/issues/2
+Geo-CountryFlags-1.01                   129185
