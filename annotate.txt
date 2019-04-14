@@ -4651,3 +4651,9 @@ App-pandoc-preprocess-v0.9.10           97958
 Algorithm-TokenBucket-0.38              https://github.com/kappa/Algorithm-TokenBucket/issues/5
 CGI-JSONRPC-0.11                        129166
 HTTP-Headers-Fast-XS-0.001              129167
+PDLA-IO-HDF-2.013006                    129171
+Template-Plugin-AudioFile-Info-1.05     129172
+B-Hooks-Parser-0.20                     129173
+Mojolicious-Plugin-ReCAPTCHAv2-1.01-TRIAL 129176
+Text-Kakasi-2.04                        129177
+Wurst-0.51c                             129178
