@@ -4657,3 +4657,8 @@ B-Hooks-Parser-0.20                     129173
 Mojolicious-Plugin-ReCAPTCHAv2-1.01-TRIAL 129176
 Text-Kakasi-2.04                        129177
 Wurst-0.51c                             129178
+AnyEvent-PacketForwarder-0.01           129179
+Coro-PriorityQueue-1.1                  129180
+Data-TableAutoSum-0.08                  129181
+Async-Blackboard-v0.3.14                129182
+Seshat-Parallel-1.01                    129183
