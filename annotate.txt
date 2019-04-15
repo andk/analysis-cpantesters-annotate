@@ -4666,3 +4666,7 @@ Usergrid-Client-0.22                    129184
 Algorithm-LBFGS-0.16                    109860
 Alien-Libgcrypt-0.02                    https://github.com/salva/p5-Alien-Libgcrypt/issues/2
 Geo-CountryFlags-1.01                   129185
+App-PTP-1.01                            129187
+App-skos2jskos-0.1.7                    https://github.com/gbv/skos2jskos/issues/4
+CtrlO-PDF-0.02                          https://github.com/ctrlo/CtrlO-PDF/issues/2
+Parse-Netstat-Search-0.2.0              129196
