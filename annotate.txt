@@ -4674,3 +4674,11 @@ Audio-FindChunks-2.03                   129197
 PerlIO-normalize-0.002                  https://github.com/pink-mist/PerlIO-normalize/issues/1
 CatalystX-Plugin-Engine-FastCGI-Lighttpd-0.1.0 129204
 Acme-AutoColor-0.03                     129205
+Catalyst-Plugin-SwiffUploaderCookieHack-0.01 120601
+IM-Engine-Plugin-Dispatcher-0.02        73407
+Data-Lua-0.02                           129206
+HTTP-ProxyAutoConfig-0.3                129207
+HTTP-ProxyPAC-0.31                      125864
+LEOCHARRE-Digest-1.01                   61667
+mmm-0.43                                67635
+QuadPres-0.28.0                         129214
