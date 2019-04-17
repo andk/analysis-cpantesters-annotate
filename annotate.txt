@@ -4670,3 +4670,7 @@ App-PTP-1.01                            129187
 App-skos2jskos-0.1.7                    https://github.com/gbv/skos2jskos/issues/4
 CtrlO-PDF-0.02                          https://github.com/ctrlo/CtrlO-PDF/issues/2
 Parse-Netstat-Search-0.2.0              129196
+Audio-FindChunks-2.03                   129197
+PerlIO-normalize-0.002                  https://github.com/pink-mist/PerlIO-normalize/issues/1
+CatalystX-Plugin-Engine-FastCGI-Lighttpd-0.1.0 129204
+Acme-AutoColor-0.03                     129205
