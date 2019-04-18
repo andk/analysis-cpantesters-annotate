@@ -1504,7 +1504,7 @@ Text-Printf-1.03                        112541
 Enumeration-0.03                        112543
 Date-MonthSet-0.2                       112545
 KiokuDB-Backend-BDB-0.15                112513
-Crypt-SimpleGPG-0.3                     112528
+Crypt-SimpleGPG-0.3                     112528,129219
 Crypt-Cracklib-1.7                      https://github.com/dsully/perl-crypt-cracklib/issues/3
 ObjectDBI-0.15                          95811
 WWW-Search-PubMed-1.004                 112548
