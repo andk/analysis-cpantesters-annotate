@@ -3823,7 +3823,7 @@ CryptX-0.061                            https://github.com/DCIT/perl-CryptX/issu
 Config-Model-Xorg-1.115                 127431
 Crypt-RSA-1.99                          127436
 Devel-Chitin-0.17                       127437,127438,127439
-Math-Pari-2.030507                      127442
+Math-Pari-2.030517                      127442
 qbit-2.6                                127443
 Net-LastFM-0.36                         127446
 CtrlO-PDF-0.01                          https://github.com/ctrlo/CtrlO-PDF/issues/2
