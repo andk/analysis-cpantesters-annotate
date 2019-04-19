@@ -4692,3 +4692,10 @@ Image-LibRaw-0.03                       129235
 Audio-Ao-0.01                           129236,117737
 X11-Keyboard-1.4                        129237
 XML-Filter-DataIndenter-0.1             129238
+Archive-Peek-External-0.35              129241
+RADIUS-1.0                              129242
+tap-0.01                                https://github.com/merrilymeredith/p5-tap/issues/1
+App-Plog-0.01.12                        129243
+Audio-Mixer-0.7                         94186
+PDLA-Rest-2.016000                      https://github.com/PDLPorters/pdla-rest/issues/17
+Net-IP-Route-Reject-0.5                 110202
