@@ -4684,3 +4684,11 @@ mmm-0.43                                67635
 QuadPres-0.28.0                         129214
 RDF-Simple-Serialiser-Notation3-1.017   129218
 Image-OCR-Tesseract-1.24                129220
+Danga-Socket-Redis-0.06                 129228
+IO-Async-Loop-KQueue-0.02               129229
+ResourcePool-Resource-SOAP-Lite-1.0103  129230
+Async-Interrupt-1.24                    129233
+Image-LibRaw-0.03                       129235
+Audio-Ao-0.01                           129236
+X11-Keyboard-1.4                        129237
+XML-Filter-DataIndenter-0.1             129238
