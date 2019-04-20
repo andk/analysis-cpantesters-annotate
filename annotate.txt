@@ -4167,7 +4167,7 @@ Dancer2-Plugin-Auth-Extensible-Provider-DBIC-0.623 https://github.com/ctrlo/Danc
 DBIx-OnlineDDL-0.90                     https://github.com/GrantStreetGroup/DBIx-OnlineDDL/issues/1,https://github.com/GrantStreetGroup/DBIx-OnlineDDL/issues/2
 Brick-0.228                             https://github.com/briandfoy/brick/issues/5
 Database-Async-SQLite-0.001             124872,128138
-Nagios-Plugin-OverHTTP-0.16             128140
+Nagios-Plugin-OverHTTP-0.16             128140,129252
 Sys-Info-Driver-Linux-0.7905            https://github.com/burak/CPAN-Sys-Info-Driver-Linux/issues/2
 Hatena-API-Auth-0.05                    128141
 App-Fotagger-0.001.1                    128143,128144
