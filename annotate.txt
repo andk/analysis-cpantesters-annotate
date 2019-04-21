@@ -4699,3 +4699,13 @@ App-Plog-0.01.12                        129243
 Audio-Mixer-0.7                         94186
 PDLA-Rest-2.016000                      https://github.com/PDLPorters/pdla-rest/issues/17
 Net-IP-Route-Reject-0.5                 110202
+DateTime-Calendar-Coptic-0.03           129246
+Convert-BER-XS-0.7                      129247
+Crypt-GPG-1.64                          129248
+File-FindByRegex-1.2                    129249,129250
+HTML-Scrubber-StripScripts-0.02         129251
+HTTP-MHTTP-0.15                         70668
+OpenStack-MetaAPI-0.001                 https://github.com/atoomic/OpenStack-MetaAPI/issues/2
+Geo-PostalCode-NoDB-0.01                77506
+Vote-1.00                               129254
+Lip-Pod-0.001                           129257
