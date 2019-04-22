@@ -4718,3 +4718,7 @@ Audio-C4Stream-Wav-1.01                 129260
 Class-Factory-Util-1.7                  127916
 Data-Display-0.02                       129253
 Ryu-1.002                               https://github.com/team-at-cpan/Ryu/issues/6
+Acme-Tools-0.24                         129266
+NSNMP-0.5                               129267
+Parse-Netstat-Search-0.2.1              129268
+PDLA-IO-HDF-2.019100                    https://github.com/PDLPorters/pdla-io-hdf/issues/3
