@@ -4697,7 +4697,7 @@ RADIUS-1.0                              129242
 tap-0.01                                https://github.com/merrilymeredith/p5-tap/issues/1
 App-Plog-0.01.12                        129243
 Audio-Mixer-0.7                         94186
-PDLA-Rest-2.016000                      https://github.com/PDLPorters/pdla-rest/issues/17
+PDLA-Rest-2.019101                      https://github.com/PDLPorters/pdla-rest/issues/17
 Net-IP-Route-Reject-0.5                 110202
 DateTime-Calendar-Coptic-0.03           129246
 Convert-BER-XS-0.7                      129247
