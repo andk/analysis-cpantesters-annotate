@@ -3783,7 +3783,7 @@ Mojolicious-Command-generate-resources-0.21 https://github.com/kberov/Mojoliciou
 Mojolicious-Plugin-JSUrlFor-Angular-0.18 127259
 Image-Synchronize-1.2                   127261,129106
 WWW-Scrape-FindaGrave-0.06              127262
-IMDB-JSON-0.02                          127265
+IMDB-JSON-0.03                          127265
 Number-WithError-1.01                   127267
 Stor-1.5.2                              https://github.com/avast/Stor/issues/19
 Data-Context-v0.2.3                     127276
