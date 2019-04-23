@@ -182,7 +182,7 @@ MooseX-Graph-Easy-StateMachine-0.01     73267
 List-Gen-0.974                          73294
 TEI-Lite-0.60                           63186
 Net-ZooTool-0.0031                      73331
-Geo-Location-TimeZone-0.1               73354
+Geo-Location-TimeZone-0.1               73354,129284
 MooseX-Types-DateTimeX-0.10             73467
 Catalyst-Example-InstantCRUD-0.038      73475
 Ukigumo-0.01                            73558
