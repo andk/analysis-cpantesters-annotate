@@ -4742,3 +4742,4 @@ Sys-PageCache-0.06                      129288
 Alien-Build-Plugin-Decode-Mojo-0.01     https://github.com/Perl5-Alien/Alien-Build-Plugin-Decode-Mojo/issues/1
 IMDB-JSON-0.04                          129295
 Net-Checkpoint-Management-v1-0.001002   129296
+Protocol-Database-PostgreSQL-1.001      https://github.com/team-at-cpan/Protocol-Database-PostgreSQL/issues/1
