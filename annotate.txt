@@ -4713,7 +4713,7 @@ POD-Tested-0.06.4                       115431
 Logfile-Read-0.6                        129258
 Logfile-Tail-0.7                        129259
 Net-Patricia-1.22                       117929
-Algorithm-MinPerfHashTwoLevel-0.03      https://github.com/demerphq/Algorithm-MinPerfHashTwoLevel/issues/1
+Algorithm-MinPerfHashTwoLevel-0.04      https://github.com/demerphq/Algorithm-MinPerfHashTwoLevel/issues/2
 Audio-C4Stream-Wav-1.01                 129260
 Class-Factory-Util-1.7                  127916
 Data-Display-0.02                       129253
