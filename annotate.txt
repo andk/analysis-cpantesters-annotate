@@ -4752,3 +4752,5 @@ Algorithm-MinPerfHashTwoLevel-0.05      https://github.com/demerphq/Algorithm-Mi
 Plack-Middleware-Matomo-0.03            https://github.com/vpeil/Plack-Middleware-Matomo/issues/2
 Net-WebSocket-0.20                      129307
 Hailo-0.75                              129308
+RocksDB-0.05                            https://github.com/spiritloose/RocksDB/issues/6
+LWP-Protocol-Net-Curl-0.023             https://github.com/creaktive/LWP-Protocol-Net-Curl/issues/14
