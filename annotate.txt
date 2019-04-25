@@ -4749,3 +4749,5 @@ Mojo-SMTP-Client-0.16                   129298
 RDF-Simple-0.419                        129300
 Algorithm-LibLinear-0.20                129301
 Algorithm-MinPerfHashTwoLevel-0.05      https://github.com/demerphq/Algorithm-MinPerfHashTwoLevel/issues/3
+Plack-Middleware-Matomo-0.03            https://github.com/vpeil/Plack-Middleware-Matomo/issues/2
+Net-WebSocket-0.20                      129307
