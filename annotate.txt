@@ -4258,7 +4258,7 @@ OTRS-OPM-Parser-1.01                    https://github.com/reneeb/OTRS-OPM-Parse
 Mojo-Log-Che-0.8121                     120757
 Quiq-1.133                              128411
 Finance-Bank-Postbank_de-0.56           127910,128466
-WebService-GeoIPify-0.02                128454
+WebService-GeoIPify-0.03                128454
 Locked-Storage-1.07                     128467
 Test-TempFile-0.90                      128472
 Text-PDF2XML-0.3.3                      128179
