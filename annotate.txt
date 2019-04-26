@@ -4754,3 +4754,6 @@ Net-WebSocket-0.20                      129307
 Hailo-0.75                              129308
 RocksDB-0.05                            https://github.com/spiritloose/RocksDB/issues/6
 LWP-Protocol-Net-Curl-0.023             https://github.com/creaktive/LWP-Protocol-Net-Curl/issues/14
+Perl-Critic-1.132                       https://github.com/Perl-Critic/Perl-Critic/issues/858
+Device-BusPirate-0.18                   129316
+Alien-Proj4-2.019103                    https://github.com/PDLPorters/Alien-Proj4/issues/1
