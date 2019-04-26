@@ -3974,7 +3974,7 @@ Gtk2-1.24992                            127781
 Tk-ExecuteCommand-1.6                   102434
 Pod-Tree-1.25                           https://github.com/szabgab/Pod-Tree/issues/8
 Data-RecordStore-4.03                   127802
-Algorithm-Cluster-1.57                  120442
+Algorithm-Cluster-1.58                  120442
 POE-Component-DirWatch-0.300004         127804
 Sys-HostIP-2.100                        https://github.com/xsawyerx/sys-hostip/issues/17
 Image-Scale-0.14                        119094
