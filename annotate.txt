@@ -4758,3 +4758,6 @@ Perl-Critic-1.132                       https://github.com/Perl-Critic/Perl-Crit
 Device-BusPirate-0.18                   129316
 Alien-Proj4-2.019103                    https://github.com/PDLPorters/Alien-Proj4/issues/1
 PPIx-Utils-0.002                        https://github.com/Grinnz/PPIx-Utils/issues/2
+Alien-LibYAML-2.04                      129323
+Sietima-1.0.3                           129325
+Alien-Proj4-2.019104                    https://github.com/PDLPorters/Alien-Proj4/issues/2
