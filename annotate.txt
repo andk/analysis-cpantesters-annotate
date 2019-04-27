@@ -4770,3 +4770,6 @@ Dancer-Plugin-Thumbnail-0.14            129331
 DBD-Firebird-1.31                       123723
 Log-Dispatch-Email-Siffra-0.02          129069
 Apache-Config-Preproc-1.02              129334
+Perl-ToPerl6-0.040                      129336
+Proch-Cmd-0.001                         129337
+Siffra-Base-0.03                        129338
