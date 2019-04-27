@@ -4761,3 +4761,7 @@ PPIx-Utils-0.002                        https://github.com/Grinnz/PPIx-Utils/iss
 Alien-LibYAML-2.04                      129323
 Sietima-1.0.3                           129325
 Alien-Proj4-2.019104                    https://github.com/PDLPorters/Alien-Proj4/issues/2
+Alien-MuPDF-0.010                       129326
+ExtUtils-ModuleMaker-Siffra-0.05        128847
+Convert-BER-XS-1.2                      129327
+Alien-Texinfo-0.005000                  129329
