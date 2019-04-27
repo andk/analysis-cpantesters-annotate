@@ -4765,3 +4765,8 @@ Alien-MuPDF-0.010                       129326
 ExtUtils-ModuleMaker-Siffra-0.05        128847
 Convert-BER-XS-1.2                      129327
 Alien-Texinfo-0.005000                  129329
+AnyEvent-SOCKS-Client-0.01              129330
+Dancer-Plugin-Thumbnail-0.14            129331
+DBD-Firebird-1.31                       123723
+Log-Dispatch-Email-Siffra-0.02          129069
+Apache-Config-Preproc-1.02              129334
