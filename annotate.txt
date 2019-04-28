@@ -4776,3 +4776,6 @@ Siffra-Base-0.03                        129338
 GitDDL-0.03                             129339
 EJS-Template-0.08                       129340
 Module-AnyEvent-Helper-v0.0.5           129344
+Script-Toolbox-0.58                     129345
+Sort-TSort-0.01                         105667
+Xtract-0.16                             129346
