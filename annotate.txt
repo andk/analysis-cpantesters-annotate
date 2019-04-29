@@ -4783,3 +4783,6 @@ File-TVShow-Organize-0.32               129349
 PPI-1.262                               https://github.com/adamkennedy/PPI/issues/239
 DBIx-QuickDB-0.000008                   https://github.com/exodist/DBIx-QuickDB/issues/1
 Functional-Utility-1.02                 https://github.com/belden/perl-functional-utility/issues/3
+Mojo-Promise-Role-Futurify-0.001        https://github.com/Grinnz/Mojo-Promise-Role-Futurify/issues/1
+Mojo-SMTP-Client-0.17                   129355
+Statistics-Descriptive-Discrete-0.11    128683
