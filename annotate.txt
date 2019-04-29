@@ -4771,7 +4771,7 @@ DBD-Firebird-1.31                       123723
 Log-Dispatch-Email-Siffra-0.02          129069
 Apache-Config-Preproc-1.02              129334
 Perl-ToPerl6-0.040                      129336
-Proch-Cmd-0.002                         129337
+Proch-Cmd-0.002                         129337,129358
 Siffra-Base-0.03                        129338
 GitDDL-0.03                             129339
 EJS-Template-0.08                       129340
