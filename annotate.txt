@@ -4786,3 +4786,5 @@ Functional-Utility-1.02                 https://github.com/belden/perl-functiona
 Mojo-Promise-Role-Futurify-0.001        https://github.com/Grinnz/Mojo-Promise-Role-Futurify/issues/1
 Mojo-SMTP-Client-0.17                   129355
 Statistics-Descriptive-Discrete-0.11    128683
+AnyEvent-HTTPD-Router-1.0.0             https://github.com/ufobat/p5-AnyEvent-HTTPD-Router/issues/6
+File-TVShow-Organize-0.32.1             129349,129360
