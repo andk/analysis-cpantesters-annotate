@@ -3094,7 +3094,7 @@ Audio-SndFile-0.09                      122636,122637
 Crypt-PKCS11-1.03                       122640
 Net-Social-Mapper-0.5                   122643
 Mojo-JSON_XS-1.003                      https://github.com/niczero/mojo-jsonxs/issues/2
-Date-LibICal-0.01                       121318,122645
+Date-LibICal-0.01                       121318,122645,129381
 App-RecordStream-4.0.23                 122646
 Apache-SWIT-0.54                        122647
 Scope-Escape-Sugar-0.002                122650
