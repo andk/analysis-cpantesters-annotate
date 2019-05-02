@@ -2935,7 +2935,7 @@ Net-Easypost-0.19                       121674
 Text-SenseClusters-LabelEvaluation-0.06 121689
 Text-SenseClusters-LabelEvaluation-Driver-0.09 121690
 XML-SRS-0.09                            90666
-DBIx-Class-Result-Validation-0.16       121715
+DBIx-Class-Result-Validation-0.17       121715
 CloudCron-0.02                          121780
 CloudDeploy-1.05                        121782
 Net-BrowserID-Verify-0.003              121783
