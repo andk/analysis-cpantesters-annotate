@@ -1070,7 +1070,7 @@ Ingres-Utility-IIMonitor-0.13           39275
 IMAP-Client-0.13                        89019,106600
 Alien-SVN-v1.8.11.0                     https://github.com/evalEmpire/Alien-SVN/issues/16
 PerlIO-via-json-0.01                    108960
-Acme-BeCool-0.02                        random test failures, almost by design
+Acme-BeCool-0.02                        129393, random test failures, almost by design
 Cvs-Trigger-0.04                        108961
 Config-Savelogs-0.11                    108963
 Mail-Log-Trace-1.0101                   108964
