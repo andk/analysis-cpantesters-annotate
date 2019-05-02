@@ -4807,3 +4807,9 @@ Tk-DateEntry-1.42                       129385
 Dita-GB-Standard-20190503               129364
 Gtk3-0.035                              125376
 Proch-N50-0.03                          129392
+Gtk3-0.035                              125376
+Proch-N50-0.03                          129392
+Anansi-Script-CGI-0.03                  129394
+Anansi-Script-Shell-0.04                129394
+Anansi-Script-SOAP-0.03                 129394
+App-QuoteCC-0.10                        129395
