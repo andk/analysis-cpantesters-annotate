@@ -4804,4 +4804,4 @@ Net-DNS-Paranoid-0.08                   https://github.com/tokuhirom/Net-DNS-Par
 Code-TidyAll-Plugin-YAMLFrontMatter-1.000002 https://github.com/maxmind/Code-Tidyall-Plugin-YAMLFrontMatter/issues/4
 Siffra-Transfers-0.03                   129384
 Tk-DateEntry-1.42                       129385
-Dita-GB-Standard-20190501               129364
+Dita-GB-Standard-20190503               129364
