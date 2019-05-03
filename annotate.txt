@@ -3313,7 +3313,7 @@ POE-Declare-Log-File-0.01               123867
 Padre-Plugin-FormBuilder-0.04           123867
 Perl-Shell-0.04                         123867
 Process-0.30                            123867
-SDL-Tutorial-3DWorld-0.33               123867
+SDL-Tutorial-3DWorld-0.33               123867,129415
 SMS-Send-1.06                           123867
 Test-POE-Stopping-1.09                  103313,123867
 Xtract-0.16                             https://github.com/gfx/p5-Mouse/issues/38,123867
