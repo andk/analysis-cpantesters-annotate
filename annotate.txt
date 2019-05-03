@@ -911,7 +911,7 @@ Email-Assets-0.10                       108358
 WWW-Scraper-ISBN-Waterstones_Driver-0.08 108373
 SQL-Abstract-FromQuery-0.10             108374
 Cogit-0.001000                          https://github.com/frioux/Cogit/issues/7
-re-engine-PCRE-0.17                     108386
+re-engine-PCRE-0.17                     108386,129403
 Finance-CaVirtex-API-0.03               108392
 Security-JWE-0.04                       108399
 Test-Approximate-0.009                  101156
