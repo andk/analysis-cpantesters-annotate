@@ -4823,3 +4823,12 @@ Plack-Middleware-GitStatus-0.02         https://github.com/yuuki/Plack-Middlewar
 Curses-Simp-1.4.A8UG1gG                 129405,129406
 Process-MaxSize-0.04                    129407
 Test-MTA-Exim4-0.05                     129408
+Net-Frame-1.19                          129409
+WWW-Workflowy-0.6                       129411
+Regexp-SAR-0.004                        129413
+Sendmail-AccessDB-1.04                  129414
+Test-Memory-Usage-0.0.5                 https://github.com/chiselwright/test-memory-usage/issues/1
+XML-Filter-Conditional-0.05             129416
+Data-TUID-0.0122                        129417
+Net-LibNIDS-0.14                        129418
+Gnome2-GConf-1.044                      129419
