@@ -4816,3 +4816,10 @@ App-QuoteCC-0.10                        129395
 Traceroute-Similar-0.18                 129398
 WWW-KrispyKreme-HotLight-1.1            https://github.com/aggrolite/WWW-KrispyKreme-HotLight/issues/2
 Color-TupleEncode-0.11                  103218
+HTML-EditableTable-0.21                 129400
+WordNet-BestStem-0.2.2                  129401
+Inline-Wrapper-0.05                     129402
+Plack-Middleware-GitStatus-0.02         https://github.com/yuuki/Plack-Middleware-GitStatus/issues/4
+Curses-Simp-1.4.A8UG1gG                 129405,129406
+Process-MaxSize-0.04                    129407
+Test-MTA-Exim4-0.05                     129408
