@@ -2757,7 +2757,7 @@ POE-Component-WWW-XKCD-AsText-0.002     120386
 Swagger2-0.89                           https://github.com/jhthorsen/swagger2/issues/99
 Template-Provider-HTTP-0.05             120387
 Test-HTTP-Server-Simple-StashWarnings-0.04 120388
-Class-DBI-Replicated-0.040              120389
+Class-DBI-Replicated-0.040              120389,129432
 Template-Plugin-DateTime-Format-0.03    120391
 WebService-Raygun-0.030                 120392
 WebService-Recruit-Dokoiku-0.11         120393
