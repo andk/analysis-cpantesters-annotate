@@ -2374,7 +2374,7 @@ Blog-BlogML-Reader-1.03                 117720
 Faster-0.1                              117729
 Cstools-3.42                            117730
 DBM-Any-0.1                             117731
-Graphics-Plotter-1.0.2                  117732
+Graphics-Plotter-1.0.2                  117732,117738
 Locale-Hebrew-Calendar-0.03             117733
 XML-Generator-RFC822-RDF-1.1            117734
 XML-SAX-Builder-0.02                    117736
