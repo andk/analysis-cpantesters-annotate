@@ -4845,3 +4845,7 @@ WebService-KakakuCom-0.05               129437
 Gtk2-Ex-PrintDialog-0.03                129438
 IO-Socket-TIPC-1.08                     129440
 Net-RawIP-0.25                          129442
+Template-Toolkit-2.29                   https://github.com/abw/Template2/issues/215
+Python-Serialize-Pickle-InlinePython-0.01 129443
+Qstruct-0.100                           https://github.com/hoytech/Qstruct/issues/1
+Linux-Prctl-1.6.0                       129445
