@@ -4621,7 +4621,7 @@ Oracle-Schema-0.02                      129136
 Plack-Middleware-SocketIO-0.00904       https://github.com/vti/plack-middleware-socketio/issues/2
 WWW-Lunarstorm-0.02                     129137
 SPVM-0.0425                             129138
-CGI-Application-Plus-1.21               129139
+CGI-Application-Plus-1.21               129139,129430
 Date-Handler-1.2                        129140
 Iterator-Misc-0.03                      129141
 Acme-Colour-1.06                        129142
