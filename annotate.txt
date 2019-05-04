@@ -4537,7 +4537,7 @@ NIST-Beacon-1.002                       https://github.com/woodruffw/NIST-Beacon
 podlators-4.11                          129048
 Ham-Fldigi-0.02                         129049
 Reconcile-Accounts-Vin-1.03             129050
-Lingua-EN-Phoneme-0.01                  129051,46605
+Lingua-EN-Phoneme-0.01                  129051,46605,129439
 Sailthru-Client-2.3.0                   112895
 tkShortcuts-1.00a                       129052
 XML-Literal-0.02                        129053
@@ -4836,3 +4836,12 @@ App-Foca-0.05                           129424
 Memory-Stats-0.04                       https://github.com/celogeek/perl-memory-stats/issues/5
 libwww-perl-6.38                        https://github.com/libwww-perl/libwww-perl/issues/307
 HTML-HTMLDoc-0.11_01                    129428
+Search-Namazu-0.96                      129431
+Gtk2-Spell-1.04                         129433
+Audio-Ofa-1.01                          118195
+Inline-C-0.80                           https://github.com/ingydotnet/inline-c-pm/issues/88
+Inline-Ruby-dRuby-Client-0.0.2          129436,129441
+WebService-KakakuCom-0.05               129437
+Gtk2-Ex-PrintDialog-0.03                129438
+IO-Socket-TIPC-1.08                     129440
+Net-RawIP-0.25                          129442
