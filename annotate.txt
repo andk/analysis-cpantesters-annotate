@@ -4849,3 +4849,7 @@ Template-Toolkit-2.29                   https://github.com/abw/Template2/issues/
 Python-Serialize-Pickle-InlinePython-0.01 129443
 Qstruct-0.100                           https://github.com/hoytech/Qstruct/issues/1
 Linux-Prctl-1.6.0                       129445
+Crypt-RSA-Yandex-0.06                   129448
+OpenAPI-Client-0.23                     https://github.com/jhthorsen/openapi-client/issues/18
+Perlbal-Plugin-Syslogger-1.00           129449
+SADI-Simple-0.15                        118557,129450
