@@ -4853,3 +4853,11 @@ Crypt-RSA-Yandex-0.06                   129448
 OpenAPI-Client-0.23                     https://github.com/jhthorsen/openapi-client/issues/18
 Perlbal-Plugin-Syslogger-1.00           129449
 SADI-Simple-0.15                        118557,129450
+Tie-TextDir-0.06                        50793
+Date-Ethiopic-0.13                      129455
+Gtk2-Ex-Simple-Tree-0.50                27465
+Alien-OpenSSL-Static-1.000000           129456
+Gtk2-AppIndicator-0.15                  129458
+Alien-ffmpeg-0.103                      129459
+Alien-LuaJIT-v2.0.2.1                   129460,129461
+Gtk2-TrayIcon-0.06                      129462
