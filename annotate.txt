@@ -4861,3 +4861,6 @@ Gtk2-AppIndicator-0.15                  129458
 Alien-ffmpeg-0.103                      129459
 Alien-LuaJIT-v2.0.2.1                   129460,129461
 Gtk2-TrayIcon-0.06                      129462
+App-Cinema-1.171                        129469
+CPS-0.18                                129470
+AnyEvent-Future-0.03                    129471
