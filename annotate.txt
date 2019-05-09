@@ -1278,7 +1278,7 @@ Bryar-4.0                               55553
 Business-AU-TFN-0.1                     109932
 App-Grepl-0.01                          109933
 Tk-DirSelect-1.12                       83598
-Filesys-Notify-Simple-0.12              https://github.com/miyagawa/Filesys-Notify-Simple/issues/20
+Filesys-Notify-Simple-0.13              https://github.com/miyagawa/Filesys-Notify-Simple/issues/20
 Cache-Cache-1.08                        88418
 WWW-Wikevent-Bot-0.2.0                  109961
 wikitext-perl-1.01                      109963
