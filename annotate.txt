@@ -4876,3 +4876,8 @@ Cache-Profile-0.06                      129494
 Data-Dumper-Compact-0.002002            129495
 Bundle-Bricolage-1.11.0                 129496
 Encode-Unicode-Japanese-0.02            53905,129497
+Graph-Usage-0.12                        129498,129499
+Geo-ShapeFile-2.99_001                  https://github.com/shawnlaffan/Geo-ShapeFile/issues/25
+Kwiki-Kwiki-0.10                        129500
+BTRIEVE-Native-0.04                     129501
+Tk-Wizard-2.158                         120942
