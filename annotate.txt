@@ -3381,7 +3381,6 @@ Perl-Stripper-0.10                      https://rt.perl.org/rt3/Ticket/Display.h
 Unix-Passwd-File-0.250                  https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 autodie-2.29                            https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 lexical-underscore-0.004                https://rt.perl.org/rt3/Ticket/Display.html?id=132594
-Scope-Upper-0.30                        https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Smart-Match-0.008                       https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 threads-lite-0.034                      https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 SVN-Notify-2.86                         https://rt.perl.org/Public/Bug/Display.html?id=132252
@@ -4883,3 +4882,4 @@ BTRIEVE-Native-0.04                     129501
 Tk-Wizard-2.158                         120942
 FASTX-Reader-0.05                       129502
 Proch-N50-0.05                          129503
+Scope-Upper-0.31                        129539
