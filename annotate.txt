@@ -4887,3 +4887,6 @@ Bio-LITE-Taxonomy-NCBI-0.1              123903
 CBOR-PP-0.01                            https://github.com/FGasper/p5-CBOR-PP/issues/1
 Data-SSHPubkey-0.05                     129536
 PPI-1.264                               https://github.com/adamkennedy/PPI/issues/239
+CBOR-PP-0.02                            https://github.com/FGasper/p5-CBOR-PP/issues/1
+Net-HTTP-6.18                           https://github.com/libwww-perl/Net-HTTP/issues/57
+Sphinx-Manager-0.08                     129547
