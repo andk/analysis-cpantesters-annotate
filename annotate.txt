@@ -4890,3 +4890,4 @@ PPI-1.264                               https://github.com/adamkennedy/PPI/issue
 CBOR-PP-0.02                            https://github.com/FGasper/p5-CBOR-PP/issues/1
 Net-HTTP-6.18                           https://github.com/libwww-perl/Net-HTTP/issues/57
 Sphinx-Manager-0.08                     129547
+Perl-Critic-1.133_01                    https://github.com/Perl-Critic/Perl-Critic/issues/858
