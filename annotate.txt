@@ -3991,7 +3991,7 @@ FB3-0.12                                127868
 Date-Manip-6.74                         127870
 Alien-nragent-0.05                      https://github.com/plicease/Alien-nragent/issues/1
 Config-Model-OpenSsh-1.240              https://github.com/dod38fr/config-model-openssh/issues/4
-Glib-1.328                              127871
+Glib-1.329                              127871
 Net-LibIDN2-1.00                        125440
 Data-ObjectStore-2.02                   127850
 Alien-PCRE2-0.015000                    127872
