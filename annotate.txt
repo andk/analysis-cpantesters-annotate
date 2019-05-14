@@ -4906,3 +4906,8 @@ Data-Sah-Coerce-0.033                   128427
 MarpaX-ESLIF-3.0.10                     129563
 Devel-PPPort-3.51                       https://rt.perl.org/Ticket/Display.html?id=134100
 indirect-0.38                           127118
+Scientist-0.012                         https://github.com/lancew/Scientist/issues/35
+Test-MasterData-Declare-0.02            https://github.com/mackee/Test-MasterData-Declare/issues/1
+Test2-Tools-Condition-0.01              https://github.com/akiym/Test2-Tool-Condition/issues/1
+Test2-Tools-JSON-0.03                   https://github.com/akiym/Test2-Tools-JSON/issues/1
+Test2-Plugin-SourceDiag-0.000004        https://github.com/Test-More/Test2-Plugin-SourceDiag/issues/3
