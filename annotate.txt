@@ -4903,3 +4903,5 @@ Test2-Tools-JSON-Pointer-0.01           https://github.com/plicease/Test2-Tools-
 Test2-Tools-URL-0.03                    https://github.com/plicease/Test2-Tools-URL/issues/2
 WWW-Scraper-ISBN-Wheelers_Driver-0.15   129565
 Data-Sah-Coerce-0.033                   128427
+MarpaX-ESLIF-3.0.10                     129563
+Devel-PPPort-3.51                       https://rt.perl.org/Ticket/Display.html?id=134100
