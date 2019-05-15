@@ -4912,3 +4912,9 @@ Test2-Tools-Condition-0.01              https://github.com/akiym/Test2-Tool-Cond
 Test2-Tools-JSON-0.03                   https://github.com/akiym/Test2-Tools-JSON/issues/1
 Test2-Plugin-SourceDiag-0.000004        https://github.com/Test-More/Test2-Plugin-SourceDiag/issues/3
 POE-Loop-Event-1.305                    119351
+Map-Tube-Frankfurt-0.04                 https://github.com/reneeb/Map-Tube-Frankfurt/issues/6
+Mojolicious-Plugin-Notifications-1.03   129571
+Geo-GoogleEarth-AutoTour-1.05           https://github.com/gryphonshafer/Geo-GoogleEarth-AutoTour/issues/1
+IPC-Queue-Duplex-1.009                  122203
+Memory-Process-0.04                     129575
+AI-MegaHAL-0.08                         129576
