@@ -4911,3 +4911,4 @@ Test-MasterData-Declare-0.02            https://github.com/mackee/Test-MasterDat
 Test2-Tools-Condition-0.01              https://github.com/akiym/Test2-Tool-Condition/issues/1
 Test2-Tools-JSON-0.03                   https://github.com/akiym/Test2-Tools-JSON/issues/1
 Test2-Plugin-SourceDiag-0.000004        https://github.com/Test-More/Test2-Plugin-SourceDiag/issues/3
+POE-Loop-Event-1.305                    119351
