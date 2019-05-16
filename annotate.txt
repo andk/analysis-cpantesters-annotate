@@ -1312,7 +1312,7 @@ Socialtext-Resting-Utils-0.21           85894
 DBIx-Class-Indexer-WebService-Dezi-0.08 110093
 DBIx-Class-PgLog-0.03                   110085
 Plack-Middleware-TazXSLT-0.55           110090
-GD-Graph-Cartesian-0.11                 96313
+GD-Graph-Cartesian-0.11                 96313,129589
 XML-RSS-Tools-0.34                      110091
 HTTP-Easy-0.02                          110101
 Net-Ikano-0.01                          110112
