@@ -4467,7 +4467,7 @@ MariaDB-NonBlocking-0.20                128884
 POSIX-1003-0.98                         123109
 Slack-WebHook-0.001                     128903
 Mojolicious-Plugin-CascadingConfig-0.01 https://github.com/srchulo/Mojolicious-Plugin-CascadingConfig/issues/1
-Net-IDN-Encode-2.500                    https://github.com/cfaerber/Net-IDN-Encode/pull/8,https://rt.perl.org/Public/Bug/Display.html?id=133860
+Net-IDN-Encode-2.500                    https://github.com/cfaerber/Net-IDN-Encode/pull/8,https://rt.perl.org/Public/Bug/Display.html?id=133860,129588
 Siffra-Tools-0.03                       128909
 DNS-Unbound-0.01                        128910
 Dancer-Plugin-Auth-Extensible-1.00      128911
