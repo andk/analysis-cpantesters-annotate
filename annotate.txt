@@ -4927,3 +4927,11 @@ Bio-Cellucidate-0.03                    129592,129593
 Sys-HostAddr-0.993                      129594
 Gtk2-GladeXML-1.007                     107572
 Data-RecordStore-5.03                   129597
+Ogg-Theora-LibTheora-0.04               95160,129599
+DR-Tarantool-0.44                       https://github.com/dr-co/dr-tarantool/issues/13
+Thread-Serialize-1.01                   129600
+B-C-1.57                                https://github.com/rurban/perl-compiler/issues/432
+Games-Sudoku-Solver-1.1.0               129605
+Geo-Compass-Variation-1.02              https://github.com/stevieb9/geo-compass-variation/issues/6
+Gnome2-Wnck-0.16                        129606
+DBIx-Threaded-0.10                      129607
