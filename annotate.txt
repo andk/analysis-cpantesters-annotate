@@ -4935,3 +4935,4 @@ Games-Sudoku-Solver-1.1.0               129605
 Geo-Compass-Variation-1.02              https://github.com/stevieb9/geo-compass-variation/issues/6
 Gnome2-Wnck-0.16                        129606
 DBIx-Threaded-0.10                      129607
+Cfn-0.05                                https://github.com/pplu/cfn-perl/issues/33
