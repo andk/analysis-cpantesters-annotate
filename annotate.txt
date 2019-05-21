@@ -4939,3 +4939,7 @@ Cfn-0.05                                https://github.com/pplu/cfn-perl/issues/
 ack-2.999_08                            https://github.com/beyondgrep/ack3/issues/202
 Mojolicious-Plugin-ExportExcel-1.1.1    129628
 Crypt-OpenPGP-1.12                      123452
+Math-LOESS-0.0000_01                    https://github.com/stphnlyd/perl5-Math-LOESS/issues/1
+re-engine-PCRE2-0.16                    https://github.com/rurban/re-engine-PCRE2/issues/33
+Siffra-Bootstrap-0.05                   129635,128848
+Siffra-Transfers-0.04                   129636,128851
