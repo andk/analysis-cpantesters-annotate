@@ -3073,7 +3073,7 @@ Plucene-Plugin-WeightedQueryParser-1.0  122456,122457
 TRD-Uranai-0.0.2                        122458
 Net-IPv6Address-0.02                    122459
 WWW-ActiveState-PPM-0.01                122460
-Bot-BasicBot-Pluggable-Module-Gitbot-1.00.01 122461
+Bot-BasicBot-Pluggable-Module-Gitbot-1.00.01 122461,129656
 CIPP-3.0.8                              122464
 Tickit-Widget-Term-0.003                122509
 CGIS-1.6                                122491
