@@ -4943,3 +4943,8 @@ Math-LOESS-0.0000_01                    https://github.com/stphnlyd/perl5-Math-L
 re-engine-PCRE2-0.16                    https://github.com/rurban/re-engine-PCRE2/issues/33
 Siffra-Bootstrap-0.05                   129635,128848
 Siffra-Transfers-0.04                   129636,128851
+Catmandu-Importer-getJSON-0.51          https://github.com/nichtich/Catmandu-Importer-getJSON/issues/18
+Catmandu-SRU-0.421                      https://github.com/LibreCat/Catmandu-SRU/issues/36
+Plack-App-CGIBin-Streaming-0.06         https://github.com/binary-com/perl-Plack-App-CGIBin-Streaming/issues/5
+Ambrosia-0.010                          129648
+HTML-StickyQuery-0.13                   129649
