@@ -4948,3 +4948,4 @@ Catmandu-SRU-0.421                      https://github.com/LibreCat/Catmandu-SRU
 Plack-App-CGIBin-Streaming-0.06         https://github.com/binary-com/perl-Plack-App-CGIBin-Streaming/issues/5
 Ambrosia-0.010                          129648
 HTML-StickyQuery-0.13                   129649
+Catalyst-Model-EmailStore-0.03          129654
