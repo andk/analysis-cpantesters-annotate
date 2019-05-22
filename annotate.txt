@@ -953,7 +953,7 @@ Test-LocalFunctions-0.23                https://github.com/moznion/Test--LocalFu
 Unknown-Values-0.005                    103134
 Array-Sticky-0.01                       https://github.com/belden/perl-array-sticky/issues/1
 Authen-TypeKey-0.05                     95938
-Genome-Model-Tools-Music-0.04           108560
+Genome-Model-Tools-Music-0.04           108560,129655
 Ecma48-Util-0.01                        108566
 Net-Amazon-SignatureVersion4-0.006      108567
 Tie-Array-Cavity-0.02                   108570
