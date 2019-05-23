@@ -4949,3 +4949,7 @@ Plack-App-CGIBin-Streaming-0.06         https://github.com/binary-com/perl-Plack
 Ambrosia-0.010                          129648
 HTML-StickyQuery-0.13                   129649
 Catalyst-Model-EmailStore-0.03          129654
+FormValidator-LazyWay-0.20              129657
+Code-Style-Kit-1.0.0                    129661
+Parse-Syslog-Line-4.5                   129663
+Data-FormValidator-Constraints-DateTime-1.11 129664
