@@ -1294,7 +1294,7 @@ Rstat-Client-2.2                        109975
 Remote-Use-0.04                         109976
 Python-Decorator-0.03                   109977
 Kwiki-DB-0.02                           109979
-Text-Decorator-1.65                     109981
+Text-Decorator-1.65                     109981,129669
 Parallel-MapReduce-0.09                 109995
 Biblio-Refbase-0.04                     https://github.com/hma/Biblio-Refbase/issues/1,https://github.com/hma/Biblio-Refbase/issues/1
 WebService-Recruit-FromA-0.0.1          110017
