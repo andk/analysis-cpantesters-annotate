@@ -4958,3 +4958,5 @@ Zonemaster-Backend-4.0.0                https://github.com/zonemaster/zonemaster
 Perinci-Sub-GetArgs-Array-0.170         129678
 Language-FormulaEngine-0.01             https://github.com/nrdvana/perl-Language-FormulaEngine/issues/1,https://github.com/nrdvana/perl-Language-FormulaEngine/issues/2,https://github.com/nrdvana/perl-Language-FormulaEngine/issues/3
 Time-Zone-Olson-0.15                    129680
+ack-v3.0.0                              https://github.com/beyondgrep/ack3/issues/176
+Bio-DB-BioFetch-1.7.3                   https://github.com/bioperl/Bio-DB-BioFetch/issues/3
