@@ -4479,7 +4479,7 @@ MP3-Tag-1.15                            128915,https://rt.perl.org/Ticket/Displa
 File-Replace-0.12                       https://rt.perl.org/Ticket/Display.html?id=133952
 Linux-GetPidstat-0.09                   https://rt.perl.org/Ticket/Display.html?id=133953,https://github.com/yoheimuta/Linux-GetPidstat/issues/11
 Text-JSCalendar-0.02                    128501
-Dpkg-1.19.6                             128332
+Dpkg-1.19.7                             128332
 Mojolicious-Plugin-Gzip-0.02            https://github.com/srchulo/Mojolicious-Plugin-Gzip/issues/1
 DBIx-Class-Fixtures-1.001039            128930
 Google-Ads-AdWords-Client-5.8.0         118509
