@@ -4964,3 +4964,8 @@ Data-Table-Text-20190530                129726
 Dist-Zilla-PluginBundle-Author-GSG-0.0.7 https://github.com/GrantStreetGroup/p5-Dist-Zilla-PluginBundle-Author-GSG/issues/1,https://github.com/GrantStreetGroup/p5-Dist-Zilla-PluginBundle-Author-GSG/issues/2
 Sub-Called-0.06                         https://github.com/reneeb/Sub-Called/issues/2
 Browser-Start-0.01                      https://github.com/plicease/Browser-Start/issues/1
+Net-AMQP-RabbitMQ-2.40001               https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq/issues/169
+Sah-Schemas-Perl-0.019                  129741
+Siffra-Bootstrap-0.06                   129635
+Siffra-Transfers-0.06                   129636
+Time-Zone-Olson-0.19                    129742,129743
