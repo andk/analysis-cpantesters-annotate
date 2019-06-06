@@ -4969,3 +4969,5 @@ Sah-Schemas-Perl-0.019                  129741
 Time-Zone-Olson-0.19                    129742,129743
 App-Sqitch-v1.0.0                       https://github.com/sqitchers/sqitch/issues/472,https://github.com/sqitchers/sqitch/issues/473
 Role-Random-PerInstance-0.01            129750,129751,129752
+Search-QS-0.01                          129756
+SPVM-0.0436                             129757
