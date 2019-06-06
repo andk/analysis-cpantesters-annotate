@@ -4971,3 +4971,4 @@ App-Sqitch-v1.0.0                       https://github.com/sqitchers/sqitch/issu
 Role-Random-PerInstance-0.01            129750,129751,129752
 Search-QS-0.02                          129756
 SPVM-0.0436                             129757
+CryptX-0.063_001                        https://github.com/DCIT/perl-CryptX/issues/51
