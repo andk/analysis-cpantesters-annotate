@@ -4870,7 +4870,7 @@ Term-TablePrint-0.110                   129477
 Siffra-Tools-0.06                       129482
 Mail-URLFor-0.01                        129489
 AlignDB-Stopwatch-1.1.0                 https://github.com/wang-q/AlignDB-Stopwatch/issues/1
-Array-Circular-0.004                    https://github.com/singingfish/p5-array-circular/issues/3
+Array-Circular-0.005                    https://github.com/singingfish/p5-array-circular/issues/3
 Cache-Profile-0.06                      129494
 Data-Dumper-Compact-0.004000            129495,https://github.com/shadow-dot-cat/Data-Dumper-Compact/issues/2
 Bundle-Bricolage-1.11.0                 129496
