@@ -3780,7 +3780,7 @@ FB3-Convert-0.15                        127150
 Graphics-ColorNames-Netscape-v3.1.1     https://github.com/robrwo/Graphics-ColorNames-Netscape/issues/1
 Mojolicious-Command-generate-resources-0.21 https://github.com/kberov/Mojolicious-Command-generate-resources/issues/3
 Mojolicious-Plugin-JSUrlFor-Angular-0.18 127259
-Image-Synchronize-1.2                   127261,129106
+Image-Synchronize-1.4                   127261,129106
 WWW-Scrape-FindaGrave-0.06              127262
 IMDB-JSON-0.03                          127265
 Number-WithError-1.01                   127267
