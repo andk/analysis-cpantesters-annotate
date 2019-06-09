@@ -4780,7 +4780,7 @@ Sort-TSort-0.01                         105667
 Xtract-0.16                             129346
 File-TVShow-Organize-0.34               129349
 PPI-1.262                               https://github.com/adamkennedy/PPI/issues/239
-DBIx-QuickDB-0.000009                   https://github.com/exodist/DBIx-QuickDB/issues/1
+DBIx-QuickDB-0.000010                   https://github.com/exodist/DBIx-QuickDB/issues/1
 Functional-Utility-1.02                 https://github.com/belden/perl-functional-utility/issues/3
 Mojo-Promise-Role-Futurify-0.001        https://github.com/Grinnz/Mojo-Promise-Role-Futurify/issues/1
 Mojo-SMTP-Client-0.17                   129355
