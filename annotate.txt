@@ -4979,3 +4979,5 @@ Regexp-Pattern-License-v3.1.93          129785
 PDF-Cairo-1.04                          129786,129789,129790
 Feersum-1.407                           129787
 Font-FreeType-0.12                      129788
+Net-AMQP-RabbitMQ-2.40002               https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq/issues/173
+Test2-Aggregate-0.02                    129794
