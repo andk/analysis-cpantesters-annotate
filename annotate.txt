@@ -4980,4 +4980,4 @@ Feersum-1.407                           129787
 Font-FreeType-0.12                      129788
 Net-AMQP-RabbitMQ-2.40002               https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq/issues/173
 Test2-Aggregate-0.02                    129794
-Dist-Zilla-PluginBundle-Author-GSG-0.0.9 https://github.com/GrantStreetGroup/p5-Dist-Zilla-PluginBundle-Author-GSG/issues/2
+Dist-Zilla-PluginBundle-Author-GSG-0.0.9 https://github.com/GrantStreetGroup/p5-Dist-Zilla-PluginBundle-Author-GSG/issues/1,https://github.com/GrantStreetGroup/p5-Dist-Zilla-PluginBundle-Author-GSG/issues/2
