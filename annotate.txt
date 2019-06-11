@@ -4972,7 +4972,7 @@ Search-QS-0.02                          129756
 SPVM-0.0436                             129757
 CryptX-0.063_001                        https://github.com/DCIT/perl-CryptX/issues/51
 ExtUtils-MakeMaker-7.36                 129763
-Syntax-Construct-1.011                  129766
+Syntax-Construct-1.012                  129766
 Crypt-OpenSSL-PKCS-Func-0.01            https://github.com/abbypan/Crypt-OpenSSL-PKCS-Func/issues/1,https://github.com/abbypan/Crypt-OpenSSL-PKCS-Func/issues/2
 Regexp-Pattern-License-v3.1.93          129785
 PDF-Cairo-1.04                          129786,129789,129790
