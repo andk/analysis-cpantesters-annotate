@@ -4161,7 +4161,7 @@ Colon-Config-0.004                      https://github.com/atoomic/Colon-Config/
 Mojolicious-Plugin-Piwik-0.26_1         https://github.com/Akron/Mojolicious-Plugin-Piwik/issues/2
 DBIx-TableLoader-1.100                  128131
 Class-DBI-Plugin-Type-0.02              7610,128135
-Connector-1.26                          123001
+Connector-1.27                          123001
 Dancer2-Plugin-Auth-Extensible-Provider-DBIC-0.623 https://github.com/ctrlo/Dancer2-Plugin-Auth-Extensible-Provider-DBIC/issues/18
 DBIx-OnlineDDL-0.90                     https://github.com/GrantStreetGroup/DBIx-OnlineDDL/issues/1,https://github.com/GrantStreetGroup/DBIx-OnlineDDL/issues/2
 Brick-0.228                             https://github.com/briandfoy/brick/issues/5
