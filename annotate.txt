@@ -4981,3 +4981,5 @@ Font-FreeType-0.12                      129788
 Net-AMQP-RabbitMQ-2.40002               https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq/issues/173
 Test2-Aggregate-0.02                    129794
 Dist-Zilla-PluginBundle-Author-GSG-0.0.9 https://github.com/GrantStreetGroup/p5-Dist-Zilla-PluginBundle-Author-GSG/issues/1,https://github.com/GrantStreetGroup/p5-Dist-Zilla-PluginBundle-Author-GSG/issues/2
+LWP-ConsoleLogger-0.000040              https://github.com/oalders/lwp-consolelogger/issues/15
+Mojo-UserAgent-Mockable-1.56            https://github.com/PopeFelix/Mojo-UserAgent-Mockable/issues/24
