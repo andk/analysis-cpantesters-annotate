@@ -4984,3 +4984,5 @@ Dist-Zilla-PluginBundle-Author-GSG-0.0.9 https://github.com/GrantStreetGroup/p5-
 LWP-ConsoleLogger-0.000040              https://github.com/oalders/lwp-consolelogger/issues/15
 Mojo-UserAgent-Mockable-1.56            https://github.com/PopeFelix/Mojo-UserAgent-Mockable/issues/24,https://github.com/PopeFelix/Mojo-UserAgent-Mockable/issues/14
 Config-ENV-0.18                         https://github.com/cho45/Config-ENV/issues/13
+IO-Async-0.73                           129807
+Mozilla-IntermediateCerts-v0.0002       129813
