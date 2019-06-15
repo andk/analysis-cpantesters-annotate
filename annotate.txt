@@ -1056,7 +1056,6 @@ Decode-Source-1.01                      108872
 sol-inst-0.90a                          108903
 Spreadsheet-HTML-1.09                   108768
 ddb-1.3.1                               108870
-Net-DNS-Paranoid-0.08                   https://github.com/tokuhirom/Net-DNS-Paranoid/issues/2
 Net-DNS-Async-1.07                      108915
 WebService-Livedoor-SpamChampuru-DNSBL-0.02 108916
 POE-Component-Server-DNS-0.30           108936
@@ -1197,7 +1196,6 @@ Throw-Back-0.01                         109593
 Mojolicious-Plugin-FillInFormLite-0.02  https://github.com/memememomo/Mojolicious-Plugin-FillInFormLite/issues/1
 IPC-Open3-Utils-0.91                    109614
 Gapp-0.60                               109648,https://rt.perl.org/Ticket/Display.html?id=126472
-Plack-Middleware-GitStatus-0.02         https://github.com/yuuki1/Plack-Middleware-GitStatus/issues/3
 Transform-Alert-1.00                    https://github.com/SineSwiper/Transform-Alert/issues/1
 VK-0.09                                 109649
 GSSAPI-0.28                             73293
@@ -1210,7 +1208,6 @@ App-podweaver-1.00                      109705
 Dist-Iller-0.1201                       https://github.com/Csson/p5-Dist-Iller/issues/2
 Template-Plugin-HTML-SuperForm-1.0      76116
 NetSDS-SMPP-1.204                       65987
-Parse-Fedora-Packages-0.06              109759
 Cache-Static-0.9905                     109760
 autorequire-0.08                        56051
 CGI-Prototype-Mecha-0.21                109761
@@ -2107,7 +2104,6 @@ WWW-Socrata-0.02                        117324
 CPAN-Digger-0.08                        117328
 Sys-GNU-ldconfig-0.02                   117329
 Alien-mpg123-0.002                      83975
-Data-Dump-Streamer-2.40                 117331
 Memoize-Expire-ByInstance-0.500005      117332
 Catalyst-Plugin-UploadProgress-0.06     117335
 Config-Layered-0.000003                 117336
@@ -2613,7 +2609,6 @@ Net-SIGTRAN-0.1.1                       88946
 Mail-SendVarious-0.4                    118741
 Reaction-0.002005                       85200
 DracPerl-Client-0.10                    https://github.com/apcros/Drac-Perl/issues/3
-WebService-KakakuCom-0.05               118744
 GD-Dashboard-0.04                       720
 makepp-2.0.98.5                         118765
 Magpie-1.163200                         110699
@@ -3252,7 +3247,6 @@ Text-VisualWidth-PP-0.05                https://github.com/tokuhirom/Text-Visual
 Net-Async-Beanstalk-0.002               123809
 Class-Declare-Attributes-0.12           123669
 DBM-Deep-2.0014                         123811,https://rt.perl.org/Public/Bug/Display.html?id=132493
-Functional-Utility-1.02                 https://github.com/belden/perl-functional-utility/issues/2
 Test-Vars-0.014                         https://github.com/houseabsolute/p5-Test-Vars/pull/34
 AnyEvent-HTTP-2.23                      https://rt.perl.org/Public/Bug/Display.html?id=132142,https://www.nntp.perl.org/group/perl.perl5.porters/2017/11/msg247426.html
 Devel-TraceMethods-1.00                 123667
@@ -3316,7 +3310,6 @@ Process-0.30                            123867
 SDL-Tutorial-3DWorld-0.33               123867,129415
 SMS-Send-1.06                           123867
 Test-POE-Stopping-1.09                  103313,123867
-Xtract-0.16                             https://github.com/gfx/p5-Mouse/issues/38,123867
 YAML-Tiny-Stream-0.01                   123867
 asa-1.03                                123867
 pler-1.06                               123867
@@ -3980,7 +3973,6 @@ Image-Scale-0.14                        119094
 AnyEvent-WebSocket-Client-0.49          https://github.com/plicease/AnyEvent-WebSocket-Client/issues/41
 App-CharmKit-2.11                       127823
 SRU-1.01                                https://github.com/bricas/sru-perl/issues/6
-Hailo-0.75                              127838
 TaskPipe-0.09                           127840
 Catalyst-Plugin-Statsd-v0.4.0           https://github.com/robrwo/CatalystX-Statsd/issues/1
 Data-Sah-Coerce-perl-str-str_to_cryptoexchange_safename-0.003 127845
@@ -4153,7 +4145,6 @@ MooX-late-0.015                         124054
 Dancer-1.3500                           https://github.com/PerlDancer/Dancer/issues/1203
 HTML-Tidy5-1.04                         https://github.com/petdance/html-tidy5/issues/11
 Math-GSL-0.40                           https://github.com/leto/math--gsl/issues/166
-AnyEvent-Future-0.03                    128099
 Statistics-Lmoments-0.04                128109
 Vim-X-1.3.0                             https://github.com/yanick/Vim-X/issues/4
 MySQL-Workbench-DBIC-1.13               https://github.com/reneeb/MySQL-Workbench-DBIC/issues/11
@@ -4729,7 +4720,7 @@ Lingua-EN-CMUDict-0.05                  129273
 perlbal-plugin-backendheaders-0.02      70338
 Ref-Store-0.20                          129274
 OpenVZ-0.01                             129275
-Parse-Fedora-Packages-0.06              129276
+Parse-Fedora-Packages-0.06              109759,129276
 Quiq-1.137                              129277
 signatures-0.13                         129281
 Database-Async-0.004                    https://github.com/team-at-cpan/Database-Async/issues/2
@@ -4750,7 +4741,7 @@ Algorithm-LibLinear-0.20                129301
 Algorithm-MinPerfHashTwoLevel-0.05      https://github.com/demerphq/Algorithm-MinPerfHashTwoLevel/issues/3
 Plack-Middleware-Matomo-0.03            https://github.com/vpeil/Plack-Middleware-Matomo/issues/2
 Net-WebSocket-0.20                      129307
-Hailo-0.75                              129308
+Hailo-0.75                              127838,129308
 RocksDB-0.05                            https://github.com/spiritloose/RocksDB/issues/6
 LWP-Protocol-Net-Curl-0.023             https://github.com/creaktive/LWP-Protocol-Net-Curl/issues/14
 Perl-Critic-1.132                       https://github.com/Perl-Critic/Perl-Critic/issues/858
@@ -4777,11 +4768,11 @@ EJS-Template-0.08                       129340
 Module-AnyEvent-Helper-v0.0.5           129344
 Script-Toolbox-0.58                     129345
 Sort-TSort-0.01                         105667
-Xtract-0.16                             129346
+Xtract-0.16                             https://github.com/gfx/p5-Mouse/issues/38,123867,129346
 File-TVShow-Organize-0.34               129349
 PPI-1.262                               https://github.com/adamkennedy/PPI/issues/239
 DBIx-QuickDB-0.000010                   https://github.com/exodist/DBIx-QuickDB/issues/1
-Functional-Utility-1.02                 https://github.com/belden/perl-functional-utility/issues/3
+Functional-Utility-1.02                 https://github.com/belden/perl-functional-utility/issues/2,https://github.com/belden/perl-functional-utility/issues/3
 Mojo-Promise-Role-Futurify-0.001        https://github.com/Grinnz/Mojo-Promise-Role-Futurify/issues/1
 Mojo-SMTP-Client-0.17                   129355
 Statistics-Descriptive-Discrete-0.11    128683
@@ -4799,15 +4790,13 @@ Data-BinaryBuffer-0.005                 https://github.com/vovkasm/data-binarybu
 ExtUtils-ModuleMaker-TT-0.94            https://github.com/dagolden/ExtUtils-ModuleMaker-TT/issues/1
 Fetch-Image-1.000000                    https://github.com/markwellis/fetch-image/issues/1
 Crypt-NSS-X509-0.05                     https://github.com/0xxon/perl-nss/issues/3
-Net-DNS-Paranoid-0.08                   https://github.com/tokuhirom/Net-DNS-Paranoid/issues/4
+Net-DNS-Paranoid-0.08                   https://github.com/tokuhirom/Net-DNS-Paranoid/issues/2,https://github.com/tokuhirom/Net-DNS-Paranoid/issues/4
 Code-TidyAll-Plugin-YAMLFrontMatter-1.000002 https://github.com/maxmind/Code-Tidyall-Plugin-YAMLFrontMatter/issues/4
 Siffra-Transfers-0.03                   129384
 Tk-DateEntry-1.42                       129385
 Dita-GB-Standard-20190503               129364
-Gtk3-0.035                              125376
-Proch-N50-0.03                          129392
-Gtk3-0.035                              125376
-Proch-N50-0.03                          129392
+Gtk3-0.035                              125376,125376
+Proch-N50-0.03                          129392,129392
 Anansi-Script-CGI-0.03                  129394
 Anansi-Script-Shell-0.04                129394
 Anansi-Script-SOAP-0.03                 129394
@@ -4818,7 +4807,7 @@ Color-TupleEncode-0.11                  103218
 HTML-EditableTable-0.21                 129400
 WordNet-BestStem-0.2.2                  129401
 Inline-Wrapper-0.05                     129402
-Plack-Middleware-GitStatus-0.02         https://github.com/yuuki/Plack-Middleware-GitStatus/issues/4
+Plack-Middleware-GitStatus-0.02         https://github.com/yuuki1/Plack-Middleware-GitStatus/issues/3,https://github.com/yuuki/Plack-Middleware-GitStatus/issues/4
 Curses-Simp-1.4.A8UG1gG                 129405,129406
 Process-MaxSize-0.04                    129407
 Test-MTA-Exim4-0.05                     129408
@@ -4840,7 +4829,7 @@ Gtk2-Spell-1.04                         129433
 Audio-Ofa-1.01                          118195
 Inline-C-0.80                           https://github.com/ingydotnet/inline-c-pm/issues/88
 Inline-Ruby-dRuby-Client-0.0.2          129436,129441
-WebService-KakakuCom-0.05               129437
+WebService-KakakuCom-0.05               118744,129437
 Gtk2-Ex-PrintDialog-0.03                129438
 IO-Socket-TIPC-1.08                     129440
 Net-RawIP-0.25                          129442
@@ -4862,7 +4851,7 @@ Alien-LuaJIT-v2.0.2.1                   129460,129461
 Gtk2-TrayIcon-0.06                      129462
 App-Cinema-1.171                        129469
 CPS-0.18                                129470
-AnyEvent-Future-0.03                    129471
+AnyEvent-Future-0.03                    128099,129471
 Graph-Traverse-0.03                     129473
 PackageManager-Virtual-0.191250         129474
 Geo-Coordinates-Parser-0.01             129475,129476
@@ -4953,7 +4942,7 @@ FormValidator-LazyWay-0.20              129657
 Code-Style-Kit-1.0.0                    129661
 Parse-Syslog-Line-4.5                   129663
 Data-FormValidator-Constraints-DateTime-1.11 129664
-Data-Dump-Streamer-2.40                 129668
+Data-Dump-Streamer-2.40                 117331,129668
 Zonemaster-Backend-4.0.0                https://github.com/zonemaster/zonemaster-backend/issues/516
 Perinci-Sub-GetArgs-Array-0.170         129678
 Language-FormulaEngine-0.01             https://github.com/nrdvana/perl-Language-FormulaEngine/issues/1,https://github.com/nrdvana/perl-Language-FormulaEngine/issues/2,https://github.com/nrdvana/perl-Language-FormulaEngine/issues/3
