@@ -1028,7 +1028,6 @@ Tk-Image-Calculation-0.04               108838
 Class-Tangram-1.57                      108841
 Sdict-3.0                               108843
 MAB2-0.06                               108845
-vars-i-1.01                             108844
 Template-Plugin-Filter-HTMLScrubber-0.03 108846
 Proc-Command-0.04                       108848
 Text-Oyster-0.32                        108849
@@ -1600,7 +1599,6 @@ Map-Metro-Plugin-Map-Athens-0.1102      https://github.com/Csson/p5-Map-Metro/is
 Map-Metro-Plugin-Map-Lille-0.1002       https://github.com/Csson/p5-Map-Metro/issues/11
 Map-Metro-Plugin-Map-Brussels-0.1001    https://github.com/Csson/p5-Map-Metro/issues/11
 Map-Metro-Plugin-Map-Budapest-0.1001    https://github.com/Csson/p5-Map-Metro/issues/11
-Map-Metro-Plugin-Map-Madrid-0.1001      https://github.com/Csson/p5-Map-Metro/issues/11
 Map-Metro-Plugin-Map-Oslo-0.1104        https://github.com/Csson/p5-Map-Metro/issues/11
 Map-Metro-Plugin-Map-Amsterdam-0.1102   https://github.com/Csson/p5-Map-Metro/issues/11
 Map-Metro-Plugin-Map-Barcelona-0.1007   https://github.com/Csson/p5-Map-Metro/issues/11
@@ -1973,7 +1971,6 @@ DBI-Test-0.001                          102912
 Filter-PerlTags-Extra-0.01              116723
 Trac-RPC-1.0.0                          https://github.com/bessarabov/Trac-RPC/issues/2
 Params-Lazy-0.005                       https://rt.perl.org/rt3/Ticket/Display.html?id=123052,99807
-Test-Class-Moose-0.75                   https://github.com/test-class-moose/test-class-moose/issues/65
 Lingua-SWE-Num2Word-0.0682              104855
 Finance-btce-0.1                        116729
 Alien-LibUSBx-0.12                      116731
@@ -2403,7 +2400,6 @@ Alien-Libevent-0.01004                  98058
 Crypt-PBC-0.9000                        97122
 Devel-DProf-20110802.00                 70629
 Math-Modular-SquareRoot-1.001           117780
-Perl6-Form-0.05                         117781
 Poker-Eval-0.03                         111046
 Captcha-reCAPTCHA-0.98                  117790
 WebService-NotifyMyAndroid-0.0.6        117791
@@ -2893,7 +2889,6 @@ Debug-EchoMessage-1.03                  121602
 Math-BigInt-Lite-0.17                   120893
 Modern-PBP-Perl-1.240                   121650
 TestRail-API-0.039                      121643
-Acme-CPANAuthors-Turkish-0.23           121657
 File-NFSLock-1.27                       120088
 Global-MutexLock-0.026                  https://github.com/itsusony/Global-MutexLock/issues/1
 PDL-VectorValued-1.0.6                  121661
@@ -3125,10 +3120,8 @@ Syntax-Highlight-Engine-Simple-HTML-0.04 123096
 YAML-Perl-0.12                          123103
 EBook-EPUB-Check-0.04                   https://github.com/pawa-/EBook-EPUB-Check/issues/1
 libsoldout-0.02                         123113
-Test-UNIXSock-0.2                       https://github.com/fujiwara/Test-UNIXSock/issues/3
 PFT-v1.2.1                              116333
 JPList-0.05                             123090
-Geo-Coder-Cache-0.06                    123135
 WebService-Qiita-V2-0.01                123152
 Term-Table-0.011                        https://github.com/exodist/Term-Table/issues/8
 Marky-0.035                             123251
@@ -3434,7 +3427,6 @@ Distribution-Cooker-1.01                124541
 Mojo-Reactor-IOAsync-1.000              https://github.com/Grinnz/Mojo-Reactor-IOAsync/issues/1
 Net-Flotum-0.10                         https://github.com/eokoe/Net-Flotum/issues/6
 Plack-Middleware-Debug-TraceENV-0.042   124566
-RDF-aREF-0.27                           https://github.com/nichtich/RDF-aREF/issues/21
 Perl6-Export-Attrs-0.000006             107603
 Dancer2-Plugin-Interchange6-0.203       https://github.com/interchange/Dancer2-Plugin-Interchange6/issues/2
 Time-Strptime-1.02                      https://github.com/karupanerura/Time-Strptime/issues/11,https://github.com/karupanerura/Time-Strptime/issues/12
@@ -3941,7 +3933,6 @@ Gtk3-SimpleList-0.18                    127879
 App-MechaCPAN-0.26                      https://github.com/atrodo/App-MechaCPAN/issues/14
 SockJS-0.08                             https://github.com/vti/sockjs-perl/issues/13
 WebService-UrbanDictionary-2.015        https://github.com/woodruffw/WebService-UrbanDictionary/issues/3
-SVG-ChristmasTree-0.0.1                 https://github.com/davorg/svg-christmastree/issues/1
 Class-MethodMaker-2.24                  124104,127884
 WebService-HIBP-0.06                    127885
 POE-Component-SmokeBox-0.54             127886
@@ -3965,7 +3956,6 @@ Log-Dispatch-Tk-1.9                     127912
 Log-Journald-0.30                       127913
 Mojo-UserAgent-Cached-1.06              127914
 Moonshine-Magic-0.07                    127915
-MySQL-Workbench-Parser-1.02             https://github.com/reneeb/MySQL-Workbench-Parser/issues/2
 SQL-Translator-Producer-GraphQL-0.04    https://github.com/graphql-perl/SQL-Translator-Producer-GraphQL/issues/1
 Respite-0.2                             https://github.com/Jayceh/Respite/issues/17
 CGI-Ex-2.47                             https://github.com/ljepson/CGI-Ex/issues/16
@@ -4023,7 +4013,6 @@ Char-Replace-0.001                      https://github.com/atoomic/Char-Replace/
 DBIx-Class-InflateColumn-TimePiece-0.01 https://github.com/reneeb/DBIx-Class-InflateColumn-TimePiece/issues/1
 Math-Calc-Parser-1.003                  https://github.com/Grinnz/Math-Calc-Parser/issues/2
 Algorithm-Cron-0.10                     127995
-Alien-Unicruft-0.002                    127996
 Test-CheckManifest-1.34                 https://github.com/reneeb/Test-CheckManifest/issues/11
 Binance-API-1.02                        127999
 FFI-1.12                                https://github.com/Perl5-FFI/FFI/issues/1,https://github.com/Perl5-FFI/FFI/issues/2
@@ -4044,7 +4033,6 @@ Date-Holidays-BY-0.2019.0               128036
 Sah-Schemas-Domain-0.001                128037
 WWW-Yotpo-0.01                          https://github.com/fayland/perl-WWW-Yotpo/issues/1
 Test-Simple-1.302148-TRIAL              https://github.com/Test-More/test-more/issues/815
-App-Manoc-2.99.3-TRIAL                  https://github.com/ManocLabs/manoc/issues/198
 Rex-Inline-0.0.8                        128041
 Database-Sophia-0.9                     128042
 DBD-LDAP-0.22                           128038
@@ -4140,7 +4128,6 @@ DBIx-Lite-0.32                          https://github.com/alranel/DBIx-Lite/iss
 Mail-Chimp3-0.05                        https://github.com/jdigory/p5-Mail-Chimp3/issues/4
 Acme-Lingua-ZH-Remix-0.98               https://github.com/gugod/Acme-Lingua-ZH-Remix/issues/1
 Alien-raylib-0.023                      128304
-Data-Edit-Xml-20190121                  128300
 Geo-Coder-Googlev3-0.17                 128326
 App-PerinciUtils-0.112                  128330
 HTTP-Headers-Fast-0.21                  https://github.com/tokuhirom/HTTP-Headers-Fast/issues/11
@@ -4234,11 +4221,9 @@ Test-Kwalitee-Extra-v0.4.0              104113,128602
 Module-Extract-Namespaces-1.021         https://github.com/briandfoy/module-extract-namespaces/issues/6
 IPC-ShareLite-0.17                      65986,128599
 Device-VFD-GP1022-0.01                  66924
-EPublisher-Source-Plugin-PerltutsCom-0.5 https://github.com/reneeb/EPublisher-Source-Plugin-PerltutsCom/issues/4
 TeX-Hyphen-Pattern-0.103                128617
 Whatever-0.23                           123654,128618
 Mail-Sendmail-0.80                      123652,123652
-Net-AMQP-RabbitMQ-PP-0.07               https://github.com/Humanstate/net-amqp-rabbitmq/issues/12
 Facebook-Graph-1.1205                   https://github.com/rizen/Facebook-Graph/issues/76
 HTTP-Request-FromCurl-0.11              128646
 ClearPress-v2019.2.25                   122425,https://github.com/rmp/libclearpress-perl/issues/4
@@ -4312,14 +4297,12 @@ Test-AutoBuild-1.2.4                    95924
 Template-TAL-0.91                       128800
 Games-EveOnline-API-0.08                deprecated,https://github.com/bluefeet/Games-EveOnline-API/issues/6,https://github.com/bluefeet/Games-EveOnline-API/issues/8
 Plack-Middleware-Session-0.33           https://github.com/plack/Plack-Middleware-Session/issues/41
-File-LsColor-0.494                      https://github.com/trapd00r/File-LsColor/issues/5
 Tcl-pTk-0.96                            128803,128804
 Template-Plugin-EnvHash-1.06            128805
 Term-ReadLine-Gnu-1.36                  128806
 Term-TermKey-0.17                       128807
 WWW-Alexa-TrafficRank-1.12              122935
 WWW-Scraper-ISBN-GoogleBooks_Driver-0.31 93222
-X-Tiny-0.15                             128809
 Array-Columnize-1.04                    https://github.com/rocky/Perl-Array-Columnize/issues/4
 B-CodeLines-1.1                         128810
 Term-ReadLine-Perl5-1.45                https://github.com/rocky/p5-Term-ReadLine-Perl5/issues/18
@@ -4353,7 +4336,6 @@ Template-Filters-LazyLoader-0.05        128859
 App-ValidateSortCode-0.01               128862
 GitDDL-Migrator-0.08                    https://github.com/Songmu/GitDDL-Migrator/issues/3
 HTTP-AnyUA-0.904                        https://github.com/chazmcgarvey/HTTP-AnyUA/issues/1
-MsgPack-RPC-2.0.1                       https://github.com/yanick/MsgPack-RPC/issues/11
 Keyword-Declare-0.001012                128866
 Net-Topsy-0.03                          128872
 ELF-Extract-Sections-1.001000           https://github.com/kentnl/ELF-Extract-Sections/issues/2
@@ -4383,8 +4365,6 @@ Google-Ads-AdWords-Client-5.8.0         118509
 Unicode-BiDiRule-0.04                   128942,https://rt.perl.org/Ticket/Display.html?id=133623
 Net-MAC-Vendor-1.265                    128946
 Roman-Unicode-1.031                     https://github.com/briandfoy/Roman-Unicode/issues/1,https://rt.perl.org/Public/Bug/Display.html?id=133860
-Crypt-EAMessage-1.190900                https://github.com/jmaslak/Crypt-EAMessage/issues/3
-re-engine-Lua-0.17                      128968,https://rt.perl.org/Public/Bug/Display.html?id=133967
 Gtk2-Ex-Spinner-0.21                    118737
 Net-Int-Stats-2.1                       128969
 Net-Route-v0.02                         128970,128971
@@ -4442,7 +4422,6 @@ WWW-Correios-CEP-1.02                   https://github.com/renatocron/WWW--Corre
 Yote-3.0                                129059
 Mock-Populate-0.1700                    129060
 CLI-Driver-0.2                          129062
-App-optex-textconv-0.01                 https://github.com/kaz-utashiro/optex-textconv/issues/1
 Siffra-Logger-0.04                      129064
 SMS-Matrix-1.01                         129065
 FB3-0.13                                127868
@@ -4457,7 +4436,6 @@ CPAN-Unwind-0.06                        129077
 Devel-TRay-0.03                         129078
 HTTP-SimpleLinkChecker-1.167            https://github.com/briandfoy/http-simplelinkchecker/issues/3
 GD-SecurityImage-AC-1.11                129079
-Graph-Maker-0.02                        108992
 Launcher-Cascade-0.02                   129080
 NIS-DBM-0.02                            129081
 Perlbal-Plugin-Addheader-0.02           129082
@@ -4625,7 +4603,6 @@ RDF-Simple-0.419                        129300
 Algorithm-LibLinear-0.20                129301
 Algorithm-MinPerfHashTwoLevel-0.05      https://github.com/demerphq/Algorithm-MinPerfHashTwoLevel/issues/3
 Plack-Middleware-Matomo-0.03            https://github.com/vpeil/Plack-Middleware-Matomo/issues/2
-Net-WebSocket-0.20                      129307
 Hailo-0.75                              127838,129308
 RocksDB-0.05                            https://github.com/spiritloose/RocksDB/issues/6
 LWP-Protocol-Net-Curl-0.023             https://github.com/creaktive/LWP-Protocol-Net-Curl/issues/14
@@ -4633,7 +4610,6 @@ Device-BusPirate-0.18                   129316
 PPIx-Utils-0.002                        https://github.com/Grinnz/PPIx-Utils/issues/2
 Alien-LibYAML-2.04                      129323
 Sietima-1.0.3                           129325
-Alien-Proj4-2.019104                    https://github.com/PDLPorters/Alien-Proj4/issues/2
 Alien-MuPDF-0.010                       129326
 ExtUtils-ModuleMaker-Siffra-0.05        128847
 Convert-BER-XS-1.2                      129327
@@ -4644,7 +4620,6 @@ DBD-Firebird-1.31                       123723
 Log-Dispatch-Email-Siffra-0.02          129069
 Apache-Config-Preproc-1.02              129334
 Perl-ToPerl6-0.040                      129336
-Proch-Cmd-0.002                         129337,129358
 Siffra-Base-0.04                        129338
 GitDDL-0.03                             129339
 EJS-Template-0.08                       129340
@@ -4656,7 +4631,6 @@ DBIx-QuickDB-0.000010                   https://github.com/exodist/DBIx-QuickDB/
 Functional-Utility-1.02                 https://github.com/belden/perl-functional-utility/issues/2,https://github.com/belden/perl-functional-utility/issues/3
 Mojo-Promise-Role-Futurify-0.001        https://github.com/Grinnz/Mojo-Promise-Role-Futurify/issues/1
 Mojo-SMTP-Client-0.17                   129355
-Statistics-Descriptive-Discrete-0.11    128683
 AnyEvent-HTTPD-Router-1.0.0             https://github.com/ufobat/p5-AnyEvent-HTTPD-Router/issues/6
 File-TVShow-Organize-0.32.1             129349,129360
 as-0.08                                 129365
@@ -4672,7 +4646,6 @@ ExtUtils-ModuleMaker-TT-0.94            https://github.com/dagolden/ExtUtils-Mod
 Fetch-Image-1.000000                    https://github.com/markwellis/fetch-image/issues/1
 Crypt-NSS-X509-0.05                     https://github.com/0xxon/perl-nss/issues/3
 Net-DNS-Paranoid-0.08                   https://github.com/tokuhirom/Net-DNS-Paranoid/issues/2,https://github.com/tokuhirom/Net-DNS-Paranoid/issues/4
-Code-TidyAll-Plugin-YAMLFrontMatter-1.000002 https://github.com/maxmind/Code-Tidyall-Plugin-YAMLFrontMatter/issues/4
 Tk-DateEntry-1.42                       129385
 Dita-GB-Standard-20190503               129364
 Gtk3-0.035                              125376,125376
@@ -4734,7 +4707,6 @@ AnyEvent-Future-0.03                    128099,129471
 Graph-Traverse-0.03                     129473
 PackageManager-Virtual-0.191250         129474
 Geo-Coordinates-Parser-0.01             129475,129476
-Term-TablePrint-0.110                   129477
 Siffra-Tools-0.06                       129482
 Mail-URLFor-0.01                        129489
 AlignDB-Stopwatch-1.1.0                 https://github.com/wang-q/AlignDB-Stopwatch/issues/1
@@ -4780,7 +4752,6 @@ Test2-Tools-JSON-0.03                   https://github.com/akiym/Test2-Tools-JSO
 Test2-Plugin-SourceDiag-0.000004        https://github.com/Test-More/Test2-Plugin-SourceDiag/issues/3
 POE-Loop-Event-1.305                    119351
 Map-Tube-Frankfurt-0.04                 https://github.com/reneeb/Map-Tube-Frankfurt/issues/6
-Mojolicious-Plugin-Notifications-1.03   129571
 Geo-GoogleEarth-AutoTour-1.05           https://github.com/gryphonshafer/Geo-GoogleEarth-AutoTour/issues/1
 IPC-Queue-Duplex-1.009                  122203
 Memory-Process-0.04                     129575
@@ -4810,7 +4781,6 @@ re-engine-PCRE2-0.16                    https://github.com/rurban/re-engine-PCRE
 Siffra-Bootstrap-0.06                   129635,128848
 Siffra-Transfers-0.06                   129636,128851
 Catmandu-Importer-getJSON-0.51          https://github.com/nichtich/Catmandu-Importer-getJSON/issues/18
-Catmandu-SRU-0.421                      https://github.com/LibreCat/Catmandu-SRU/issues/36
 Plack-App-CGIBin-Streaming-0.06         https://github.com/binary-com/perl-Plack-App-CGIBin-Streaming/issues/5
 Ambrosia-0.010                          129648
 HTML-StickyQuery-0.13                   129649
