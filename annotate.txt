@@ -4825,3 +4825,4 @@ Term-Spinner-0.01                       129815
 IO-ReadHandle-Include-v1.2.1            129827
 OpenTracing-0.003                       https://github.com/team-at-cpan/OpenTracing/issues/1
 Promises-Channel-0.03                   https://github.com/sysread/Promises-Channel/issues/5
+XML-XSH2-2.2.1                          129841
