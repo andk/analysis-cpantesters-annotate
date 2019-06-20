@@ -4828,3 +4828,5 @@ Promises-Channel-0.03                   https://github.com/sysread/Promises-Chan
 XML-XSH2-2.2.1                          129841
 PlackX-MiddlewareStack-0.011            129847
 Process-SizeLimit-Core-0.9507           129849
+Cfn-0.06                                https://github.com/pplu/cfn-perl/issues/41
+Raisin-0.83                             https://github.com/khrt/Raisin/issues/66
