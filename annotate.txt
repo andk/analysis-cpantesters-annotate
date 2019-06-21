@@ -4820,7 +4820,7 @@ Config-ENV-0.18                         https://github.com/cho45/Config-ENV/issu
 IO-Async-0.73                           129807
 Mozilla-IntermediateCerts-v0.0002       129813
 Net-AMQP-RabbitMQ-2.40003               https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq/issues/176,https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq/issues/173
-Linux-Capabilities-0.2                  129814
+Linux-Capabilities-0.3                  129814
 Term-Spinner-0.01                       129815
 IO-ReadHandle-Include-v1.2.1            129827
 OpenTracing-0.003                       https://github.com/team-at-cpan/OpenTracing/issues/1
