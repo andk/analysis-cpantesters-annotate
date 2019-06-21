@@ -4830,3 +4830,4 @@ PlackX-MiddlewareStack-0.011            129847
 Process-SizeLimit-Core-0.9507           129849
 Cfn-0.06                                https://github.com/pplu/cfn-perl/issues/41
 Raisin-0.83                             https://github.com/khrt/Raisin/issues/66
+Try-Harder-0.002                        129875
