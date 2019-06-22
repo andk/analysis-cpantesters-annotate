@@ -4123,7 +4123,7 @@ Geo-IPinfo-1.1                          128266
 Text-Parser-0.801                       128245
 Data-Sah-0.895                          128274
 Unix-Mknod-0.04                         124687
-LCFG-Build-PkgSpec-0.2.6                115899
+LCFG-Build-PkgSpec-0.2.7                115899
 DBIx-Lite-0.32                          https://github.com/alranel/DBIx-Lite/issues/18
 Mail-Chimp3-0.05                        https://github.com/jdigory/p5-Mail-Chimp3/issues/4
 Acme-Lingua-ZH-Remix-0.98               https://github.com/gugod/Acme-Lingua-ZH-Remix/issues/1
