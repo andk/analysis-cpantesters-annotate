@@ -4832,3 +4832,7 @@ Cfn-0.06                                https://github.com/pplu/cfn-perl/issues/
 Raisin-0.83                             https://github.com/khrt/Raisin/issues/66
 Try-Harder-0.002                        129875
 Quiq-1.146                              129880
+App-WRT-v6.3.0                          129884
+Travel-Status-DE-IRIS-1.28              129885,129886
+IO-Uncompress-Untar-1.0                 129893
+Travel-Status-DE-DBWagenreihung-0.02    129895
