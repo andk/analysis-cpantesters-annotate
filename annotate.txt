@@ -4838,3 +4838,5 @@ IO-Uncompress-Untar-1.0                 129893
 Travel-Status-DE-DBWagenreihung-0.02    129895
 Geo-IP2Proxy-2.10                       129897
 PPI-1.269                               https://rt.perl.org/Ticket/Display.html?id=134210,https://github.com/adamkennedy/PPI/issues/245
+Mojolicious-Plugin-TrustedProxy-0.04    https://github.com/Kage/Mojolicious-Plugin-TrustedProxy/issues/2
+Test-Refcount-0.09                      129908
