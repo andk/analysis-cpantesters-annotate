@@ -4836,3 +4836,5 @@ App-WRT-v6.3.0                          129884
 Travel-Status-DE-IRIS-1.28              129885,129886
 IO-Uncompress-Untar-1.0                 129893
 Travel-Status-DE-DBWagenreihung-0.02    129895
+Geo-IP2Proxy-2.10                       129897
+PPI-1.269                               https://rt.perl.org/Ticket/Display.html?id=134210,https://github.com/adamkennedy/PPI/issues/245
