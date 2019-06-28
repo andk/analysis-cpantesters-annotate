@@ -4842,3 +4842,7 @@ Mojolicious-Plugin-TrustedProxy-0.04    https://github.com/Kage/Mojolicious-Plug
 Test-Refcount-0.09                      129908
 ack-v3.0.1                              https://github.com/beyondgrep/ack3/issues/176,https://github.com/beyondgrep/ack3/issues/212
 Word2vec-Interface-0.039                122998,129915
+Sub-Meta-0.01                           https://github.com/kfly8/p5-Sub-Meta/issues/1
+IO-Lambda-1.29                          129926
+Net-Eboks-0.07                          129927
+Sport-Analytics-NHL-1.51                129928,129929
