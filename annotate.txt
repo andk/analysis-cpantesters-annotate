@@ -3962,7 +3962,7 @@ CGI-Ex-2.47                             https://github.com/ljepson/CGI-Ex/issues
 KeywordsSpider-0.02                     127917
 Alien-ActiveMQ-0.00005                  127921
 BioX-Map-0.0.12                         127491,127922
-Device-USB-0.37                         125358,127923
+Device-USB-0.38                         125358,127923
 Catmandu-Fix-marc_spec-0.0.1            https://github.com/cKlee/Catmandu-Fix-marc_spec/issues/2
 Dist-Zilla-PluginBundle-BAREFOOT-0.06_01-TRIAL https://github.com/barefootcoder/dist-zilla-pluginbundle-barefoot/issues/14
 File-Scan-ClamAV-1.95                   113277
