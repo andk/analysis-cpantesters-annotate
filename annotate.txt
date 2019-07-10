@@ -4856,3 +4856,4 @@ Dist-Zilla-PluginBundle-Author-GSG-0.0.11 https://github.com/GrantStreetGroup/p5
 DBIx-Class-Helper-ResultSet-EnumMethods-0.01 129986
 Data-Edit-Xml-Xref-20190708             130036
 Net-Iperf-Parser-0.01                   130037
+Time-Moment-Role-TimeZone-0.003         https://github.com/Grinnz/Time-Moment-Role-TimeZone/issues/1
