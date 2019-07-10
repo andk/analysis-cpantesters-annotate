@@ -4854,3 +4854,4 @@ Lemonldap-NG-Portal-2.0.5               129960
 PDF-Cairo-1.05                          129961
 Dist-Zilla-PluginBundle-Author-GSG-0.0.11 https://github.com/GrantStreetGroup/p5-Dist-Zilla-PluginBundle-Author-GSG/issues/1
 DBIx-Class-Helper-ResultSet-EnumMethods-0.01 129986
+Data-Edit-Xml-Xref-20190708             130036
