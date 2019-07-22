@@ -3838,7 +3838,7 @@ WWW-Search-Ebay-3.051                   127683
 Net-Pcap-0.18                           117831,127685
 Gtk3-Ex-PdfViewer-1.00                  127686,127687
 Net-Whois-IANA-0.44                     https://github.com/atoomic/Net-Whois-IANA/issues/7
-PerlPowerTools-1.013                    https://github.com/briandfoy/PerlPowerTools/issues/62
+PerlPowerTools-1.015                    https://github.com/briandfoy/PerlPowerTools/issues/62
 Pod-Weaver-Plugin-Ditaa-0.001006        https://github.com/frioux/Pod-Weaver-Plugin-Ditaa/issues/5
 Run-Parts-0.09                          127691
 Audio-TagLib-1.67                       114586,127692
