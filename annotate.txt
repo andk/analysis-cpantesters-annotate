@@ -3670,7 +3670,7 @@ Net-EGTS-0.01                           https://github.com/dr-co/Net-EGTS/issues
 Elasticsearch-Model-0.1.4               125898
 Katsubushi-Client-0.2                   https://github.com/kayac/p5-Katsubushi-Client/issues/6
 Amon2-6.13                              https://github.com/tokuhirom/Amon/issues/123,https://github.com/tokuhirom/Amon/issues/125
-Data-Chronicle-0.19                     https://github.com/binary-com/perl-Data-Chronicle/issues/31
+Data-Chronicle-0.20                     https://github.com/binary-com/perl-Data-Chronicle/issues/31
 DBIx-Sunny-0.9991                       https://github.com/kazeburo/DBIx-Sunny/issues/15,https://github.com/kazeburo/DBIx-Sunny/issues/16
 Sport-Analytics-NHL-1.20                125941
 MouseX-Getopt-0.37                      https://github.com/gfx/mousex-getopt/issues/12
