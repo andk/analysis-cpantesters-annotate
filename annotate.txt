@@ -4882,3 +4882,7 @@ Crypt-Curve25519-0.06                   https://github.com/ajgb/crypt-curve25519
 CPP-panda-lib-1.2.3                     130142
 Time-Format-1.14                        130150
 Data-Edit-Xml-To-Dita-20190721          130151
+Mojo-Transaction-HTTP-Role-Mechanize-0.01 https://github.com/kiwiroy/mojo-transaction-http-role-mechanize/issues/1,https://github.com/kiwiroy/mojo-transaction-http-role-mechanize/issues/2
+Yandex-Audience-0.01                    130159
+XS-Framework-1.1.1                      130160
+Raisin-0.84                             https://github.com/khrt/Raisin/issues/70
