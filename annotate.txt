@@ -4798,7 +4798,7 @@ Bio-DB-BioFetch-1.7.3                   https://github.com/bioperl/Bio-DB-BioFet
 Data-Table-Text-20190530                129726
 Sub-Called-0.06                         https://github.com/reneeb/Sub-Called/issues/2
 Browser-Start-0.01                      https://github.com/plicease/Browser-Start/issues/1
-Sah-Schemas-Perl-0.020                  129741
+Sah-Schemas-Perl-0.023                  129741
 Time-Zone-Olson-0.19                    129742,129743
 App-Sqitch-v1.0.0                       https://github.com/sqitchers/sqitch/issues/472,https://github.com/sqitchers/sqitch/issues/473
 Role-Random-PerInstance-0.01            129750,129751,129752
