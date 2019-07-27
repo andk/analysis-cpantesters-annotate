@@ -906,7 +906,7 @@ Geo-GDAL-2.00012                        108298
 Log-Log4perl-Appender-DBIx-Class-0.02   108300
 re-engine-RE2-0.13                      108357
 Email-Assets-0.10                       108358
-WWW-Scraper-ISBN-Waterstones_Driver-0.08 108373
+WWW-Scraper-ISBN-Waterstones_Driver-0.09 108373
 SQL-Abstract-FromQuery-0.10             108374
 Cogit-0.001000                          https://github.com/frioux/Cogit/issues/7
 re-engine-PCRE-0.17                     108386,129403
