@@ -4892,3 +4892,4 @@ Data-Sah-Coerce-perl-date-str_alami_en-0.009 130183
 Geo-Address-Formatter-1.78              130195
 Pod-Weaver-4.015                        https://github.com/rjbs/Pod-Weaver/issues/50
 Time-Format-1.15                        130208
+POE-Component-WWW-Google-Calculator-0.03 130209
