@@ -4424,7 +4424,7 @@ Mock-Populate-0.1700                    129060
 CLI-Driver-0.2                          129062
 Siffra-Logger-0.04                      129064
 SMS-Matrix-1.01                         129065
-FB3-0.13                                127868
+FB3-0.16                                127868
 JavaScript-Duktape-XS-0.000076          129070
 ACME-QuoteDB-0.1.2                      129072
 B-Graph-0.51                            98928
