@@ -4848,7 +4848,7 @@ Sport-Analytics-NHL-1.53                129928
 Telegram-Bot-0.011                      129930
 Stow-v2.3.0                             129944
 App-DocKnot-3.00                        129958
-FB3-Convert-0.34                        128824
+FB3-Convert-0.35                        128824
 JSON-API-v1.1.1                         https://github.com/geofffranks/json-api/issues/4
 Lemonldap-NG-Portal-2.0.5               129960
 PDF-Cairo-1.05                          129961
