@@ -1928,7 +1928,7 @@ Finance-TA-v0.4.3                       116548
 App-LDAP-0.1.2                          116553
 Devel-NYTProf-Callgrind-TicksDiff-0.05  115284
 Net-HTTPS-Any-0.11                      116405
-Mail-SimpleList-0.94                    116565
+Mail-SimpleList-0.95                    116565
 OrePAN2-0.42                            https://github.com/tokuhirom/OrePAN2/issues/42
 Class-C3-XS-0.13                        116566
 Acme-UTOPIA-Utils-0.03                  116576
