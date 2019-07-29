@@ -4893,3 +4893,12 @@ Geo-Address-Formatter-1.78              130195
 Pod-Weaver-4.015                        https://github.com/rjbs/Pod-Weaver/issues/50
 Time-Format-1.15                        130208
 POE-Component-WWW-Google-Calculator-0.03 130209
+CatalystX-Plugin-Blurb-0.03             130214
+Catalyst-Plugin-Authentication-Credential-HTTP-0.13 130215
+Catalyst-Plugin-Authentication-Store-HTTP-0.05 130216
+Catalyst-Plugin-Cache-0.12              130217
+Catalyst-Plugin-Session-State-URI-0.15  130218
+Catalyst-Plugin-Session-Store-Delegate-0.06 130219
+Catalyst-Plugin-Session-Store-Memcached-Fast-0.02 130220
+Data-ObjectStore-2.09                   130223
+Finance-Bank-SCSB-TW-0.12               130224
