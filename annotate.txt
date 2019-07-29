@@ -4905,3 +4905,4 @@ Sereal-Decoder-4.007                    https://rt.perl.org/Public/Bug/Display.h
 invoker-0.35                            130167
 Test-Strict-0.52                        https://github.com/manwar/Test-Strict/issues/30
 Syntax-Keyword-Try-0.10                 129975
+IO-Socket-ByteCounter-v0.0.2            129909
