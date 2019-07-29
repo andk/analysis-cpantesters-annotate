@@ -4903,4 +4903,5 @@ Finance-Bank-SCSB-TW-0.12               130224
 ETL-Yertl-0.043                         https://github.com/preaction/ETL-Yertl/issues/163
 Sereal-Decoder-4.007                    https://rt.perl.org/Public/Bug/Display.html?id=134320,https://github.com/Sereal/Sereal/issues/207
 invoker-0.35                            130167
-Test-Strict-0.52                        134311
+Test-Strict-0.52                        https://github.com/manwar/Test-Strict/issues/30
+Syntax-Keyword-Try-0.10                 129975
