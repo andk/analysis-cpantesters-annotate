@@ -2803,7 +2803,6 @@ Tilt-Email-BlueHornet-0.001             121279
 Mail-CheckUser-1.24                     121285
 Defaults-Modern-0.011001                121286
 Template-Plugin-ListMoreUtils-0.03      121291
-Sereal-Decoder-4.001_002                https://github.com/Sereal/Sereal/issues/165
 GD-2.61                                 121297
 AnyEvent-TLS-SNI-0.03                   module is deprecated,https://github.com/nalobin/AnyEvent-TLS-SNI/issues/2
 Barcode-Code128-2.21                    121307
@@ -4902,3 +4901,4 @@ Catalyst-Plugin-Session-Store-Memcached-Fast-0.02 130220
 Data-ObjectStore-2.09                   130223
 Finance-Bank-SCSB-TW-0.12               130224
 ETL-Yertl-0.043                         https://github.com/preaction/ETL-Yertl/issues/163
+Sereal-Decoder-4.007                    https://rt.perl.org/Public/Bug/Display.html?id=134320,https://github.com/Sereal/Sereal/issues/207
