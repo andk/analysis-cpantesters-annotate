@@ -4125,7 +4125,7 @@ LCFG-Build-PkgSpec-0.2.7                115899
 DBIx-Lite-0.32                          https://github.com/alranel/DBIx-Lite/issues/18
 Mail-Chimp3-0.05                        https://github.com/jdigory/p5-Mail-Chimp3/issues/4
 Acme-Lingua-ZH-Remix-0.98               https://github.com/gugod/Acme-Lingua-ZH-Remix/issues/1
-Alien-raylib-0.023                      128304
+Alien-raylib-0.025                      128304
 Geo-Coder-Googlev3-0.17                 128326
 App-PerinciUtils-0.112                  128330
 HTTP-Headers-Fast-0.21                  https://github.com/tokuhirom/HTTP-Headers-Fast/issues/11
