@@ -4910,4 +4910,4 @@ DataLoader-0.02                         130225
 PowerBuilder-DataWindow-0.01            130226
 Panda-XS-2.1.10                         130234
 Astro-Coords-0.19                       130235
-Device-Firewall-PaloAlto-0.1.9          https://github.com/gregfoletta/Device-Firewall-PaloAlto/issues/10
+Device-Firewall-PaloAlto-0.1.9          https://github.com/gregfoletta/Device-Firewall-PaloAlto/issues/10,https://github.com/gregfoletta/Device-Firewall-PaloAlto/issues/11
