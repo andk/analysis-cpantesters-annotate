@@ -4916,3 +4916,6 @@ Mojolicious-Plugin-OpenAPI-2.15         https://github.com/jhthorsen/mojolicious
 Validation-Class-7.900057               130246
 WWW-PivotalTracker-1.00                 83007
 namespace-autoclean-0.28                130248
+Net-Proxmox-VE-0.34                     130249
+Role-Tiny-2.000007                      130250
+WWW-Mechanize-1.91                      https://github.com/libwww-perl/WWW-Mechanize/issues/278
