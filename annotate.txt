@@ -4915,3 +4915,4 @@ Heap-Simple-0.13                        106310
 Mojolicious-Plugin-OpenAPI-2.15         https://github.com/jhthorsen/mojolicious-plugin-openapi/issues/134
 Validation-Class-7.900057               130246
 WWW-PivotalTracker-1.00                 83007
+namespace-autoclean-0.28                130248
