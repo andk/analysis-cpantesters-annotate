@@ -4919,3 +4919,5 @@ namespace-autoclean-0.28                130248
 Net-Proxmox-VE-0.34                     130249
 Role-Tiny-2.000007                      130250
 WWW-Mechanize-1.91                      https://github.com/libwww-perl/WWW-Mechanize/issues/278
+Net-BGP-0.17                            130253
+WebService-MusicBrainz-1.0.5            118822
