@@ -4923,3 +4923,4 @@ Net-BGP-0.17                            130253
 WebService-MusicBrainz-1.0.5            118822
 Math-DifferenceSet-Planar-0.002         130259
 Beam-Runner-0.016                       https://github.com/preaction/Beam-Runner/issues/13
+Statocles-0.093                         https://github.com/preaction/Statocles/issues/579
