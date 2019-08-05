@@ -4922,3 +4922,4 @@ WWW-Mechanize-1.91                      https://github.com/libwww-perl/WWW-Mecha
 Net-BGP-0.17                            130253
 WebService-MusicBrainz-1.0.5            118822
 Math-DifferenceSet-Planar-0.002         130259
+Beam-Runner-0.016                       https://github.com/preaction/Beam-Runner/issues/13
