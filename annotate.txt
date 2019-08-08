@@ -4869,7 +4869,7 @@ AnyEvent-7.16                           130115,130116
 Net-Connection-Match-0.2.0              130117
 Quiq-1.151                              130118
 Sah-Schemas-Date-0.003                  130119
-Travel-Status-DE-IRIS-1.30              129886
+Travel-Status-DE-IRIS-1.31              129886
 Perinci-Access-Perl-0.890               130121
 App-PFT-v1.4.1                          130122,https://github.com/dacav/App-PFT/issues/6
 DataLoader-0.01                         130124
