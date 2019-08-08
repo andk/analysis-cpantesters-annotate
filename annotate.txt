@@ -4926,5 +4926,5 @@ Beam-Runner-0.016                       https://github.com/preaction/Beam-Runner
 Statocles-0.093                         https://github.com/preaction/Statocles/issues/579
 Test-Tdd-0.006                          130261
 Progressive-Web-Application-0.05        130265
-Devel-QuickCover-0.900012               130270
+Devel-QuickCover-0.900013               130270
 Scalar-List-Utils-1.51                  130277
