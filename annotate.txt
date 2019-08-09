@@ -4932,3 +4932,4 @@ JSON-Validator-3.13                     https://github.com/mojolicious/json-vali
 App-mojopaste-1.03                      https://github.com/jhthorsen/app-mojopaste/issues/19
 DBD-Pg-3.8.1                            130279
 exact-class-1.01                        https://github.com/gryphonshafer/exact-class/issues/1
+Acme-ReturnValue-1.002                  https://github.com/domm/Acme-ReturnValue/issues/1
