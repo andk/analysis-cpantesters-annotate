@@ -3703,7 +3703,7 @@ Mojolicious-Plugin-PayPal-0.08          https://github.com/jhthorsen/mojolicious
 Mojolicious-Plugin-StripePayment-0.03   https://github.com/jhthorsen/mojolicious-plugin-stripepayment/issues/1
 Mojolicious-Plugin-Toto-0.25            127201
 Mojolicious-Plugin-RenderSteps-0.06     https://github.com/marcusramberg/Mojolicious-Plugin-RenderSteps/issues/5
-Analizo-1.22.0                          https://github.com/analizo/analizo/issues/128
+Analizo-1.23.0                          https://github.com/analizo/analizo/issues/128
 Data-Localize-Storage-MongoDB-0.001     123751
 Glib-Object-Introspection-0.046         127205
 Text-Bidi-2.15                          108739
