@@ -4419,7 +4419,7 @@ XML-RSS-Timing-1.07                     129058
 WWW-Correios-CEP-1.02                   https://github.com/renatocron/WWW--Correios--CEP/issues/8
 Yote-3.0                                129059
 Mock-Populate-0.1700                    129060
-CLI-Driver-0.2                          129062
+CLI-Driver-0.3                          129062
 Siffra-Logger-0.04                      129064
 SMS-Matrix-1.01                         129065
 FB3-0.16                                127868
