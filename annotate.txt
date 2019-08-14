@@ -4931,7 +4931,7 @@ Scalar-List-Utils-1.51                  130277
 JSON-Validator-3.13                     https://github.com/mojolicious/json-validator/issues/168,https://github.com/mojolicious/json-validator/issues/169
 App-mojopaste-1.03                      https://github.com/jhthorsen/app-mojopaste/issues/19
 DBD-Pg-3.8.1                            130279
-exact-class-1.01                        https://github.com/gryphonshafer/exact-class/issues/1
+exact-class-1.02                        https://github.com/gryphonshafer/exact-class/issues/1
 Acme-ReturnValue-1.002                  https://github.com/domm/Acme-ReturnValue/issues/1
 Pherkin-Extension-Weasel-0.10           https://github.com/perl-weasel/pherkin-extension-weasel/issues/13
 Analizo-1.23.0                          https://github.com/analizo/analizo/issues/165
