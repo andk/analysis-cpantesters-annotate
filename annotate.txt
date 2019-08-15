@@ -4937,3 +4937,4 @@ Pherkin-Extension-Weasel-0.10           https://github.com/perl-weasel/pherkin-e
 Analizo-1.23.0                          https://github.com/analizo/analizo/issues/165
 MooX-Purple-0.07                        130296
 Mojolicious-Plugin-Model-DB-0.09        https://github.com/lucas1/Mojolicious-Plugin-Model-DB/issues/2
+Net-Connection-ncnetstat-0.4.1          130303
