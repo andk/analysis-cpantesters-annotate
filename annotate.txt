@@ -4939,3 +4939,6 @@ MooX-Purple-0.07                        130296
 Mojolicious-Plugin-Model-DB-0.09        https://github.com/lucas1/Mojolicious-Plugin-Model-DB/issues/2
 Net-Connection-ncnetstat-0.4.1          130303
 Panda-XS-2.1.11                         130234,informally deprecated
+Date-4.0.0                              130323
+Catalyst-Model-Curio-0.02               https://github.com/bluefeet/Catalyst-Model-Curio/issues/1
+Math-FastGF2-0.05                       130325
