@@ -4938,3 +4938,4 @@ Analizo-1.23.0                          https://github.com/analizo/analizo/issue
 MooX-Purple-0.07                        130296
 Mojolicious-Plugin-Model-DB-0.09        https://github.com/lucas1/Mojolicious-Plugin-Model-DB/issues/2
 Net-Connection-ncnetstat-0.4.1          130303
+Panda-XS-2.1.11                         130234,informally deprecated
