@@ -4942,3 +4942,5 @@ Panda-XS-2.1.11                         130234,informally deprecated
 Date-4.0.0                              130323
 Catalyst-Model-Curio-0.02               https://github.com/bluefeet/Catalyst-Model-Curio/issues/1
 Math-FastGF2-0.05                       130325
+Crypt-OpenSSL-Base-Func-0.01            https://github.com/abbypan/Crypt-OpenSSL-Base-Func/issues/1
+Pherkin-Extension-Weasel-0.11           https://github.com/perl-weasel/pherkin-extension-weasel/issues/14
