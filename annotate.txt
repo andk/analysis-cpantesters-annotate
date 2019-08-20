@@ -4944,3 +4944,4 @@ Catalyst-Model-Curio-0.02               https://github.com/bluefeet/Catalyst-Mod
 Math-FastGF2-0.05                       130325
 Crypt-OpenSSL-Base-Func-0.01            https://github.com/abbypan/Crypt-OpenSSL-Base-Func/issues/1
 Pherkin-Extension-Weasel-0.11           https://github.com/perl-weasel/pherkin-extension-weasel/issues/14
+Types-Core-0.2.5                        130343
