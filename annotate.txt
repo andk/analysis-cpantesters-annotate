@@ -4946,3 +4946,5 @@ Crypt-OpenSSL-Base-Func-0.01            https://github.com/abbypan/Crypt-OpenSSL
 Pherkin-Extension-Weasel-0.11           https://github.com/perl-weasel/pherkin-extension-weasel/issues/14
 Types-Core-0.2.5                        130343
 Complete-Getopt-Long-0.471              130349
+Perinci-Exporter-0.081                  130351
+Language-Expr-0.29                      130352
