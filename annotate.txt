@@ -3916,7 +3916,7 @@ Catalyst-Plugin-Statsd-v0.4.0           https://github.com/robrwo/CatalystX-Stat
 Data-Sah-Coerce-perl-str-str_to_cryptoexchange_safename-0.003 127845
 Data-Sah-CoerceBundle-App-cryp-0.005    127845
 QWizard-3.15                            127846,121401
-App-diffdir-0.8                         127848,https://github.com/ivanwills/App-diffdir/issues/1
+App-diffdir-0.9                         127848,https://github.com/ivanwills/App-diffdir/issues/1
 Date-Manip-6.74                         127870
 Alien-nragent-0.05                      https://github.com/plicease/Alien-nragent/issues/1
 Config-Model-OpenSsh-1.240              https://github.com/dod38fr/config-model-openssh/issues/4
