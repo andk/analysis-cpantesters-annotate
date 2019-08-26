@@ -4952,3 +4952,4 @@ Net-Server-2.009                        126923
 WWW-YouTube-Info-0.06                   130363
 WWW-YouTube-Info-Simple-0.14            130364
 Lingua-JA-Romanize-Japanese-0.23        128303
+URI-tel-0.5                             130375
