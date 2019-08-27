@@ -3920,7 +3920,7 @@ App-diffdir-0.9                         127848,https://github.com/ivanwills/App-
 Date-Manip-6.74                         127870
 Alien-nragent-0.05                      https://github.com/plicease/Alien-nragent/issues/1
 Config-Model-OpenSsh-1.240              https://github.com/dod38fr/config-model-openssh/issues/4
-Glib-1.329                              127871
+Glib-1.3291                             127871
 Net-LibIDN2-1.00                        125440
 Alien-PCRE2-0.015000                    127872
 Compiler-Lexer-0.22                     https://github.com/goccy/p5-Compiler-Lexer/issues/68
