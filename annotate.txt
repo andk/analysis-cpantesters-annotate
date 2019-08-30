@@ -4182,7 +4182,7 @@ MojoX-JSON-RPC-0.11                     128542
 LCFG-Build-Tools-0.9.19                 128543
 URI-Title-1.901                         128544
 Term-Table2-1.0.1                       128539,128540,128541
-HTML-T5-0.005                           128548,128549
+HTML-T5-0.006                           128548,128549
 Convert-Base85-1.01                     128553
 Locale-Country-Extra-1.0.3              128040,https://github.com/binary-com/perl-Locale-Country-Extra/issues/16
 File-Signature-1.009                    128558
