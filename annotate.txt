@@ -3489,7 +3489,7 @@ Bio-PhyloXS-v0.1.0                      https://github.com/rvosa/bio-phylo-xs/is
 circle-fe-term-0.173170                 124848
 MogileFS-Server-2.73                    116633
 Text-Truncate-1.06                      98445,121150
-Devel-PerlySense-0.0220                 124853
+Devel-PerlySense-0.0220                 124853,130415
 ORLite-1.98                             123867,124854
 Git-ObjectStore-0.007                   https://github.com/ssinyagin/p5-Git-ObjectStore/issues/2
 Mojolicious-Plugin-GetSentry-1.1.4      124865
