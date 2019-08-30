@@ -3904,7 +3904,7 @@ Dist-Zilla-Plugin-LaunchpadPPA-0.1      127779
 Gtk2-1.24993                            127781,129710
 Tk-ExecuteCommand-1.6                   102434
 Pod-Tree-1.25                           https://github.com/szabgab/Pod-Tree/issues/8
-Algorithm-Cluster-1.58                  120442
+Algorithm-Cluster-1.59                  120442
 POE-Component-DirWatch-0.300004         127804
 Sys-HostIP-2.100                        https://github.com/xsawyerx/sys-hostip/issues/17
 Image-Scale-0.14                        119094
