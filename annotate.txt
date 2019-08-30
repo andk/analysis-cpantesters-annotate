@@ -3968,7 +3968,7 @@ App-iTan-1.07                           113160
 Config-Model-2.129                      https://github.com/dod38fr/config-model/issues/23
 DBIx-Class-EncodedColumn-Crypt-PBKDF2-0.000002 https://github.com/cngarrison/DBIx-Class-EncodedColumn-Crypt-PBKDF2/issues/1
 Devel-Size-0.82                         127931,127932
-Forks-Queue-0.09                        127933
+Forks-Queue-0.11                        127933
 Geo-SpatialDB-0.000_001                 out of memory, non-portable hex numbers, no issue tracker
 Log-Fine-0.65                           127936
 Mojo-Redis-Processor-0.07               https://github.com/binary-com/perl-Mojo-Redis-Processor/issues/9
