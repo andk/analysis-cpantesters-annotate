@@ -4955,3 +4955,4 @@ Lingua-JA-Romanize-Japanese-0.23        128303
 URI-tel-0.5                             130375
 BioPerl-1.7.6                           https://github.com/bioperl/bioperl-live/issues/323
 Config-Parser-1.03                      130396
+Unicode-Property-XS-0.81                48663
