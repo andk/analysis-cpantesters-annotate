@@ -4959,3 +4959,4 @@ Unicode-Property-XS-0.81                48663
 DBIx-Insert-Multi-0.002                 https://github.com/jplindstrom/p5-dbix-insert-multi/issues/1
 Perinci-Exporter-0.083                  130484
 Perinci-Sub-Complete-0.939              130485
+DBIx-Class-EncodedColumn-0.00017        130447
