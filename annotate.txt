@@ -4310,7 +4310,7 @@ Bio-DB-NCBIHelper-1.7.4                 https://github.com/bioperl/Bio-DB-NCBIHe
 Net-ACME-0.16                           128818
 Proc-Stat-0.02                          128819
 FB3-Convert-0.31                        128824
-Google-ProtocolBuffers-Dynamic-0.25     128703
+Google-ProtocolBuffers-Dynamic-0.26     128703
 Function-Interface-0.02                 https://github.com/kfly8/p5-Function-Interface/issues/2
 Arrays-Same-0.001                       128829
 Text-Util-Chinese-0.02                  128837
