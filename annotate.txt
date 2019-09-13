@@ -4960,3 +4960,5 @@ DBIx-Insert-Multi-0.002                 https://github.com/jplindstrom/p5-dbix-i
 Perinci-Sub-Complete-0.939              130485
 DBIx-Class-EncodedColumn-0.00017        130447
 Alien-Poppler-0.002                     130486
+App-Greple-8.3306                       https://github.com/kaz-utashiro/greple/issues/11
+Mail-Milter-Authentication-Extra-2.20180611 https://github.com/marcbradshaw/authentication_milter_extra/issues/2
