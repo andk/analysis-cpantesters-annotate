@@ -4962,3 +4962,4 @@ DBIx-Class-EncodedColumn-0.00017        130447
 Alien-Poppler-0.002                     130486
 App-Greple-8.3306                       https://github.com/kaz-utashiro/greple/issues/11
 Mail-Milter-Authentication-Extra-2.20180611 https://github.com/marcbradshaw/authentication_milter_extra/issues/2
+CSS-Sass-3.6.0                          https://github.com/sass/perl-libsass/issues/41
