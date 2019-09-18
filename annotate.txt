@@ -4967,3 +4967,4 @@ Class-Tiny-ConstrainedAccessor-0.000010 https://github.com/cxw42/Class-Tiny-Cons
 Config-AWS-0.06                         https://gitlab.com/jjatria/Config-AWS/issues/5
 DBIx-Class-EncodedColumn-0.00018        https://github.com/wreis/DBIx-Class-EncodedColumn/issues/14
 yagg-1.4012                             130526
+Applify-0.18                            https://github.com/jhthorsen/applify/issues/25
