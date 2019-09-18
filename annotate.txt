@@ -4966,3 +4966,4 @@ CSS-Sass-3.6.0                          https://github.com/sass/perl-libsass/iss
 Class-Tiny-ConstrainedAccessor-0.000010 https://github.com/cxw42/Class-Tiny-ConstrainedAccessor/issues/6
 Config-AWS-0.06                         https://gitlab.com/jjatria/Config-AWS/issues/5
 DBIx-Class-EncodedColumn-0.00018        https://github.com/wreis/DBIx-Class-EncodedColumn/issues/14
+yagg-1.4012                             130526
