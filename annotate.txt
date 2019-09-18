@@ -4969,3 +4969,4 @@ DBIx-Class-EncodedColumn-0.00018        https://github.com/wreis/DBIx-Class-Enco
 yagg-1.4012                             130526
 Applify-0.18                            https://github.com/jhthorsen/applify/issues/25
 MojoX-Log-Log4perl-0.11                 130499
+Type-Tiny-XS-0.016                      130458
