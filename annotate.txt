@@ -4970,3 +4970,5 @@ yagg-1.4012                             130526
 Applify-0.18                            https://github.com/jhthorsen/applify/issues/25
 MojoX-Log-Log4perl-0.11                 130499
 Type-Tiny-XS-0.016                      130458
+Toadfarm-0.81                           https://github.com/jhthorsen/toadfarm/issues/30
+MS-0.008                                130535
