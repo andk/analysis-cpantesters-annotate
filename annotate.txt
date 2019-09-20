@@ -4974,3 +4974,4 @@ Toadfarm-0.81                           https://github.com/jhthorsen/toadfarm/is
 MS-0.008                                130535
 Mojolicious-Plugin-Syslog-0.02          https://github.com/jhthorsen/mojolicious-plugin-syslog/issues/1
 Test-BDD-Cucumber-0.64                  https://github.com/pherkin/test-bdd-cucumber-perl/issues/155
+Catmandu-SRU-0.425                      https://github.com/LibreCat/Catmandu-SRU/issues/41
