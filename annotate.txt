@@ -4983,3 +4983,4 @@ Net-Curl-0.41                           https://github.com/sparky/perl-Net-Curl/
 MooseX-Getopt-Usage-0.24                https://github.com/markpitchless/moosex-getopt-usage/issues/15
 POE-Component-FunctionBus-0.02          130569
 Test-BDD-Cucumber-0.660002-TRIAL        https://github.com/pherkin/test-bdd-cucumber-perl/issues/158
+BioPerl-1.7.6                           https://github.com/bioperl/bioperl-live/issues/326
