@@ -4986,3 +4986,4 @@ Test-BDD-Cucumber-0.660002-TRIAL        https://github.com/pherkin/test-bdd-cucu
 BioPerl-1.7.6                           https://github.com/bioperl/bioperl-live/issues/326
 Tapper-Reports-DPath-5.0.2              130580
 WWW-Search-Ebay-3.054                   130584
+Log-Handler-Plugin-DBI-1.02             130590
