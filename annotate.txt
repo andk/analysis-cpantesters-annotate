@@ -4987,3 +4987,4 @@ BioPerl-1.7.6                           https://github.com/bioperl/bioperl-live/
 Tapper-Reports-DPath-5.0.2              130580
 WWW-Search-Ebay-3.054                   130584
 Log-Handler-Plugin-DBI-1.02             130590
+Sah-Schemas-CryptoCurrency-0.011        130592
