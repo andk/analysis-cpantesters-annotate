@@ -4993,3 +4993,4 @@ App-Dest-1.23                           https://github.com/gryphonshafer/dest/is
 Data-Dump-JavaScript-0.001              130608
 Mojo-Promise-Role-Repeat-0.001          130609
 Mojo-UserAgent-Role-PromiseClass-0.001  130610
+Date-LastModified-0.60                  130611
