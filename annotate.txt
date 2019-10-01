@@ -4988,3 +4988,8 @@ Tapper-Reports-DPath-5.0.2              130580
 WWW-Search-Ebay-3.054                   130584
 Log-Handler-Plugin-DBI-1.02             130590
 Sah-Schemas-CryptoCurrency-0.011        130592
+Finance-BlockIO-0.02                    130593
+App-Dest-1.23                           https://github.com/gryphonshafer/dest/issues/15
+Data-Dump-JavaScript-0.001              130608
+Mojo-Promise-Role-Repeat-0.001          130609
+Mojo-UserAgent-Role-PromiseClass-0.001  130610
