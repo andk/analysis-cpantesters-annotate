@@ -4994,3 +4994,4 @@ Data-Dump-JavaScript-0.001              130608
 Mojo-Promise-Role-Repeat-0.001          130609
 Mojo-UserAgent-Role-PromiseClass-0.001  130610
 Date-LastModified-0.60                  130611
+Device-ScanShare-1.014                  130620
