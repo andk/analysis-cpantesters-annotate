@@ -4998,3 +4998,4 @@ Device-ScanShare-1.014                  130620
 Net-DRI-0.96_13                         130631
 Devel-Declare-0.006019                  130637
 Tk-804.034                              130638
+Mail-Toaster-5.54                       https://github.com/msimerson/Mail-Toaster/issues/12
