@@ -5005,3 +5005,5 @@ Geo-OLC-1                               130624
 AnyEvent-Future-0.04                    130632
 HTTP-Daemon-Threaded-0.91               130633,130634
 PDF-TextBlock-0.08                      130635
+Mousse-0.15                             130649
+Devel-Cover-1.33                        https://rt.perl.org/Public/Bug/Display.html?id=134475
