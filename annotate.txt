@@ -5013,3 +5013,4 @@ POE-1.367                               130664
 Excel-Template-XLSX-v1.0.8              130666
 Test-Expr-0.000009                      130667
 SQL-Abstract-1.90_01                    130684
+MooseX-Getopt-Defanged-v1.18.0          130694
