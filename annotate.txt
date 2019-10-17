@@ -5015,3 +5015,6 @@ Test-Expr-0.000009                      130667
 SQL-Abstract-1.90_01                    130684
 MooseX-Getopt-Defanged-v1.18.0          130694
 Attean-0.024                            https://github.com/kasei/attean/issues/141
+CryptX-0.064                            130720
+Math-BigInt-Lite-0.18                   130720
+Math-Counting-0.1305                    130720
