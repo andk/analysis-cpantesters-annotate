@@ -5012,7 +5012,7 @@ Scalar-Random-PP-0.11                   130657
 POE-1.367                               130664
 Excel-Template-XLSX-v1.0.8              130666
 Test-Expr-0.000009                      130667
-SQL-Abstract-1.90_01                    130684
+SQL-Abstract-1.90_03                    130684
 MooseX-Getopt-Defanged-v1.18.0          130694
 Attean-0.024                            https://github.com/kasei/attean/issues/141
 CryptX-0.064                            130720
