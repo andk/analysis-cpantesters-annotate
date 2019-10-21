@@ -5026,4 +5026,4 @@ HTTP-Request-FromCurl-0.13              130755
 Mnet-5.09                               130756,130758
 MooseX-Role-XMLRPC-Client-0.06          https://github.com/rsrchboy/moosex-role-xmlrpc-client/issues/2
 Music-Duration-Partition-0.0103         130757
-XML-NewsML_G2-0.3.0                     https://github.com/apa-it/xml-newsml-g2/issues/2
+XML-NewsML_G2-v0.3.1                    https://github.com/apa-it/xml-newsml-g2/issues/3
