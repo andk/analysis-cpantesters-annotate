@@ -5031,3 +5031,5 @@ obogaf-parser-1.001                     130769
 CayleyDickson-0.01                      130770
 Text-Layout-0.012                       130772
 App-Dest-1.26                           https://github.com/gryphonshafer/dest/issues/17
+Mojolicious-Command-bcrypt-0.02         https://github.com/srchulo/Mojolicious-Command-bcrypt/issues/2
+Math-Counting-0.1306                    130743
