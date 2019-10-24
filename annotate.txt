@@ -5033,3 +5033,5 @@ App-Dest-1.26                           https://github.com/gryphonshafer/dest/is
 Mojolicious-Command-bcrypt-0.02         https://github.com/srchulo/Mojolicious-Command-bcrypt/issues/2
 Math-Counting-0.1306                    130743
 Slovo-2019.09.19                        https://github.com/kberov/Slovo/issues/28
+MooX-Options-4.103                      130811
+Math-BigInt-Lite-0.19                   130814
