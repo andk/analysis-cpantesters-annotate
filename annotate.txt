@@ -5020,7 +5020,7 @@ Math-Counting-0.1305                    130720
 Music-BachChoralHarmony-0.0402          130744
 AnyEvent-Discord-Client-0.000002        130752
 App-Dest-1.25                           https://github.com/gryphonshafer/dest/issues/16
-Dist-Zilla-Plugin-Test-Perl-Critic-Subset-3.001.000 130754
+Dist-Zilla-Plugin-Test-Perl-Critic-Subset-3.001.003 130754
 HTTP-Request-FromCurl-0.13              130755
 Mnet-5.09                               130756,130758
 MooseX-Role-XMLRPC-Client-0.06          https://github.com/rsrchboy/moosex-role-xmlrpc-client/issues/2
