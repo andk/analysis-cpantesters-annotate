@@ -3778,7 +3778,6 @@ CPAN-Mini-Extract-1.23                  probably temporary network/webservice pr
 Tk-MARC-1.5                             127487
 App-Validation-Automation-0.02          113159,127490
 OpusVL-Preferences-0.33                 https://github.com/OpusVL/OpusVL-Preferences/issues/1
-Slovo-2018.10.16                        https://github.com/kberov/Slovo/issues/14
 Anego-0.02                              https://github.com/papix/Anego/issues/5
 AnyEvent-Net-Amazon-S3-v0.04.0.80       127494
 Dist-Zilla-PluginBundle-QBit-0.8        127495
@@ -5033,3 +5032,4 @@ Text-Layout-0.012                       130772
 App-Dest-1.26                           https://github.com/gryphonshafer/dest/issues/17
 Mojolicious-Command-bcrypt-0.02         https://github.com/srchulo/Mojolicious-Command-bcrypt/issues/2
 Math-Counting-0.1306                    130743
+Slovo-2019.09.19                        https://github.com/kberov/Slovo/issues/28
