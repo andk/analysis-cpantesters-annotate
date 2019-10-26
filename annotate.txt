@@ -4024,7 +4024,7 @@ HPCI-0.75                               127826,124695,120461
 App-git-ship-0.30                       https://github.com/jhthorsen/app-git-ship/issues/19
 Net-SSLeay-1.86_07                      128025
 Test-OnlySome-0.001002-TRIAL            128027
-App-perlbrew-0.85                       125066
+App-perlbrew-0.87                       125066
 HTTP-Request-Generator-0.03             128032
 Date-Holidays-BY-0.2019.0               128036
 Sah-Schemas-Domain-0.001                128037
