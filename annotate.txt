@@ -5035,3 +5035,4 @@ Math-Counting-0.1306                    130743
 Slovo-2019.09.19                        https://github.com/kberov/Slovo/issues/28
 MooX-Options-4.103                      130811
 Math-BigInt-Lite-0.19                   130814
+Azure-Storage-Blob-Client-0.05          https://github.com/ureesoriano/Azure-Storage-Blob-Client/issues/7
