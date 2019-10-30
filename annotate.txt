@@ -5037,7 +5037,7 @@ MooX-Options-4.103                      130811
 Math-BigInt-Lite-0.19                   130814
 Azure-Storage-Blob-Client-0.05          https://github.com/ureesoriano/Azure-Storage-Blob-Client/issues/7
 JSON-Eval-0.001                         130828
-Perl-RT2Github-0.01                     130835
+Perl-RT2Github-0.03                     130835
 Dancer2-Plugin-WebService-4.2.1         130836
 Data-NFA-20191030                       130837
 Yandex-Disk-0.06                        https://github.com/vrag86/perl-yandex-disk-api/issues/8
