@@ -3732,7 +3732,6 @@ WWW-Shopify-Liquid-0.08                 127306
 DataTables-0.07                         127254
 WebService-Mattermost-0.001             127323
 Perinci-Sub-GetArgs-Argv-0.840          127324
-Perinci-CmdLine-Inline-0.544            124858
 Filesys-POSIX-0.9.19                    127334
 Hetula-Client-0.007                     https://github.com/kivilahtio/libhetula-client-perl/issues/3
 Net-SMTP-Verify-1.04                    125600
@@ -5042,3 +5041,4 @@ Dancer2-Plugin-WebService-4.2.1         130836
 Data-NFA-20191030                       130837
 Yandex-Disk-0.06                        https://github.com/vrag86/perl-yandex-disk-api/issues/8
 Dir-Flock-0.03                          130861
+Perinci-CmdLine-Inline-0.545            127175
