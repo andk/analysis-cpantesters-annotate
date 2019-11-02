@@ -5051,3 +5051,5 @@ Bot-BasicBot-Pluggable-Module-SimpleBlog-0.02 130877
 Finance-YahooJPN-QuoteDetail-0.01       130878
 Time-Zone-Olson-0.26                    130880
 Net-Domain-ExpireDate-1.19              130738
+Lingua-Metadata-0.005                   130883
+Pod-WordML-0.164                        https://github.com/briandfoy/pod-wordml/issues/2
