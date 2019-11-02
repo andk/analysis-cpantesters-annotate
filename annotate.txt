@@ -5055,3 +5055,4 @@ Lingua-Metadata-0.005                   130883
 Pod-WordML-0.164                        https://github.com/briandfoy/pod-wordml/issues/2
 Devel-Trepan-v1.0.0                     https://github.com/rocky/Perl-Devel-Trepan/issues/51
 Finance-Currency-Convert-BI-0.063       130884
+Catalyst-Helper-AuthDBIC-0.17           62844
