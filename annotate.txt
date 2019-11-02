@@ -5044,3 +5044,4 @@ Dir-Flock-0.03                          130861
 Perinci-CmdLine-Inline-0.545            127175
 Data-DFA-20191031                       130872,130873
 Net-SecurityCenter-0.203                130874
+Azure-Storage-Blob-Client-0.05          https://github.com/ureesoriano/Azure-Storage-Blob-Client/issues/7
