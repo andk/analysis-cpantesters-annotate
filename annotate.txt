@@ -5045,3 +5045,7 @@ Perinci-CmdLine-Inline-0.545            127175
 Data-DFA-20191031                       130872,130873
 Net-SecurityCenter-0.203                130874
 HTTP-Date-6.02                          130875
+XML-SAXDriver-CSV-0.07                  341
+Parse-Vipar-0.01                        130876
+Bot-BasicBot-Pluggable-Module-SimpleBlog-0.02 130877
+Finance-YahooJPN-QuoteDetail-0.01       130878
