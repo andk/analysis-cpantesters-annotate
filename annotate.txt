@@ -5053,3 +5053,5 @@ Time-Zone-Olson-0.26                    130880
 Net-Domain-ExpireDate-1.19              130738
 Lingua-Metadata-0.005                   130883
 Pod-WordML-0.164                        https://github.com/briandfoy/pod-wordml/issues/2
+Devel-Trepan-v1.0.0                     https://github.com/rocky/Perl-Devel-Trepan/issues/51
+Finance-Currency-Convert-BI-0.063       130884
