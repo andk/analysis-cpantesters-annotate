@@ -5057,3 +5057,5 @@ Devel-Trepan-v1.0.0                     https://github.com/rocky/Perl-Devel-Trep
 Finance-Currency-Convert-BI-0.063       130884
 Catalyst-Helper-AuthDBIC-0.17           62844
 Catmandu-MAB2-0.22                      https://github.com/jorol/Catmandu-MAB2/issues/12,https://github.com/jorol/Catmandu-MAB2/issues/13
+Protocol-Redis-XS-0.06                  https://github.com/dgl/protocol-redis-xs/issues/7
+Test-Applify-0.06                       https://github.com/kiwiroy/perl5-Test-Applify/issues/5
