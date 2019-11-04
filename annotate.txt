@@ -5060,3 +5060,5 @@ Catmandu-MAB2-0.22                      https://github.com/jorol/Catmandu-MAB2/i
 Protocol-Redis-XS-0.06                  https://github.com/dgl/protocol-redis-xs/issues/7
 Test-Applify-0.06                       https://github.com/kiwiroy/perl5-Test-Applify/issues/5
 Net-Ifconfig-Wrapper-0.16               130888
+MojoX-Log-Any-0.005                     https://gitlab.com/jjatria/MojoX-Log-Any/issues/1
+Config-ENV-Multi-0.04                   https://github.com/hixi-hyi/p5-Config-ENV-Multi/issues/4
