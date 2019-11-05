@@ -5065,3 +5065,7 @@ Config-ENV-Multi-0.04                   https://github.com/hixi-hyi/p5-Config-EN
 Debug-Filter-PrintExpr-0.10             https://github.com/jo-37/debug-filter-printexpr/issues/2
 Mojolicious-Plugin-LinkedContent-0.07   https://github.com/yko/mojolicious-plugin-linkedcontent/issues/5
 MojoX-JSON-RPC-Service-AutoRegister-0.001 https://github.com/IntelliHome/MojoX-JSON-RPC-Service-AutoRegister/issues/2,https://github.com/IntelliHome/MojoX-JSON-RPC-Service-AutoRegister/issues/3
+Redis-Dump-0.016                        130906
+Data-Transform-SAXBuilder-0.05          130907
+Term-Menus-FromFile-1.0.0               130908
+MooX-Press-0.010                        130909
