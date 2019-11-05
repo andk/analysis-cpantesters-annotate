@@ -5064,3 +5064,4 @@ MojoX-Log-Any-0.005                     https://gitlab.com/jjatria/MojoX-Log-Any
 Config-ENV-Multi-0.04                   https://github.com/hixi-hyi/p5-Config-ENV-Multi/issues/4
 Debug-Filter-PrintExpr-0.10             https://github.com/jo-37/debug-filter-printexpr/issues/2
 Mojolicious-Plugin-LinkedContent-0.07   https://github.com/yko/mojolicious-plugin-linkedcontent/issues/5
+MojoX-JSON-RPC-Service-AutoRegister-0.001 https://github.com/IntelliHome/MojoX-JSON-RPC-Service-AutoRegister/issues/2,https://github.com/IntelliHome/MojoX-JSON-RPC-Service-AutoRegister/issues/3
