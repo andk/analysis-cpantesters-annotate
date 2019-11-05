@@ -5062,3 +5062,5 @@ Test-Applify-0.06                       https://github.com/kiwiroy/perl5-Test-Ap
 Net-Ifconfig-Wrapper-0.16               130888
 MojoX-Log-Any-0.005                     https://gitlab.com/jjatria/MojoX-Log-Any/issues/1
 Config-ENV-Multi-0.04                   https://github.com/hixi-hyi/p5-Config-ENV-Multi/issues/4
+Debug-Filter-PrintExpr-0.10             https://github.com/jo-37/debug-filter-printexpr/issues/2
+Mojolicious-Plugin-LinkedContent-0.07   https://github.com/yko/mojolicious-plugin-linkedcontent/issues/5
