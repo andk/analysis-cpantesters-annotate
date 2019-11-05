@@ -5071,3 +5071,6 @@ Term-Menus-FromFile-1.0.0               130908
 MooX-Press-0.010                        130909
 WebService-FreeDB-0.79                  73496
 Net-Moo-0.11                            79281
+bitflag-0.01                            130910
+Test-Numeric-0.3                        106234
+Thread-App-Shutdown-0.10                130911
