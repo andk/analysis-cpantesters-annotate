@@ -5081,3 +5081,9 @@ XML-XSH2-2.2.4                          130915
 Devel-MojoProf-0.03                     https://github.com/jhthorsen/devel-mojoprof/issues/1
 XML-Char-0.03                           https://github.com/jozef/XML-Char/issues/3
 Astro-ADS-1.26                          130916
+AnyEvent-DNS-Cache-Simple-0.01          https://github.com/kazeburo/AnyEvent-DNS-Cache-Simple/issues/1
+punctuation-0.02                        130920
+Purple-1.4                              130921
+Quiq-1.163                              130922
+Data-DFA-20191105                       130923
+Bio-VertRes-Config-1.133090             130924
