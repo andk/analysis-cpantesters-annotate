@@ -5075,3 +5075,5 @@ bitflag-0.01                            130910
 Test-Numeric-0.3                        106234
 Thread-App-Shutdown-0.10                130911
 Excel-Template-XLSX-v1.0.9              130912
+Data-Table-Text-20191105                130913
+IO-Async-0.74                           130057
