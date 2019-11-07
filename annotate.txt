@@ -5087,3 +5087,6 @@ Purple-1.4                              130921
 Quiq-1.163                              130922
 Data-DFA-20191105                       130923
 Bio-VertRes-Config-1.133090             130924
+IS-Init-0.93                            130925
+Connector-1.28                          130938
+XML-NewsML_G2-v0.3.2                    https://github.com/apa-it/xml-newsml-g2/issues/4
