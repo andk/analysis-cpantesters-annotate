@@ -655,7 +655,7 @@ Memory-Leak-Hunter-0.02                 100398
 Test-FileReferenced-0.02                https://github.com/Test-More/test-more/issues/500
 Devel-SmallProf-2.02                    98192
 Device-WH1091-0.03                      100466
-Data-Reuse-0.10                         100461
+Data-Reuse-0.11                         100461
 Test-Name-FromLine-0.13                 https://github.com/Test-More/test-more/issues/502
 B-Utils-0.25                            https://rt.perl.org/Ticket/Display.html?id=123281
 Data-File-Map-0.09                      100541
