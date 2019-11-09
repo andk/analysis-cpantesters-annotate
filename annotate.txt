@@ -5095,3 +5095,4 @@ Net-AMQP-RabbitMQ-2.40004               https://github.com/net-amqp-rabbitmq/net
 Archive-Zip-SimpleZip-0.029             https://github.com/pmqs/Archive-Zip-SimpleZip/issues/7
 Data-DFA-20191109                       130944
 XML-XQL-0.68                            57221
+Bot-BasicBot-Pluggable-Module-Pastebin-0.01 130945
