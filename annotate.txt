@@ -4079,7 +4079,7 @@ Colon-Config-0.004                      https://github.com/atoomic/Colon-Config/
 Mojolicious-Plugin-Piwik-0.26_1         https://github.com/Akron/Mojolicious-Plugin-Piwik/issues/2
 DBIx-TableLoader-1.100                  128131
 Class-DBI-Plugin-Type-0.02              7610,128135
-Connector-1.27                          123001
+Connector-1.28                          123001,130938
 Dancer2-Plugin-Auth-Extensible-Provider-DBIC-0.623 https://github.com/ctrlo/Dancer2-Plugin-Auth-Extensible-Provider-DBIC/issues/18
 DBIx-OnlineDDL-0.90                     https://github.com/GrantStreetGroup/DBIx-OnlineDDL/issues/1,https://github.com/GrantStreetGroup/DBIx-OnlineDDL/issues/2
 Brick-0.228                             https://github.com/briandfoy/brick/issues/5
@@ -5088,7 +5088,6 @@ Quiq-1.163                              130922
 Data-DFA-20191105                       130923
 Bio-VertRes-Config-1.133090             130924
 IS-Init-0.93                            130925
-Connector-1.28                          130938
 XML-NewsML_G2-v0.3.2                    https://github.com/apa-it/xml-newsml-g2/issues/4
 Data-Validate-MySQL-0.03                130943
 Net-AMQP-RabbitMQ-2.40004               https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq/issues/183
