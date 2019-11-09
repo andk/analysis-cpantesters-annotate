@@ -2580,7 +2580,7 @@ Method-Signatures-WithDocumentation-1.000 https://github.com/zurborg/libmethod-s
 WWW-HatenaStar-0.04                     76449
 Strehler-1.6.8                          118678
 Math-Derivative_XS-0.02                 118685
-Thread-Queue-Any-1.14                   118686
+Thread-Queue-Any-1.15                   118686
 XML-miniXQL-0.04                        118699
 XML-Node-0.11                           27573
 Socket-Multicast6-0.04                  118736
