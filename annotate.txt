@@ -4071,7 +4071,7 @@ HTTP-Server-Simple-0.52                 96086
 MooX-late-0.015                         124054
 Dancer-1.3500                           https://github.com/PerlDancer/Dancer/issues/1203
 HTML-Tidy5-1.06                         https://github.com/petdance/html-tidy5/issues/11
-Math-GSL-0.40                           https://github.com/leto/math--gsl/issues/166
+Math-GSL-0.40                           https://github.com/leto/math--gsl/issues/166,https://github.com/leto/math--gsl/issues/168
 Statistics-Lmoments-0.04                128109
 Vim-X-1.3.0                             https://github.com/yanick/Vim-X/issues/4
 MySQL-Workbench-DBIC-1.13               https://github.com/reneeb/MySQL-Workbench-DBIC/issues/11
