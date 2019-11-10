@@ -5091,7 +5091,7 @@ IS-Init-0.93                            130925
 XML-NewsML_G2-v0.3.2                    https://github.com/apa-it/xml-newsml-g2/issues/4
 Data-Validate-MySQL-0.03                130943
 Net-AMQP-RabbitMQ-2.40004               https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq/issues/183
-Archive-Zip-SimpleZip-0.029             https://github.com/pmqs/Archive-Zip-SimpleZip/issues/7
+Archive-Zip-SimpleZip-0.030             https://github.com/pmqs/Archive-Zip-SimpleZip/issues/7
 Data-DFA-20191109                       130944
 XML-XQL-0.68                            57221
 Bot-BasicBot-Pluggable-Module-Pastebin-0.01 130945
