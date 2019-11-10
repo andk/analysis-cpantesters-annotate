@@ -888,7 +888,7 @@ CGI-QuickForm-1.93                      107703
 Dancer2-Plugin-RoutePodCoverage-0.071   https://github.com/drebolo/Dancer2-Plugin-RoutePodCoverage/issues/1
 Convos-0.8604                           https://github.com/Nordaaker/convos/issues/247
 Filesys-DfPortable-0.85                 https://rt.perl.org/rt3/Ticket/Display.html?id=126368
-Graph-Writer-TGXML-0.01                 107835
+Graph-Writer-TGXML-0.02                 107835
 Kwiki-Attachments-0.21                  104977
 Time-HiRes-Value-0.08                   105451
 Chimaera-Matcher-1.01                   107892
