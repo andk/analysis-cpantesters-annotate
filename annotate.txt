@@ -504,7 +504,7 @@ Enbugger-2.016                          95079
 IO-Pty-Easy-0.09                        95702
 Embperl-2.5.0                           95335
 Test-DBICSchemaLoaderDigest-0.04        https://github.com/RsrchBoy/test-dbicschemaloaderdigest/issues/2
-ifdef-0.09                              95772 (needs more work)
+ifdef-0.10                              95772 (needs more work)
 Parse-Selenese-0.006                    95655
 overload-eval-0.10                      95269
 ensure-1.10                             95312
