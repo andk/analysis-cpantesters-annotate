@@ -5095,4 +5095,4 @@ Archive-Zip-SimpleZip-0.030             https://github.com/pmqs/Archive-Zip-Simp
 Data-DFA-20191110                       130944
 XML-XQL-0.68                            57221
 Bot-BasicBot-Pluggable-Module-Pastebin-0.01 130945
-Parser-LR-20191109                      130946
+Parser-LR-20191110                      130946
