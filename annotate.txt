@@ -4863,7 +4863,7 @@ Fsdb-2.67                               130112
 Log-Handler-0.88                        125842
 LWP-Protocol-Net-Curl-0.025             https://github.com/creaktive/LWP-Protocol-Net-Curl/issues/15
 Map-Tube-Bielefeld-2019.0718            130113
-AnyEvent-7.16                           130115,130116
+AnyEvent-7.17                           130115
 Net-Connection-Match-0.2.0              130117
 Quiq-1.151                              130118
 Sah-Schemas-Date-0.003                  130119
