@@ -1527,7 +1527,7 @@ Lingua-Stem-Any-0.05                    https://github.com/patch/lingua-stem-any
 MooX-Role-Chatty-1.01                   112680
 Gcode-Interpreter-1.0.1                 112734
 Bio-MaxQuant-Evidence-Statistics-0.01   112735
-Bro-Log-Parse-0.07                      https://github.com/0xxon/perl-bro-log-parse/issues/1
+Zeek-Log-Parse-0.08                     https://github.com/0xxon/perl-zeek-log-parse/issues/1
 Date-EzDate-1.16                        112737
 DateLocale-1.40                         112738
 Hessian-Translator-1.06                 112740
