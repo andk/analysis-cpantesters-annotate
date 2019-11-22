@@ -5102,3 +5102,5 @@ RT-ClientX-GrabBugs-0.004               130974
 Thread-Needs-0.06                       130975
 unconstant-0.08                         130998
 WWW-Mechanize-Cached-GZip-0.12          125499
+MsgPack-Raw-0.04                        https://github.com/jacquesg/p5-MsgPack-Raw/issues/1
+Fsdb-2.69                               131046
