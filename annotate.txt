@@ -5105,3 +5105,4 @@ WWW-Mechanize-Cached-GZip-0.12          125499
 MsgPack-Raw-0.04                        https://github.com/jacquesg/p5-MsgPack-Raw/issues/1
 Fsdb-2.69                               131046
 FunctionalPerl-0.72.9                   131073
+Raisin-0.88                             https://github.com/khrt/Raisin/issues/93
