@@ -5107,3 +5107,4 @@ Fsdb-2.69                               131046
 FunctionalPerl-0.72.9                   131073
 Raisin-0.88                             https://github.com/khrt/Raisin/issues/93
 MooseX-Enumeration-0.009                131074
+Yancy-Backend-Static-0.011              https://github.com/preaction/Yancy-Backend-Static/issues/10
