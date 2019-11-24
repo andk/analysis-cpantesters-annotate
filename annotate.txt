@@ -5106,3 +5106,4 @@ MsgPack-Raw-0.04                        https://github.com/jacquesg/p5-MsgPack-R
 Fsdb-2.69                               131046
 FunctionalPerl-0.72.9                   131073
 Raisin-0.88                             https://github.com/khrt/Raisin/issues/93
+MooseX-Enumeration-0.009                131074
