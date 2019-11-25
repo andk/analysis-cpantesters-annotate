@@ -3899,7 +3899,7 @@ Perl-Critic-Pulp-96                     127777
 Catmandu-Inspire-0.265                  https://github.com/LibreCat/Catmandu-Inspire/issues/4
 Test-Aggregate-0.375                    100035
 Dist-Zilla-Plugin-LaunchpadPPA-0.1      127779
-Gtk2-1.24993                            127781,129710
+Gtk2-1.24993                            127781,129710,130742
 Tk-ExecuteCommand-1.6                   102434
 Pod-Tree-1.25                           https://github.com/szabgab/Pod-Tree/issues/8
 Algorithm-Cluster-1.59                  120442
