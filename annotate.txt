@@ -5110,3 +5110,4 @@ MooseX-Enumeration-0.009                131074
 Yancy-Backend-Static-0.011              https://github.com/preaction/Yancy-Backend-Static/issues/10
 FunctionalPerl-0.72.10                  131081
 Markdown-Pod-0.007                      https://github.com/keedi/Markdown-Pod/issues/13
+FunctionalPerl-0.72.11                  131090
