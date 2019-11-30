@@ -4600,7 +4600,7 @@ Algorithm-LibLinear-0.20                129301
 Algorithm-MinPerfHashTwoLevel-0.05      https://github.com/demerphq/Algorithm-MinPerfHashTwoLevel/issues/3
 Plack-Middleware-Matomo-0.03            https://github.com/vpeil/Plack-Middleware-Matomo/issues/2
 Hailo-0.75                              127838,129308
-RocksDB-0.05                            https://github.com/spiritloose/RocksDB/issues/6
+RocksDB-0.05                            https://github.com/spiritloose/RocksDB/issues/6,https://github.com/spiritloose/RocksDB/issues/3
 LWP-Protocol-Net-Curl-0.023             https://github.com/creaktive/LWP-Protocol-Net-Curl/issues/14
 Device-BusPirate-0.18                   129316
 PPIx-Utils-0.002                        https://github.com/Grinnz/PPIx-Utils/issues/2
