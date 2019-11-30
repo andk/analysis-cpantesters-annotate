@@ -5120,3 +5120,5 @@ Sah-Schemas-Color-0.004                 131106
 Sah-Schemas-DataSizeSpeed-0.003         131107
 Sah-Schemas-Perl-0.024                  131108
 Data-Sah-Coerce-perl-To_duration-From_str-Alami_EN-0.006 131112
+Devel-CoreDump-0.02                     131116
+IPC-Run-20180523.0                      https://github.com/toddr/IPC-Run/issues/130
