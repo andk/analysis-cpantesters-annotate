@@ -502,7 +502,7 @@ OAuth2-Google-Plus-0.03                 90368
 Catalyst-Controller-SOAP-1.25           95327
 Enbugger-2.016                          95079
 IO-Pty-Easy-0.09                        95702
-Embperl-2.5.0                           95335
+Embperl-2.5.0                           95335,110023,115102,123230
 Test-DBICSchemaLoaderDigest-0.04        https://github.com/RsrchBoy/test-dbicschemaloaderdigest/issues/2
 ifdef-0.10                              95772 (needs more work)
 Parse-Selenese-0.006                    95655
