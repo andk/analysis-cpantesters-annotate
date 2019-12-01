@@ -4235,7 +4235,7 @@ NetSNMP-default_store-5.0404            88144
 Ceph-Rados-0.12                         128701
 GD-Graph-radar-0.1103                   128702
 PiFlash-0.2.0                           128704
-Ithumb-XS-v0.2.1                        128706
+Ithumb-XS-v0.3.0                        128706
 Audio-LADSPA-0.021                      53891
 Business-OnlinePayment-IATSPayments-0.02 128708
 Cvs-0.07                                128709
