@@ -5131,3 +5131,4 @@ Dir-Flock-0.04                          131138
 Mojolicious-Plugin-OpenAPI-2.19         https://outlook.live.com/mail/0/inbox
 PDL-Graphics-Gnuplot-2.012              131139
 Util-Medley-0.019                       131140
+Mojo-SOAP-Client-0.1.0                  https://github.com/oposs/mojo-soap-client/issues/1,https://github.com/oposs/mojo-soap-client/issues/2,https://github.com/oposs/mojo-soap-client/issues/3
