@@ -5130,3 +5130,4 @@ Chart-Plotly-0.033                      https://github.com/pablrod/p5-Chart-Plot
 Dir-Flock-0.04                          131138
 Mojolicious-Plugin-OpenAPI-2.19         https://outlook.live.com/mail/0/inbox
 PDL-Graphics-Gnuplot-2.012              131139
+Util-Medley-0.019                       131140
