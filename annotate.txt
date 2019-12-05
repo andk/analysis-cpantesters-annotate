@@ -5127,3 +5127,6 @@ Archive-Zip-SimpleZip-0.033             https://github.com/pmqs/Archive-Zip-Simp
 Bio-Procedural-1.7.4                    https://github.com/bioperl/Bio-Procedural/issues/3
 Data-RecordStore-6.00                   131136,https://gitlab.com/coyocanid/objectstore/issues/1
 Chart-Plotly-0.033                      https://github.com/pablrod/p5-Chart-Plotly/issues/42
+Dir-Flock-0.04                          131138
+Mojolicious-Plugin-OpenAPI-2.19         https://outlook.live.com/mail/0/inbox
+PDL-Graphics-Gnuplot-2.012              131139
