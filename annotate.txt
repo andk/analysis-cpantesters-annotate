@@ -5123,3 +5123,7 @@ Data-Sah-Coerce-perl-To_duration-From_str-Alami_EN-0.006 131112
 Devel-CoreDump-0.02                     131116
 IPC-Run-20180523.0                      https://github.com/toddr/IPC-Run/issues/130
 Linux-Inotify2-2.1                      130646
+Archive-Zip-SimpleZip-0.033             https://github.com/pmqs/Archive-Zip-SimpleZip/issues/11
+Bio-Procedural-1.7.4                    https://github.com/bioperl/Bio-Procedural/issues/3
+Data-RecordStore-6.00                   131136,https://gitlab.com/coyocanid/objectstore/issues/1
+Chart-Plotly-0.033                      https://github.com/pablrod/p5-Chart-Plotly/issues/42
