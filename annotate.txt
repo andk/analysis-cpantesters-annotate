@@ -5135,3 +5135,4 @@ Mojo-SOAP-Client-0.1.0                  https://github.com/oposs/mojo-soap-clien
 Crypt-MagicSignatures-Key-0.21          130890
 Statocles-0.096                         https://github.com/preaction/Statocles/issues/595,https://github.com/preaction/Statocles/issues/596
 Devel-Trepan-Disassemble-v2.0.2         https://github.com/Perl/perl5/issues/17350,https://github.com/rocky/Perl-Devel-Trepan-Disassemble/issues/1
+MooseX-MultiObject-0.03                 131150
