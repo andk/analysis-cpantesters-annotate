@@ -5138,3 +5138,5 @@ Devel-Trepan-Disassemble-v2.0.2         https://github.com/Perl/perl5/issues/173
 MooseX-MultiObject-0.03                 131150
 Mojo-File-Role-Digest-0.01              https://github.com/Tekki/mojo-file-role-digest/issues/2
 Module-Signature-0.83                   131152
+DBIx-NamedParams-v0.0.6                 https://github.com/TakeAsh/p-DBIx-NamedParams/issues/1
+SOAP-Lite-1.27                          131153
