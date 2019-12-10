@@ -5150,3 +5150,4 @@ RPM4-0.39                               131159
 URPM-5.22                               131162,131163
 Excel-Template-XLSX-v1.1.0              130912
 HTML-ExtractContent-0.12                https://github.com/tarao/perl5-HTML-ExtractContent/issues/4
+Mojo-File-Role-Digest-0.02              https://github.com/Tekki/mojo-file-role-digest/issues/3
