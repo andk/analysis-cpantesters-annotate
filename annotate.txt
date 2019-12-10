@@ -5144,3 +5144,7 @@ PDL-LinearAlgebra-0.14                  https://github.com/PDLPorters/pdl-linear
 XML-LibXSLT-1.96                        131155,131156
 XML-Grammar-Fiction-0.18.2              131155
 MooseX-Types-Parameterizable-0.08       75119
+Plerd-1.811                             https://github.com/jmacdotorg/plerd/issues/42
+Crypt-MatrixSSL3-v3.9.2                 https://github.com/powerman/perl-Crypt-MatrixSSL3/issues/43
+RPM4-0.39                               131159
+URPM-5.22                               131162,131163
