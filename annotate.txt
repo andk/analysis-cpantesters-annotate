@@ -5148,3 +5148,5 @@ Plerd-1.811                             https://github.com/jmacdotorg/plerd/issu
 Crypt-MatrixSSL3-v3.9.2                 https://github.com/powerman/perl-Crypt-MatrixSSL3/issues/43
 RPM4-0.39                               131159
 URPM-5.22                               131162,131163
+Excel-Template-XLSX-v1.1.0              130912
+HTML-ExtractContent-0.12                https://github.com/tarao/perl5-HTML-ExtractContent/issues/4
