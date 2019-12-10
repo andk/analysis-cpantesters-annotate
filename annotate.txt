@@ -5143,3 +5143,4 @@ SOAP-Lite-1.27                          131153
 PDL-LinearAlgebra-0.14                  https://github.com/PDLPorters/pdl-linearalgebra/issues/5
 XML-LibXSLT-1.96                        131155,131156
 XML-Grammar-Fiction-0.18.2              131155
+MooseX-Types-Parameterizable-0.08       75119
