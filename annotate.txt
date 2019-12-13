@@ -5152,3 +5152,4 @@ Excel-Template-XLSX-v1.1.0              130912
 HTML-ExtractContent-0.12                https://github.com/tarao/perl5-HTML-ExtractContent/issues/4
 Mojo-File-Role-Digest-0.02              https://github.com/Tekki/mojo-file-role-digest/issues/3
 Catmandu-FileStore-1.151                https://github.com/LibreCat/Catmandu-FileStore/issues/11
+App-git-ship-0.34                       https://github.com/jhthorsen/app-git-ship/issues/29
