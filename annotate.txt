@@ -4760,7 +4760,7 @@ POE-Session-GladeXML2-0.40              41140,89399
 Bio-Cellucidate-0.03                    129592,129593
 Sys-HostAddr-0.993                      129594
 Gtk2-GladeXML-1.007                     107572
-Data-RecordStore-5.03                   129597
+Data-RecordStore-6.01                   129597
 Ogg-Theora-LibTheora-0.04               95160,129599
 DR-Tarantool-0.44                       https://github.com/dr-co/dr-tarantool/issues/13
 Thread-Serialize-1.02                   129600
