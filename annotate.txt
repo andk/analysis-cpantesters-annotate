@@ -5157,3 +5157,4 @@ Catmandu-Identifier-0.13                https://github.com/LibreCat/Catmandu-Ide
 Catmandu-RKD-0.04                       https://github.com/PACKED-vzw/Catmandu-RKD/issues/2
 Catmandu-Store-RKD-0.03                 https://github.com/PACKED-vzw/Catmandu-RKD/issues/2
 Business-xISBN-1.004                    https://github.com/briandfoy/business-xisbn/issues/2
+Log-Syslog-Fast-0.66                    131175
