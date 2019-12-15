@@ -3550,7 +3550,7 @@ Outlook-Mail-Count-1.01                 125155
 Business-BR-CNJ-NumberExtractor-0.07    125160
 Data-Edit-Xml-Lint-20180421             125166,125167
 Dist-Zilla-6.012                        https://github.com/rjbs/Dist-Zilla/issues/612
-Sub-Name-0.25-TRIAL                     125159
+Sub-Name-0.26                           125159
 BenchmarkAnything-Storage-Frontend-Tools-0.019 125180
 Devel-Events-0.09                       125182
 Keyword-API-0.0004                      125186
