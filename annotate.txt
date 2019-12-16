@@ -5158,3 +5158,6 @@ Catmandu-RKD-0.04                       https://github.com/PACKED-vzw/Catmandu-R
 Catmandu-Store-RKD-0.03                 https://github.com/PACKED-vzw/Catmandu-RKD/issues/2
 Business-xISBN-1.004                    https://github.com/briandfoy/business-xisbn/issues/2
 Log-Syslog-Fast-0.66                    131175
+Config-Model-Systemd-0.244.1            https://github.com/dod38fr/config-model-systemd/issues/6
+Data-RecordStore-6.02                   131178
+Data-Validate-CSV-0.001                 131179
