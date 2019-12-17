@@ -5162,3 +5162,4 @@ Config-Model-Systemd-0.244.1            https://github.com/dod38fr/config-model-
 Data-RecordStore-6.02                   131178
 Data-Validate-CSV-0.001                 131179
 Encode-ZapCP1252-0.33                   https://github.com/Perl/perl5/issues/17318
+ex-newest-0.02                          67520
