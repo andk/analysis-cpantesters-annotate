@@ -5163,3 +5163,5 @@ Data-RecordStore-6.02                   131178
 Data-Validate-CSV-0.001                 131179
 Encode-ZapCP1252-0.33                   https://github.com/Perl/perl5/issues/17318
 ex-newest-0.02                          67520
+Net-ZooKeeper-0.41                      https://github.com/mark-5/p5-net-zookeeper/issues/8,https://github.com/mark-5/p5-net-zookeeper/issues/9
+Perl-LanguageServer-0.9                 131194
