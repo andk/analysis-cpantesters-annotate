@@ -5166,3 +5166,4 @@ ex-newest-0.02                          67520
 Net-ZooKeeper-0.41                      https://github.com/mark-5/p5-net-zookeeper/issues/8,https://github.com/mark-5/p5-net-zookeeper/issues/9
 Perl-LanguageServer-0.9                 131194
 Complete-Getopt-Long-0.472              131197
+MooX-VariantAttribute-0.09              131204
