@@ -5039,7 +5039,7 @@ JSON-Eval-0.001                         130828
 Perl-RT2Github-0.03                     130835
 Dancer2-Plugin-WebService-4.2.1         130836
 Data-NFA-20191030                       130837
-Yandex-Disk-0.06                        https://github.com/vrag86/perl-yandex-disk-api/issues/8
+Yandex-Disk-0.07                        https://github.com/vrag86/perl-yandex-disk-api/issues/8
 Dir-Flock-0.03                          130861
 Perinci-CmdLine-Inline-0.545            127175
 Data-DFA-20191031                       130872,130873
