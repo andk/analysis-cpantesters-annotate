@@ -5167,3 +5167,6 @@ Net-ZooKeeper-0.41                      https://github.com/mark-5/p5-net-zookeep
 Perl-LanguageServer-0.9                 131194
 Complete-Getopt-Long-0.472              131197
 MooX-VariantAttribute-0.09              131204
+App-RetroPAN-0.02                       131200
+LINE-Bot-API-1.13                       https://github.com/line/line-bot-sdk-perl/issues/96
+Role-MethodReturns-0.02                 131206
