@@ -5169,5 +5169,5 @@ Complete-Getopt-Long-0.472              131197
 MooX-VariantAttribute-0.09              131204
 App-RetroPAN-0.02                       131200
 LINE-Bot-API-1.13                       https://github.com/line/line-bot-sdk-perl/issues/96
-Role-MethodReturns-0.02                 131206
+Role-MethodReturns-0.02                 131206,131208
 Module-Pluggable-Ordered-1.5            131207
