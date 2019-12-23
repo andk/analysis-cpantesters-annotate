@@ -3484,7 +3484,7 @@ Test2-Tools-xUnit-0.003                 https://github.com/cv-library/Test2-Tool
 Time-HiRes-1.9755                       124775
 Text-Unaccent-1.08                      21177
 MooseX-XSAccessor-0.008                 124835
-App-CSE-0.013                           124839
+App-CSE-0.015                           124839
 Bio-PhyloXS-v0.1.0                      https://github.com/rvosa/bio-phylo-xs/issues/7,https://github.com/rvosa/bio-phylo-xs/issues/8
 circle-fe-term-0.173170                 124848
 MogileFS-Server-2.73                    116633
