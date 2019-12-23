@@ -5177,3 +5177,4 @@ Data-Edit-Xml-20191119                  131216
 FunctionalPerl-0.72.27                  131217
 Lemonldap-NG-Common-2.0.7               131220
 Lemonldap-NG-Portal-2.0.7               131222
+MooX-Failover-v0.3.3                    https://github.com/robrwo/MooX-Failover/issues/5
