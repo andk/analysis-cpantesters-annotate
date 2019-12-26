@@ -5188,4 +5188,4 @@ Net-Server-Mail-0.28                    130059
 Kwiki-Diff-Mutual-0.01                  66963,131253
 Module-CPANTS-Site-0.76                 131254
 Moops-0.036                             131255
-Net-Compare-0.02                        131257
+Net-Compare-0.02                        131257,131262
