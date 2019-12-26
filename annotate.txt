@@ -3214,7 +3214,7 @@ Devel-TraceMethods-1.00                 123667
 Log-Trace-1.070                         49409,https://rt.perl.org/Public/Bug/Display.html?id=132252
 Perl-Critic-More-1.003                  123847
 Alien-LZO-0.02                          123851
-IPC-Cache-0.02                          123852
+IPC-Cache-0.02                          123852,131250
 Catalyst-Plugin-Upload-Image-Magick-0.04 123861
 ADAMK-Release-0.02                      123867
 Archive-Builder-1.16                    123867
