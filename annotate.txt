@@ -4638,7 +4638,7 @@ Bio-DB-Das-Chado-0.35a                  129379
 CGI-Auth-3.00                           129380,129382
 Compiler-Parser-0.10                    https://github.com/goccy/p5-Compiler-Parser/issues/19
 Data-BinaryBuffer-0.005                 https://github.com/vovkasm/data-binarybuffer/issues/1
-ExtUtils-ModuleMaker-TT-0.94            https://github.com/dagolden/ExtUtils-ModuleMaker-TT/issues/1
+ExtUtils-ModuleMaker-TT-0.94            https://github.com/dagolden/ExtUtils-ModuleMaker-TT/issues/1,https://github.com/dagolden/ExtUtils-ModuleMaker-TT/issues/2,https://github.com/dagolden/ExtUtils-ModuleMaker-TT/issues/3
 Fetch-Image-1.000000                    https://github.com/markwellis/fetch-image/issues/1
 Crypt-NSS-X509-0.05                     https://github.com/0xxon/perl-nss/issues/3
 Net-DNS-Paranoid-0.08                   https://github.com/tokuhirom/Net-DNS-Paranoid/issues/2,https://github.com/tokuhirom/Net-DNS-Paranoid/issues/4
