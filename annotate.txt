@@ -5189,3 +5189,6 @@ Kwiki-Diff-Mutual-0.01                  66963,131253
 Module-CPANTS-Site-0.76                 131254
 Moops-0.036                             131255
 Net-Compare-0.02                        131257,131262
+DBD-Mock-1.54                           131264
+BioX-Workflow-Command-2.4.1             131265
+Image-Imlib2-2.03                       125004
