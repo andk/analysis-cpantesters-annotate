@@ -3980,7 +3980,7 @@ DBD-cubrid-10.1.0.0001                  127941
 GCCJIT-0.03                             https://github.com/vickenty/gccjit-perl/issues/1
 Gtk3-Notify-0.02                        127946
 Text-Trac-0.21                          127719
-Mail-SpamAssassin-3.4.2                 https://bz.apache.org/SpamAssassin/show_bug.cgi?id=7666
+Mail-SpamAssassin-3.4.3                 https://bz.apache.org/SpamAssassin/show_bug.cgi?id=7666
 Alien-XInputSimulator-0.001             https://github.com/athreef/Alien-XInputSimulator/issues/1
 Alien-libudev-0.14                      https://github.com/athreef/Alien-libudev/issues/2
 Vlc-Engine-0.004                        127948
