@@ -5192,3 +5192,4 @@ Net-Compare-0.02                        131257,131262
 DBD-Mock-1.54                           131264
 BioX-Workflow-Command-2.4.1             131265
 Image-Imlib2-2.03                       125004
+PDL-Graphics-PLplot-0.72                https://github.com/PDLPorters/pdl-graphics-plplot/issues/4
