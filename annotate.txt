@@ -5195,3 +5195,4 @@ Image-Imlib2-2.03                       125004
 PDL-Graphics-PLplot-0.72                https://github.com/PDLPorters/pdl-graphics-plplot/issues/4
 MojoX-Renderer-Alloy-1.121150           104118
 Graph-Maker-0.02                        108992
+Dita-PCD-20190811                       131282
