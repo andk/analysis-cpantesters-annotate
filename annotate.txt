@@ -5196,4 +5196,4 @@ PDL-Graphics-PLplot-0.72                https://github.com/PDLPorters/pdl-graphi
 MojoX-Renderer-Alloy-1.121150           104118
 Graph-Maker-0.02                        108992
 Dita-PCD-20190811                       131282
-Huawei-Healthchecker-0.07               131284
+Huawei-Healthchecker-0.09               131284
