@@ -5197,3 +5197,4 @@ MojoX-Renderer-Alloy-1.121150           104118
 Graph-Maker-0.02                        108992
 Dita-PCD-20190811                       131282
 Huawei-Healthchecker-0.10               131284
+UTF8-R2-0.06                            https://github.com/Perl/perl5/issues/17391
