@@ -5204,3 +5204,4 @@ PDL-Graphics-PLplot-0.73                https://github.com/PDLPorters/pdl-graphi
 Time-Warp-0.54                          https://github.com/manwar/Time-Warp/issues/3
 Alien-libtickit-0.07                    131297
 WWW-Scraper-ISBN-1.05                   131299
+List-UtilsBy-XS-0.05                    https://github.com/Perl/perl5/issues/17265
