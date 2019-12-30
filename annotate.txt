@@ -5199,3 +5199,6 @@ Dita-PCD-20190811                       131282
 Huawei-Healthchecker-0.10               131284
 UTF8-R2-0.06                            https://github.com/Perl/perl5/issues/17391
 podlators-4.13                          131293
+indirect-0.39                           131295
+PDL-Graphics-PLplot-0.73                https://github.com/PDLPorters/pdl-graphics-plplot/issues/6
+Time-Warp-0.54                          https://github.com/manwar/Time-Warp/issues/3
