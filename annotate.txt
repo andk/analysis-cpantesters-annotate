@@ -5202,3 +5202,5 @@ podlators-4.13                          131293
 indirect-0.39                           131295
 PDL-Graphics-PLplot-0.73                https://github.com/PDLPorters/pdl-graphics-plplot/issues/6
 Time-Warp-0.54                          https://github.com/manwar/Time-Warp/issues/3
+Alien-libtickit-0.07                    131297
+WWW-Scraper-ISBN-1.05                   131299
