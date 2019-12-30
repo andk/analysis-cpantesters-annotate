@@ -4737,7 +4737,7 @@ Mojo-Promise-Role-Get-v0.1.1            https://github.com/Grinnz/Mojo-Promise-R
 Test2-Tools-JSON-Pointer-0.01           https://github.com/plicease/Test2-Tools-JSON-Pointer/issues/1
 Test2-Tools-URL-0.03                    https://github.com/plicease/Test2-Tools-URL/issues/2
 WWW-Scraper-ISBN-Wheelers_Driver-0.15   129565
-Data-Sah-Coerce-0.033                   128427
+Data-Sah-Coerce-0.040                   123095
 MarpaX-ESLIF-3.0.10                     129563
 Devel-PPPort-3.51                       https://rt.perl.org/Ticket/Display.html?id=134100
 indirect-0.38                           127118
