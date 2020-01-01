@@ -5209,3 +5209,7 @@ Alien-libtickit-0.07                    131297
 WWW-Scraper-ISBN-1.05                   131299
 Bencher-Scenarios-OrgParsers-0.001      131305
 DBIx-Fast-0.08                          131306,131307,131308
+Date-ICal-2.678                         124548
+Date-Piece-v0.0.3                       57736
+Date-Easy-0.09                          https://github.com/barefootcoder/date-easy/issues/14
+Date-WeekOfYear-1.06                    131321
