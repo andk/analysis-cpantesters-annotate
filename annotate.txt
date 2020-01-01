@@ -1156,7 +1156,7 @@ Net-Syndic8-0.04                        109408
 Text-Column-0.05                        109410
 HTML-SimpleTemplate-1.00                109412
 Test-OpenID-Server-0.02                 109416
-Date-Object-0.06                        109419
+Date-Object-0.06                        109419,131315
 encoding-stdio-0.02                     109420
 Finance-Bank-INGDirect-1.05             109421
 HTML-FormatData-0.10                    53923
