@@ -58,7 +58,7 @@ RPC-Lite-0.20                           53941
 Maypole-Config-YAML-0.1                 53999
 Plack-Request-0.09                      50982
 File-Find-Flex-0.60                     has been deleted from CPAN
-DateTime-Event-Predict-0.01_04          54469
+DateTime-Event-Predict-0.01_04          54469,131328
 Exception-Died-0.06                     54724
 Plack-Server-AnyEvent-Server-Starter-0.00002 53954 (maybe dated?)
 CGI-Session-Auth-1.07                   55307
