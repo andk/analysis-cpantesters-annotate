@@ -2544,7 +2544,7 @@ Net-Riak-0.1702                         118547
 Pickles-0.10                            118538
 Plack-Middleware-JSONParser-0.02        https://github.com/yosuke-furukawa/Plack-Middleware-JSONParser/issues/2
 Riak-Client-1.96                        https://github.com/dams/riak-client/issues/4
-ShardedKV-Storage-Rest-0.8              100774,100774
+ShardedKV-Storage-Rest-0.8              100774
 Test-Debian-0.06                        https://github.com/dr-co/test-debian-perl/issues/4
 Test-Ping-0.203                         https://github.com/xsawyerx/test-ping/issues/5
 Time-Duration-Locale-11                 118556
