@@ -3993,7 +3993,7 @@ Test2-Tools-PDL-0.0002                  127955
 Sereal-Path-4.004                       https://github.com/Sereal/Sereal/issues/192
 JS-SourceMap-0.1.2                      127956
 Mail-GPG-1.0.13-TRIAL1                  127960
-CGI-Lingua-0.59                         127068
+CGI-Lingua-0.59                         127068,131347
 CatalystX-VCS-Lookup-0.07               127965
 WWW-Offliberty-1.000008                 122651
 Image-ObjectDetect-0.12                 127967,127968
