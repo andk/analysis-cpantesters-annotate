@@ -5218,3 +5218,7 @@ DateTimeX-Web-0.08                      131324
 MooseX-Timestamp-0.07                   131329
 Data-Sah-Coerce-0.044                   131332
 Parse-Win32Registry-1.0                 124514
+Module-FatPack-0.181                    131338
+Perl-PrereqScanner-Lite-0.28            https://github.com/moznion/Perl-PrereqScanner-Lite/issues/20
+CloudCron-Worker-0.02                   https://github.com/capside/CloudCron/issues/3
+Waft-0.9910                             109033
