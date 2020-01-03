@@ -5228,3 +5228,5 @@ WWW-xkcd-0.009                          https://github.com/xsawyerx/www-xkcd/iss
 autodie-2.30                            131344
 MouseX-Role-Loggable-0.113              131346
 OpenFrame-3.05                          69077,72186
+XML-Compile-SOAP-Mojolicious-0.05       131349
+Archive-Zip-1.67                        130773,https://github.com/redhotpenguin/perl-Archive-Zip/issues/70
