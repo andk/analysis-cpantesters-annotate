@@ -3376,7 +3376,7 @@ Poker-Robot-0.02                        117300
 Basket-Calc-0.5                         https://github.com/nupfel/Basket-Calc/issues/2
 MooseX-Exception-Rot13-0.001            124181
 Git-Repository-Plugin-Status-0.03       https://github.com/nichtich/Git-Repository-Plugin-Status/issues/3
-Mail-BIMI-1.20200102                    124182,131333
+Mail-BIMI-1.20200103                    124182
 Catalyst-Plugin-Session-0.40            89631
 Test-Instance-Apache-0.001              https://github.com/TBSliver/Test-Instance-Apache/issues/5
 QBit-Application-Model-DB-0.026         123516,https://github.com/QBitFramework/QBit-Application-Model-DB/issues/28
