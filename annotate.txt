@@ -5222,3 +5222,9 @@ Module-FatPack-0.181                    131338
 Perl-PrereqScanner-Lite-0.28            https://github.com/moznion/Perl-PrereqScanner-Lite/issues/20
 CloudCron-Worker-0.02                   https://github.com/capside/CloudCron/issues/3
 Waft-0.9910                             109033
+WWW-PlaceEngine-0.03                    131342
+WWW-Resource-0.01                       131343
+WWW-xkcd-0.009                          https://github.com/xsawyerx/www-xkcd/issues/6
+autodie-2.30                            131344
+MouseX-Role-Loggable-0.113              131346
+OpenFrame-3.05                          69077,72186
