@@ -5231,3 +5231,4 @@ OpenFrame-3.05                          69077,72186
 XML-Compile-SOAP-Mojolicious-0.05       131349
 Archive-Zip-1.67                        130773,https://github.com/redhotpenguin/perl-Archive-Zip/issues/70
 MooX-Const-v0.4.1                       https://github.com/robrwo/MooX-Const/issues/1
+Perl4-CoreLibs-0.004                    131341
