@@ -5233,3 +5233,4 @@ Archive-Zip-1.67                        130773,https://github.com/redhotpenguin/
 MooX-Const-v0.4.1                       https://github.com/robrwo/MooX-Const/issues/1
 Perl4-CoreLibs-0.004                    131341
 Async-Interrupt-1.25                    https://github.com/Perl/perl5/issues/17392
+Messaging-Message-1.6.1                 131350
