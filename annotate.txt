@@ -5234,3 +5234,5 @@ MooX-Const-v0.4.1                       https://github.com/robrwo/MooX-Const/iss
 Perl4-CoreLibs-0.004                    131341
 Async-Interrupt-1.25                    https://github.com/Perl/perl5/issues/17392
 Messaging-Message-1.6.1                 131350
+Module-Install-Template-0.08            131351
+Pod-Generated-0.05                      131352
