@@ -5237,3 +5237,4 @@ Messaging-Message-1.6.1                 131350
 Module-Install-Template-0.08            131351
 Pod-Generated-0.05                      131352
 Plack-Middleware-LogDispatchouli-0.01   131353
+Business-Payment-SwissESR-0.13.5        https://github.com/oetiker/business-payment-swissesr/issues/3
