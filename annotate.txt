@@ -5232,3 +5232,4 @@ XML-Compile-SOAP-Mojolicious-0.05       131349
 Archive-Zip-1.67                        130773,https://github.com/redhotpenguin/perl-Archive-Zip/issues/70
 MooX-Const-v0.4.1                       https://github.com/robrwo/MooX-Const/issues/1
 Perl4-CoreLibs-0.004                    131341
+Async-Interrupt-1.25                    https://github.com/Perl/perl5/issues/17392
