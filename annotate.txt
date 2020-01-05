@@ -5239,3 +5239,6 @@ Pod-Generated-0.05                      131352
 Plack-Middleware-LogDispatchouli-0.01   131353
 Business-Payment-SwissESR-0.13.5        https://github.com/oetiker/business-payment-swissesr/issues/3
 Text-Clevery-0.0004                     68077
+Data-Sah-Coerce-perl-duration-str_alami_id-0.005 131355
+DateLocale-1.43                         131356
+DateTimeX-strftimeq-0.001               131357
