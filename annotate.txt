@@ -5241,6 +5241,6 @@ Business-Payment-SwissESR-0.13.5        https://github.com/oetiker/business-paym
 Text-Clevery-0.0004                     68077
 Data-Sah-Coerce-perl-duration-str_alami_id-0.005 131355
 DateLocale-1.43                         131356
-DateTimeX-strftimeq-0.001               131357
+DateTimeX-strftimeq-0.002               131357
 POE-Component-Curl-Multi-0.14           131363
 Mojolicious-Plugin-Iconify-1.01         131364
