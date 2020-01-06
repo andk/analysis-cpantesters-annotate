@@ -3843,7 +3843,7 @@ App-CatalystStarter-Bloated-v0.9.3      127694
 FormValidator-Simple-Plugin-V8-0.01     127695
 RPC-XML-0.80                            120472
 Mojolicious-Plugin-CGI-0.39             https://github.com/jhthorsen/mojolicious-plugin-cgi/issues/30
-IPC-Shareable-0.61                      91197,91841
+IPC-Shareable-0.61                      91197,91841,131379
 Net-SAML2-0.17                          127710
 Flickr-API2-2.50                        127711
 tk-zinc-3.303                           127714
