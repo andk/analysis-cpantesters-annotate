@@ -5259,3 +5259,6 @@ WebService-Europeana-0.0.3              https://github.com/hatorikibble/webservi
 WWW-Reddit-0.10                         131390
 Test-XML-Element-0.01                   66959
 XML-SimpleObject-0.53                   27109
+App-SpreadRevolutionaryDate-0.27        131391
+Dancer-Plugin-Thumbnail-0.15            131392
+TheGameCrafter-Client-0.0104            https://github.com/rizen/TheGameCrafter-Client/issues/1
