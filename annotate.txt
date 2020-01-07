@@ -4219,7 +4219,7 @@ IPC-ShareLite-0.17                      65986,128599
 Device-VFD-GP1022-0.01                  66924
 TeX-Hyphen-Pattern-0.103                128617
 Whatever-0.23                           123654,128618
-Mail-Sendmail-0.80                      123652,123652
+Mail-Sendmail-0.80                      123652
 Facebook-Graph-1.1205                   https://github.com/rizen/Facebook-Graph/issues/76
 HTTP-Request-FromCurl-0.11              128646
 ClearPress-v2019.2.25                   122425,https://github.com/rmp/libclearpress-perl/issues/4
