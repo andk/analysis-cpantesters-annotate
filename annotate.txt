@@ -5247,3 +5247,4 @@ Mojolicious-Plugin-Iconify-1.01         131364
 WebService-Postcodeanywhere-BACS-REST-0.01 131368
 AnyEvent-Plurk-0.12                     72714
 AnyEvent-Net-Curl-Queued-0.047          https://github.com/creaktive/AnyEvent-Net-Curl-Queued/issues/5
+Modern-PBP-Perl-1.300                   131380
