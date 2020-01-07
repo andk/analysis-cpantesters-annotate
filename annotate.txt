@@ -4419,7 +4419,7 @@ Yote-3.0                                129059
 Mock-Populate-0.1700                    129060
 CLI-Driver-0.3                          129062
 Siffra-Logger-0.04                      129064
-SMS-Matrix-1.01                         129065
+SMS-Matrix-1.01                         129065,131388
 FB3-0.16                                127868
 JavaScript-Duktape-XS-0.000076          129070
 ACME-QuoteDB-0.1.2                      129072
