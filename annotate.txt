@@ -5159,7 +5159,7 @@ Catmandu-Store-RKD-0.03                 https://github.com/PACKED-vzw/Catmandu-R
 Business-xISBN-1.004                    https://github.com/briandfoy/business-xisbn/issues/2
 Log-Syslog-Fast-0.66                    131175
 Config-Model-Systemd-0.244.1            https://github.com/dod38fr/config-model-systemd/issues/6
-Data-RecordStore-6.02                   131178,131198
+Data-RecordStore-6.03                   131178,131198
 Data-Validate-CSV-0.001                 131179
 Encode-ZapCP1252-0.33                   https://github.com/Perl/perl5/issues/17318
 ex-newest-0.02                          67520
