@@ -5263,3 +5263,7 @@ App-SpreadRevolutionaryDate-0.27        131391
 Dancer-Plugin-Thumbnail-0.15            131392
 TheGameCrafter-Client-0.0104            https://github.com/rizen/TheGameCrafter-Client/issues/1
 URL-Check-0.11                          131393
+AWS-XRay-0.09                           https://github.com/fujiwara/AWS-XRay/issues/12
+filename-v0.20.009                      https://github.com/rkleemann/filename/issues/1
+Huawei-Info-Ipaddr-0.02                 131405
+Mail-DMARC-1.20200108                   https://github.com/msimerson/mail-dmarc/issues/167
