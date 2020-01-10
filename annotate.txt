@@ -4004,7 +4004,7 @@ Redis-1.991                             https://github.com/PerlRedis/perl-redis/
 Resque-0.38                             https://github.com/diegok/resque-perl/issues/30
 Shell-Config-Generate-0.33              https://github.com/plicease/Shell-Config-Generate/issues/19
 Crypt-MatrixSSL3-v3.9.2                 https://github.com/powerman/perl-Crypt-MatrixSSL3/issues/42
-Backup-EZ-0.40                          123719
+Backup-EZ-0.43                          123719
 Char-Replace-0.001                      https://github.com/atoomic/Char-Replace/issues/1
 DBIx-Class-InflateColumn-TimePiece-0.01 https://github.com/reneeb/DBIx-Class-InflateColumn-TimePiece/issues/1
 Math-Calc-Parser-1.003                  https://github.com/Grinnz/Math-Calc-Parser/issues/2
