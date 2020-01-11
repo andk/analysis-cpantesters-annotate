@@ -5289,3 +5289,4 @@ perfSONAR_PS-Collectors-Daemon-0.09     34716
 GD-Sparkline-0.05                       131422
 SilverGoldBull-API-0.08                 131423
 DateTime-Format-ICal-0.09               131314
+HTTP-Cookies-6.08                       https://github.com/libwww-perl/HTTP-Cookies/issues/60
