@@ -5278,3 +5278,14 @@ Dist-Zilla-Plugin-Git-ExcludeUntracked-0.05 https://github.com/hoelzro/dist-zill
 Logfile-EPrints-1.20                    131411
 Net-Domain-Match-0.2.3                  131412
 Net-Domain-Regex-0.2.1                  131413
+PerlX-bash-0.04                         https://github.com/barefootcoder/perlx-bash/issues/3
+Net-Nessus-REST-0.6                     112763
+Net-OATH-Server-0.02                    https://github.com/ritou/p5-net-oath-server/issues/2
+PAD-0.04                                131420
+Plack-App-FCGIDispatcher-0.10           131421
+Plack-Middleware-SignedCookies-1.202    https://github.com/ap/Plack-Middleware-SignedCookies/issues/2
+WebService-Mailgun-0.07                 https://github.com/kan/p5-web-service-mailgun/issues/1
+perfSONAR_PS-Collectors-Daemon-0.09     34716
+GD-Sparkline-0.05                       131422
+SilverGoldBull-API-0.08                 131423
+DateTime-Format-ICal-0.09               131314
