@@ -5299,3 +5299,4 @@ Class-Refresh-0.07                      https://github.com/doy/class-refresh/iss
 CPAN-Testers-Schema-0.025               https://github.com/cpan-testers/cpantesters-schema/issues/35
 Net-Async-Tangence-0.15                 131464
 Metabolomics-Fragment-Annotation-0.2    131467,131468,131469,131470
+Tangence-0.25                           131471
