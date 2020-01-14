@@ -5300,3 +5300,7 @@ CPAN-Testers-Schema-0.025               https://github.com/cpan-testers/cpantest
 Net-Async-Tangence-0.15                 131464
 Metabolomics-Fragment-Annotation-0.2    131467,131468,131469,131470
 Tangence-0.25                           131471
+Mail-DMARC-1.20200113                   https://github.com/msimerson/mail-dmarc/issues/170
+Mojo-AsyncAwait-0.02                    https://github.com/mojolicious/Mojo-AsyncAwait/issues/1
+Test-SQLite-0.0207                      131472
+XML-Atom-0.42                           https://github.com/miyagawa/xml-atom/issues/18
