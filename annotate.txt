@@ -5304,3 +5304,4 @@ Mail-DMARC-1.20200113                   https://github.com/msimerson/mail-dmarc/
 Mojo-AsyncAwait-0.02                    https://github.com/mojolicious/Mojo-AsyncAwait/issues/1
 Test-SQLite-0.0207                      131472
 XML-Atom-0.42                           https://github.com/miyagawa/xml-atom/issues/18
+Mail-DMARC-1.20200114                   https://github.com/msimerson/mail-dmarc/issues/172
