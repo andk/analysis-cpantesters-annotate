@@ -5310,3 +5310,6 @@ XML-Compile-C14N-0.94                   131477
 XML-LibXML-Cache-0.12                   131478
 business-payroll-1.3                    131479
 File-Serialize-1.3.0                    https://github.com/yanick/File-Serialize/issues/8
+XML-Catalogs-HTML-v1.0.3                131488
+DateTime-Format-Atom-v1.2.0             131494
+MARC-File-XML-1.0.5                     131495
