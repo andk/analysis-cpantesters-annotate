@@ -5271,7 +5271,7 @@ App-DocKnot-3.02                        131406
 App-lcpan-CmdBundle-weaver-0.030        131407
 Mojolicious-Plugin-SOAP-Server-0.1.4    https://github.com/oposs/mojolicious-plugin-soap-server/issues/1
 Mojolicious-Plugin-Systemd-0.01         https://github.com/jhthorsen/mojolicious-plugin-systemd/issues/1,https://github.com/jhthorsen/mojolicious-plugin-systemd/issues/2
-overload-open-1.5.0                     131408
+overload-open-1.6.0                     131408
 Acme-POE-Tree-1.022                     131409
 Data-Edit-Xml-SDL-20180630              131410
 Dist-Zilla-Plugin-Git-ExcludeUntracked-0.05 https://github.com/hoelzro/dist-zilla-plugin-git-excludeuntracked/issues/4
