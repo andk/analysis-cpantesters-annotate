@@ -5141,7 +5141,7 @@ Module-Signature-0.83                   131152
 DBIx-NamedParams-v0.0.6                 https://github.com/TakeAsh/p-DBIx-NamedParams/issues/1
 SOAP-Lite-1.27                          131153
 PDL-LinearAlgebra-0.14                  https://github.com/PDLPorters/pdl-linearalgebra/issues/5
-XML-LibXSLT-1.97                        131155,131156
+XML-LibXSLT-1.99                        131156
 XML-Grammar-Fiction-0.18.2              131155
 MooseX-Types-Parameterizable-0.08       75119
 Plerd-1.811                             https://github.com/jmacdotorg/plerd/issues/42
