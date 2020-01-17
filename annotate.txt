@@ -5265,7 +5265,7 @@ TheGameCrafter-Client-0.0104            https://github.com/rizen/TheGameCrafter-
 URL-Check-0.11                          131393
 AWS-XRay-0.09                           https://github.com/fujiwara/AWS-XRay/issues/12
 filename-v0.20.009                      https://github.com/rkleemann/filename/issues/1
-Huawei-Info-Ipaddr-0.02                 131405
+Huawei-Info-Ipaddr-0.09                 131405
 Mail-DMARC-1.20200108                   https://github.com/msimerson/mail-dmarc/issues/167
 App-DocKnot-3.02                        131406
 App-lcpan-CmdBundle-weaver-0.030        131407
