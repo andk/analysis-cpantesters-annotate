@@ -5324,3 +5324,5 @@ MooX-Pression-0.008                     131507
 CBOR-Free-0.18_02                       https://github.com/FGasper/p5-CBOR-Free/issues/3
 Indent-Form-0.02                        131508
 App-xml_grep2-0.14                      131511
+Date-strftimeq-0.001                    131512
+Catalyst-Runtime-5.90125                131513
