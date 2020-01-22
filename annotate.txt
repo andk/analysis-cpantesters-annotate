@@ -4982,7 +4982,7 @@ MooseX-Getopt-Usage-0.24                https://github.com/markpitchless/moosex-
 POE-Component-FunctionBus-0.02          130569
 Test-BDD-Cucumber-0.660002-TRIAL        https://github.com/pherkin/test-bdd-cucumber-perl/issues/158
 BioPerl-1.7.6                           https://github.com/bioperl/bioperl-live/issues/326
-Tapper-Reports-DPath-5.0.2              130580
+Tapper-Reports-DPath-5.0.3              130580
 WWW-Search-Ebay-3.054                   130584
 Log-Handler-Plugin-DBI-1.02             130590
 Sah-Schemas-CryptoCurrency-0.011        130592
