@@ -5298,7 +5298,7 @@ ack-v3.3.1                              https://github.com/beyondgrep/ack3/issue
 Class-Refresh-0.07                      https://github.com/doy/class-refresh/issues/4
 CPAN-Testers-Schema-0.025               https://github.com/cpan-testers/cpantesters-schema/issues/35
 Net-Async-Tangence-0.15                 131464
-Metabolomics-Fragment-Annotation-0.2    131467,131468,131469,131470
+Metabolomics-Fragment-Annotation-0.3    131467,131468,131469,131470
 Tangence-0.25                           131471
 Mail-DMARC-1.20200113                   https://github.com/msimerson/mail-dmarc/issues/170
 Mojo-AsyncAwait-0.02                    https://github.com/mojolicious/Mojo-AsyncAwait/issues/1
