@@ -5327,3 +5327,4 @@ App-xml_grep2-0.14                      131511
 Date-strftimeq-0.001                    131512
 Catalyst-Runtime-5.90125                131513
 Serge-1.4                               131514
+Chart-Colors-1.02                       131544
