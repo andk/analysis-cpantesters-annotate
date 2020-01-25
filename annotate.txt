@@ -5331,3 +5331,4 @@ Chart-Colors-1.02                       131544
 Sub-HandlesVia-0.006                    131547
 AnyEvent-YACurl-0.14                    131557
 Pegex-Cmd-0.28                          https://github.com/pegex-parser/pegex-cmd-pm/issues/4
+CatalystX-OAuth2-Provider-0.0005        131563
