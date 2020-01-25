@@ -5333,3 +5333,4 @@ AnyEvent-YACurl-0.14                    131557
 Pegex-Cmd-0.28                          https://github.com/pegex-parser/pegex-cmd-pm/issues/4
 CatalystX-OAuth2-Provider-0.0005        131563
 HTML-TagCloud-0.38                      131564
+Catalyst-Plugin-Static-0.11             131567
