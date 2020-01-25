@@ -2681,7 +2681,7 @@ WWW-Eksi-0.22                           119862
 DBIx-Class-Helper-ResultSet-CrossTab-0.004 119864
 Graphics-GVG-SVG-0.4                    119578
 KeyedMutex-0.06                         119867
-FFI-TinyCC-0.23                         https://github.com/plicease/FFI-TinyCC/issues/6
+FFI-TinyCC-0.29                         https://github.com/plicease/FFI-TinyCC/issues/6
 Statocles-0.081                         https://github.com/preaction/Statocles/issues/526
 InfluxDB-LineProtocol-1.009             111959
 Curses-UI-Grid-0.15                     119921
