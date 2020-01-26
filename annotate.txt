@@ -5340,3 +5340,4 @@ Date-Easy-0.10                          https://github.com/barefootcoder/date-ea
 Net-Curl-0.43                           https://github.com/sparky/perl-Net-Curl/issues/37
 WWW-Sitemapper-1.121160                 131574
 Time-LST-0.038                          131575
+Sub-Quote-2.006006                      https://github.com/Perl/perl5/issues/17491
