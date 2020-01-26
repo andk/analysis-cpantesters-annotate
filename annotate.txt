@@ -5334,4 +5334,4 @@ Pegex-Cmd-0.28                          https://github.com/pegex-parser/pegex-cm
 CatalystX-OAuth2-Provider-0.0005        131563
 HTML-TagCloud-0.38                      131564
 Catalyst-Plugin-Static-0.11             131567
-SReview-0.5.0                           131569
+SReview-0.5.1                           131569
