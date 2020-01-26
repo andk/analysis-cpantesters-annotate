@@ -5336,3 +5336,7 @@ HTML-TagCloud-0.38                      131564
 Catalyst-Plugin-Static-0.11             131567
 SReview-0.5.1                           131569
 Math-Geometry-Construction-0.024        131572
+Date-Easy-0.10                          https://github.com/barefootcoder/date-easy/issues/15
+Net-Curl-0.43                           https://github.com/sparky/perl-Net-Curl/issues/37
+WWW-Sitemapper-1.121160                 131574
+Time-LST-0.038                          131575
