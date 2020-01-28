@@ -5342,3 +5342,5 @@ WWW-Sitemapper-1.121160                 131574
 Time-LST-0.038                          131575
 Sub-Quote-2.006006                      https://github.com/Perl/perl5/issues/17491
 Modern-Perl-1.20190727                  https://github.com/Perl/perl5/issues/17501
+Acme-Tools-0.26                         124516
+MooX-Pression-0.013                     131507
