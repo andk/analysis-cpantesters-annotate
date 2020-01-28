@@ -5344,3 +5344,4 @@ Sub-Quote-2.006006                      https://github.com/Perl/perl5/issues/174
 Modern-Perl-1.20190727                  https://github.com/Perl/perl5/issues/17501
 Acme-Tools-0.26                         124516
 MooX-Pression-0.013                     131507
+Complete-Fish-0.05                      131586
