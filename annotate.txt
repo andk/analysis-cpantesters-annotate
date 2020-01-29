@@ -5345,3 +5345,7 @@ Modern-Perl-1.20190727                  https://github.com/Perl/perl5/issues/175
 Acme-Tools-0.26                         124516
 Complete-Fish-0.05                      131586
 Test-Interface-0.01                     131587
+CPAN-2.27                               131602
+Data-Serializer-0.60                    131597
+Kwalify-1.22                            131610
+String-FlexMatch-1.100820               131611
