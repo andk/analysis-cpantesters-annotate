@@ -5350,4 +5350,4 @@ Data-Serializer-0.60                    131597
 Kwalify-1.22                            131610
 String-FlexMatch-1.100820               131611
 HTTP-CookieMonster-0.10                 https://github.com/oalders/http-cookiemonster/issues/6
-Data-Serializer-0.62                    https://github.com/neilneely/Data-Serializer/issues/4
+Data-Serializer-0.66                    https://github.com/neilneely/Data-Serializer/issues/4
