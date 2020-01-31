@@ -3044,7 +3044,7 @@ Tickit-Widget-Term-0.003                122509
 CGIS-1.6                                122491
 Class-Builder-1.010                     122492
 PlugAuth-0.36                           https://github.com/clustericious/PlugAuth/issues/3
-Finance-QuoteHist-1.27                  122510
+Finance-QuoteHist-1.29                  122510
 POEx-Tickit-0.04                        122589
 Filter-Crypto-2.07                      111423,119937
 Tree-Authz-0.03                         19421,19422
