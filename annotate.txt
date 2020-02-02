@@ -5354,3 +5354,7 @@ Data-Serializer-0.64                    https://github.com/neilneely/Data-Serial
 MooX-Press-0.037                        131625
 CGI-Lingua-0.61                         131607
 Test-OnlySome-0.001003                  131643
+POE-Session-Attribute-0.80              131642
+Class-Component-0.17                    131645
+POE-Framework-MIDI-0.09                 131646
+Algorithm-Evolutionary-0.80             131647
