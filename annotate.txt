@@ -5358,3 +5358,15 @@ POE-Session-Attribute-0.80              131642
 Class-Component-0.17                    131645
 POE-Framework-MIDI-0.09                 131646
 Algorithm-Evolutionary-0.80             131647
+Data-Printer-0.40                       https://github.com/garu/Data-Printer/issues/142
+Bot-Pastebot-0.600                      131671
+HTTP-UA-Parser-0.007                    https://github.com/ua-parser/uap-perl/issues/6
+IO-All-0.87                             https://github.com/ingydotnet/io-all-pm/issues/113
+Ithumb-XS-v0.5.0                        https://github.com/ChaoticEvil/p5-ithumb-xs/issues/2
+JavaScript-Duktape-XS-0.000078          131672
+Log-Any-Adapter-Sentry-Raven-v0.0.1     https://github.com/GrantStreetGroup/p5-Log-Any-Adapter-Sentry-Raven/issues/1
+MooX-Pression-0.020                     131507
+Net-SecurityCenter-0.205                131673
+Pb-0.01_01                              https://github.com/barefootcoder/leadpipe/issues/2
+Test-MockFile-0.021                     https://github.com/cpanel/Test-MockFile/issues/57
+Config-UCL-0.03                         131674
