@@ -5377,3 +5377,8 @@ Archive-Ar-Ng-2.04                      131680
 Mojo-UserAgent-Role-PromiseClass-0.007  https://github.com/wrog/ua-pclass/issues/1
 Data-Edit-Xml-Xref-20191121             131681
 Thread-Bless-0.07                       131682
+Geo-Compass-Variation-1.03              https://github.com/stevieb9/geo-compass-variation/issues/7
+Mojolicious-Plugin-PromiseActions-0.08  https://github.com/marcusramberg/mojolicious-plugin-promiseactions/issues/8
+JCAMP-DX-0.02                           131683
+Mojolicious-Command-Author-generate-resources-0.22 https://github.com/kberov/Mojolicious-Command-generate-resources/issues/5
+HTTP-XSHeaders-0.400004                 131685
