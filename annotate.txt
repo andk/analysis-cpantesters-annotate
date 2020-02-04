@@ -5373,3 +5373,7 @@ Config-UCL-0.03                         131674
 Timer-Milestones-0.001                  131675
 VCS-Lite-Repository-0.12                131676
 HTML-T5-0.008                           131678,131679
+Archive-Ar-Ng-2.04                      131680
+Mojo-UserAgent-Role-PromiseClass-0.007  https://github.com/wrog/ua-pclass/issues/1
+Data-Edit-Xml-Xref-20191121             131681
+Thread-Bless-0.07                       131682
