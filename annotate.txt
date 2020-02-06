@@ -5382,3 +5382,4 @@ Mojolicious-Plugin-PromiseActions-0.08  https://github.com/marcusramberg/mojolic
 JCAMP-DX-0.02                           131683
 Mojolicious-Command-Author-generate-resources-0.22 https://github.com/kberov/Mojolicious-Command-generate-resources/issues/5
 HTTP-XSHeaders-0.400004                 131685
+Data-Throttler-0.08                     131699
