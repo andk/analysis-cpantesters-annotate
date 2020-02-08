@@ -5384,3 +5384,4 @@ Mojolicious-Command-Author-generate-resources-0.22 https://github.com/kberov/Moj
 HTTP-XSHeaders-0.400004                 131685
 Data-Throttler-0.08                     131699
 Data-Edit-Xml-Xref-20200201             131688,131689
+XML-Hash-LX-0.07                        131710
