@@ -4644,7 +4644,7 @@ Crypt-NSS-X509-0.05                     https://github.com/0xxon/perl-nss/issues
 Net-DNS-Paranoid-0.08                   https://github.com/tokuhirom/Net-DNS-Paranoid/issues/2,https://github.com/tokuhirom/Net-DNS-Paranoid/issues/4
 Tk-DateEntry-1.42                       129385
 Dita-GB-Standard-20190503               129364
-Gtk3-0.036                              125376
+Gtk3-0.036                              125376,131730
 Anansi-Script-CGI-0.03                  129394
 Anansi-Script-Shell-0.04                129394
 Anansi-Script-SOAP-0.03                 129394
