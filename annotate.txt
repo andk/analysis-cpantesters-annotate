@@ -5397,3 +5397,6 @@ Mojo-CSV-1.001003                       https://github.com/zoffixznet/Mojo-CSV/i
 File-Catalog-0.003                      131733
 SemMed-Interface-0.05                   131734
 Mxpress-PDF-0.02                        131740
+WebService-Jamendo_2                    131741
+Hiredis-Raw-0.07                        131742
+App-Dochazka-Common-0.208               https://github.com/smithfarm/dochazka-common/issues/1
