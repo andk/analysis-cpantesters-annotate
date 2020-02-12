@@ -5434,3 +5434,5 @@ Games-Tournament-Swiss-0.21             131759
 JSYNC-0.25                              https://github.com/ingydotnet/jsync-pm/issues/6
 Syntax-Highlight-Perl6-0.88             131760
 CGI-Session-Serialize-yaml-4.26         131715
+PDL-NDBin-0.018                         131753
+Pod-Site-0.56                           https://github.com/perl-pod/pod-site/issues/8
