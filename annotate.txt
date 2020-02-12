@@ -5431,3 +5431,4 @@ Mojolicious-Plugin-HandlebarsJSRenderer-0.06 131748
 AutoRole-0.04                           131662
 constant-tiny-1.02                      131757
 Games-Tournament-Swiss-0.21             131759
+JSYNC-0.25                              https://github.com/ingydotnet/jsync-pm/issues/6
