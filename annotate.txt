@@ -5436,3 +5436,8 @@ Syntax-Highlight-Perl6-0.88             131760
 CGI-Session-Serialize-yaml-4.26         131715
 PDL-NDBin-0.018                         131753
 Pod-Site-0.56                           https://github.com/perl-pod/pod-site/issues/8
+Test-Fixture-DBI-0.09                   https://github.com/zigorou/p5-test-fixture-dbi/issues/6
+Bio-Cigar-1.01                          https://github.com/MullinsLab/Bio-Cigar/issues/1
+Config-UCL-0.05                         131765
+Lingua-RUS-Number-0.136                 131766
+OpenTracing-Implementation-DataDog-0.02 131767,131768
