@@ -5433,3 +5433,4 @@ constant-tiny-1.02                      131757
 Games-Tournament-Swiss-0.21             131759
 JSYNC-0.25                              https://github.com/ingydotnet/jsync-pm/issues/6
 Syntax-Highlight-Perl6-0.88             131760
+CGI-Session-Serialize-yaml-4.26         131715
