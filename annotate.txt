@@ -5429,3 +5429,4 @@ CGI-AppBuilder-TaskLoads-0.12           131746
 CGI-AppBuilder-Tasks-0.12               131746
 Mojolicious-Plugin-HandlebarsJSRenderer-0.06 131748
 AutoRole-0.04                           131662
+constant-tiny-1.02                      131757
