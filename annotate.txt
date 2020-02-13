@@ -5445,3 +5445,5 @@ QMake-Project-0.85                      131769
 Forecast-IO-0.21                        86798
 Template-Liquid-1.0.15                  https://github.com/sanko/template-liquid/issues/8,https://github.com/sanko/template-liquid/issues/9
 WebService-Vichan-0.001001              131775
+DBD-Plibdata-0.06                       131776
+Net-Amazon-ATS-0.03                     131777
