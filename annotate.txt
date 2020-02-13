@@ -5441,3 +5441,6 @@ Bio-Cigar-1.01                          https://github.com/MullinsLab/Bio-Cigar/
 Config-UCL-0.05                         131765
 Lingua-RUS-Number-0.136                 131766
 OpenTracing-Implementation-DataDog-0.02 131767,131768
+QMake-Project-0.85                      131769
+Forecast-IO-0.21                        86798
+Template-Liquid-1.0.15                  https://github.com/sanko/template-liquid/issues/8,https://github.com/sanko/template-liquid/issues/9
