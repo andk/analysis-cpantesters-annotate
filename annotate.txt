@@ -4390,7 +4390,7 @@ Math-Lapack-0.002                       129034
 WWW-Tumblr-5.3                          https://github.com/damog/www-tumblr/issues/17
 CSS-Sass-3.4.10                         https://github.com/sass/perl-libsass/issues/38
 Audio-DSP-0.02                          129040
-Bootylicious-1.14                       129041
+Bootylicious-1.14                       129041,131781
 Data-Cleaner-0.000_002                  types.t fails on most systems, no issue tracker
 Kwiki-AdSense-0.11                      57877
 Markup-MatchTree-1.0.0                  129042
