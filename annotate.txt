@@ -5447,3 +5447,11 @@ Template-Liquid-1.0.15                  https://github.com/sanko/template-liquid
 WebService-Vichan-0.001001              131775
 DBD-Plibdata-0.06                       131776
 Net-Amazon-ATS-0.03                     131777
+AI-Genetic-Pro-0.401                    131780
+Algorithm-KernelKMeans-0.03_02          130090
+Chess-Elo-1.0a                          131782
+Clarion-1.02                            131784
+Crypt-Simple-SMIME-0.9                  131785
+Finance-Performance-Calc-1.01           131787
+Games-Dice-Probability-0.02             131788
+Geo-Formatter-0.0.1                     131789
