@@ -4997,7 +4997,7 @@ Net-DRI-0.96_13                         130631
 Devel-Declare-0.006019                  130637
 Tk-804.034                              130638
 Mail-Toaster-5.54                       https://github.com/msimerson/Mail-Toaster/issues/12
-DR-Msgpuck-0.04                         130621,130622
+DR-Msgpuck-0.04                         130621,130622,131796
 Geo-Hex-v0.0.2                          130623
 Geo-OLC-1                               130624
 AnyEvent-Future-0.04                    130632
