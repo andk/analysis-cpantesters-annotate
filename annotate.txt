@@ -3625,7 +3625,7 @@ Net-DNSBL-MultiDaemon-0.39              125548
 Thread-CriticalSection-0.02             125549
 Net-Azure-NotificationHubs-0.04         https://github.com/ytnobody/p5-Net-Azure-NotifcationHubs/issues/3
 Yote-Server-1.27                        122201
-Unix-Lsof-0.1.0                         125550
+Unix-Lsof-0.1.0                         125550,131807
 Lingua-Identify-CLD2-0.03               114587,114588,125554
 Systemd-Daemon-0.07                     117701
 Crypt-Dining-1.01                       125560
