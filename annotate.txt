@@ -3338,7 +3338,7 @@ threads-lite-0.034                      https://rt.perl.org/rt3/Ticket/Display.h
 SVN-Notify-2.86                         https://rt.perl.org/Public/Bug/Display.html?id=132252
 XML-XSS-0.3.5                           https://rt.perl.org/Public/Bug/Display.html?id=132385
 Parallel-Queue-3.6                      https://rt.perl.org/rt3/Ticket/Display.html?id=132594
-Redis-CappedCollection-1.10             https://rt.perl.org/rt3/Ticket/Display.html?id=132594
+Redis-CappedCollection-1.10             https://rt.perl.org/rt3/Ticket/Display.html?id=132594,https://github.com/TrackingSoft/Redis-CappedCollection/issues/1
 sanity-1.03                             https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 SQL-Bibliosoph-2.55                     https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Tapper-Installer-5.0.0                  https://rt.perl.org/rt3/Ticket/Display.html?id=132594
