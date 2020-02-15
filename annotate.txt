@@ -134,7 +134,7 @@ Mojolicious-Plugin-Bundle-0.004         68368
 Spreadsheet-ExcelHashTable-0.02         68584
 Lite-8                                  now known as WWW-Scraper-Lite
 WWW-NicoSound-Download-1.12             69012
-Geometry-Formula-0.02                   69043
+Geometry-Formula-0.02                   69043,131798
 Data-YUID-0.06                          68215
 YAWF-0.01                               69395
 Catalyst-View-RDF-0.01                  69462
