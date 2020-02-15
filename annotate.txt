@@ -4365,7 +4365,7 @@ Gtk2-Ex-Spinner-0.21                    118737
 Net-Int-Stats-2.1                       128969
 Net-Route-v0.02                         128970,128971
 NGS-Tools-BAMSurgeon-v1.0.0             125318
-String-RexxStack-0.3                    128973
+String-RexxStack-0.3                    128973,83535
 WWW-EchoNest-v0.0.2                     128974,95928
 Sys-Signal-0.02                         128975
 Acme-BeyondPerl-ToSQL-0.01              128976
