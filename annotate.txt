@@ -5480,3 +5480,4 @@ Tk-autobind-1.2                         131818
 Tk-CanvasDirTree-0.04                   131819
 XS-libcares-1.1.1.4                     131820
 XS-libuv-1.34.2.0                       131821
+Number-Phone-FR-0.0917215               https://github.com/Perl/perl5/issues/17553
