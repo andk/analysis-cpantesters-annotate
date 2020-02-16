@@ -5482,3 +5482,5 @@ XS-libcares-1.1.1.4                     131820
 XS-libuv-1.34.2.0                       131821
 Number-Phone-FR-0.0917215               https://github.com/Perl/perl5/issues/17553
 Plack-Handler-Stomp-1.15                127939
+Moops-0.038                             131831
+Acme-Backwards-0.01                     131835
