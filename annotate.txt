@@ -3020,7 +3020,7 @@ AlignAid-v0.0.2                         122365
 Algorithm-Pair-Swiss-0.14               122366
 Pipeline-3.12                           77896
 Pipeline-Config-0.05                    122367
-Geo-Point-Plugin-Transform-0.0.2        122368
+Geo-Point-Plugin-Transform-0.0.2        122368,131822
 IO-File-Log-1.01                        34778
 RDF-YAML-0.11                           122369
 Sub-Versive-0.01                        122370
