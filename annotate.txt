@@ -5473,7 +5473,7 @@ URI-GoogleChart-1.02                    131806
 CfgTie-0.41                             131809,131810
 Alien-autoconf-0.15                     https://github.com/Perl5-Alien/Alien-autoconf/issues/6
 App-unbelievable-v0.0.4                 https://github.com/cxw42/unbelievable/issues/3
-Mojolicious-Plugin-Crud-0.0.7           131813
+Mojolicious-Plugin-Crud-0.0.8           131813
 Mxpress-PDF-0.08                        131815,131816
 PDL-Opt-QP-0.27                         https://github.com/mvgrimes/pdl-opt-qp/issues/2
 Tk-autobind-1.2                         131818
