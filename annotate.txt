@@ -5484,3 +5484,10 @@ Number-Phone-FR-0.0917215               https://github.com/Perl/perl5/issues/175
 Plack-Handler-Stomp-1.15                127939
 Moops-0.038                             131831
 Acme-Backwards-0.01                     131835
+Devel-DebugInit-0.3                     131837
+Geo-JapanMesh-0.0.2                     131838,131839
+POE-Component-IRC-Plugin-Trac-RSS-0.11  131840
+Spreadsheet-Engine-0.14                 131841
+SWF-Header-0.04                         131842
+Time-TAI64-2.11                         131843
+WWW-Google-News-0.12                    41301
