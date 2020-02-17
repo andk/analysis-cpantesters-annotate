@@ -5491,3 +5491,5 @@ Spreadsheet-Engine-0.14                 131841
 SWF-Header-0.04                         131842
 Time-TAI64-2.11                         131843
 WWW-Google-News-0.12                    41301
+Weather-MOSMIX-0.01                     https://github.com/Corion/Weather-MOSMIX/issues/1
+Mojolicious-Plugin-DBI-0.0.1            131853
