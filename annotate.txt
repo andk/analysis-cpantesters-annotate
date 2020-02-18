@@ -5501,3 +5501,6 @@ DBIx-ThinSQL-0.0.49                     https://github.com/mlawren/p5-DBIx-ThinS
 Archive-Tar-Wrapper-0.37                https://github.com/glasswalk3r/archive-tar-wrapper-perl/issues/16
 Data-ObjectDriver-0.18                  https://github.com/sixapart/data-objectdriver/issues/32
 Geo-Index-v0.0.8                        131861
+WWW-FreeProxyListsCom-1.006             https://github.com/stevieb9/p5-www-freeproxylistscom/issues/11
+Net-Async-IRC-0.11                      131862
+Module-Install-ReadmeFromPod-0.30       130221
