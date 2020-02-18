@@ -5494,3 +5494,6 @@ WWW-Google-News-0.12                    41301
 Weather-MOSMIX-0.01                     https://github.com/Corion/Weather-MOSMIX/issues/1
 Mojolicious-Plugin-DBI-0.0.1            131853
 Test-LWP-UserAgent-0.033                131855
+Date-Holidays-GB-0.015                  https://github.com/mjemmeson/Date-Holidays-GB/issues/6
+FirewallManager-0                       131858
+Mojo-JSON_XS-1.011                      https://github.com/niczero/mojo-jsonxs/issues/4
