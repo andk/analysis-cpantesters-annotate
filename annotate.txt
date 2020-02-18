@@ -5497,3 +5497,7 @@ Test-LWP-UserAgent-0.033                131855
 Date-Holidays-GB-0.015                  https://github.com/mjemmeson/Date-Holidays-GB/issues/6
 FirewallManager-0                       131858
 Mojo-JSON_XS-1.011                      https://github.com/niczero/mojo-jsonxs/issues/4
+DBIx-ThinSQL-0.0.49                     https://github.com/mlawren/p5-DBIx-ThinSQL/issues/2
+Archive-Tar-Wrapper-0.37                https://github.com/glasswalk3r/archive-tar-wrapper-perl/issues/16
+Data-ObjectDriver-0.18                  https://github.com/sixapart/data-objectdriver/issues/32
+Geo-Index-v0.0.8                        131861
