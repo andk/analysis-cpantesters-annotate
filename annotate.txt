@@ -5506,3 +5506,4 @@ Module-Install-ReadmeFromPod-0.30       130221
 Lock-Server-1.75                        131863,131864
 Spp-2.03                                131727
 Huawei-Healthchecker-0.12               131284
+HTML-DeferableCSS-v0.1.1                https://github.com/robrwo/HTML-DeferableCSS/issues/1
