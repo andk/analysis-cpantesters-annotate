@@ -5457,7 +5457,7 @@ Games-Dice-Probability-0.02             131788
 Geo-Formatter-0.0.1                     131789
 Date-Holidays-CZ-0.18                   https://github.com/smithfarm/date-holidays-cz/issues/5
 Graph-Statistics-0.02                   131792
-Jasonify-v0.20.045                      https://github.com/rkleemann/Jasonify/issues/1,https://github.com/rkleemann/Jasonify/issues/2
+Jasonify-v0.20.050                      https://github.com/rkleemann/Jasonify/issues/1,https://github.com/rkleemann/Jasonify/issues/2
 Language-FP-0.03                        131793
 Language-Logo-1.000                     131794,131795
 Devel-Hide-0.0012                       131797
