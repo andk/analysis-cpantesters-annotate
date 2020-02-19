@@ -5196,7 +5196,6 @@ PDL-Graphics-PLplot-0.72                https://github.com/PDLPorters/pdl-graphi
 MojoX-Renderer-Alloy-1.121150           104118
 Graph-Maker-0.02                        108992
 Dita-PCD-20190811                       131282
-Huawei-Healthchecker-0.10               131284
 UTF8-R2-0.06                            https://github.com/Perl/perl5/issues/17391
 podlators-4.13                          131293
 indirect-0.39                           131295
@@ -5506,3 +5505,4 @@ Net-Async-IRC-0.11                      131862
 Module-Install-ReadmeFromPod-0.30       130221
 Lock-Server-1.75                        131863,131864
 Spp-2.03                                131727
+Huawei-Healthchecker-0.12               131284
