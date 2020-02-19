@@ -5512,3 +5512,6 @@ WWW-Google-Groups-0.09                  131873
 WWW-Hashdb-0.01                         131874
 Acme-BOPE-0.01                          131876
 MooX-XSConstructor-0.002                131877
+Data-Babel-Client-0.02                  65016
+Gtk2-Ex-TreeMap-0.02                    89671
+Gtk2-Ex-TreeMaker-0.11                  131878
