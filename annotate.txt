@@ -5515,3 +5515,11 @@ MooX-XSConstructor-0.002                131877
 Data-Babel-Client-0.02                  65016
 Gtk2-Ex-TreeMap-0.02                    89671
 Gtk2-Ex-TreeMaker-0.11                  131878
+Acme-CreatingCPANModules-0.01           131879
+Catalyst-Model-ISBNDB-0.22              131880
+Catalyst-Plugin-Flavour-0.03            131881,131882
+Cisco-Version-0.02                      131883
+DNS-BL-0.03                             131884
+File-SambaMSNRL-0.02                    131885
+IO-All-SFTP-0.01                        102073
+Math-SymbolicX-Calculator-Interface-Web-0.01 131886
