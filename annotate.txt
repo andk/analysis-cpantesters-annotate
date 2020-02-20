@@ -5523,3 +5523,8 @@ DNS-BL-0.03                             131884
 File-SambaMSNRL-0.02                    131885
 IO-All-SFTP-0.01                        102073
 Math-SymbolicX-Calculator-Interface-Web-0.01 131886
+Net-Amazon-S3-ACL-0.1.0                 131895
+Net-Magrathea-0.03                      131896
+Palm-Progect-2.0.4                      131897
+POD2-FR-0.03                            131898
+Test-More-Behaviours-v0.0.4             131899
