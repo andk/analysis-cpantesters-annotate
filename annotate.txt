@@ -3916,7 +3916,7 @@ Data-Sah-CoerceBundle-App-cryp-0.005    127845
 QWizard-3.15                            127846,121401
 App-diffdir-0.9                         127848,https://github.com/ivanwills/App-diffdir/issues/1
 Date-Manip-6.74                         127870
-Alien-nragent-0.05                      https://github.com/plicease/Alien-nragent/issues/1
+Alien-nragent-0.07                      https://github.com/plicease/Alien-nragent/issues/1
 Config-Model-OpenSsh-1.240              https://github.com/dod38fr/config-model-openssh/issues/4
 Glib-1.3292                             127871
 Net-LibIDN2-1.00                        125440
