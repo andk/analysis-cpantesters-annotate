@@ -5535,3 +5535,5 @@ CPANPLUS-Shell-Default-Plugins-Prereqs-0.10 131912
 ORLite-Array-0.02                       131913
 Env-Sanctify-Auto-1.001                 131914,131917
 File-List-Object-0.202                  131915
+Mojolicious-Plugin-Minion-Overview-0.0.1 131921
+Test-Ratchet-0.004                      https://github.com/Altreus/p5-Test-Ratchet/issues/4
