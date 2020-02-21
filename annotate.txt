@@ -5531,3 +5531,7 @@ Test-More-Behaviours-v0.0.4             131899
 Test-Ratchet-0.001                      131909
 Catalyst-Plugin-ConfigurablePathTo-0.01 131910
 Cluster-Similarity-v0.02                131911
+CPANPLUS-Shell-Default-Plugins-Prereqs-0.10 131912
+ORLite-Array-0.02                       131913
+Env-Sanctify-Auto-1.001                 131914,131917
+File-List-Object-0.202                  131915
