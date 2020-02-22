@@ -5543,3 +5543,6 @@ MarpaX-ESLIF-3.0.30                     131928
 File-DataClass-0.73.1                   131923
 LEOCHARRE-HTML-Text-1.05                131932
 Module-Release-CSJEWELL-0.101           131933,131934,131935
+Locale-ID-Locality-0.11                 131937
+Business-ID-NIK-0.093                   131938
+Data-Record-Serialize-0.18              131939
