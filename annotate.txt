@@ -4398,7 +4398,7 @@ MassSpec-ViewSpectrum-RealVsHypPeptide-0.02 129043
 MLDBM-Easy-0.01                         129044
 Data-TimeSeries-0.53                    129045,131786
 Markup-Tree-1.2.2                       129046
-Colouring-In-0.14                       129047
+Colouring-In-0.15                       129047
 Module-Starter-Plugin-CGIApp-0.44       128881
 NIST-Beacon-1.002                       https://github.com/woodruffw/NIST-Beacon/issues/2
 podlators-4.11                          129048
