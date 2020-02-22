@@ -4872,7 +4872,7 @@ Perinci-Access-Perl-0.890               130121
 App-PFT-v1.4.1                          130122,https://github.com/dacav/App-PFT/issues/6
 DataLoader-0.01                         130124
 DBD-PgPPSjis-0.0801006                  130132
-Devel-ebug-0.59                         https://github.com/awwaiid/Devel-ebug/issues/18
+Devel-ebug-0.59                         https://github.com/awwaiid/Devel-ebug/issues/18,https://github.com/awwaiid/Devel-ebug/issues/19
 Test-TempDir-Tiny-0.018                 https://github.com/dagolden/Test-TempDir-Tiny/issues/16
 Crypt-Curve25519-0.06                   https://github.com/ajgb/crypt-curve25519/issues/9
 CPP-panda-lib-1.2.3                     130142
