@@ -5540,3 +5540,6 @@ Test-Ratchet-0.004                      https://github.com/Altreus/p5-Test-Ratch
 ojo-ServeDir-0.1                        https://github.com/memowe/Mojo-ServeDir/issues/6
 Data-Throttler-Memcached-0.00003        131927
 MarpaX-ESLIF-3.0.30                     131928
+File-DataClass-0.73.1                   131923
+LEOCHARRE-HTML-Text-1.05                131932
+Module-Release-CSJEWELL-0.101           131933,131934,131935
