@@ -5550,3 +5550,6 @@ POE-Component-MXML-0.03                 131940
 Doodle-0.07                             https://github.com/iamalnewkirk/doodle/issues/19
 Net-Address-Ethernet-1.126              131941
 MarpaX-Languages-M4-0.020               131942
+YamlTime-Git-0.09                       120650
+MooX-Struct-0.017                       131943
+Net-AMQP-RabbitMQ-2.40005               https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq/issues/186
