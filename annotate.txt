@@ -3094,7 +3094,7 @@ RRD-Tweak-1.00                          122901
 Vimana-2.26                             122902
 WebService-NetSuite-0.05                118954
 WWW-Analytics-MultiTouch-0.36           122907
-RDF-Notation3-0.91                      62575, 72828,72828,122904
+RDF-Notation3-0.91                      62575,72828,122904
 Elastic-Model-0.52                      https://github.com/clintongormley/Elastic-Model/issues/45
 Net-Google-Calendar-Server-0.1          122905
 File-Stat-Trigger-0.05                  122906
