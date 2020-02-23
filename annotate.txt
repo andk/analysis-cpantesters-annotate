@@ -5553,3 +5553,5 @@ MarpaX-Languages-M4-0.020               131942
 YamlTime-Git-0.09                       120650
 MooX-Struct-0.017                       131943
 Net-AMQP-RabbitMQ-2.40005               https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq/issues/186
+JSON-Schema-ToJSON-0.16                 https://github.com/Humanstate/json-schema-tojson/issues/6
+Text-Lorem-0.3                          105027
