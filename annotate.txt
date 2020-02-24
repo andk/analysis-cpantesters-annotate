@@ -5558,3 +5558,4 @@ Text-Lorem-0.3                          105027
 Test-WWW-Mechanize-Driver-0.6           131945
 font_ft2_0.1.0                          131948,131950
 Neo4j-Bolt-0.11                         https://github.com/majensen/perlbolt/issues/28
+Mojolicious-Plugin-ReCAPTCHAv2-1.04     131957
