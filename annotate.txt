@@ -5559,3 +5559,7 @@ Test-WWW-Mechanize-Driver-0.6           131945
 font_ft2_0.1.0                          131948,131950
 Neo4j-Bolt-0.11                         https://github.com/majensen/perlbolt/issues/28
 Mojolicious-Plugin-ReCAPTCHAv2-1.04     131957
+Algorithm-Genetic-Diploid-0.3           131959
+API-PleskExpand-1.07                    131960
+App-perlminlint-0.24                    113904,131962
+B-Stats-0.09                            131963
