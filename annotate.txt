@@ -5566,3 +5566,8 @@ B-Stats-0.09                            131963
 Data-ObjectStore-2.13                   131964
 Catalyst-Plugin-Session-Store-DBI-0.16  131965
 File-Rsync-Mirror-Recent-0.4.5          131966
+Filter-Crypto-2.08                      131973
+Finance-OFX-2a                          131974
+HTML-Template-Compiled-Plugin-LineBreak-0.02 106100
+HTTP-DAV-0.49                           131976
+Locale-Framework-gettext-0.04           131977
