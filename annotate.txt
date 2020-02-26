@@ -5571,3 +5571,5 @@ Finance-OFX-2a                          131974
 HTML-Template-Compiled-Plugin-LineBreak-0.02 106100
 HTTP-DAV-0.49                           131976
 Locale-Framework-gettext-0.04           131977
+Mojo-UserAgent-Mockable-1.57            https://github.com/PopeFelix/Mojo-UserAgent-Mockable/issues/27
+Net-IChat-0.01                          131978
