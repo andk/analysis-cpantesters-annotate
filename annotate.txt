@@ -5577,3 +5577,12 @@ Tie-SaveLater-0.04                      131985
 Debug-Filter-PrintExpr-0.16             https://github.com/jo-37/debug-filter-printexpr/issues/3
 File-Find-Rule-BOM-0.01                 131996,131997
 Parse-DMIDecode-0.03                    131998
+YAML-Active-1.100810                    131999
+XML-Filter-Namespace-1.03               132000
+WWW-Scraper-ISBN-TWPchome_Driver-0.01   132001
+WWW-Scraper-ISBN-TWEslitebooks_Driver-0.02 132002
+TkGenerator-00.1a                       132003
+Tk-MDI-0.2                              132004
+TestML1-0.57                            deprecated,https://github.com/ingydotnet/testml1-pm/issues/1
+db-sql-migrations-advanced-v0.0.1       132005
+GIFgraphExtensions-1.0                  132006
