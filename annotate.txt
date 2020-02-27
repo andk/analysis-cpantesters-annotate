@@ -5586,3 +5586,4 @@ Tk-MDI-0.2                              132004
 TestML1-0.57                            deprecated,https://github.com/ingydotnet/testml1-pm/issues/1
 db-sql-migrations-advanced-v0.0.1       132005
 GIFgraphExtensions-1.0                  132006
+HTTP-Cookies-Safari-1.153               https://github.com/briandfoy/http-cookies-safari/issues/2
