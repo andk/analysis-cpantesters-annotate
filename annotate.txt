@@ -5574,3 +5574,6 @@ Locale-Framework-gettext-0.04           131977
 Mojo-UserAgent-Mockable-1.57            https://github.com/PopeFelix/Mojo-UserAgent-Mockable/issues/27
 Net-IChat-0.01                          131978
 Tie-SaveLater-0.04                      131985
+Debug-Filter-PrintExpr-0.16             https://github.com/jo-37/debug-filter-printexpr/issues/3
+File-Find-Rule-BOM-0.01                 131996,131997
+Parse-DMIDecode-0.03                    131998
