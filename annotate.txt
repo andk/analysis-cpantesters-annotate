@@ -5587,3 +5587,6 @@ TestML1-0.57                            deprecated,https://github.com/ingydotnet
 db-sql-migrations-advanced-v0.0.1       132005
 GIFgraphExtensions-1.0                  132006
 HTTP-Cookies-Safari-1.153               https://github.com/briandfoy/http-cookies-safari/issues/2
+Proc-Parallel-0.601                     132025
+ExtUtils-Autoconf-0.02                  132026
+HTML-Template-Compiled-Plugin-Comma-0.01 106099
