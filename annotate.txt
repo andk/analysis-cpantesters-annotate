@@ -5590,3 +5590,4 @@ HTTP-Cookies-Safari-1.153               https://github.com/briandfoy/http-cookie
 Proc-Parallel-0.601                     132025
 ExtUtils-Autoconf-0.02                  132026
 HTML-Template-Compiled-Plugin-Comma-0.01 106099
+TimeDate-2.31                           https://github.com/atoomic/perl-TimeDate/issues/33
