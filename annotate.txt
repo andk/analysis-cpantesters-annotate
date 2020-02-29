@@ -5591,3 +5591,5 @@ Proc-Parallel-0.601                     132025
 ExtUtils-Autoconf-0.02                  132026
 HTML-Template-Compiled-Plugin-Comma-0.01 106099
 TimeDate-2.31                           https://github.com/atoomic/perl-TimeDate/issues/33
+DateTime-Astro-1.03                     https://github.com/lestrrat-p5/DateTime-Astro/issues/9
+Jasonify-v0.20.060                      https://github.com/rkleemann/Jasonify/issues/3
