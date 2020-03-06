@@ -5593,3 +5593,6 @@ HTML-Template-Compiled-Plugin-Comma-0.01 106099
 TimeDate-2.31                           https://github.com/atoomic/perl-TimeDate/issues/33
 DateTime-Astro-1.03                     https://github.com/lestrrat-p5/DateTime-Astro/issues/9
 Jasonify-v0.20.060                      https://github.com/rkleemann/Jasonify/issues/3
+Bencher-Scenarios-PerinciSubValidateArgs-0.004 132065
+Catalyst-Plugin-Session-Store-RedisFast-0.02 https://github.com/vrag86/catalyst-plugin-session-store-redisfast/issues/1
+Log-ger-0.031                           132066
