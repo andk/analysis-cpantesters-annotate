@@ -5600,6 +5600,6 @@ RDF-Simple-0.421                        132073
 Geo-Hashing-0.06                        132076
 Plack-Middleware-Security-Simple-v0.2.1 https://github.com/robrwo/Plack-Middleware-Security-Simple/issues/2
 as-0.09                                 132077
-Catalyst-Plugin-AuthenCookie-0.07       132078,deprecated
+Catalyst-Plugin-AuthenCookie-0.07       132078,132081,deprecated
 Tree-Family-0.02                        132079
 Devel-CompileLevel-0.001003             132080
