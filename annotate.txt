@@ -5597,3 +5597,5 @@ Bencher-Scenarios-PerinciSubValidateArgs-0.004 132065
 Catalyst-Plugin-Session-Store-RedisFast-0.02 https://github.com/vrag86/catalyst-plugin-session-store-redisfast/issues/1
 Log-ger-0.031                           132066
 RDF-Simple-0.421                        132073
+Geo-Hashing-0.06                        132076
+Plack-Middleware-Security-Simple-v0.2.1 https://github.com/robrwo/Plack-Middleware-Security-Simple/issues/2
