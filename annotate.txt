@@ -4584,7 +4584,7 @@ Parse-Fedora-Packages-0.06              109759,129276
 Quiq-1.137                              129277
 signatures-0.13                         129281
 Database-Async-0.004                    https://github.com/team-at-cpan/Database-Async/issues/2
-Log-ger-Layout-JSON-0.001               129285
+Log-ger-Layout-JSON-0.002               129285
 OpenStack-MetaAPI-0.002                 https://github.com/atoomic/OpenStack-MetaAPI/issues/4
 Schedule-Cron-Nofork-0.03               129286
 String-Numeric-XS-0.9                   129287
