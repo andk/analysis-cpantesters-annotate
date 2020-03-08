@@ -5606,3 +5606,5 @@ Devel-CompileLevel-0.001003             132080
 Starlight-0.0306                        https://github.com/dex4er/Starlight/issues/4
 Log-ger-Output-Composite-0.013          132088
 Psonpath-0.1.1                          132089,132090
+digitagCT-1.01                          132092
+Test2-Suite-0.000129                    https://github.com/Test-More/Test2-Suite/issues/208
