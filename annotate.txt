@@ -5612,3 +5612,4 @@ Bro-Log-Parse-0.08                      https://github.com/0xxon/perl-zeek-log-p
 MouseX-YAML-0.001                       132093
 Log-FileSimple-0.02                     132095
 Signals-XSIG-0.15                       103457
+CGI-URI2param-1.01                      132096
