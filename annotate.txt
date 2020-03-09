@@ -5611,3 +5611,4 @@ Test2-Suite-0.000129                    https://github.com/Test-More/Test2-Suite
 Bro-Log-Parse-0.08                      https://github.com/0xxon/perl-zeek-log-parse/issues/1
 MouseX-YAML-0.001                       132093
 Log-FileSimple-0.02                     132095
+Signals-XSIG-0.15                       103457
