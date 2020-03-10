@@ -5615,3 +5615,6 @@ Signals-XSIG-0.15                       103457
 CGI-URI2param-1.01                      132096
 Devel-STrace-0.31                       90472
 XML-Filter-Cache-0.03                   132098
+Math-SlideRule-1.09                     132103
+Net-Curl-0.43                           https://github.com/sparky/perl-Net-Curl/issues/47
+Net-Curl-0.44_3                         https://github.com/sparky/perl-Net-Curl/issues/47
