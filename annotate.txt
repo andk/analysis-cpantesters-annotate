@@ -5619,3 +5619,6 @@ Math-SlideRule-1.09                     132103
 Net-Curl-0.43                           https://github.com/sparky/perl-Net-Curl/issues/47
 Net-Curl-0.44_3                         https://github.com/sparky/perl-Net-Curl/issues/47
 Test-Sah-Schema-0.008                   132108
+Persistent-LDAP-0.50                    132109
+Persistent-MySQL-0.50                   132110
+Term-Clear-0.01                         https://github.com/drmuey/p5-Term-Clear/issues/2
