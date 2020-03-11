@@ -5618,3 +5618,4 @@ XML-Filter-Cache-0.03                   132098
 Math-SlideRule-1.09                     132103
 Net-Curl-0.43                           https://github.com/sparky/perl-Net-Curl/issues/47
 Net-Curl-0.44_3                         https://github.com/sparky/perl-Net-Curl/issues/47
+Test-Sah-Schema-0.008                   132108
