@@ -5627,3 +5627,6 @@ Math-BigApprox-0.001005                 132121
 Net-SFTP-Server-0.03                    132122
 AI-NeuralNet-Kohonen-Demo-RGB-0.123     132125
 App-Chronicle-5.1.7                     132126,archived on github
+Net-DNS-Async-Simple-1.161090           https://github.com/dana/perl-Net-DNS-Async-Simple/issues/1
+Regexp-NamedCaptures-0.05               52513
+Archive-Zip-1.68                        https://github.com/redhotpenguin/perl-Archive-Zip/issues/74
