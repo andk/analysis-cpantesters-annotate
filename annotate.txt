@@ -5632,3 +5632,4 @@ Regexp-NamedCaptures-0.05               52513
 Archive-Zip-1.68                        https://github.com/redhotpenguin/perl-Archive-Zip/issues/74
 Alien-LibXML-0.004                      132130
 Tk-StyledButton-0.10                    32086
+MooseX-PDF-0.01                         132132
