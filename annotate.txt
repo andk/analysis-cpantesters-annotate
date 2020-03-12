@@ -5630,3 +5630,5 @@ App-Chronicle-5.1.7                     132126,archived on github
 Net-DNS-Async-Simple-1.161090           https://github.com/dana/perl-Net-DNS-Async-Simple/issues/1
 Regexp-NamedCaptures-0.05               52513
 Archive-Zip-1.68                        https://github.com/redhotpenguin/perl-Archive-Zip/issues/74
+Alien-LibXML-0.004                      132130
+Tk-StyledButton-0.10                    32086
