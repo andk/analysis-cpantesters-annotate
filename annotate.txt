@@ -5625,3 +5625,5 @@ Term-Clear-0.01                         https://github.com/drmuey/p5-Term-Clear/
 Log-ger-Plugin-Perl-0.002               132118
 Math-BigApprox-0.001005                 132121
 Net-SFTP-Server-0.03                    132122
+AI-NeuralNet-Kohonen-Demo-RGB-0.123     132125
+App-Chronicle-5.1.7                     132126,archived on github
