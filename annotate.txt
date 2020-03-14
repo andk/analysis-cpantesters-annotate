@@ -5634,3 +5634,4 @@ Alien-LibXML-0.004                      132130
 Tk-StyledButton-0.10                    32086
 MooseX-PDF-0.01                         132132
 OCBNET-WebSprite-v1.0.2                 132133,132134
+ExtUtils-MY_Metafile-0.09               https://github.com/Perl/perl5/issues/17590,132008
