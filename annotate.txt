@@ -5654,3 +5654,4 @@ Primesieve-0.01                         132185
 DBIx-Class-0.082841.tar.gz              https://github.com/Perl/perl5/issues/17663
 App-Framework-Lite-1.09.tar.gz          https://github.com/Perl/perl5/issues/17663
 CGI-ProgressBar-0.05.tar.gz             https://github.com/Perl/perl5/issues/17663
+EAV-XS-0.3.0                            132187,132191,132192
