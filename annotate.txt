@@ -5651,7 +5651,7 @@ Music-Scala-1.05                        132164
 Config-File-1.51                        132165
 Data-Object-Attributes-0.04             https://github.com/iamalnewkirk/data-object-attributes/issues/8
 Primesieve-0.01                         132185
-DBIx-Class-0.082841.tar.gz              https://github.com/Perl/perl5/issues/17663
-App-Framework-Lite-1.09.tar.gz          https://github.com/Perl/perl5/issues/17663
-CGI-ProgressBar-0.05.tar.gz             https://github.com/Perl/perl5/issues/17663
+DBIx-Class-0.082841                     https://github.com/Perl/perl5/issues/17663
+App-Framework-Lite-1.09                 https://github.com/Perl/perl5/issues/17663
+CGI-ProgressBar-0.05                    https://github.com/Perl/perl5/issues/17663
 EAV-XS-0.3.0                            132187,132191,132192
