@@ -3076,7 +3076,7 @@ GD-Map-1.00                             122729
 DBIx-Class-InflateColumn-S3-0.01        hidden MacOSX files, no bugtracker
 Data-Validate-XSD-1.05                  122730
 WordNet-Extend-1.000                    122732
-Hash-SharedMem-0.005                    122775
+Hash-SharedMem-0.005                    122775,122864
 Statistics-Multtest-0.14                122859
 Mail-OpenDKIM-4204                      122861
 IPC-MorseSignals-0.17                   117528, module is deprecated
@@ -5657,3 +5657,4 @@ CGI-ProgressBar-0.05                    https://github.com/Perl/perl5/issues/176
 EAV-XS-0.3.2                            132187,132192
 MetaMap-DataStructures-0.05             132194
 Math-Prime-Util-GMP-0.51                131719
+Primesieve-0.04                         132199
