@@ -5655,3 +5655,5 @@ DBIx-Class-0.082841                     https://github.com/Perl/perl5/issues/176
 App-Framework-Lite-1.09                 https://github.com/Perl/perl5/issues/17663
 CGI-ProgressBar-0.05                    https://github.com/Perl/perl5/issues/17663
 EAV-XS-0.3.0                            132187,132191,132192
+MetaMap-DataStructures-0.05             132194
+Math-Prime-Util-GMP-0.51                131719
