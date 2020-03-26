@@ -5660,3 +5660,9 @@ Math-Prime-Util-GMP-0.51                131719
 Primesieve-0.04                         132199
 Encode-Base2N-1.0.1                     132223
 HealthCheck-Diagnostic-FilePermissions-v1.4.2 https://github.com/GrantStreetGroup/p5-HealthCheck-Diagnostic-FilePermissions/issues/1
+Search-Elasticsearch-Async-6.80         https://github.com/elastic/elasticsearch-perl/issues/182
+Search-Elasticsearch-Cxn-NetCurl-6.80   https://github.com/elastic/elasticsearch-perl/issues/183
+Module-Generic-0.11.3                   132240
+OpenTracing-Interface-0.15              132241
+Photonic-0.013                          132242
+Sah-Schemas-Git-0.001                   132243
