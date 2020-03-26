@@ -5658,3 +5658,5 @@ EAV-XS-0.3.2                            132187,132192
 MetaMap-DataStructures-0.05             132194
 Math-Prime-Util-GMP-0.51                131719
 Primesieve-0.04                         132199
+Encode-Base2N-1.0.1                     132223
+HealthCheck-Diagnostic-FilePermissions-v1.4.2 https://github.com/GrantStreetGroup/p5-HealthCheck-Diagnostic-FilePermissions/issues/1
