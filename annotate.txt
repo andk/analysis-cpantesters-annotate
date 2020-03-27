@@ -3415,7 +3415,7 @@ POE-Filter-SSL-0.41                     124442
 Fsdb-2.64                               124452
 ExtUtils-HasCompiler-0.021              124453
 Devel-TimeStats-0.04                    124450
-Test-Mojo-Role-Debug-JSON-0.003         https://github.com/atoomic/Test-Mojo-Role-Debug-JSON/issues/1
+Test-Mojo-Role-Debug-JSON-0.004         https://github.com/atoomic/Test-Mojo-Role-Debug-JSON/issues/1
 Graph-Feather-0.03                      124457
 Parse-ABNF-0.26                         124466
 Perlmazing-1.2812                       124320
