@@ -5666,3 +5666,4 @@ Module-Generic-0.11.3                   132240
 OpenTracing-Interface-0.15              132241
 Photonic-0.013                          132242
 Sah-Schemas-Git-0.001                   132243
+App-week-0.02                           https://github.com/kaz-utashiro/App-week/issues/1,https://github.com/kaz-utashiro/App-week/issues/2,https://github.com/kaz-utashiro/App-week/issues/3,https://github.com/kaz-utashiro/App-week/issues/4
