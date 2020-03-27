@@ -5667,3 +5667,5 @@ OpenTracing-Interface-0.15              132241
 Photonic-0.013                          132242
 Sah-Schemas-Git-0.001                   132243
 App-week-0.02                           https://github.com/kaz-utashiro/App-week/issues/1,https://github.com/kaz-utashiro/App-week/issues/2,https://github.com/kaz-utashiro/App-week/issues/3,https://github.com/kaz-utashiro/App-week/issues/4
+Serge-Sync-Plugin-TranslationService-weblate-0.900.2 https://github.com/dragosv/serge-plugins/issues/13
+Statistics-Covid-0.20                   132247
