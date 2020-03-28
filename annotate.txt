@@ -5670,4 +5670,4 @@ App-week-0.02                           https://github.com/kaz-utashiro/App-week
 Serge-Sync-Plugin-TranslationService-weblate-0.900.2 https://github.com/dragosv/serge-plugins/issues/13
 Statistics-Covid-0.21                   132250
 Net-API-Stripe-0.6                      132253
-File-LibMagic-1.17-TRIAL                https://github.com/houseabsolute/File-LibMagic/issues/22
+File-LibMagic-1.18-TRIAL                https://github.com/houseabsolute/File-LibMagic/issues/22
