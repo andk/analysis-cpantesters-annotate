@@ -5671,3 +5671,6 @@ Serge-Sync-Plugin-TranslationService-weblate-0.900.3 https://github.com/dragosv/
 Statistics-Covid-0.21                   132250
 Net-API-Stripe-0.6                      132253
 File-LibMagic-1.18-TRIAL                https://github.com/houseabsolute/File-LibMagic/issues/22
+File-Corresponding-0.004                132254
+File-Find-Rule-UnixPermissions-0.0.0    132255
+Alien-SNMP-2.001000                     132257
