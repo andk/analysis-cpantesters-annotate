@@ -5677,3 +5677,4 @@ Alien-SNMP-2.001000                     132257
 Alien-Proj4-2.019110                    https://github.com/PDLPorters/Alien-Proj4/issues/10
 Finance-Robinhood-0.92_003              https://github.com/sanko/Finance-Robinhood/issues/4
 mojo-debugbar-v0.0.4                    132259
+FlightRecorder-0.03                     132280
