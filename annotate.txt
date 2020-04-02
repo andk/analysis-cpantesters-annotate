@@ -5678,3 +5678,5 @@ Alien-Proj4-2.019110                    https://github.com/PDLPorters/Alien-Proj
 Finance-Robinhood-0.92_003              https://github.com/sanko/Finance-Robinhood/issues/4
 mojo-debugbar-v0.0.4                    132259
 FlightRecorder-0.03                     132280
+Tickit-Widget-FloatBox-0.05             132284
+Tickit-Widget-ScrollBox-0.08            132284
