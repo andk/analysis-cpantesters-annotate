@@ -5686,3 +5686,4 @@ Future-AsyncAwait-0.39                  132292
 MooX-Purple-0.13                        132294
 TSQL-FlatFile-1.02                      132295
 StorageDisplay-1.0.3                    132296,132297
+Mojolicious-Command-scaffold-0.0.6      132298
