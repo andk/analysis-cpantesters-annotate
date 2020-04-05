@@ -5687,3 +5687,4 @@ MooX-Purple-0.13                        132294
 TSQL-FlatFile-1.03                      132295
 StorageDisplay-1.0.3                    132296,132297
 Mojolicious-Command-scaffold-0.0.6      132298
+Devel-Required-0.15                     132269
