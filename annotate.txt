@@ -5689,3 +5689,4 @@ StorageDisplay-1.0.3                    132296,132297
 Mojolicious-Command-scaffold-0.0.6      132298
 Devel-Required-0.15                     132269
 DBIx-Array-0.64                         132299
+Mojolicious-Plugin-Sticker-v0.0.2       https://github.com/blabos/Mojolicious-Plugin-Sticker/issues/1
