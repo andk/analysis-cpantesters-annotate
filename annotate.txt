@@ -5692,3 +5692,4 @@ DBIx-Array-0.64                         132299
 Mojolicious-Plugin-Sticker-v0.0.2       https://github.com/blabos/Mojolicious-Plugin-Sticker/issues/1
 Dancer2-0.300001                        https://github.com/PerlDancer/Dancer2/issues/1541
 Sub-Alias-1.0.0                         https://github.com/gugod/Sub-Alias/issues/1
+Template-Liquid-1.0.19                  https://github.com/sanko/template-liquid/issues/10
