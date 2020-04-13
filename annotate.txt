@@ -5693,7 +5693,7 @@ Mojolicious-Plugin-Sticker-v0.0.2       https://github.com/blabos/Mojolicious-Pl
 Dancer2-0.300001                        https://github.com/PerlDancer/Dancer2/issues/1541
 Sub-Alias-1.0.0                         https://github.com/gugod/Sub-Alias/issues/1
 Template-Liquid-1.0.19                  https://github.com/sanko/template-liquid/issues/10
-HTTP-Request-FromCurl-0.15              127641,130755,132316
+HTTP-Request-FromCurl-0.16              127641,130755,132316
 MooX-Purple-0.14                        132317
 Multipart-Encoder-v0.0.7                https://github.com/darviarush/perl-multipart-encoder/issues/1
 TSQL-FlatFile-1.04                      132318
