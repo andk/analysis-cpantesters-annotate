@@ -5700,7 +5700,8 @@ TSQL-FlatFile-1.04                      132318
 MooX-Purple-0.15                        132322
 Net-NfDump-1.28                         125798,132329
 Dancer2-Plugin-Auth-Extensible-0.708    https://github.com/PerlDancer/Dancer2-Plugin-Auth-Extensible/issues/93
-Mxpress-PDF-0.20                        132328,131816
+Mxpress-PDF-0.21                        132328,131816
 Test-PerlTidy-20200411                  https://github.com/shlomif/Test-PerlTidy/issues/4
 Wasm-0.03                               https://github.com/perlwasm/Wasm/issues/22
 Yancy-1.051                             https://github.com/preaction/Yancy/issues/98
+Mojolicious-Plugin-Prometheus-1.3.1     https://github.com/tyldum/mojolicious-plugin-prometheus/issues/21
