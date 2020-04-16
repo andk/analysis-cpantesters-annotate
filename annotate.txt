@@ -5710,3 +5710,5 @@ Module-Manifest-Skip-0.23               https://github.com/ingydotnet/module-man
 Data-Dumper-AutoEncode-AsDumper-1.0002  https://github.com/1nickt/Data-Dumper-AutoEncode-AsDumper/issues/1
 Mojo-Log-Role-Color-0.01                https://github.com/jhthorsen/mojo-log-role-color/issues/1
 Archive-BagIt-0.055                     132358
+Data-Random-Structure-UTF8-0.03         132360
+FSM-Basic-0.17                          132361
