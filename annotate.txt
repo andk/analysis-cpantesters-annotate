@@ -5714,3 +5714,6 @@ Data-Random-Structure-UTF8-0.03         132360
 FSM-Basic-0.17                          132361
 Feed-Data-0.02                          132368
 Mojo-Log-Role-Color-0.02                https://github.com/jhthorsen/mojo-log-role-color/issues/2
+Data-Random-Structure-UTF8-0.05         https://github.com/hadjiprocopis/Data-Random-Structure-UTF8/issues/1
+Alien-MUSCLE-0.01                       https://github.com/kiwiroy/p5-alien-muscle/issues/1
+Test-Ability-0.04                       https://github.com/iamalnewkirk/test-ability/issues/9
