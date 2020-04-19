@@ -5717,3 +5717,4 @@ Mojo-Log-Role-Color-0.02                https://github.com/jhthorsen/mojo-log-ro
 Data-Random-Structure-UTF8-0.05         https://github.com/hadjiprocopis/Data-Random-Structure-UTF8/issues/1
 Alien-MUSCLE-0.01                       https://github.com/kiwiroy/p5-alien-muscle/issues/1
 Test-Ability-0.04                       https://github.com/iamalnewkirk/test-ability/issues/9
+Test-Mojo-Trim-0.1000                   https://github.com/Csson/p5-test-mojo-trim/issues/3
