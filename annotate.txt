@@ -5722,3 +5722,4 @@ Test-Mojo-Role-ElementCounter-1.001007  https://github.com/zoffixznet/Test-Mojo-
 Math-Float128-0.12                      132376
 Mojolicious-Plugin-ClosedRedirect-0.14  https://github.com/Akron/Mojolicious-Plugin-ClosedRedirect/issues/1
 MojoX-Validate-Util-1.01                132379
+Test-Mojo-Session-1.05                  https://github.com/avkhozov/Test-Mojo-Session/issues/8
