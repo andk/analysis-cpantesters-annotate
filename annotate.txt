@@ -5727,3 +5727,6 @@ Test-Mojo-Plack-0.10                    132383
 Test-Mojo-Role-Selenium-0.16            https://github.com/jhthorsen/test-mojo-role-selenium/issues/8
 Quiq-1.179                              132386
 Data-Roundtrip-0.08                     https://github.com/hadjiprocopis/data-roundtrip/issues/1
+Games-Solitaire-Verify-0.2301           https://github.com/shlomif/fc-solve/issues/39
+Multipart-Encoder-v0.0.9                https://github.com/darviarush/perl-multipart-encoder/issues/2,https://github.com/darviarush/perl-multipart-encoder/issues/3
+Test-Ratchet-0.005                      https://github.com/Altreus/p5-Test-Ratchet/issues/5
