@@ -5723,3 +5723,6 @@ Math-Float128-0.12                      132376
 Mojolicious-Plugin-ClosedRedirect-0.14  https://github.com/Akron/Mojolicious-Plugin-ClosedRedirect/issues/1
 MojoX-Validate-Util-1.01                132379
 Test-Mojo-Session-1.05                  https://github.com/avkhozov/Test-Mojo-Session/issues/8
+Test-Mojo-Plack-0.10                    132383
+Test-Mojo-Role-Selenium-0.16            https://github.com/jhthorsen/test-mojo-role-selenium/issues/8
+Quiq-1.179                              132386
