@@ -5730,3 +5730,6 @@ Data-Roundtrip-0.08                     https://github.com/hadjiprocopis/data-ro
 Games-Solitaire-Verify-0.2301           https://github.com/shlomif/fc-solve/issues/39
 Multipart-Encoder-v0.0.9                https://github.com/darviarush/perl-multipart-encoder/issues/2,https://github.com/darviarush/perl-multipart-encoder/issues/3
 Test-Ratchet-0.005                      https://github.com/Altreus/p5-Test-Ratchet/issues/5
+Colouring-In-0.18                       132400
+Data-Object-Role-Dumpable-2.01          https://github.com/iamalnewkirk/data-object-role-dumpable/issues/4
+Math-FractionManip-0.5403               132402
