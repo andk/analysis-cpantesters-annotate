@@ -5735,3 +5735,4 @@ Data-Object-Role-Dumpable-2.01          https://github.com/iamalnewkirk/data-obj
 Math-FractionManip-0.5403               132402
 DBD-Pg-3.11.0                           132412
 Yancy-1.055                             https://github.com/preaction/Yancy/issues/101
+Zydeco-0.517                            132422
