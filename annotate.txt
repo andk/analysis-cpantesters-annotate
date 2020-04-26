@@ -5705,7 +5705,7 @@ Test-PerlTidy-20200411                  https://github.com/shlomif/Test-PerlTidy
 Wasm-0.03                               https://github.com/perlwasm/Wasm/issues/22
 Yancy-1.051                             https://github.com/preaction/Yancy/issues/98
 Mojolicious-Plugin-Prometheus-1.3.1     https://github.com/tyldum/mojolicious-plugin-prometheus/issues/21
-Mxpress-PDF-0.24                        131816
+Mxpress-PDF-0.25                        131816
 Module-Manifest-Skip-0.23               https://github.com/ingydotnet/module-manifest-skip-pm/issues/7
 Data-Dumper-AutoEncode-AsDumper-1.0002  https://github.com/1nickt/Data-Dumper-AutoEncode-AsDumper/issues/1
 Mojo-Log-Role-Color-0.01                https://github.com/jhthorsen/mojo-log-role-color/issues/1
