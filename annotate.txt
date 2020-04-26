@@ -5737,3 +5737,4 @@ DBD-Pg-3.11.0                           132412
 Yancy-1.055                             https://github.com/preaction/Yancy/issues/101
 Zydeco-0.517                            132422
 MPV-Simple-0.65                         132423
+Scope-Escape-0.005                      132424
