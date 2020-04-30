@@ -5740,3 +5740,5 @@ MPV-Simple-0.65                         132423
 Scope-Escape-0.005                      132424
 MPV-Simple-0.65                         132423
 Finance-Bank-Postbank_de-0.57           132435
+Math-BigInt-Random-OO-0.04              132452
+Text-Hspell-0.2.3                       https://github.com/shlomif/Text-Hspell/issues/1
