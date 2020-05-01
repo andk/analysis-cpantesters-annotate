@@ -5752,3 +5752,7 @@ Web-Microformats2-0.510                 https://github.com/jmacdotorg/microforma
 Evented-API-Engine-4.13                 132465
 Evented-Configuration-4.04              132466
 Graph-Nauty-0.1.0                       https://github.com/merkys/Graph-Nauty/issues/1,https://github.com/merkys/Graph-Nauty/issues/2
+AI-ML-0.001                             132470
+CatalystX-AuthenCookie-0.02             132472
+Zonemaster-Backend-5.0.0                https://github.com/zonemaster/zonemaster-backend/issues/610
+Dancer2-Plugin-Auth-OAuth-0.16          https://github.com/b10m/p5-Dancer2-Plugin-Auth-OAuth/issues/20
