@@ -5742,3 +5742,7 @@ MPV-Simple-0.65                         132423
 Finance-Bank-Postbank_de-0.57           132435
 Math-BigInt-Random-OO-0.04              132452
 Text-Hspell-0.2.3                       https://github.com/shlomif/Text-Hspell/issues/1
+Plack-App-Directory-PYX-0.02            132460
+Test-JSON-Schema-Acceptance-0.991       132461
+Evented-Object-5.67                     132462
+OPCUA-Open62541-0.012                   132463
