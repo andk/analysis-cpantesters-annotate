@@ -5757,3 +5757,4 @@ CatalystX-AuthenCookie-0.02             132472
 Zonemaster-Backend-5.0.0                https://github.com/zonemaster/zonemaster-backend/issues/610
 Dancer2-Plugin-Auth-OAuth-0.16          https://github.com/b10m/p5-Dancer2-Plugin-Auth-OAuth/issues/20
 Net-Prometheus-0.09                     132473
+Perinci-CmdLine-Inline-0.548            132474
