@@ -5761,3 +5761,4 @@ Perinci-CmdLine-Inline-0.548            132474
 Toadfarm-0.82                           https://github.com/jhthorsen/toadfarm/issues/31
 URI-Fetch-0.13                          77131
 Feed-Find-0.07                          132454
+DBIx-Perlish-1.04                       132485
