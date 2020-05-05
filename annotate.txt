@@ -5765,4 +5765,4 @@ DBIx-Perlish-1.04                       132485
 FFI-C-0.01                              https://github.com/Perl5-FFI/FFI-C/issues/24
 Device-Chip-BNO055-0.01                 132490
 CSS-Sass-3.6.2                          https://github.com/sass/perl-libsass/issues/47
-Regexp-CharClasses-Helper-0.005         https://github.com/Perl/perl5/issues/17768
+Regexp-CharClasses-Helper-0.005         https://github.com/Perl/perl5/issues/17768,https://github.com/athreef/Regexp-CharClasses-Helper/issues/2
