@@ -5773,3 +5773,4 @@ Devel-ebug-0.60                         https://github.com/plicease/Devel-ebug/i
 Lemonldap-NG-Handler-2.0.8              132508
 Net-Prometheus-0.10                     132509
 POSIX-1003-1.00                         123109
+Module-Generate-0.10                    132510
