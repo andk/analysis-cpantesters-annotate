@@ -5774,3 +5774,4 @@ Lemonldap-NG-Handler-2.0.8              132508
 Net-Prometheus-0.10                     132509
 POSIX-1003-1.00                         123109
 Module-Generate-0.10                    132510
+Dancer2-Plugin-Auth-Extensible-Provider-LDAP-0.704 https://github.com/PerlDancer/Dancer2-Plugin-Auth-Extensible-Provider-LDAP/issues/9
