@@ -5775,3 +5775,7 @@ Net-Prometheus-0.10                     132509
 POSIX-1003-1.00                         123109
 Module-Generate-0.10                    132510
 Dancer2-Plugin-Auth-Extensible-Provider-LDAP-0.704 https://github.com/PerlDancer/Dancer2-Plugin-Auth-Extensible-Provider-LDAP/issues/9
+Geo-IATA-0.0.3                          132532
+Test-Ping-0.204                         https://github.com/xsawyerx/test-ping/issues/6
+Text-Layout-0.018.1                     https://github.com/sciurius/perl-Text-Layout/issues/7
+Dancer2-Plugin-Deferred-0.007018        https://github.com/PerlDancer/dancer2-plugin-deferred/issues/12
