@@ -5779,3 +5779,6 @@ Geo-IATA-0.0.3                          132532
 Test-Ping-0.204                         https://github.com/xsawyerx/test-ping/issues/6
 Text-Layout-0.018.1                     https://github.com/sciurius/perl-Text-Layout/issues/7
 Dancer2-Plugin-Deferred-0.007018        https://github.com/PerlDancer/dancer2-plugin-deferred/issues/12
+Lab-Measurement-3.700                   https://github.com/lab-measurement/Lab-Measurement/issues/31
+OpenTracing-Implementation-DataDog-0.03 132533
+Tags-Output-PYX-0.03                    132534
