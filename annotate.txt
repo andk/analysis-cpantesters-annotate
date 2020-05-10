@@ -1775,7 +1775,7 @@ WWW-Search-News-1.079                   115226
 WWW-Search-NCBI-PubMed-0.01             115227
 Date-Pcalc-6.1                          76442,115100
 Log-TraceMessages-1.4                   115089
-CGI-ExceptionManager-0.06               115245
+CGI-ExceptionManager-0.07               115245
 Chemistry-Mol-0.37                      https://rt.perl.org/rt3/Ticket/Display.html?id=128139,115215
 Stash-REST-0.10                         https://github.com/renatocron/Stash-REST/issues/2
 Catalyst-Plugin-Browser-0.08            115259
