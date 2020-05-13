@@ -5768,7 +5768,7 @@ CSS-Sass-3.6.2                          https://github.com/sass/perl-libsass/iss
 Regexp-CharClasses-Helper-0.005         https://github.com/Perl/perl5/issues/17768,https://github.com/athreef/Regexp-CharClasses-Helper/issues/2
 Data-Edit-Xml-Reuse-20191221            132499
 XML-FOAF-0.04                           132500
-Test-Smoke-1.76                         https://github.com/libwww-perl/HTTP-Daemon/issues/37
+Test-Smoke-1.77                         https://github.com/libwww-perl/HTTP-Daemon/issues/37
 Devel-ebug-0.60                         https://github.com/plicease/Devel-ebug/issues/20
 Lemonldap-NG-Handler-2.0.8              132508
 Net-Prometheus-0.10                     132509
