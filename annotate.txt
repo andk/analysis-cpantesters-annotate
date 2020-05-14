@@ -3595,7 +3595,7 @@ App-Prove-Plugin-Distributed-0.08       121843,125458
 Authen-NZRealMe-1.16                    https://github.com/catalyst/Authen-NZRealMe/issues/5
 Bio-Phylo-v2.0.1                        https://github.com/rvosa/bio-phylo/issues/43
 Catalyst-Action-RenderView-0.16         125459
-Google-GeoCoder-Smart-v2.0.1            125464,132584
+Google-GeoCoder-Smart-v2.0.1            125464,132584,132585
 Lexical-Types-0.16                      https://rt.perl.org/Ticket/Display.html?id=132385,125465
 Mojolicious-Plugin-SessionStorage-0.1.6 125187
 Image-Magick-Brand-0.01                 125480
