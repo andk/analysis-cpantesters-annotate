@@ -4498,7 +4498,7 @@ Perl-Installed-0.01                     129153
 Config-Cascade-0.02                     129154
 Vend-Payment-Nova-1.03                  129155
 Net-SFTP-Recursive-0.12                 129156,129158
-Pod-Trial-LinkImg-0.005                 129157
+Pod-Trial-LinkImg-0.005                 129157,132586
 Graphics-PLplot-0.03                    129159,129160
 PDL-Graphics-PLplot-0.71                129161,129581
 NetworkInfo-Discovery-0.12              107465
