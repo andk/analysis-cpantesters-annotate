@@ -5790,3 +5790,6 @@ Dancer2-Plugin-FlashNote-0.02           132542
 Font-FreeType-0.15                      132543
 RDF-Trine-1.019                         https://github.com/kasei/perlrdf/issues/167
 Chemistry-OpenSMILES-0.1.0              132576
+File-Groups-0.1000                      https://github.com/sshaw/file_groups/issues/1
+Chemistry-OpenSMILES-0.1.1              132582
+JSON-Karabiner-0.004                    https://github.com/sdondley/JSON-Karabiner/issues/1
