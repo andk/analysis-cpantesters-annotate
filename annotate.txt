@@ -5796,3 +5796,5 @@ JSON-Karabiner-0.004                    https://github.com/sdondley/JSON-Karabin
 Search-Circa-1.18                       132588
 Slinke-1.00                             132589
 Tie-Table-1.1.2                         132590
+Module-Generic-v0.12.2                  132639
+Parallel-Forker-1.256                   132640
