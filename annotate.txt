@@ -5791,7 +5791,7 @@ Font-FreeType-0.15                      132543
 RDF-Trine-1.019                         https://github.com/kasei/perlrdf/issues/167
 Chemistry-OpenSMILES-0.1.0              132576
 File-Groups-0.1000                      https://github.com/sshaw/file_groups/issues/1
-Chemistry-OpenSMILES-0.1.1              132582
+Chemistry-OpenSMILES-0.1.2              132582
 JSON-Karabiner-0.004                    https://github.com/sdondley/JSON-Karabiner/issues/1
 Search-Circa-1.18                       132588
 Slinke-1.00                             132589
