@@ -2526,7 +2526,6 @@ Net-Traceroute6-0.03                    118251
 Plack-Server-Coro-0.02                  118252
 POE-Component-IRC-Plugin-WWW-Reddit-TIL-0.07 https://github.com/aggrolite/POE-Component-IRC-Plugin-WWW-Reddit-TIL/issues/1
 List-MergeSorted-XS-1.06                118261
-SWISH-3-1.000014                        118263
 CGI-Session-ODBC-0.5                    118274
 WWW-Mechanize-1.81                      https://github.com/libwww-perl/WWW-Mechanize/issues/54
 Net-API-Gett-1.06                       118315
@@ -5799,3 +5798,5 @@ Tie-Table-1.1.2                         132590
 Module-Generic-v0.12.2                  132639
 Parallel-Forker-1.256                   132640
 LWP-UserAgent-WithCache-0.13            132644
+Test2-Plugin-SpecDeclare-0.000003       https://github.com/Test-More/Test2-Plugin-SpecDeclare/issues/2
+SWISH-3-1.000015                        118263,132645
