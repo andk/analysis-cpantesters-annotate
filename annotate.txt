@@ -5801,3 +5801,4 @@ LWP-UserAgent-WithCache-0.13            132644
 Test2-Plugin-SpecDeclare-0.000003       https://github.com/Test-More/Test2-Plugin-SpecDeclare/issues/2
 SWISH-3-1.000015                        118263,132645
 Object-GMP-0.003                        132652
+CPAN-Mini-Inject-Remote-0.04            132656
