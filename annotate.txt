@@ -3172,7 +3172,7 @@ Javascript-Closure-0.09                 117455
 IPC-System-Simple-1.25                  https://github.com/pjf/ipc-system-simple/issues/21
 UNIVERSAL-isa-1.20171012                https://rt.perl.org/Ticket/Display.html?id=132395
 CGI-Compile-0.22                        https://github.com/miyagawa/CGI-Compile/issues/21
-Net-FTPServer-1.125                     121209,121208
+Net-FTPServer-1.125                     121209,121208,132672
 Religion-Bible-Regex-Builder-0.99       109205,123579
 CGI-Application-Plugin-Config-Std-1.003 95762,123580
 Alien-Build-Git-0.05                    123594
