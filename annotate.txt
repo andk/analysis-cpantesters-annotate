@@ -5813,3 +5813,6 @@ LibTerm-GetKey-1.02                     132680
 Module-Generic-v0.12.9                  132681
 Net-Ifstat-0.01                         132682
 Term-ReadLine-Event-0.05                132684
+Term-Filter-0.03                        118719
+Process-Backgroundable-0.21             132685
+Date-Holidays-TW-v0.1.0                 132689
