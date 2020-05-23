@@ -5811,3 +5811,5 @@ JSON-Schema-Draft201909-0.001           https://github.com/karenetheridge/JSON-S
 XML-Bare-SAX-Parser-0.01                132679
 LibTerm-GetKey-1.02                     132680
 Module-Generic-v0.12.9                  132681
+Net-Ifstat-0.01                         132682
+Term-ReadLine-Event-0.05                132684
