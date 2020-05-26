@@ -5805,7 +5805,7 @@ CPAN-Mini-Inject-Remote-0.04            132656
 tidyview-1.14                           86931
 Quiq-1.182                              132660
 Module-Generic-v0.12.7                  132667,132671
-Data-Dumper-Compact-0.005000            132665
+Data-Dumper-Compact-0.005001            132665
 Tk-Clock-0.41                           132669
 JSON-Schema-Draft201909-0.001           https://github.com/karenetheridge/JSON-Schema-Draft201909/issues/21
 XML-Bare-SAX-Parser-0.01                132679
