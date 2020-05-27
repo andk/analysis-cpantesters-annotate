@@ -5822,3 +5822,4 @@ Sort-Sub-by_example-0.001               https://github.com/perlancar/perl-Sort-S
 MIDI-Ngram-0.1200                       132701
 Date-Holidays-TW-v0.1.1                 https://github.com/perltaiwan/Date-Holidays-TW/issues/1
 File-Copy-Reliable-0.32                 132709,132710
+Module-Generic-v0.12.13                 132714
