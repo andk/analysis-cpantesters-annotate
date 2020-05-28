@@ -5825,3 +5825,5 @@ File-Copy-Reliable-0.32                 132709,132710
 Module-Generic-v0.12.13                 132714
 Role-Declare-0.02                       132715
 Perinci-Sub-GetArgs-Argv-0.843          132716
+Net-API-Stripe-v1.0.6                   132718
+MojoX-Date-Local-0.03                   https://github.com/brianwisti/MojoX-Date-Local/issues/1
