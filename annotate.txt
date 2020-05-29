@@ -4221,7 +4221,7 @@ Whatever-0.23                           123654,128618
 Mail-Sendmail-0.80                      123652
 Facebook-Graph-1.1205                   https://github.com/rizen/Facebook-Graph/issues/76
 HTTP-Request-FromCurl-0.11              128646
-ClearPress-v2019.2.25                   122425,https://github.com/rmp/libclearpress-perl/issues/4
+ClearPress-v2020.5.29                   122425,https://github.com/rmp/libclearpress-perl/issues/4
 App-Chart-266                           116697
 Proc-PID-File-1.29                      128655
 MikroTik-Client-v0.500                  https://github.com/anparker/mikrotik-client/issues/2
