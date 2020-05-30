@@ -5833,3 +5833,5 @@ Email-Stuffer-0.017                     https://github.com/rjbs/Email-Stuffer/is
 DB-Object-v0.9.6                        132719
 Mojo-JWT-Google-0.10                    https://github.com/rabbiveesh/mojo-jwt-google/issues/1
 Perinci-Result-Format-Lite-0.275        132738
+DBD-Pg-3.12.0                           132740
+Video-ZVBI-1.1.0                        132741
