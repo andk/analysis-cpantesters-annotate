@@ -5836,3 +5836,4 @@ Perinci-Result-Format-Lite-0.275        132738
 DBD-Pg-3.12.0                           132740
 Video-ZVBI-1.1.0                        132741
 Data-Sah-0.908                          132743
+Mango-1.30                              https://github.com/oliwer/mango/issues/36
