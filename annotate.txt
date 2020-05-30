@@ -5831,3 +5831,4 @@ Email-Stuff-2.105                       132721
 Email-Outlook-Message-0.919             132722
 Email-Stuffer-0.017                     https://github.com/rjbs/Email-Stuffer/issues/54
 DB-Object-v0.9.6                        132719
+Mojo-JWT-Google-0.10                    https://github.com/rabbiveesh/mojo-jwt-google/issues/1
