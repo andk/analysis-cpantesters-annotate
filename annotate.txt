@@ -5606,7 +5606,7 @@ Starlight-0.0306                        https://github.com/dex4er/Starlight/issu
 Log-ger-Output-Composite-0.013          132088
 Psonpath-0.1.1                          132089,132090
 digitagCT-1.01                          132092
-Test2-Suite-0.000129                    https://github.com/Test-More/Test2-Suite/issues/208
+Test2-Suite-0.000130                    https://github.com/Test-More/Test2-Suite/issues/208
 Bro-Log-Parse-0.08                      https://github.com/0xxon/perl-zeek-log-parse/issues/1
 MouseX-YAML-0.001                       132093
 Log-FileSimple-0.02                     132095
