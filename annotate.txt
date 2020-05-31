@@ -5838,3 +5838,4 @@ Video-ZVBI-1.1.0                        132741
 Data-Sah-0.908                          132743
 Mango-1.30                              https://github.com/oliwer/mango/issues/36
 Business-DK-CVR-0.09                    132744
+Yancy-1.057                             https://github.com/preaction/Yancy/issues/106
