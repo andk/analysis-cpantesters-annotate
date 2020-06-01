@@ -5839,3 +5839,7 @@ Data-Sah-0.908                          132743
 Mango-1.30                              https://github.com/oliwer/mango/issues/36
 Business-DK-CVR-0.09                    132744
 Yancy-1.057                             https://github.com/preaction/Yancy/issues/106
+TablesRoles-Standard-0.002              132750
+Continuity-1.6                          132732
+Mojo-Promise-Role-Repeat-0.006          132751
+Mojo-Transaction-HTTP-Role-Mechanize-0.05 https://github.com/kiwiroy/mojo-transaction-http-role-mechanize/issues/9
