@@ -5844,3 +5844,4 @@ Continuity-1.6                          132732
 Mojo-Promise-Role-Repeat-0.006          132751
 Mojo-Transaction-HTTP-Role-Mechanize-0.05 https://github.com/kiwiroy/mojo-transaction-http-role-mechanize/issues/9
 XML-Simple-2.25                         132759
+Neo4j-Bolt-0.20                         https://github.com/majensen/perlbolt/issues/31
