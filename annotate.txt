@@ -5847,3 +5847,5 @@ XML-Simple-2.25                         132759
 Neo4j-Bolt-0.20                         https://github.com/majensen/perlbolt/issues/31
 Graphics-ColorNames-HTML_ID-3.3.1.000   132774
 WordList-Color-Any-0.001                132775
+Mojolicious-Plugin-OpenAPI-3.32         https://github.com/jhthorsen/mojolicious-plugin-openapi/issues/182
+TAP3-Tap3edit-0.35                      132780
