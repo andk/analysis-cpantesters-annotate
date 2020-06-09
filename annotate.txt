@@ -5851,3 +5851,7 @@ Mojolicious-Plugin-OpenAPI-3.32         https://github.com/jhthorsen/mojolicious
 TAP3-Tap3edit-0.35                      132780
 JIP-LockFile-0.061                      https://github.com/outtaspace/jip_lockfile/issues/1
 Yancy-1.060                             https://github.com/preaction/Yancy/issues/111
+DB-Object-v0.9.8                        132784
+File-ArchivableFormats-1.8              132785
+Mojo-SMTP-Client-0.18                   132786
+ColorThemeRole-ANSI-0.001               132790
