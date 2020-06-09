@@ -5849,3 +5849,5 @@ Graphics-ColorNames-HTML_ID-3.3.1.000   132774
 WordList-Color-Any-0.001                132775
 Mojolicious-Plugin-OpenAPI-3.32         https://github.com/jhthorsen/mojolicious-plugin-openapi/issues/182
 TAP3-Tap3edit-0.35                      132780
+JIP-LockFile-0.061                      https://github.com/outtaspace/jip_lockfile/issues/1
+Yancy-1.060                             https://github.com/preaction/Yancy/issues/111
