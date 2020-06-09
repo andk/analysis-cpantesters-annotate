@@ -3425,7 +3425,7 @@ Mojo-Reactor-IOAsync-1.000              https://github.com/Grinnz/Mojo-Reactor-I
 Net-Flotum-0.10                         https://github.com/eokoe/Net-Flotum/issues/6
 Plack-Middleware-Debug-TraceENV-0.042   124566
 Perl6-Export-Attrs-0.000006             107603
-Dancer2-Plugin-Interchange6-0.203       https://github.com/interchange/Dancer2-Plugin-Interchange6/issues/2,https://github.com/interchange/Dancer2-Plugin-Interchange6/issues/4
+Dancer2-Plugin-Interchange6-0.204       https://github.com/interchange/Dancer2-Plugin-Interchange6/issues/2
 Time-Strptime-1.02                      https://github.com/karupanerura/Time-Strptime/issues/11,https://github.com/karupanerura/Time-Strptime/issues/12
 Weather-YR-0.38                         124573
 PESEL-Generator-1.0                     124578
