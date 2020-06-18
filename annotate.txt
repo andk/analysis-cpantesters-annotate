@@ -5865,3 +5865,4 @@ Finance-TW-TSEQuote-0.28                132838
 Log-Any-Adapter-Sentry-Raven-v0.0.4     https://github.com/GrantStreetGroup/p5-Log-Any-Adapter-Sentry-Raven/issues/2
 Net-Parliament-0.03                     132839
 WebService-OCTranspo-0.027              132840
+Tickit-Widget-Table-Paged-0.004         132841
