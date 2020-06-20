@@ -5867,3 +5867,7 @@ Net-Parliament-0.03                     132839
 WebService-OCTranspo-0.027              132840
 Tickit-Widget-Table-Paged-0.004         132841
 JSON-Schema-Draft201909-0.006           https://github.com/karenetheridge/JSON-Schema-Draft201909/issues/30
+App-SimpleScan-Plugin-LinkCheck-1.03    132848
+Calendar-Julian-0.16                    132849
+Catmandu-PICA-1.02                      https://github.com/gbv/Catmandu-PICA/issues/71
+GRNOC-WebService-Client-1.5.1           132850,132851
