@@ -5866,3 +5866,4 @@ Log-Any-Adapter-Sentry-Raven-v0.0.4     https://github.com/GrantStreetGroup/p5-L
 Net-Parliament-0.03                     132839
 WebService-OCTranspo-0.027              132840
 Tickit-Widget-Table-Paged-0.004         132841
+JSON-Schema-Draft201909-0.006           https://github.com/karenetheridge/JSON-Schema-Draft201909/issues/30
