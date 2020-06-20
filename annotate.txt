@@ -5873,3 +5873,4 @@ Catmandu-PICA-1.02                      https://github.com/gbv/Catmandu-PICA/iss
 GRNOC-WebService-Client-1.5.1           132850,132851
 MMM-Text-Search-0.07                    132852
 HiPi-0.83                               132854
+WWW-Shorten-SCK-0.7                     https://github.com/celogeek/WWW-Shorten-SCK/issues/4
