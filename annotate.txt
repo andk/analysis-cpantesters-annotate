@@ -5874,3 +5874,5 @@ GRNOC-WebService-Client-1.5.1           132850,132851
 MMM-Text-Search-0.07                    132852
 HiPi-0.83                               132854
 WWW-Shorten-SCK-0.7                     https://github.com/celogeek/WWW-Shorten-SCK/issues/4
+Bio-GeneDesign-5.56                     132857,132858
+Net-AMQP-RabbitMQ-2.40007               https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq/issues/194
