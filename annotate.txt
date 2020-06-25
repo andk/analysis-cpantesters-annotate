@@ -5877,3 +5877,6 @@ WWW-Shorten-SCK-0.7                     https://github.com/celogeek/WWW-Shorten-
 Bio-GeneDesign-5.56                     132857,132858
 Net-AMQP-RabbitMQ-2.40007               https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq/issues/194
 SPVM-0.0702                             128675
+Mail-DMARC-1.20200214                   https://github.com/msimerson/mail-dmarc/issues/178
+Azure-SAS-Timestamp-0.0.2               https://github.com/whosgonna/Azure-SAS-Timestamp/issues/1
+Test2-Plugin-Cover-0.000002             https://github.com/Test-More/Test2-Plugin-Cover/issues/1
