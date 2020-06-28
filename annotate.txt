@@ -5880,3 +5880,5 @@ SPVM-0.0702                             128675
 Mail-DMARC-1.20200214                   https://github.com/msimerson/mail-dmarc/issues/178
 Azure-SAS-Timestamp-0.0.2               https://github.com/whosgonna/Azure-SAS-Timestamp/issues/1
 Test2-Plugin-Cover-0.000002             https://github.com/Test-More/Test2-Plugin-Cover/issues/1
+Module-Generate-0.13                    132898
+Tree-Ops-20200627                       132899
