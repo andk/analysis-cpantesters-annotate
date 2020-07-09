@@ -5886,3 +5886,4 @@ Net-Google-Code-0.19                    132902,deprecated
 Alien-JPCRE2-0.012000                   132926
 Text-Starfish-1.33                      132948
 Tree-Ops-20200708                       132960
+DBIx-Class-Sims-0.500011                132968,132969
