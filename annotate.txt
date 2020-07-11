@@ -5890,4 +5890,4 @@ DBIx-Class-Sims-0.500011                132968,132969
 Sereal-Decoder-4.016                    https://github.com/Sereal/Sereal/issues/245,https://github.com/Sereal/Sereal/issues/246
 DateTime-Event-Random-0.03              132975
 B-Tap-0.16                              https://github.com/tokuhirom/B-Tap/issues/7
-FFI-Platypus-Lang-Pascal-0.07           https://github.com/PerlFFI/FFI-Platypus-Lang-Pascal/issues/10
+FFI-Platypus-Lang-Pascal-0.08           https://github.com/PerlFFI/FFI-Platypus-Lang-Pascal/issues/12
