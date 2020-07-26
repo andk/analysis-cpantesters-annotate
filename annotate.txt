@@ -5892,3 +5892,5 @@ DateTime-Event-Random-0.03              132975
 B-Tap-0.16                              https://github.com/tokuhirom/B-Tap/issues/7
 FFI-Platypus-Lang-Pascal-0.08           https://github.com/PerlFFI/FFI-Platypus-Lang-Pascal/issues/12
 Calendar-Schedule-1.09                  133016
+AnyEvent-YACurl-0.17                    133050
+Text-Amuse-1.60                         https://github.com/melmothx/text-amuse/issues/64
