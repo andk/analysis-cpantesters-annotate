@@ -5897,6 +5897,6 @@ Text-Amuse-1.60                         https://github.com/melmothx/text-amuse/i
 File-FormatIdentification-Pronom-0.002  133055
 HTML-HTMLDoc-0.17                       https://github.com/ericschernoff/HTMLDoc/issues/4
 Lox-0.01                                133145
-Mojo-DOM-Role-Analyzer-0.012            https://github.com/sdondley/Mojo-DOM-Role-Analyzer/issues/5
-POE-Component-TLSify-0.02               133146
+Mojo-DOM-Role-Analyzer-0.013            https://github.com/sdondley/Mojo-DOM-Role-Analyzer/issues/5
+POE-Component-TLSify-0.04               133146
 Proc-CPUUsage-1.002                     133147
