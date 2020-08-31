@@ -5281,7 +5281,7 @@ Net-Nessus-REST-0.6                     112763
 Net-OATH-Server-0.02                    https://github.com/ritou/p5-net-oath-server/issues/2
 PAD-0.04                                131420
 Plack-App-FCGIDispatcher-0.10           131421
-Plack-Middleware-SignedCookies-1.202    https://github.com/ap/Plack-Middleware-SignedCookies/issues/2
+Plack-Middleware-SignedCookies-1.203    https://github.com/ap/Plack-Middleware-SignedCookies/issues/2
 WebService-Mailgun-0.07                 https://github.com/kan/p5-web-service-mailgun/issues/1
 perfSONAR_PS-Collectors-Daemon-0.09     34716
 GD-Sparkline-0.05                       131422
