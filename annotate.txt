@@ -5906,3 +5906,4 @@ Class-Measure-Scientific-FX_992vb-v0.0.1 133182,133183
 Hades-0.13                              133244
 Weather-NHC-TropicalCyclone-0.05        133269
 Hades-0.18                              133272
+Cpanel-JSON-XS-4.22                     https://github.com/rurban/Cpanel-JSON-XS/pull/169
