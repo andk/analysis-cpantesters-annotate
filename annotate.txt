@@ -5907,3 +5907,4 @@ Hades-0.13                              133244
 Weather-NHC-TropicalCyclone-0.06        133269,133275
 Hades-0.18                              133272
 Cpanel-JSON-XS-4.22                     https://github.com/rurban/Cpanel-JSON-XS/pull/169
+Perl7-Handy-0.02                        133277
