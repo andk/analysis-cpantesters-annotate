@@ -5908,3 +5908,8 @@ Weather-NHC-TropicalCyclone-0.08        133269,133275
 Hades-0.18                              133272
 Cpanel-JSON-XS-4.22                     https://github.com/rurban/Cpanel-JSON-XS/pull/169
 Perl7-Handy-0.02                        133277
+App-perlmv-0.604                        133289
+Data-Validate-WithYAML-Plugin-EmailMX-0.01 https://github.com/reneeb/Data-Validate-WithYAML-Plugin-EmailMX/issues/1
+Devel-Memo-0.004                        133290
+Emoji-NationalFlag-0.01                 https://github.com/punytan/p5-Emoji-NationalFlag/issues/2
+Finance-GDAX-API-0.09                   133291
