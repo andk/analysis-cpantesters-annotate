@@ -4020,7 +4020,7 @@ cPanel-TaskQueue-0.902                  https://github.com/CpanelInc/cPanel-Task
 DBIx-Mojo-Template-0.061                127283
 HPCI-0.75                               127826,124695,120461
 App-git-ship-0.30                       https://github.com/jhthorsen/app-git-ship/issues/19
-Net-SSLeay-1.86_07                      128025
+Net-SSLeay-1.88                         132425
 Test-OnlySome-0.001002-TRIAL            128027
 App-perlbrew-0.88                       125066
 HTTP-Request-Generator-0.03             128032
