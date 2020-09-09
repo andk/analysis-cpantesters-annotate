@@ -5913,3 +5913,8 @@ Data-Validate-WithYAML-Plugin-EmailMX-0.01 https://github.com/reneeb/Data-Valida
 Devel-Memo-0.004                        133290
 Emoji-NationalFlag-0.01                 https://github.com/punytan/p5-Emoji-NationalFlag/issues/2
 Finance-GDAX-API-0.09                   133291
+SMS-Send-BudgetSMS-0.02                 133293
+DBIx-Table-TestDataGenerator-0.005      133294
+HealthCheck-Diagnostic-FilePermissions-v1.4.7 https://github.com/GrantStreetGroup/p5-HealthCheck-Diagnostic-FilePermissions/issues/2
+HTTP-Cookies-Omniweb-1.131              133295
+Log-Dispatch-Email-Mailer-1.05          https://github.com/gryphonshafer/Log-Dispatch-Email-Mailer/issues/3
