@@ -5918,3 +5918,5 @@ DBIx-Table-TestDataGenerator-0.005      133294
 HealthCheck-Diagnostic-FilePermissions-v1.4.7 https://github.com/GrantStreetGroup/p5-HealthCheck-Diagnostic-FilePermissions/issues/2
 HTTP-Cookies-Omniweb-1.131              133295
 Log-Dispatch-Email-Mailer-1.05          https://github.com/gryphonshafer/Log-Dispatch-Email-Mailer/issues/3
+TAP-DOM-Waivers-0.002                   133298
+Template-Plugin-Calendar-Simple-1.00    132932
