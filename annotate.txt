@@ -5920,3 +5920,5 @@ HTTP-Cookies-Omniweb-1.131              133295
 Log-Dispatch-Email-Mailer-1.05          https://github.com/gryphonshafer/Log-Dispatch-Email-Mailer/issues/3
 TAP-DOM-Waivers-0.002                   133298
 Template-Plugin-Calendar-Simple-1.00    132932
+RxPerl-v0.21.1                          https://gitlab.com/karjala/rxperl/-/issues/1
+XML-SAX-Simple-0.08                     133305
