@@ -5750,7 +5750,7 @@ Parallel-DataPipe-0.11                  132464
 Web-Microformats2-0.510                 https://github.com/jmacdotorg/microformats2-perl/issues/3
 Evented-API-Engine-4.13                 132465
 Evented-Configuration-4.04              132466
-Graph-Nauty-0.1.2                       https://github.com/merkys/Graph-Nauty/issues/1
+Graph-Nauty-0.3.2                       https://github.com/merkys/Graph-Nauty/issues/1
 AI-ML-0.001                             132470
 CatalystX-AuthenCookie-0.02             132472
 Zonemaster-Backend-5.0.2                https://github.com/zonemaster/zonemaster-backend/issues/610
