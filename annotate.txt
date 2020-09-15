@@ -3136,7 +3136,7 @@ Perinci-CmdLine-Lite-1.79               122597
 WWW-API-Bitfinex-0.01                   123392
 App-Anchr-0.4.3                         https://github.com/wang-q/App-Anchr/issues/1
 Module-CheckDep-Version-0.08            123393
-Text-Aspell-0.09                        122910
+Text-Aspell-0.09                        122910,133338
 ParseUtil-Domain-2.427                  123418
 Grammar-Graph-0.20                      123420
 Net-ZooIt-0.22                          122317,123403
