@@ -5922,3 +5922,10 @@ TAP-DOM-Waivers-0.002                   133298
 Template-Plugin-Calendar-Simple-1.00    132932
 RxPerl-v0.21.3                          https://gitlab.com/karjala/rxperl/-/issues/1
 XML-SAX-Simple-0.08                     133305
+Mojolicious-Plugin-Gallery-0.10         https://github.com/sklukin/Mojolicious-Plugin-Galley/issues/1
+Data-Org-Template-0.01                  133331
+Iterator-Records-0.01                   133332
+Search-OpenSearch-0.409                 132759
+AudioFile-Info-MP3-ID3Lib-v1.7.4        133335
+Crypt-SMIME-0.27                        133336
+Search-Tools-1.007                      133337
