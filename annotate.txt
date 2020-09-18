@@ -5931,4 +5931,4 @@ Crypt-SMIME-0.27                        133336
 Search-Tools-1.007                      133337
 DBD-Mock-1.56                           133358
 Hash-Digger-0.0.3                       133359
-Plasp-1.00                              https://github.com/stvleung/Plasp/issues/1
+Plasp-1.01                              https://github.com/stvleung/Plasp/issues/1
