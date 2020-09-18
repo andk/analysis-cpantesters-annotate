@@ -5929,3 +5929,6 @@ Search-OpenSearch-0.409                 132759
 AudioFile-Info-MP3-ID3Lib-v1.7.4        133335
 Crypt-SMIME-0.27                        133336
 Search-Tools-1.007                      133337
+DBD-Mock-1.56                           133358
+Hash-Digger-0.0.3                       133359
+Plasp-1.00                              https://github.com/stvleung/Plasp/issues/1
