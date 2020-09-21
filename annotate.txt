@@ -5932,3 +5932,8 @@ Search-Tools-1.007                      133337
 DBD-Mock-1.56                           133358
 Hash-Digger-0.0.3                       133359
 Plasp-1.01                              https://github.com/stvleung/Plasp/issues/1
+Astro-FITS-CFITSIO-1.15                 133366
+Markdown-Table-0.01                     https://github.com/PerlServices/Markdown-Table/issues/1
+WebService-NextEpisode-0.003            https://github.com/athreef/WebService-NextEpisode/issues/2
+Zydeco-0.608                            133367
+App-findeps-0.03                        https://github.com/worthmine/App-findeps/issues/1
