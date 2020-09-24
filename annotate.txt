@@ -4666,7 +4666,7 @@ Test-Memory-Usage-0.0.5                 https://github.com/chiselwright/test-mem
 XML-Filter-Conditional-0.05             129416
 Data-TUID-0.0122                        129417
 Net-LibNIDS-0.14                        129418
-Gnome2-GConf-1.044                      129419
+Gnome2-GConf-1.045                      129419
 App-Foca-0.05                           129424
 Memory-Stats-0.04                       https://github.com/celogeek/perl-memory-stats/issues/5
 libwww-perl-6.38                        https://github.com/libwww-perl/libwww-perl/issues/307
