@@ -5938,3 +5938,4 @@ WebService-NextEpisode-0.003            https://github.com/athreef/WebService-Ne
 Zydeco-0.608                            133367
 App-findeps-0.03                        https://github.com/worthmine/App-findeps/issues/1
 Module-List-More-0.004007               133379
+RundeckAPI-1.2.6                        133418
