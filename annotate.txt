@@ -5941,3 +5941,4 @@ Module-List-More-0.004007               133379
 RundeckAPI-1.2.6                        133418
 Data-Printer-0.99_021                   https://github.com/garu/Data-Printer/issues/150
 Weather-NHC-TropicalCyclone-0.18        133425
+Test-PerlTidy-20200412                  https://github.com/shlomif/Test-PerlTidy/issues/5
