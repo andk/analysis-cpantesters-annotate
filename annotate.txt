@@ -5946,6 +5946,6 @@ UR-0.47                                 https://github.com/genome/UR/issues/154
 Debug-Client-0.31                       https://github.com/PadreIDE/Debug-Client/issues/12
 YAML-Tidy-0.001_001                     https://github.com/perlpunk/yamltidy/issues/1
 Return-MultiLevel-0.05                  133221
-Spreadsheet-ReadSXC-0.27                133432
+Spreadsheet-ReadSXC-0.28                133432
 Form-Tiny-1.00                          https://github.com/brtastic/perl-form-tiny/issues/1
 Geo-Coder-Abbreviations-0.01            133445
