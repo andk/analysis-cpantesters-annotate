@@ -4766,7 +4766,7 @@ Thread-Serialize-1.02                   129600
 B-C-1.57                                https://github.com/rurban/perl-compiler/issues/432
 Games-Sudoku-Solver-1.1.0               129605
 Geo-Compass-Variation-1.02              https://github.com/stevieb9/geo-compass-variation/issues/6
-Gnome2-Wnck-0.16                        129606
+Gnome2-Wnck-0.16                        129606,soon to be deprecated
 DBIx-Threaded-0.10                      129607
 Cfn-0.05                                https://github.com/pplu/cfn-perl/issues/33
 Mojolicious-Plugin-ExportExcel-1.1.1    129628
