@@ -5950,4 +5950,5 @@ Spreadsheet-ReadSXC-0.28                133432
 Form-Tiny-1.00                          https://github.com/brtastic/perl-form-tiny/issues/1
 Geo-Coder-Abbreviations-0.01            133445
 HTTP-Request-FromCurl-0.18              133454,133455,132316
-ScriptX_Util-0.001                      133456
+ScriptX_Util-0.003                      133462
+Tickit-Widget-Entry-Plugin-History-0.01 133463,133464
