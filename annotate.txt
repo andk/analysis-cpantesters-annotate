@@ -5954,3 +5954,4 @@ ScriptX_Util-0.003                      133462
 Tickit-Widget-Entry-Plugin-History-0.01 133463,133464
 Dancer-1.3514_02                        https://github.com/PerlDancer/Dancer/issues/1221
 HTTP-Request-FromCurl-0.19              133454
+Text-ANSITable-0.600                    133472
