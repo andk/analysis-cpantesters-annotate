@@ -5959,3 +5959,5 @@ Data-RingBuffer-Time-0.01               133508
 Mojolicious-Plugin-OpenAPI-3.40         https://github.com/jhthorsen/mojolicious-plugin-openapi/issues/195
 Net-Whois-IANA-0.45                     https://github.com/atoomic/Net-Whois-IANA/issues/14
 Return-MultiLevel-0.05                  133221
+SVG-Metadata-0.28                       133509
+Math-Fractal-Mandelbrot-0.04            133510
