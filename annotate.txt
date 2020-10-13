@@ -5964,4 +5964,4 @@ Math-Fractal-Mandelbrot-0.04            133510,133511
 GraphViz2-2.55                          https://github.com/ronsavage/GraphViz2/issues/8
 Rex-1.13.0                              https://github.com/RexOps/Rex/issues/1440
 Tk-SimpleFileSelect-0.7                 133524
-HTTP-Request-FromCurl-0.23              132316
+HTTP-Request-FromCurl-0.24              132316
