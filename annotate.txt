@@ -5965,3 +5965,6 @@ GraphViz2-2.55                          https://github.com/ronsavage/GraphViz2/i
 Rex-1.13.0                              https://github.com/RexOps/Rex/issues/1440
 Tk-SimpleFileSelect-0.7                 133524
 HTTP-Request-FromCurl-0.24              132316
+CloudDeploy-1.07                        133528
+Data-JavaScript-1.14                    test results depend on installed perlcritic policies
+Term-ProgressSpinner-0.03               133529
