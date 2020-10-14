@@ -5968,3 +5968,4 @@ HTTP-Request-FromCurl-0.24              132316
 CloudDeploy-1.07                        133528
 Data-JavaScript-1.14                    test results depend on installed perlcritic policies
 Term-ProgressSpinner-0.03               133529
+App-SimpleBackuper-0.1                  133531,133532
