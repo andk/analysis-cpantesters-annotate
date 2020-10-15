@@ -2074,7 +2074,7 @@ OpenXML-Properties-0.02                 117305
 GunMojo-0.01                            82268
 uplug-main-0.3.8                        117306
 Progress-PV-0.02                        117307
-WWW-Shopify-1.02                        107963
+WWW-Shopify-1.03                        107963
 Catalyst-Action-Serialize-Data-Serializer-1.08 87836
 Finance-RawMaterialPrice-0.02           https://github.com/sdrfnord/Finance-RawMaterialPrice/issues/1
 FormValidator-Simple-Plugin-Number-Phone-JP-0.04 117315
