@@ -5983,3 +5983,6 @@ Alien-Kiwisolver-0.001                  133546
 Authen-Radius-0.31                      133490
 Speech-Synthesis-0.03                   133555
 Alien-Adaptagrams-0.001                 133556
+Tk-TableMatrix-1.24                     133557
+Chart-Kaleido-0.005                     133558
+JSON-Conditional-0.01                   133559
