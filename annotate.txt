@@ -5981,3 +5981,5 @@ Mojolicious-Plugin-SOAP-Server-0.1.5    https://github.com/oposs/mojolicious-plu
 Intertangle-Yarn-0.001                  133545
 Alien-Kiwisolver-0.001                  133546
 Authen-Radius-0.31                      133490
+Speech-Synthesis-0.03                   133555
+Alien-Adaptagrams-0.001                 133556
