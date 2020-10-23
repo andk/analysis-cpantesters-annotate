@@ -5990,3 +5990,13 @@ App-FilenameUtils-0.001                 133571
 String-Mask-0.01                        133572
 Gnome2-Print-1.000                      133573
 P2-Scheduler-0.07                       133574
+App-Sets-0.976                          https://github.com/polettix/App-sets/issues/1
+Atto-0.004                              https://github.com/robn/Atto/issues/1
+Catalyst-Controller-WrapCGI-0.038       133577
+Data-Crumbr-0.1.1                       133578
+Log-Tree-0.18                           https://github.com/dominikschulz/Log-Tree/issues/4
+Net-RackSpace-CloudServers-0.15         https://github.com/mfontani/Net-RackSpace-CloudServers/issues/9
+Perl-Core-0.0100                        https://github.com/aanari/Perl-Core/issues/2
+WWW-Pusher-Client-0.04                  https://github.com/honeydew-sc/WWW-Pusher-Client/issues/2
+XML-Quick-0.07                          133580
+App-Kit-0.63                            133602
