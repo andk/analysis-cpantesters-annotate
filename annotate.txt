@@ -6000,3 +6000,5 @@ Perl-Core-0.0100                        https://github.com/aanari/Perl-Core/issu
 WWW-Pusher-Client-0.04                  https://github.com/honeydew-sc/WWW-Pusher-Client/issues/2
 XML-Quick-0.07                          133580
 App-Kit-0.63                            133602,133603
+Lyrics-Fetcher-AZLyrics-0.06            133604
+Test-CPANfile-0.07                      https://github.com/charsbar/Test-CPANfile/issues/2
