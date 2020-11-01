@@ -6004,3 +6004,11 @@ Lyrics-Fetcher-AZLyrics-0.06            133604
 Test-CPANfile-0.07                      https://github.com/charsbar/Test-CPANfile/issues/2
 Google-Chat-WebHooks-0.02               133614
 Lyrics-Fetcher-Genius-0.05              133615
+App-PlatformInfo-0.005                  133638
+Device-Chip-AD9833-0.01                 133639
+File-FormatIdentification-Pronom-0.04   133640
+Glib-Object-Introspection-0.049         133641
+Plack-App-Env-0.04                      https://github.com/michal-josef-spacek/Plack-App-Env/issues/1
+Prima-1.60                              133642
+WWW-WTF-0.3                             133643
+YAML-Parser-0.0.1                       https://github.com/ingydotnet/yaml-parser-pm/issues/1
