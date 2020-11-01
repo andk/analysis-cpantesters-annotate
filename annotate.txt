@@ -6012,3 +6012,4 @@ Plack-App-Env-0.04                      https://github.com/michal-josef-spacek/P
 Prima-1.60                              133642
 WWW-WTF-0.3                             133643
 YAML-Parser-0.0.1                       https://github.com/ingydotnet/yaml-parser-pm/issues/1
+Finance-SE-IDX-Static-20201028.0.0      133644
