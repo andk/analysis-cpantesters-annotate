@@ -6014,3 +6014,4 @@ WWW-WTF-0.3                             133643
 YAML-Parser-0.0.1                       https://github.com/ingydotnet/yaml-parser-pm/issues/1
 Finance-SE-IDX-Static-20201028.0.0      133644
 CPAN-Digger-1.01                        https://github.com/szabgab/CPAN-Digger/issues/11
+CPANPLUS-Dist-Fedora-0.4.1              https://github.com/shlomif/cpanplus-dist-backends/issues/1
