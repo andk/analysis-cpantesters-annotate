@@ -5784,7 +5784,7 @@ Tags-Output-PYX-0.03                    132534
 Proc-CPUUsage-1.001                     132536
 Mail-MXplus-0.02                        132540
 Crypt-OpenSSL-Verify-0.10               132541
-DBIx-Class-Smooth-0.0105                https://github.com/Csson/p5-DBIx-Class-Smooth/issues/2,https://github.com/Csson/p5-DBIx-Class-Smooth/issues/4
+DBIx-Class-Smooth-0.0107                https://github.com/Csson/p5-DBIx-Class-Smooth/issues/2,https://github.com/Csson/p5-DBIx-Class-Smooth/issues/4
 Dancer2-Plugin-FlashNote-0.02           132542
 Font-FreeType-0.15                      132543
 RDF-Trine-1.019                         https://github.com/kasei/perlrdf/issues/167
