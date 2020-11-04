@@ -6015,3 +6015,5 @@ YAML-Parser-0.0.1                       https://github.com/ingydotnet/yaml-parse
 Finance-SE-IDX-Static-20201028.0.0      133644
 CPAN-Digger-1.01                        https://github.com/szabgab/CPAN-Digger/issues/11
 CPANPLUS-Dist-Fedora-0.4.1              https://github.com/shlomif/cpanplus-dist-backends/issues/1
+PDF-Table-1.000                         https://github.com/PhilterPaper/PDF-Table/issues/60,https://github.com/PhilterPaper/PDF-Table/issues/61
+Parse-RPM-Spec-v1.0.1                   133672
