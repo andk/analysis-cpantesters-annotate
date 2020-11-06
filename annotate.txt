@@ -6017,3 +6017,6 @@ CPAN-Digger-1.01                        https://github.com/szabgab/CPAN-Digger/i
 CPANPLUS-Dist-Fedora-0.4.1              https://github.com/shlomif/cpanplus-dist-backends/issues/1
 PDF-Table-1.000                         https://github.com/PhilterPaper/PDF-Table/issues/60,https://github.com/PhilterPaper/PDF-Table/issues/61
 Parse-RPM-Spec-v1.0.1                   133672
+Orbital-Transfer-0.001                  133693
+AudioFile-Info-MP3-Info-v1.4.2          133694
+Math-Interpolate-1.06                   133695
