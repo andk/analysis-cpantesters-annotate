@@ -6022,3 +6022,4 @@ AudioFile-Info-MP3-Info-v1.4.2          133694
 Math-Interpolate-1.06                   133695
 Calendar-Schedule-1.15                  133696
 CPAN-Digger-1.03                        https://github.com/szabgab/CPAN-Digger/issues/14
+Math-Matrix-0.92                        133702,133703
