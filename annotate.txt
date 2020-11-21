@@ -6027,3 +6027,6 @@ Image-Synchronize-2.001                 133755
 App-oo_modulino_zsh_completion_helper-0.01 133765
 CPAN-Digger-1.04                        https://github.com/szabgab/CPAN-Digger/issues/19
 Device-Chip-0.14                        133766
+Amon2-Auth-Site-LINE-0.01               https://github.com/nipotan/p5-Amon2-Auth-Site-LINE/issues/1
+App-lupapona-1                          133785
+App-mokupona-2.04                       133786
