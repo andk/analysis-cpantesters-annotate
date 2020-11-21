@@ -6010,7 +6010,7 @@ File-FormatIdentification-Pronom-0.04   133640
 Glib-Object-Introspection-0.049         133641
 Plack-App-Env-0.04                      https://github.com/michal-josef-spacek/Plack-App-Env/issues/1
 Prima-1.60                              133642
-WWW-WTF-0.3                             133643
+WWW-WTF-0.5                             133643
 YAML-Parser-0.0.1                       https://github.com/ingydotnet/yaml-parser-pm/issues/1
 Finance-SE-IDX-Static-20201028.0.0      133644
 CPAN-Digger-1.01                        https://github.com/szabgab/CPAN-Digger/issues/11
