@@ -6030,3 +6030,4 @@ Device-Chip-0.14                        133766
 Amon2-Auth-Site-LINE-0.01               https://github.com/nipotan/p5-Amon2-Auth-Site-LINE/issues/1
 App-lupapona-1                          133785
 App-mokupona-2.04                       133786
+Data-CompactReadonly-0.0.1              https://github.com/DrHyde/perl-modules-Data-CompactReadonly/issues/1
