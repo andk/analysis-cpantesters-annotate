@@ -6031,3 +6031,4 @@ Amon2-Auth-Site-LINE-0.01               https://github.com/nipotan/p5-Amon2-Auth
 App-lupapona-1                          133785
 App-mokupona-2.04                       133786
 Data-CompactReadonly-0.0.1              https://github.com/DrHyde/perl-modules-Data-CompactReadonly/issues/1
+Syntax-Check-1.02                       https://github.com/stevieb9/syntax-check/issues/1
