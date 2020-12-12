@@ -266,7 +266,7 @@ Net-Stream-0.28                         76545
 Net-Fluidinfo-0.45                      76547
 Math-Geometry-Planar-Offset-1.05        42045
 nextgen-0.06                            https://rt.perl.org:443/rt3/Ticket/Display.html?id=112444
-Text-KnuthPlass-1.02                    76548
+Text-KnuthPlass-1.04                    76548
 WWW-Class-0.03                          removed from cpan
 UNIVERSAL-Acme-0.01                     Test::More at https://github.com/schwern/test-more/issues/280
 DBIx-Class-DynamicDefault-0.04          76721
