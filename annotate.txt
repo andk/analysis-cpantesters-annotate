@@ -6042,3 +6042,6 @@ AudioFile-Info-MP3-Tag-v1.6.2           133895
 AudioFile-Info-Ogg-Vorbis-Header-v1.8.2 133896
 Device-Chip-INA219-0.06                 133897
 Device-Chip-MCP23x17-0.02               133898
+Finance-IG-0.02                         133943
+Mojolicious-Plugin-AssetPack-Che-2.104  133944
+Perinci-CmdLine-Inline-0.551            133945
