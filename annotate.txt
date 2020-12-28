@@ -6047,3 +6047,4 @@ Mojolicious-Plugin-AssetPack-Che-2.104  133944
 Perinci-CmdLine-Inline-0.551            133945
 Dist-Zilla-Plugin-Author-CSSON-GithubActions-0.0106 https://github.com/Csson/p5-Dist-Zilla-Plugin-Author-CSSON-GithubActions/issues/2
 Finance-IG-0.03                         133958,133959
+SMS-Send-Adapter-Node-Red-0.04          133962
