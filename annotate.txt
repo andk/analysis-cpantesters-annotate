@@ -6036,7 +6036,7 @@ Cache-FastMmap-1.54                     https://github.com/robmueller/cache-fast
 Data-Table-Text-20201208                133890
 EMDIS-ECS-0.41                          133891
 Module-Installed-1.01                   https://github.com/stevieb9/module-installed/issues/1
-Mojolicious-Plugin-AssetPack-Che-2.091  133892
+Mojolicious-Plugin-AssetPack-Che-2.106  133892
 Progress-Any-Examples-0.005             133894
 AudioFile-Info-MP3-Tag-v1.6.2           133895
 AudioFile-Info-Ogg-Vorbis-Header-v1.8.2 133896
