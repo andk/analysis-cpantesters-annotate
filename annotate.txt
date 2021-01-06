@@ -6061,3 +6061,4 @@ Gnome2-PanelApplet-0.04                 deprecated
 Gnome2-Print-1.001                      deprecated
 Gnome2-Rsvg-0.12                        deprecated
 Gnome2-VFS-1.084                        deprecated
+Gnome2-Canvas-1.006                     deprecated
