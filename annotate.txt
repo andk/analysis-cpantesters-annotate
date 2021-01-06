@@ -4766,7 +4766,6 @@ Thread-Serialize-1.02                   129600
 B-C-1.57                                https://github.com/rurban/perl-compiler/issues/432
 Games-Sudoku-Solver-1.1.0               129605
 Geo-Compass-Variation-1.02              https://github.com/stevieb9/geo-compass-variation/issues/6
-Gnome2-Wnck-0.16                        129606,soon to be deprecated
 DBIx-Threaded-0.10                      129607
 Cfn-0.05                                https://github.com/pplu/cfn-perl/issues/33
 Mojolicious-Plugin-ExportExcel-1.1.1    129628
@@ -6056,3 +6055,4 @@ Dist-Iller-0.1410                       https://github.com/Csson/p5-Dist-Iller/i
 Dist-Mgr-1.01                           https://github.com/stevieb9/dist-mgr/issues/25
 Sah-Schemas-CPAN-0.011                  https://github.com/perlancar/perl-Sah-Schemas-CPAN/issues/1
 Treex-Core-2.20201228                   https://github.com/ufal/treex/issues/73
+Gnome2-Wnck-0.18                        deprecated
