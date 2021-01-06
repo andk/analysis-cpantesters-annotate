@@ -6056,3 +6056,4 @@ Dist-Mgr-1.01                           https://github.com/stevieb9/dist-mgr/iss
 Sah-Schemas-CPAN-0.011                  https://github.com/perlancar/perl-Sah-Schemas-CPAN/issues/1
 Treex-Core-2.20201228                   https://github.com/ufal/treex/issues/73
 Gnome2-Wnck-0.18                        deprecated
+Lingua-Conjunction-2.2                  134011
