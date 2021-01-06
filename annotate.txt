@@ -6053,6 +6053,6 @@ Object-Pad-0.35                         132930
 Astro-Montenbruck-1.01                  133985
 Async-Template-0.12                     https://github.com/oklas/async-template/issues/1
 Dist-Iller-0.1410                       https://github.com/Csson/p5-Dist-Iller/issues/5
-Dist-Mgr-1.00                           https://github.com/stevieb9/dist-mgr/issues/25
+Dist-Mgr-1.01                           https://github.com/stevieb9/dist-mgr/issues/25
 Sah-Schemas-CPAN-0.011                  https://github.com/perlancar/perl-Sah-Schemas-CPAN/issues/1
 Treex-Core-2.20201228                   https://github.com/ufal/treex/issues/73
