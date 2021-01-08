@@ -6066,3 +6066,5 @@ Gnome2-1.048                            deprecated
 GStreamer-GConf-0.02                    deprecated
 Gtk2-Html2-0.05                         deprecated
 Gtk2-Spell-1.05                         deprecated
+Gnome2-GConf-1.047                      deprecated
+Gtk2-Recent-0.052                       deprecated
