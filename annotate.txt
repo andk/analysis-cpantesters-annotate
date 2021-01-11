@@ -6074,5 +6074,5 @@ Gtk2-SourceView-1.012                   deprecated
 Dir-Flock-0.09                          134033
 Gtk2-GLExt-0.91                         deprecated
 MooseX-App-1.41                         https://github.com/maros/MooseX-App/issues/62
-Class-DispatchToAll-0.12                deprecated
+Class-DispatchToAll-0.13                deprecated
 ZMQx-Class-0.008                        deprecated
