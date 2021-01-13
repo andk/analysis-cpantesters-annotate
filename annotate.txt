@@ -6076,3 +6076,5 @@ Gtk2-GLExt-0.93                         deprecated
 MooseX-App-1.41                         https://github.com/maros/MooseX-App/issues/62
 Class-DispatchToAll-0.13                deprecated
 ZMQx-Class-0.008                        deprecated
+Log-Dispatch-Email-Mailer-1.09          https://github.com/gryphonshafer/Log-Dispatch-Email-Mailer/issues/4
+Store-Directories-0.3                   134042
