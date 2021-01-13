@@ -6078,3 +6078,5 @@ Class-DispatchToAll-0.13                deprecated
 ZMQx-Class-0.008                        deprecated
 Log-Dispatch-Email-Mailer-1.09          https://github.com/gryphonshafer/Log-Dispatch-Email-Mailer/issues/4
 Store-Directories-0.3                   134042
+Bot-IRC-1.30                            https://github.com/gryphonshafer/Bot-IRC/issues/9
+D64-Disk-Layout-0.01                    134043
