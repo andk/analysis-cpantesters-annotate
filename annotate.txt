@@ -5744,7 +5744,7 @@ Plack-App-Directory-PYX-0.02            132460
 Test-JSON-Schema-Acceptance-0.991       132461
 Evented-Object-5.68                     132462
 OPCUA-Open62541-0.012                   132463
-App-url-1.004                           https://github.com/briandfoy/app-url/issues/3
+App-url-1.006                           https://github.com/briandfoy/app-url/issues/3
 Parallel-DataPipe-0.11                  132464
 Web-Microformats2-0.510                 https://github.com/jmacdotorg/microformats2-perl/issues/3
 Evented-API-Engine-4.13                 132465
