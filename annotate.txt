@@ -6085,4 +6085,4 @@ File-FormatIdentification-RandomSampling-0.005 134049
 Roman-Unicode-1.032                     https://github.com/briandfoy/roman-unicode/issues/2
 Lemonldap-NG-Common-2.0.10              134062
 Finance-Nadex-0.08                      134068
-Devel-NYTProf-6.06                      https://github.com/timbunce/devel-nytprof/issues/143
+Devel-NYTProf-6.06                      https://github.com/timbunce/devel-nytprof/issues/143,https://github.com/Perl/perl5/issues/18215
