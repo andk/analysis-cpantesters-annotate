@@ -6048,7 +6048,7 @@ Dist-Zilla-Plugin-Author-CSSON-GithubActions-0.0106 https://github.com/Csson/p5-
 Finance-IG-0.03                         133958,133959
 SMS-Send-Adapter-Node-Red-0.04          133962
 App-TimeTracker-3.007                   https://github.com/domm/App-TimeTracker/issues/51
-Object-Pad-0.35                         132930
+Object-Pad-0.35                         132930,134074
 Astro-Montenbruck-1.01                  133985
 Async-Template-0.12                     https://github.com/oklas/async-template/issues/1
 Dist-Iller-0.1410                       https://github.com/Csson/p5-Dist-Iller/issues/5
