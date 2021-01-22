@@ -6086,3 +6086,11 @@ Roman-Unicode-1.032                     https://github.com/briandfoy/roman-unico
 Lemonldap-NG-Common-2.0.10              134062
 Finance-Nadex-0.08                      134068
 Devel-NYTProf-6.06                      https://github.com/timbunce/devel-nytprof/issues/143,https://github.com/Perl/perl5/issues/18215
+App-Device-Chip-sensor-0.01             134111
+App-GHPT-1.001000                       https://github.com/maxmind/App-GHPT/issues/31
+B-Deobfuscate-0.20                      134112
+Data-UUID-NCName-0.06                   134113,134114
+Git-Repository-1.324                    134115
+GitHub-Actions-0.0.4                    134116
+Config-Model-2.141                      https://github.com/dod38fr/config-model/issues/26
+Devel-MAT-0.43                          134117
