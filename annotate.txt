@@ -6094,3 +6094,5 @@ Git-Repository-1.324                    134115
 GitHub-Actions-0.0.4                    134116
 Config-Model-2.141                      https://github.com/dod38fr/config-model/issues/26
 Devel-MAT-0.43                          134117
+Store-Directories-v0.4.1                134123,134124
+AudioFile-Info-Ogg-Vorbis-Header-PurePerl-v1.5.4 https://github.com/davorg/audiofile-info-ogg-vorbis-header-pureperl/issues/1
