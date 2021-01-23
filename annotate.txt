@@ -6097,3 +6097,5 @@ Devel-MAT-0.43                          134117
 Store-Directories-v0.4.1                134123,134124
 AudioFile-Info-Ogg-Vorbis-Header-PurePerl-v1.5.4 https://github.com/davorg/audiofile-info-ogg-vorbis-header-pureperl/issues/1
 Lingua-String-0.01                      https://github.com/nigelhorne/Lingua-String/issues/3
+BibTeX-Parser-1.02                      133929
+SQL-Abstract-More-1.34                  134127
