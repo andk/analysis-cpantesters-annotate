@@ -2830,7 +2830,7 @@ SWFEditor-0.09                          121333
 WWW-Mechanize-Shell-0.55                121334
 Date-Passover-1.12                      121343
 HTML-Selector-XPath-Simple-v0.0.3       121344
-Algorithm-CurveFit-1.05                 121352
+Algorithm-CurveFit-1.05                 121352,134134
 Bio-SCF-1.03                            119205
 Catalyst-Model-FormFu-0.004             121353
 Catalyst-Plugin-Session-Store-BerkeleyDB-0.04 121354
