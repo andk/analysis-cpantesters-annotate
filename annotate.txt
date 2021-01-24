@@ -6102,3 +6102,6 @@ SQL-Abstract-More-1.34                  134127
 Catmandu-BibTeX-0.18                    https://github.com/LibreCat/Catmandu-BibTeX/issues/6
 Hash-Merge-0.302                        134129
 File-Find-Repository-0.03.3             134130
+App-bookmarks-0.23                      https://github.com/kal247/App-bookmarks/issues/2
+Data-Importer-0.006                     134132
+Mojolicious-Plugin-DBIC-0.003           https://github.com/preaction/Mojolicious-Plugin-DBIC/issues/3
