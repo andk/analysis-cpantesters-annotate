@@ -4160,7 +4160,7 @@ Mojolicious-Plugin-RoutesConfig-0.05    https://github.com/kberov/Mojolicious-Pl
 HTML-Restrict-v2.4.0                    https://github.com/oalders/html-restrict/issues/32
 GraphQL-Plugin-Convert-OpenAPI-0.17     https://github.com/graphql-perl/GraphQL-Plugin-Convert-OpenAPI/issues/4
 Yancy-1.022                             https://github.com/preaction/Yancy/issues/55
-Mojo-Pg-Che-0.856                       128419
+Mojo-Pg-Che-0.856                       128419,134149
 OTRS-OPM-Parser-1.01                    https://github.com/reneeb/OTRS-OPM-Parser/issues/3
 Mojo-Log-Che-0.8121                     120757
 Finance-Bank-Postbank_de-0.56           127910,128466
