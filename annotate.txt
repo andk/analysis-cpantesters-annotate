@@ -6120,3 +6120,6 @@ DBIx-Sunny-0.9992                       https://github.com/kazeburo/DBIx-Sunny/i
 CtrlO-PDF-0.09                          https://github.com/ctrlo/CtrlO-PDF/issues/9
 DBIx-Schema-Changelog-0.9.0             134154
 Geoffrey-0.000205                       134155
+Pod-Weaver-Section-SQL-0.03             134157
+Teng-Plugin-SearchBySQLAbstractMore-0.12 https://github.com/ktat/Teng-Plugin-SearchBySQLAbstractMore/issues/1
+Types-RENEEB-0.08                       https://github.com/reneeb/Types-RENEEB/issues/3
