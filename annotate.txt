@@ -6117,3 +6117,6 @@ Class-DBI-Sweet-0.11                    134150
 DBIx-DataModel-3.0                      134151
 DBIx-Mint-0.071                         134152
 DBIx-Sunny-0.9992                       https://github.com/kazeburo/DBIx-Sunny/issues/16
+CtrlO-PDF-0.09                          https://github.com/ctrlo/CtrlO-PDF/issues/9
+DBIx-Schema-Changelog-0.9.0             134154
+Geoffrey-0.000205                       134155
