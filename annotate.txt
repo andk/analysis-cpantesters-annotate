@@ -4315,7 +4315,7 @@ Data-Object-0.91                        https://github.com/iamalnewkirk/data-obj
 CallBackery-0.14.8                      https://github.com/oetiker/callbackery/issues/50
 Locale-TextDomain-OO-Util-4.001         128843
 Mojolicious-Plugin-OpenAPI-2.13         https://github.com/jhthorsen/mojolicious-plugin-openapi/issues/122
-TAP-Formatter-Camelcade-0.009           128826,https://github.com/Camelcade/TAP-Formatter-Camelcade/issues/3
+TAP-Formatter-Camelcade-2021.1          128826,https://github.com/Camelcade/TAP-Formatter-Camelcade/issues/3
 PMLTQ-Suggest-0.0.3                     https://github.com/ufal/pmltq-suggest-server/issues/6
 Renard-Incunabula-Frontend-Gtk3-0.004   128849
 grpc-xs-0.34                            125710
