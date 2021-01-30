@@ -6130,3 +6130,5 @@ Store-Directories-v0.4.2                134124
 Perl-Critic-1.138                       https://github.com/Perl-Critic/Perl-Critic/issues/937
 Mesoderm-0.140780                       134242
 Net-Async-Pusher-0.005                  https://github.com/team-at-cpan/Net-Async-Pusher/issues/2
+BoardStreams-v0.0.6                     https://gitlab.com/karjala/boardstreams.pm/-/issues/1
+Perl-Tidy-Sweetened-1.17                https://github.com/mvgrimes/Perl-Tidy-Sweetened/issues/18
