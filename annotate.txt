@@ -6134,3 +6134,7 @@ BoardStreams-v0.0.6                     https://gitlab.com/karjala/boardstreams.
 Perl-Tidy-Sweetened-1.17                https://github.com/mvgrimes/Perl-Tidy-Sweetened/issues/18
 App-GitHooks-Plugin-ValidatePODFormat-v1.1.0 https://github.com/guillaumeaubert/App-GitHooks-Plugin-ValidatePODFormat/issues/2
 App-JIRAPrint-0.003                     134243
+Fancazzista-Scrap-1.00                  134248
+autovivification-0.18                   134249
+Future-AsyncAwait-0.47                  134250
+App-Greple-xp-0.02                      https://github.com/kaz-utashiro/greple-xp/issues/1
