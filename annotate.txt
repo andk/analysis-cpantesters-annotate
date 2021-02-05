@@ -6138,3 +6138,4 @@ Fancazzista-Scrap-1.00                  134248
 autovivification-0.18                   134249
 Future-AsyncAwait-0.47                  134250
 App-Greple-xp-0.02                      https://github.com/kaz-utashiro/greple-xp/issues/1
+App-Followme-1.96                       https://github.com/Jinzang/App-Followme/issues/4,https://github.com/Jinzang/App-Followme/issues/5,https://github.com/Jinzang/App-Followme/issues/6
