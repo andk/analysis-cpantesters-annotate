@@ -6145,3 +6145,5 @@ Net-Async-Slack-0.007                   https://github.com/team-at-cpan/Net-Asyn
 Net-Google-CivicInformation-0.01        https://github.com/1nickt/p5-Net-Google-CivicInformation/issues/1
 DuckCurses-0.1.3                        134334
 SReview-0.7.1                           134335
+JSON-Schema-Draft201909-0.021           https://github.com/karenetheridge/JSON-Schema-Draft201909/issues/42
+Config-PL-0.03                          https://github.com/Songmu/p5-Config-PL/issues/4
