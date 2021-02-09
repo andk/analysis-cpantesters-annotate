@@ -6150,3 +6150,4 @@ Config-PL-0.03                          https://github.com/Songmu/p5-Config-PL/i
 Neo4j-Driver-0.21                       https://github.com/johannessen/neo4j-driver-perl/issues/12
 Net-Connection-FreeBSD_sockstat-0.0.1   134345
 Net-Connection-ncnetstat-0.6.1          134346
+Sentry-SDK-0.10.3                       134347,134348,134349
