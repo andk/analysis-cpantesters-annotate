@@ -6151,3 +6151,5 @@ Neo4j-Driver-0.21                       https://github.com/johannessen/neo4j-dri
 Net-Connection-FreeBSD_sockstat-0.0.1   134345
 Net-Connection-ncnetstat-0.6.1          134346
 Sentry-SDK-0.10.3                       134347,134348,134349
+JSON-Create-0.30_04                     https://github.com/benkasminbullock/json-create/issues/46
+Business-ISBN-Data-20210112.004         https://github.com/briandfoy/business-isbn-data/issues/8
