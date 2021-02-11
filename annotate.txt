@@ -6156,3 +6156,4 @@ Business-ISBN-Data-20210112.004         https://github.com/briandfoy/business-is
 GitHub-Crud-20210211                    https://github.com/philiprbrenan/GitHubCrud/issues/1
 Mojo-Response-JSON-Path-0.002           134356
 Mojolicious-Plugin-Minion-Starter-0.001 134357
+Math-MPFR-4.15                          134359
