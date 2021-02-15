@@ -6160,3 +6160,10 @@ Math-MPFR-4.15                          134359
 Dancer-Session-Cookie-0.30              https://github.com/PerlDancer/Dancer-Session-Cookie/issues/19
 Text-Table-Span-0.002                   https://github.com/perlancar/perl-Text-Table-Span/issues/1
 Mojo-IOLoop-Delay-8.75                  discouraged
+RDF-RDFa-Parser-1.097                   134367
+XRD-Parser-0.201                        134368
+MooseX-Aspect-0.001                     134369
+OWL-DirectSemantics-0.001               134370
+P5U-Command-Peek-0.001                  134371
+P5U-Command-cttail-0.001                134371
+RDF-KML-Exporter-0.003                  134372
