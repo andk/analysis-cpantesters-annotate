@@ -6159,3 +6159,4 @@ Mojolicious-Plugin-Minion-Starter-0.001 134357
 Math-MPFR-4.15                          134359
 Dancer-Session-Cookie-0.30              https://github.com/PerlDancer/Dancer-Session-Cookie/issues/19
 Text-Table-Span-0.001                   https://github.com/perlancar/perl-Text-Table-Span/issues/1
+Mojo-IOLoop-Delay-8.74                  discouraged
