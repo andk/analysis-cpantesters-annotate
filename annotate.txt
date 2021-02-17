@@ -6167,3 +6167,4 @@ OWL-DirectSemantics-0.001               134370
 P5U-Command-Peek-0.001                  134371
 P5U-Command-cttail-0.001                134371
 RDF-KML-Exporter-0.003                  134372
+App-bookmarks-0.27                      https://github.com/kal247/App-bookmarks/issues/3
