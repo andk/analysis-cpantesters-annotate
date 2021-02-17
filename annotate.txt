@@ -6170,3 +6170,5 @@ RDF-KML-Exporter-0.003                  134372
 App-bookmarks-0.27                      https://github.com/kal247/App-bookmarks/issues/3
 DBIx-Class-ResultDDL-1.00               https://github.com/nrdvana/perl-DBIx-Class-ResultDDL/issues/8
 DBIx-ParseError-MySQL-v1.0.0            https://github.com/GrantStreetGroup/DBIx-ParseError-MySQL/issues/1
+Mojo-UserAgent-SecureServer-0.02        https://github.com/jhthorsen/mojo-useragent-secureserver/issues/1
+Mojolicious-Plugin-JSONRPC2-v2.0.2      https://github.com/powerman/perl-Mojolicious-Plugin-JSONRPC2/issues/2
