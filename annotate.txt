@@ -6168,3 +6168,5 @@ P5U-Command-Peek-0.001                  134371
 P5U-Command-cttail-0.001                134371
 RDF-KML-Exporter-0.003                  134372
 App-bookmarks-0.27                      https://github.com/kal247/App-bookmarks/issues/3
+DBIx-Class-ResultDDL-1.00               https://github.com/nrdvana/perl-DBIx-Class-ResultDDL/issues/8
+DBIx-ParseError-MySQL-v1.0.0            https://github.com/GrantStreetGroup/DBIx-ParseError-MySQL/issues/1
