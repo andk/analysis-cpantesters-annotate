@@ -6174,3 +6174,4 @@ Mojo-UserAgent-SecureServer-0.02        https://github.com/jhthorsen/mojo-userag
 Mojolicious-Plugin-JSONRPC2-v2.0.2      https://github.com/powerman/perl-Mojolicious-Plugin-JSONRPC2/issues/2
 Mojolicious-Plugin-Minion-Starter-0.003 134373,134374
 Net-Connection-ncnetstat-0.6.3          134375,134376
+Mojo-UserAgent-Cached-1.14              134385
