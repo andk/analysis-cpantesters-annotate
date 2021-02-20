@@ -4781,7 +4781,7 @@ HTML-StickyQuery-0.13                   129649
 Catalyst-Model-EmailStore-0.03          129654
 FormValidator-LazyWay-0.20              129657
 Code-Style-Kit-1.0.0                    129661
-Parse-Syslog-Line-4.5                   129663
+Parse-Syslog-Line-4.6                   129663
 Data-FormValidator-Constraints-DateTime-1.11 129664
 Data-Dump-Streamer-2.40                 117331,129668
 Zonemaster-Backend-4.0.0                https://github.com/zonemaster/zonemaster-backend/issues/516
