@@ -6177,3 +6177,12 @@ Net-Connection-ncnetstat-0.6.3          134375,134376
 Mojo-UserAgent-Cached-1.14              134385
 Net-Silverpeak-Orchestrator-0.001001    134386
 Sentry-SDK-v1.0.2                       134348
+App-phoebe-2.08                         134392
+IO-Compress-Zstd-2.100                  https://github.com/pmqs/IO-Compress-Zstd/issues/4
+Mail-DMARC-1.20210220                   https://github.com/msimerson/mail-dmarc/issues/182,https://github.com/msimerson/mail-dmarc/issues/183
+Mojo-UserAgent-Cached-1.15              134393
+Mojolicious-Plugin-AssetPack-2.11       https://github.com/jhthorsen/mojolicious-plugin-assetpack/issues/145
+MooX-late-0.100                         134394
+Net-Async-HTTP-0.47                     134395
+Object-Pad-0.36                         134396
+Reddit-Client-1.386                     134397
