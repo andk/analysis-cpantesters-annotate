@@ -6186,3 +6186,10 @@ MooX-late-0.100                         134394
 Net-Async-HTTP-0.47                     134395
 Object-Pad-0.36                         134396
 Reddit-Client-1.386                     134397
+Test-RedisServer-0.21                   https://github.com/typester/Test-RedisServer/issues/12
+Text-Table-More-0.010                   https://github.com/perlancar/perl-Text-Table-More/issues/1
+Text-Table-Span-0.009                   https://github.com/perlancar/perl-Text-Table-Span/issues/2
+Text-Tradition-2.1.0                    131225
+Types-Algebraic-0.06                    https://github.com/Eckankar/Types-Algebraic/issues/5,https://github.com/Eckankar/Types-Algebraic/issues/6
+WebService-CEPH-0.018                   134398
+WHO-GrowthReference-Table-0.004         https://github.com/perlancar/perl-WHO-GrowthReference-Table/issues/1
