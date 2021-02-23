@@ -6193,3 +6193,5 @@ Text-Tradition-2.1.0                    131225
 Types-Algebraic-0.06                    https://github.com/Eckankar/Types-Algebraic/issues/5,https://github.com/Eckankar/Types-Algebraic/issues/6
 WebService-CEPH-0.018                   134398
 WHO-GrowthReference-Table-0.004         https://github.com/perlancar/perl-WHO-GrowthReference-Table/issues/1
+Data-Sah-Resolve-0.007                  134410
+Authen-NZRealMe-1.21                    https://github.com/catalyst/Authen-NZRealMe/issues/9
