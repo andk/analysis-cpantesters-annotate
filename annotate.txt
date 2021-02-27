@@ -6198,3 +6198,4 @@ Authen-NZRealMe-1.21                    https://github.com/catalyst/Authen-NZRea
 Bundle-Maintainer-MHASCH-0.004          https://github.com/mhasch/perl-Bundle-Maintainer-MHASCH/issues/1
 DateTime-Format-EraLegis-0.012          134443
 Graph-Maker-Other-16                    134444
+Dancer2-Plugin-DBIx-Class-1.000         https://gitlab.com/GeekRuthie/Dancer2-Plugin-DBIx-Class/-/issues/1
