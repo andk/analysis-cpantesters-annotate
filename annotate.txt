@@ -6195,3 +6195,6 @@ WebService-CEPH-0.018                   134398
 WHO-GrowthReference-Table-0.004         https://github.com/perlancar/perl-WHO-GrowthReference-Table/issues/1
 Data-Sah-Resolve-0.007                  134410
 Authen-NZRealMe-1.21                    https://github.com/catalyst/Authen-NZRealMe/issues/9
+Bundle-Maintainer-MHASCH-0.004          https://github.com/mhasch/perl-Bundle-Maintainer-MHASCH/issues/1
+DateTime-Format-EraLegis-0.012          134443
+Graph-Maker-Other-16                    134444
