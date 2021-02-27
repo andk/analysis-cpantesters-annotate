@@ -3894,7 +3894,7 @@ Finance-Quant-0.09                      127767
 Qgoda-0.9.4                             127768
 ExtJS-Generator-DBIC-0.003              127770
 Alien-sispmctl-0.001                    127771
-Perl-Critic-Pulp-96                     127777
+Perl-Critic-Pulp-98                     127777
 Catmandu-Inspire-0.265                  https://github.com/LibreCat/Catmandu-Inspire/issues/4
 Test-Aggregate-0.375                    100035
 Dist-Zilla-Plugin-LaunchpadPPA-0.1      127779
