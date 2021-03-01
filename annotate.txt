@@ -6138,7 +6138,7 @@ Fancazzista-Scrap-1.00                  134248
 autovivification-0.18                   134249
 Future-AsyncAwait-0.47                  134250
 App-Greple-xp-0.02                      https://github.com/kaz-utashiro/greple-xp/issues/1
-App-Followme-1.96                       https://github.com/Jinzang/App-Followme/issues/4,https://github.com/Jinzang/App-Followme/issues/5,https://github.com/Jinzang/App-Followme/issues/6
+App-Followme-1.99                       https://github.com/Jinzang/App-Followme/issues/4,https://github.com/Jinzang/App-Followme/issues/5,https://github.com/Jinzang/App-Followme/issues/6
 exact-1.15                              https://github.com/gryphonshafer/exact/issues/3
 Alien-SDL-1.446                         https://github.com/PerlGameDev/SDL/issues/295,https://github.com/PerlGameDev/SDL/issues/296
 Net-Async-Slack-0.007                   https://github.com/team-at-cpan/Net-Async-Slack/issues/1
