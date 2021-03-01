@@ -6199,3 +6199,4 @@ Bundle-Maintainer-MHASCH-0.004          https://github.com/mhasch/perl-Bundle-Ma
 DateTime-Format-EraLegis-0.012          134443
 Graph-Maker-Other-16                    134444
 Dancer2-Plugin-DBIx-Class-1.000         https://gitlab.com/GeekRuthie/Dancer2-Plugin-DBIx-Class/-/issues/1
+URI-5.08                                https://github.com/libwww-perl/URI/issues/83
