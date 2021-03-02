@@ -6172,7 +6172,7 @@ DBIx-Class-ResultDDL-1.00               https://github.com/nrdvana/perl-DBIx-Cla
 DBIx-ParseError-MySQL-v1.0.0            https://github.com/GrantStreetGroup/DBIx-ParseError-MySQL/issues/1
 Mojo-UserAgent-SecureServer-0.02        https://github.com/jhthorsen/mojo-useragent-secureserver/issues/1
 Mojolicious-Plugin-JSONRPC2-v2.0.2      https://github.com/powerman/perl-Mojolicious-Plugin-JSONRPC2/issues/2
-Mojolicious-Plugin-Minion-Starter-0.004 134374
+Mojolicious-Plugin-Minion-Starter-0.005 134374
 Net-Connection-ncnetstat-0.6.3          134375,134376
 Mojo-UserAgent-Cached-1.14              134385
 Net-Silverpeak-Orchestrator-0.001001    134386
