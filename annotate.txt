@@ -4162,7 +4162,7 @@ GraphQL-Plugin-Convert-OpenAPI-0.17     https://github.com/graphql-perl/GraphQL-
 Yancy-1.022                             https://github.com/preaction/Yancy/issues/55
 Mojo-Pg-Che-0.856                       128419,134149
 OTRS-OPM-Parser-1.01                    https://github.com/reneeb/OTRS-OPM-Parser/issues/3
-Mojo-Log-Che-0.8121                     120757
+Mojo-Log-Che-0.902                      120757
 Finance-Bank-Postbank_de-0.56           127910,128466
 WebService-GeoIPify-0.03                128454
 Locked-Storage-1.07                     128467
