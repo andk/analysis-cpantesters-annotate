@@ -6203,3 +6203,6 @@ URI-5.08                                https://github.com/libwww-perl/URI/issue
 Champlain-0.14                          deprecated
 Mojolicious-Plugin-RoutesConfig-0.06    https://github.com/kberov/Mojolicious-Plugin-RoutesConfig/issues/2
 Data-Printer-Filter-DBIx-Class-0.000005 deprecated
+Geo-LibProj-FFI-0.01                    https://github.com/johannessen/proj-perl-ffi/issues/1
+Test-Future-IO-0.02                     134632
+Text-TokenStream-0.01                   https://github.com/arc/Text-TokenStream/issues/1
