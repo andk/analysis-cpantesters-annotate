@@ -6207,3 +6207,7 @@ Geo-LibProj-FFI-0.01                    https://github.com/johannessen/proj-perl
 Test-Future-IO-0.02                     134632
 Text-TokenStream-0.01                   https://github.com/arc/Text-TokenStream/issues/1
 API-MikroTik-v0.242                     deprecated, fails with Mojolicious 9.x
+App-opan-0.003002                       134633
+App-txtnix-0.07                         https://github.com/mdom/txtnix/issues/26
+List-Objects-WithUtils-2.028003         134634
+Mojolicious-Plugin-Directory-Stylish-1.006 https://github.com/pink-mist/Mojolicious-Plugin-Directory-Stylish/issues/6
