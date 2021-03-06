@@ -6206,3 +6206,4 @@ Data-Printer-Filter-DBIx-Class-0.000005 deprecated
 Geo-LibProj-FFI-0.01                    https://github.com/johannessen/proj-perl-ffi/issues/1
 Test-Future-IO-0.02                     134632
 Text-TokenStream-0.01                   https://github.com/arc/Text-TokenStream/issues/1
+API-MikroTik-v0.242                     deprecated, fails with Mojolicious 9.x
