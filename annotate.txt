@@ -4625,7 +4625,7 @@ Xtract-0.16                             https://github.com/gfx/p5-Mouse/issues/3
 DBIx-QuickDB-0.000021                   https://github.com/exodist/DBIx-QuickDB/issues/1
 Functional-Utility-1.02                 https://github.com/belden/perl-functional-utility/issues/2,https://github.com/belden/perl-functional-utility/issues/3
 Mojo-Promise-Role-Futurify-0.001        https://github.com/Grinnz/Mojo-Promise-Role-Futurify/issues/1
-Mojo-SMTP-Client-0.17                   129355
+Mojo-SMTP-Client-0.17                   129355,134650
 AnyEvent-HTTPD-Router-1.0.0             https://github.com/ufobat/p5-AnyEvent-HTTPD-Router/issues/6
 File-TVShow-Organize-0.32.1             129349,129360
 as-0.08                                 129365
