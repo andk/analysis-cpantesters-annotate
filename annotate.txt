@@ -6211,3 +6211,24 @@ App-opan-0.003002                       134633
 App-txtnix-0.07                         https://github.com/mdom/txtnix/issues/26
 List-Objects-WithUtils-2.028003         134634
 Mojolicious-Plugin-Directory-Stylish-1.006 https://github.com/pink-mist/Mojolicious-Plugin-Directory-Stylish/issues/6
+Dash-0.10                               https://github.com/pablrod/perl-Dash/issues/2
+Hetula-Client-0.008                     https://github.com/kivilahtio/libhetula-client-perl/issues/4
+Mojo-Feed-0.20                          https://github.com/dotandimet/Mojo-Feed/issues/23
+Mojo-Phantom-0.11                       https://github.com/jberger/Mojo-Phantom/issues/16
+Mojo-IOLoop-ForkCall-0.20               deprecated, fails with Mojolicious 9.x
+MojoX-Plugin-AnyCache-0.04              https://github.com/companieshouse/MojoX-Plugin-AnyCache/issues/13
+JSON-Schema-ToJSON-0.18                 https://github.com/Humanstate/json-schema-tojson/issues/8
+Mojolicious-Plugin-JSONAPI-2.6          134645
+Mojolicious-Plugin-YamlConfig-0.2.2     134647
+SolarBeam-0.05                          134649
+Mojo-Redis2-0.36                        deprecated, fails with Mojolicious 9.x
+Mojo-Webqq-2.2.7                        134379
+Mojo-Weixin-1.4.6                       134651
+ojo-ServeDir-0.11                       https://github.com/memowe/Mojo-ServeDir/issues/7
+Web-SIVA-0.0.6                          134652
+WebService-Fake-0.004                   https://github.com/polettix/WebService-Fake/issues/5
+WebService-Rollbar-Notifier-1.002009    https://github.com/zoffixznet/WebService-Rollbar-Notifier/issues/13
+Webservice-Shipment-0.05                https://github.com/jberger/Webservice-Shipment/issues/5
+Tapper-API-5.0.1                        134653
+Test2-MojoX-0.05                        https://github.com/elcamlost/Test2-MojoX/issues/1
+WWW-Crawler-Mojo-0.25                   https://github.com/jamadam/WWW-Crawler-Mojo/issues/8
