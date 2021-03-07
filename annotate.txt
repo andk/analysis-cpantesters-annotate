@@ -6241,3 +6241,16 @@ Mojolicious-Plugin-SQLiteViewerLite-0.14 134657
 Mojolicious-Plugin-SimpleSlides-0.06    deprecated, fails with Mojolicious 9.x
 Mojolicious-Plugin-Tables-1.05          https://github.com/frank-carnovale/Mojolicious-Plugin-Tables/issues/4
 Mojolicious-Plugin-Vparam-3.06          https://github.com/dr-co/libmojolicious-plugin-vparam-perl/issues/31
+MojoX-Routes-AsGraph-0.07               134381
+Mojolicious-Command-proxy-0.004         https://github.com/mohawk2/Mojolicious-Command-proxy/issues/1
+Mojolicious-Plugin-AttributeMaker-0.07  134659
+Mojolicious-Plugin-Authorization-1.05   https://github.com/byterock/mojolicious-plugin-authorization/issues/16
+Mojolicious-Plugin-AutoIndex-0.0006     134660
+Mojolicious-Plugin-Check-0.03           https://github.com/dr-co/Mojolicious-Plugin-Check/issues/1
+Mojolicious-Plugin-DBICAdmin-0.0006     134661
+Mojolicious-Plugin-DBViewer-0.29        134662
+Mojolicious-Plugin-DigestAuth-0.09      https://github.com/sshaw/Mojolicious-Plugin-DigestAuth/issues/9
+Mojolicious-Plugin-Directory-0.14       https://github.com/hayajo/Mojolicious-Plugin-Directory/issues/9
+Mojolicious-Plugin-Human-1.01           https://github.com/dr-co/libmojolicious-plugin-human-perl/issues/2
+Mojolicious-Plugin-Moai-0.012           https://github.com/preaction/Mojolicious-Plugin-Moai/issues/2
+Mojolicious-Plugin-Module-0.04          134663
