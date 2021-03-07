@@ -6254,3 +6254,6 @@ Mojolicious-Plugin-Directory-0.14       https://github.com/hayajo/Mojolicious-Pl
 Mojolicious-Plugin-Human-1.01           https://github.com/dr-co/libmojolicious-plugin-human-perl/issues/2
 Mojolicious-Plugin-Moai-0.012           https://github.com/preaction/Mojolicious-Plugin-Moai/issues/2
 Mojolicious-Plugin-Module-0.04          134663
+Mojolicious-Plugin-JSUrlFor-0.17        134664
+Mojolicious-Plugin-Prove-0.1            https://github.com/reneeb/Mojolicious-Plugin-Prove/issues/3
+Mojolicious-Plugin-ReCAPTCHAv2-1.06     134665
