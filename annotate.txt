@@ -6232,3 +6232,12 @@ Webservice-Shipment-0.05                https://github.com/jberger/Webservice-Sh
 Tapper-API-5.0.1                        134653
 Test2-MojoX-0.05                        https://github.com/elcamlost/Test2-MojoX/issues/1
 WWW-Crawler-Mojo-0.25                   https://github.com/jamadam/WWW-Crawler-Mojo/issues/8
+Mojolicious-Plugin-PlackMiddleware-0.38 134654
+Mojolicious-Plugin-RESTRoutes-1.0.0     134655
+Mojolicious-Plugin-RESTful-0.1.4        134656
+Mojolicious-Plugin-Restify-0.08         https://github.com/kwakwaversal/mojolicious-plugin-restify/issues/15
+Mojolicious-Plugin-Routes-Restful-0.03  https://github.com/byterock/mojolicious-plugin-routes-restful/issues/11
+Mojolicious-Plugin-SQLiteViewerLite-0.14 134657
+Mojolicious-Plugin-SimpleSlides-0.06    deprecated, fails with Mojolicious 9.x
+Mojolicious-Plugin-Tables-1.05          https://github.com/frank-carnovale/Mojolicious-Plugin-Tables/issues/4
+Mojolicious-Plugin-Vparam-3.06          https://github.com/dr-co/libmojolicious-plugin-vparam-perl/issues/31
