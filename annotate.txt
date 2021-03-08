@@ -6261,3 +6261,5 @@ Mojolicious-Plugin-PetalTinyRenderer-0.05 134667
 Mojolicious-Plugin-WithCSRFProtection-1.00 https://github.com/maxmind/Mojolicious-Plugin-WithCSRFProtection/issues/1
 Mojolicious-Plugin-PlainRoutes-0.06     134668
 Paws-Credential-AssumeRoleWebIdentity-0.0.2 https://github.com/Prajithp/p5-paws-credential-webidentity/issues/1
+Mojo-FriendFeed-0.05                    https://github.com/jberger/Mojo-FriendFeed/issues/1
+Crypt-Passphrase-Argon2-0.001           https://github.com/Leont/crypt-passphrase-argon2/issues/1
