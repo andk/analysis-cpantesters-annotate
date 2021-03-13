@@ -6267,3 +6267,4 @@ Astro-Montenbruck-1.23                  134681
 Data-Printer-Filter-PDL-1.000           134729
 Geo-Coder-OpenCage-0.29                 134730
 JavaScript-Const-Exporter-v0.1.5        https://github.com/robrwo/JavaScript-Const-Exporter/issues/1
+CGI-Lingua-0.63                         https://github.com/nigelhorne/CGI-Lingua/issues/22
