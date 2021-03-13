@@ -6264,3 +6264,5 @@ Paws-Credential-AssumeRoleWebIdentity-0.0.2 https://github.com/Prajithp/p5-paws-
 Mojo-FriendFeed-0.05                    https://github.com/jberger/Mojo-FriendFeed/issues/1
 Crypt-Passphrase-Argon2-0.001           https://github.com/Leont/crypt-passphrase-argon2/issues/1
 Astro-Montenbruck-1.23                  134681
+Data-Printer-Filter-PDL-1.000           134729
+Geo-Coder-OpenCage-0.29                 134730
