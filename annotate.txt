@@ -6274,3 +6274,4 @@ MouseX-Getopt-0.38                      https://github.com/gfx/mousex-getopt/iss
 Class-Discover-1.000003                 134751
 MooseX-App-Cmd-0.32                     134752
 List-Helpers-XS-0.03                    134753
+MooseX-Getopt-0.74                      134754
