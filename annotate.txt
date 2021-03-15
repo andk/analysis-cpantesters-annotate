@@ -6277,3 +6277,8 @@ List-Helpers-XS-0.05                    134753
 MooseX-Getopt-0.74                      134754
 App-Lingua-BO-Wylie-Transliteration-0.1.0 134757
 Catalyst-View-ByCode-0.28               134758
+Object-Method-0.03                      134759
+Async-Microservice-0.01                 134761
+Devel-REPL-Plugin-DataPrinter-0.007     134762
+EVDB-API-0.99                           134763
+Getopt-Long-DescriptivePod-0.04         134764
