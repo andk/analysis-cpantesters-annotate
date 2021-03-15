@@ -6275,3 +6275,5 @@ Class-Discover-1.000003                 134751
 MooseX-App-Cmd-0.32                     134752
 List-Helpers-XS-0.05                    134753
 MooseX-Getopt-0.74                      134754
+App-Lingua-BO-Wylie-Transliteration-0.1.0 134757
+Catalyst-View-ByCode-0.28               134758
