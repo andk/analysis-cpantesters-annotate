@@ -6282,3 +6282,10 @@ Async-Microservice-0.01                 134761
 Devel-REPL-Plugin-DataPrinter-0.007     134762
 EVDB-API-0.99                           134763
 Getopt-Long-DescriptivePod-0.04         134764
+Lock-File-1.03                          134769
+Mail-Run-Crypt-0.11                     134766
+Sub-Meta-0.08                           https://github.com/kfly8/p5-Sub-Meta/issues/24
+Linux-Sys-CPU-Affinity-0.10             134767
+Starlet-0.31                            134768
+Selenium-Remote-Driver-1.40             https://github.com/teodesian/Selenium-Remote-Driver/issues/465
+Mojolicious-Plugin-Prove-0.11           https://github.com/reneeb/Mojolicious-Plugin-Prove/issues/4
