@@ -6289,3 +6289,8 @@ Linux-Sys-CPU-Affinity-0.10             134767
 Starlet-0.31                            134768
 Selenium-Remote-Driver-1.40             https://github.com/teodesian/Selenium-Remote-Driver/issues/465
 Mojolicious-Plugin-Prove-0.11           https://github.com/reneeb/Mojolicious-Plugin-Prove/issues/4
+OpenGbg-0.1404                          https://github.com/Csson/p5-OpenGbg/issues/4
+Geo-GDAL-FFI-0.08                       https://github.com/ajolma/Geo-GDAL-FFI/issues/41
+Alien-libsnappy-0.04                    134770
+CallBackery-0.35.7                      https://github.com/oetiker/callbackery/issues/131
+Crypt-OpenSSL-Base-Func-0.02            https://github.com/abbypan/Crypt-OpenSSL-Base-Func/issues/2
