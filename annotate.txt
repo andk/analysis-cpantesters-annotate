@@ -6269,3 +6269,8 @@ Geo-Coder-OpenCage-0.29                 134730
 JavaScript-Const-Exporter-v0.1.5        https://github.com/robrwo/JavaScript-Const-Exporter/issues/1
 CGI-Lingua-0.63                         https://github.com/nigelhorne/CGI-Lingua/issues/22
 Unicode-Char-0.02                       https://github.com/Perl/perl5/issues/17766,132491
+App-highlight-0.14                      134747
+MouseX-Getopt-0.38                      https://github.com/gfx/mousex-getopt/issues/14
+Class-Discover-1.000003                 134751
+MooseX-App-Cmd-0.32                     134752
+List-Helpers-XS-0.03                    134753
