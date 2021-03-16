@@ -6294,3 +6294,7 @@ Geo-GDAL-FFI-0.08                       https://github.com/ajolma/Geo-GDAL-FFI/i
 Alien-libsnappy-0.04                    134770
 CallBackery-0.35.7                      https://github.com/oetiker/callbackery/issues/131
 Crypt-OpenSSL-Base-Func-0.02            https://github.com/abbypan/Crypt-OpenSSL-Base-Func/issues/2
+Crypt-LE-0.37                           134771
+Dancer2-0.301000                        https://github.com/PerlDancer/Dancer2/issues/1605
+Crypt-PWSafe3-1.22                      https://github.com/TLINDEN/Crypt--PWSafe3/issues/12
+FTN-Crypt-0.5                           134775
