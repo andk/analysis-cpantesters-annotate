@@ -6298,3 +6298,5 @@ Crypt-LE-0.37                           134771
 Dancer2-0.301000                        https://github.com/PerlDancer/Dancer2/issues/1605
 Crypt-PWSafe3-1.22                      https://github.com/TLINDEN/Crypt--PWSafe3/issues/12
 FTN-Crypt-0.5                           134775
+Protocol-ACME-1.02                      deprecated
+MooseX-App-Cmd-0.33                     134779
