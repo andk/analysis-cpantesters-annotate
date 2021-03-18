@@ -6300,3 +6300,4 @@ Crypt-PWSafe3-1.22                      https://github.com/TLINDEN/Crypt--PWSafe
 FTN-Crypt-0.5                           134775
 Protocol-ACME-1.02                      deprecated
 MooseX-App-Cmd-0.33                     134779
+Sah-Schemas-GraphicsColorNames-0.002    https://github.com/perlancar/perl-Sah-Schemas-GraphicsColorNames/issues/1
