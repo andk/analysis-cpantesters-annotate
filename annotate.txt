@@ -6301,3 +6301,5 @@ FTN-Crypt-0.5                           134775
 Protocol-ACME-1.02                      deprecated
 MooseX-App-Cmd-0.33                     134779
 Sah-Schemas-GraphicsColorNames-0.002    https://github.com/perlancar/perl-Sah-Schemas-GraphicsColorNames/issues/1
+Statocles-0.097                         https://github.com/preaction/Statocles/issues/604
+File-Rename-1.19_03                     134798
