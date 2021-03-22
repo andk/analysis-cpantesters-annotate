@@ -6273,7 +6273,7 @@ App-highlight-0.14                      134747
 MouseX-Getopt-0.38                      https://github.com/gfx/mousex-getopt/issues/14
 Class-Discover-1.000003                 134751
 MooseX-App-Cmd-0.32                     134752
-List-Helpers-XS-0.09                    134753
+List-Helpers-XS-0.10                    134753
 MooseX-Getopt-0.74                      134754
 App-Lingua-BO-Wylie-Transliteration-0.1.0 134757
 Catalyst-View-ByCode-0.28               134758
