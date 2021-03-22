@@ -6303,3 +6303,6 @@ MooseX-App-Cmd-0.33                     134779
 Sah-Schemas-GraphicsColorNames-0.002    https://github.com/perlancar/perl-Sah-Schemas-GraphicsColorNames/issues/1
 Statocles-0.097                         https://github.com/preaction/Statocles/issues/604
 File-Rename-1.19_03                     134798
+Crypt-xxHash-0.02                       134799
+Dist-Zilla-Plugin-MapMetro-MakeLinePod-0.1202 https://github.com/Csson/p5-Dist-Zilla-Plugin-MapMetro-MakeLinePod/issues/2
+PerlX-QuoteOperator-Inescapable-0.002   134803
