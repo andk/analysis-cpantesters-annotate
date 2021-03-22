@@ -6306,3 +6306,7 @@ File-Rename-1.19_03                     134798
 Crypt-xxHash-0.02                       134799
 Dist-Zilla-Plugin-MapMetro-MakeLinePod-0.1202 https://github.com/Csson/p5-Dist-Zilla-Plugin-MapMetro-MakeLinePod/issues/2
 PerlX-QuoteOperator-Inescapable-0.002   134803
+JSON-Validator-4.14                     https://github.com/jhthorsen/json-validator/issues/242
+Mojolicious-Plugin-Export-Git-0.001     https://github.com/preaction/Mojolicious-Plugin-Export-Git/issues/1
+Search-Typesense-0.02                   https://github.com/Ovid/Search-Typesense/issues/1
+Mojolicious-Plugin-GSSAPI-0.1.0         https://github.com/oetiker/mojolicious-plugin-gssapi/issues/1
