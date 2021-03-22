@@ -6310,3 +6310,7 @@ JSON-Validator-4.14                     https://github.com/jhthorsen/json-valida
 Mojolicious-Plugin-Export-Git-0.001     https://github.com/preaction/Mojolicious-Plugin-Export-Git/issues/1
 Search-Typesense-0.02                   https://github.com/Ovid/Search-Typesense/issues/1
 Mojolicious-Plugin-GSSAPI-0.1.0         https://github.com/oetiker/mojolicious-plugin-gssapi/issues/1
+App-mojopaste-1.04                      https://github.com/jhthorsen/app-mojopaste/issues/22
+App-proxyforurl-0.07                    https://github.com/jhthorsen/app-proxyforurl/issues/3
+LinkEmbedder-1.17                       https://github.com/convos-chat/linkembedder/issues/22
+Mojolicious-Plugin-OpenAPI-4.00         https://github.com/jhthorsen/mojolicious-plugin-openapi/issues/204
