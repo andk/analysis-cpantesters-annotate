@@ -6127,7 +6127,7 @@ CellBIS-SQL-Abstract-1.3                https://github.com/CellBIS/CellBIS-SQL-A
 DBIx-BatchChunker-v0.940.2              https://github.com/GrantStreetGroup/DBIx-BatchChunker/issues/3
 Locale-Places-0.03                      https://github.com/nigelhorne/Locale-Places/issues/1
 Store-Directories-v0.4.2                134124
-Perl-Critic-1.138                       https://github.com/Perl-Critic/Perl-Critic/issues/937
+Perl-Critic-1.140                       https://github.com/Perl-Critic/Perl-Critic/issues/937
 Mesoderm-0.140780                       134242
 Net-Async-Pusher-0.005                  https://github.com/team-at-cpan/Net-Async-Pusher/issues/2
 BoardStreams-v0.0.6                     https://gitlab.com/karjala/boardstreams.pm/-/issues/1
