@@ -6330,3 +6330,5 @@ Mojolicious-Plugin-SimpleAuthorization-0.02 https://github.com/kwakwaversal/mojo
 Mojolicious-Plugin-Status-1.16          https://github.com/mojolicious/mojo-status/issues/7
 Mojolicious-Plugin-TextExceptions-0.01  https://github.com/marcusramberg/mojolicious-plugin-textexceptions/issues/1
 LinkEmbedder-1.18                       https://github.com/convos-chat/linkembedder/issues/23
+Spreadsheet-Compare-0.11                134829
+Mail-BIMI-3.20210301                    https://github.com/marcbradshaw/mail-bimi/issues/5
