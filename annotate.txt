@@ -6337,3 +6337,4 @@ Spreadsheet-Compare-0.12                134835
 Web-PageMeta-0.03                       https://github.com/jozef/Web-PageMeta/issues/2
 Mojolicious-Plugin-DigestAuth-0.10      https://github.com/sshaw/Mojolicious-Plugin-DigestAuth/issues/11
 Parser-MGC-0.17                         134839
+Cache-FastMmap-1.56                     https://github.com/robmueller/cache-fastmmap/issues/25
