@@ -6338,3 +6338,11 @@ Web-PageMeta-0.03                       https://github.com/jozef/Web-PageMeta/is
 Mojolicious-Plugin-DigestAuth-0.10      https://github.com/sshaw/Mojolicious-Plugin-DigestAuth/issues/11
 Parser-MGC-0.17                         134839
 Cache-FastMmap-1.56                     https://github.com/robmueller/cache-fastmmap/issues/25
+IPC-XPA-0.13                            134844
+Bio-DB-NCBIHelper-1.7.6                 https://github.com/bioperl/Bio-DB-NCBIHelper/issues/6
+Bio-PhyloNetwork-1.7.3                  https://github.com/bioperl/Bio-PhyloNetwork/issues/1
+DBIx-Class-Migration-0.075              134845
+Text-ANSITable-ColorTheme-Extra-0.14    134846
+Alien-Kiwisolver-0.001                  134847
+OpusVL-AppKit-2.29                      https://github.com/OpusVL/OpusVL-AppKit/issues/1
+Test2-Tools-Process-0.05                https://github.com/uperl/Test2-Tools-Process/issues/12
