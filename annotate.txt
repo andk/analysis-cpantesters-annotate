@@ -6346,3 +6346,9 @@ Text-ANSITable-ColorTheme-Extra-0.14    134846
 Alien-Kiwisolver-0.001                  134847
 OpusVL-AppKit-2.29                      https://github.com/OpusVL/OpusVL-AppKit/issues/1
 Test2-Tools-Process-0.05                https://github.com/uperl/Test2-Tools-Process/issues/12
+App-bookmarks-0.30                      https://github.com/kal247/App-bookmarks/issues/4
+INI-Reader-Regexp-0.04                  134878
+Perl-Critic-Lokku-0.003                 abandoned,https://github.com/lokku/Perl-Critic-Lokku/issues/7
+Text-Table-More-0.011                   https://github.com/perlancar/perl-Text-Table-More/issues/2
+BuzzSaw-0.12.0                          134879
+Redis-JobQueue-1.19                     https://github.com/TrackingSoft/Redis-JobQueue/issues/6
