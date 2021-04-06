@@ -3191,7 +3191,7 @@ App-CLI-Extension-1.421                 123655
 CSS-Simple-3224                         123656
 Message-Passing-Output-Search-Elasticsearch-0.004 123660
 Parallel-Prefork-0.18                   113449
-File-Random-0.18                        123680
+File-Random-0.20                        123680,https://github.com/hanfried/File-Random/issues/6
 Crypt-OpenSSL-VerifyX509-0.10           120607,120608,121214,123690
 App-Textcast-0.06.15                    123692
 DBIx-Class-StorageReadOnly-0.05         117659,123704
