@@ -6352,3 +6352,4 @@ Perl-Critic-Lokku-0.003                 abandoned,https://github.com/lokku/Perl-
 Text-Table-More-0.011                   https://github.com/perlancar/perl-Text-Table-More/issues/2
 BuzzSaw-0.12.0                          134879
 Redis-JobQueue-1.19                     https://github.com/TrackingSoft/Redis-JobQueue/issues/6
+App-tt-0.16                             https://github.com/jhthorsen/app-tt/issues/4,https://github.com/jhthorsen/app-tt/issues/5
