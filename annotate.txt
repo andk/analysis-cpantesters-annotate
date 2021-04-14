@@ -6343,7 +6343,7 @@ Bio-DB-NCBIHelper-1.7.6                 https://github.com/bioperl/Bio-DB-NCBIHe
 Bio-PhyloNetwork-1.7.3                  https://github.com/bioperl/Bio-PhyloNetwork/issues/1
 DBIx-Class-Migration-0.075              134845
 Text-ANSITable-ColorTheme-Extra-0.14    134846
-Alien-Kiwisolver-0.001                  134847
+Alien-Kiwisolver-0.002                  134847
 OpusVL-AppKit-2.29                      https://github.com/OpusVL/OpusVL-AppKit/issues/1
 Test2-Tools-Process-0.05                https://github.com/uperl/Test2-Tools-Process/issues/12
 App-bookmarks-0.30                      https://github.com/kal247/App-bookmarks/issues/4
