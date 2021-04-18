@@ -6357,3 +6357,4 @@ TOML-XS-0.01_02                         https://github.com/FGasper/p5-TOML-XS/is
 List-Util-MaybeXS-1.500_007             135123
 Test-PDL-0.14                           135221
 Lagrange-0.1.9                          135222
+CodeGen-Protection-0.02                 https://github.com/Ovid/codegen-protection/issues/1
