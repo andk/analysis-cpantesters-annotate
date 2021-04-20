@@ -5983,7 +5983,7 @@ Authen-Radius-0.31                      133490
 Speech-Synthesis-0.03                   133555
 Alien-Adaptagrams-0.001                 133556
 Tk-TableMatrix-1.24                     133557
-Chart-Kaleido-0.008                     133558
+Chart-Kaleido-0.010                     133558
 JSON-Conditional-0.01                   133559
 App-FilenameUtils-0.001                 133571
 String-Mask-0.01                        133572
