@@ -6372,3 +6372,4 @@ Crypto-Exchange-Binance-Spot-API-0.02   135244
 ArrayDataRoles-Standard-0.002           https://github.com/perlancar/perl-ArrayDataRoles-Standard/issues/1,https://github.com/perlancar/perl-ArrayDataRoles-Standard/issues/2
 CodeGen-Protection-0.05                 https://github.com/Ovid/codegen-protection/issues/2
 Crypto-Exchange-Binance-Spot-API-0.02   135244
+Data-Format-Pretty-Console-0.38         135253
