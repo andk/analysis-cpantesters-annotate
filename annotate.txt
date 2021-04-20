@@ -6366,3 +6366,6 @@ Graph-Nauty-0.3.5                       https://github.com/merkys/Graph-Nauty/is
 Graphics-TIFF-10                        122933
 Minion-Backend-Redis-0.002              https://github.com/Difegue/Minion-Backend-Redis/issues/1
 Mojo-IOLoop-ReadWriteFork-1.01          https://github.com/jhthorsen/mojo-ioloop-readwritefork/issues/18
+ArrayDataRoles-Standard-0.002           https://github.com/perlancar/perl-ArrayDataRoles-Standard/issues/1,https://github.com/perlancar/perl-ArrayDataRoles-Standard/issues/2
+CodeGen-Protection-0.05                 https://github.com/Ovid/codegen-protection/issues/2
+Crypto-Exchange-Binance-Spot-API-0.02   135244
