@@ -6373,3 +6373,4 @@ ArrayDataRoles-Standard-0.002           https://github.com/perlancar/perl-ArrayD
 CodeGen-Protection-0.05                 https://github.com/Ovid/codegen-protection/issues/2
 Crypto-Exchange-Binance-Spot-API-0.02   135244
 Data-Format-Pretty-Console-0.38         135253
+Crypt-OpenSSL-VerifyX509-0.11-TRIAL     120608
