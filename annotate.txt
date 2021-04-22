@@ -6375,3 +6375,4 @@ Crypto-Exchange-Binance-Spot-API-0.02   135244
 Data-Format-Pretty-Console-0.38         135253
 Crypt-OpenSSL-VerifyX509-0.11-TRIAL     120608
 Crypt-OpenSSL-X509-1.904                https://github.com/dsully/perl-crypt-openssl-x509/issues/84
+Crypto-API-0.03                         135263
