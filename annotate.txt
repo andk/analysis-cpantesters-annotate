@@ -6369,9 +6369,6 @@ Mojo-IOLoop-ReadWriteFork-1.01          https://github.com/jhthorsen/mojo-ioloop
 ArrayDataRoles-Standard-0.002           https://github.com/perlancar/perl-ArrayDataRoles-Standard/issues/1,https://github.com/perlancar/perl-ArrayDataRoles-Standard/issues/2
 CodeGen-Protection-0.05                 https://github.com/Ovid/codegen-protection/issues/2
 Crypto-Exchange-Binance-Spot-API-0.02   135244
-ArrayDataRoles-Standard-0.002           https://github.com/perlancar/perl-ArrayDataRoles-Standard/issues/1,https://github.com/perlancar/perl-ArrayDataRoles-Standard/issues/2
-CodeGen-Protection-0.05                 https://github.com/Ovid/codegen-protection/issues/2
-Crypto-Exchange-Binance-Spot-API-0.02   135244
 Data-Format-Pretty-Console-0.38         135253
 Crypt-OpenSSL-VerifyX509-0.11-TRIAL     120608
 Crypt-OpenSSL-X509-1.904                https://github.com/dsully/perl-crypt-openssl-x509/issues/84
