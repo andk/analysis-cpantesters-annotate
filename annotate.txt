@@ -5203,7 +5203,6 @@ Alien-libtickit-0.07                    131297
 WWW-Scraper-ISBN-1.05                   131299
 List-UtilsBy-XS-0.05                    https://github.com/Perl/perl5/issues/17265
 Alien-libtickit-0.08                    131297
-WWW-Scraper-ISBN-1.05                   131299
 Bencher-Scenarios-OrgParsers-0.001      131305
 DBIx-Fast-0.08                          131306,131307,131308
 Date-ICal-2.678                         124548
@@ -5736,7 +5735,6 @@ Yancy-1.055                             https://github.com/preaction/Yancy/issue
 Zydeco-0.517                            132422
 MPV-Simple-0.65                         132423
 Scope-Escape-0.005                      132424
-MPV-Simple-0.65                         132423
 Finance-Bank-Postbank_de-0.57           132435
 Math-BigInt-Random-OO-0.04              132452
 Text-Hspell-0.2.4                       https://github.com/shlomif/Text-Hspell/issues/1
@@ -5957,7 +5955,6 @@ Text-ANSITable-0.600                    133472
 Data-RingBuffer-Time-0.01               133508
 Mojolicious-Plugin-OpenAPI-3.40         https://github.com/jhthorsen/mojolicious-plugin-openapi/issues/195
 Net-Whois-IANA-0.45                     https://github.com/atoomic/Net-Whois-IANA/issues/14
-Return-MultiLevel-0.05                  133221
 SVG-Metadata-0.28                       133509
 Math-Fractal-Mandelbrot-0.04            133510,133511
 GraphViz2-2.55                          https://github.com/ronsavage/GraphViz2/issues/8
