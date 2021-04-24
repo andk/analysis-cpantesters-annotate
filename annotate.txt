@@ -6372,3 +6372,4 @@ Crypt-OpenSSL-X509-1.904                https://github.com/dsully/perl-crypt-ope
 Crypto-API-0.03                         135263
 FunctionalPerl-0.72.52                  135264
 SPVM-0.0945                             135283
+ArrayDataRoles-Standard-0.003           https://github.com/perlancar/perl-ArrayDataRoles-Standard/issues/1
