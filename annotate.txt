@@ -6381,3 +6381,8 @@ App-perlimports-0.000002                https://github.com/oalders/App-perlimpor
 Beekeeper-0.01                          https://github.com/jmico/beekeeper/issues/1
 Crypto-Exchange-Binance-Spot-API-0.05   135335
 Data-Alias-1.22                         127726,130156,129965
+Database-Async-Engine-PostgreSQL-0.010  https://github.com/team-at-cpan/Database-Async-Engine-PostgreSQL/issues/4
+Date-5.2.4                              135337
+Devel-NYTProf-6.08                      https://github.com/timbunce/devel-nytprof/issues/168
+Finance-Alpaca-0.9901                   https://github.com/sanko/Finance-Alpaca/issues/1,https://github.com/sanko/Finance-Alpaca/issues/2
+FunctionalPerl-0.72.53                  135338,135339,135340
