@@ -6376,3 +6376,4 @@ ArrayDataRoles-Standard-0.003           https://github.com/perlancar/perl-ArrayD
 Data-Format-Pretty-Console-0.390        https://github.com/perlancar/perl-Data-Format-Pretty-Console/issues/1
 Hash-ExtendedKeys-0.01                  135333
 List-Keywords-0.02                      135334
+Test2-Harness-1.000050                  https://github.com/Test-More/Test2-Harness/issues/223,https://github.com/Test-More/Test2-Harness/issues/224
