@@ -6371,7 +6371,7 @@ Crypt-OpenSSL-VerifyX509-0.11-TRIAL     120608
 Crypt-OpenSSL-X509-1.904                https://github.com/dsully/perl-crypt-openssl-x509/issues/84
 Crypto-API-0.04                         135263
 FunctionalPerl-0.72.52                  135264
-SPVM-0.0947                             135283
+SPVM-0.0948                             135283
 ArrayDataRoles-Standard-0.003           https://github.com/perlancar/perl-ArrayDataRoles-Standard/issues/1
 Data-Format-Pretty-Console-0.390        https://github.com/perlancar/perl-Data-Format-Pretty-Console/issues/1
 Hash-ExtendedKeys-0.01                  135333
