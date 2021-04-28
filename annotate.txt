@@ -6391,3 +6391,6 @@ Prima-1.61                              135342
 Prometheus-Tiny-Shared-0.021            https://github.com/robn/Prometheus-Tiny-Shared/issues/1
 Redis-Transaction-0.01                  https://github.com/shogo82148/p5-Redis-Transaction/issues/2
 String-Locale-0.05                      01-idea.t+02-inherit.t fail on many systems, no issue tracker
+Tree-Trek-20210424                      https://github.com/philiprbrenan/TreeTrek/issues/1
+Debug-Easy-2.05                         135343
+XML-XSH2-2.2.8                          135344
