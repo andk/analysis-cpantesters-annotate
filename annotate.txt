@@ -4318,7 +4318,7 @@ Mojolicious-Plugin-OpenAPI-2.13         https://github.com/jhthorsen/mojolicious
 TAP-Formatter-Camelcade-2021.1          128826,https://github.com/Camelcade/TAP-Formatter-Camelcade/issues/3
 PMLTQ-Suggest-0.0.3                     https://github.com/ufal/pmltq-suggest-server/issues/6
 Renard-Incunabula-Frontend-Gtk3-0.004   128849
-grpc-xs-0.34                            125710
+grpc-xs-0.35                            125710
 PMLTQ-Commands-2.0.3                    https://github.com/ufal/pmltq-commands/issues/2
 Test-AutoMock-0.01                      https://github.com/hiratara/p5-Test-AutoMock/issues/9
 CatalystX-InjectModule-0.19             128853
