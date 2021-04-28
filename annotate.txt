@@ -6386,3 +6386,8 @@ Date-5.2.4                              135337
 Devel-NYTProf-6.08                      https://github.com/timbunce/devel-nytprof/issues/168
 Finance-Alpaca-0.9901                   https://github.com/sanko/Finance-Alpaca/issues/1,https://github.com/sanko/Finance-Alpaca/issues/2
 FunctionalPerl-0.72.53                  135338,135339,135340
+Perinci-CmdLine-Classic-1.813           135341
+Prima-1.61                              135342
+Prometheus-Tiny-Shared-0.021            https://github.com/robn/Prometheus-Tiny-Shared/issues/1
+Redis-Transaction-0.01                  https://github.com/shogo82148/p5-Redis-Transaction/issues/2
+String-Locale-0.05                      01-idea.t+02-inherit.t fail on many systems, no issue tracker
