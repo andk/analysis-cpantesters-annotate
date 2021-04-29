@@ -6394,3 +6394,4 @@ String-Locale-0.05                      01-idea.t+02-inherit.t fail on many syst
 Tree-Trek-20210424                      https://github.com/philiprbrenan/TreeTrek/issues/1
 Debug-Easy-2.05                         135343
 XML-XSH2-2.2.8                          135344
+Perinci-Sub-Complete-0.943              135349
