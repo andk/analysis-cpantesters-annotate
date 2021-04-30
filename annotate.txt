@@ -4225,7 +4225,7 @@ ClearPress-v2020.5.29                   122425,https://github.com/rmp/libclearpr
 App-Chart-266                           116697
 Proc-PID-File-1.29                      128655
 MikroTik-Client-v0.500                  https://github.com/anparker/mikrotik-client/issues/2
-Box-Calc-1.0205                         https://github.com/rizen/Box-Calc/issues/12
+Box-Calc-1.0205                         https://github.com/rizen/Box-Calc/issues/12,https://github.com/rizen/Box-Calc/issues/16
 App-Prove-Plugin-TermTableStty-0.02     https://github.com/plicease/App-Prove-Plugin-TermTableStty/issues/1
 Test-DNS-0.201                          https://github.com/xsawyerx/test-dns/issues/2
 YAML-PP-0.010_001                       https://github.com/perlpunk/YAML-PP-p5/issues/6
