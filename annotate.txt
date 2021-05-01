@@ -6396,3 +6396,5 @@ Debug-Easy-2.05                         135343
 XML-XSH2-2.2.8                          135344
 Perinci-Sub-Complete-0.943              135349
 Box-Calc-1.0206                         https://github.com/rizen/Box-Calc/issues/12
+CXC-Number-0.03                         136397
+FunctionalPerl-0.72.54                  135339,136398
