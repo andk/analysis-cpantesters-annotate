@@ -6376,7 +6376,7 @@ ArrayDataRoles-Standard-0.003           https://github.com/perlancar/perl-ArrayD
 Data-Format-Pretty-Console-0.390        https://github.com/perlancar/perl-Data-Format-Pretty-Console/issues/1
 Hash-ExtendedKeys-0.01                  135333
 List-Keywords-0.02                      135334
-Test2-Harness-1.000050                  https://github.com/Test-More/Test2-Harness/issues/223,https://github.com/Test-More/Test2-Harness/issues/224
+Test2-Harness-1.000053                  https://github.com/Test-More/Test2-Harness/issues/223,https://github.com/Test-More/Test2-Harness/issues/224
 App-perlimports-0.000002                https://github.com/oalders/App-perlimports/issues/1
 Beekeeper-0.01                          https://github.com/jmico/beekeeper/issues/1
 Crypto-Exchange-Binance-Spot-API-0.05   135335
