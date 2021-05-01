@@ -5643,7 +5643,7 @@ DBIx-Tree-MaterializedPath-v0.06        132158
 Devel-TypeCheck-1.2                     33760
 PDF-Labels-1.8                          132159
 Data-Tersify-1.000                      https://github.com/skington/data-tersify/issues/4
-Kafka-Librd-0.19                        https://github.com/plicease/Kafka-Librd/issues/24
+Kafka-Librd-0.20                        https://github.com/plicease/Kafka-Librd/issues/24
 Music-Scala-1.05                        132164
 Config-File-1.51                        132165
 Data-Object-Attributes-0.04             https://github.com/iamalnewkirk/data-object-attributes/issues/8
