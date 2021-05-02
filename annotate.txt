@@ -6398,3 +6398,6 @@ Perinci-Sub-Complete-0.943              135349
 Box-Calc-1.0206                         https://github.com/rizen/Box-Calc/issues/12
 CXC-Number-0.03                         136397
 FunctionalPerl-0.72.54                  135339,136398
+XXX-0.35                                https://github.com/ingydotnet/xxx-pm/issues/13
+App-cal-idn-0.134                       136408
+CXC-Number-0.04                         136409
