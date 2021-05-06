@@ -6403,3 +6403,4 @@ App-cal-idn-0.134                       136408
 CXC-Number-0.04                         136409
 xDT-Parser-1.05                         https://github.com/ChristophB/perl-xdt-parser/issues/9
 Data-Alias-1.24                         127726
+App-CPANModuleSite-0.0.3                https://github.com/davorg/app-cpanmodulesite/issues/1,https://github.com/davorg/app-cpanmodulesite/issues/2
