@@ -6173,7 +6173,7 @@ Mojolicious-Plugin-Minion-Starter-0.005 134374
 Net-Connection-ncnetstat-0.6.3          134375,134376
 Mojo-UserAgent-Cached-1.14              134385
 Net-Silverpeak-Orchestrator-0.001001    134386
-Sentry-SDK-v1.0.2                       134348
+Sentry-SDK-v1.0.4                       134348
 App-phoebe-2.08                         134392
 IO-Compress-Zstd-2.100                  https://github.com/pmqs/IO-Compress-Zstd/issues/4
 Mail-DMARC-1.20210220                   https://github.com/msimerson/mail-dmarc/issues/182,https://github.com/msimerson/mail-dmarc/issues/183
