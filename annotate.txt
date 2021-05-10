@@ -6405,3 +6405,6 @@ xDT-Parser-1.05                         https://github.com/ChristophB/perl-xdt-p
 Data-Alias-1.24                         127726,129965
 App-CPANModuleSite-0.0.3                https://github.com/davorg/app-cpanmodulesite/issues/1,https://github.com/davorg/app-cpanmodulesite/issues/2
 Async-Event-Interval-1.03               https://github.com/stevieb9/async-event-interval/issues/5
+Mojolicious-Plugin-PODViewer-0.007      https://github.com/preaction/Mojolicious-Plugin-PODViewer/issues/10
+Perinci-Access-Perl-0.893               136458
+Alien-OpenMP-0.003                      136459
