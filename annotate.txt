@@ -3565,7 +3565,7 @@ Fierce-Parser-0.08                      125202
 Nikto-Parser-0.01                       125203
 BoutrosLab-TSVStream-v0.5.4             119751
 Cache-FastMmap-1.47                     https://github.com/robmueller/cache-fastmmap/issues/13
-Alien-CMake-0.11                        125247
+Alien-CMake-0.12                        125247
 Bio-DB-HTS-2.11                         125248
 HTTP-Cookies-iCab-1.132                 https://github.com/CPAN-Adoptable-Modules/http-cookies-icab/issues/1
 Math-Clipper-1.25                       125251
