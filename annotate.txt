@@ -6409,3 +6409,4 @@ Mojolicious-Plugin-PODViewer-0.007      https://github.com/preaction/Mojolicious
 Perinci-Access-Perl-0.893               136458
 Alien-OpenMP-0.003                      136459
 V-0.14                                  136506
+Dancer2-Plugin-Syntax-ParamKeywords-0.1.0 https://github.com/cromedome/Dancer2-Plugin-Syntax-ParamKeywords/issues/1
