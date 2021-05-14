@@ -6410,3 +6410,4 @@ Perinci-Access-Perl-0.893               136458
 Alien-OpenMP-0.003001                   136459
 V-0.14                                  136506
 Dancer2-Plugin-Syntax-ParamKeywords-0.1.0 https://github.com/cromedome/Dancer2-Plugin-Syntax-ParamKeywords/issues/1
+Perinci-CmdLine-Classic-1.814           https://github.com/perlancar/perl-Perinci-CmdLine-Classic/issues/1
