@@ -3864,7 +3864,7 @@ AnyEvent-Redis-RipeRedis-1.62           https://github.com/iph0/AnyEvent-Redis-R
 Catalyst-Authentication-Store-LDAP-1.016 127730
 Log-Dispatch-Atom-0.03                  127731
 Markdown-Pod-0.007                      https://github.com/keedi/Markdown-Pod/issues/12
-FFI-CheckLib-0.23                       https://github.com/Perl5-FFI/FFI-CheckLib/issues/12
+FFI-CheckLib-0.28                       https://github.com/Perl5-FFI/FFI-CheckLib/issues/12
 JSON-2.97001                            127741
 Net-P0f-0.02                            56347
 App-CELL-0.222                          https://github.com/smithfarm/cell/issues/9
