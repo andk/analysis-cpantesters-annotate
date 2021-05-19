@@ -6414,3 +6414,4 @@ Perinci-CmdLine-Classic-1.814           https://github.com/perlancar/perl-Perinc
 Gtk3-ImageView-8                        https://github.com/carygravel/gtk3-imageview/issues/23
 Log-ger-Format-HashArgs-0.004           136529
 OpenSMTPd-Filter-v0.0.1                 https://github.com/afresh1/OpenSMTPd-Filter/issues/1
+lib-noop-0.003                          https://github.com/perlancar/perl-lib-noop/issues/1
