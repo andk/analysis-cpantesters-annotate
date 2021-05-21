@@ -6417,3 +6417,5 @@ OpenSMTPd-Filter-v0.0.1                 https://github.com/afresh1/OpenSMTPd-Fil
 lib-noop-0.003                          https://github.com/perlancar/perl-lib-noop/issues/1
 Crypt-OpenSSL-PKCS12-1.5                https://github.com/dsully/perl-crypt-openssl-pkcs12/issues/36
 Mojolicious-Plugin-Authorization-1.06   https://github.com/byterock/mojolicious-plugin-authorization/issues/18
+Slovo-2021.05.21                        https://github.com/kberov/Slovo/issues/41
+Web-PageMeta-0.05                       https://github.com/jozef/Web-PageMeta/issues/3
