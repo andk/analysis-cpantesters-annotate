@@ -6422,3 +6422,4 @@ Web-PageMeta-0.05                       https://github.com/jozef/Web-PageMeta/is
 XML-Bare-0.53                           111880
 List-Keywords-0.06                      136617
 lib-filter-0.27                         117117
+Syntax-Keyword-Match-0.04               136618
