@@ -6420,3 +6420,5 @@ Mojolicious-Plugin-Authorization-1.06   https://github.com/byterock/mojolicious-
 Slovo-2021.05.21                        https://github.com/kberov/Slovo/issues/41
 Web-PageMeta-0.05                       https://github.com/jozef/Web-PageMeta/issues/3
 XML-Bare-0.53                           111880
+List-Keywords-0.06                      136617
+lib-filter-0.27                         117117
