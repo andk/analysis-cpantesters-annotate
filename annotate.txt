@@ -2585,7 +2585,7 @@ XML-Node-0.11                           27573
 Socket-Multicast6-0.04                  118736
 Catalyst-Model-HTML-FormFu-1.00001      module is deprecated
 Net-Kotonoha-0.08                       118738
-Net-SIGTRAN-0.1.1                       88946
+Net-SIGTRAN-0.1.2                       88946
 Mail-SendVarious-0.4                    118741
 Reaction-0.002005                       85200
 DracPerl-Client-0.10                    https://github.com/apcros/Drac-Perl/issues/3
