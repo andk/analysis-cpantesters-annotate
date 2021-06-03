@@ -6427,3 +6427,5 @@ AI-NaiveBayes1-2.011                    136650
 MakeWithPerl-20210531                   https://github.com/philiprbrenan/MakeWithPerl/issues/2
 App-ListPerlReleases-0.002              136652
 Asm-C-20210330                          https://github.com/philiprbrenan/AsmC/issues/1,https://github.com/philiprbrenan/AsmC/issues/2,https://github.com/philiprbrenan/AsmC/issues/3,https://github.com/philiprbrenan/AsmC/issues/4
+FFI-C-Stat-0.01                         https://github.com/uperl/FFI-C-Stat/issues/5
+IO-Die-0.057                            136710
