@@ -6435,3 +6435,4 @@ App-lcpan-1.066                         136715
 Test-Sah-Schema-0.009                   136716
 Test-Archive-Libarchive-0.01            https://github.com/uperl/Test-Archive-Libarchive/issues/2
 Amp-Client-0.03                         136762
+MooX-TaggedAttributes-0.10              136797
