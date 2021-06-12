@@ -6436,3 +6436,5 @@ Test-Sah-Schema-0.009                   136716
 Test-Archive-Libarchive-0.01            https://github.com/uperl/Test-Archive-Libarchive/issues/2
 Amp-Client-0.03                         136762
 MooX-TaggedAttributes-0.10              136797
+IPC-Shareable-1.00                      https://github.com/stevieb9/ipc-shareable/issues/5,https://github.com/stevieb9/ipc-shareable/issues/6,https://github.com/stevieb9/ipc-shareable/issues/7,https://github.com/stevieb9/ipc-shareable/issues/8
+Graphics-Framebuffer-6.49               136799
