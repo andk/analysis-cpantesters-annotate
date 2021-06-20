@@ -6438,3 +6438,4 @@ Amp-Client-0.03                         136762
 MooX-TaggedAttributes-0.10              136797
 IPC-Shareable-1.00                      https://github.com/stevieb9/ipc-shareable/issues/5,https://github.com/stevieb9/ipc-shareable/issues/6,https://github.com/stevieb9/ipc-shareable/issues/7,https://github.com/stevieb9/ipc-shareable/issues/8
 Graphics-Framebuffer-6.49               136799
+Syntax-Keyword-Try-0.25                 136860
