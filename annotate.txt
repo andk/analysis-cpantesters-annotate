@@ -6439,3 +6439,5 @@ MooX-TaggedAttributes-0.10              136797
 IPC-Shareable-1.00                      https://github.com/stevieb9/ipc-shareable/issues/5,https://github.com/stevieb9/ipc-shareable/issues/6,https://github.com/stevieb9/ipc-shareable/issues/7,https://github.com/stevieb9/ipc-shareable/issues/8
 Graphics-Framebuffer-6.49               136799
 Syntax-Keyword-Try-0.25                 136860
+Geo-H3-FFI-0.03                         https://github.com/mrdvt92/perl-Geo-H3-FFI/issues/2,https://github.com/mrdvt92/perl-Geo-H3-FFI/issues/3
+Syntax-Keyword-Combine-Keys-0.09        136861
