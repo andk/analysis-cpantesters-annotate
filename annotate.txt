@@ -6449,3 +6449,5 @@ Mojo-UserAgent-DigestAuth-0.05          https://github.com/jhthorsen/mojo-userag
 CORBA-IDLtree-2.05                      137075
 Perl-Lexer-0.33                         https://github.com/tokuhirom/Perl-Lexer/issues/11
 PDL-DateTime-0.004                      https://github.com/kmx/pdl-datetime/issues/3
+Data-CSel-0.126                         137213
+Sub-Deprecate-0.03                      https://github.com/EvanCarroll/perl-sub-deprecate/issues/1
