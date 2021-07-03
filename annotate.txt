@@ -6448,3 +6448,4 @@ IPC-Shareable-1.04                      https://github.com/stevieb9/ipc-shareabl
 Mojo-UserAgent-DigestAuth-0.05          https://github.com/jhthorsen/mojo-useragent-digestauth/issues/5
 CORBA-IDLtree-2.05                      137075
 Perl-Lexer-0.33                         https://github.com/tokuhirom/Perl-Lexer/issues/11
+PDL-DateTime-0.004                      https://github.com/kmx/pdl-datetime/issues/3
