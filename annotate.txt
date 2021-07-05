@@ -5632,7 +5632,7 @@ Tk-StyledButton-0.10                    32086
 MooseX-PDF-0.01                         132132
 OCBNET-WebSprite-v1.0.2                 132133,132134
 ExtUtils-MY_Metafile-0.09               https://github.com/Perl/perl5/issues/17590,132008
-App-Licensecheck-v3.2.1                 132139
+App-Licensecheck-v3.2.2                 132139
 File-UserConfig-0.06                    132149
 CHI-Driver-MemcachedFast-0.02           132150
 Faker-1.01                              https://github.com/iamalnewkirk/faker/issues/16
