@@ -6453,3 +6453,5 @@ Data-CSel-0.126                         137213
 Sub-Deprecate-0.03                      https://github.com/EvanCarroll/perl-sub-deprecate/issues/1
 Mail-DMARC-1.20210427                   https://github.com/msimerson/mail-dmarc/issues/199
 Throwable-SugarFactory-0.152700         137489
+File-Temp-MoreUtils-0.001               137587
+QRCode-Base45-0.01                      137588
