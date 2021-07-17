@@ -6455,3 +6455,12 @@ Mail-DMARC-1.20210427                   https://github.com/msimerson/mail-dmarc/
 Throwable-SugarFactory-0.152700         137489
 File-Temp-MoreUtils-0.001               137587
 QRCode-Base45-0.01                      137588
+App-perlimports-0.000016                https://github.com/oalders/App-perlimports/issues/30
+BioPerl-1.7.8                           https://github.com/bioperl/bioperl-live/issues/362
+Bio-FastParsers-0.201110                137755
+Object-Pad-0.44                         137751
+Text-Table-More-0.014                   https://github.com/perlancar/perl-Text-Table-More/issues/3
+Paws-0.44                               https://github.com/pplu/aws-sdk-perl/issues/416
+Dancer2-Plugin-PrometheusTiny-0.005     https://github.com/SysPete/Dancer2-Plugin-PrometheusTiny/issues/1
+Finance-IG-0.099                        137758
+Math-Cryptarithm-0.02                   137759
