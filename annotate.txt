@@ -6464,3 +6464,5 @@ Paws-0.44                               https://github.com/pplu/aws-sdk-perl/iss
 Dancer2-Plugin-PrometheusTiny-0.005     https://github.com/SysPete/Dancer2-Plugin-PrometheusTiny/issues/1
 Finance-IG-0.099                        137758
 Math-Cryptarithm-0.02                   137759
+Evo-EA-0.1.5                            137760
+Evo-Immune-0.1.11                       137761
