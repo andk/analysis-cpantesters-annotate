@@ -6462,7 +6462,7 @@ Object-Pad-0.44                         137751
 Text-Table-More-0.014                   https://github.com/perlancar/perl-Text-Table-More/issues/3
 Paws-0.44                               https://github.com/pplu/aws-sdk-perl/issues/416
 Dancer2-Plugin-PrometheusTiny-0.005     https://github.com/SysPete/Dancer2-Plugin-PrometheusTiny/issues/1
-Finance-IG-0.099                        137758
+Finance-IG-0.101                        137758,137955
 Math-Cryptarithm-0.02                   137759
 Evo-EA-0.1.5                            137760
 Evo-Immune-0.1.11                       137761
