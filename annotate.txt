@@ -6429,7 +6429,7 @@ App-ListPerlReleases-0.002              136652
 Asm-C-20210330                          https://github.com/philiprbrenan/AsmC/issues/1,https://github.com/philiprbrenan/AsmC/issues/2,https://github.com/philiprbrenan/AsmC/issues/3,https://github.com/philiprbrenan/AsmC/issues/4
 FFI-C-Stat-0.01                         https://github.com/uperl/FFI-C-Stat/issues/5
 IO-Die-0.057                            136710
-Alien-GSL-1.03                          https://github.com/PerlAlien/Alien-GSL/issues/12
+Alien-GSL-1.05_01                       https://github.com/PerlAlien/Alien-GSL/issues/12
 Whim-1.2021.05.30.0                     https://github.com/jmacdotorg/whim/issues/60
 App-lcpan-1.068                         136715
 Test-Sah-Schema-0.009                   136716
