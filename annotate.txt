@@ -6516,3 +6516,4 @@ Sah-Schemas-URL-0.012                   138219
 Test-Sah-0.020                          138219
 File-Rename-1.29_01                     138074
 Crypt-OpenSSL-X509-1.909                https://github.com/dsully/perl-crypt-openssl-x509/issues/89
+Perinci-Sub-Wrapper-0.851               138250
