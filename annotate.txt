@@ -6501,3 +6501,16 @@ Ubuntu-Releases-20210115.1              https://github.com/perlancar/perl-Ubuntu
 Data-Sah-Tiny-0.000                     138242
 Lemonldap-NG-Common-2.0.12              https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng/-/issues/2571
 Lemonldap-NG-Manager-2.0.12             https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng/-/issues/2572
+Business-BankList-Indonesia-0.080       138219
+Business-ID-BCA-0.08                    138219
+Business-ID-Mandiri-0.05                138219
+Calendar-Indonesia-Holiday-0.341        138219
+PERLANCAR-Debian-Releases-20190815.0    138219
+Params-Sah-0.072                        138219
+Perinci-CmdLine-Lite-1.906              138219
+Perinci-Sub-Gen-AccessTable-DBI-0.18    138219
+Perinci-Sub-Wrapper-Patch-HandlePHPArray-0.04 138219
+Perinci-Tx-Manager-0.57                 138219
+Sah-Schemas-Net-0.009                   138219
+Sah-Schemas-URL-0.012                   138219
+Test-Sah-0.020                          138219
