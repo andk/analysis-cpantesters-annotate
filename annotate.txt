@@ -6527,3 +6527,4 @@ Perinci-Access-Perl-0.896               138219
 PDL-IO-HDF5-0.74                        https://github.com/PDLPorters/pdl-io-hdf5/issues/2
 File-Slurper-Temp-0.008                 138255
 WebService-Mailgun-0.11                 https://github.com/kan/p5-web-service-mailgun/issues/3
+Object-Pad-0.48                         138315
