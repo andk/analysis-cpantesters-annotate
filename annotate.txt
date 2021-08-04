@@ -6528,3 +6528,4 @@ PDL-IO-HDF5-0.74                        https://github.com/PDLPorters/pdl-io-hdf
 File-Slurper-Temp-0.008                 138255
 WebService-Mailgun-0.11                 https://github.com/kan/p5-web-service-mailgun/issues/3
 Object-Pad-0.48                         138315
+Data-Record-Serialize-0.24              138434
