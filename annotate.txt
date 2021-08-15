@@ -6532,3 +6532,6 @@ Data-Record-Serialize-0.25              138434
 Config-AWS-0.07                         https://gitlab.com/jjatria/Config-AWS/-/issues/6
 Proch-N50-1.4.0                         138464
 Mojo-Leds-1.06                          138466
+App-MechaCPAN-0.27                      https://github.com/atrodo/App-MechaCPAN/issues/19,https://github.com/atrodo/App-MechaCPAN/issues/20
+Email-Abstract-3.009                    https://github.com/rjbs/Email-Abstract/issues/10
+JSON-Schema-Modern-0.516                https://github.com/karenetheridge/JSON-Schema-Modern/issues/50
