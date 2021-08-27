@@ -6536,3 +6536,4 @@ App-MechaCPAN-0.27                      https://github.com/atrodo/App-MechaCPAN/
 Email-Abstract-3.009                    https://github.com/rjbs/Email-Abstract/issues/10
 JSON-Schema-Modern-0.516                https://github.com/karenetheridge/JSON-Schema-Modern/issues/50
 MooseX-App-1.42                         https://github.com/maros/MooseX-App/issues/67
+Locale-Utils-Autotranslator-1.011       139138
