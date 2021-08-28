@@ -6540,3 +6540,4 @@ Locale-Utils-Autotranslator-1.011       139138
 Bio-Epithelium-0.1.4                    139139
 Metabolomics-Fragment-Annotation-0.6.5  139142,139143
 Chemistry-OpenSMILES-0.5.0              https://github.com/merkys/Chemistry-OpenSMILES/issues/5
+Finance-IG-0.102                        137758
