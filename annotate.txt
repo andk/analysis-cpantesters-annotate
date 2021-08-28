@@ -6538,3 +6538,4 @@ JSON-Schema-Modern-0.516                https://github.com/karenetheridge/JSON-S
 MooseX-App-1.42                         https://github.com/maros/MooseX-App/issues/67
 Locale-Utils-Autotranslator-1.011       139138
 Bio-Epithelium-0.1.4                    139139
+Metabolomics-Fragment-Annotation-0.6.5  139142
