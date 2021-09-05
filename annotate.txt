@@ -6088,7 +6088,7 @@ App-GHPT-1.001000                       https://github.com/maxmind/App-GHPT/issu
 B-Deobfuscate-0.20                      134112
 Data-UUID-NCName-0.06                   134113,134114
 Git-Repository-1.324                    134115
-GitHub-Actions-0.0.6                    134116
+GitHub-Actions-0.0.7                    134116
 Config-Model-2.141                      https://github.com/dod38fr/config-model/issues/26,https://github.com/Perl/perl5/issues/18667
 Devel-MAT-0.44                          134117
 Store-Directories-v0.4.1                134123,134124
