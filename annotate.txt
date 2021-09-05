@@ -6543,3 +6543,7 @@ Chemistry-OpenSMILES-0.5.0              https://github.com/merkys/Chemistry-Open
 Finance-IG-0.102                        137758
 DNS-NIOS-0.002                          https://github.com/someone-stole-my-name/perl-nios/issues/10
 Tie-Array-IntSpan-0.002                 139145
+Graph-Undirected-Hamiltonicity-0.011    139219
+Bitcoin-Crypto-1.000_01                 https://github.com/brtastic/perl-bitcoin-crypto/issues/3
+Statistics-Descriptive-PDL-0.03         https://github.com/shawnlaffan/Statistics-Descriptive-PDL/issues/8,https://github.com/shawnlaffan/Statistics-Descriptive-PDL/issues/9,https://github.com/shawnlaffan/Statistics-Descriptive-PDL/issues/10
+Mock-Data-0.01                          https://github.com/nrdvana/perl-Mock-Data/issues/1
