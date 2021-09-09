@@ -6547,3 +6547,4 @@ Graph-Undirected-Hamiltonicity-0.011    139219
 Bitcoin-Crypto-1.000_01                 https://github.com/brtastic/perl-bitcoin-crypto/issues/3
 Statistics-Descriptive-PDL-0.03         https://github.com/shawnlaffan/Statistics-Descriptive-PDL/issues/8,https://github.com/shawnlaffan/Statistics-Descriptive-PDL/issues/9,https://github.com/shawnlaffan/Statistics-Descriptive-PDL/issues/10
 Mock-Data-0.01                          https://github.com/nrdvana/perl-Mock-Data/issues/1
+JSON-Parser-Regexp-0.09                 139227
