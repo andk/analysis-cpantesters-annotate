@@ -6548,3 +6548,7 @@ Bitcoin-Crypto-1.000_01                 https://github.com/brtastic/perl-bitcoin
 Statistics-Descriptive-PDL-0.03         https://github.com/shawnlaffan/Statistics-Descriptive-PDL/issues/8,https://github.com/shawnlaffan/Statistics-Descriptive-PDL/issues/9,https://github.com/shawnlaffan/Statistics-Descriptive-PDL/issues/10
 Mock-Data-0.01                          https://github.com/nrdvana/perl-Mock-Data/issues/1
 JSON-Parser-Regexp-0.09                 139227
+Game-TextMapper-1.01                    139294
+App-optex-v0.5                          https://github.com/kaz-utashiro/optex/issues/4
+App-DocKnot-5.00                        https://github.com/rra/docknot/issues/2
+Data-Record-Serialize-0.31              139329
