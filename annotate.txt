@@ -6553,3 +6553,4 @@ App-optex-v0.5                          https://github.com/kaz-utashiro/optex/is
 App-DocKnot-5.00                        https://github.com/rra/docknot/issues/2
 Data-Record-Serialize-0.31              139329
 Mail-AuthenticationResults-2.20210914   139330
+LaTeXML-0.8.6_2                         139437,139438
