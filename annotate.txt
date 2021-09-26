@@ -6554,3 +6554,7 @@ App-DocKnot-5.00                        https://github.com/rra/docknot/issues/2
 Data-Record-Serialize-0.31              139329
 Mail-AuthenticationResults-2.20210914   139330
 LaTeXML-0.8.6_2                         139437,139438
+App-Greple-subst-2.2902                 https://github.com/kaz-utashiro/greple-subst/issues/1
+App-Licensecheck-v3.2.12                139457,139458
+App-perlimports-0.000021                https://github.com/oalders/App-perlimports/issues/39
+App-proxyforurl-0.09                    https://github.com/jhthorsen/app-proxyforurl/issues/5
