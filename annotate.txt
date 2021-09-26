@@ -6421,7 +6421,7 @@ Slovo-2021.05.21                        https://github.com/kberov/Slovo/issues/4
 Web-PageMeta-0.05                       https://github.com/jozef/Web-PageMeta/issues/3
 XML-Bare-0.53                           111880
 List-Keywords-0.06                      136617
-lib-filter-0.27                         117117
+lib-filter-0.281                        117117
 Syntax-Keyword-Match-0.04               136618
 AI-NaiveBayes1-2.011                    136650
 MakeWithPerl-20210531                   https://github.com/philiprbrenan/MakeWithPerl/issues/2
