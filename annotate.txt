@@ -6563,3 +6563,4 @@ Catalyst-Authentication-Store-DBIx-Class-0.1506 139459
 Data-Record-Serialize-0.32              139460
 Geonode-Free-ProxyList-0.0.4            139461
 Metabolomics-Fragment-Annotation-0.6.5.1 139462
+autocroak-0.001                         https://github.com/Leont/autocroak/issues/9
