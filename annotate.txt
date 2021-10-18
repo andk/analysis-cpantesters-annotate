@@ -6567,3 +6567,7 @@ autocroak-0.001                         https://github.com/Leont/autocroak/issue
 App-perlimports-0.000023                https://github.com/oalders/App-perlimports/issues/41
 HTTP-Request-FromCurl-0.27              https://github.com/Corion/HTTP-Request-FromCurl/issues/3,https://github.com/Corion/HTTP-Request-FromCurl/issues/4,https://github.com/Corion/HTTP-Request-FromCurl/issues/5
 Selenium-Remote-Driver-1.44             https://github.com/teodesian/Selenium-Remote-Driver/issues/476
+HTTP-Request-FromCurl-0.28              https://github.com/Corion/HTTP-Request-FromCurl/issues/3,https://github.com/Corion/HTTP-Request-FromCurl/issues/6
+Math-Polynomial-Cyclotomic-0.003        https://github.com/mhasch/perl-Math-Polynomial-Cyclotomic/issues/1
+WebSocket-v0.1.1                        139738
+Yancy-1.078                             https://github.com/preaction/Yancy/issues/137
