@@ -6571,3 +6571,5 @@ HTTP-Request-FromCurl-0.28              https://github.com/Corion/HTTP-Request-F
 Math-Polynomial-Cyclotomic-0.003        https://github.com/mhasch/perl-Math-Polynomial-Cyclotomic/issues/1
 WebSocket-v0.1.1                        139738
 Yancy-1.078                             https://github.com/preaction/Yancy/issues/137
+Math-Prime-Util-0.73                    139739
+App-Timestamper-WithElapsed-0.6.0       https://github.com/shlomif/App-Timestamper/issues/1
