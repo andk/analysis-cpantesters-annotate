@@ -6573,3 +6573,4 @@ WebSocket-v0.1.1                        139738
 Yancy-1.078                             https://github.com/preaction/Yancy/issues/137
 Math-Prime-Util-0.73                    139739
 App-Timestamper-WithElapsed-0.6.0       https://github.com/shlomif/App-Timestamper/issues/1
+GFX-Enhancer-0.1.22                     139775
