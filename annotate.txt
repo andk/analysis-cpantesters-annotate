@@ -6577,6 +6577,6 @@ GFX-Enhancer-0.1.22                     139775
 App-Device-Chip-sensor-0.03             139813,139814
 JSON-Schema-Modern-0.522                https://github.com/karenetheridge/JSON-Schema-Modern/issues/58,https://github.com/karenetheridge/JSON-Schema-Modern/issues/59
 B-Keywords-1.22                         139597
-HTTP-Request-FromCurl-0.33              https://github.com/Corion/HTTP-Request-FromCurl/issues/6
+HTTP-Request-FromCurl-0.34              https://github.com/Corion/HTTP-Request-FromCurl/issues/6
 Test2-Harness-UI-0.000091               https://github.com/Test-More/Test2-Harness-UI/issues/27
 WebSocket-v0.1.4                        139815
