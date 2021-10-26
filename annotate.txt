@@ -6580,3 +6580,4 @@ B-Keywords-1.22                         139597
 HTTP-Request-FromCurl-0.34              https://github.com/Corion/HTTP-Request-FromCurl/issues/6
 Test2-Harness-UI-0.000091               https://github.com/Test-More/Test2-Harness-UI/issues/27
 WebSocket-v0.1.4                        139815
+TestRail-API-0.050                      https://github.com/teodesian/TestRail-Perl/issues/165
