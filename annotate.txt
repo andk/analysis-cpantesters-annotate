@@ -6582,3 +6582,4 @@ Test2-Harness-UI-0.000091               https://github.com/Test-More/Test2-Harne
 WebSocket-v0.1.4                        139815
 TestRail-API-0.050                      https://github.com/teodesian/TestRail-Perl/issues/165
 CGI-Info-0.72                           https://github.com/nigelhorne/CGI-Info/issues/8
+Lingua-EN-ABC-0.11                      https://github.com/benkasminbullock/Lingua-EN-ABC/issues/7
