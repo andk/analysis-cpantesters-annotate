@@ -6584,3 +6584,5 @@ TestRail-API-0.050                      https://github.com/teodesian/TestRail-Pe
 CGI-Info-0.72                           https://github.com/nigelhorne/CGI-Info/issues/8
 Lingua-EN-ABC-0.11                      https://github.com/benkasminbullock/Lingua-EN-ABC/issues/7
 Module-Generic-v0.17.0                  140037
+LWP-UserAgent-Determined-1.07           122260
+App-ansiexpand-0.99                     https://github.com/kaz-utashiro/App-ansiexpand/issues/1
