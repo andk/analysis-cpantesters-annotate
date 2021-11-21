@@ -6589,3 +6589,16 @@ App-ansiexpand-0.99                     https://github.com/kaz-utashiro/App-ansi
 Google-ProtocolBuffers-Dynamic-0.33     140122
 Alien-OpenMP-0.003006                   140123
 Net-SSL-ExpireDate-1.22                 132824
+Astro-FITS-CFITSIO-Simple-0.19          140124
+Config-Model-2.145                      https://github.com/dod38fr/config-model/issues/32
+DBIx-Spreadsheet-0.01                   140129
+FindApp-v0.0.6                          140130
+Net-Async-Slack-0.008                   https://github.com/team-at-cpan/Net-Async-Slack/issues/2
+Netstack-0.021                          140134
+Object-Util-Stringify-0.001             140135
+Test-Kit-2.15                           140136
+Test-Mock-Object-0.1                    https://github.com/Ovid/test-mock-object/issues/1
+Test-Tdd-0.009                          140137
+Tickit-0.72                             140138
+Tickit-Widget-ScrollBox-0.11            140138
+App-Sqitch-v1.2.0                       https://github.com/sqitchers/sqitch/issues/597
