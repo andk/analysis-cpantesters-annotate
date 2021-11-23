@@ -6605,3 +6605,6 @@ App-Sqitch-v1.2.0                       https://github.com/sqitchers/sqitch/issu
 Cookie-v0.1.2                           140140
 IO-Async-0.800                          140143
 Crypt-OpenSSL-CA-0.91                   140144
+DateTime-Tiny-1.07                      https://github.com/dagolden/DateTime-Tiny/issues/2
+HTML-T5-0.010                           140167
+Promise-ES6-0.24                        https://github.com/FGasper/p5-Promise-ES6/issues/12
