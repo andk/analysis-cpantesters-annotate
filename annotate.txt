@@ -6616,3 +6616,5 @@ CAD-Mesh3D-0.005                        https://github.com/pryrt/CAD-Mesh3D/issu
 Code-TidyAll-0.79                       https://github.com/houseabsolute/perl-code-tidyall/issues/108,https://github.com/houseabsolute/perl-code-tidyall/issues/109,https://github.com/houseabsolute/perl-code-tidyall/issues/110,https://github.com/houseabsolute/perl-code-tidyall/issues/111
 WWW-WebKit2-0.130                       140254
 Code-TidyAll-0.80                       https://github.com/houseabsolute/perl-code-tidyall/issues/109,https://github.com/houseabsolute/perl-code-tidyall/issues/112,https://github.com/houseabsolute/perl-code-tidyall/issues/113
+MojoX-HTTP-Async-0.04                   https://github.com/KalessinD/perl_mojox_http_async/issues/1
+JSON-Schema-Modern-Document-OpenAPI-0.003 https://github.com/karenetheridge/JSON-Schema-Modern-Document-OpenAPI/issues/15
