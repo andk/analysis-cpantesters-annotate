@@ -6613,3 +6613,5 @@ CPAN-Checksums-2.13                     140176
 App-Notifier-Service-0.0901             https://github.com/shlomif/app-notifier/issues/1
 Async-0.11                              https://github.com/ap/Async/issues/1
 CAD-Mesh3D-0.005                        https://github.com/pryrt/CAD-Mesh3D/issues/13
+Code-TidyAll-0.79                       https://github.com/houseabsolute/perl-code-tidyall/issues/108,https://github.com/houseabsolute/perl-code-tidyall/issues/109,https://github.com/houseabsolute/perl-code-tidyall/issues/110,https://github.com/houseabsolute/perl-code-tidyall/issues/111
+WWW-WebKit2-0.130                       140254
