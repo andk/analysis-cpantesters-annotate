@@ -6618,3 +6618,5 @@ WWW-WebKit2-0.130                       140254
 Code-TidyAll-0.80                       https://github.com/houseabsolute/perl-code-tidyall/issues/109,https://github.com/houseabsolute/perl-code-tidyall/issues/112,https://github.com/houseabsolute/perl-code-tidyall/issues/113
 MojoX-HTTP-Async-0.05                   https://github.com/KalessinD/perl_mojox_http_async/issues/1
 JSON-Schema-Modern-Document-OpenAPI-0.003 https://github.com/karenetheridge/JSON-Schema-Modern-Document-OpenAPI/issues/15
+Log-Any-Adapter-DERIV-0.002             140269
+Stats-Hawking-0.1.3                     140270
