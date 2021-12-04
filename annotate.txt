@@ -6622,3 +6622,4 @@ Log-Any-Adapter-DERIV-0.002             140269
 Stats-Hawking-0.1.3                     140270
 Data-Table-Text-20211204                https://github.com/philiprbrenan/DataTableText/issues/2
 ETL-Pipeline-3.00                       140335
+Yancy-1.085                             https://github.com/preaction/Yancy/issues/140
