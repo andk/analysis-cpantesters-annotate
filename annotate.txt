@@ -6620,3 +6620,5 @@ MojoX-HTTP-Async-0.05                   https://github.com/KalessinD/perl_mojox_
 JSON-Schema-Modern-Document-OpenAPI-0.003 https://github.com/karenetheridge/JSON-Schema-Modern-Document-OpenAPI/issues/15
 Log-Any-Adapter-DERIV-0.002             140269
 Stats-Hawking-0.1.3                     140270
+Data-Table-Text-20211204                https://github.com/philiprbrenan/DataTableText/issues/2
+ETL-Pipeline-3.00                       140335
