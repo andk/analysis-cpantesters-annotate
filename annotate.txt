@@ -6504,7 +6504,7 @@ Lemonldap-NG-Manager-2.0.12             https://gitlab.ow2.org/lemonldap-ng/lemo
 Business-BankList-Indonesia-0.080       138219
 Business-ID-BCA-0.08                    138219
 Business-ID-Mandiri-0.05                138219
-Calendar-Indonesia-Holiday-0.343        138219
+Calendar-Indonesia-Holiday-0.344        138219
 PERLANCAR-Debian-Releases-20190815.0    138219
 Params-Sah-0.072                        138219
 Perinci-CmdLine-Lite-1.912              138219
