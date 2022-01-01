@@ -6630,3 +6630,4 @@ Config-Model-Itself-2.022               https://github.com/dod38fr/config-model-
 Test-MockFile-0.022                     https://github.com/cpanel/Test-MockFile/issues/63,https://github.com/cpanel/Test-MockFile/issues/64
 SPVM-Math-0.05                          140619
 Module-Generic-v0.18.4                  140620
+POE-1.368                               75299
