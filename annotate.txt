@@ -6631,3 +6631,4 @@ Test-MockFile-0.022                     https://github.com/cpanel/Test-MockFile/
 SPVM-Math-0.05                          140619
 Module-Generic-v0.18.4                  140620
 POE-1.368                               75299
+CHI-0.61                                109993
