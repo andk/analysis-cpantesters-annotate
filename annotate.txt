@@ -6625,3 +6625,5 @@ ETL-Pipeline-3.00                       140335
 Yancy-1.086                             https://github.com/preaction/Yancy/issues/140
 Mojo-IOLoop-ReadWriteProcess-0.31       140336
 XML-SAX-SVGTransformer-0.01             140377
+Catalyst-TraitFor-Request-StructuredParameters-0.007 https://github.com/jjn1056/Catalyst-TraitFor-Request-StructuredParameters/issues/1
+Config-Model-Itself-2.022               https://github.com/dod38fr/config-model-itself/issues/4
