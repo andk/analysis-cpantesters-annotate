@@ -6629,3 +6629,4 @@ Catalyst-TraitFor-Request-StructuredParameters-0.007 https://github.com/jjn1056/
 Config-Model-Itself-2.022               https://github.com/dod38fr/config-model-itself/issues/4
 Test-MockFile-0.022                     https://github.com/cpanel/Test-MockFile/issues/63,https://github.com/cpanel/Test-MockFile/issues/64
 SPVM-Math-0.05                          140619
+Module-Generic-v0.18.4                  140620
