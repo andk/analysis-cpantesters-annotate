@@ -6636,3 +6636,4 @@ Perinci-CmdLine-Any-0.153               140621
 String-Copyright-0.003012               140622
 Util-H2O-More-0.0.3                     140623
 Data-Sah-DefaultValue-0.001             140659
+Log-Dispatch-Email-Sendmail-0.03        https://github.com/nigelhorne/Log-Dispatch-Email-Sendmail/issues/82
