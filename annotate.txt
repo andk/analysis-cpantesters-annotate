@@ -6634,3 +6634,5 @@ POE-1.368                               75299
 CHI-0.61                                109993
 Perinci-CmdLine-Any-0.153               140621
 String-Copyright-0.003012               140622
+Util-H2O-More-0.0.3                     140623
+Data-Sah-DefaultValue-0.001             140659
