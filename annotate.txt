@@ -6471,7 +6471,7 @@ Perinci-Sub-Normalize-0.200             138212
 Perinci-Access-Perl-0.895               138213
 Perinci-Access-Simple-Server-0.28       138214
 Perinci-Sub-ValidateArgs-0.013          138215
-App-ListPerlReleases-0.003              138216
+App-ListPerlReleases-0.004              138216
 JSON-Decode-Regexp-0.101                138217
 WWW-Scraper-ISBN-Blackwell_Driver-1.00  138218
 App-ListCountries-0.021                 138219
