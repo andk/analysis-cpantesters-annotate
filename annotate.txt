@@ -6639,3 +6639,4 @@ Data-Sah-DefaultValue-0.001             140659
 Log-Dispatch-Email-Sendmail-0.03        https://github.com/nigelhorne/Log-Dispatch-Email-Sendmail/issues/82
 Archive-BagIt-0.089                     140660
 Text-Table-More-0.020                   140661
+Acme-Signature-Arity-0.002              https://github.com/team-at-cpan/Acme-Signature-Arity/issues/1
