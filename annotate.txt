@@ -6642,3 +6642,4 @@ Text-Table-More-0.020                   140661
 Acme-Signature-Arity-0.002              https://github.com/team-at-cpan/Acme-Signature-Arity/issues/1
 CPAN-SQLite-0.219                       140735
 Geo-Coder-List-0.29                     140810
+GD-2.74                                 139399
