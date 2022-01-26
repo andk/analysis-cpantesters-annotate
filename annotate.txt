@@ -6644,3 +6644,5 @@ CPAN-SQLite-0.219                       140735
 Geo-Coder-List-0.29                     140810
 GD-2.74                                 139399
 Amazon-API-1.1.8                        140846
+Perl-Critic-Policy-PreferredModules-0.004 https://github.com/atoomic/Perl-Critic-Policy-PreferredModules/issues/2
+Text-Table-More-0.021                   140878
