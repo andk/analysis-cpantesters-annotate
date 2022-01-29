@@ -6647,3 +6647,4 @@ Amazon-API-1.1.8                        140846
 Perl-Critic-Policy-PreferredModules-0.004 https://github.com/atoomic/Perl-Critic-Policy-PreferredModules/issues/2
 Text-Table-More-0.021                   140878
 Tangence-0.28                           140891,140892
+Net-Google-Drive-Simple-0.20            https://github.com/mschilli/net-google-drive-simple/issues/50
