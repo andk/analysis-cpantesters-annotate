@@ -6651,3 +6651,4 @@ Net-Google-Drive-Simple-0.20            https://github.com/mschilli/net-google-d
 PDL-2.072                               https://github.com/PDLPorters/pdl/issues/379,https://github.com/PDLPorters/pdl/issues/380
 Mojo-Netdata-0.02                       https://github.com/jhthorsen/mojo-netdata/issues/1
 Math-MatrixDecomposition-1.05           140908
+Venus-0.02                              https://github.com/cpanery/venus/issues/68
