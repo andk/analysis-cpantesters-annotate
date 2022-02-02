@@ -6588,7 +6588,7 @@ LWP-UserAgent-Determined-1.07           122260
 App-ansiexpand-0.99                     https://github.com/kaz-utashiro/App-ansiexpand/issues/1
 Google-ProtocolBuffers-Dynamic-0.33     140122
 Alien-OpenMP-0.003006                   140123
-Net-SSL-ExpireDate-1.22                 132824
+Net-SSL-ExpireDate-1.23                 132824
 Astro-FITS-CFITSIO-Simple-0.19          140124
 Config-Model-2.145                      https://github.com/dod38fr/config-model/issues/32
 DBIx-Spreadsheet-0.01                   140129
