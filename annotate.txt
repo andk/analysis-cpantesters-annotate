@@ -6661,3 +6661,5 @@ Data-Gimei-v0.0.4                       https://github.com/youpong/Data-Gimei/is
 Net-SMPP-SSL-0.02                       https://github.com/stefan-stuehrmann-EMNIFY/Net-SMPP-SSL/issues/1
 Sentry-SDK-v1.0.14                      https://github.com/heiseonline/perl-sentry-sdk/issues/8,https://github.com/heiseonline/perl-sentry-sdk/issues/9
 SMS-API-CMTelecom-0.05                  https://github.com/sonntagd/SMS-API-CMTelecom/issues/2
+Lang-HL-Syntax-0.03                     141078
+Math-Complex_C-0.14                     141079
