@@ -3103,7 +3103,7 @@ Unix-Processors-2.045                   122943
 BSD-Process-0.07                        88975,122947
 WebService-NextEpisode-0.001            https://github.com/athreef/WebService-NextEpisode/issues/1
 Proc-Swarm-1.161060                     https://github.com/dana/perl-Proc-Swarm/issues/2
-Dios-0.002011                           123015
+Dios-0.002012                           123015
 Pod-POM-Web-1.22                        123017
 SVN-S4-1.066                            https://www.veripool.org/issues/1207-SVN::S4-Non-portable-use-of-xargs,https://www.veripool.org/issues/1208-SVN::S4-FS-format-7
 Geo-OSM-DBI-0.01                        123024,123025
