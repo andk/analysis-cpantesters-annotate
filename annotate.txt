@@ -4056,7 +4056,7 @@ Alien-Libgpg_error-0.02                 128078
 Crypt-OpenSSL-ECDSA-0.08                118330
 App-IMDBtop-0.001001                    128082
 WWW-SubDB-0.01                          128084
-Barcode-ZBar-0.04                       122061,128085
+Barcode-ZBar-0.05                       122061,128085
 Business-CompanyDesignator-0.17         128087
 Geo-Address-Formatter-1.70              111685
 JSON-API-v1.1.0                         https://github.com/geofffranks/json-api/issues/4
