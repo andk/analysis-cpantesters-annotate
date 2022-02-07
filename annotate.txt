@@ -6665,4 +6665,4 @@ Lang-HL-Syntax-0.03                     141078
 Math-Complex_C-0.14                     141079
 Math-Complex_C-L-0.07                   141080
 Text-Layout-0.028                       https://github.com/sciurius/perl-Text-Layout/issues/11
-Lang-HL-Syntax-0.04                     141098
+Lang-HL-Syntax-0.07                     141098
