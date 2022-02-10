@@ -3025,7 +3025,7 @@ RDF-YAML-0.11                           122369
 Sub-Versive-0.01                        122370
 IPC-Transit-1.171860                    https://github.com/dana/perl-IPC-Transit/issues/2
 App-Math-Tutor-0.005                    122392
-PDF-TableX-0.014                        122399
+PDF-TableX-0.015                        141229
 RayApp-2.004                            113306
 W3C-XHTML-HTMLCompatChecker-0.10        122411
 Sslscan-Parser-0.02                     122412
