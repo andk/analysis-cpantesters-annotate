@@ -6668,3 +6668,4 @@ Text-Layout-0.028                       https://github.com/sciurius/perl-Text-La
 Lang-HL-Syntax-0.07                     141098
 Test-File-1.991                         https://github.com/briandfoy/test-file/issues/29
 Feature-Compat-Defer-0.01               141241
+PDL-Fit-Levmar-0.0103                   https://github.com/jlapeyre/PDL-Fit-Levmar/issues/7
