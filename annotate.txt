@@ -6667,3 +6667,4 @@ Math-Complex_C-L-0.07                   141080
 Text-Layout-0.028                       https://github.com/sciurius/perl-Text-Layout/issues/11
 Lang-HL-Syntax-0.07                     141098
 Test-File-1.991                         https://github.com/briandfoy/test-file/issues/29
+Feature-Compat-Defer-0.01               141241
