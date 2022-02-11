@@ -6670,3 +6670,4 @@ Test-File-1.991                         https://github.com/briandfoy/test-file/i
 Feature-Compat-Defer-0.01               141241
 PDL-Fit-Levmar-0.0103                   https://github.com/jlapeyre/PDL-Fit-Levmar/issues/7
 ExtUtils-Constant-0.25                  141272
+Dist-Mgr-1.10                           https://github.com/stevieb9/dist-mgr/issues/51
