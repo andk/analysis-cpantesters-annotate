@@ -6676,3 +6676,4 @@ Tie-Hash-Interpolate-0.07               141304
 PDL-Apply-0.002                         141316
 Pinto-Remote-SelfContained-1.000        https://github.com/arc/Pinto-Remote-SelfContained/issues/1
 StorageDisplay-1.0.7                    141330
+PerlBean-1.0                            141331
