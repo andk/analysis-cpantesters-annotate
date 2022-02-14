@@ -5681,7 +5681,6 @@ Net-IPAM-Tree-1.00                      132286
 Future-AsyncAwait-0.40                  132292
 MooX-Purple-0.13                        132294
 TSQL-FlatFile-1.03                      132295
-StorageDisplay-1.0.3                    132296,132297
 Mojolicious-Command-scaffold-0.0.6      132298
 Devel-Required-0.15                     132269
 DBIx-Array-0.64                         132299
@@ -6676,3 +6675,4 @@ sane-0.99                               141301
 Tie-Hash-Interpolate-0.07               141304
 PDL-Apply-0.002                         141316
 Pinto-Remote-SelfContained-1.000        https://github.com/arc/Pinto-Remote-SelfContained/issues/1
+StorageDisplay-1.0.7                    141330
