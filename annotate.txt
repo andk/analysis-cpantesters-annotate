@@ -6679,3 +6679,4 @@ StorageDisplay-1.0.7                    141330
 PerlBean-1.0                            141331
 Text-Table-More-0.023                   141332
 BorderStyles-Standard-0.013             141333
+File-Find-utf8-0.013                    https://github.com/HayoBaan/File-Find-utf8/issues/3
