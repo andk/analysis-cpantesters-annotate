@@ -6581,3 +6581,4 @@ BorderStyles-Standard-0.013             141333
 File-Find-utf8-0.013                    https://github.com/HayoBaan/File-Find-utf8/issues/3
 Dancer2-Plugin-Passphrase-3.3.4         https://github.com/PerlDancer/Dancer2-Plugin-Passphrase/issues/5
 Thread-Resource-RWLock-2.01             101977
+Date-Tiny-1.07                          https://github.com/dagolden/Date-Tiny/issues/2
