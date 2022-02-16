@@ -6680,3 +6680,4 @@ PerlBean-1.0                            141331
 Text-Table-More-0.023                   141332
 BorderStyles-Standard-0.013             141333
 File-Find-utf8-0.013                    https://github.com/HayoBaan/File-Find-utf8/issues/3
+Dancer2-Plugin-Passphrase-3.3.4         https://github.com/PerlDancer/Dancer2-Plugin-Passphrase/issues/5
