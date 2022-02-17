@@ -6584,3 +6584,9 @@ Thread-Resource-RWLock-2.01             101977
 Date-Tiny-1.07                          https://github.com/dagolden/Date-Tiny/issues/2
 Sereal-Encoder-4.019                    https://github.com/Sereal/Sereal/issues/269
 Net-AMQP-RabbitMQ-2.40009               https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq/issues/220
+Async-Microservice-0.02                 141376
+Finance-Alpaca-0.9906                   https://github.com/sanko/Finance-Alpaca/issues/3
+HackaMol-0.051                          141377
+Mojolicious-Plugin-FormTamperingProtector-0.03 141378
+Mojolicious-Plugin-MostTagHelpers-0.04  141379
+JSON-Schema-ToJSON-0.19                 https://github.com/Humanstate/json-schema-tojson/issues/9
