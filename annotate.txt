@@ -6590,3 +6590,10 @@ HackaMol-0.051                          141377
 Mojolicious-Plugin-FormTamperingProtector-0.03 141378
 Mojolicious-Plugin-MostTagHelpers-0.04  141379
 JSON-Schema-ToJSON-0.19                 https://github.com/Humanstate/json-schema-tojson/issues/9
+Linux-GetPidstat-0.10                   https://github.com/yoheimuta/Linux-GetPidstat/issues/14
+PDL-IO-Dcm-1.003                        141385
+Rewire-0.06                             141386
+Test-Mojo-Role-Debug-1.005001           https://github.com/zoffixznet/Test-Mojo-Role-Debug/issues/2
+WWW-Hanako-0.05                         141387
+WWW-Shorten-GitHub-0.1.7                141388
+WebService-RESTCountries-0.3            https://github.com/kianmeng/webservice-restcountries/issues/1
