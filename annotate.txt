@@ -6597,3 +6597,5 @@ Test-Mojo-Role-Debug-1.005001           https://github.com/zoffixznet/Test-Mojo-
 WWW-Hanako-0.05                         141387
 WWW-Shorten-GitHub-0.1.7                141388
 WebService-RESTCountries-0.3            https://github.com/kianmeng/webservice-restcountries/issues/1
+TableDataRoles-Standard-0.013           141389
+Yancy-Plugin-OpenAPI-0.002              https://github.com/preaction/Yancy-Plugin-OpenAPI/issues/4
