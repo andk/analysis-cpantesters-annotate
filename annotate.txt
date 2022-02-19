@@ -6385,7 +6385,7 @@ App-ZodiacUtils-0.115                   138228
 App-errnos-0.02                         138229
 App-osnames-0.10                        138230
 App-smtpstatus-0.07                     138231
-CentOS-Releases-0.030                   138232
+CentOS-Releases-0.031                   138232
 Debian-Releases-PERLANCAR-20200221.0    138233
 LinuxMint-Releases-0.032                138234
 Locale-ID-Locality-0.120                138235
