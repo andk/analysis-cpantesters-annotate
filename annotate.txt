@@ -6498,7 +6498,7 @@ Test-Mock-Object-0.1                    https://github.com/Ovid/test-mock-object
 Test-Tdd-0.009                          140137
 Tickit-0.72                             140138
 Tickit-Widget-ScrollBox-0.11            140138
-App-Sqitch-v1.2.0                       https://github.com/sqitchers/sqitch/issues/597,https://github.com/sqitchers/sqitch/issues/598
+App-Sqitch-v1.2.1                       https://github.com/sqitchers/sqitch/issues/597
 Cookie-v0.1.2                           140140
 IO-Async-0.800                          140143
 Crypt-OpenSSL-CA-0.91                   140144
