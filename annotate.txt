@@ -6405,7 +6405,7 @@ Business-ID-Mandiri-0.05                138219
 Calendar-Indonesia-Holiday-0.346        138219
 PERLANCAR-Debian-Releases-20190815.0    138219
 Params-Sah-0.072                        138219
-Perinci-CmdLine-Lite-1.912              138219
+Perinci-CmdLine-Lite-1.916              138219
 Perinci-Sub-Gen-AccessTable-DBI-0.18    138219
 Perinci-Sub-Wrapper-Patch-HandlePHPArray-0.04 138219
 Perinci-Tx-Manager-0.57                 138219
