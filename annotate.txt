@@ -5319,7 +5319,7 @@ XML-Hash-LX-0.07                        131710
 Mojo-File-Share-0.01                    https://github.com/srchulo/Mojo-File-Share/issues/1
 Complete-Sah-0.001                      131722
 Archive-Libarchive-FFI-0.0902           https://github.com/plicease/Archive-Libarchive-FFI/issues/17
-Archive-Libarchive-XS-0.0903            https://github.com/plicease/Archive-Libarchive-FFI/issues/17
+Archive-Libarchive-XS-0.0903            https://github.com/plicease/Archive-Libarchive-FFI/issues/17,deprecated
 Data-Sah-0.909                          131729
 Time-Moment-Epoch-1.003002              131731
 LinAlg-Vector-0.01                      131732
