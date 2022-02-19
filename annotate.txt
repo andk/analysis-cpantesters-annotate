@@ -6604,3 +6604,4 @@ Plack-Middleware-DBGp-0.13              https://github.com/Perl/perl5/issues/194
 XS-TCC-0.05                             https://github.com/Perl/perl5/issues/19440
 IO-AsyncX-Notifier-0.001                https://github.com/team-at-cpan/IO-AsyncX-Notifier/issues/1
 DateTime-Calendar-Christian-0.13_01     141405
+App-findeps-0.13                        https://github.com/worthmine/App-findeps/issues/6
