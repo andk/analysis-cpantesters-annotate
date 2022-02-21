@@ -6614,3 +6614,4 @@ ODS-0.04                                141426
 Phone-Valid-International-Loose-0.02    141427
 mro-EVERY-v0.1.2                        141433
 R-YapRI-0.09                            141438
+Test-JSON-Schema-Acceptance-1.015       https://github.com/karenetheridge/Test-JSON-Schema-Acceptance/issues/22
