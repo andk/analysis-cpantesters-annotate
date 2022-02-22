@@ -6617,3 +6617,4 @@ R-YapRI-0.09                            141438
 Test-JSON-Schema-Acceptance-1.015       https://github.com/karenetheridge/Test-JSON-Schema-Acceptance/issues/22
 Microarray-GeneXplorer-0.11             141461,141463
 SPVM-Math-0.07                          141462
+MOP-0.14                                https://github.com/Perl/perl5/issues/19450
