@@ -6618,3 +6618,5 @@ Test-JSON-Schema-Acceptance-1.015       https://github.com/karenetheridge/Test-J
 Microarray-GeneXplorer-0.11             141461,141463
 SPVM-Math-0.07                          141462
 MOP-0.14                                https://github.com/Perl/perl5/issues/19450
+JSON-Schema-Modern-0.545                https://github.com/karenetheridge/JSON-Schema-Modern/issues/70
+Lemonldap-NG-Manager-2.0.14             https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng/-/issues/2710
