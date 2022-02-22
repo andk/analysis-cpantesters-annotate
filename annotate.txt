@@ -6621,3 +6621,7 @@ MOP-0.14                                https://github.com/Perl/perl5/issues/194
 JSON-Schema-Modern-0.545                https://github.com/karenetheridge/JSON-Schema-Modern/issues/70
 Lemonldap-NG-Manager-2.0.14             https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng/-/issues/2710
 Test-Inline-2.214                       121634
+Geo-Coder-CA-0.12                       141487
+Otogiri-Plugin-TableInfo-0.04           https://github.com/tsucchi/p5-Otogiri-Plugin-TableInfo/issues/3
+Paranoid-BerkeleyDB-2.03                141488
+DBIx-Class-0.082842                     https://github.com/Perl/perl5/issues/19452
