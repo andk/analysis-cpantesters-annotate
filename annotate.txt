@@ -6511,7 +6511,7 @@ Async-0.11                              https://github.com/ap/Async/issues/1
 CAD-Mesh3D-0.005                        https://github.com/pryrt/CAD-Mesh3D/issues/13
 Code-TidyAll-0.79                       https://github.com/houseabsolute/perl-code-tidyall/issues/108,https://github.com/houseabsolute/perl-code-tidyall/issues/109,https://github.com/houseabsolute/perl-code-tidyall/issues/110,https://github.com/houseabsolute/perl-code-tidyall/issues/111
 WWW-WebKit2-0.131                       140254
-Code-TidyAll-0.80                       https://github.com/houseabsolute/perl-code-tidyall/issues/109,https://github.com/houseabsolute/perl-code-tidyall/issues/112,https://github.com/houseabsolute/perl-code-tidyall/issues/113
+Code-TidyAll-0.81                       https://github.com/houseabsolute/perl-code-tidyall/issues/109,https://github.com/houseabsolute/perl-code-tidyall/issues/112,https://github.com/houseabsolute/perl-code-tidyall/issues/113
 MojoX-HTTP-Async-0.05                   https://github.com/KalessinD/perl_mojox_http_async/issues/1
 JSON-Schema-Modern-Document-OpenAPI-0.003 https://github.com/karenetheridge/JSON-Schema-Modern-Document-OpenAPI/issues/15
 Log-Any-Adapter-DERIV-0.002             140269
