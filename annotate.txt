@@ -6626,3 +6626,4 @@ Otogiri-Plugin-TableInfo-0.04           https://github.com/tsucchi/p5-Otogiri-Pl
 Paranoid-BerkeleyDB-2.03                141488
 DBIx-Class-0.082842                     https://github.com/Perl/perl5/issues/19452
 DBD-SQLite-1.71_03                      https://github.com/DBD-SQLite/DBD-SQLite/issues/95
+PDL-Parallel-threads-0.04               https://github.com/run4flat/PDL-Parallel-threads/issues/4
