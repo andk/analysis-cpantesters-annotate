@@ -6636,3 +6636,4 @@ Tie-Hash-Cannabinol-v1.12.2             https://github.com/Perl/perl5/issues/194
 Data-Iter-0.2                           50478
 Unix-Uptime-0.4000                      113853
 Storable-AMF-1.23                       https://github.com/Perl/perl5/issues/19462
+Devel-Chitin-0.18.tar.gz                https://github.com/Perl/perl5/issues/19462
