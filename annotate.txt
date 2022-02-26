@@ -1604,7 +1604,7 @@ Map-Metro-Plugin-Map-Gothenburg-0.1004  https://github.com/Csson/p5-Map-Metro/is
 Map-Metro-Plugin-Map-Lyon-1.000         https://github.com/Csson/p5-Map-Metro/issues/11
 Data-Format-Pretty-Console-0.36         112947
 Business-PayPal-EWP-1.03                112952
-Algorithm-MCL-0.004                     112955
+Algorithm-MCL-0.004                     112955,141562
 Rex-Endpoint-HTTP-0.35.0                112956
 Crypt-OFB-0.01                          112977
 Template-Alloy-XS-1.004                 95102
