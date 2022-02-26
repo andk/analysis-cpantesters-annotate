@@ -6639,3 +6639,4 @@ Storable-AMF-1.23                       https://github.com/Perl/perl5/issues/194
 Devel-Chitin-0.18                       https://github.com/Perl/perl5/issues/19462
 Lexical-Importer-0.000005               https://github.com/exodist/Lexical-Importer/issues/3
 Git-Lint-0.008                          https://github.com/renderorange/Git-Lint/issues/9
+App-perlmv-0.605                        141561
