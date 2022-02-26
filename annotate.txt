@@ -1255,7 +1255,7 @@ Kwiki-UserName-Auth-0.10                109897
 Kwiki-Session-0.01                      109898
 Language-Zcode-0.8                      109906
 XML-EasySQL-1.2                         109907
-XML-Filter-Mode-0.02                    109908
+XML-Filter-Mode-0.02                    109908,141564
 XML-ParseDTD-0.1.4                      109909
 Business-SEDOL-2.01                     109913
 Distributed-Process-0.20                109914
