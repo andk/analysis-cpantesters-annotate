@@ -6641,3 +6641,4 @@ Lexical-Importer-0.000005               https://github.com/exodist/Lexical-Impor
 Git-Lint-0.008                          https://github.com/renderorange/Git-Lint/issues/9
 App-perlmv-0.605                        141561
 Math-Geometry-Planar-GPC-PolygonXS-0.052 141563
+Pinto-Remote-SelfContained-1.000        141567
