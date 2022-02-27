@@ -6644,3 +6644,6 @@ Math-Geometry-Planar-GPC-PolygonXS-0.052 141563
 Pinto-Remote-SelfContained-1.000        141567
 Tie-Array-BoundedIndex-0.06             https://github.com/Perl/perl5/issues/19465
 HTML-RSSAutodiscovery-1.21              141569
+ArrayData-Word-EN-Enable-0.001          141571
+Crypt-ScryptKDF-0.010                   141572
+Test-PDL-0.20                           141023
