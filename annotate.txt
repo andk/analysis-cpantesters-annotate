@@ -6653,3 +6653,4 @@ Plack-Component-Tags-HTML-0.01          https://github.com/michal-josef-spacek/P
 Mail-Alias-1.14                         141577
 Module-Generic-v0.21.3                  141578,141579,141580
 Slovo-Plugin-Prodan-0.04                https://github.com/kberov/Slovo-Plugin-Prodan/issues/1
+XML-Liberal-0.30                        119940
