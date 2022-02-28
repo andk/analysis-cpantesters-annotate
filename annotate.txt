@@ -6649,3 +6649,7 @@ Crypt-ScryptKDF-0.010                   141572
 Test-PDL-0.20                           141023
 Job-Async-0.004                         141574
 Class-Class-0.18                        119028
+Plack-Component-Tags-HTML-0.01          https://github.com/michal-josef-spacek/Plack-Component-Tags-HTML/issues/1
+Mail-Alias-1.14                         141577
+Module-Generic-v0.21.3                  141578,141579,141580
+Slovo-Plugin-Prodan-0.04                https://github.com/kberov/Slovo-Plugin-Prodan/issues/1
