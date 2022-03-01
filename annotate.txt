@@ -6662,3 +6662,4 @@ PDL-Dims-0.019                          141596
 Git-Critic-0.5                          https://github.com/Ovid/git-critic/issues/5
 Lemonldap-NG-Common-2.0.14              https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng/-/issues/2717
 Logfile-SmartFilter-0.01                141602
+Astro-Units-1.10                        141603
