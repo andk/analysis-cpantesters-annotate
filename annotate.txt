@@ -3787,7 +3787,7 @@ Shell-Cmd-3.01                          127604
 Devel-Cover-1.31                        https://github.com/pjcj/Devel--Cover/issues/225
 Sys-Info-Base-0.7804                    121024
 Test-Sys-Info-0.21                      120880
-Dist-Zilla-Plugin-Generate-ManifestSkip-v0.1.5 https://github.com/robrwo/Dist-Zilla-Plugin-Generate-ManifestSkip/issues/1
+Dist-Zilla-Plugin-Generate-ManifestSkip-v0.1.6 https://github.com/robrwo/Dist-Zilla-Plugin-Generate-ManifestSkip/issues/1
 Keyword-Pluggable-1.02                  127625
 Dancer2-Plugin-Menu-0.006               https://github.com/sdondley/Dancer2-Plugin-Menu/issues/2
 Net-Interface-1.016                     124582,124991
