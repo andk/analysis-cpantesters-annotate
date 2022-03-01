@@ -6654,3 +6654,6 @@ Mail-Alias-1.14                         141577
 Module-Generic-v0.21.3                  141578,141579,141580
 Slovo-Plugin-Prodan-0.04                https://github.com/kberov/Slovo-Plugin-Prodan/issues/1
 XML-Liberal-0.30                        119940
+CmdArguments-1.00                       https://github.com/Perl/perl5/issues/19473
+Params-Style-0.06                       https://github.com/Perl/perl5/issues/19474
+App-SimpleBackuper-0.2.24               https://github.com/Perl/perl5/issues/19475
