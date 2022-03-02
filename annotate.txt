@@ -6664,3 +6664,4 @@ Lemonldap-NG-Common-2.0.14              https://gitlab.ow2.org/lemonldap-ng/lemo
 Logfile-SmartFilter-0.01                141602
 Astro-Units-1.10                        141603
 Search-Sitemap-2.13                     86048
+Apache-Scriptor-Simple-1.21             141615
