@@ -6663,3 +6663,4 @@ Git-Critic-0.5                          https://github.com/Ovid/git-critic/issue
 Lemonldap-NG-Common-2.0.14              https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng/-/issues/2717
 Logfile-SmartFilter-0.01                141602
 Astro-Units-1.10                        141603
+Search-Sitemap-2.13                     86048
