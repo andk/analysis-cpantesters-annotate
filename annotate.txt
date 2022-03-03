@@ -6665,3 +6665,10 @@ Logfile-SmartFilter-0.01                141602
 Astro-Units-1.10                        141603
 Search-Sitemap-2.13                     86048
 Apache-Scriptor-Simple-1.21             141615
+Bio-DB-NCBIHelper-1.7.7                 https://github.com/bioperl/Bio-DB-NCBIHelper/issues/8
+App-Raps2-0.54                          141617
+Crypt-NamedKeys-1.1.2                   https://github.com/binary-com/perl-Crypt-NamedKeys/issues/15
+Crypt-SRP-0.018                         https://github.com/DCIT/perl-Crypt-SRP/issues/3
+ElasticSearchX-Model-2.0.1              deprecated
+MooX-Role-CryptedPassword-0.01          141619
+Devel-PPPort-3.66                       https://github.com/Dual-Life/Devel-PPPort/issues/219
