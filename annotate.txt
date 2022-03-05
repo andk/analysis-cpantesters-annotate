@@ -6539,7 +6539,7 @@ Acme-Signature-Arity-0.002              https://github.com/team-at-cpan/Acme-Sig
 CPAN-SQLite-0.219                       140735
 Geo-Coder-List-0.29                     140810
 GD-2.74                                 139399
-Amazon-API-1.1.8                        140846
+Amazon-API-1.2.2                        141590
 Perl-Critic-Policy-PreferredModules-0.004 https://github.com/atoomic/Perl-Critic-Policy-PreferredModules/issues/2
 Text-Table-More-0.021                   140878
 Tangence-0.28                           140891,140892
