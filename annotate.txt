@@ -6651,7 +6651,7 @@ Job-Async-0.004                         141574
 Class-Class-0.18                        119028
 Plack-Component-Tags-HTML-0.01          https://github.com/michal-josef-spacek/Plack-Component-Tags-HTML/issues/1
 Mail-Alias-1.14                         141577
-Module-Generic-v0.21.4                  141579,141650
+Module-Generic-v0.21.5                  141579
 Slovo-Plugin-Prodan-0.04                https://github.com/kberov/Slovo-Plugin-Prodan/issues/1
 XML-Liberal-0.30                        119940,103458
 CmdArguments-1.00                       https://github.com/Perl/perl5/issues/19473
