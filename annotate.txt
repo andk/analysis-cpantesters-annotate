@@ -6675,3 +6675,4 @@ Devel-PPPort-3.66                       https://github.com/Dual-Life/Devel-PPPor
 Async-Event-Interval-1.08               https://github.com/stevieb9/async-event-interval/issues/7
 Object-Signature-Portable-v1.1.1        https://github.com/robrwo/Object-Signature-Portable/issues/4
 Test-XML-Simple-1.05                    132056
+IPC-Shareable-1.08                      https://github.com/stevieb9/ipc-shareable/issues/17,https://github.com/stevieb9/ipc-shareable/issues/7
