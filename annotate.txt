@@ -6682,4 +6682,4 @@ WWW-CPANRatings-RSS-0.0307              129061
 Number-Phone-3.8003                     https://github.com/DrHyde/perl-modules-Number-Phone/issues/108
 WebService-SmartRow-0.002               141654
 CLASS-v1.1.5                            141657
-Parallel-Queue-v4.0.4                   141658
+Parallel-Queue-v4.0.4                   141658,141659
