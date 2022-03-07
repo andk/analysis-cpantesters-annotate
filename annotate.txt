@@ -6685,3 +6685,4 @@ CLASS-v1.1.5                            141657
 Parallel-Queue-v4.0.5                   141658,141659
 Test-Attribute-AutoLevel-0.06           https://github.com/Perl/perl5/issues/19502
 Furl-3.14                               https://github.com/tokuhirom/Furl/issues/128
+Hash-Typed-0.02                         141673
