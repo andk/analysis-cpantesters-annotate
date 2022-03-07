@@ -6676,7 +6676,7 @@ Async-Event-Interval-1.09               https://github.com/stevieb9/async-event-
 Object-Signature-Portable-v1.1.1        https://github.com/robrwo/Object-Signature-Portable/issues/4
 Test-XML-Simple-1.05                    132056
 IPC-Shareable-1.08                      https://github.com/stevieb9/ipc-shareable/issues/17,https://github.com/stevieb9/ipc-shareable/issues/7
-Sodium-FFI-0.005                        https://github.com/genio/sodium-ffi/issues/1
+Sodium-FFI-0.006                        https://github.com/genio/sodium-ffi/issues/1
 XML-Liberal-0.31                        https://github.com/miyagawa/XML-Liberal/issues/5
 WWW-CPANRatings-RSS-0.0307              129061
 Number-Phone-3.8003                     https://github.com/DrHyde/perl-modules-Number-Phone/issues/108
