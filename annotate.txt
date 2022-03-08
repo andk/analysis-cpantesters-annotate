@@ -6689,3 +6689,4 @@ Hash-Typed-0.02                         141673
 System-Command-1.121                    141674
 WebService-Swapi-0.1.7                  https://github.com/kianmeng/webservice-swapi/issues/1
 Spork-Hilite-0.11                       141679
+App-pl-v0.63.0                          141693
