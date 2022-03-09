@@ -6657,7 +6657,7 @@ XML-Liberal-0.30                        119940,103458
 CmdArguments-1.00                       https://github.com/Perl/perl5/issues/19473
 Params-Style-0.06                       https://github.com/Perl/perl5/issues/19474
 App-SimpleBackuper-0.2.24               https://github.com/Perl/perl5/issues/19475
-Catmandu-1.2016                         https://github.com/LibreCat/Catmandu/issues/389
+Catmandu-1.2018                         https://github.com/LibreCat/Catmandu/issues/389
 PDL-Dims-0.019                          141596
 Git-Critic-0.5                          https://github.com/Ovid/git-critic/issues/5
 Lemonldap-NG-Common-2.0.14              https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng/-/issues/2717
