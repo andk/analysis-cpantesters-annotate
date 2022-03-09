@@ -6691,3 +6691,4 @@ WebService-Swapi-0.1.7                  https://github.com/kianmeng/webservice-s
 Spork-Hilite-0.11                       141679
 App-pl-v0.63.0                          141693
 Net-Whois-IANA-0.47                     https://github.com/atoomic/Net-Whois-IANA/issues/18
+Sys-Trace-0.03                          https://github.com/dgl/perl-Sys-Trace/issues/4
