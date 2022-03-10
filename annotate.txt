@@ -6693,3 +6693,4 @@ App-pl-v0.63.0                          141693
 Net-Whois-IANA-0.47                     https://github.com/atoomic/Net-Whois-IANA/issues/18
 Sys-Trace-0.03                          https://github.com/dgl/perl-Sys-Trace/issues/4
 HTML-FormRemove-0.3a                    141715
+POE-Filter-PPPHDLC-0.01                 141718
