@@ -6629,7 +6629,7 @@ DBD-SQLite-1.71_03                      https://github.com/DBD-SQLite/DBD-SQLite
 PDL-Parallel-threads-0.04               https://github.com/run4flat/PDL-Parallel-threads/issues/4
 JSON-Color-0.133                        141528
 SQL-Abstract-Plugin-TableAlias-0.02     141529
-Signals-XSIG-0.15                       141530
+Signals-XSIG-0.15                       141530,https://github.com/Perl/perl5/issues/19535
 Data-Format-Pretty-Console-0.391        141531,141532
 Acme-Dot-1.10                           https://github.com/Perl/perl5/issues/19460
 Tie-Hash-Cannabinol-v1.12.2             https://github.com/Perl/perl5/issues/19460
