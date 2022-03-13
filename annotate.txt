@@ -6698,3 +6698,4 @@ Test-MockTime-HiRes-0.08                https://github.com/tarao/perl5-Test-Mock
 Compiler-Lexer-0.23                     https://github.com/Dual-Life/Devel-PPPort/issues/222
 ArrayData-Lingua-Word-EN-Wordle-20220306.0.0 141745
 Devel-Required-0.16                     https://github.com/Perl/perl5/issues/17681
+Perlmazing-1.2816                       141747
