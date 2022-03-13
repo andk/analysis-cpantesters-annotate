@@ -6598,7 +6598,7 @@ WWW-Shorten-GitHub-0.1.7                141388
 WebService-RESTCountries-0.3            https://github.com/kianmeng/webservice-restcountries/issues/1
 TableDataRoles-Standard-0.013           141389
 Yancy-Plugin-OpenAPI-0.002              https://github.com/preaction/Yancy-Plugin-OpenAPI/issues/4
-B-DeparseTree-v3.4.0                    141404
+B-DeparseTree-v3.4.0                    141404,https://github.com/Perl/perl5/issues/19529
 Plack-Middleware-DBGp-0.13              https://github.com/Perl/perl5/issues/19439
 XS-TCC-0.05                             https://github.com/Perl/perl5/issues/19440
 IO-AsyncX-Notifier-0.001                https://github.com/team-at-cpan/IO-AsyncX-Notifier/issues/1
