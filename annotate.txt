@@ -6694,3 +6694,4 @@ Net-Whois-IANA-0.47                     https://github.com/atoomic/Net-Whois-IAN
 Sys-Trace-0.03                          https://github.com/dgl/perl-Sys-Trace/issues/4
 HTML-FormRemove-0.3a                    141715
 POE-Filter-PPPHDLC-0.01                 141718
+Test-MockTime-HiRes-0.08                https://github.com/tarao/perl5-Test-MockTime-HiRes/issues/10
