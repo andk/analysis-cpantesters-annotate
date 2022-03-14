@@ -6699,3 +6699,6 @@ Compiler-Lexer-0.23                     https://github.com/Dual-Life/Devel-PPPor
 ArrayData-Lingua-Word-EN-Wordle-20220306.0.0 141745
 Devel-Required-0.16                     https://github.com/Perl/perl5/issues/17681
 Perlmazing-1.2816                       141747
+Plack-Middleware-Scope-Container-0.04   https://github.com/kazeburo/Plack-Middleware-Scope-Container/issues/2
+ArrayData-Lingua-Word-EN-Enable-0.002   141756
+Data-Dumper-Interp-2.21                 141757,141758,141759,141760,141761
