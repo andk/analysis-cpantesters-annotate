@@ -6701,4 +6701,4 @@ Devel-Required-0.16                     https://github.com/Perl/perl5/issues/176
 Perlmazing-1.2816                       141747
 Plack-Middleware-Scope-Container-0.04   https://github.com/kazeburo/Plack-Middleware-Scope-Container/issues/2
 ArrayData-Lingua-Word-EN-Enable-0.002   141756
-Data-Dumper-Interp-2.21                 141757,141758,141759,141760,141761
+Data-Dumper-Interp-2.22                 141757,141758,141759,141760,141761
