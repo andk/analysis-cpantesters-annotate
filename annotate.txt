@@ -1836,7 +1836,7 @@ JSV-0.07                                https://github.com/zigorou/perl-JSV/issu
 Catmandu-LIDO-0.01                      https://github.com/LibreCat/Catmandu-LIDO/issues/1
 Test-DBIx-Class-Schema-1.0.9            https://github.com/chiselwright/test-dbix-class-schema/issues/12
 List-Uniq-0.20                          113952
-Git-PurePerl-0.51                       106772
+Git-PurePerl-0.53                       106772,141798
 POE-Component-Bundle-WebDevelopment-1.001004 https://github.com/zoffixznet/POE-Component-Bundle-WebDevelopment/issues/3
 Net-DAVTalk-0.08                        114118
 Mirror-YAML-0.03                        114153
