@@ -6702,3 +6702,9 @@ Perlmazing-1.2816                       141747
 Plack-Middleware-Scope-Container-0.04   https://github.com/kazeburo/Plack-Middleware-Scope-Container/issues/2
 ArrayData-Lingua-Word-EN-Enable-0.002   141756
 Data-Dumper-Interp-2.23                 141757,141758,141759,141760,141761
+WWW-DoctypeGrabber-0.007                141766
+Boxer-v1.4.3                            141804
+Dancer2-Plugin-Database-2.17            https://github.com/bigpresh/Dancer-Plugin-Database/issues/102
+Dpkg-1.21.2                             141805,141806
+IO-AsyncX-Notifier-0.002                https://github.com/team-at-cpan/IO-AsyncX-Notifier/issues/2
+lib-projectroot-1.010                   https://github.com/domm/lib-projectroot/issues/5
