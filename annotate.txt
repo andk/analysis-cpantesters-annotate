@@ -6710,3 +6710,4 @@ Dpkg-1.21.2                             141805,141806
 IO-AsyncX-Notifier-0.002                https://github.com/team-at-cpan/IO-AsyncX-Notifier/issues/2
 lib-projectroot-1.010                   https://github.com/domm/lib-projectroot/issues/5
 API-MailboxOrg-1.0.0                    https://github.com/PerlServices/API-MailboxOrg/issues/2
+Lib-PWQuality-0.001                     141829
