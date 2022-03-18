@@ -6711,3 +6711,4 @@ IO-AsyncX-Notifier-0.002                https://github.com/team-at-cpan/IO-Async
 lib-projectroot-1.010                   https://github.com/domm/lib-projectroot/issues/5
 API-MailboxOrg-1.0.0                    https://github.com/PerlServices/API-MailboxOrg/issues/2
 Lib-PWQuality-0.001                     141829
+Tk-TextDialog-0.01                      141830
