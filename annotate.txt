@@ -6489,7 +6489,7 @@ Net-SSL-ExpireDate-1.23                 132824
 Astro-FITS-CFITSIO-Simple-0.19          140124
 Config-Model-2.145                      https://github.com/dod38fr/config-model/issues/32
 DBIx-Spreadsheet-0.01                   140129
-FindApp-v0.0.6                          140130
+FindApp-v0.0.6                          140130,141834
 Net-Async-Slack-0.008                   https://github.com/team-at-cpan/Net-Async-Slack/issues/2
 Netstack-0.021                          140134
 Object-Util-Stringify-0.001             140135
