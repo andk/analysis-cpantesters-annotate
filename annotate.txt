@@ -6714,3 +6714,7 @@ Lib-PWQuality-0.001                     141829
 Tk-TextDialog-0.01                      141830
 WWW-Search-Coveralia-0.001              141831
 Algorithm-SISort-0.14                   141833
+HTML-TreeBuilder-LibXML-0.26            https://github.com/tokuhirom/HTML-TreeBuilder-LibXML/issues/16
+Statocles-0.098                         https://github.com/preaction/Statocles/issues/606
+Test-MockFile-0.033                     https://github.com/cpanel/Test-MockFile/issues/175
+WebService-KoreanSpeller-0.015          https://github.com/aero/WebService-KoreanSpeller/issues/5
