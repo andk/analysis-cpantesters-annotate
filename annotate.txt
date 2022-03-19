@@ -6713,3 +6713,4 @@ API-MailboxOrg-1.0.0                    https://github.com/PerlServices/API-Mail
 Lib-PWQuality-0.001                     141829
 Tk-TextDialog-0.01                      141830
 WWW-Search-Coveralia-0.001              141831
+Algorithm-SISort-0.14                   141833
