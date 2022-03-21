@@ -6727,3 +6727,4 @@ Sentry-SDK-v1.0.19                      https://github.com/heiseonline/perl-sent
 Math-MPFR-4.21                          https://github.com/Perl/perl5/issues/19550
 Math-GMPf-0.47                          https://github.com/Perl/perl5/issues/19550
 Math-Float128-0.15                      https://github.com/Perl/perl5/issues/19550
+warnings-everywhere-0.030               https://github.com/Perl/perl5/issues/19551
