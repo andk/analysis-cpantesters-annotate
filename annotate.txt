@@ -6723,3 +6723,4 @@ Daemon-Device-1.09                      https://github.com/gryphonshafer/Daemon-
 ArrayData-Lingua-Word-ID-Wordle-20220306.0.0 141843
 Image-Randim-0.07                       141844
 App-SimulateReads-0.16                  https://github.com/galantelab/sandy/issues/7
+Sentry-SDK-v1.0.19                      https://github.com/heiseonline/perl-sentry-sdk/issues/12
