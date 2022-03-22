@@ -6735,3 +6735,4 @@ Webservice-Judobase-0.06                https://github.com/lancew/Webservice-Jud
 Convert-Number-Roman-0.01               https://github.com/Perl/perl5/issues/19554
 Acme-InputRecordSeparatorIsRegexp-0.07  https://github.com/Perl/perl5/issues/19555
 AWS-CLIWrapper-1.22                     141885
+Task-Date-Holidays-0.11                 https://github.com/jonasbn/perl-task-date-holidays/issues/13
