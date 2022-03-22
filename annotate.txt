@@ -6731,3 +6731,4 @@ warnings-everywhere-0.030               https://github.com/Perl/perl5/issues/195
 Tie-Hash-FixedKeys-v1.13.2              https://github.com/Perl/perl5/issues/19460
 Tie-Hash-Regex-1.14                     https://github.com/Perl/perl5/issues/19460
 UniEvent-1.2.10                         141860
+Webservice-Judobase-0.06                https://github.com/lancew/Webservice-Judobase/issues/11
