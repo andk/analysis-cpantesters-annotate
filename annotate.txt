@@ -6733,3 +6733,4 @@ Tie-Hash-Regex-1.14                     https://github.com/Perl/perl5/issues/194
 UniEvent-1.2.10                         141860
 Webservice-Judobase-0.06                https://github.com/lancew/Webservice-Judobase/issues/11
 Convert-Number-Roman-0.01               https://github.com/Perl/perl5/issues/19554
+Acme-InputRecordSeparatorIsRegexp-0.07  https://github.com/Perl/perl5/issues/19555
