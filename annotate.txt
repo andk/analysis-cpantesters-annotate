@@ -6736,3 +6736,4 @@ Convert-Number-Roman-0.01               https://github.com/Perl/perl5/issues/195
 Acme-InputRecordSeparatorIsRegexp-0.07  https://github.com/Perl/perl5/issues/19555
 AWS-CLIWrapper-1.22                     141885
 Task-Date-Holidays-0.11                 https://github.com/jonasbn/perl-task-date-holidays/issues/13
+Lingua-DE-ASCII-0.14                    https://github.com/Perl/perl5/issues/19557
