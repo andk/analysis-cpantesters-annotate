@@ -6738,3 +6738,4 @@ AWS-CLIWrapper-1.22                     141885
 Task-Date-Holidays-0.11                 https://github.com/jonasbn/perl-task-date-holidays/issues/13
 Lingua-DE-ASCII-0.14                    https://github.com/Perl/perl5/issues/19557
 C-Blocks-0.42                           https://github.com/Perl/perl5/issues/19561
+DBIx-Class-MassAssignable-0.03          141918
