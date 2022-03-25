@@ -5915,7 +5915,7 @@ App-Kit-0.63                            133602,133603
 Lyrics-Fetcher-AZLyrics-0.06            133604
 Test-CPANfile-0.07                      https://github.com/charsbar/Test-CPANfile/issues/2
 Google-Chat-WebHooks-0.02               133614
-Lyrics-Fetcher-Genius-0.05              133615
+Lyrics-Fetcher-Genius-0.05              133615,141931
 App-PlatformInfo-0.005                  133638
 Device-Chip-AD9833-0.01                 133639
 File-FormatIdentification-Pronom-0.04   133640
