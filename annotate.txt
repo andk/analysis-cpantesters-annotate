@@ -6634,7 +6634,7 @@ Signals-XSIG-0.15                       141530,https://github.com/Perl/perl5/iss
 Data-Format-Pretty-Console-0.391        141531,141532
 Acme-Dot-1.10                           https://github.com/Perl/perl5/issues/19460
 Tie-Hash-Cannabinol-v1.12.2             https://github.com/Perl/perl5/issues/19460
-Data-Iter-0.2                           50478
+Data-Iter-0.2                           50478,141953
 Unix-Uptime-0.4000                      113853
 Storable-AMF-1.23                       https://github.com/Perl/perl5/issues/19462
 Devel-Chitin-0.18                       https://github.com/Perl/perl5/issues/19462
