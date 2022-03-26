@@ -6741,3 +6741,4 @@ C-Blocks-0.42                           https://github.com/Perl/perl5/issues/195
 DBIx-Class-MassAssignable-0.03          141918
 News-GnusFilter-0.55                    141945
 POE-Component-Server-SimpleXMLRPC-0.02  141946
+Crypt-OpenSSL-Hash2Curve-0.01           141950,141951
