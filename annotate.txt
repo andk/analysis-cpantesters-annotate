@@ -6747,3 +6747,6 @@ Contenticious-0.393                     142000
 Device-Chip-AD9833-0.02                 142007
 Alien-proj-1.23                         https://github.com/shawnlaffan/perl-alien-proj/issues/10
 Mojo-UserAgent-Cached-1.18              https://github.com/nicomen/mojo-useragent-cached/issues/5
+MojoX-JSONRPC2-HTTP-v2.0.2              https://github.com/powerman/perl-MojoX-JSONRPC2-HTTP/issues/2
+Mojolicious-Plugin-EmailMailer-0.03     142015
+Mojolicious-Plugin-Gzip-0.04            https://github.com/srchulo/Mojolicious-Plugin-Gzip/issues/2
