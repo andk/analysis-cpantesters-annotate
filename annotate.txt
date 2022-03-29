@@ -6746,3 +6746,4 @@ Frontier-RPC-0.07b4                     141961
 Contenticious-0.393                     142000
 Device-Chip-AD9833-0.02                 142007
 Alien-proj-1.23                         https://github.com/shawnlaffan/perl-alien-proj/issues/10
+Mojo-UserAgent-Cached-1.18              https://github.com/nicomen/mojo-useragent-cached/issues/5
