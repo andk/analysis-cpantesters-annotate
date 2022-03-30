@@ -6161,7 +6161,7 @@ Mojolicious-Plugin-Moai-0.012           https://github.com/preaction/Mojolicious
 Mojolicious-Plugin-Module-0.04          134663
 Mojolicious-Plugin-JSUrlFor-0.17        134664
 Mojolicious-Plugin-Prove-0.1            https://github.com/reneeb/Mojolicious-Plugin-Prove/issues/3
-Mojolicious-Plugin-ReCAPTCHAv2-1.06     134665
+Mojolicious-Plugin-ReCAPTCHAv2-1.06     134665,142017
 Mojolicious-Plugin-PetalTinyRenderer-0.05 134667
 Mojolicious-Plugin-WithCSRFProtection-1.00 https://github.com/maxmind/Mojolicious-Plugin-WithCSRFProtection/issues/1
 Mojolicious-Plugin-PlainRoutes-0.06     134668
