@@ -6750,3 +6750,7 @@ Mojo-UserAgent-Cached-1.18              https://github.com/nicomen/mojo-useragen
 MojoX-JSONRPC2-HTTP-v2.0.2              https://github.com/powerman/perl-MojoX-JSONRPC2-HTTP/issues/2
 Mojolicious-Plugin-EmailMailer-0.03     142015
 Mojolicious-Plugin-Gzip-0.04            https://github.com/srchulo/Mojolicious-Plugin-Gzip/issues/2
+Net-IRR-0.08                            142018
+Slovo-2022.2.16                         https://github.com/kberov/Slovo/issues/46
+Test2-Tools-HTTP-0.09                   https://github.com/uperl/Test2-Tools-HTTP/issues/4
+Twiggy-TLS-0.0019                       https://github.com/und3f/Twiggy-TLS/issues/2
