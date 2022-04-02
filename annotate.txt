@@ -365,7 +365,7 @@ Catalyst-Plugin-Text-Xatena-0.02        81769
 I18N-Handle-0.051                       81798
 MooseX-Registry-0.01                    removed from CPAN
 Config-YAARG-0.023                      81831
-Test-CGI-Multipart-v0.0.3               81847
+Test-CGI-Multipart-v0.0.3               81847,142065
 Tapper-TestSuite-Netperf-4.1.1          81848
 R-Comment2DocDraft-0.2                  81850
 Tie-IxHash-FromText-0.02                82000
