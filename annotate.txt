@@ -4108,7 +4108,7 @@ JSON-Parse-0.55_02                      https://github.com/benkasminbullock/JSON
 Sub-Fp-0.39                             127672
 Test-WWW-Simple-0.40                    125651,142012
 Catalyst-Plugin-InjectionHelpers-0.014  https://github.com/jjn1056/Catalyst-Plugin-InjectionHelpers/issues/2
-Dancer-Plugin-SporeDefinitionControl-0.18 84948
+Dancer-Plugin-SporeDefinitionControl-0.18 84948,142092
 App-SimpleScan-3.01                     128379
 ASP4x-Captcha-Imager-0.003              73499,109730
 Date-Lectionary-Daily-v1.20180423       128380
