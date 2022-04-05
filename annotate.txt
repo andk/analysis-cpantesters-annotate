@@ -6719,7 +6719,7 @@ Statocles-0.098                         https://github.com/preaction/Statocles/i
 Test-MockFile-0.033                     https://github.com/cpanel/Test-MockFile/issues/175
 WebService-KoreanSpeller-0.015          https://github.com/aero/WebService-KoreanSpeller/issues/5
 Daemon-Control-0.001010                 https://github.com/symkat/Daemon-Control/issues/92
-Daemon-Device-1.09                      https://github.com/gryphonshafer/Daemon-Device/issues/3
+Daemon-Device-1.10                      https://github.com/gryphonshafer/Daemon-Device/issues/3
 ArrayData-Lingua-Word-ID-Wordle-20220306.0.0 141843
 Image-Randim-0.07                       141844
 App-SimulateReads-0.16                  https://github.com/galantelab/sandy/issues/7
