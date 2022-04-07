@@ -5081,7 +5081,7 @@ Mojo-File-Role-Digest-0.01              https://github.com/Tekki/mojo-file-role-
 Module-Signature-0.83                   131152
 DBIx-NamedParams-v0.0.6                 https://github.com/TakeAsh/p-DBIx-NamedParams/issues/1
 SOAP-Lite-1.27                          131153
-PDL-LinearAlgebra-0.26                  https://github.com/PDLPorters/pdl-linearalgebra/issues/5
+PDL-LinearAlgebra-0.27                  https://github.com/PDLPorters/pdl-linearalgebra/issues/5
 XML-LibXSLT-1.99                        131156
 XML-Grammar-Fiction-0.18.2              131155
 MooseX-Types-Parameterizable-0.08       75119
