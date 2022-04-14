@@ -6765,3 +6765,4 @@ Dancer2-Plugin-FormValidator-0.22       https://github.com/AlexP007/dancer2-plug
 HTML-T5-0.012                           https://github.com/shlomif/html-tidy5/issues/6
 Plack-App-Data-Printer-0.02             https://github.com/michal-josef-spacek/Plack-App-Data-Printer/issues/1
 Games-Dice-Loaded-0.002                 142198
+Graph-SocialMap-0.12                    142255
