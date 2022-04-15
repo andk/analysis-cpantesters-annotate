@@ -6767,3 +6767,4 @@ Plack-App-Data-Printer-0.02             https://github.com/michal-josef-spacek/P
 Games-Dice-Loaded-0.002                 142198
 Graph-SocialMap-0.12                    142255
 Log-OK-v0.1.0                           142261
+NIST-NVD-1.02.01                        142268
