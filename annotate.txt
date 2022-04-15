@@ -6766,3 +6766,4 @@ HTML-T5-0.012                           https://github.com/shlomif/html-tidy5/is
 Plack-App-Data-Printer-0.02             https://github.com/michal-josef-spacek/Plack-App-Data-Printer/issues/1
 Games-Dice-Loaded-0.002                 142198
 Graph-SocialMap-0.12                    142255
+Log-OK-v0.1.0                           142261
