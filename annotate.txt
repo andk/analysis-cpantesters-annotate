@@ -6757,7 +6757,7 @@ Twiggy-TLS-0.0019                       https://github.com/und3f/Twiggy-TLS/issu
 JIRA-REST-Class-0.12                    142026
 RObufr-0.03                             142034,142035
 XMLNews-Meta-0.01                       142060
-Crypt-OpenSSL-Base-Func-0.032           https://github.com/abbypan/Crypt-OpenSSL-Base-Func/issues/3
+Crypt-OpenSSL-Base-Func-0.033           https://github.com/abbypan/Crypt-OpenSSL-Base-Func/issues/3
 Blessed-Merge-1.00                      142080
 Sentry-SDK-v1.1.0                       https://github.com/heiseonline/perl-sentry-sdk/issues/13
 Algorithm-LibLinear-0.24                142090
