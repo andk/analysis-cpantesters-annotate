@@ -6769,3 +6769,4 @@ Graph-SocialMap-0.12                    142255
 Log-OK-v0.1.0                           142261
 NIST-NVD-1.02.01                        142268
 Math-Geometry-Voronoi-1.3               142277
+DBIx-SchemaChecksum-1.104               https://github.com/domm/DBIx-SchemaChecksum/issues/5
