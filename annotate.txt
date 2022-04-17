@@ -6777,3 +6777,5 @@ App-zipdetails-2.105                    https://github.com/pmqs/zipdetails/issue
 Term-Table2-1.0.3                       142289
 Graph-Writer-GraphViz-0.12              142291
 SMS-Send-US-TMobile-v0.0.3              73967
+UNIVERSAL-cant-v0.0.1                   142292,73613
+CGI-Kwiki-0.18                          142293
