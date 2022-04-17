@@ -6774,3 +6774,4 @@ Code-TidyAll-0.82                       https://github.com/houseabsolute/perl-co
 Amazon-Credentials-1.1.1                142288
 Crypt-OpenSSL-Hash2Curve-0.03           https://github.com/abbypan/Crypt-OpenSSL-Hash2Curve/issues/1
 App-zipdetails-2.105                    https://github.com/pmqs/zipdetails/issues/9
+Term-Table2-1.0.3                       142289
