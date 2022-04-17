@@ -6771,3 +6771,6 @@ NIST-NVD-1.02.01                        142268
 Math-Geometry-Voronoi-1.3               142277
 DBIx-SchemaChecksum-1.104               https://github.com/domm/DBIx-SchemaChecksum/issues/5
 Code-TidyAll-0.82                       https://github.com/houseabsolute/perl-code-tidyall/issues/112,https://github.com/houseabsolute/perl-code-tidyall/issues/113
+Amazon-Credentials-1.1.1                142288
+Crypt-OpenSSL-Hash2Curve-0.03           https://github.com/abbypan/Crypt-OpenSSL-Hash2Curve/issues/1
+App-zipdetails-2.105                    https://github.com/pmqs/zipdetails/issues/9
