@@ -6781,3 +6781,4 @@ UNIVERSAL-cant-v0.0.1                   142292,73613
 CGI-Kwiki-0.18                          142293
 WikiText-0.19                           https://github.com/ingydotnet/wikitext-pm/issues/2
 Crypt-SIGMA-0.01                        142312
+Tapper-TAP-Harness-5.0.7                142314
