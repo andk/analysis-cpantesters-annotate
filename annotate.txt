@@ -6782,3 +6782,4 @@ CGI-Kwiki-0.18                          142293
 WikiText-0.19                           https://github.com/ingydotnet/wikitext-pm/issues/2
 Crypt-SIGMA-0.01                        142312
 Tapper-TAP-Harness-5.0.7                142314
+Device-Chip-0.21                        142319
