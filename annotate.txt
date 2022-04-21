@@ -6784,3 +6784,4 @@ Crypt-SIGMA-0.01                        142312
 Tapper-TAP-Harness-5.0.7                142314
 Device-Chip-0.21                        142319
 Perinci-Sub-DepChecker-0.122            142320
+Devel-CheckOS-1.90                      https://github.com/DrHyde/perl-modules-Devel-CheckOS/issues/26
