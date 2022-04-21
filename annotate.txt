@@ -6256,7 +6256,7 @@ BuzzSaw-0.12.0                          134879
 Redis-JobQueue-1.19                     https://github.com/TrackingSoft/Redis-JobQueue/issues/6
 App-tt-0.16                             https://github.com/jhthorsen/app-tt/issues/4,https://github.com/jhthorsen/app-tt/issues/5
 TOML-XS-0.01_02                         https://github.com/FGasper/p5-TOML-XS/issues/1
-List-Util-MaybeXS-1.500009              135123
+List-Util-MaybeXS-1.500010              135123
 Test-PDL-0.14                           135221
 Lagrange-0.1.9                          135222
 CodeGen-Protection-0.03                 https://github.com/Ovid/codegen-protection/issues/1
