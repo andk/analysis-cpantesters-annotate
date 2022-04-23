@@ -6788,3 +6788,4 @@ Devel-CheckOS-1.90                      https://github.com/DrHyde/perl-modules-D
 Perinci-Sub-DepChecker-0.124            142335
 DateTime-Span-Common-0.03               142351
 Algorithm-AhoCorasick-XS-0.04           142363
+Parse-Log-Smbd-0.02                     142365
