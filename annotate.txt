@@ -1844,7 +1844,7 @@ Mirror-YAML-0.03                        114153
 Math-Cephes-0.5304                      114158
 Gazelle-0.42                            https://github.com/kazeburo/Gazelle/issues/26
 FuseBead-From-PNG-0.01                  114212
-IPC-Mmap-0.21                           https://rt.perl.org/rt3/Ticket/Display.html?id=128179
+IPC-Mmap-0.21                           https://rt.perl.org/rt3/Ticket/Display.html?id=128179,39962
 CNC-Cog-0.061                           111909
 Image-Resize-0.5                        60038
 YATT-Lite-0.100                         106776
