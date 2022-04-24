@@ -2461,7 +2461,7 @@ UNIVERSAL-ref-0.14                      https://rt.perl.org/rt3/Ticket/Display.h
 BrowserStack-Local-1.0.0                no bugtracker, missing dependency specifications
 B-ConstOptree-0.02                      118020
 Dist-Zilla-Role-ModuleIncluder-0.007    118026
-Devel-RingBuffer-0.31                   118038
+Devel-RingBuffer-0.31                   118038,142377
 RestrictionDigest-0.02                  118061
 Plack-Middleware-NewRelic-0.0502        https://github.com/aanari/Plack-Middleware-NewRelic/issues/9
 Catalyst-Plugin-OrderedParams-0.06      52922
