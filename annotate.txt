@@ -6792,3 +6792,4 @@ Parse-Log-Smbd-0.02                     142365
 Text-Match-FastAlternatives-1.05        142367
 Mac-PropertyList-XS-0.04                142368
 Amazon-Credentials-1.1.6                142378
+Test-HTTP-AnyEvent-Server-0.013         https://github.com/creaktive/Test-HTTP-AnyEvent-Server/issues/2
