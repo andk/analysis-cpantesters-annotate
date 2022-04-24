@@ -6791,3 +6791,4 @@ Algorithm-AhoCorasick-XS-0.04           142363
 Parse-Log-Smbd-0.02                     142365
 Text-Match-FastAlternatives-1.05        142367
 Mac-PropertyList-XS-0.04                142368
+Amazon-Credentials-1.1.6                142378
