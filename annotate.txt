@@ -6794,3 +6794,4 @@ Mac-PropertyList-XS-0.04                142368
 Amazon-Credentials-1.1.6                142378
 Test-HTTP-AnyEvent-Server-0.013         https://github.com/creaktive/Test-HTTP-AnyEvent-Server/issues/2
 Sub-Throttler-v0.2.10                   https://github.com/powerman/perl-Sub-Throttler/issues/4
+Vcdiff-Xdelta3-0.104                    https://github.com/hoytech/Vcdiff-Xdelta3/issues/1
