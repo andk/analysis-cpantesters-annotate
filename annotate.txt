@@ -6583,7 +6583,7 @@ Dancer2-Plugin-Passphrase-3.3.4         https://github.com/PerlDancer/Dancer2-Pl
 Thread-Resource-RWLock-2.01             101977
 Date-Tiny-1.07                          https://github.com/dagolden/Date-Tiny/issues/2
 Sereal-Encoder-4.022                    https://github.com/Sereal/Sereal/issues/270
-Net-AMQP-RabbitMQ-2.40009               https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq/issues/220
+Net-AMQP-RabbitMQ-2.40009               https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq/issues/220,https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq/issues/227
 Async-Microservice-0.02                 141376
 Finance-Alpaca-0.9906                   https://github.com/sanko/Finance-Alpaca/issues/3
 HackaMol-0.051                          141377
@@ -6793,3 +6793,4 @@ Text-Match-FastAlternatives-1.05        142367
 Mac-PropertyList-XS-0.04                142368
 Amazon-Credentials-1.1.6                142378
 Test-HTTP-AnyEvent-Server-0.013         https://github.com/creaktive/Test-HTTP-AnyEvent-Server/issues/2
+Sub-Throttler-v0.2.10                   https://github.com/powerman/perl-Sub-Throttler/issues/4
