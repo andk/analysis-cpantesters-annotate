@@ -6797,3 +6797,4 @@ Sub-Throttler-v0.2.10                   https://github.com/powerman/perl-Sub-Thr
 Vcdiff-Xdelta3-0.104                    https://github.com/hoytech/Vcdiff-Xdelta3/issues/1
 PkgConfig-LibPkgConf-0.11               https://github.com/PerlAlien/PkgConfig-LibPkgConf/issues/14
 EV-Hiredis-0.04                         https://github.com/typester/EV-Hiredis/issues/5
+List-Flatten-XS-0.05                    https://github.com/Code-Hex/p5-List-Flatten-XS/issues/3
