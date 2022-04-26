@@ -6796,3 +6796,4 @@ Test-HTTP-AnyEvent-Server-0.013         https://github.com/creaktive/Test-HTTP-A
 Sub-Throttler-v0.2.10                   https://github.com/powerman/perl-Sub-Throttler/issues/4
 Vcdiff-Xdelta3-0.104                    https://github.com/hoytech/Vcdiff-Xdelta3/issues/1
 PkgConfig-LibPkgConf-0.11               https://github.com/PerlAlien/PkgConfig-LibPkgConf/issues/14
+EV-Hiredis-0.04                         https://github.com/typester/EV-Hiredis/issues/5
