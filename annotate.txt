@@ -6799,3 +6799,4 @@ PkgConfig-LibPkgConf-0.11               https://github.com/PerlAlien/PkgConfig-L
 EV-Hiredis-0.04                         https://github.com/typester/EV-Hiredis/issues/5
 List-Flatten-XS-0.05                    https://github.com/Code-Hex/p5-List-Flatten-XS/issues/3
 Plack-App-CLI-0.1                       142438
+Template-Plugin-CGI-3.100               https://github.com/xsawyerx/template-plugin-cgi/issues/1
