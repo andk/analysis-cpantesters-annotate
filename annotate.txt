@@ -6803,3 +6803,4 @@ Template-Plugin-CGI-3.100               https://github.com/xsawyerx/template-plu
 Imager-1.013                            https://github.com/tonycoz/imager/issues/472
 Async-Trampoline-0.001002               https://github.com/latk/p5-Async-Trampoline/issues/7
 JSON-Server-0.02                        https://github.com/benkasminbullock/json-server/issues/1
+Test-OnlySome-0.001005                  142457
