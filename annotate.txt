@@ -6805,3 +6805,4 @@ Async-Trampoline-0.001002               https://github.com/latk/p5-Async-Trampol
 JSON-Server-0.02                        https://github.com/benkasminbullock/json-server/issues/1
 Test-OnlySome-0.001005                  142457
 Var-Mystic-0.000003                     142461
+TAP-Formatter-JUnitREGRU-0.13           142493
