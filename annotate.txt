@@ -6809,3 +6809,4 @@ TAP-Formatter-JUnitREGRU-0.13           142493
 Crypt-OpenSSL-FASTPBKDF2-0.01           142495
 Text-Wrap-OO-0.002                      142498
 Mojolicious-Plugin-WriteExcel-2.05      https://github.com/zakame/mojox-renderer-writeexcel/issues/5
+WWW-PIDS-0.03                           142540
