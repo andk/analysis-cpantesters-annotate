@@ -6814,3 +6814,4 @@ App-perlimports-0.000039                https://github.com/oalders/App-perlimpor
 Alien-DjVuLibre-0.01                    142544
 IO-Async-SSL-0.22                       142553
 PDL-LinearAlgebra-0.32                  https://github.com/PDLPorters/pdl-linearalgebra/issues/15
+LWPx-UserAgent-Cached-0.011             https://github.com/mjgardner/LWPx-UserAgent-Cached/issues/1
