@@ -6534,7 +6534,7 @@ String-Copyright-0.003012               140622
 Util-H2O-More-0.0.3                     140623
 Data-Sah-DefaultValue-0.001             140659
 Log-Dispatch-Email-Sendmail-0.03        https://github.com/nigelhorne/Log-Dispatch-Email-Sendmail/issues/82
-Archive-BagIt-0.090                     140660,140903
+Archive-BagIt-0.093                     140660
 Text-Table-More-0.020                   140661
 Acme-Signature-Arity-0.002              https://github.com/team-at-cpan/Acme-Signature-Arity/issues/1
 CPAN-SQLite-0.219                       140735
