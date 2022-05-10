@@ -6330,7 +6330,7 @@ FFI-C-Stat-0.01                         https://github.com/uperl/FFI-C-Stat/issu
 IO-Die-0.057                            136710
 Alien-GSL-1.05_01                       https://github.com/PerlAlien/Alien-GSL/issues/12
 Whim-1.2021.05.30.0                     https://github.com/jmacdotorg/whim/issues/60
-App-lcpan-1.068                         136715
+App-lcpan-1.070                         136715
 Test-Sah-Schema-0.009                   136716
 Test-Archive-Libarchive-0.01            https://github.com/uperl/Test-Archive-Libarchive/issues/2
 Amp-Client-0.03                         136762
