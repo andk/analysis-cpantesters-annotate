@@ -6823,3 +6823,4 @@ Mojo-JWT-0.09                           https://github.com/jberger/Mojo-JWT/issu
 Mojolicious-Plugin-Authentication-1.37  https://github.com/benvanstaveren/Mojolicious-Plugin-Authentication/issues/34
 WWW-Mechanize-Cached-1.55               https://github.com/libwww-perl/WWW-Mechanize-Cached/issues/27
 WWW-Mechanize-Plugin-FollowMetaRedirect-0.03 https://github.com/ryochin/p5-www-mechanize-plugin-followmetaredirect/issues/2
+Tk-Zinc-3.306                           127714
