@@ -4106,7 +4106,7 @@ HTTP-Headers-Fast-0.21                  https://github.com/tokuhirom/HTTP-Header
 Acme-AtIncPolice-0.01                   https://github.com/ytnobody/p5-Acme-AtIncPolice/issues/1
 JSON-Parse-0.55_02                      https://github.com/benkasminbullock/JSON-Parse/issues/40
 Sub-Fp-0.39                             127672
-Test-WWW-Simple-0.40                    125651,142012
+Test-WWW-Simple-0.40                    125651,142012,142663
 Catalyst-Plugin-InjectionHelpers-0.014  https://github.com/jjn1056/Catalyst-Plugin-InjectionHelpers/issues/2
 Dancer-Plugin-SporeDefinitionControl-0.18 84948,142092
 App-SimpleScan-3.01                     128379
