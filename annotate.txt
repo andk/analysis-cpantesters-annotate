@@ -6821,3 +6821,4 @@ Java-2Perl6API-0.11                     142651
 Math-Calc-Parser-1.005                  https://github.com/Grinnz/Math-Calc-Parser/issues/4,https://github.com/Grinnz/Math-Calc-Parser/issues/5
 Mojo-JWT-0.09                           https://github.com/jberger/Mojo-JWT/issues/11
 Mojolicious-Plugin-Authentication-1.37  https://github.com/benvanstaveren/Mojolicious-Plugin-Authentication/issues/34
+WWW-Mechanize-Cached-1.55               https://github.com/libwww-perl/WWW-Mechanize-Cached/issues/27
