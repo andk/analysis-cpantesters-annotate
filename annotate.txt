@@ -6826,3 +6826,6 @@ WWW-Mechanize-Plugin-FollowMetaRedirect-0.03 https://github.com/ryochin/p5-www-m
 Tk-Zinc-3.306                           127714
 Sagan-Monitoring-0.0.1                  142743
 ExtUtils-MakeMaker-7.64                 https://github.com/Perl-Toolchain-Gang/ExtUtils-MakeMaker/issues/416
+HTML-SocialMeta-0.74004                 142774
+Math-FakeDD-0.02                        142775
+bignum-0.65                             142776
