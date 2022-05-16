@@ -6829,3 +6829,4 @@ ExtUtils-MakeMaker-7.64                 https://github.com/Perl-Toolchain-Gang/E
 HTML-SocialMeta-0.74004                 142774
 Math-FakeDD-0.02                        142775
 bignum-0.65                             142776
+CryptX-0.076                            https://github.com/DCIT/perl-CryptX/issues/82
