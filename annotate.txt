@@ -6831,3 +6831,4 @@ Math-FakeDD-0.02                        142775
 bignum-0.65                             142776
 CryptX-0.076                            https://github.com/DCIT/perl-CryptX/issues/82
 Cron-Sequencer-0.01                     https://github.com/Humanstate/cron-sequencer/issues/1
+Math-FakeDD-0.03                        142783
