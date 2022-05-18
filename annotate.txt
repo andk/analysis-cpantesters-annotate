@@ -6833,5 +6833,5 @@ CryptX-0.076                            https://github.com/DCIT/perl-CryptX/issu
 Cron-Sequencer-0.01                     https://github.com/Humanstate/cron-sequencer/issues/1
 Math-FakeDD-0.03                        142783
 Alien-KentSrc-0.4                       142800
-Map-Tube-Hongkong-0.02                  142812
+Map-Tube-Hongkong-0.03                  142812
 Hash-RestrictedKeys-0.02                142814
