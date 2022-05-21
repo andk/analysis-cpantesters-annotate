@@ -6838,3 +6838,4 @@ Hash-RestrictedKeys-0.02                142814
 Test2-Tools-HTTP-UA-Mojo-0.04           https://github.com/uperl/Test2-Tools-HTTP-UA-Mojo/issues/5
 MooX-Purple-0.17                        142845
 Excel-Writer-XLSX-Simple-Tabs-0.02      https://github.com/mrdvt92/perl-Excel-Writer-XLSX-Simple-Tabs/issues/1
+Power-Outlet-0.44                       https://github.com/mrdvt92/perl-Power-Outlet/issues/1
