@@ -6843,3 +6843,4 @@ Crypt-Random-1.54                       142879
 Perl-Critic-Mardem-0.02                 142880
 Dancer2-Plugin-Passphrase-3.4.0         deprecated
 Git-MoreHooks-0.015                     142950,142951
+Algorithm-QuadTree-XS-0.01              https://github.com/bbrtj/perl-algorithm-quadtree-xs/issues/1
