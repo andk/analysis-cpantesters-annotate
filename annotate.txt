@@ -6845,3 +6845,4 @@ Dancer2-Plugin-Passphrase-3.4.0         deprecated
 Git-MoreHooks-0.015                     142950,142951
 Algorithm-QuadTree-XS-0.01              https://github.com/bbrtj/perl-algorithm-quadtree-xs/issues/1
 Dist-Zilla-6.026-TRIAL                  https://github.com/rjbs/Dist-Zilla/issues/709
+ExtUtils-MakeMaker-7.65_01              143003
