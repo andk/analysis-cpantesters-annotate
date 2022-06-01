@@ -6849,3 +6849,4 @@ ExtUtils-MakeMaker-7.65_01              143003
 Net-MitDK-0.01                          143004
 Tree-RB-XS-0.06                         https://github.com/nrdvana/perl-Tree-RB-XS/issues/2
 WWW-Form-UrlEncoded-XS-0.27             https://github.com/kazeburo/WWW-Form-UrlEncoded-XS/issues/6
+POE-Component-Client-HTTP-0.949         143067
