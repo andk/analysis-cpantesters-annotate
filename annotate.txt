@@ -6853,3 +6853,4 @@ POE-Component-Client-HTTP-0.949         143067
 B-Hooks-XSUB-CallAsOp-0.02              143099
 Crypt-OpenSSL-RSA-0.32                  https://github.com/toddr/Crypt-OpenSSL-RSA/issues/31
 IPC-Locker-1.500                        https://github.com/veripool/ipc-locker/issues/13
+Math-BigInt-Lite-0.24                   143102
