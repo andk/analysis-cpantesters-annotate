@@ -6851,3 +6851,4 @@ Tree-RB-XS-0.06                         https://github.com/nrdvana/perl-Tree-RB-
 WWW-Form-UrlEncoded-XS-0.27             https://github.com/kazeburo/WWW-Form-UrlEncoded-XS/issues/6
 POE-Component-Client-HTTP-0.949         143067
 B-Hooks-XSUB-CallAsOp-0.02              143099
+Crypt-OpenSSL-RSA-0.32                  https://github.com/toddr/Crypt-OpenSSL-RSA/issues/31
