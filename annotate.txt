@@ -6855,3 +6855,4 @@ Crypt-OpenSSL-RSA-0.32                  https://github.com/toddr/Crypt-OpenSSL-R
 IPC-Locker-1.500                        https://github.com/veripool/ipc-locker/issues/13
 Math-BigInt-Lite-0.24                   143102
 Bio-GenBankParser-0.05                  143109
+PDL-Opt-Simplex-Simple-1.1              143260
