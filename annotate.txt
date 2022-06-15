@@ -6856,3 +6856,5 @@ IPC-Locker-1.500                        https://github.com/veripool/ipc-locker/i
 Math-BigInt-Lite-0.24                   143102
 Bio-GenBankParser-0.05                  143109
 PDL-Opt-Simplex-Simple-1.1              143260
+App-week-1.0204                         https://github.com/kaz-utashiro/App-week/issues/7
+SMS-Send-CZ-Bulkgate-2.002              143305
