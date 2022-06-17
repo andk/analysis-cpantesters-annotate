@@ -6859,4 +6859,4 @@ PDL-Opt-Simplex-Simple-1.1              143260
 App-week-1.0204                         https://github.com/kaz-utashiro/App-week/issues/7
 SMS-Send-CZ-Bulkgate-2.002              143305
 Dist-Zilla-PluginBundle-TestingMania-0.25 https://github.com/doherty/Dist-Zilla-PluginBundle-TestingMania/issues/20
- 
+DBIx-ParseDSN-v0.9.3                    143357
