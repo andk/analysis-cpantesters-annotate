@@ -6863,3 +6863,4 @@ DBIx-ParseDSN-v0.9.3                    143357
 Alien-Brotli-v0.2.0                     https://github.com/robrwo/perl-Alien-Brotli/issues/2
 Class-Accessor-Typed-0.03_01            https://github.com/papix/Class-Accessor-Typed/issues/5
 Proch-N50-1.4.8                         143456
+Hustle-Table-v0.5.2                     143457
