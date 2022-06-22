@@ -6864,3 +6864,4 @@ Alien-Brotli-v0.2.0                     https://github.com/robrwo/perl-Alien-Bro
 Class-Accessor-Typed-0.03_01            https://github.com/papix/Class-Accessor-Typed/issues/5
 Proch-N50-1.4.8                         143456
 Hustle-Table-v0.5.2                     143457
+Test-DiagINC-0.008                      https://github.com/Perl/perl5/issues/19883
