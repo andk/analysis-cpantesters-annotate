@@ -6872,3 +6872,6 @@ RPC-ExtDirect-3.24                      https://github.com/nohuhu/RPC-ExtDirect/
 Lingua-AR-MacArabic-0.20                143472,https://github.com/Perl/perl5/issues/19842
 Unicode-Transform-0.51                  https://github.com/Perl/perl5/issues/19842
 XS-Framework-1.5.3                      143483
+MyConf-v1.0.0                           143458
+Sub-MultiMethod-0.905                   https://github.com/tobyink/p5-sub-multimethod/issues/1
+CPAN-Site-1.16                          143488
