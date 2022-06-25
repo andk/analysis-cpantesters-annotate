@@ -6871,3 +6871,4 @@ XML-Char-0.04                           https://github.com/Perl/perl5/issues/198
 RPC-ExtDirect-3.24                      https://github.com/nohuhu/RPC-ExtDirect/issues/4
 Lingua-AR-MacArabic-0.20                143472,https://github.com/Perl/perl5/issues/19842
 Unicode-Transform-0.51                  https://github.com/Perl/perl5/issues/19842
+XS-Framework-1.5.3                      143483
