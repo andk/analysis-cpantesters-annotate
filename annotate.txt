@@ -6824,7 +6824,7 @@ Mojolicious-Plugin-Authentication-1.37  https://github.com/benvanstaveren/Mojoli
 WWW-Mechanize-Cached-1.55               https://github.com/libwww-perl/WWW-Mechanize-Cached/issues/27
 WWW-Mechanize-Plugin-FollowMetaRedirect-0.03 https://github.com/ryochin/p5-www-mechanize-plugin-followmetaredirect/issues/2
 Tk-Zinc-3.306                           127714
-Sagan-Monitoring-0.0.1                  142743
+Sagan-Monitoring-1.0.0                  142743
 ExtUtils-MakeMaker-7.64                 https://github.com/Perl-Toolchain-Gang/ExtUtils-MakeMaker/issues/416
 HTML-SocialMeta-0.74004                 142774
 Math-FakeDD-0.02                        142775
