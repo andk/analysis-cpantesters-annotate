@@ -6876,3 +6876,4 @@ MyConf-v1.0.0                           143458
 Sub-MultiMethod-0.905                   https://github.com/tobyink/p5-sub-multimethod/issues/1
 CPAN-Site-1.16                          143488
 App-Pod-0.18                            143501
+Catmandu-DBI-0.11                       https://github.com/LibreCat/Catmandu-DBI/issues/35
