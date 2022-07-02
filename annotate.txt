@@ -6878,3 +6878,4 @@ CPAN-Site-1.16                          143488
 App-Pod-0.18                            143501
 Catmandu-DBI-0.11                       https://github.com/LibreCat/Catmandu-DBI/issues/35
 WWW-Challonge-1.01                      143613
+Plack-Middleware-CSP-0.02               143623
