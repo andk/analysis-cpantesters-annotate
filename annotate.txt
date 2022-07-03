@@ -6879,3 +6879,4 @@ App-Pod-0.18                            143501
 Catmandu-DBI-0.11                       https://github.com/LibreCat/Catmandu-DBI/issues/35
 WWW-Challonge-1.01                      143613
 Plack-Middleware-CSP-0.02               143623
+Test-Rsyslog-0.06                       143631,https://github.com/Perl/perl5/issues/19883
