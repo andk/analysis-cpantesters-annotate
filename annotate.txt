@@ -6883,3 +6883,4 @@ Test-Rsyslog-0.06                       143631,https://github.com/Perl/perl5/iss
 Char-Replace-0.004                      https://github.com/atoomic/Char-Replace/issues/3
 Text-PO-v0.1.7                          https://gitlab.com/jackdeguest/Text-PO/-/issues/4
 Types-ReadOnly-0.003                    143710
+YAML-Syck-1.34                          https://github.com/Perl/perl5/issues/19939
