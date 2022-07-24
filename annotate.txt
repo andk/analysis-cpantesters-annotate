@@ -6888,3 +6888,4 @@ JSON-JQ-0.08                            https://github.com/dxma/perl5-json-jq/is
 PDL-IO-Touchstone-1.001                 https://github.com/KJ7LNW/perl-PDL-IO-Touchstone/issues/1
 Plack-App-Tags-HTML-0.05                https://github.com/michal-josef-spacek/Plack-App-Tags-HTML/issues/1
 Math-FastGF2-0.07                       https://github.com/Perl/perl5/issues/19983,143832
+Storable-Improved-v0.1.1                https://gitlab.com/jackdeguest/Storable-Improved/-/issues/1
