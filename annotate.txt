@@ -6891,3 +6891,4 @@ Math-FastGF2-0.07                       https://github.com/Perl/perl5/issues/199
 Storable-Improved-v0.1.1                https://gitlab.com/jackdeguest/Storable-Improved/-/issues/1
 Template-Compiled-0.002                 143844
 Game-Xomb-1.03                          143857
+Digest-OAT-0.04                         143858,https://github.com/Perl/perl5/issues/19983
