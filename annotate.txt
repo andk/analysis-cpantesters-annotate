@@ -2762,7 +2762,7 @@ App-UnifdefPlus-0.005.005               121135
 B-Tree-0.02                             84137
 CGI-MakeItStatic-0.03                   121137
 CGI-Untaint-upload-1.0                  121144
-Dancer2-Serializer-XML-0.05             120285
+Dancer2-Serializer-XML-0.05             120285,120286
 Test-JSON-Schema-Acceptance-0.0.2       121146
 HAM-Device-IcomCIV-0.02                 41860
 HAM-Device-IcomCIVSerialIO-0.02         121147
