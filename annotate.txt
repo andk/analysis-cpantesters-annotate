@@ -6895,3 +6895,4 @@ Digest-OAT-0.04                         143858,https://github.com/Perl/perl5/iss
 CXC-Number-0.06                         143861
 Module-Generic-v0.25.0                  https://gitlab.com/jackdeguest/Module-Generic/-/issues/3
 WebService-MusicBrainz-1.0.6            143869
+Lingua-RU-Translit-0.02                 143871,https://github.com/Perl/perl5/issues/19983
