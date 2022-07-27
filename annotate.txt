@@ -6893,3 +6893,5 @@ Template-Compiled-0.002                 143844
 Game-Xomb-1.03                          143857
 Digest-OAT-0.04                         143858,https://github.com/Perl/perl5/issues/19983
 CXC-Number-0.06                         143861
+Module-Generic-v0.25.0                  https://gitlab.com/jackdeguest/Module-Generic/-/issues/3
+WebService-MusicBrainz-1.0.6            143869
