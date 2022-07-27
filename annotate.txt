@@ -6263,7 +6263,7 @@ CodeGen-Protection-0.03                 https://github.com/Ovid/codegen-protecti
 Colouring-In-0.24                       135223
 Perlmazing-1.2815                       135224,135225
 Perlmazing-1.2816                       135229
-Const-Exporter-v1.1.2                   https://github.com/robrwo/Const-Exporter/issues/15
+Const-Exporter-v1.1.7                   https://github.com/robrwo/Const-Exporter/issues/15
 Graphics-TIFF-12                        122933
 Minion-Backend-Redis-0.002              https://github.com/Difegue/Minion-Backend-Redis/issues/1
 Mojo-IOLoop-ReadWriteFork-1.01          https://github.com/jhthorsen/mojo-ioloop-readwritefork/issues/18
