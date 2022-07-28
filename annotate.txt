@@ -6898,3 +6898,4 @@ WebService-MusicBrainz-1.0.6            143869
 Lingua-RU-Translit-0.02                 143871,https://github.com/Perl/perl5/issues/19983
 Locale-Hebrew-1.05                      https://github.com/Perl/perl5/issues/19983,143880
 Locale-Utils-PluralForms-0.002          143879
+Acme-AwesomeQuotes-0.02                 143885,https://github.com/Perl/perl5/issues/20009
