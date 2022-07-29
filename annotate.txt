@@ -6582,7 +6582,7 @@ File-Find-utf8-0.013                    https://github.com/HayoBaan/File-Find-ut
 Dancer2-Plugin-Passphrase-3.3.4         https://github.com/PerlDancer/Dancer2-Plugin-Passphrase/issues/5
 Thread-Resource-RWLock-2.01             101977
 Date-Tiny-1.07                          https://github.com/dagolden/Date-Tiny/issues/2
-Sereal-Encoder-4.022                    https://github.com/Sereal/Sereal/issues/270
+Sereal-Encoder-4.025                    https://github.com/Sereal/Sereal/issues/259
 Net-AMQP-RabbitMQ-2.40009               https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq/issues/220,https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq/issues/227
 Async-Microservice-0.02                 141376
 Finance-Alpaca-0.9906                   https://github.com/sanko/Finance-Alpaca/issues/3
