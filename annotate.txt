@@ -6901,3 +6901,4 @@ Locale-Utils-PluralForms-0.002          143879
 Acme-AwesomeQuotes-0.02                 143885,https://github.com/Perl/perl5/issues/20009
 Text-Xslate-Bridge-TypeDeclaration-0.13 https://github.com/pokutuna/p5-Text-Xslate-Bridge-TypeDeclaration/issues/11
 App-optex-pingu-0.02                    https://github.com/kaz-utashiro/optex-pingu/issues/1
+Smart-Args-TypeTiny-0.12                https://github.com/akiym/Smart-Args-TypeTiny/issues/2
