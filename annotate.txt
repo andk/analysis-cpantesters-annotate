@@ -6902,3 +6902,4 @@ Acme-AwesomeQuotes-0.02                 143885,https://github.com/Perl/perl5/iss
 Text-Xslate-Bridge-TypeDeclaration-0.13 https://github.com/pokutuna/p5-Text-Xslate-Bridge-TypeDeclaration/issues/11
 App-optex-pingu-0.02                    https://github.com/kaz-utashiro/optex-pingu/issues/1
 Smart-Args-TypeTiny-0.12                https://github.com/akiym/Smart-Args-TypeTiny/issues/2
+Cpanel-JSON-XS-4.30                     https://github.com/rurban/Cpanel-JSON-XS/issues/198
