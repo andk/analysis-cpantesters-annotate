@@ -6908,3 +6908,4 @@ App-Git-Workflow-v1.1.20                https://github.com/ivanwills/git-workflo
 HTTP-Promise-v0.1.5                     143949
 Promise-Me-v0.4.1                       https://gitlab.com/jackdeguest/Promise-Me/-/issues/1,https://gitlab.com/jackdeguest/Promise-Me/-/issues/2
 Test-PerlTidy-20210709                  https://github.com/shlomif/Test-PerlTidy/issues/7
+MooX-Press-0.086                        https://github.com/tobyink/p5-moox-press/issues/2
