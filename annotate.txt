@@ -6904,3 +6904,4 @@ App-optex-pingu-0.02                    https://github.com/kaz-utashiro/optex-pi
 Smart-Args-TypeTiny-0.12                https://github.com/akiym/Smart-Args-TypeTiny/issues/2
 Cpanel-JSON-XS-4.30                     https://github.com/rurban/Cpanel-JSON-XS/issues/198
 Form-Tiny-2.13                          https://github.com/bbrtj/perl-form-tiny/issues/5
+App-Git-Workflow-v1.1.20                https://github.com/ivanwills/git-workflow-tools/issues/13
