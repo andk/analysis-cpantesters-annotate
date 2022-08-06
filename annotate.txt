@@ -6906,3 +6906,5 @@ Cpanel-JSON-XS-4.30                     https://github.com/rurban/Cpanel-JSON-XS
 Form-Tiny-2.13                          https://github.com/bbrtj/perl-form-tiny/issues/5
 App-Git-Workflow-v1.1.20                https://github.com/ivanwills/git-workflow-tools/issues/13
 HTTP-Promise-v0.1.5                     143949
+Promise-Me-v0.4.1                       https://gitlab.com/jackdeguest/Promise-Me/-/issues/1,https://gitlab.com/jackdeguest/Promise-Me/-/issues/2
+Test-PerlTidy-20210709                  https://github.com/shlomif/Test-PerlTidy/issues/7
