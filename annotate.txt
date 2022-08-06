@@ -6905,3 +6905,4 @@ Smart-Args-TypeTiny-0.12                https://github.com/akiym/Smart-Args-Type
 Cpanel-JSON-XS-4.30                     https://github.com/rurban/Cpanel-JSON-XS/issues/198
 Form-Tiny-2.13                          https://github.com/bbrtj/perl-form-tiny/issues/5
 App-Git-Workflow-v1.1.20                https://github.com/ivanwills/git-workflow-tools/issues/13
+HTTP-Promise-v0.1.5                     143949
