@@ -6909,3 +6909,4 @@ HTTP-Promise-v0.1.5                     143949
 Promise-Me-v0.4.1                       https://gitlab.com/jackdeguest/Promise-Me/-/issues/1,https://gitlab.com/jackdeguest/Promise-Me/-/issues/2
 Test-PerlTidy-20210709                  https://github.com/shlomif/Test-PerlTidy/issues/7
 MooX-Press-0.086                        https://github.com/tobyink/p5-moox-press/issues/2
+Variable-Declaration-0.04               https://github.com/kfly8/p5-Variable-Declaration/issues/9
