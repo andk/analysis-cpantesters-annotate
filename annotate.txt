@@ -6911,3 +6911,4 @@ Test-PerlTidy-20210709                  https://github.com/shlomif/Test-PerlTidy
 MooX-Press-0.086                        https://github.com/tobyink/p5-moox-press/issues/2
 Variable-Declaration-0.04               https://github.com/kfly8/p5-Variable-Declaration/issues/9
 Form-Tiny-Plugin-Diva-1.02              https://github.com/bbrtj/perl-form-tiny-plugin-diva/issues/1
+Test-FITesque-RDF-0.018                 https://github.com/kjetilk/p5-test-fitesque-rdf/issues/11
