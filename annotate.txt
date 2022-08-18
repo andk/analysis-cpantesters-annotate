@@ -6915,3 +6915,4 @@ Test-FITesque-RDF-0.018                 https://github.com/kjetilk/p5-test-fites
 Sys-Proctitle-0.04                      https://github.com/Perl/perl5/issues/20088,144009
 WWW-Mechanize-FormFiller-0.12           144025
 Venus-1.21                              144037
+Curses-1.40                             144044
