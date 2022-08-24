@@ -6916,3 +6916,4 @@ Sys-Proctitle-0.04                      https://github.com/Perl/perl5/issues/200
 WWW-Mechanize-FormFiller-0.12           144025
 Venus-1.21                              144037
 Curses-1.40                             144044
+MooX-Role-CachedURL-0.07                144086
