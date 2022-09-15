@@ -6920,3 +6920,4 @@ MooX-Role-CachedURL-0.07                144086
 OpenPlugin-0.11                         144076
 Mojo-DOM-Role-Style-0.002               144211
 Faker-1.10                              https://github.com/awncorp/faker/issues/26
+SPVM-IO-0.09                            144335
