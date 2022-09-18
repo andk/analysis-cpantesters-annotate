@@ -6922,3 +6922,6 @@ Mojo-DOM-Role-Style-0.002               144211
 Faker-1.10                              https://github.com/awncorp/faker/issues/26
 SPVM-IO-0.09                            144335
 MarpaX-ESLIF-6.0.26                     https://github.com/jddurand/c-marpaESLIF/issues/14
+Algorithm-LCS-XS-v2.0.1                 144366
+Business-OnlinePayment-IPPay-0.12       144367
+Lemonldap-NG-Manager-2.0.15.1           https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng/-/issues/2798
