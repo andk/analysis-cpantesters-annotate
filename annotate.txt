@@ -6926,3 +6926,4 @@ Algorithm-LCS-XS-v2.0.1                 144366
 Business-OnlinePayment-IPPay-0.12       144367
 Lemonldap-NG-Manager-2.0.15.1           https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng/-/issues/2798
 RF-Functions-0.01                       https://github.com/mrdvt92/perl-RF-Functions/issues/1
+Tags-HTML-Pager-0.01                    https://github.com/michal-josef-spacek/Tags-HTML-Pager/issues/1
