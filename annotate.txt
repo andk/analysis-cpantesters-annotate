@@ -6925,3 +6925,4 @@ MarpaX-ESLIF-6.0.26                     https://github.com/jddurand/c-marpaESLIF
 Algorithm-LCS-XS-v2.0.1                 144366
 Business-OnlinePayment-IPPay-0.12       144367
 Lemonldap-NG-Manager-2.0.15.1           https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng/-/issues/2798
+RF-Functions-0.01                       https://github.com/mrdvt92/perl-RF-Functions/issues/1
