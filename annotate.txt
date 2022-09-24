@@ -6928,3 +6928,4 @@ Lemonldap-NG-Manager-2.0.15.1           https://gitlab.ow2.org/lemonldap-ng/lemo
 RF-Functions-0.01                       https://github.com/mrdvt92/perl-RF-Functions/issues/1
 Tags-HTML-Pager-0.01                    https://github.com/michal-josef-spacek/Tags-HTML-Pager/issues/1,https://github.com/michal-josef-spacek/Tags-HTML-Pager/issues/2
 WebFetch-0.15.2                         https://github.com/ikluft/WebFetch/issues/1
+Devel-Dumpvar-1.06                      https://github.com/Perl/perl5/issues/20345
