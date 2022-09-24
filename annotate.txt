@@ -6936,3 +6936,4 @@ BenchmarkAnything-Schema-0.004          https://github.com/Perl/perl5/issues/203
 Mojolicious-Plugin-RenderCGI-0.102      https://github.com/Perl/perl5/issues/20346
 Devel-Caller-2.06                       https://github.com/Perl/perl5/issues/20114
 Bio-ToolBox-1.69                        144444,144445
+Future-AsyncAwait-0.59                  144446
