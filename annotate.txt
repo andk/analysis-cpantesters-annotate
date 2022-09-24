@@ -6930,3 +6930,4 @@ Tags-HTML-Pager-0.01                    https://github.com/michal-josef-spacek/T
 WebFetch-0.15.2                         https://github.com/ikluft/WebFetch/issues/1
 Devel-Dumpvar-1.06                      https://github.com/Perl/perl5/issues/20345
 File-AptFetch-0.1.14                    https://github.com/Perl/perl5/issues/20207
+Log-Log4perl-1.56                       https://github.com/Perl/perl5/issues/20207,https://github.com/mschilli/log4perl/pull/119
