@@ -5724,7 +5724,7 @@ CPAN-Mini-Inject-Remote-0.04            132656
 tidyview-1.14                           86931
 Quiq-1.182                              132660
 Module-Generic-v0.12.7                  132667,132671
-Data-Dumper-Compact-0.005002            132665
+Data-Dumper-Compact-0.006000            132665
 Tk-Clock-0.41                           132669
 XML-Bare-SAX-Parser-0.01                132679
 LibTerm-GetKey-1.02                     132680
