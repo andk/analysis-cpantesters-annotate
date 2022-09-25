@@ -6941,3 +6941,4 @@ MooseX-Extended-0.32                    https://github.com/Ovid/moosex-extended/
 Net-HTTPS-Any-0.12                      144461
 Net-IMAP-Server-1.39                    144462
 Net-MBE-0.2.2                           144463
+Test-HTTP-0.19                          144464
