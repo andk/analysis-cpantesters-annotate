@@ -3953,7 +3953,7 @@ Geo-SpatialDB-0.000_001                 out of memory, non-portable hex numbers,
 Log-Fine-0.65                           127936,112922
 Mojo-Redis-Processor-0.07               https://github.com/binary-com/perl-Mojo-Redis-Processor/issues/9
 Net-Async-WebSocket-0.13                127937
-Net-Dropbear-0.12                       https://github.com/atrodo/Net-Dropbear/issues/4
+Net-Dropbear-0.16                       https://github.com/atrodo/Net-Dropbear/issues/4
 Net-Evernote-Simple-0.07                127938
 Plack-Handler-Stomp-1.14                127939,131480
 Test-WWW-Mechanize-1.52                 https://github.com/petdance/test-www-mechanize/issues/65
