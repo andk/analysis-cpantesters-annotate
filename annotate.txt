@@ -6944,3 +6944,4 @@ Net-MBE-0.2.2                           144463
 Test-HTTP-0.19                          144464
 Data-Sah-Coerce-0.053                   144472
 String-SQLColumnName-0.003              144473
+HTML-Mason-1.59                         https://github.com/Perl/perl5/issues/20346
