@@ -6948,3 +6948,4 @@ HTML-Mason-1.59                         https://github.com/Perl/perl5/issues/203
 Quote-Ref-0.03                          https://github.com/Perl/perl5/issues/20346
 Sub-Documentation-1.100880              https://github.com/Perl/perl5/issues/20346
 Moove-0.006                             https://github.com/zurborg/libmoove-perl/issues/3
+Coerce-Types-Standard-0.000007          144542
