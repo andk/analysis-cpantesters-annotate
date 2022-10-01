@@ -6955,3 +6955,4 @@ Log-Procmail-0.12                       https://github.com/Perl/perl5/issues/202
 Test-HTTP-0.22                          144585
 SPVM-Sys-0.07                           144586,144587
 Time-Zone-Olson-0.42                    https://github.com/david-dick/time-zone-olson/issues/1
+Perinci-Access-Perl-0.898               144588
