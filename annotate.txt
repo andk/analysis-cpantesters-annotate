@@ -6957,3 +6957,4 @@ SPVM-Sys-0.07                           144586,144587
 Time-Zone-Olson-0.42                    https://github.com/david-dick/time-zone-olson/issues/1
 Perinci-Access-Perl-0.898               144588
 Safe-2.35                               103852
+MoobX-0.1.0                             https://github.com/yanick/MoobX/issues/7
