@@ -6958,3 +6958,5 @@ Time-Zone-Olson-0.42                    https://github.com/david-dick/time-zone-
 Perinci-Access-Perl-0.898               144588
 Safe-2.35                               103852
 MoobX-0.1.0                             https://github.com/yanick/MoobX/issues/7
+Novel-Robot-0.42                        144599,144601
+HTTP-CryptoCookie-1.14                  144620
