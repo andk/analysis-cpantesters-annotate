@@ -6962,3 +6962,7 @@ Novel-Robot-0.42                        144599,144601
 HTTP-CryptoCookie-1.14                  144620
 MLPerl-0.101000                         144644
 App-Gimei-v0.1.1                        https://github.com/youpong/App-Gimei/issues/1
+Function-Interface-0.06                 https://github.com/kfly8/p5-Function-Interface/issues/14
+Google-RestApi-1.0.2                    144648
+HTML-HTML5-Microdata-Parser-0.100       144649
+AI-Pathfinding-OptimizeMultiple-0.0.16  144651
