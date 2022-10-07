@@ -6969,3 +6969,7 @@ AI-Pathfinding-OptimizeMultiple-0.0.16  144651
 WebDyne-1.250                           144660
 routines-0.02                           144663
 AI-ParticleSwarmOptimization-MCE-1.000  144679
+RDF-Closure-0.001                       144680
+RDF-Query-Functions-Buzzword-DateTime-0.002 144681
+RDF-Query-Functions-Buzzword-GB-0.002   144682
+RDF-Query-Functions-Buzzword-Util-0.003 144683
