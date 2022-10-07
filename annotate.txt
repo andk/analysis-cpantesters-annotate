@@ -1870,7 +1870,7 @@ Task-BeLike-RJRAY-0.009                 115909
 QBit-Application-0.011                  115878
 Regexp-Whitespace-0.001_1-TRIAL         fails for perl >= 5.18, no issue tracker
 MooseX-Getopt-0.71                      four fails with dated toolchain, reported and fixed
-Perl6-Pod-0.74                          116024
+Perl6-Pod-0.74                          116024,144687
 Test-Dependencies-0.21                  https://github.com/ehuelsmann/perl-Test-Dependencies/issues/5
 Plift-0.01                              https://github.com/cafe01/template-plift/issues/1
 Math-BigInt-1.999725                    116123
