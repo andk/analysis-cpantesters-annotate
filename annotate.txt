@@ -6973,3 +6973,8 @@ RDF-Closure-0.001                       144680
 RDF-Query-Functions-Buzzword-DateTime-0.002 144681
 RDF-Query-Functions-Buzzword-GB-0.002   144682
 RDF-Query-Functions-Buzzword-Util-0.003 144683
+Graph-Undirected-Hamiltonicity-0.16     https://github.com/ownlifeful/Graph-Undirected-Hamiltonicity/issues/7
+App-Phoebe-4.05                         144684
+App-hopen-0.000010                      https://github.com/hopenbuild/App-hopen/issues/9
+CPAN-Mini-Inject-0.35                   144685
+Date-Holidays-1.33                      https://github.com/jonasbn/perl-date-holidays/issues/76
