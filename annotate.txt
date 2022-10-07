@@ -6978,3 +6978,6 @@ App-Phoebe-4.05                         144684
 App-hopen-0.000010                      https://github.com/hopenbuild/App-hopen/issues/9
 CPAN-Mini-Inject-0.35                   144685
 Date-Holidays-1.33                      https://github.com/jonasbn/perl-date-holidays/issues/76
+Printer-ESCPOS-PDF-0.003                https://github.com/sonntagd/Printer-ESCPOS-PDF/issues/1
+Tripletail-0.65                         144688
+Type-TinyX-Facets-0.03                  144481
