@@ -6994,3 +6994,6 @@ Geo-Gpx-1.01                            144710
 Data-Alias-1.25                         https://github.com/Perl/perl5/issues/20374
 X11-Protocol-0.56                       144711
 App-ClusterSSH-4.16                     https://github.com/duncs/clusterssh/issues/148,https://github.com/Perl/perl5/issues/20376
+Eixo-Base-1.511                         https://github.com/Perl/perl5/issues/20377
+Catmandu-1.2019                         https://github.com/Perl/perl5/issues/20378
+Devel-Cover 1.38                        https://github.com/Perl/perl5/issues/19869
