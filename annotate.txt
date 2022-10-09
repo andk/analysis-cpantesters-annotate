@@ -6997,3 +6997,5 @@ App-ClusterSSH-4.16                     https://github.com/duncs/clusterssh/issu
 Eixo-Base-1.511                         https://github.com/Perl/perl5/issues/20377
 Catmandu-1.2019                         https://github.com/Perl/perl5/issues/20378
 Devel-Cover 1.38                        https://github.com/Perl/perl5/issues/19869
+RDF-RDFa-Linter-0.053                   144719
+XML-GRDDL-0.004                         144720
