@@ -6984,7 +6984,7 @@ Type-TinyX-Facets-0.03                  144481
 Devel-MAT-Tool-Future-0.02              144689
 App-Greple-subst-2.3103                 https://github.com/kaz-utashiro/greple-subst/issues/2
 Geo-Gpx-1.00                            144692
-Weather-GHCN-Fetch-v0.0.004             144693
+Weather-GHCN-Fetch-v0.0.005             144693
 IO-FD-0.1.0                             144694
 Intertangle-API-Gtk3-0.005              144695
 Schedule-Cron-1.03                      144697
