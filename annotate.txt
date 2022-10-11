@@ -7004,3 +7004,4 @@ Math-Numerical-0.03                     https://github.com/mkende/math_numerical
 XS-Parse-Keyword-0.25                   https://github.com/Perl/perl5/issues/20384,144757
 XS-Parse-Sublike-0.16                   https://github.com/Perl/perl5/issues/20384
 Function-Parameters-2.001003            https://github.com/Perl/perl5/issues/20384
+LWP-Curl-0.14                           144758
