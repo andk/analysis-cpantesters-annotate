@@ -7000,3 +7000,4 @@ Devel-Cover 1.38                        https://github.com/Perl/perl5/issues/198
 RDF-RDFa-Linter-0.053                   144719
 XML-GRDDL-0.004                         144720
 App-VTide-v0.1.18                       144730
+Math-Numerical-0.03                     https://github.com/mkende/math_numerical/issues/2,https://github.com/mkende/math_numerical/issues/3
