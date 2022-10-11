@@ -7005,3 +7005,5 @@ XS-Parse-Keyword-0.25                   https://github.com/Perl/perl5/issues/203
 XS-Parse-Sublike-0.16                   https://github.com/Perl/perl5/issues/20384
 Function-Parameters-2.001003            https://github.com/Perl/perl5/issues/20384
 LWP-Curl-0.14                           144758
+Data-Commons-Image-0.01                 https://github.com/michal-josef-spacek/Data-Commons-Image/issues/1
+Data-Image-0.01                         https://github.com/michal-josef-spacek/Data-Image/issues/1
