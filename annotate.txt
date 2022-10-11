@@ -7003,3 +7003,4 @@ App-VTide-v0.1.18                       144730
 Math-Numerical-0.03                     https://github.com/mkende/math_numerical/issues/2,https://github.com/mkende/math_numerical/issues/3
 XS-Parse-Keyword-0.25                   https://github.com/Perl/perl5/issues/20384,144757
 XS-Parse-Sublike-0.16                   https://github.com/Perl/perl5/issues/20384
+Function-Parameters-2.001003            https://github.com/Perl/perl5/issues/20384
