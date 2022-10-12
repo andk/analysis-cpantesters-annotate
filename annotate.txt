@@ -2672,7 +2672,7 @@ Cookieville-0.06                        https://github.com/jhthorsen/cookieville
 Flower-0.10                             119828
 WWW-Eksi-0.22                           119862
 DBIx-Class-Helper-ResultSet-CrossTab-0.007 119864,119865
-Graphics-GVG-SVG-0.4                    119578
+Graphics-GVG-SVG-0.4                    119578,144764
 KeyedMutex-0.06                         119867
 FFI-TinyCC-0.29                         https://github.com/plicease/FFI-TinyCC/issues/6
 Statocles-0.081                         https://github.com/preaction/Statocles/issues/526
