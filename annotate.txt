@@ -7009,3 +7009,4 @@ Data-Commons-Image-0.01                 https://github.com/michal-josef-spacek/D
 Data-Image-0.01                         https://github.com/michal-josef-spacek/Data-Image/issues/1
 App-MysqlUtils-0.021                    144763
 Geo-TCX-1.00                            144770,144771
+Catalyst-Model-YouTube-0.14             66962
