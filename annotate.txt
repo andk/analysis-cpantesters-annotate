@@ -7013,3 +7013,4 @@ Catalyst-Model-YouTube-0.14             66962
 Dancer-Plugin-Thumbnail-0.16            144783
 WebService-FOAAS-0.002                  144784
 Zapp-0.005                              https://github.com/preaction/Zapp/issues/1
+IRC-Indexer-0.06                        144785
