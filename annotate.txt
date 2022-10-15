@@ -7028,3 +7028,7 @@ Locale-Simple-0.019                     144803
 Net-SMS-TxtLocal-0.03                   144804
 Text-Match-20201221                     https://github.com/philiprbrenan/TextMatch/issues/1
 Text-Xslate-Syntax-HTMLTemplate-0.1005  144812
+Net-HTTP-Spore-0.09                     144813
+PDF-Cairo-1.05                          144814
+Test-APIcast-0.24                       https://github.com/3scale/Test-APIcast/issues/23
+WebService-Plotly-1.133400              https://github.com/plotly/Perl-API/issues/2
