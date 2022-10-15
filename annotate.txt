@@ -7026,3 +7026,5 @@ Crypt-Perl-0.37                         144801
 Lingua-Phonology-0.352                  144802
 Locale-Simple-0.019                     144803
 Net-SMS-TxtLocal-0.03                   144804
+Text-Match-20201221                     https://github.com/philiprbrenan/TextMatch/issues/1
+Text-Xslate-Syntax-HTMLTemplate-0.1005  144812
