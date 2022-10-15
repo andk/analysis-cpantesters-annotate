@@ -6760,7 +6760,7 @@ XMLNews-Meta-0.01                       142060
 Crypt-OpenSSL-Base-Func-0.035           https://github.com/abbypan/Crypt-OpenSSL-Base-Func/issues/3,https://github.com/abbypan/Crypt-OpenSSL-Base-Func/issues/4
 Blessed-Merge-1.00                      142080
 Sentry-SDK-v1.1.0                       https://github.com/heiseonline/perl-sentry-sdk/issues/13
-Algorithm-LibLinear-0.24                142090
+Algorithm-LibLinear-0.25                142090
 Dancer2-Plugin-FormValidator-0.22       https://github.com/AlexP007/dancer2-plugin-formvalidator/issues/4
 HTML-T5-0.012                           https://github.com/shlomif/html-tidy5/issues/6
 Plack-App-Data-Printer-0.02             https://github.com/michal-josef-spacek/Plack-App-Data-Printer/issues/1
