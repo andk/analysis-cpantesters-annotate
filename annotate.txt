@@ -7034,3 +7034,5 @@ Test-APIcast-0.24                       https://github.com/3scale/Test-APIcast/i
 WebService-Plotly-1.133400              https://github.com/plotly/Perl-API/issues/2
 Serge-Sync-Plugin-TranslationService-Smartcat-0.0.6 https://github.com/smartcatai/smartcat-serge-sync-plugin/issues/17
 X11-XCB-0.19                            144815
+Couchbase-2.0.3                         144820
+WWW-Search-Ebay-3.056                   144828
