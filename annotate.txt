@@ -494,7 +494,7 @@ Params-Validate-Array-0.03              94420
 Mojolicious-Plugin-Airbrake-0.01        94787
 Prancer-0.04                            94886
 B-Hooks-OP-Check-EntersubForCV-0.09     94945
-Portable-1.22                           95031
+Portable-1.23                           95031
 Interface-Validation-0.01_01            https://github.com/alnewkirk/Interface-Validation/issues/1
 Search-Query-Dialect-DBIxClass-0.005    95087
 Tie-Array-QueueExpire-1.04              95090
