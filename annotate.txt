@@ -7037,3 +7037,7 @@ X11-XCB-0.19                            144815
 Couchbase-2.0.3                         144820
 WWW-Search-Ebay-3.056                   144828
 ETL-Yertl-0.044                         https://github.com/preaction/ETL-Yertl/issues/165
+Lyrics-Fetcher-LyricsTranslate-0.002001 144835
+Email-Simple-Markdown-0.7.2             https://github.com/yanick/Email-Simple-Markdown/issues/9
+Sport-Analytics-NHL-1.53                144838
+WWW-Shopify-Liquid-0.08                 144839
