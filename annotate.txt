@@ -7047,3 +7047,4 @@ Sniffer-HTTP-0.26                       144847
 Weather-NHC-TropicalCyclone-0.34        144850
 HTML-AccountAutoDiscovery-0.06          144851
 OpenAPI-Client-1.06                     https://github.com/jhthorsen/openapi-client/issues/41
+Data-Chronicle-0.21                     https://github.com/binary-com/perl-Data-Chronicle/issues/31
