@@ -6193,7 +6193,7 @@ Sub-Meta-0.08                           https://github.com/kfly8/p5-Sub-Meta/iss
 Linux-Sys-CPU-Affinity-0.11             134767
 Starlet-0.31                            134768
 Selenium-Remote-Driver-1.41             https://github.com/teodesian/Selenium-Remote-Driver/issues/465
-Mojolicious-Plugin-Prove-0.11           https://github.com/reneeb/Mojolicious-Plugin-Prove/issues/4
+Mojolicious-Plugin-Prove-0.11           https://github.com/reneeb/Mojolicious-Plugin-Prove/issues/4,https://github.com/reneeb/Mojolicious-Plugin-Prove/issues/5
 OpenGbg-0.1404                          https://github.com/Csson/p5-OpenGbg/issues/4
 Geo-GDAL-FFI-0.08                       https://github.com/ajolma/Geo-GDAL-FFI/issues/41
 Alien-libsnappy-0.04                    134770
