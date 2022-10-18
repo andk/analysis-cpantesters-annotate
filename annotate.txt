@@ -7046,3 +7046,4 @@ HTTP-Request-FromLog-0.00002            144841
 Sniffer-HTTP-0.26                       144847
 Weather-NHC-TropicalCyclone-0.34        144850
 HTML-AccountAutoDiscovery-0.06          144851
+OpenAPI-Client-1.06                     https://github.com/jhthorsen/openapi-client/issues/41
