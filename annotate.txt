@@ -7051,3 +7051,6 @@ Data-Chronicle-0.21                     https://github.com/binary-com/perl-Data-
 Test-Continuous-0.76                    144853
 Cfn-0.14                                https://github.com/pplu/cfn-perl/issues/72
 SPVM-Sys-0.13                           144587
+App-DocKnot-7.01                        https://github.com/rra/docknot/issues/6
+Bio-KEGG-API-0.02                       144861
+Linux-Distribution-0.23                 144862
