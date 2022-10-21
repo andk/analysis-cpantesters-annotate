@@ -7063,3 +7063,4 @@ Kelp-Module-Sereal-1.01                 https://github.com/bbrtj/perl-kelp-modul
 Thrall-0.0305                           https://github.com/dex4er/Thrall/issues/10
 DISCO-0.01                              144886
 Math-FakeDD-0.06                        144891
+B-Deobfuscate-0.20                      144894
