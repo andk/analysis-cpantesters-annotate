@@ -7061,3 +7061,4 @@ Apache2-SSI-v0.2.5                      144879
 Starlight-0.0400                        https://github.com/dex4er/Starlight/issues/5
 Kelp-Module-Sereal-1.01                 https://github.com/bbrtj/perl-kelp-module-sereal/issues/1
 Thrall-0.0305                           https://github.com/dex4er/Thrall/issues/10
+DISCO-0.01                              144886
