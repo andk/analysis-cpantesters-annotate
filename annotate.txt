@@ -7056,3 +7056,8 @@ Bio-KEGG-API-0.02                       144861
 Linux-Distribution-0.23                 144862
 Game-NURBS-0.1.13                       144873
 WWW-WTF-0.7                             144881
+Alien-CSFML-v0.0.4                      https://github.com/sanko/alien-csfml/issues/1,https://github.com/sanko/alien-csfml/issues/2
+Apache2-SSI-v0.2.5                      144879
+Starlight-0.0400                        https://github.com/dex4er/Starlight/issues/5
+Kelp-Module-Sereal-1.01                 https://github.com/bbrtj/perl-kelp-module-sereal/issues/1
+Thrall-0.0305                           https://github.com/dex4er/Thrall/issues/10
