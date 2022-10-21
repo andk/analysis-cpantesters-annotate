@@ -4842,7 +4842,7 @@ App-PDF-Link-0.23                       130182
 Data-Sah-Coerce-perl-date-str_alami_en-0.009 130183
 Geo-Address-Formatter-1.78              130195
 Time-Format-1.15                        130208
-POE-Component-WWW-Google-Calculator-0.03 130209
+POE-Component-WWW-Google-Calculator-0.03 130209,144895
 CatalystX-Plugin-Blurb-0.03             130214
 Catalyst-Plugin-Authentication-Credential-HTTP-0.13 130215
 Catalyst-Plugin-Authentication-Store-HTTP-0.05 130216
