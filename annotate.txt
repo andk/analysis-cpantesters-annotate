@@ -7067,3 +7067,4 @@ B-Deobfuscate-0.20                      144894
 HTML-Laundry-0.0107                     https://github.com/snark/html-laundry/issues/9
 Metabrik-Repository-1.42                144897
 App-Music-ChordPro-5.989                https://github.com/ChordPro/chordpro/issues/256
+cPanel-APIClient-0.09                   https://github.com/cpanel/p5-cPanel-APIClient/issues/8
