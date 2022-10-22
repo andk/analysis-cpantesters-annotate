@@ -5580,7 +5580,7 @@ Music-Scala-1.05                        132164
 Config-File-1.51                        132165
 Primesieve-0.01                         132185
 DBIx-Class-0.082841                     https://github.com/Perl/perl5/issues/17663
-App-Framework-Lite-1.09                 https://github.com/Perl/perl5/issues/17663
+App-Framework-Lite-1.09                 https://github.com/Perl/perl5/issues/17663,132190
 CGI-ProgressBar-0.05                    https://github.com/Perl/perl5/issues/17663,132189
 EAV-XS-0.3.2                            132187,132192
 MetaMap-DataStructures-0.05             132194
