@@ -7070,3 +7070,4 @@ App-Music-ChordPro-5.989                https://github.com/ChordPro/chordpro/iss
 cPanel-APIClient-0.09                   https://github.com/cpanel/p5-cPanel-APIClient/issues/8
 Digest-UserSID-1.05                     144899
 RedisDB-2.57                            https://github.com/p5-RedisDB/RedisDB/issues/45
+Gpx-Addons-Filter-0.04                  144901
