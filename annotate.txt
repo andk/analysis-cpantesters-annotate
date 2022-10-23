@@ -7073,3 +7073,4 @@ RedisDB-2.57                            https://github.com/p5-RedisDB/RedisDB/is
 Gpx-Addons-Filter-0.04                  144901
 Dist-Zilla-Plugin-EnsureLatestPerl-0.008 144904
 Dist-Zilla-Plugin-UseUnsafeInc-0.001    144905
+Module-Extract-VERSION-1.115            https://github.com/Perl/perl5/issues/20255
