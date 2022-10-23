@@ -7072,3 +7072,4 @@ Digest-UserSID-1.05                     144899
 RedisDB-2.57                            https://github.com/p5-RedisDB/RedisDB/issues/45
 Gpx-Addons-Filter-0.04                  144901
 Dist-Zilla-Plugin-EnsureLatestPerl-0.008 144904
+Dist-Zilla-Plugin-UseUnsafeInc-0.001    144905
