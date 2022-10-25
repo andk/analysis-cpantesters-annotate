@@ -7079,3 +7079,5 @@ Log-Dispatch-File-Stamped-0.20          144903
 Zydeco-0.617                            https://github.com/tobyink/p5-zydeco/issues/13,https://github.com/tobyink/p5-zydeco/issues/14
 DateTime-1.58                           https://github.com/houseabsolute/DateTime-Locale/issues/34
 Net-Yadis-1.0                           144917
+Email-Valid-1.203                       https://github.com/Perl-Email-Project/Email-Valid/issues/53
+Net-Gemini-0.01                         144920,144921
