@@ -7084,3 +7084,4 @@ Net-Gemini-0.01                         144920,144921
 Git-Raw-0.89                            https://github.com/jacquesg/p5-Git-Raw/issues/225,https://github.com/jacquesg/p5-Git-Raw/issues/226
 Test2-Tools-Rustfmt-0.02                https://github.com/uperl/Test2-Tools-Rustfmt/issues/3
 Future-Queue-0.49                       144931
+WebFetch-Input-RSS-0.2.1                https://github.com/ikluft/WebFetch/issues/4
