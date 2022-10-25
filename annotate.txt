@@ -7078,3 +7078,4 @@ Geo-Coder-CA-0.13                       https://github.com/nigelhorne/Geo-Coder-
 Log-Dispatch-File-Stamped-0.20          144903
 Zydeco-0.617                            https://github.com/tobyink/p5-zydeco/issues/13,https://github.com/tobyink/p5-zydeco/issues/14
 DateTime-1.58                           https://github.com/houseabsolute/DateTime-Locale/issues/34
+Net-Yadis-1.0                           144917
