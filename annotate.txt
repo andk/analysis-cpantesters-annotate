@@ -7081,3 +7081,4 @@ DateTime-1.58                           https://github.com/houseabsolute/DateTim
 Net-Yadis-1.0                           144917
 Email-Valid-1.203                       https://github.com/Perl-Email-Project/Email-Valid/issues/53
 Net-Gemini-0.01                         144920,144921
+Git-Raw-0.89                            https://github.com/jacquesg/p5-Git-Raw/issues/225,https://github.com/jacquesg/p5-Git-Raw/issues/226
