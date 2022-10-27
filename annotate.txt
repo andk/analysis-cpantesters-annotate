@@ -7093,4 +7093,4 @@ Moonshine-Util-0.08                     124162
 Promise-AsyncAwait-0.01                 144935
 Geo-Gpx-1.06                            144936
 UML-Class-Simple-0.22                   144937
-Webservice-InterMine-1.0405             https://github.com/Perl/perl5/issues/20447
+Webservice-InterMine-1.0405             https://github.com/Perl/perl5/issues/20447,144956
