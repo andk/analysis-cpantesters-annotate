@@ -7094,5 +7094,5 @@ Promise-AsyncAwait-0.01                 144935
 Geo-Gpx-1.06                            144936
 UML-Class-Simple-0.22                   144937
 Webservice-InterMine-1.0405             https://github.com/Perl/perl5/issues/20447,144956
-App-ipchgmon-1.0.5                      144972
+App-ipchgmon-1.0.6                      144972
 Bio-Cigar-1.02                          144973
