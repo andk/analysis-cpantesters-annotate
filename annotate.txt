@@ -7101,3 +7101,5 @@ Git-Repository-Plugin-Dirty-0.01        144985
 Git-Sub-0.163320                        144986
 Syntax-Operator-In-0.03                 144990
 App-remotediff-1.11                     https://github.com/kal247/App-remotediff/issues/1
+Regexp-From-String-0.004                145008
+Alien-DjVuLibre-0.05                    https://github.com/michal-josef-spacek/Alien-DjVuLibre/issues/4
