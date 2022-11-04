@@ -7099,3 +7099,5 @@ Bio-Cigar-1.02                          144973
 Git-Repository-1.325                    144889
 Git-Repository-Plugin-Dirty-0.01        144985
 Git-Sub-0.163320                        144986
+Syntax-Operator-In-0.03                 144990
+App-remotediff-1.11                     https://github.com/kal247/App-remotediff/issues/1
