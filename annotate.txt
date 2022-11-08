@@ -7104,3 +7104,4 @@ App-remotediff-1.11                     https://github.com/kal247/App-remotediff
 Regexp-From-String-0.004                145008
 Alien-DjVuLibre-0.05                    https://github.com/michal-josef-spacek/Alien-DjVuLibre/issues/4
 Macro-Simple-0.002                      https://github.com/tobyink/p5-macro-simple/issues/1
+DateTimeX-Moment-0.06                   https://github.com/karupanerura/DateTimeX-Moment/issues/5
