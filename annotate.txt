@@ -7105,3 +7105,4 @@ Regexp-From-String-0.007                145008
 Alien-DjVuLibre-0.05                    https://github.com/michal-josef-spacek/Alien-DjVuLibre/issues/4
 Macro-Simple-0.002                      https://github.com/tobyink/p5-macro-simple/issues/1
 DateTimeX-Moment-0.06                   https://github.com/karupanerura/DateTimeX-Moment/issues/5
+Gherkin-25.0.2                          https://github.com/cucumber/common/issues/2129
