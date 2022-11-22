@@ -7113,3 +7113,7 @@ SPVM-IO-0.12                            145123
 SPVM-Regex-0.14                         145124
 Net-Async-FastCGI-0.25                  145170
 OpenTelemetry-TraceContext-W3C-0.01     145178
+Clearbuilt-Excelerator-2.0000           145207
+Dancer2-Plugin-ViewCache-1.0000         145208
+Message-Passing-Syslog-0.012            145209
+Travel-Status-DE-IRIS-1.73              145210
