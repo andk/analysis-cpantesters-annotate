@@ -7018,7 +7018,7 @@ App-githook-perltidy-1.0.1              144786,144787,144788
 App-GUI-Harmonograph-0.51               144789
 String-UnicodeUTF8-0.23                 144790
 NetDNA-0.1                              144795
-Bencher-Scenarios-SPVM-0.002            144796
+Bencher-Scenarios-SPVM-0.005            144796
 Business-ID-NKK-0.002                   144797
 Business-ID-NOPPBB-0.090                144798
 CHI-Driver-LMDB-0.002004                https://github.com/kentnl/CHI-Driver-LMDB/issues/2
