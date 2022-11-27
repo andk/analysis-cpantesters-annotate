@@ -7109,7 +7109,7 @@ Gherkin-25.0.2                          https://github.com/cucumber/common/issue
 Wishlist-0.02                           https://github.com/jberger/Wishlist/issues/3
 Convert-Color-0.13                      145121
 Plack-Middleware-Greylist-v0.1.0        https://github.com/robrwo/Plack-Middleware-Greylist-/issues/1
-SPVM-IO-0.12                            145123
+SPVM-IO-0.13                            145123
 SPVM-Regex-0.14                         145124
 Net-Async-FastCGI-0.25                  145170
 OpenTelemetry-TraceContext-W3C-0.01     145178
