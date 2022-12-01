@@ -7122,3 +7122,4 @@ Devel-FIXME-0.02                        https://github.com/Perl/perl5/issues/205
 Log-Any-Adapter-DERIV-0.003             https://github.com/binary-com/perl-Log-Any-Adapter-DERIV/issues/15
 Coro-6.57                               https://github.com/Perl/perl5/issues/20557
 Object-Pad-0.72                         145278
+Prima-1.67                              https://github.com/Perl/perl5/issues/20565
