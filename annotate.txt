@@ -7130,3 +7130,4 @@ App-OpenMbox-Client-0.12                145509
 Changes-v0.1.0                          https://gitlab.com/jackdeguest/Changes/-/issues/1
 Changes-v0.2.0                          https://gitlab.com/jackdeguest/Changes/-/issues/2
 Log-Any-1.712                           https://github.com/preaction/Log-Any/issues/93
+Log-FreeSWITCH-Line-0.08                https://github.com/michal-josef-spacek/Log-FreeSWITCH-Line/issues/1
