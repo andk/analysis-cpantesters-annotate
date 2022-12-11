@@ -7126,3 +7126,6 @@ Prima-1.67                              https://github.com/Perl/perl5/issues/205
 Geo-TCX-1.04                            145295
 Mojolicious-Plugin-OpenAPI-Modern-0.003 https://github.com/karenetheridge/Mojolicious-Plugin-OpenAPI-Modern/issues/15
 App-eachperl-0.07                       145500
+App-OpenMbox-Client-0.12                145509
+Changes-v0.1.0                          https://gitlab.com/jackdeguest/Changes/-/issues/1
+Changes-v0.2.0                          https://gitlab.com/jackdeguest/Changes/-/issues/2
