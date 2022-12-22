@@ -7137,3 +7137,4 @@ GitHub-Actions-0.1.2                    https://github.com/JJ/perl-GitHub-Action
 Data-Sah-0.914                          https://github.com/Perl/perl5/issues/20617
 Dpkg-1.21.13                            144412
 Net-Server-2.013                        145672
+Mojo-UserAgent-SecureServer-0.04        https://github.com/jhthorsen/mojo-useragent-secureserver/issues/3
