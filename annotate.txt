@@ -7140,3 +7140,4 @@ Net-Server-2.013                        145672
 Mojo-UserAgent-SecureServer-0.04        https://github.com/jhthorsen/mojo-useragent-secureserver/issues/3
 parent-versioned-0.002                  https://github.com/Perl/perl5/issues/20651
 Archive-Any-0.0946                      https://github.com/oalders/archive-any/issues/11
+XML-Loy-0.51                            https://github.com/Akron/XML-Loy/issues/5
