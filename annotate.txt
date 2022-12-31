@@ -7142,3 +7142,4 @@ parent-versioned-0.002                  https://github.com/Perl/perl5/issues/206
 Archive-Any-0.0946                      https://github.com/oalders/archive-any/issues/11
 XML-Loy-0.51                            https://github.com/Akron/XML-Loy/issues/5
 filename-v0.20.060                      https://github.com/Perl/perl5/issues/20659
+Lemonldap-NG-Handler-2.0.15.1           https://github.com/Perl/perl5/issues/20346
