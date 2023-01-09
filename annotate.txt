@@ -7147,3 +7147,4 @@ Module-Reader-0.003003                  https://github.com/Perl/perl5/issues/206
 Valiant-0.001017                        https://github.com/jjn1056/Valiant/issues/9
 Date-Extract-PERLANCAR-0.002            145811
 Passwd-Unix-1.07                        145815
+Date-Extract-0.06                       145774
