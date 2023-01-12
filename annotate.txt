@@ -5866,7 +5866,7 @@ Geo-Coder-Abbreviations-0.01            133445
 HTTP-Request-FromCurl-0.18              133454,133455,132316
 ScriptX_Util-0.003                      133462
 Tickit-Widget-Entry-Plugin-History-0.01 133463,133464
-Dancer-1.3514_04                        https://github.com/PerlDancer/Dancer/issues/1221
+Dancer-1.3520                           https://github.com/PerlDancer/Dancer/issues/1221
 HTTP-Request-FromCurl-0.22              133454
 Text-ANSITable-0.600                    133472
 Data-RingBuffer-Time-0.01               133508
