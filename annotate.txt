@@ -4331,7 +4331,7 @@ DBIx-Class-Fixtures-1.001039            128930
 Google-Ads-AdWords-Client-5.8.0         118509
 Unicode-BiDiRule-0.04                   128942,https://rt.perl.org/Ticket/Display.html?id=133623
 Net-MAC-Vendor-1.267                    128946
-Gtk2-Ex-Spinner-0.21                    118737
+Gtk2-Ex-Spinner-0.22                    118737
 Net-Int-Stats-2.1                       128969
 Net-Route-v0.02                         128970,128971,132160
 NGS-Tools-BAMSurgeon-v1.0.0             125318
