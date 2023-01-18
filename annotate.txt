@@ -3198,7 +3198,6 @@ Text-VisualWidth-PP-0.05                https://github.com/tokuhirom/Text-Visual
 Net-Async-Beanstalk-0.002               123809
 Class-Declare-Attributes-0.12           123669
 DBM-Deep-2.0014                         123811,https://rt.perl.org/Public/Bug/Display.html?id=132493
-Test-Vars-0.014                         https://github.com/houseabsolute/p5-Test-Vars/pull/34
 AnyEvent-HTTP-2.23                      https://rt.perl.org/Public/Bug/Display.html?id=132142,https://www.nntp.perl.org/group/perl.perl5.porters/2017/11/msg247426.html
 Devel-TraceMethods-1.00                 123667
 Log-Trace-1.070                         49409,https://rt.perl.org/Public/Bug/Display.html?id=132252
@@ -7154,3 +7153,4 @@ OpenAPI-Modern-0.037                    https://github.com/karenetheridge/OpenAP
 Crypt-HSXKPasswd-v3.6                   144672
 Catalyst-ActionRole-RenderView-0.001    https://github.com/jjn1056/Catalyst-ActionRole-RenderView/issues/1
 Data-Dumper-Interp-4.102                145960
+Test-Vars-0.015                         https://github.com/houseabsolute/p5-Test-Vars/pull/47
