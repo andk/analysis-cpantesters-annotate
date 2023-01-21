@@ -7154,3 +7154,4 @@ Crypt-HSXKPasswd-v3.6                   144672
 Catalyst-ActionRole-RenderView-0.001    https://github.com/jjn1056/Catalyst-ActionRole-RenderView/issues/1
 Data-Dumper-Interp-4.102                145960
 Test-Vars-0.015                         https://github.com/houseabsolute/p5-Test-Vars/pull/47
+LibUI-0.01                              https://github.com/sanko/LibUI.pm/issues/3
