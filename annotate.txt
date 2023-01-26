@@ -7158,3 +7158,4 @@ LibUI-0.01                              https://github.com/sanko/LibUI.pm/issues
 Class-Indexed-0.01                      145997
 Net-Amazon-DynamoDB-Table-0.05          https://github.com/kablamo/Net-Amazon-DynamoDB-Table/issues/3
 App-assh-1.1.2                          146056
+Babble-0.090009                         146065
