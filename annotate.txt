@@ -7160,3 +7160,4 @@ Net-Amazon-DynamoDB-Table-0.05          https://github.com/kablamo/Net-Amazon-Dy
 App-assh-1.1.2                          146056
 Babble-0.090009                         146065
 App-pl-0.91.0                           146066
+YAML-Safe-0.81                          https://github.com/Perl/perl5/issues/20759
