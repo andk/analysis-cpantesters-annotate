@@ -7163,3 +7163,4 @@ App-pl-0.91.0                           146066
 YAML-Safe-0.81                          https://github.com/Perl/perl5/issues/20759,https://github.com/rurban/YAML-Safe/issues/4
 CGI-Plus-0.15                           146235
 Code-TidyAll-0.83                       https://github.com/houseabsolute/perl-code-tidyall/issues/118
+Backup-Duplicity-YADW-0.12              146249
