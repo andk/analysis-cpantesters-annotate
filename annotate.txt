@@ -7173,3 +7173,4 @@ Project2-Gantt-0.006                    146256,146257,146258
 SPVM-Sys-0.36                           https://github.com/yuki-kimoto/SPVM-Sys/issues/23
 Spreadsheet-ReadGnumeric-0.1            146259
 Pod-AsciiDoctor-0.101000                https://github.com/shlomif/Pod-AsciiDoctor/issues/1
+App-sdif-4.25.0                         https://github.com/kaz-utashiro/sdif-tools/issues/6
