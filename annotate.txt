@@ -7170,3 +7170,5 @@ Terse-0.123                             146255
 Mojolicious-Plugin-OpenAPI-5.08         https://github.com/jhthorsen/mojolicious-plugin-openapi/issues/241
 Lemonldap-NG-Common-2.0.16              https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng/-/issues/2864
 Project2-Gantt-0.006                    146256,146257,146258
+SPVM-Sys-0.36                           https://github.com/yuki-kimoto/SPVM-Sys/issues/23
+Spreadsheet-ReadGnumeric-0.1            146259
