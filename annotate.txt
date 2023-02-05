@@ -7180,3 +7180,4 @@ OpenData-ShortNumberInfo-0.1            146265
 Termbox-0.12                            https://github.com/sanko/Termbox.pm/issues/2
 Business-PagOnline-0.1.1                146266
 Crypt-PKCS10-2.005                      https://github.com/openxpki/Crypt-PKCS10/issues/7
+Log-QnD-0.17                            146268
