@@ -7168,3 +7168,5 @@ Biblio-Citation-Compare-0.55            146254
 Faker-1.17                              https://github.com/awncorp/faker/issues/27
 Terse-0.123                             146255
 Mojolicious-Plugin-OpenAPI-5.08         https://github.com/jhthorsen/mojolicious-plugin-openapi/issues/241
+Lemonldap-NG-Common-2.0.16              https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng/-/issues/2864
+Project2-Gantt-0.006                    146256,146257,146258
