@@ -7164,3 +7164,7 @@ YAML-Safe-0.81                          https://github.com/Perl/perl5/issues/207
 CGI-Plus-0.15                           146235
 Code-TidyAll-0.83                       https://github.com/houseabsolute/perl-code-tidyall/issues/118
 Backup-Duplicity-YADW-0.12              146249
+Biblio-Citation-Compare-0.55            146254
+Faker-1.17                              https://github.com/awncorp/faker/issues/27
+Terse-0.123                             146255
+Mojolicious-Plugin-OpenAPI-5.08         https://github.com/jhthorsen/mojolicious-plugin-openapi/issues/241
