@@ -7183,3 +7183,4 @@ Crypt-PKCS10-2.005                      https://github.com/openxpki/Crypt-PKCS10
 Log-QnD-0.17                            146268
 Text-Trac2GFM-0.001                     146269
 Locale-Maketext-Utils-0.42              144987
+Mojolicious-Plugin-PrometheusTiny-0.02  https://github.com/codehead/Mojolicious-Plugin-PrometheusTiny/issues/1
