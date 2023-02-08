@@ -7187,3 +7187,4 @@ Mojolicious-Plugin-PrometheusTiny-0.02  https://github.com/codehead/Mojolicious-
 String-Tagged-Markdown-0.03             146288
 Catmandu-PICA-1.09                      https://github.com/gbv/Catmandu-PICA/issues/79
 Config-Properties-Commons-v1.0.1        https://github.com/mithun/perl-config-properties-commons/issues/1
+Plack-App-Tags-HTML-0.09                https://github.com/michal-josef-spacek/Plack-App-Tags-HTML/issues/2
