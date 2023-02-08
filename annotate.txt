@@ -7185,3 +7185,4 @@ Text-Trac2GFM-0.001                     146269
 Locale-Maketext-Utils-0.42              144987
 Mojolicious-Plugin-PrometheusTiny-0.02  https://github.com/codehead/Mojolicious-Plugin-PrometheusTiny/issues/1
 String-Tagged-Markdown-0.03             146288
+Catmandu-PICA-1.09                      https://github.com/gbv/Catmandu-PICA/issues/79
