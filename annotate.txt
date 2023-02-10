@@ -7190,3 +7190,4 @@ Config-Properties-Commons-v1.0.1        https://github.com/mithun/perl-config-pr
 Plack-App-Tags-HTML-0.09                https://github.com/michal-josef-spacek/Plack-App-Tags-HTML/issues/2
 CTM-0.181                               146344
 Unix-Mgt-0.14                           146346
+Plack-App-Login-0.06                    https://github.com/michal-josef-spacek/Plack-App-Login/issues/1
