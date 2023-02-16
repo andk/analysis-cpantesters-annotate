@@ -7198,3 +7198,4 @@ Alien-zstd-0.03                         146465
 Project2-Gantt-0.008                    146257
 SMS-Send-IN-Textlocal-1.00              146486
 Struct-WOP-0.18                         146514
+OpenData-ShortNumberInfo-0.230380       https://github.com/rwp-cpan/OpenData-ShortNumberInfo/issues/1
