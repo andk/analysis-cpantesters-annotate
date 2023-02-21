@@ -7204,3 +7204,4 @@ Badger-0.15                             127427
 Bio-ToolBox-1.691                       144444
 Devel-Trepan-v1.0.1                     https://github.com/rocky/Perl-Devel-Trepan/issues/52
 Mojolicious-Plugin-OpenAPI-Modern-0.004 https://github.com/karenetheridge/Mojolicious-Plugin-OpenAPI-Modern/issues/16
+Amazon-API-2.0.0                        https://github.com/rlauer6/perl-Amazon-API/issues/3
