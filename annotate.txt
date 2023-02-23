@@ -7210,3 +7210,4 @@ Inline-WebChat-0.62                     146631
 CSS-DOM-0.17                            https://github.com/Perl/perl5/issues/20782
 DBM-Deep-2.0016                         https://github.com/Perl/perl5/issues/20782
 Data-Clone-0.004                        https://github.com/Perl/perl5/issues/20782
+Perl-Builtins-0.04                      146678
