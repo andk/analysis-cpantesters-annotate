@@ -7213,3 +7213,5 @@ Data-Clone-0.004                        https://github.com/Perl/perl5/issues/207
 Perl-Builtins-0.04                      146678
 Devel-Debug-DBGp-0.22                   https://github.com/mbarbon/perl-remote-debugging-client/issues/7
 App-proxyforurl-1.01                    https://github.com/jhthorsen/app-proxyforurl/issues/6
+Math-Formula-0.12                       146764,146765
+OpenAI-API-0.11                         146766,146767
