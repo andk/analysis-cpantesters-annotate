@@ -7219,3 +7219,4 @@ Google-ProtocolBuffers-Dynamic-0.41_15  146966
 HTML-Spelling-Site-0.10.1               https://github.com/shlomif/HTML-Spelling-Site/issues/3
 Net-Clacks-26                           146978
 App-MusicTools-1.33                     147064
+Weather-Meteo-0.02                      https://github.com/nigelhorne/Weather-Meteo/issues/2
