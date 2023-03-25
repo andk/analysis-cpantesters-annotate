@@ -7229,3 +7229,4 @@ Tree-Ops-20201030                       https://github.com/Perl/perl5/issues/209
 App-perlhl-0.007                        https://github.com/Perl/perl5/issues/20966
 Exception-Base-0.2501                   https://github.com/Perl/perl5/issues/20954
 DBIx-Class-TemporalRelations-0.9000     https://github.com/Perl/perl5/issues/20968
+Convert-Color-0.16                      147340
