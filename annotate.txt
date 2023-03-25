@@ -7230,3 +7230,4 @@ App-perlhl-0.007                        https://github.com/Perl/perl5/issues/209
 Exception-Base-0.2501                   https://github.com/Perl/perl5/issues/20954
 DBIx-Class-TemporalRelations-0.9000     https://github.com/Perl/perl5/issues/20968
 Convert-Color-0.16                      147340
+Archive-Tar-3.00                        147341
