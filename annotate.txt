@@ -6548,7 +6548,7 @@ PDL-2.072                               https://github.com/PDLPorters/pdl/issues
 Mojo-Netdata-0.02                       https://github.com/jhthorsen/mojo-netdata/issues/1
 Math-MatrixDecomposition-1.05           140908
 Venus-0.02                              https://github.com/cpanery/venus/issues/68
-SPVM-JSON-0.01                          140927
+SPVM-JSON-0.04                          140927
 Linux-RTC-Ioctl-0.08                    140918
 Dancer-Plugin-Passphrase-2.0.1          https://github.com/LoonyPandora/Dancer-Plugin-Passphrase/issues/13
 JSON-Formatter-Align-0.03               140938,140939
