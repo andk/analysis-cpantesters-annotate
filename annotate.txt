@@ -7231,3 +7231,4 @@ Exception-Base-0.2501                   https://github.com/Perl/perl5/issues/209
 DBIx-Class-TemporalRelations-0.9000     https://github.com/Perl/perl5/issues/20968
 Convert-Color-0.16                      147340
 Archive-Tar-3.00                        147341
+Reply-Plugin-Prompt-0.0.10              147342
