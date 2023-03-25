@@ -7227,3 +7227,4 @@ Devel-LeakTrace-0.06                    https://github.com/Perl/perl5/issues/209
 Net-Xero-0.44                           https://github.com/Perl/perl5/issues/20957
 Tree-Ops-20201030                       https://github.com/Perl/perl5/issues/20965
 App-perlhl-0.007                        https://github.com/Perl/perl5/issues/20966
+Exception-Base-0.2501                   https://github.com/Perl/perl5/issues/20954
