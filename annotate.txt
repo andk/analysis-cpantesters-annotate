@@ -7233,3 +7233,4 @@ Convert-Color-0.16                      147340
 Archive-Tar-3.00                        147341
 Reply-Plugin-Prompt-0.0.10              147342
 Net-MQTT-Simple-One_Shot_Loader-0.02    https://github.com/mrdvt92/perl-Net-MQTT-Simple-One_Shot_Loader/issues/1
+RNA-HairpinFigure-0.141212              https://github.com/Perl/perl5/issues/20969
