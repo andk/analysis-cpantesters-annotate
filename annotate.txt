@@ -7238,3 +7238,4 @@ Lexical-Failure-0.000007                https://github.com/Perl/perl5/issues/209
 Business-UPS-Tracking-1.13              https://github.com/Perl/perl5/issues/20980
 Bitmask-Data-2.05                       https://github.com/Perl/perl5/issues/20981
 Tail-Stat-0.26                          https://github.com/Perl/perl5/issues/20993
+uni-perl-0.92                           https://github.com/Perl/perl5/issues/20994
