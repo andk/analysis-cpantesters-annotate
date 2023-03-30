@@ -7240,3 +7240,4 @@ Bitmask-Data-2.05                       https://github.com/Perl/perl5/issues/209
 Tail-Stat-0.26                          https://github.com/Perl/perl5/issues/20993
 uni-perl-0.92                           https://github.com/Perl/perl5/issues/20994
 Net-SharePoint-Basic-0.11               https://github.com/Perl/perl5/issues/20995
+Excel-Template-XLSX-v1.1.2              147437
