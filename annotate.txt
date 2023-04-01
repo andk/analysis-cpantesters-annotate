@@ -7245,3 +7245,4 @@ Syntax-Feature-Void-v1.2.0              147459
 Regexp-Pattern-License-v3.10.0          https://github.com/Perl/perl5/issues/21001
 Lingua-EN-Grammarian-0.000005           https://github.com/Perl/perl5/issues/21002
 Syntax-Feature-Loop-v1.8.0              147485
+MogileFS-Plugin-MultiHook-0.03          147487
