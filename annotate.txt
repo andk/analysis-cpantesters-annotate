@@ -7242,3 +7242,5 @@ uni-perl-0.92                           https://github.com/Perl/perl5/issues/209
 Net-SharePoint-Basic-0.11               https://github.com/Perl/perl5/issues/20995
 Excel-Template-XLSX-v1.1.2              147437
 Syntax-Feature-Void-v1.2.0              147459
+Regexp-Pattern-License-v3.10.0          https://github.com/Perl/perl5/issues/21001
+Lingua-EN-Grammarian-0.000005           https://github.com/Perl/perl5/issues/21002
