@@ -7247,3 +7247,4 @@ Lingua-EN-Grammarian-0.000005           https://github.com/Perl/perl5/issues/210
 Syntax-Feature-Loop-v1.8.0              147485
 MogileFS-Plugin-MultiHook-0.03          147487
 Email-Received-1.00                     43376
+Crypt-Passphrase-0.014                  https://github.com/Leont/crypt-passphrase/issues/2
