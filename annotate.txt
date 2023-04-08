@@ -7250,3 +7250,4 @@ Email-Received-1.00                     43376
 Crypt-Passphrase-0.014                  https://github.com/Leont/crypt-passphrase/issues/2
 Deplide-RFID-EPCISSubmitter-0.02        147611
 Math-BigInt-GMPz-0.0011                 147612
+Type-Tiny-Signatures-0.08               147639
