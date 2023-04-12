@@ -7254,3 +7254,4 @@ Type-Tiny-Signatures-0.08               147639
 MooX-Press-0.086                        https://github.com/Perl/perl5/issues/21006
 DNS-WorldWideDns-0.0102                 147640
 App-BPOMUtils-Table-FoodType-0.019      147673
+Test-Auto-0.14                          147857
