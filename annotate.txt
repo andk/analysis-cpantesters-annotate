@@ -7257,3 +7257,4 @@ App-BPOMUtils-Table-FoodType-0.019      147673
 Test-Auto-0.14                          147857
 Perinci-Sub-DepChecker-0.125            147858
 experimentals-0.019                     147648
+DBIx-Inspector-0.12                     https://github.com/tokuhirom/DBIx-Inspector/issues/9
