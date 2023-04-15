@@ -7261,3 +7261,4 @@ DBIx-Inspector-0.12                     https://github.com/tokuhirom/DBIx-Inspec
 CGI-Application-Plugin-OpenTracing-DataDog-v0.1.0 148088
 Doit-0.026                              148091
 Method-Signatures-PP-0.000005           148178
+App-perlimports-0.000050                https://github.com/Perl/perl5/issues/21025
