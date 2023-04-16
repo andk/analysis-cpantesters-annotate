@@ -7264,3 +7264,4 @@ Method-Signatures-PP-0.000005           148178
 App-perlimports-0.000050                https://github.com/Perl/perl5/issues/21025
 Slay-Makefile-0.13                      https://github.com/Perl/perl5/issues/21026
 ZMQ-FFI-1.18                            https://github.com/Perl/perl5/issues/21027
+Sub-Call-Tail-0.08                      148184
