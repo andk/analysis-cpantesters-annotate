@@ -7266,3 +7266,4 @@ Slay-Makefile-0.13                      https://github.com/Perl/perl5/issues/210
 ZMQ-FFI-1.18                            https://github.com/Perl/perl5/issues/21027
 Sub-Call-Tail-0.08                      148184
 DateTime-Ordinal-0.04                   148200
+Dist-Zilla-Tester-DieHard-v0.6.4        148081
