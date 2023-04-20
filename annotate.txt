@@ -7269,3 +7269,4 @@ DateTime-Ordinal-0.04                   148200
 Dist-Zilla-Tester-DieHard-v0.6.4        148081
 Text-MicroMason-2.23                    https://github.com/Perl/perl5/issues/21037
 Devel-PrettyTrace-0.07                  https://github.com/dur-randir/Devel-PrettyTrace/issues/2
+App-perlfind-2.07                       148266
