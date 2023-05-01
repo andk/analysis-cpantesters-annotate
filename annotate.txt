@@ -7278,3 +7278,4 @@ Dist-Zilla-Plugin-Test-UnusedVars-2.001000 148277
 Excel-Template-XLSX-v1.1.3              148278
 Finance-Dogecoin-Utils-1.20230424.0253  148279
 Glib-Object-Introspection-0.050         148280
+Open-This-0.000031                      https://github.com/oalders/open-this/issues/48
