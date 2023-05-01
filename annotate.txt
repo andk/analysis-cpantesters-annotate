@@ -7275,3 +7275,4 @@ Database-DumpTruck-1.2                  140749
 List-Helpers-XS-0.19                    https://github.com/KalessinD/perl_list_helpers_xs/issues/2
 String-Validator-Phone-NANP-2.00        https://github.com/brainbuz/String-Validator/issues/7
 Dist-Zilla-Plugin-Test-UnusedVars-2.001000 148277
+Excel-Template-XLSX-v1.1.3              148278
