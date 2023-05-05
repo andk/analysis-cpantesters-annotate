@@ -7283,3 +7283,4 @@ DBIx-Perlish-1.06                       https://github.com/Perl/perl5/issues/210
 CryptX-0.078                            https://github.com/DCIT/perl-CryptX/issues/90
 URI-http-Dump-0.03                      148286
 CPAN-cpanminus-reporter-RetainReports-0.10 148287
+Khonsu-0.05                             148288
