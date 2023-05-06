@@ -7284,3 +7284,4 @@ CryptX-0.078                            https://github.com/DCIT/perl-CryptX/issu
 URI-http-Dump-0.03                      148286
 CPAN-cpanminus-reporter-RetainReports-0.10 148287
 Khonsu-0.05                             148288
+Dist-Zilla-Plugin-FFI-1.07              https://github.com/PerlFFI/Dist-Zilla-Plugin-FFI/issues/12
