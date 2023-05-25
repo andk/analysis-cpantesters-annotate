@@ -7215,7 +7215,7 @@ Devel-Debug-DBGp-0.22                   https://github.com/mbarbon/perl-remote-d
 App-proxyforurl-1.01                    https://github.com/jhthorsen/app-proxyforurl/issues/6
 Math-Formula-0.12                       146764,146765
 OpenAI-API-0.11                         146766,146767
-Google-ProtocolBuffers-Dynamic-0.41_15  146966
+Google-ProtocolBuffers-Dynamic-0.42     146966
 HTML-Spelling-Site-0.10.1               https://github.com/shlomif/HTML-Spelling-Site/issues/3
 Net-Clacks-26                           146978
 App-MusicTools-1.33                     147064
