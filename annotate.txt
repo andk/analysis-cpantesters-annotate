@@ -7286,3 +7286,4 @@ CPAN-cpanminus-reporter-RetainReports-0.10 148287
 Khonsu-0.05                             148288
 Dist-Zilla-Plugin-FFI-1.07              https://github.com/PerlFFI/Dist-Zilla-Plugin-FFI/issues/12
 YAML-LibYAML-0.87                       https://github.com/ingydotnet/yaml-libyaml-pm/issues/109
+ODF-lpOD_Helper-3.011                   https://github.com/jimav/ODF-lpOD_Helper/issues/1
