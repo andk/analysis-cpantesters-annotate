@@ -7289,3 +7289,4 @@ YAML-LibYAML-0.87                       https://github.com/ingydotnet/yaml-libya
 ODF-lpOD_Helper-5.012                   https://github.com/jimav/ODF-lpOD_Helper/issues/1,https://rt.cpan.org/Ticket/Display.html?id=147616,https://github.com/Perl/perl5/issues/21013
 SPVM-File-Spec-0.081002                 148630
 re-engine-RE2-0.17                      https://github.com/dgl/re-engine-RE2/issues/15
+YAMLTest-0.0.4                          https://github.com/ingydotnet/yamltest/issues/2
