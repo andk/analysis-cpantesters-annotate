@@ -7290,3 +7290,4 @@ ODF-lpOD_Helper-5.012                   https://github.com/jimav/ODF-lpOD_Helper
 SPVM-File-Spec-0.081002                 148630
 re-engine-RE2-0.17                      https://github.com/dgl/re-engine-RE2/issues/15
 YAMLTest-0.0.4                          https://github.com/ingydotnet/yamltest/issues/2
+Module-CPANfile-1.1004                  https://github.com/miyagawa/cpanfile/issues/57
