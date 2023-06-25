@@ -7291,3 +7291,4 @@ SPVM-File-Spec-0.081002                 148630
 re-engine-RE2-0.17                      https://github.com/dgl/re-engine-RE2/issues/15
 YAMLTest-0.0.4                          https://github.com/ingydotnet/yamltest/issues/2
 Module-CPANfile-1.1004                  https://github.com/miyagawa/cpanfile/issues/57
+Crypt-OpenSSL-PKCS10-0.19               https://github.com/Perl/perl5/issues/21174
