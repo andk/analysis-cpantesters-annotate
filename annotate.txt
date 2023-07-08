@@ -7299,3 +7299,4 @@ Mojo-CouchDB-0.4                        https://github.com/rawleyfowler/Mojo-Cou
 Process-SubProcess-2.1.1                https://github.com/bodo-hugo-barwich/Process/issues/37
 GD-2.78                                 148940
 String-License-v0.0.9                   148941
+Convert-Pheno-0.10                      https://github.com/CNAG-Biomedical-Informatics/convert-pheno/issues/1
