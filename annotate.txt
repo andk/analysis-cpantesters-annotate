@@ -7296,3 +7296,4 @@ Number-Format-1.76                      https://github.com/Perl/perl5/issues/211
 POE-Component-Client-DNS-1.054          148718
 Random-Skew-0.07                        148925
 Mojo-CouchDB-0.4                        https://github.com/rawleyfowler/Mojo-CouchDB/issues/1
+Process-SubProcess-2.1.1                https://github.com/bodo-hugo-barwich/Process/issues/37
