@@ -7306,3 +7306,4 @@ Syntax-Infix-Smartmatch-0.002           148945
 PerlX-SafeNav-0.003                     https://github.com/gugod/PerlX-SafeNav/issues/3
 IO-Tty-1.17                             https://github.com/toddr/IO-Tty/issues/36
 PerlPowerTools-1.035                    https://github.com/briandfoy/PerlPowerTools/issues/210
+Net-DNS-Dynamic-Proxyserver-1.2         149189
