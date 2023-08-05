@@ -7308,3 +7308,4 @@ IO-Tty-1.17                             https://github.com/toddr/IO-Tty/issues/3
 PerlPowerTools-1.035                    https://github.com/briandfoy/PerlPowerTools/issues/210
 Net-DNS-Dynamic-Proxyserver-1.2         149189
 Catalyst-Plugin-Static-Simple-0.37      149305
+File-Trash-FreeDesktop-0.202            149306
