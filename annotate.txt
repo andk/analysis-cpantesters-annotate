@@ -7310,3 +7310,4 @@ Net-DNS-Dynamic-Proxyserver-1.2         149189
 Catalyst-Plugin-Static-Simple-0.37      149305
 File-Trash-FreeDesktop-0.202            149306
 File-Trash-FreeDesktop-0.204            149306
+Graphics-Toolkit-Color-1.52             149388
