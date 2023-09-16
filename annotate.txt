@@ -7315,3 +7315,4 @@ Schedule-SGELK-v1.5                     149417
 TAP-Formatter-JUnit-0.16                https://github.com/bleargh45/TAP-Formatter-JUnit/issues/15
 App-perlimports-0.000052                https://github.com/Perl/perl5/issues/21269
 WWW-PlantUML-0.01                       149576
+Galileo-0.043                           https://github.com/jberger/Galileo/issues/59
