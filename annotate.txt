@@ -7317,4 +7317,4 @@ App-perlimports-0.000052                https://github.com/Perl/perl5/issues/212
 WWW-PlantUML-0.01                       149576
 Galileo-0.043                           https://github.com/jberger/Galileo/issues/59
 AnyEvent-Pcap-0.00004                   149798
-Connector-1.51                          https://github.com/whiterabbitsecurity/connector/issues/48
+Connector-1.51                          https://github.com/whiterabbitsecurity/connector/issues/48,https://github.com/whiterabbitsecurity/connector/issues/49
