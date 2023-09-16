@@ -7320,3 +7320,4 @@ AnyEvent-Pcap-0.00004                   149798
 Connector-1.51                          https://github.com/whiterabbitsecurity/connector/issues/48,https://github.com/whiterabbitsecurity/connector/issues/49
 Sort-Sub-by_spec-0.002                  149799
 EAI-Wrap-0.4                            149802,149803
+Aion-Carp-1.5                           https://github.com/darviarush/perl-aion-carp/issues/1
