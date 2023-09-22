@@ -7327,3 +7327,4 @@ Pg-SQL-PrettyPrinter-0.9                https://gitlab.com/depesz/pg-sql-prettyp
 builtins-0.000005                       149861
 URI-PackageURL-2.01                     https://github.com/giterlizzi/perl-URI-PackageURL/issues/4
 BSON-XS-v0.8.4                          149863
+Crypt-AllOrNothing-0.10                 149865
