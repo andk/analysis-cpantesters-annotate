@@ -7329,3 +7329,4 @@ URI-PackageURL-2.01                     https://github.com/giterlizzi/perl-URI-P
 BSON-XS-v0.8.4                          149863
 Crypt-AllOrNothing-0.10                 149865
 DateTime-Format-DBI-0.041               149869
+Math-BigInt-Lite-0.27                   149870
