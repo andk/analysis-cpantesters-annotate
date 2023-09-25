@@ -3928,7 +3928,7 @@ Parallel-ForkManager-Scaled-0.18        127898
 Moonshine-Template-0.04                 127899
 AnyEvent-Task-0.805                     https://github.com/hoytech/AnyEvent-Task/issues/1
 Callback-Frame-1.102                    https://github.com/hoytech/Callback-Frame/issues/3
-IO-Socket-Socks-Wrapper-0.17            127911
+IO-Socket-Socks-Wrapper-0.17            127911,149885
 Log-Dispatch-Tk-1.9                     127912
 Log-Journald-0.30                       127913
 Mojo-UserAgent-Cached-1.06              127914
