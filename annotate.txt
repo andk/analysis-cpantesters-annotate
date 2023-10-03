@@ -7333,3 +7333,4 @@ Math-BigInt-Lite-0.27                   149870
 Chemistry-Ring-0.21                     149871
 HTTP-Server-EV-0.69                     92321
 CXC-Number-0.12                         https://gitlab.com/djerius/cxc-number/-/issues/1,https://github.com/Perl/perl5/issues/21518
+Object-PadX-Log-Log4perl-0.001          149940
