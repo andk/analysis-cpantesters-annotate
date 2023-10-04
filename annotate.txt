@@ -7334,3 +7334,4 @@ Chemistry-Ring-0.21                     149871
 HTTP-Server-EV-0.69                     92321
 CXC-Number-0.12                         https://gitlab.com/djerius/cxc-number/-/issues/1,https://github.com/Perl/perl5/issues/21518
 Object-PadX-Log-Log4perl-0.001          149940
+DBD-mysql-5.001                         https://github.com/perl5-dbi/DBD-mysql/issues/362,https://github.com/perl5-dbi/DBD-mysql/issues/361
