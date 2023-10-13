@@ -7209,7 +7209,7 @@ Devel-MAT-0.49                          146630
 Inline-WebChat-0.62                     146631
 CSS-DOM-0.17                            https://github.com/Perl/perl5/issues/20782
 DBM-Deep-2.0016                         https://github.com/Perl/perl5/issues/20782
-Data-Clone-0.004                        https://github.com/Perl/perl5/issues/20782
+Data-Clone-0.004                        https://github.com/Perl/perl5/issues/20782,148415
 Perl-Builtins-0.04                      146678
 Devel-Debug-DBGp-0.22                   https://github.com/mbarbon/perl-remote-debugging-client/issues/7
 App-proxyforurl-1.01                    https://github.com/jhthorsen/app-proxyforurl/issues/6
