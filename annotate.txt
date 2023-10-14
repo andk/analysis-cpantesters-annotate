@@ -7338,3 +7338,4 @@ DBD-mysql-5.001                         https://github.com/perl5-dbi/DBD-mysql/i
 CGI-Application-Plugin-Session-1.05     149959
 Process-SubProcess-2.1.8                https://github.com/bodo-hugo-barwich/Process/issues/48,https://github.com/bodo-hugo-barwich/Process/issues/49
 App-Sandy-0.25                          https://github.com/galantelab/sandy/issues/9
+Shell-Var-Reader-0.5.1                  150060
