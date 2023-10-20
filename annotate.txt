@@ -7343,3 +7343,4 @@ Sah-Schemas-Str-0.015                   150115
 Mail-Box-3.010                          150141
 Dancer2-Plugin-Auth-HTTP-Basic-DWIW-0.0801 150142
 Dancer2-Plugin-BrowserDetect-1.163590   150144
+Dancer2-Plugin-Captcha-0.14             150145
