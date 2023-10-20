@@ -7346,3 +7346,4 @@ Dancer2-Plugin-BrowserDetect-1.163590   150144
 Dancer2-Plugin-Captcha-0.14             150145
 Dancer2-Plugin-ConditionalCaching-0.001 https://github.com/zurborg/libdancer2-plugin-conditionalcaching-perl/issues/2
 Dancer2-Template-Caribou-1.0.0          https://github.com/yanick/Dancer2-Template-Caribou/issues/4
+Dancer2-Template-Haml-0.04              https://github.com/TheAthlete/Dancer2-Template-Haml/issues/2
