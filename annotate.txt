@@ -7348,3 +7348,4 @@ Dancer2-Plugin-ConditionalCaching-0.001 https://github.com/zurborg/libdancer2-pl
 Dancer2-Template-Caribou-1.0.0          https://github.com/yanick/Dancer2-Template-Caribou/issues/4
 Dancer2-Template-Haml-0.04              https://github.com/TheAthlete/Dancer2-Template-Haml/issues/2
 Device-Chip-AVR_HVSP-0.07               150154
+XML-Compile-SOAP-Daemon-Dancer2-0.07    https://github.com/pierre-vigier/XML-Compile-SOAP-Daemon-Dancer2/issues/6
