@@ -7350,3 +7350,4 @@ Dancer2-Template-Haml-0.04              https://github.com/TheAthlete/Dancer2-Te
 Device-Chip-AVR_HVSP-0.07               150154
 XML-Compile-SOAP-Daemon-Dancer2-0.07    https://github.com/pierre-vigier/XML-Compile-SOAP-Daemon-Dancer2/issues/6
 MIDI-SoundFont-1.08                     150186
+Perinci-CmdLine-Classic-1.817           150233
