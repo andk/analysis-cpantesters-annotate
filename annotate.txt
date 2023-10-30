@@ -1435,7 +1435,7 @@ WWW-Mechanize-Plugin-Cache-0.06         110875
 Net-SNPP-1.17                           110978
 Bricklayer-Templater-0.9.8              111024
 Data-SIprefixes-0.0.1                   111045
-Object-Remote-0.003006                  108016,108016
+Object-Remote-0.003006                  108016
 CGI-Wiki-0.63                           111093,deprecated
 Compress-PPMd-0.11                      58833,78521
 RDF-Converter-CSV-0.03                  111185
