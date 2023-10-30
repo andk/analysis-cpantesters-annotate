@@ -7351,3 +7351,4 @@ Device-Chip-AVR_HVSP-0.07               150154
 XML-Compile-SOAP-Daemon-Dancer2-0.07    https://github.com/pierre-vigier/XML-Compile-SOAP-Daemon-Dancer2/issues/6
 MIDI-SoundFont-1.08                     150186
 Perinci-CmdLine-Classic-1.817           150233
+CGI-4.59                                https://github.com/leejo/CGI.pm/issues/260
