@@ -7354,3 +7354,4 @@ Perinci-CmdLine-Classic-1.817           150233
 CGI-4.59                                https://github.com/leejo/CGI.pm/issues/260
 MetaCPAN-Client-2.030000                https://github.com/metacpan/metacpan-client/issues/118
 Devel-Size-0.83                         149902
+Object-Remote-0.004001                  150257
