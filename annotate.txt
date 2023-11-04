@@ -4188,7 +4188,7 @@ WWW-BigDoor-v0.1.1                      128613
 Data-Recursive-Encode-0.06              128601
 Test-Kwalitee-Extra-v0.4.0              104113,128602
 Module-Extract-Namespaces-1.021         https://github.com/briandfoy/module-extract-namespaces/issues/6
-IPC-ShareLite-0.17                      65986,128599
+IPC-ShareLite-0.17                      65986,128599,150325
 Device-VFD-GP1022-0.01                  66924
 TeX-Hyphen-Pattern-0.103                128617
 Whatever-0.23                           123654,128618
