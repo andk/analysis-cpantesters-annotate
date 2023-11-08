@@ -7356,3 +7356,4 @@ MetaCPAN-Client-2.030000                https://github.com/metacpan/metacpan-cli
 Devel-Size-0.83                         149902
 Object-Remote-0.004001                  150257
 Dist-Zilla-Plugin-NextRelease-Grouped-0.0200 https://github.com/Csson/p5-Dist-Zilla-Plugin-NextRelease-Grouped/issues/1
+OpenTelemetry-0.013                     https://github.com/jjatria/perl-opentelemetry/issues/6
