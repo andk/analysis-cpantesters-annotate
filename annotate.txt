@@ -7364,3 +7364,4 @@ WebService-Async-Onfido-0.007           https://github.com/binary-com/perl-WebSe
 MARC-Convert-Wikidata-Object-0.01       https://github.com/michal-josef-spacek/MARC-Convert-Wikidata-Object/issues/1
 MooX-ValidateSubs-1.012007              150410
 Music-Bassline-Generator-0.0606         150411
+Terse-0.21                              150416
