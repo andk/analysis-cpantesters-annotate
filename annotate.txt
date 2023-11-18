@@ -7373,3 +7373,6 @@ Apache2-SSI-v0.2.8                      https://gitlab.com/jackdeguest/Apache2-S
 Alien-Meson-0.06                        150485
 App-ansiecho-1.07                       https://github.com/tecolicom/App-ansiecho/issues/1
 App-Asciio-1.9.02                       150487
+Attean-0.033                            https://github.com/kasei/attean/issues/167
+POSIX-strftime-Compiler-0.45            https://github.com/kazeburo/POSIX-strftime-Compiler/issues/13
+Array-Compare-4.0.0                     https://github.com/davorg-cpan/array-compare/issues/13
