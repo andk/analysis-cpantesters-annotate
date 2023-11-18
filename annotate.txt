@@ -7381,3 +7381,5 @@ Catmandu-Importer-OpenAIRE-0.01         https://github.com/LibreCat/Catmandu-Imp
 Log-Any-1.717                           https://github.com/preaction/Log-Any/issues/102
 CLI-Simple-0.0.1                        https://github.com/rlauer6/perl-CLI-Simple/issues/2,https://github.com/rlauer6/perl-CLI-Simple/issues/3
 Dancer2-Plugin-OpenAPI-1.0.0            https://github.com/yanick/Dancer2-Plugin-OpenAPI/issues/4
+PayProp-API-Public-Client-0.03          https://github.com/Humanstate/api-client-public-module/issues/4
+Plack-App-WebMySQL-4.01                 150488
