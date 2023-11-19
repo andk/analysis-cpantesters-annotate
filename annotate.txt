@@ -7383,3 +7383,4 @@ CLI-Simple-0.0.1                        https://github.com/rlauer6/perl-CLI-Simp
 Dancer2-Plugin-OpenAPI-1.0.0            https://github.com/yanick/Dancer2-Plugin-OpenAPI/issues/4
 PayProp-API-Public-Client-0.03          https://github.com/Humanstate/api-client-public-module/issues/4
 Plack-App-WebMySQL-4.01                 150488
+Mail-Log-Parse-1.0402                   150493
