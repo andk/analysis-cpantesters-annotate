@@ -7389,3 +7389,4 @@ Mojolicious-Plugin-OpenAPI-Modern-0.005 https://github.com/karenetheridge/Mojoli
 Math-PlanePath-129                      150523
 App-DownloadsDirUtils-0.004             150583
 Debug-Easy-2.10                         150584
+Dist-Zilla-Plugin-ChangelogFromGit-CPAN-Changes-0.230680 https://github.com/ioanrogers/Dist-Zilla-Plugin-ChangelogFromGit-CPAN-Changes/issues/29
