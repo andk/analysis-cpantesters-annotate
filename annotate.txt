@@ -7388,3 +7388,4 @@ App-skos2jskos-0.2.4                    https://github.com/gbv/skos2jskos/issues
 Mojolicious-Plugin-OpenAPI-Modern-0.005 https://github.com/karenetheridge/Mojolicious-Plugin-OpenAPI-Modern/issues/27
 Math-PlanePath-129                      150523
 App-DownloadsDirUtils-0.004             150583
+Debug-Easy-2.10                         150584
