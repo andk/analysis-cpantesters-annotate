@@ -7393,3 +7393,4 @@ Dist-Zilla-Plugin-ChangelogFromGit-CPAN-Changes-0.230680 https://github.com/ioan
 Embperl-3.0.0                           150585
 Text-CleanFragment-0.07                 150586
 UNIVERSAL-DOES-0.005                    https://github.com/gfx/Perl-UNIVERSAL-DOES/issues/4
+XML-Catalogs-HTML-v1.6.0                https://github.com/ikegami/perl-XML-Catalogs-HTML/issues/2
