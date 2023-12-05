@@ -7396,3 +7396,4 @@ UNIVERSAL-DOES-0.005                    https://github.com/gfx/Perl-UNIVERSAL-DO
 XML-Catalogs-HTML-v1.6.0                https://github.com/ikegami/perl-XML-Catalogs-HTML/issues/2
 namespace-lexical-0.002                 150587
 Config-Model-Itself-2.023               https://github.com/dod38fr/config-model-itself/issues/6
+Faker-1.19                              https://github.com/awncorp/faker/issues/28
