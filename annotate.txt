@@ -7398,3 +7398,4 @@ namespace-lexical-0.002                 150587
 Config-Model-Itself-2.023               https://github.com/dod38fr/config-model-itself/issues/6
 Faker-1.19                              https://github.com/awncorp/faker/issues/28
 Chicken-Ipsum-1.000000                  https://codeberg.org/h3xx/perl-Chicken-Ipsum/issues/1
+App-Greple-subst-2.3301                 https://github.com/kaz-utashiro/greple-subst/issues/3
