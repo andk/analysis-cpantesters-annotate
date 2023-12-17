@@ -3761,7 +3761,7 @@ OpusVL-Preferences-0.33                 https://github.com/OpusVL/OpusVL-Prefere
 Anego-0.02                              https://github.com/papix/Anego/issues/5
 AnyEvent-Net-Amazon-S3-v0.04.0.80       127494
 Dist-Zilla-PluginBundle-QBit-0.8        127495
-Data-TreeDumper-Renderer-GTK-0.02       127497
+Data-TreeDumper-Renderer-GTK-0.03       127497
 Authen-TuringImage-1.008                124873
 DBI-1.641_90                            127501
 File-MimeInfo-Simple-0.7                95158,127502
