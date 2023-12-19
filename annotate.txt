@@ -7404,3 +7404,4 @@ App-Sqitch-v1.4.0                       https://github.com/sqitchers/sqitch/issu
 Devel-MAT-Tool-Future-0.03              150788
 Math-Currency-0.53                      https://github.com/mschout/perl-math-currency/issues/5
 MediaWiki-Bot-5.007000                  https://github.com/MediaWiki-Bot/MediaWiki-Bot/issues/108
+App-SpeedTest-0.28                      https://github.com/Tux/speedtest/issues/15
