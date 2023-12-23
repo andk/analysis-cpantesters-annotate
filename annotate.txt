@@ -7427,3 +7427,4 @@ Alien-autoconf-0.19                     https://github.com/PerlAlien/Alien-autoc
 IO-Socket-INET6-2.73                    deprecated
 Alien-LibMagic-0.003                    150858
 JavaScript-Duktape-2.5.0                https://github.com/mamod/JavaScript-Duktape/issues/42
+URI-ParseSearchString-More-0.18         https://github.com/oalders/uri-parsesearchstring-more/issues/4
