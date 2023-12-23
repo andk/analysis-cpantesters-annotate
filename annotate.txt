@@ -7425,3 +7425,4 @@ mojo-util-collection-v0.0.8             https://gitlab.com/AuroraSoftware/mojo-u
 Dpkg-1.22.2                             150857
 Alien-autoconf-0.19                     https://github.com/PerlAlien/Alien-autoconf/issues/17
 IO-Socket-INET6-2.73                    deprecated
+Alien-LibMagic-0.003                    150858
