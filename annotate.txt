@@ -7419,3 +7419,4 @@ Promise-ES6-0.28                        https://github.com/FGasper/p5-Promise-ES
 http-session-0.50                       https://github.com/tokuhirom/http-session/issues/10
 Catalyst-Controller-DBIC-API-2.008001   150855
 Image-Sane-5                            148487
+Email-Valid-1.203                       https://github.com/Perl-Email-Project/Email-Valid/issues/53
