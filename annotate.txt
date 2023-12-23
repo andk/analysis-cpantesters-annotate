@@ -7423,3 +7423,4 @@ Email-Valid-1.203                       https://github.com/Perl-Email-Project/Em
 IO-Socket-SSL-2.084                     https://github.com/noxxi/p5-io-socket-ssl/issues/148
 mojo-util-collection-v0.0.8             https://gitlab.com/AuroraSoftware/mojo-util-collection/-/issues/1
 Dpkg-1.22.2                             150857
+Alien-autoconf-0.19                     https://github.com/PerlAlien/Alien-autoconf/issues/17
