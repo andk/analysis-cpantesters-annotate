@@ -7426,3 +7426,4 @@ Dpkg-1.22.2                             150857
 Alien-autoconf-0.19                     https://github.com/PerlAlien/Alien-autoconf/issues/17
 IO-Socket-INET6-2.73                    deprecated
 Alien-LibMagic-0.003                    150858
+JavaScript-Duktape-2.5.0                https://github.com/mamod/JavaScript-Duktape/issues/42
