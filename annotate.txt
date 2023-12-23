@@ -7420,3 +7420,4 @@ http-session-0.50                       https://github.com/tokuhirom/http-sessio
 Catalyst-Controller-DBIC-API-2.008001   150855
 Image-Sane-5                            148487
 Email-Valid-1.203                       https://github.com/Perl-Email-Project/Email-Valid/issues/53
+IO-Socket-SSL-2.084                     https://github.com/noxxi/p5-io-socket-ssl/issues/148
