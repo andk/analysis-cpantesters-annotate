@@ -7421,3 +7421,4 @@ Catalyst-Controller-DBIC-API-2.008001   150855
 Image-Sane-5                            148487
 Email-Valid-1.203                       https://github.com/Perl-Email-Project/Email-Valid/issues/53
 IO-Socket-SSL-2.084                     https://github.com/noxxi/p5-io-socket-ssl/issues/148
+mojo-util-collection-v0.0.8             https://gitlab.com/AuroraSoftware/mojo-util-collection/-/issues/1
