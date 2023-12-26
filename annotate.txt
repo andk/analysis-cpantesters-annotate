@@ -7430,3 +7430,4 @@ JavaScript-Duktape-2.5.0                https://github.com/mamod/JavaScript-Dukt
 URI-ParseSearchString-More-0.18         https://github.com/oalders/uri-parsesearchstring-more/issues/4
 DBICx-Indexing-0.002                    150861
 Monorail-0.4                            150866
+App-MojoSlides-0.11                     deprecated, fails with Mojolicious 9.34
