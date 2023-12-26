@@ -7434,3 +7434,4 @@ App-MojoSlides-0.11                     deprecated, fails with Mojolicious 9.34
 Device-BusPirate-0.23                   150868
 Ethereum-RPC-Client-0.05                https://github.com/binary-com/perl-Ethereum-RPC-Client/issues/25
 Getopt-Long-DescriptivePod-0.05         150869
+Panda-NSS-0.004                         https://github.com/vovkasm/perl-Panda-NSS/issues/4
