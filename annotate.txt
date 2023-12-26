@@ -7432,3 +7432,4 @@ DBICx-Indexing-0.002                    150861
 Monorail-0.4                            150866
 App-MojoSlides-0.11                     deprecated, fails with Mojolicious 9.34
 Device-BusPirate-0.23                   150868
+Ethereum-RPC-Client-0.05                https://github.com/binary-com/perl-Ethereum-RPC-Client/issues/25
