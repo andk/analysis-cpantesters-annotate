@@ -7431,3 +7431,4 @@ URI-ParseSearchString-More-0.18         https://github.com/oalders/uri-parsesear
 DBICx-Indexing-0.002                    150861
 Monorail-0.4                            150866
 App-MojoSlides-0.11                     deprecated, fails with Mojolicious 9.34
+Device-BusPirate-0.23                   150868
