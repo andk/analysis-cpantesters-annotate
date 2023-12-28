@@ -7456,3 +7456,4 @@ Text-Treesitter-0.12                    150922
 CrowdSec-Client-0.03                    https://github.com/linagora/perl-crowdsec-client/issues/1
 Data-Dump-Partial-0.06                  150924
 Data-FormValidator-URI-0.03             https://github.com/bleargh45/Data-FormValidator-URI/issues/1
+Devel-MAT-0.51                          149851
