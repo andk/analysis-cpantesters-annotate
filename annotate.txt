@@ -7444,3 +7444,4 @@ Atomic-Pipe-0.020                       https://github.com/exodist/Atomic-Pipe/i
 CPAN-Reporter-Smoker-0.29               https://github.com/cpan-testers/CPAN-Reporter-Smoker/issues/13
 IO-Async-0.802                          150912
 Alien-libtickit-0.14                    150913
+AWS-S3-0.18                             https://github.com/leejo/AWS-S3/issues/19
