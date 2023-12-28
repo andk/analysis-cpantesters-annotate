@@ -7438,3 +7438,4 @@ Panda-NSS-0.004                         https://github.com/vovkasm/perl-Panda-NS
 Math-BigInt-GMPz-0.0014                 150877
 IO-AsyncX-Notifier-0.003                https://github.com/team-at-cpan/IO-AsyncX-Notifier/issues/3
 JSON_minify-1.1                         144107
+JavaScript-Embedded-2.7.2               150908
