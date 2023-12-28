@@ -7446,3 +7446,4 @@ IO-Async-0.802                          150912
 Alien-libtickit-0.14                    150913
 AWS-S3-0.18                             https://github.com/leejo/AWS-S3/issues/19
 App-sslmaker-0.19                       https://github.com/jhthorsen/app-sslmaker/issues/3
+CGI-Upload-1.13                         https://github.com/szabgab/CGI-Upload/issues/1
