@@ -7459,3 +7459,4 @@ Data-FormValidator-URI-0.03             https://github.com/bleargh45/Data-FormVa
 Devel-MAT-0.51                          149851
 Devel-MAT-Tool-Object-Pad-0.01          150925
 Email-Stuffer-TestLinks-0.03            https://github.com/binary-com/perl-Email-Stuffer-TestLinks/issues/10
+File-VirusScan-0.105                    150926
