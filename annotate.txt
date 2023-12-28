@@ -7443,3 +7443,4 @@ Net-AS2-PSGI-1.0                        150910
 Atomic-Pipe-0.020                       https://github.com/exodist/Atomic-Pipe/issues/1
 CPAN-Reporter-Smoker-0.29               https://github.com/cpan-testers/CPAN-Reporter-Smoker/issues/13
 IO-Async-0.802                          150912
+Alien-libtickit-0.14                    150913
