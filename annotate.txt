@@ -7455,3 +7455,4 @@ Test2-Harness-1.000155                  https://github.com/Test-More/Test2-Harne
 Text-Treesitter-0.12                    150922
 CrowdSec-Client-0.03                    https://github.com/linagora/perl-crowdsec-client/issues/1
 Data-Dump-Partial-0.06                  150924
+Data-FormValidator-URI-0.03             https://github.com/bleargh45/Data-FormValidator-URI/issues/1
