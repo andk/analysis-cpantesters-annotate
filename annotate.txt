@@ -7440,3 +7440,4 @@ IO-AsyncX-Notifier-0.003                https://github.com/team-at-cpan/IO-Async
 JSON_minify-1.1                         144107
 JavaScript-Embedded-2.7.2               150908
 Net-AS2-PSGI-1.0                        150910
+Atomic-Pipe-0.020                       https://github.com/exodist/Atomic-Pipe/issues/1
