@@ -7457,3 +7457,4 @@ CrowdSec-Client-0.03                    https://github.com/linagora/perl-crowdse
 Data-Dump-Partial-0.06                  150924
 Data-FormValidator-URI-0.03             https://github.com/bleargh45/Data-FormValidator-URI/issues/1
 Devel-MAT-0.51                          149851
+Devel-MAT-Tool-Object-Pad-0.01          150925
