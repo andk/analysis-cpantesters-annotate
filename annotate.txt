@@ -7460,3 +7460,4 @@ Devel-MAT-0.51                          149851
 Devel-MAT-Tool-Object-Pad-0.01          150925
 Email-Stuffer-TestLinks-0.03            https://github.com/binary-com/perl-Email-Stuffer-TestLinks/issues/10
 File-VirusScan-0.105                    150926
+Form-Tiny-2.22                          https://github.com/bbrtj/perl-form-tiny/issues/13
