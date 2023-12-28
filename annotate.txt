@@ -4980,7 +4980,7 @@ MooX-Options-4.103                      130811
 Math-BigInt-Lite-0.19                   130814
 Azure-Storage-Blob-Client-0.05          https://github.com/ureesoriano/Azure-Storage-Blob-Client/issues/7
 Perl-RT2Github-0.03                     130835
-Dancer2-Plugin-WebService-4.4.7         130836
+Dancer2-Plugin-WebService-4.4.7         130836,150923
 Data-NFA-20191030                       130837
 Yandex-Disk-0.07                        https://github.com/vrag86/perl-yandex-disk-api/issues/8
 Dir-Flock-0.03                          130861
