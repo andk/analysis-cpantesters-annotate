@@ -6627,7 +6627,7 @@ Paranoid-BerkeleyDB-2.03                141488
 DBIx-Class-0.082842                     https://github.com/Perl/perl5/issues/19452
 DBD-SQLite-1.71_03                      https://github.com/DBD-SQLite/DBD-SQLite/issues/95
 PDL-Parallel-threads-0.04               https://github.com/run4flat/PDL-Parallel-threads/issues/4
-JSON-Color-0.133                        141528
+JSON-Color-0.134                        141528
 SQL-Abstract-Plugin-TableAlias-0.02     141529
 Signals-XSIG-0.15                       141530,https://github.com/Perl/perl5/issues/19535
 Data-Format-Pretty-Console-0.391        141531,141532
