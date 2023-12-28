@@ -7436,3 +7436,4 @@ Ethereum-RPC-Client-0.05                https://github.com/binary-com/perl-Ether
 Getopt-Long-DescriptivePod-0.05         150869
 Panda-NSS-0.004                         https://github.com/vovkasm/perl-Panda-NSS/issues/4
 Math-BigInt-GMPz-0.0014                 150877
+IO-AsyncX-Notifier-0.003                https://github.com/team-at-cpan/IO-AsyncX-Notifier/issues/3
