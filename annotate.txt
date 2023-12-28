@@ -7449,3 +7449,4 @@ App-sslmaker-0.19                       https://github.com/jhthorsen/app-sslmake
 CGI-Upload-1.14                         https://github.com/szabgab/CGI-Upload/issues/1
 Bio-Sketch-Mash-0.9                     150918
 Test-TCP-2.22                           https://github.com/tokuhirom/Test-TCP/issues/18
+Net-Azure-EventHubs-0.09                https://github.com/libwww-perl/URI/issues/133
