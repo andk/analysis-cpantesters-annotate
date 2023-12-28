@@ -7453,3 +7453,4 @@ Net-Azure-EventHubs-0.09                https://github.com/libwww-perl/URI/issue
 Test2-Harness-Renderer-JUnit-1.000005   https://github.com/cpanel/Test2-Harness-Renderer-JUnit/issues/14
 Test2-Harness-1.000155                  https://github.com/Test-More/Test2-Harness/issues/238
 Text-Treesitter-0.12                    150922
+CrowdSec-Client-0.03                    https://github.com/linagora/perl-crowdsec-client/issues/1
