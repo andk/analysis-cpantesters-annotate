@@ -7476,3 +7476,4 @@ TAP-Formatter-Camelcade-2023.1          https://github.com/Camelcade/TAP-Formatt
 Glib-Ex-ObjectBits-16                   150938
 IO-Async-Loop-POE-0.06                  150939
 Mojolicious-Plugin-ReplyTable-0.12      https://github.com/jberger/Mojolicious-Plugin-ReplyTable/issues/10
+PDLx-Mask-0.06                          150940
