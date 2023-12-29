@@ -7486,3 +7486,4 @@ Syntax-Operator-Equ-0.07                150943
 Syntax-Operator-Identical-0.02          150943
 Syntax-Operator-In-0.07                 150943
 Syntax-Operator-Zip-0.07                150943
+Future-Mojo-1.002                       https://github.com/Grinnz/Future-Mojo/issues/7
