@@ -7469,3 +7469,4 @@ Mojo-IOLoop-ReadWriteProcess-0.34       https://github.com/openSUSE/Mojo-IOLoop-
 Games-Simutrans-Pakset-0.02             150935
 Mojo-Run3-1.03                          https://github.com/jhthorsen/mojo-run3/issues/2
 Net-AMQP-RabbitMQ-2.40010               https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq/issues/240
+POE-Component-Curl-Multi-1.00           150936
