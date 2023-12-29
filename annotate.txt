@@ -7481,3 +7481,8 @@ Signals-XSIG-1.00                       150941
 Tapper-CLI-5.0.7                        150683
 Redis-2.000                             https://github.com/PerlRedis/perl-redis/issues/173
 Suck-Huggingface-1.00                   150942
+Syntax-Operator-Divides-0.05            150943
+Syntax-Operator-Equ-0.07                150943
+Syntax-Operator-Identical-0.02          150943
+Syntax-Operator-In-0.07                 150943
+Syntax-Operator-Zip-0.07                150943
