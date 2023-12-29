@@ -7472,3 +7472,4 @@ Net-AMQP-RabbitMQ-2.40010               https://github.com/net-amqp-rabbitmq/net
 POE-Component-Curl-Multi-1.00           150936
 Parse-RPN-2.86                          150937
 Pg-Explain-2.7                          https://gitlab.com/depesz/Pg--Explain/-/issues/14
+TAP-Formatter-Camelcade-2023.1          https://github.com/Camelcade/TAP-Formatter-Camelcade/issues/14
