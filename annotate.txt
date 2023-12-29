@@ -6098,7 +6098,7 @@ Text-Table-More-0.010                   https://github.com/perlancar/perl-Text-T
 Text-Table-Span-0.009                   https://github.com/perlancar/perl-Text-Table-Span/issues/2
 Text-Tradition-2.1.0                    131225
 Types-Algebraic-0.06                    https://github.com/Eckankar/Types-Algebraic/issues/5,https://github.com/Eckankar/Types-Algebraic/issues/6
-WebService-CEPH-0.018                   134398
+WebService-CEPH-0.017                   134398
 Data-Sah-Resolve-0.007                  134410
 Authen-NZRealMe-1.21                    https://github.com/catalyst/Authen-NZRealMe/issues/9
 Bundle-Maintainer-MHASCH-0.004          https://github.com/mhasch/perl-Bundle-Maintainer-MHASCH/issues/1
