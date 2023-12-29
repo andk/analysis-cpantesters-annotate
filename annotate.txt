@@ -7336,7 +7336,7 @@ CXC-Number-0.12                         https://gitlab.com/djerius/cxc-number/-/
 Object-PadX-Log-Log4perl-0.001          149940
 DBD-mysql-5.001                         https://github.com/perl5-dbi/DBD-mysql/issues/362,https://github.com/perl5-dbi/DBD-mysql/issues/361
 CGI-Application-Plugin-Session-1.05     149959
-Process-SubProcess-2.1.8                https://github.com/bodo-hugo-barwich/Process/issues/48,https://github.com/bodo-hugo-barwich/Process/issues/49
+Process-SubProcess-2.1.9                https://github.com/bodo-hugo-barwich/Process/issues/48,https://github.com/bodo-hugo-barwich/Process/issues/49
 App-Sandy-0.25                          https://github.com/galantelab/sandy/issues/9
 Shell-Var-Reader-0.5.1                  150060
 Sah-Schemas-Str-0.015                   150115
