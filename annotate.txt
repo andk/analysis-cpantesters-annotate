@@ -7479,3 +7479,4 @@ Mojolicious-Plugin-ReplyTable-0.12      https://github.com/jberger/Mojolicious-P
 PDLx-Mask-0.06                          150940
 Signals-XSIG-1.00                       150941
 Tapper-CLI-5.0.7                        150683
+Redis-2.000                             https://github.com/PerlRedis/perl-redis/issues/173
