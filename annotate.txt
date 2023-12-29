@@ -7465,3 +7465,4 @@ Graph-ModularDecomposition-0.15         150928
 HTTP-OAI-4.13                           https://github.com/LibreCat/perl-oai-lib/issues/9
 FunctionalPerl-0.72.76                  150932
 IO-FD-v0.3.5                            150934
+Mojo-IOLoop-ReadWriteProcess-0.34       https://github.com/openSUSE/Mojo-IOLoop-ReadWriteProcess/issues/59
