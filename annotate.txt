@@ -7467,3 +7467,4 @@ FunctionalPerl-0.72.76                  150932
 IO-FD-v0.3.5                            150934
 Mojo-IOLoop-ReadWriteProcess-0.34       https://github.com/openSUSE/Mojo-IOLoop-ReadWriteProcess/issues/59
 Games-Simutrans-Pakset-0.02             150935
+Mojo-Run3-1.03                          https://github.com/jhthorsen/mojo-run3/issues/2
