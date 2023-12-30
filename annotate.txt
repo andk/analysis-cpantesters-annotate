@@ -501,7 +501,7 @@ Tie-Array-QueueExpire-1.04              95090
 Dancer-Logger-LogHandler-0.01           87580
 OAuth2-Google-Plus-0.03                 90368
 Catalyst-Controller-SOAP-1.25           95327
-Enbugger-2.016                          95079
+Enbugger-2.016                          95079,150950
 IO-Pty-Easy-0.09                        95702
 Embperl-2.5.0                           95335,110023,115102,123230
 Test-DBICSchemaLoaderDigest-0.04        https://github.com/RsrchBoy/test-dbicschemaloaderdigest/issues/2
