@@ -7493,3 +7493,4 @@ POE-Future-0.04                         150944
 Web-Request-0.11                        https://github.com/doy/web-request/issues/4
 WebService-Rollbar-Notifier-1.002010    https://github.com/zoffixznet/WebService-Rollbar-Notifier/issues/14
 IO-Async-SSL-0.25                       150945
+YAMLScript-Lingy-0.2.1                  https://github.com/ingydotnet/yamlscript-lingy-pm/issues/1
