@@ -7492,3 +7492,4 @@ ODF-lpOD_Helper-6.009                   https://github.com/jimav/ODF-lpOD_Helper
 POE-Future-0.04                         150944
 Web-Request-0.11                        https://github.com/doy/web-request/issues/4
 WebService-Rollbar-Notifier-1.002010    https://github.com/zoffixznet/WebService-Rollbar-Notifier/issues/14
+IO-Async-SSL-0.25                       150945
