@@ -7494,3 +7494,4 @@ Web-Request-0.11                        https://github.com/doy/web-request/issue
 WebService-Rollbar-Notifier-1.002010    https://github.com/zoffixznet/WebService-Rollbar-Notifier/issues/14
 IO-Async-SSL-0.25                       150945
 YAMLScript-Lingy-0.2.1                  https://github.com/ingydotnet/yamlscript-lingy-pm/issues/1
+NIST-NVD-1.02.01                        150949
