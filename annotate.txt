@@ -7498,3 +7498,4 @@ NIST-NVD-1.02.01                        150949
 App-perlvars-0.000004                   https://github.com/perl-ide/App-perlvars/issues/4
 SDL-2.548                               https://github.com/PerlGameDev/SDL/issues/303
 Bloom16-0.01                            147667,150951
+Devel-Chitin-0.22                       150952
