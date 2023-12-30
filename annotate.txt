@@ -7495,3 +7495,4 @@ WebService-Rollbar-Notifier-1.002010    https://github.com/zoffixznet/WebService
 IO-Async-SSL-0.25                       150945
 YAMLScript-Lingy-0.2.1                  https://github.com/ingydotnet/yamlscript-lingy-pm/issues/1
 NIST-NVD-1.02.01                        150949
+App-perlvars-0.000004                   https://github.com/perl-ide/App-perlvars/issues/4
