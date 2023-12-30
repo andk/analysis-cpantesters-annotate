@@ -7499,3 +7499,4 @@ App-perlvars-0.000004                   https://github.com/perl-ide/App-perlvars
 SDL-2.548                               https://github.com/PerlGameDev/SDL/issues/303
 Bloom16-0.01                            147667,150951
 Devel-Chitin-0.22                       150952
+POE-Component-Curl-Multi-1.02           150953
