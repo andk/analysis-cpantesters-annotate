@@ -7502,3 +7502,4 @@ Devel-Chitin-0.22                       150952
 POE-Component-Curl-Multi-1.02           150953
 RPM-Query-0.03                          https://github.com/mrdvt92/perl-RPM-Query/issues/1
 XS-Framework-1.5.5                      https://github.com/Perl/perl5/issues/21782
+SQL-Translator-1.64                     https://github.com/dbsrgits/sql-translator/issues/169
