@@ -7505,3 +7505,4 @@ XS-Framework-1.5.5                      https://github.com/Perl/perl5/issues/217
 SQL-Translator-1.64                     https://github.com/dbsrgits/sql-translator/issues/169
 SQL-Translator-Producer-DBIxSchemaDSL-0.04 https://github.com/karupanerura/SQL-Translator-Producer-DBIxSchemaDSL/issues/1
 App-Music-ChordPro-6.040                https://github.com/ChordPro/chordpro/issues/338
+OpenAPI-Modern-0.055                    https://github.com/karenetheridge/OpenAPI-Modern/issues/70
