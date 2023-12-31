@@ -7500,3 +7500,4 @@ SDL-2.548                               https://github.com/PerlGameDev/SDL/issue
 Bloom16-0.01                            147667,150951
 Devel-Chitin-0.22                       150952
 POE-Component-Curl-Multi-1.02           150953
+RPM-Query-0.03                          https://github.com/mrdvt92/perl-RPM-Query/issues/1
