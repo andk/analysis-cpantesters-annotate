@@ -7507,3 +7507,4 @@ SQL-Translator-Producer-DBIxSchemaDSL-0.04 https://github.com/karupanerura/SQL-T
 App-Music-ChordPro-6.040                https://github.com/ChordPro/chordpro/issues/338
 OpenAPI-Modern-0.055                    https://github.com/karenetheridge/OpenAPI-Modern/issues/70
 Mojo-DB-Results-Role-Struct-v0.1.1      150958
+Coro-6.57                               https://github.com/Perl/perl5/issues/21784
