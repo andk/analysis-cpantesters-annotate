@@ -3383,7 +3383,7 @@ Moot-2.0.13                             124235
 Image-Leptonica-0.04                    124238
 MarekPodHtml-0.49                       94629
 Catalyst-Plugin-Static-Simple-ButMaintained-0.30 124245
-CGI-Application-MailPage-1.7            124257,124258
+CGI-Application-MailPage-1.7            124257,124258,150990,150991
 Mojolicious-Plugin-Paging-0.1.2         124265
 CPAN-Reporter-Smoker-Safer-0.04         may fail if www.cpantesters.org is unavailable,96959
 Fukurama-Class-0.032                    124263
