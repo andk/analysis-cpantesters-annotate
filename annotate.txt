@@ -5856,7 +5856,7 @@ Data-Printer-0.99_021                   https://github.com/garu/Data-Printer/iss
 Weather-NHC-TropicalCyclone-0.18        133425
 Test-PerlTidy-20200412                  https://github.com/shlomif/Test-PerlTidy/issues/5
 UR-0.47                                 https://github.com/genome/UR/issues/154,https://github.com/genome/UR/issues/156
-Debug-Client-0.31                       https://github.com/PadreIDE/Debug-Client/issues/12
+Debug-Client-0.31                       https://github.com/PadreIDE/Debug-Client/issues/12,https://github.com/PadreIDE/Debug-Client/issues/13
 YAML-Tidy-0.001_001                     https://github.com/perlpunk/yamltidy/issues/1
 Return-MultiLevel-0.05                  133221
 Spreadsheet-ReadSXC-0.28                133432
