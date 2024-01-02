@@ -7514,3 +7514,4 @@ BPM-Engine-0.01                         115219
 MIME-Signature-0.22                     149225,150118
 DateTime-Format-RFC3339-v1.4.0          https://github.com/ikegami/perl-DateTime-Format-RFC3339/issues/4
 Mail-Builder-2.13                       150118
+Bot-BasicBot-Pluggable-1.30             151002
