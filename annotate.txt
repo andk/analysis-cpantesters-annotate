@@ -7516,3 +7516,4 @@ DateTime-Format-RFC3339-v1.4.0          https://github.com/ikegami/perl-DateTime
 Mail-Builder-2.13                       150118
 Bot-BasicBot-Pluggable-1.30             151002
 Experian-IDAuth-2.53                    https://github.com/binary-com/perl-experian-idauth/issues/27
+File-PM2File-0.08                       150975
