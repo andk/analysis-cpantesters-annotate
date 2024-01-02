@@ -7520,3 +7520,4 @@ File-PM2File-0.08                       150975
 Mail-GPG-1.0.12                         127756
 Tcl-1.29                                151003
 Net-Curl-0.55                           https://github.com/sparky/perl-Net-Curl/issues/75
+Spreadsheet-Read-0.89                   https://github.com/Tux/Spreadsheet-Read/issues/52
