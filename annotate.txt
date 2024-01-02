@@ -7501,7 +7501,7 @@ Bloom16-0.01                            147667,150951
 Devel-Chitin-0.22                       150952
 POE-Component-Curl-Multi-1.02           150953
 RPM-Query-0.03                          https://github.com/mrdvt92/perl-RPM-Query/issues/1
-XS-Framework-1.5.5                      https://github.com/Perl/perl5/issues/21782
+XS-Framework-1.5.5                      https://github.com/Perl/perl5/issues/21782,150957
 SQL-Translator-1.64                     https://github.com/dbsrgits/sql-translator/issues/169
 SQL-Translator-Producer-DBIxSchemaDSL-0.04 https://github.com/karupanerura/SQL-Translator-Producer-DBIxSchemaDSL/issues/1
 App-Music-ChordPro-6.040                https://github.com/ChordPro/chordpro/issues/338
