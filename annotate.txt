@@ -7522,3 +7522,4 @@ Tcl-1.29                                151003
 Net-Curl-0.55                           https://github.com/sparky/perl-Net-Curl/issues/75
 Spreadsheet-Read-0.89                   https://github.com/Tux/Spreadsheet-Read/issues/52
 Rose-DBx-Role-QueryCannery-1.00         151005
+App-perl-distrolint-0.05                151015
