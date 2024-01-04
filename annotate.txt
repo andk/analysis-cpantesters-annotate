@@ -7082,7 +7082,7 @@ Email-Valid-1.203                       https://github.com/Perl-Email-Project/Em
 Net-Gemini-0.01                         144920,144921
 Git-Raw-0.90                            https://github.com/jacquesg/p5-Git-Raw/issues/226
 Test2-Tools-Rustfmt-0.02                https://github.com/uperl/Test2-Tools-Rustfmt/issues/3
-Future-Queue-0.49                       144931
+Future-Queue-0.52                       144931
 WebFetch-Input-RSS-0.2.1                https://github.com/ikluft/WebFetch/issues/4
 Alien-libdeflate-0.03                   https://github.com/kiwiroy/alien-libdeflate/issues/3,https://github.com/kiwiroy/alien-libdeflate/pull/4
 FunctionalPerl-0.72.66                  144932
