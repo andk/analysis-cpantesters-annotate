@@ -7523,3 +7523,4 @@ Spreadsheet-Read-0.89                   https://github.com/Tux/Spreadsheet-Read/
 Rose-DBx-Role-QueryCannery-1.00         151005
 App-perl-distrolint-0.05                151015,151016
 XS-Parse-Keyword-FromPerl-0.08          151018
+DB-Object-v1.1.1                        https://gitlab.com/jackdeguest/DB-Object/-/issues/3
