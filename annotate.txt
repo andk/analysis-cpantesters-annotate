@@ -7525,3 +7525,4 @@ App-perl-distrolint-0.05                151015,151016
 XS-Parse-Keyword-FromPerl-0.08          151018
 DB-Object-v1.1.1                        https://gitlab.com/jackdeguest/DB-Object/-/issues/3
 IPCamera-Reolink-1.00                   151037
+REST-Client-281                         https://github.com/milescrawford/cpan-rest-client/issues/8
