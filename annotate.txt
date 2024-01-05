@@ -7527,3 +7527,4 @@ DB-Object-v1.1.1                        https://gitlab.com/jackdeguest/DB-Object
 IPCamera-Reolink-1.00                   151037
 REST-Client-281                         https://github.com/milescrawford/cpan-rest-client/issues/8
 Thread-CSP-0.012                        https://github.com/Leont/threads-csp/issues/5
+Promise-Me-v0.4.8                       https://gitlab.com/jackdeguest/Promise-Me/-/issues/3
