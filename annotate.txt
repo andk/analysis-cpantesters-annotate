@@ -7531,3 +7531,4 @@ Promise-Me-v0.4.8                       https://gitlab.com/jackdeguest/Promise-M
 Devel-MAT-Tool-Object-Pad-0.02          151048
 Plack-App-Register-0.03                 https://github.com/kazeburo/Cookie-Baker/issues/17
 App-RunStopRun-0.09                     151056
+Locale-CLDR-Locales-En-v0.40.0          https://github.com/ThePilgrim/perlcldr/issues/43
