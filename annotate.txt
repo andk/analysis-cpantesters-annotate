@@ -7530,3 +7530,4 @@ Thread-CSP-0.012                        https://github.com/Leont/threads-csp/iss
 Promise-Me-v0.4.8                       https://gitlab.com/jackdeguest/Promise-Me/-/issues/3
 Devel-MAT-Tool-Object-Pad-0.02          151048
 Plack-App-Register-0.03                 https://github.com/kazeburo/Cookie-Baker/issues/17
+App-RunStopRun-0.09                     151056
