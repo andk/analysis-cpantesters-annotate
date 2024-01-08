@@ -7533,3 +7533,4 @@ Plack-App-Register-0.03                 https://github.com/kazeburo/Cookie-Baker
 App-RunStopRun-0.09                     151056
 Locale-CLDR-Locales-En-v0.40.0          https://github.com/ThePilgrim/perlcldr/issues/43
 Math-MPC-1.31                           151057
+WebService-SlimTimer-0.005              151064
