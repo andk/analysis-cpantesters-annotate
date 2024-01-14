@@ -7535,3 +7535,4 @@ Locale-CLDR-Locales-En-v0.40.0          https://github.com/ThePilgrim/perlcldr/i
 Math-MPC-1.31                           151057
 WebService-SlimTimer-0.005              151064
 File-Find-Fast-0.4.0                    151097
+mojo-util-collection-v0.0.9             https://gitlab.com/AuroraSoftware/mojo-util-collection/-/issues/2
