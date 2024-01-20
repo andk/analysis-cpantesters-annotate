@@ -6353,7 +6353,7 @@ Throwable-SugarFactory-0.152700         137489
 File-Temp-MoreUtils-0.001               137587
 QRCode-Base45-0.01                      137588
 App-perlimports-0.000016                https://github.com/oalders/App-perlimports/issues/30
-BioPerl-1.7.8                           https://github.com/bioperl/bioperl-live/issues/362
+BioPerl-1.7.8                           https://github.com/bioperl/bioperl-live/issues/362,https://github.com/bioperl/bioperl-live/issues/385
 Bio-FastParsers-0.221230                137755
 Object-Pad-0.44                         137751
 Text-Table-More-0.014                   https://github.com/perlancar/perl-Text-Table-More/issues/3
