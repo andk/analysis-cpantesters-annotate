@@ -7539,3 +7539,4 @@ mojo-util-collection-v0.0.10            https://gitlab.com/AuroraSoftware/mojo-u
 Progress-Awesome-0.1                    151142
 App-sdview-Output-Tickit-0.05           151143
 Crypt-Passphrase-0.017                  https://github.com/Leont/crypt-passphrase/issues/4
+Dist-Zilla-Plugin-GitHub-CreateRelease-0.0006 https://github.com/timlegge/perl-Dist-Zilla-Plugin-GitHub-CreateRelease/issues/3
