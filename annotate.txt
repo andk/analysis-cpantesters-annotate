@@ -7542,3 +7542,4 @@ Crypt-Passphrase-0.017                  https://github.com/Leont/crypt-passphras
 Dist-Zilla-Plugin-GitHub-CreateRelease-0.0006 https://github.com/timlegge/perl-Dist-Zilla-Plugin-GitHub-CreateRelease/issues/3
 LMDB_File-0.13                          151188
 Modern-Perl-1.20240115                  151189,151190
+SignalWire-RestAPI-1.5                  151191
