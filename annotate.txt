@@ -7547,3 +7547,4 @@ Variable-Magic-0.63                     151104
 Data-Printer-1.002000                   https://github.com/garu/Data-Printer/issues/189
 TLV-EMV-Parser-1.00                     151194
 App-PTP-1.11                            https://github.com/mkende/ptp/issues/1
+Games-Axmud-2.0.0                       https://github.com/axcore/axmud/issues/19
