@@ -6357,7 +6357,7 @@ BioPerl-1.7.8                           https://github.com/bioperl/bioperl-live/
 Bio-FastParsers-0.221230                137755
 Object-Pad-0.44                         137751
 Text-Table-More-0.014                   https://github.com/perlancar/perl-Text-Table-More/issues/3
-Paws-0.44                               https://github.com/pplu/aws-sdk-perl/issues/416
+Paws-0.46                               https://github.com/pplu/aws-sdk-perl/issues/416
 Dancer2-Plugin-PrometheusTiny-0.005     https://github.com/SysPete/Dancer2-Plugin-PrometheusTiny/issues/1
 Finance-IG-0.101                        137758,137955
 Math-Cryptarithm-v0.20.1                137759
