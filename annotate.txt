@@ -7544,3 +7544,4 @@ LMDB_File-0.13                          151188
 Modern-Perl-1.20240115                  151189,151190
 SignalWire-RestAPI-1.5                  151191
 Variable-Magic-0.63                     151104
+Data-Printer-1.002000                   https://github.com/garu/Data-Printer/issues/189
