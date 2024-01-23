@@ -7553,3 +7553,4 @@ App-PTP-1.11-2                          https://github.com/mkende/ptp/issues/1,h
 Cache-utLRU-0.002000                    https://github.com/Perl/perl5/issues/21876
 OpenTelemetry-SDK-0.021                 https://github.com/jjatria/perl-opentelemetry-sdk/issues/12
 Text-ANSITable-0.609                    151225
+Spreadsheet-Edit-1000.012               https://github.com/jimav/Spreadsheet-Edit/issues/2
