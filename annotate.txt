@@ -7551,3 +7551,4 @@ Games-Axmud-2.0.001                     https://github.com/axcore/axmud/issues/1
 Data-URIID-v0.05                        151212
 App-PTP-1.11-2                          https://github.com/mkende/ptp/issues/1,https://github.com/Perl/perl5/issues/21867
 Cache-utLRU-0.002000                    https://github.com/Perl/perl5/issues/21876
+OpenTelemetry-SDK-0.021                 https://github.com/jjatria/perl-opentelemetry-sdk/issues/12
