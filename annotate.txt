@@ -7550,3 +7550,4 @@ App-PTP-1.11                            https://github.com/mkende/ptp/issues/1
 Games-Axmud-2.0.001                     https://github.com/axcore/axmud/issues/19
 Data-URIID-v0.05                        151212
 App-PTP-1.11-2                          https://github.com/mkende/ptp/issues/1,https://github.com/Perl/perl5/issues/21867
+Cache-utLRU-0.002000                    https://github.com/Perl/perl5/issues/21876
