@@ -7554,3 +7554,4 @@ Cache-utLRU-0.002000                    https://github.com/Perl/perl5/issues/218
 OpenTelemetry-SDK-0.021                 https://github.com/jjatria/perl-opentelemetry-sdk/issues/12
 Text-ANSITable-0.609                    151225
 Spreadsheet-Edit-1000.012               https://github.com/jimav/Spreadsheet-Edit/issues/2
+Terse-0.23                              151226
