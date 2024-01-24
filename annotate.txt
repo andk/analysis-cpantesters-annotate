@@ -7555,3 +7555,4 @@ OpenTelemetry-SDK-0.021                 https://github.com/jjatria/perl-opentele
 Text-ANSITable-0.609                    151225
 Spreadsheet-Edit-1000.012               https://github.com/jimav/Spreadsheet-Edit/issues/2
 Terse-0.23                              151226
+Tickit-Widget-Table-0.216               151229
