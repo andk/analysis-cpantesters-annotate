@@ -7560,3 +7560,4 @@ Params-Validate-Dependencies-1.41       https://github.com/DrHyde/perl-modules-P
 Search-Elasticsearch-Client-7_0-8.12    https://github.com/elastic/elasticsearch-perl/issues/240
 SVGPDF-0.084                            151331
 POSIX-RT-Signal-0.016                   https://github.com/Leont/posix-rt-signal/issues/1
+Dist-Setup-0.04                         https://github.com/mkende/perl-dist-setup/issues/2
