@@ -7562,3 +7562,4 @@ SVGPDF-0.084                            151331
 POSIX-RT-Signal-0.016                   https://github.com/Leont/posix-rt-signal/issues/1
 Dist-Setup-0.04                         https://github.com/mkende/perl-dist-setup/issues/2
 Dist-Setup-0.05                         https://github.com/mkende/perl-dist-setup/issues/3
+Tags-HTML-Element-0.05                  https://github.com/michal-josef-spacek/Tags-HTML-Element/issues/1
