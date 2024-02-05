@@ -7563,3 +7563,4 @@ POSIX-RT-Signal-0.016                   https://github.com/Leont/posix-rt-signal
 Dist-Setup-0.04                         https://github.com/mkende/perl-dist-setup/issues/2
 Dist-Setup-0.05                         https://github.com/mkende/perl-dist-setup/issues/3
 Tags-HTML-Element-0.05                  https://github.com/michal-josef-spacek/Tags-HTML-Element/issues/1
+PGXN-Site-v0.23.2                       151563
