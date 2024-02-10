@@ -7564,3 +7564,4 @@ Dist-Setup-0.04                         https://github.com/mkende/perl-dist-setu
 Dist-Setup-0.05                         https://github.com/mkende/perl-dist-setup/issues/3
 Tags-HTML-Element-0.05                  https://github.com/michal-josef-spacek/Tags-HTML-Element/issues/1
 PGXN-Site-v0.23.3                       151563
+Compress-BGZF-0.007                     151718
