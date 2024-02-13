@@ -7568,3 +7568,5 @@ Compress-BGZF-0.007                     151718
 OrePAN2-0.50                            https://github.com/tokuhirom/OrePAN2/issues/66
 Alien-Qhull-v8.0.2.1                    151723
 Data-MARC-Leader-0.05                   https://github.com/michal-josef-spacek/Data-MARC-Leader/issues/1
+Tags-HTML-Element-0.07                  https://github.com/michal-josef-spacek/Tags-HTML-Element/issues/2
+Net-EANSearch-1.00                      151757
