@@ -7571,3 +7571,4 @@ Data-MARC-Leader-0.05                   https://github.com/michal-josef-spacek/D
 Tags-HTML-Element-0.07                  https://github.com/michal-josef-spacek/Tags-HTML-Element/issues/2
 Net-EANSearch-1.00                      151757
 Module-Generic-v0.35.0                  https://gitlab.com/jackdeguest/Module-Generic/-/issues/9
+OpenMP-Simple-0.0.5                     151997
