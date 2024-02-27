@@ -7574,3 +7574,5 @@ Module-Generic-v0.35.0                  https://gitlab.com/jackdeguest/Module-Ge
 OpenMP-Simple-0.0.5                     151997
 Test-Files-0.22                         https://github.com/jsf116/Test-Files/issues/1
 Dancer2-Controllers-1.0                 https://github.com/rawleyfowler/Dancer2-Controllers/issues/1
+DBIx-Perlish-1.07                       https://github.com/Perl/perl5/issues/21822
+Variable-Magic-0.63                     https://github.com/Perl/perl5/issues/21822
