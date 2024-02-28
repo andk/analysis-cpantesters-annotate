@@ -7577,3 +7577,4 @@ Dancer2-Controllers-1.0                 https://github.com/rawleyfowler/Dancer2-
 DBIx-Perlish-1.07                       https://github.com/Perl/perl5/issues/21822
 Variable-Magic-0.63                     https://github.com/Perl/perl5/issues/21822
 B-Hooks-EndOfScope-0.27                 152080
+Variable-OnDestruct-0.07                152081
