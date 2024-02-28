@@ -7578,3 +7578,4 @@ DBIx-Perlish-1.07                       https://github.com/Perl/perl5/issues/218
 Variable-Magic-0.63                     https://github.com/Perl/perl5/issues/21822
 B-Hooks-EndOfScope-0.27                 152080
 Variable-OnDestruct-0.07                152081
+Graphics-ColorNames-WWW-1.14            https://github.com/Perl/perl5/issues/22048
