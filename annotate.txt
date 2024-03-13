@@ -7584,3 +7584,4 @@ Mojolicious-Plugin-WebComponent-0.04    https://github.com/rshingleton/Mojolicio
 Sisimai-v5.0.0                          https://github.com/sisimai/p5-sisimai/issues/505
 Command-Interactive-1.4                 https://github.com/binary-com/perl-command-interactive/issues/8
 Qhull-0.03                              152210
+Mail-DMARC-1.20240313                   https://github.com/msimerson/mail-dmarc/issues/226
