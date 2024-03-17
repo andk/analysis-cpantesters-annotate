@@ -7586,3 +7586,4 @@ Command-Interactive-1.4                 https://github.com/binary-com/perl-comma
 Qhull-0.03                              152210
 Mail-DMARC-1.20240313                   https://github.com/msimerson/mail-dmarc/issues/226
 Games-Sudoku-Pdf-0.05                   152360
+AlignDB-ToXLSX-1.2.1                    https://github.com/wang-q/AlignDB-ToXLSX/issues/1
