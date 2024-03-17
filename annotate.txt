@@ -7585,3 +7585,4 @@ Sisimai-v5.0.0                          https://github.com/sisimai/p5-sisimai/is
 Command-Interactive-1.4                 https://github.com/binary-com/perl-command-interactive/issues/8
 Qhull-0.03                              152210
 Mail-DMARC-1.20240313                   https://github.com/msimerson/mail-dmarc/issues/226
+Games-Sudoku-Pdf-0.05                   152360
