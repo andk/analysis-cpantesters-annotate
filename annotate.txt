@@ -7118,7 +7118,7 @@ Message-Passing-Syslog-0.012            145209
 Travel-Status-DE-IRIS-1.73              145210
 Dancer-1.3513                           https://github.com/PerlDancer/Dancer/issues/1237
 Devel-FIXME-0.02                        https://github.com/Perl/perl5/issues/20535
-Log-Any-Adapter-DERIV-0.007             https://github.com/binary-com/perl-Log-Any-Adapter-DERIV/issues/15
+Log-Any-Adapter-DERIV-0.008             https://github.com/binary-com/perl-Log-Any-Adapter-DERIV/issues/15
 Coro-6.57                               https://github.com/Perl/perl5/issues/20557
 Object-Pad-0.72                         145278
 Prima-1.67                              https://github.com/Perl/perl5/issues/20565
