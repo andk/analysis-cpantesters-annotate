@@ -7590,3 +7590,4 @@ AlignDB-ToXLSX-1.2.1                    https://github.com/wang-q/AlignDB-ToXLSX
 Data-Table-Excel-0.5                    152364
 App-csvtool-0.02                        152445
 Date-Holidays-Adapter-USA-0.0101        152476
+ImgurAPI-Client-1.0.0                   152477
