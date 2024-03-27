@@ -7577,7 +7577,7 @@ Dancer2-Controllers-1.0                 https://github.com/rawleyfowler/Dancer2-
 DBIx-Perlish-1.07                       https://github.com/Perl/perl5/issues/21822
 Variable-Magic-0.63                     https://github.com/Perl/perl5/issues/21822
 B-Hooks-EndOfScope-0.27                 152080
-Variable-OnDestruct-0.07                152081
+Variable-OnDestruct-0.08                152081
 Graphics-ColorNames-WWW-1.14            https://github.com/Perl/perl5/issues/22048
 Data-Dumper-Interp-7.004                https://github.com/jimav/Data-Dumper-Interp/issues/2
 Mojolicious-Plugin-WebComponent-0.04    https://github.com/rshingleton/Mojolicious-Plugin-WebComponent/issues/1
