@@ -7594,3 +7594,4 @@ ImgurAPI-Client-1.0.0                   152477
 Zonemaster-LDNS-4.0.0                   https://github.com/zonemaster/zonemaster-ldns/issues/183
 Method-Signatures-20170211              149458
 HTTP-Request-Diff-0.03                  https://github.com/Corion/HTTP-Request-Diff/issues/1
+HTTP-Request-Diff-0.03                  https://github.com/Corion/HTTP-Request-Diff/issues/2
