@@ -7487,7 +7487,7 @@ Syntax-Operator-In-0.07                 150943
 Syntax-Operator-Zip-0.07                150943
 Future-Mojo-1.002                       https://github.com/Grinnz/Future-Mojo/issues/7
 Net-Async-Github-0.012                  https://github.com/team-at-cpan/Net-Async-Github/issues/7
-ODF-lpOD_Helper-6.010                   https://github.com/jimav/ODF-lpOD_Helper/issues/3
+ODF-lpOD_Helper-6.011                   https://github.com/jimav/ODF-lpOD_Helper/issues/3
 POE-Future-0.04                         150944
 Web-Request-0.11                        https://github.com/doy/web-request/issues/4
 WebService-Rollbar-Notifier-1.002010    https://github.com/zoffixznet/WebService-Rollbar-Notifier/issues/14
