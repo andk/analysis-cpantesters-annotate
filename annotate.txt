@@ -1642,7 +1642,7 @@ Acme-24-0.04                            113287
 Log-Declare-0.10                        https://github.com/companieshouse/Log-Declare/issues/8
 Wily-0.02                               113334
 WWW-Finances-Bovespa-0.10               113338
-Dist-Zilla-Plugin-ChangesFromYaml-0.005 https://github.com/carloslima/dist-zilla-plugin-changesfromyaml/issues/4
+Dist-Zilla-Plugin-ChangesFromYaml-0.005 https://github.com/carloslima/dist-zilla-plugin-changesfromyaml/issues/4,https://github.com/carloslima/dist-zilla-plugin-changesfromyaml/issues/5
 Class-DBI-Frozen-301-3.0.1              113447
 Math-Prime-TiedArray-0.04               58150
 Class-StorageFactory-1.0                113467
