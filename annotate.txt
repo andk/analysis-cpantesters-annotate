@@ -7601,3 +7601,4 @@ Data-Fake-0.006                         https://github.com/dagolden/Data-Fake/is
 Devel-Cover-1.41                        https://github.com/pjcj/Devel--Cover/issues/336
 ExtUtils-Builder-0.001                  https://github.com/Leont/extutils-builder-plan/issues/1
 Crypt-OpenSSL-Base-Func-0.038           https://github.com/abbypan/Crypt-OpenSSL-Base-Func/issues/5
+Mojolicious-Plugin-OpenAPI-Modern-0.009 https://github.com/karenetheridge/Mojolicious-Plugin-OpenAPI-Modern/issues/31
