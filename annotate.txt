@@ -7603,3 +7603,4 @@ ExtUtils-Builder-0.001                  https://github.com/Leont/extutils-builde
 Crypt-OpenSSL-Base-Func-0.038           https://github.com/abbypan/Crypt-OpenSSL-Base-Func/issues/5
 Mojolicious-Plugin-OpenAPI-Modern-0.009 https://github.com/karenetheridge/Mojolicious-Plugin-OpenAPI-Modern/issues/31
 Feed-Data-AlJazeera-0.01                153449
+Linux-Info-2.0                          https://github.com/glasswalk3r/Linux-Info/issues/10
