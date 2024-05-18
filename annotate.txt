@@ -7604,3 +7604,4 @@ Crypt-OpenSSL-Base-Func-0.038           https://github.com/abbypan/Crypt-OpenSSL
 Mojolicious-Plugin-OpenAPI-Modern-0.009 https://github.com/karenetheridge/Mojolicious-Plugin-OpenAPI-Modern/issues/31
 Feed-Data-AlJazeera-0.01                153449
 Linux-Info-2.0                          https://github.com/glasswalk3r/Linux-Info/issues/10
+Locale-Unicode-v0.1.0                   https://gitlab.com/jackdeguest/Locale-Unicode/-/issues/1
