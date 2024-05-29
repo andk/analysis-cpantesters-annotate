@@ -7607,3 +7607,4 @@ Linux-Info-2.0                          https://github.com/glasswalk3r/Linux-Inf
 Locale-Unicode-v0.1.0                   https://gitlab.com/jackdeguest/Locale-Unicode/-/issues/1
 OpenSearch-0.02                         https://github.com/localh0rst/OpenSearch-Perl/issues/1
 Linux-Info-2.11                         https://github.com/glasswalk3r/Linux-Info/issues/14
+OpenAPI-Client-OpenAI-0.05              https://github.com/nferraz/perl-openapi-client-openai/issues/7
