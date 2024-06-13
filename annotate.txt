@@ -7610,3 +7610,4 @@ Linux-Info-2.11                         https://github.com/glasswalk3r/Linux-Inf
 OpenAPI-Client-OpenAI-0.05              https://github.com/nferraz/perl-openapi-client-openai/issues/7
 GD-2.82                                 https://github.com/lstein/Perl-GD/issues/55
 App-Timestamper-Log-Process-0.0.2       https://github.com/shlomif/App-Timestamper/issues/2
+DateTime-Schedule-0.01                  https://github.com/tyrrminal/datetime-schedule/issues/2
