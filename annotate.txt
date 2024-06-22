@@ -7613,3 +7613,4 @@ App-Timestamper-Log-Process-0.0.2       https://github.com/shlomif/App-Timestamp
 DateTime-Schedule-0.01                  https://github.com/tyrrminal/datetime-schedule/issues/2
 File-Patch-Undoable-0.09                154006
 File-Slurper-Temp-0.010                 138255
+Long-Jump-0.000003                      https://github.com/exodist/Long-Jump/issues/4
