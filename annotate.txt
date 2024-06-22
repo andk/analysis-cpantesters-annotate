@@ -7615,3 +7615,4 @@ File-Patch-Undoable-0.09                154006
 File-Slurper-Temp-0.010                 138255
 Long-Jump-0.000003                      https://github.com/exodist/Long-Jump/issues/4
 Object-Pad-FieldAttr-Checked-0.10       154103
+Signature-Attribute-Checked-0.04        154103
