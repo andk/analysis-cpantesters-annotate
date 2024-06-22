@@ -7612,3 +7612,4 @@ GD-2.82                                 https://github.com/lstein/Perl-GD/issues
 App-Timestamper-Log-Process-0.0.2       https://github.com/shlomif/App-Timestamper/issues/2
 DateTime-Schedule-0.01                  https://github.com/tyrrminal/datetime-schedule/issues/2
 File-Patch-Undoable-0.09                154006
+File-Slurper-Temp-0.010                 138255
