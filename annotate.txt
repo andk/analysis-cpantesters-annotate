@@ -7608,7 +7608,7 @@ Locale-Unicode-v0.1.0                   https://gitlab.com/jackdeguest/Locale-Un
 OpenSearch-0.02                         https://github.com/localh0rst/OpenSearch-Perl/issues/1
 Linux-Info-2.11                         https://github.com/glasswalk3r/Linux-Info/issues/14
 OpenAPI-Client-OpenAI-0.05              https://github.com/nferraz/perl-openapi-client-openai/issues/7
-GD-2.82                                 https://github.com/lstein/Perl-GD/issues/55
+GD-2.83                                 https://github.com/lstein/Perl-GD/issues/55
 App-Timestamper-Log-Process-0.0.2       https://github.com/shlomif/App-Timestamper/issues/2
 DateTime-Schedule-0.01                  https://github.com/tyrrminal/datetime-schedule/issues/2
 File-Patch-Undoable-0.09                154006
