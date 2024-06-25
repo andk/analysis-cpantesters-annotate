@@ -7621,3 +7621,4 @@ Captcha-Stateless-Text-0.3              154107
 CXC-DB-DDL-0.13                         154108
 Exporter-NoWork-0.03                    153443
 Devel-StatProfiler-0.52                 154127
+Geo-Gpx-1.11-TRIAL                      154128
