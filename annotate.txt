@@ -7624,3 +7624,4 @@ Devel-StatProfiler-0.52                 154127,154129
 Geo-Gpx-1.11-TRIAL                      154128
 App-ArticleWrap-1.01                    154153
 App-perlimports-0.000054                https://github.com/perl-ide/App-perlimports/issues/111
+App-td-0.112                            154155
