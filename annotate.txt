@@ -7622,3 +7622,4 @@ CXC-DB-DDL-0.13                         154108
 Exporter-NoWork-0.03                    153443
 Devel-StatProfiler-0.52                 154127,154129
 Geo-Gpx-1.11-TRIAL                      154128
+App-ArticleWrap-1.01                    154153
