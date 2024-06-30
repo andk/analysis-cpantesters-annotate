@@ -7635,3 +7635,4 @@ Graphics-Framebuffer-6.60               136800
 JSON-XS-4.03                            154165
 Math-Grid-Coordinates-0.005             154166
 Math-GSL-0.44                           https://github.com/leto/math--gsl/issues/243
+Multi-Dispatch-0.000002                 154167
