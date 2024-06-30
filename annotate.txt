@@ -7631,3 +7631,4 @@ Clipboard-0.30                          https://github.com/shlomif/Clipboard/iss
 Data-Checks-0.04                        154163
 Data-MessagePack-1.02                   https://github.com/msgpack/msgpack-perl/issues/52
 Finance-Dogecoin-Utils-1.20240413.0031  154164
+Graphics-Framebuffer-6.60               136800
