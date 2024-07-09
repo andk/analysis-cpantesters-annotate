@@ -7638,3 +7638,4 @@ Math-GSL-0.44                           https://github.com/leto/math--gsl/issues
 Multi-Dispatch-0.000002                 154167
 WWW-Wookie-v1.1.5                       https://bitbucket.org/rolandvanipenburg/www-wookie/issues/9/cant-locate-test-nowarningspm
 Syntax-Operator-Is-0.01                 154287
+CodeGen-Cpppp-0.004                     https://github.com/nrdvana/perl-CodeGen-Cpppp/issues/1
