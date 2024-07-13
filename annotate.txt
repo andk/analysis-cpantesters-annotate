@@ -7641,3 +7641,4 @@ Syntax-Operator-Is-0.02                 154288
 CodeGen-Cpppp-0.004                     https://github.com/nrdvana/perl-CodeGen-Cpppp/issues/1
 ODF-MailMerge-1.008                     https://github.com/jimav/ODF-MailMerge/issues/1
 Data-LnArray-XS-0.03                    154366,154367
+Sub-Private-0.03                        154368
