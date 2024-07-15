@@ -7647,3 +7647,4 @@ IO-Socket-SSL-2.087                     https://github.com/noxxi/p5-io-socket-ss
 Data-LnArray-XS-0.06                    154378
 ExtUtils-Builder-Compiler-0.009         https://github.com/Leont/extutils-builder-compiler/issues/1
 ExtUtils-Builder-Compiler-0.010         https://github.com/Leont/extutils-builder-compiler/issues/2
+Astro-MoonPhase-Simple-0.02             154400
