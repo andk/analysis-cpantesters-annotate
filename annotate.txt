@@ -7651,3 +7651,4 @@ Astro-MoonPhase-Simple-0.02             154400,154401
 Dist-Build-0.006                        https://github.com/Leont/dist-build/issues/5
 Locale-Places-0.13                      https://github.com/nigelhorne/Locale-Places/issues/9
 App-diff_spreadsheets-1.022             https://github.com/jimav/App-diff_spreadsheets/issues/1
+App-sdview-0.15                         154453
