@@ -6102,7 +6102,7 @@ WebService-CEPH-0.017                   134398
 Data-Sah-Resolve-0.007                  134410
 Authen-NZRealMe-1.21                    https://github.com/catalyst/Authen-NZRealMe/issues/9
 Bundle-Maintainer-MHASCH-0.004          https://github.com/mhasch/perl-Bundle-Maintainer-MHASCH/issues/1
-DateTime-Format-EraLegis-0.012          134443
+DateTime-Format-EraLegis-0.013          134443
 Dancer2-Plugin-DBIx-Class-1.000         https://gitlab.com/GeekRuthie/Dancer2-Plugin-DBIx-Class/-/issues/1
 URI-5.08                                https://github.com/libwww-perl/URI/issues/83
 Champlain-0.14                          deprecated
