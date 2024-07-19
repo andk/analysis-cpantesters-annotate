@@ -7649,3 +7649,4 @@ ExtUtils-Builder-Compiler-0.009         https://github.com/Leont/extutils-builde
 ExtUtils-Builder-Compiler-0.010         https://github.com/Leont/extutils-builder-compiler/issues/2
 Astro-MoonPhase-Simple-0.02             154400,154401
 Dist-Build-0.006                        https://github.com/Leont/dist-build/issues/5
+Locale-Places-0.13                      https://github.com/nigelhorne/Locale-Places/issues/9
