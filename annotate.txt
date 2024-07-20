@@ -7474,7 +7474,7 @@ Pg-Explain-2.7                          https://gitlab.com/depesz/Pg--Explain/-/
 TAP-Formatter-Camelcade-2023.1          https://github.com/Camelcade/TAP-Formatter-Camelcade/issues/14
 Glib-Ex-ObjectBits-16                   150938
 IO-Async-Loop-POE-0.06                  150939
-Mojolicious-Plugin-ReplyTable-0.12      https://github.com/jberger/Mojolicious-Plugin-ReplyTable/issues/10
+Mojolicious-Plugin-ReplyTable-0.13      https://github.com/jberger/Mojolicious-Plugin-ReplyTable/issues/10
 PDLx-Mask-0.06                          150940
 Signals-XSIG-1.00                       150941
 Tapper-CLI-5.0.7                        150683
