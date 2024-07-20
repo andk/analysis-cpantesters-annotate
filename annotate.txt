@@ -7656,3 +7656,4 @@ Data-Checks-0.08                        154454
 File-Copy-clonefile-v0.0.5              https://github.com/skaji/perl-File-Copy-clonefile/issues/3
 Dist-Zilla-PluginBundle-Author-GETTY-0.116 154455
 Convert-Pheno-0.24                      https://github.com/CNAG-Biomedical-Informatics/convert-pheno/issues/2
+Tk-Terminal-0.02                        154471
