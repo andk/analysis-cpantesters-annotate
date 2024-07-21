@@ -7660,3 +7660,4 @@ Tk-Terminal-0.02                        154471
 OpenMP-Simple-0.1.2                     154472,154473,151997
 Dpkg-1.22.8                             144412,146261
 IO-Async-Loop-Epoll-FD-0.003            https://github.com/Leont/io-async-loop-epoll-fd/issues/1
+Parallel-TaskExecutor-0.04              154480
