@@ -7663,3 +7663,4 @@ IO-Async-Loop-Epoll-FD-0.003            https://github.com/Leont/io-async-loop-e
 Parallel-TaskExecutor-0.04              154480
 Test-Strict-0.53                        https://github.com/manwar/Test-Strict/issues/36
 Lemonldap-NG-Common-2.19.1              https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng/-/issues/3217
+Lemonldap-NG-Portal-2.19.1              https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng/-/issues/3218
