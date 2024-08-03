@@ -7673,3 +7673,4 @@ Locale-Unicode-Data-v0.1.0              https://gitlab.com/jackdeguest/Locale-Un
 Syntax-Infix-Smartmatch-0.006           https://github.com/Leont/syntax-infix-smartmatch/issues/3,https://github.com/Leont/syntax-infix-smartmatch/issues/4
 Crypt-Argon2-0.025                      https://github.com/Leont/crypt-argon2/issues/15
 Math-GSL-0.49                           https://github.com/hakonhagland/perl-math-gsl/issues/42
+CVSS-1.11                               https://github.com/giterlizzi/perl-CVSS/issues/2
