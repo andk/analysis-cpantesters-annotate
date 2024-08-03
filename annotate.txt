@@ -3631,7 +3631,7 @@ Sah-Schemas-URL-0.006                   125618
 Crypt-Perl-0.19                         125621
 D-oh-1.00                               125622
 Data-MuForm-Model-DBIC-0.02             125623
-Net-SIP-0.829                           125624
+Net-SIP-0.838                           https://github.com/noxxi/p5-net-sip/issues/37
 OpenGL-Sandbox-0.02                     https://github.com/nrdvana/perl-OpenGL-Sandbox/issues/1
 WWW-XBoxLive-1.123160                   https://github.com/andrewrjones/perl5-WWW-XBoxLive/issues/3
 EventStore-Tiny-0.22                    https://github.com/memowe/EventStore-Tiny/issues/14
