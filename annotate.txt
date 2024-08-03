@@ -7669,3 +7669,4 @@ Net-DNS-SEC-1.25                        154560
 CVSS-1.10                               https://github.com/giterlizzi/perl-CVSS/issues/1
 JSON-MaybeXS-1.004006                   154691
 Lab-Measurement-3.902                   https://github.com/lab-measurement/Lab-Measurement/issues/85
+Locale-Unicode-Data-v0.1.0              https://gitlab.com/jackdeguest/Locale-Unicode-Data/-/issues/1
