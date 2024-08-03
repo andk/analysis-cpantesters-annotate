@@ -7667,3 +7667,4 @@ Lemonldap-NG-Portal-2.19.1              https://gitlab.ow2.org/lemonldap-ng/lemo
 Mail-BIMI-3.20240402                    https://github.com/marcbradshaw/mail-bimi/issues/5,https://github.com/marcbradshaw/mail-bimi/issues/10
 Net-DNS-SEC-1.25                        154560
 CVSS-1.10                               https://github.com/giterlizzi/perl-CVSS/issues/1
+JSON-MaybeXS-1.004006                   154691
