@@ -7675,3 +7675,4 @@ Crypt-Argon2-0.025                      https://github.com/Leont/crypt-argon2/is
 Math-GSL-0.49                           https://github.com/hakonhagland/perl-math-gsl/issues/42
 CVSS-1.11                               https://github.com/giterlizzi/perl-CVSS/issues/2,https://github.com/giterlizzi/perl-CVSS/issues/3
 Mouse-v2.5.10                           154700
+Net-Z3950-SimpleServer-1.28             154702
