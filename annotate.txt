@@ -7668,7 +7668,7 @@ Mail-BIMI-3.20240402                    https://github.com/marcbradshaw/mail-bim
 Net-DNS-SEC-1.25                        154560
 CVSS-1.10                               https://github.com/giterlizzi/perl-CVSS/issues/1
 JSON-MaybeXS-1.004006                   154691
-Lab-Measurement-3.902                   https://github.com/lab-measurement/Lab-Measurement/issues/85
+Lab-Measurement-3.903                   https://github.com/lab-measurement/Lab-Measurement/issues/85
 Locale-Unicode-Data-v0.1.0              https://gitlab.com/jackdeguest/Locale-Unicode-Data/-/issues/1
 Syntax-Infix-Smartmatch-0.006           https://github.com/Leont/syntax-infix-smartmatch/issues/3,https://github.com/Leont/syntax-infix-smartmatch/issues/4
 Crypt-Argon2-0.025                      https://github.com/Leont/crypt-argon2/issues/15
