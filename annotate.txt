@@ -7681,3 +7681,4 @@ Net-OpenSSH-More-1.00                   154777
 CVSS-1.13                               https://github.com/giterlizzi/perl-CVSS/issues/2
 DBIx-Squirrel-1.2.8                     154907
 Device-AVR-UPDI-0.15                    154908
+Font-PCF-0.04                           154909
