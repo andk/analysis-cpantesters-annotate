@@ -7683,3 +7683,4 @@ DBIx-Squirrel-1.2.8                     154907
 Device-AVR-UPDI-0.15                    154908
 Font-PCF-0.04                           154909
 YATT-Lite-0.110                         154923
+Syntax-Keyword-Assert-0.10              https://github.com/kfly8/Syntax-Keyword-Assert/issues/1
