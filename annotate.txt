@@ -7682,3 +7682,4 @@ CVSS-1.13                               https://github.com/giterlizzi/perl-CVSS/
 DBIx-Squirrel-1.2.8                     154907
 Device-AVR-UPDI-0.15                    154908
 Font-PCF-0.04                           154909
+YATT-Lite-0.110                         154923
