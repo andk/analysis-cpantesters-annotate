@@ -7689,3 +7689,4 @@ Onyphe-4.15                             154925
 Object-InsideOut-4.05                   154990
 Linux-loadavg-0.10                      154998
 kura-0.02                               https://github.com/kfly8/kura/issues/1
+DBIx-Squirrel-1.2.11                    154999
