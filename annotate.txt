@@ -7688,3 +7688,4 @@ Alien-poetry-1.000003                   154924
 Onyphe-4.15                             154925
 Object-InsideOut-4.05                   154990
 Linux-loadavg-0.10                      154998
+kura-0.02                               https://github.com/kfly8/kura/issues/1
