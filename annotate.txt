@@ -7692,3 +7692,4 @@ kura-0.02                               https://github.com/kfly8/kura/issues/1
 DBIx-Squirrel-1.2.11                    154999
 Data-WeakMap-v0.0.4                     https://github.com/akarelas/Data-WeakMap-perl/issues/1
 Prima-1.74                              https://github.com/dk/Prima/issues/119
+String-License-v0.0.10                  155041,155042
