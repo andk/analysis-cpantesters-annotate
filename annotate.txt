@@ -7700,3 +7700,4 @@ Env-Dot-0.014                           155045
 Util-Underscore-v1.4.2                  https://github.com/latk/p5-Util-Underscore/issues/10
 Net-RDAP-0.29                           https://github.com/gbxyz/perl-net-rdap/issues/7
 Map-Tube-Rome-1.00                      https://github.com/giterlizzi/perl-Map-Tube-Rome/issues/1
+Term-ANSI-Sprintf-0.02                  155165
