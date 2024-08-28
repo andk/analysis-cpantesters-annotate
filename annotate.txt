@@ -7698,3 +7698,4 @@ Apache-Test-1.43                        133957
 Langertha-0.004                         155044
 Env-Dot-0.014                           155045
 Util-Underscore-v1.4.2                  https://github.com/latk/p5-Util-Underscore/issues/10
+Net-RDAP-0.29                           https://github.com/gbxyz/perl-net-rdap/issues/7
