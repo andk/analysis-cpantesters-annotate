@@ -7705,3 +7705,4 @@ Trash-Park-0.03                         155167
 Acrux-0.05                              155172
 Crypt-JWT-0.035                         https://github.com/DCIT/perl-Crypt-JWT/issues/41
 Perl-Stripper-0.10                      155294
+Exporter-AutoClean-0.01                 155298
