@@ -7708,3 +7708,4 @@ Perl-Stripper-0.10                      155294
 Exporter-AutoClean-0.01                 155298
 Text-MicroTemplate-Extended-0.17        155303
 XML-Atom-Ext-Threading-0.02             155307
+Package-FromData-0.01                   155309
