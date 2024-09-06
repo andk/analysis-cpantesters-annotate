@@ -7714,3 +7714,4 @@ Lazy-Utils-1.22                         https://github.com/orkunkaraduman/Lazy-U
 MouseX-Object-Pluggable-0.022           155342
 say-0.02                                https://github.com/bayashi/say/issues/1
 Sledge-Utils-0.04                       155346
+Exception-Resumable-0.91                155347
