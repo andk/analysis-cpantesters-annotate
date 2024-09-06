@@ -7712,3 +7712,4 @@ Package-FromData-0.01                   155309
 Template-Extract-0.41                   155310
 Lazy-Utils-1.22                         https://github.com/orkunkaraduman/Lazy-Utils/issues/24
 MouseX-Object-Pluggable-0.022           155342
+say-0.02                                https://github.com/bayashi/say/issues/1
