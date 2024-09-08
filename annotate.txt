@@ -7718,3 +7718,4 @@ Exception-Resumable-0.91                155347
 Linux-Pid-0.04                          155356
 WebService-YouTube-1.0.3                155357
 WebService-Windows-LiveID-Auth-0.01     155360
+HTML-Entities-Recursive-0.01            155366
