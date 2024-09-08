@@ -7724,4 +7724,5 @@ Acme-CPANAuthors-GeekHouse-0.02         155368
 Lingua-JA-Summarize-Extract-0.02        155369
 Config-Pit-0.04                         155370
 Project-Libs-0.02                       155371
+HTTP-Request-StreamingUpload-0.01       155372
 
