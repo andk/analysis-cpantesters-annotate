@@ -7721,4 +7721,5 @@ WebService-Windows-LiveID-Auth-0.01     155360
 HTML-Entities-Recursive-0.01            155366
 Plack-Middleware-Header-0.04            155367
 Acme-CPANAuthors-GeekHouse-0.02         155368
+Lingua-JA-Summarize-Extract-0.02        155369
 
