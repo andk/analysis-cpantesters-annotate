@@ -7732,3 +7732,4 @@ exact-1.25                              https://github.com/gryphonshafer/exact/i
 Kaiten-Container-0.37                   155376
 Moonshine-Test-0.16                     155392
 DateTime-Format-Alami-0.16              155393
+JsonSQL-0.41                            155397
