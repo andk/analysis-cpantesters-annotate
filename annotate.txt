@@ -7743,3 +7743,4 @@ WebService-CastleIO-1.03                155457
 Catalyst-Plugin-File-RotateLogs-0.06    https://github.com/masakyst/Catalyst-Plugin-File-RotateLogs/issues/6
 DateTime-Calendar-Discordian-1.0        155475
 XML-Assert-0.03                         155476
+Exporter-Proxy-1.008002                 155478
