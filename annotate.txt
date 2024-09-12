@@ -7750,3 +7750,4 @@ Phone-Number-v1.1.2                     155492
 Data-Mining-Apriori-0.18                https://github.com/alexgracianoarj/data-mining-apriori/issues/1
 Store-CouchDB-4.3                       https://github.com/norbu09/Store-CouchDB/issues/17
 Criteria-Compile-0.047                  155494
+TAP-Formatter-Event-0.001               155495
