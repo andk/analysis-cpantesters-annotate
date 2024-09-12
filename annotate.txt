@@ -7740,3 +7740,4 @@ Net-IMP-0.635                           155429
 Mojolicious-Plugin-HTMLLint-0.06        155440
 Net-FTP-Path-Iter-0.06                  155454
 WebService-CastleIO-1.03                155457
+Catalyst-Plugin-File-RotateLogs-0.06    https://github.com/masakyst/Catalyst-Plugin-File-RotateLogs/issues/6
