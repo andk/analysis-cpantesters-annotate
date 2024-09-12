@@ -7745,3 +7745,4 @@ DateTime-Calendar-Discordian-1.0        155475
 XML-Assert-0.03                         155476
 Exporter-Proxy-1.008002                 155478
 Net-EtcDv2-v0.0.3                       https://github.com/greeneg/Net-EtcDv2/issues/1
+Lingua-Deva-1.20                        155490
