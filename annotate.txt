@@ -7761,3 +7761,4 @@ perl5-0.21                              https://github.com/ingydotnet/perl5-pm/i
 SQL-QueryBuilder-OO-0.2.6               155511
 Try-0.03                                155513
 Patro-0.16                              155514
+Data-Hopen-0.000019                     https://github.com/hopenbuild/Data-Hopen/issues/6
