@@ -7766,3 +7766,4 @@ Sidekick-Check-0.0.1                    https://github.com/ARivottiC/Sidekick-Ch
 AI-Logic-AnswerSet-0.02                 155523
 App-Prolix-0.03                         155525
 Mojolicious-Plugin-BModel-0.09          https://github.com/ruzhnikov/Mojolicious-Plugin-BModel/issues/1
+RPG-Traveller-Starmap-0.500             155526
