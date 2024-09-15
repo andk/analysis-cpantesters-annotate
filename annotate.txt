@@ -7768,3 +7768,7 @@ App-Prolix-0.03                         155525
 Mojolicious-Plugin-BModel-0.09          https://github.com/ruzhnikov/Mojolicious-Plugin-BModel/issues/1
 RPG-Traveller-Starmap-0.500             155526
 Acme-Free-API-ChuckNorris-1.0.0         155542
+Acme-Free-API-Stonks-1.0.1              155542
+Acme-Free-API-Ye-1.0.1                  155542
+Acme-Free-Dog-API-0.9.9                 155542
+Acme-Free-Public-APIs-0.9.9             155542
