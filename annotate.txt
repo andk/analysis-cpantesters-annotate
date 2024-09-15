@@ -7776,3 +7776,4 @@ Full-1.002                              https://github.com/team-at-cpan/Full/iss
 Webservice-InternetDB-API-1.003         155543
 Webservice-Ipify-API-1.003              155545
 mojo-debugbar-v0.1.2                    https://gitlab.com/AuroraSoftware/mojo-debugbar/-/issues/1
+WWW-Challonge-1.01                      155544
