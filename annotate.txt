@@ -7778,3 +7778,4 @@ Webservice-Ipify-API-1.003              155545
 mojo-debugbar-v0.1.2                    https://gitlab.com/AuroraSoftware/mojo-debugbar/-/issues/1
 WWW-Challonge-1.01                      155544
 Sub-SmartMatch-0.02                     155546
+Functional-Types-v0.0.1                 https://github.com/wimvanderbauwhede/Perl-Functional-Types/issues/1
