@@ -7775,3 +7775,4 @@ Acme-Free-Public-APIs-0.9.9             155542
 Full-1.002                              https://github.com/team-at-cpan/Full/issues/1
 Webservice-InternetDB-API-1.003         155543
 Webservice-Ipify-API-1.003              155545
+mojo-debugbar-v0.1.2                    https://gitlab.com/AuroraSoftware/mojo-debugbar/-/issues/1
