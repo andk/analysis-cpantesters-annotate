@@ -7784,3 +7784,4 @@ MooseX-Unique-0.005                     155548
 Perl-Critic-Policy-BadStrings-1.000     https://github.com/jmaslak/Perl-Critic-Policy-BadStrings/issues/1
 App-War-0.05                            155559
 Positron-v0.1.3                         155561
+Devel-InPackage-0.01                    155565
