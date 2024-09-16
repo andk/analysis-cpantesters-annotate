@@ -7789,3 +7789,4 @@ Plack-App-OpenVPN-Status-0.16           https://github.com/Wu-Wu/Plack-App-OpenV
 Data-Dmap-0.08                          155574
 Text-Cadenceparser-1.12                 https://github.com/hollie/text-cadenceparser-perl/issues/1
 Mustache-Simple-v1.3.6                  155579
+SQL-Bibliosoph-2.55                     155580
