@@ -7782,3 +7782,4 @@ Functional-Types-v0.0.1                 https://github.com/wimvanderbauwhede/Per
 Email-IsEmail-3.04.8                    155547
 MooseX-Unique-0.005                     155548
 Perl-Critic-Policy-BadStrings-1.000     https://github.com/jmaslak/Perl-Critic-Policy-BadStrings/issues/1
+App-War-0.05                            155559
