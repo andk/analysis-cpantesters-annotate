@@ -7795,3 +7795,4 @@ Thread-Pipeline-0.004                   155593
 Term-ReadLine-Tiny-1.09                 https://github.com/orkunkaraduman/p5-Term-ReadLine-Tiny/issues/16
 Nginx-FastCGI-Cache-0.010               155596
 Acme-Given-Hash-0.007                   155597
+Config-YAARG-0.023                      155598
