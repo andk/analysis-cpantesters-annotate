@@ -7799,3 +7799,4 @@ Config-YAARG-0.023                      155598
 Mir-FileHandler-0.05                    155599
 Search-QS-0.04                          155600
 MS-0.207003                             155604
+App-DDNS-Namecheap-0.014                https://github.com/terminalfool/App-DDNS-Namecheap/issues/1
