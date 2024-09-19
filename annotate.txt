@@ -7822,3 +7822,4 @@ Mojo-Run-0.3                            155660
 nextgen-0.06                            https://github.com/EvanCarroll/nextgen/issues/3
 Games-Word-Guess-0.091                  155661
 Mojolicious-Plugin-AssetPack-Che-2.106  155662
+App-Icli-0.48                           155663
