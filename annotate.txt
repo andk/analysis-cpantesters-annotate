@@ -7823,3 +7823,4 @@ nextgen-0.06                            https://github.com/EvanCarroll/nextgen/i
 Games-Word-Guess-0.091                  155661
 Mojolicious-Plugin-AssetPack-Che-2.106  155662
 App-Icli-0.48                           155663
+Simple-Factory-0.09                     https://github.com/peczenyj/simple-factory-p5/issues/2
