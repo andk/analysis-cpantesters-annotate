@@ -7813,3 +7813,4 @@ Range-Merge-2.191190                    https://github.com/jmaslak/Range-Merge/i
 Pod-Weaver-PluginBundle-Author-RTHOMPSON-0.151680 155637
 TSQL-AST-0.04                           155638
 Ruby-VersionManager-0.004004            155651
+Piddy-0.02                              155652
