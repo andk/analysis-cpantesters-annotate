@@ -7842,3 +7842,4 @@ overload-eval-0.10                      155690
 Test-TCM-Role-API-0.05                  155691
 WebService-ThreatStack-1.00             155693
 Operator-Util-0.05                      https://github.com/patch-orphan/operator-util-pm5/issues/5
+API-Instagram-0.013                     https://github.com/gabrielmad/API-Instagram/issues/9
