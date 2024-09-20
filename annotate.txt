@@ -7832,3 +7832,5 @@ App-Sass-0.001                          https://github.com/throughnothing/App-Sa
 Lingua-IT-Ita2heb-0.01                  155683
 Mafia-0.001005                          155684
 Csistck-0.1003                          https://github.com/agjohnson/csistck/issues/29
+App-Taskflow-1.0                        155686
+Plack-Middleware-OAuth-0.10             155685
