@@ -7835,3 +7835,4 @@ Csistck-0.1003                          https://github.com/agjohnson/csistck/iss
 App-Taskflow-1.0                        155686
 Plack-Middleware-OAuth-0.10             155685
 Graph-Fast-0.02                         155687
+NBI-Slurm-0.8.6                         https://github.com/quadram-institute-bioscience/NBI-Slurm/issues/2
