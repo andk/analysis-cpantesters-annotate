@@ -7831,3 +7831,4 @@ App-yajg-0.20                           155672
 App-Sass-0.001                          https://github.com/throughnothing/App-Sass/issues/1
 Lingua-IT-Ita2heb-0.01                  155683
 Mafia-0.001005                          155684
+Csistck-0.1003                          https://github.com/agjohnson/csistck/issues/29
