@@ -7840,3 +7840,4 @@ Real-Handy-0.24                         155688
 Lingua-Boolean-0.008                    https://github.com/doherty/Lingua-Boolean/issues/5
 overload-eval-0.10                      155690
 Test-TCM-Role-API-0.05                  155691
+WebService-ThreatStack-1.00             155693
