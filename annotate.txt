@@ -7846,3 +7846,4 @@ API-Instagram-0.013                     https://github.com/gabrielmad/API-Instag
 Getopt-O2-v1.1.0                        155694
 PICA-Modification-0.16                  https://github.com/gbv/PICA-Modification/issues/1
 Net-Saasu-0.2                           155695
+App-Muter-0.003000                      https://github.com/bk2204/muter/issues/8
