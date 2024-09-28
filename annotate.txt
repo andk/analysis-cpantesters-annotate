@@ -7851,3 +7851,4 @@ Test-Ranger-v0.0.4                      155716
 TBX-XCS-0.05                            155760
 MarpaX-Languages-C-AST-0.48             155777
 Device-WebIO-0.022                      155808
+TBX-Min-0.08                            155810
