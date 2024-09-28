@@ -7868,3 +7868,4 @@ Starlink-ATL-0.06                       155826
 Log-GELF-Util-0.96                      https://github.com/logicly-au/log-gelf-util/issues/5
 Sub-HandlesVia-0.050000                 https://github.com/tobyink/p5-sub-handlesvia/issues/16
 Template-EmbeddedPerl-0.001004          https://github.com/jjn1056/Template-EmbeddedPerl/issues/1
+Spreadsheet-Edit-1000.016               https://github.com/jimav/Spreadsheet-Edit/issues/3
