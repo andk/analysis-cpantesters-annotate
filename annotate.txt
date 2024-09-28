@@ -7852,3 +7852,4 @@ TBX-XCS-0.05                            155760
 MarpaX-Languages-C-AST-0.48             155777
 Device-WebIO-0.022                      155808
 TBX-Min-0.08                            155810
+ODF-lpOD_Helper-6.014                   https://github.com/jimav/ODF-lpOD_Helper/issues/4
