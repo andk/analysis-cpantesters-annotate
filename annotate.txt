@@ -7870,3 +7870,4 @@ Sub-HandlesVia-0.050000                 https://github.com/tobyink/p5-sub-handle
 Template-EmbeddedPerl-0.001004          https://github.com/jjn1056/Template-EmbeddedPerl/issues/1
 Spreadsheet-Edit-1000.016               https://github.com/jimav/Spreadsheet-Edit/issues/3
 Text-Nimble-0.002001                    155832
+Sub-Go-0.01                             155833
