@@ -7859,3 +7859,4 @@ App-NDTools-0.6.3                       155819
 common-sense-3.75                       154926
 Statistics-Regression-0.53              155820
 Convert-Binary-C-0.84                   https://github.com/mhx/Convert-Binary-C/issues/11
+Modern-Perl-1.20240115                  155822
