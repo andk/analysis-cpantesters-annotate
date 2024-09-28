@@ -7866,3 +7866,4 @@ Data-Show-0.004000                      155825
 Getopt-Euclid-0.4.6                     https://github.com/bigpresh/Getopt-Euclid/issues/3
 Starlink-ATL-0.06                       155826
 Log-GELF-Util-0.96                      https://github.com/logicly-au/log-gelf-util/issues/5
+Sub-HandlesVia-0.050000                 https://github.com/tobyink/p5-sub-handlesvia/issues/16
