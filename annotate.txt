@@ -7865,3 +7865,4 @@ HealthCheck-Diagnostic-RemoteHealth-v0.1.1 https://github.com/GrantStreetGroup/p
 Data-Show-0.004000                      155825
 Getopt-Euclid-0.4.6                     https://github.com/bigpresh/Getopt-Euclid/issues/3
 Starlink-ATL-0.06                       155826
+Log-GELF-Util-0.96                      https://github.com/logicly-au/log-gelf-util/issues/5
