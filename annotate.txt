@@ -7877,3 +7877,4 @@ DBD-XMLSimple-0.07                      https://github.com/nigelhorne/DBD-XMLSim
 Perinci-Access-HTTP-Client-0.24         155843
 Number-Tolerant-1.710                   https://github.com/rjbs/Number-Tolerant/issues/8
 experimentals-0.020                     155844
+App-DocKnot-v8.0.1                      https://github.com/rra/docknot/issues/11
