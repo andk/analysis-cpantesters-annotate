@@ -7876,3 +7876,4 @@ Data-DPath-0.59                         155839
 DBD-XMLSimple-0.07                      https://github.com/nigelhorne/DBD-XMLSimple/issues/2
 Perinci-Access-HTTP-Client-0.24         155843
 Number-Tolerant-1.710                   https://github.com/rjbs/Number-Tolerant/issues/8
+experimentals-0.020                     155844
