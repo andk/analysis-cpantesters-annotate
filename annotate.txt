@@ -7883,3 +7883,4 @@ DBIx-Class-0.082843                     155847
 Catmandu-1.2021                         https://github.com/LibreCat/Catmandu/issues/399
 Digest-BubbleBabble-0.02                155153
 Sub-Delete-1.00002                      146682
+Config-Model-2.154                      https://github.com/dod38fr/config-model/issues/35
