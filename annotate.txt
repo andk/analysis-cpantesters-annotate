@@ -7884,3 +7884,4 @@ Catmandu-1.2021                         https://github.com/LibreCat/Catmandu/iss
 Digest-BubbleBabble-0.02                155153
 Sub-Delete-1.00002                      146682
 Config-Model-2.154                      https://github.com/dod38fr/config-model/issues/35
+App-Schema-Deploy-0.05                  https://github.com/michal-josef-spacek/App-Schema-Deploy/issues/1
