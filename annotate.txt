@@ -7873,3 +7873,4 @@ Text-Nimble-0.002001                    155832
 Sub-Go-0.01                             155833
 School-Code-Compare-0.201               155836
 Data-DPath-0.59                         155839
+DBD-XMLSimple-0.07                      https://github.com/nigelhorne/DBD-XMLSimple/issues/2
