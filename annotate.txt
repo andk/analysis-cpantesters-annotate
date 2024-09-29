@@ -7880,3 +7880,4 @@ experimentals-0.020                     155844
 App-DocKnot-v8.0.1                      https://github.com/rra/docknot/issues/11
 App-PTP-1.14                            https://github.com/mkende/ptp/issues/2
 DBIx-Class-0.082843                     155847
+Catmandu-1.2021                         https://github.com/LibreCat/Catmandu/issues/399
