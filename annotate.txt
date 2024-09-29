@@ -7882,3 +7882,4 @@ App-PTP-1.14                            https://github.com/mkende/ptp/issues/2
 DBIx-Class-0.082843                     155847
 Catmandu-1.2021                         https://github.com/LibreCat/Catmandu/issues/399
 Digest-BubbleBabble-0.02                155153
+Sub-Delete-1.00002                      146682
