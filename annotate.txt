@@ -7888,3 +7888,4 @@ App-Schema-Deploy-0.05                  https://github.com/michal-josef-spacek/A
 App-SimulateReads-0.16                  https://github.com/galantelab/sandy/issues/12
 Finance-BitStamp-Socket-0.02            155850
 AnyEvent-Cron-0.03                      155862
+Mojolicious-Plugin-Crypto-0.14          155878
