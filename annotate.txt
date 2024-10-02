@@ -7891,3 +7891,4 @@ AnyEvent-Cron-0.03                      155862
 Mojolicious-Plugin-Crypto-0.14          155878
 grepmail-5.3111                         155901
 Template-Flute-0.027                    https://github.com/racke/Template-Flute/issues/166
+Pollux-0.0.2                            https://github.com/yanick/pollux/issues/6
