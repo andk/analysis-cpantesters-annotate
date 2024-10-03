@@ -7895,3 +7895,4 @@ Pollux-0.0.2                            https://github.com/yanick/pollux/issues/
 Dist-Zilla-Plugin-OSPrereqs-Unix-0.01   155908
 Dist-Zilla-Plugin-OSPrereqs-POSIX-0.01  155909
 Google-RestApi-1.0.4                    155911
+MySQL-RunSQL-1.2                        155925
