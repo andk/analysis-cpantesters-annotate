@@ -7896,3 +7896,4 @@ Dist-Zilla-Plugin-OSPrereqs-Unix-0.01   155908
 Dist-Zilla-Plugin-OSPrereqs-POSIX-0.01  155909
 Google-RestApi-1.0.4                    155911
 MySQL-RunSQL-1.2                        155925
+Net-LCDproc-0.104                       https://github.com/ioanrogers/Net-LCDproc/issues/4
