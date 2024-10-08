@@ -7898,3 +7898,4 @@ Google-RestApi-1.0.4                    155911
 MySQL-RunSQL-1.2                        155925
 Net-LCDproc-0.104                       https://github.com/ioanrogers/Net-LCDproc/issues/4
 Dist-Zilla-Plugin-Version-Git-Flowish-0.09 155946
+MsgPack-RPC-2.0.3                       https://github.com/yanick/MsgPack-RPC/issues/13
