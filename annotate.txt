@@ -7904,3 +7904,4 @@ Lemonldap-NG-Common-2.20.0              https://gitlab.ow2.org/lemonldap-ng/lemo
 Locale-Intl-v0.1.1                      https://gitlab.com/jackdeguest/Locale-Intl/-/issues/1
 Net-OTServ-0.004                        https://github.com/athreef/Net-OTServ/issues/4
 Sys-Ebpf-0.03                           https://github.com/takehaya/Sys-Ebpf/issues/8
+WebService-Hydra-0.003                  https://github.com/deriv-com/perl-WebService-Hydra/issues/9
