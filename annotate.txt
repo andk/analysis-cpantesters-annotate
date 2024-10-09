@@ -7906,3 +7906,4 @@ Net-OTServ-0.004                        https://github.com/athreef/Net-OTServ/is
 Sys-Ebpf-0.03                           https://github.com/takehaya/Sys-Ebpf/issues/8
 WebService-Hydra-0.003                  https://github.com/deriv-com/perl-WebService-Hydra/issues/9
 DateTimeX-Easy-0.091                    155963
+List-Stream-0.0.1                       https://github.com/mollusc-labs/List-Stream/issues/1
