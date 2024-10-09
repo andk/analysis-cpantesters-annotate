@@ -1539,7 +1539,7 @@ YAWF-Object-MongoDB-0.03                112754
 Dist-Zilla-Plugin-MakeMaker-IncShareDir-0.01 https://github.com/miyagawa/Dist-Zilla-Plugin-MakeMaker-IncShareDir/issues/1
 WWW-ThisIsMyJam-v0.1.0                  https://github.com/sanko/www-thisismyjam/issues/1
 WebService-Embedly-0.10                 https://github.com/jwieland/embedly-perl/issues/5
-DateTimeX-Easy-0.089                    112762,137397
+DateTimeX-Easy-0.089                    112762,137397,155963
 UnRTF-0.001                             112764
 Rex-WebUI-0.01                          112765
 Pg-Loader-0.21                          112767
