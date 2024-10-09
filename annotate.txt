@@ -1539,7 +1539,7 @@ YAWF-Object-MongoDB-0.03                112754
 Dist-Zilla-Plugin-MakeMaker-IncShareDir-0.01 https://github.com/miyagawa/Dist-Zilla-Plugin-MakeMaker-IncShareDir/issues/1
 WWW-ThisIsMyJam-v0.1.0                  https://github.com/sanko/www-thisismyjam/issues/1
 WebService-Embedly-0.10                 https://github.com/jwieland/embedly-perl/issues/5
-DateTimeX-Easy-0.089                    112762,137397,155963
+DateTimeX-Easy-0.089                    112762,137397
 UnRTF-0.001                             112764
 Rex-WebUI-0.01                          112765
 Pg-Loader-0.21                          112767
@@ -7905,3 +7905,4 @@ Locale-Intl-v0.1.1                      https://gitlab.com/jackdeguest/Locale-In
 Net-OTServ-0.004                        https://github.com/athreef/Net-OTServ/issues/4
 Sys-Ebpf-0.03                           https://github.com/takehaya/Sys-Ebpf/issues/8
 WebService-Hydra-0.003                  https://github.com/deriv-com/perl-WebService-Hydra/issues/9
+DateTimeX-Easy-0.091                    155963
