@@ -7932,3 +7932,4 @@ File-Unpack2-1.0                        156065
 Gtk3-ImageView-11                       https://github.com/carygravel/gtk3-imageview/issues/31
 Hades-Realm-Rope-0.03                   156066
 Locales-0.34                            156067
+Map-Tube-Plugin-FuzzyFind-0.08          156068
