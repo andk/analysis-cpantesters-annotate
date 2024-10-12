@@ -7923,3 +7923,4 @@ Unix-Passwd-File-0.251                  156060
 NewRelic-Agent-0.0532                   https://github.com/aanari/NewRelic-Agent/issues/10
 WebService-Freshservice-0.004           156061
 WebService-Strava-0.06                  156062
+Perinci-Import-0.03                     156063
