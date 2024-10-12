@@ -7926,3 +7926,4 @@ WebService-Strava-0.06                  156062
 Perinci-Import-0.03                     156063
 Blockchain-Ethereum-Keystore-0.010      156064
 Alien-Jena-0.01                         https://github.com/perlrdf/Alien-Jena/issues/4
+Alien-Jena-Fuseki-0.01                  https://github.com/perlrdf/Alien-Jena-Fuseki/issues/4
