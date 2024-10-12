@@ -7592,7 +7592,7 @@ App-csvtool-0.02                        152445
 Date-Holidays-Adapter-USA-0.0101        152476
 ImgurAPI-Client-1.0.0                   152477
 Zonemaster-LDNS-4.0.0                   https://github.com/zonemaster/zonemaster-ldns/issues/183
-Method-Signatures-20170211              149458
+Method-Signatures-20170211              149458,156057
 HTTP-Request-Diff-0.04                  https://github.com/Corion/HTTP-Request-Diff/issues/1,https://github.com/Corion/HTTP-Request-Diff/issues/2
 lib-root-0.03                           152625,152626
 App-GitHub-Repository-v0.0.5            152671
