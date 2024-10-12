@@ -421,7 +421,7 @@ Catalyst-Plugin-Params-Profile-0.05     87533
 Acme-Tategaki-0.12                      https://github.com/kazuph/Acme-Tategaki/issues/2
 UNIVERSAL-AUTHORITY-Lexical-0.003       87640
 PBS-Logs-0.05                           https://rt.perl.org/rt3/Ticket/Display.html?id=119169
-Dash-Leak-0.06                          https://rt.perl.org:443/rt3/Ticket/Display.html?id=119295,https://github.com/Perl/perl5/issues/22380
+Dash-Leak-0.06                          https://rt.perl.org:443/rt3/Ticket/Display.html?id=119295,https://github.com/Perl/perl5/issues/22380,154991
 Statistics-DependantTTest-0.03          87926
 SQL-Smart-0.06                          87950
 Contextual-Return-Wrapper-0.01          88301
