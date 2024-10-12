@@ -7930,3 +7930,4 @@ Alien-Jena-Fuseki-0.01                  https://github.com/perlrdf/Alien-Jena-Fu
 Bio-DB-NCBIHelper-1.7.8                 https://github.com/bioperl/Bio-DB-NCBIHelper/issues/10,https://github.com/bioperl/Bio-DB-NCBIHelper/issues/8
 File-Unpack2-1.0                        156065
 Gtk3-ImageView-11                       https://github.com/carygravel/gtk3-imageview/issues/31
+Hades-Realm-Rope-0.03                   156066
