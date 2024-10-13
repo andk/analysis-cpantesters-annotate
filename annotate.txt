@@ -7943,3 +7943,4 @@ BerkeleyDB-0.65                         https://github.com/pmqs/BerkeleyDB/issue
 Class-Data-ConfigHash-0.00002           156074
 Noid-0.424                              https://github.com/pmqs/BerkeleyDB/issues/13
 Class-Trait-0.33                        deprecated
+WWW-BashOrg-1.001003                    https://github.com/zoffixznet/WWW-BashOrg/issues/2
