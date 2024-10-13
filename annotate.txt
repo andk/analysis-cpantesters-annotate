@@ -7958,3 +7958,4 @@ Weather-GHCN-Fetch-v0.0.011             156086
 Hash-Wrap-1.03                          156087
 Object-Pad-0.814                        156089
 Alien-freexl-1.05                       https://github.com/shawnlaffan/perl-alien-freexl/issues/2
+C600-0.002                              156091
