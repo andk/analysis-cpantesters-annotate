@@ -7945,3 +7945,5 @@ Noid-0.424                              https://github.com/pmqs/BerkeleyDB/issue
 Class-Trait-0.33                        deprecated
 WWW-BashOrg-1.001003                    https://github.com/zoffixznet/WWW-BashOrg/issues/2
 Pod-POM-Web-1.27                        156075
+Module-Install-Repository-0.06          156076
+URI-git-0.02                            156077
