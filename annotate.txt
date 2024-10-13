@@ -7947,3 +7947,4 @@ WWW-BashOrg-1.001003                    https://github.com/zoffixznet/WWW-BashOr
 Pod-POM-Web-1.27                        156075
 Module-Install-Repository-0.06          156076
 URI-git-0.02                            156077
+RDF-Cowl-1.0.0                          https://gitlab.com/perlrdf/RDF-Cowl/-/issues/1
