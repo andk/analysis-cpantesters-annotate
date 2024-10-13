@@ -7407,7 +7407,7 @@ MediaWiki-Bot-5.007000                  https://github.com/MediaWiki-Bot/MediaWi
 App-SpeedTest-0.28                      https://github.com/Tux/speedtest/issues/15
 App-ptimeout-1.0.2                      https://github.com/DrHyde/perl-modules-App-ptimeout/issues/5
 Alien-pkgconf-0.19                      https://github.com/PerlPkgConfig/perl-PkgConfig/issues/60
-App-ipchgmon-1.0.7                      150838
+App-ipchgmon-1.0.7                      150838,156082
 Business-PayPal-0.20                    150839
 Crypt-LibSCEP-0.09                      150840
 Crypt-OpenSSL-PKCS12-1.9                https://github.com/dsully/perl-crypt-openssl-pkcs12/issues/40
@@ -7950,3 +7950,4 @@ URI-git-0.02                            156077
 RDF-Cowl-1.0.0                          https://gitlab.com/perlrdf/RDF-Cowl/-/issues/1
 Alien-automake-0.18                     https://github.com/PerlAlien/Alien-automake/issues/15
 MooseX-DeclareX-Privacy-0.006           156079
+Blio-2.007                              https://github.com/domm/Blio/issues/7,https://github.com/domm/Blio/issues/8
