@@ -7942,3 +7942,4 @@ Bio-Protease-1.112980                   156073
 BerkeleyDB-0.65                         https://github.com/pmqs/BerkeleyDB/issues/12
 Class-Data-ConfigHash-0.00002           156074
 Noid-0.424                              https://github.com/pmqs/BerkeleyDB/issues/13
+Class-Trait-0.33                        deprecated
