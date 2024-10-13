@@ -7939,3 +7939,4 @@ HEAT-Crypto-0.07                        https://github.com/tomushkin/heat-perl/p
 marc-mir-0.4                            156071
 Perinci-To-Doc-0.881                    156072
 Bio-Protease-1.112980                   156073
+BerkeleyDB-0.65                         https://github.com/pmqs/BerkeleyDB/issues/12
