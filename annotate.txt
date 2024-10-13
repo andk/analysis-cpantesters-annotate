@@ -7938,3 +7938,4 @@ EV-4.34                                 156069,https://github.com/Perl/perl5/iss
 HEAT-Crypto-0.07                        https://github.com/tomushkin/heat-perl/pull/1,https://github.com/Perl/perl5/issues/22380
 marc-mir-0.4                            156071
 Perinci-To-Doc-0.881                    156072
+Bio-Protease-1.112980                   156073
