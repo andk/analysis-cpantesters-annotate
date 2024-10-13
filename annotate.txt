@@ -1936,7 +1936,7 @@ deferred-0.01                           116581
 CPANPLUS-0.9160                         116479
 Template-Pure-0.023                     https://github.com/jjn1056/Template-Pure/issues/9
 Bio-MLST-Check-2.1.1534813              116602
-Module-Setup-0.09                       116606,116608
+Module-Setup-0.09                       116606,116608,156078
 Tkx-1.09                                115662
 Plack-Middleware-DBGp-0.11              https://github.com/mbarbon/plack-middleware-dbgp/issues/2
 POE-Component-Logger-1.10               116620
