@@ -7949,3 +7949,4 @@ Module-Install-Repository-0.06          156076
 URI-git-0.02                            156077
 RDF-Cowl-1.0.0                          https://gitlab.com/perlrdf/RDF-Cowl/-/issues/1
 Alien-automake-0.18                     https://github.com/PerlAlien/Alien-automake/issues/15
+MooseX-DeclareX-Privacy-0.006           156079
