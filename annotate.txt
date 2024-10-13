@@ -4123,7 +4123,7 @@ SVG-Calendar-v0.3.14                    127463
 App-iperlmoddir-1.02                    https://github.com/pavelsr/iperlmoddir/issues/1
 LCFG-Utils-Perl-1.13.4                  undeclared prereq, no bugtracker
 Archive-SevenZip-0.08                   128407
-XML-Easy-0.011                          127416,https://rt.perl.org/Ticket/Display.html?id=133816
+XML-Easy-0.011                          127416,https://rt.perl.org/Ticket/Display.html?id=133816,156081
 MooX-PDL-Role-Proxy-0.04                128410
 Banal-Mini-Utils-0.002                  https://github.com/tabulon/p5-Banal-Mini-Utils/issues/1
 PONAPI-Server-0.003003                  127778
