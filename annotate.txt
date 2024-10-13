@@ -7953,3 +7953,4 @@ MooseX-DeclareX-Privacy-0.006           156079
 Blio-2.007                              https://github.com/domm/Blio/issues/7,https://github.com/domm/Blio/issues/8
 BmltClient-ApiClient-0                  156083
 Jacode-2.13.4.31                        156084
+Try-Catch-1.1.0                         156085
