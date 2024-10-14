@@ -6714,7 +6714,7 @@ Tk-TextDialog-0.01                      141830
 WWW-Search-Coveralia-0.001              141831
 Algorithm-SISort-0.14                   141833
 HTML-TreeBuilder-LibXML-0.26            https://github.com/tokuhirom/HTML-TreeBuilder-LibXML/issues/16
-Statocles-0.098                         https://github.com/preaction/Statocles/issues/606
+Statocles-0.098                         https://github.com/preaction/Statocles/issues/606,https://github.com/preaction/Statocles/issues/611
 Test-MockFile-0.036                     https://github.com/cpanel/Test-MockFile/issues/175
 WebService-KoreanSpeller-0.015          https://github.com/aero/WebService-KoreanSpeller/issues/5
 Daemon-Control-0.001010                 https://github.com/symkat/Daemon-Control/issues/92
