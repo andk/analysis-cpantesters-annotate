@@ -7463,7 +7463,7 @@ File-VirusScan-0.105                    150926
 Form-Tiny-2.22                          https://github.com/bbrtj/perl-form-tiny/issues/13
 Graph-ModularDecomposition-0.15         150928
 HTTP-OAI-4.13                           https://github.com/LibreCat/perl-oai-lib/issues/9
-FunctionalPerl-0.72.76                  150932
+FunctionalPerl-0.72.76                  150932,156106
 IO-FD-v0.3.5                            150934
 Mojo-IOLoop-ReadWriteProcess-0.34       https://github.com/openSUSE/Mojo-IOLoop-ReadWriteProcess/issues/59
 Games-Simutrans-Pakset-0.02             150935
