@@ -7775,7 +7775,7 @@ Acme-Free-Public-APIs-0.9.9             155542
 Full-1.002                              https://github.com/team-at-cpan/Full/issues/1
 Webservice-InternetDB-API-1.003         155543
 Webservice-Ipify-API-1.003              155545
-mojo-debugbar-v0.1.2                    https://gitlab.com/AuroraSoftware/mojo-debugbar/-/issues/1
+mojo-debugbar-v0.1.3                    https://gitlab.com/AuroraSoftware/mojo-debugbar/-/issues/1
 WWW-Challonge-1.01                      155544
 Sub-SmartMatch-0.02                     155546
 Functional-Types-v0.0.1                 https://github.com/wimvanderbauwhede/Perl-Functional-Types/issues/1
