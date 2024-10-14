@@ -7982,3 +7982,4 @@ WWW-Mechanize-Chrome-0.73               https://github.com/Corion/WWW-Mechanize-
 WebService-Mailgun-0.16                 https://github.com/kan/p5-web-service-mailgun/issues/15
 Web-Microformats2-0.511                 https://github.com/jmacdotorg/microformats2-perl/issues/5
 Object-Meta-1.0.0                       156119
+LogFilter-0.13                          156120
