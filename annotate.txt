@@ -7975,3 +7975,4 @@ Mojo-Base-Tiny-0.06                     https://github.com/Tekki/mojo-base-tiny/
 LaTeXML-0.8.8                           https://github.com/brucemiller/LaTeXML/issues/2427
 Plack-App-Storage-Abstract-0.001        https://github.com/bbrtj/perl-plack-app-storage-abstract/issues/1
 Storage-Abstract-0.002                  https://github.com/bbrtj/perl-storage-abstract/issues/1
+Protocol-FIX-0.08                       https://github.com/deriv-com/perl-Protocol-FIX/issues/23
