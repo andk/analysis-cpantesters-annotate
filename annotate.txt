@@ -7983,3 +7983,4 @@ WebService-Mailgun-0.16                 https://github.com/kan/p5-web-service-ma
 Web-Microformats2-0.511                 https://github.com/jmacdotorg/microformats2-perl/issues/5
 Object-Meta-1.0.0                       156119
 LogFilter-0.13                          156120
+Icon-FamFamFam-Silk-0.002001003         156121
