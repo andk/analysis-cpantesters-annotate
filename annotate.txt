@@ -7275,7 +7275,7 @@ Database-DumpTruck-1.2                  140749
 List-Helpers-XS-0.19                    https://github.com/KalessinD/perl_list_helpers_xs/issues/2
 String-Validator-Phone-NANP-2.00        https://github.com/brainbuz/String-Validator/issues/7
 Dist-Zilla-Plugin-Test-UnusedVars-2.001000 148277
-Excel-Template-XLSX-v1.1.3              148278
+Excel-Template-XLSX-v1.1.3              148278,156107
 Finance-Dogecoin-Utils-1.20230424.0253  148279
 Glib-Object-Introspection-0.050         148280
 Open-This-0.000031                      https://github.com/oalders/open-this/issues/48
@@ -7965,3 +7965,4 @@ SPVM-Resource-Re2-V2022_06_01-0.06      156093
 Dist-Zilla-PluginBundle-Author-TABULO-1.000014 156104
 Dist-Zilla-Plugin-SyncCPANfile-0.04     https://github.com/PerlServices/Dist-Zilla-Plugin-SyncCPANfile/issues/7
 App-sdview-Output-HTML-0.02             156105
+JSON-Schema-Modern-0.592                https://github.com/karenetheridge/JSON-Schema-Modern/issues/85
