@@ -7977,3 +7977,4 @@ Plack-App-Storage-Abstract-0.001        https://github.com/bbrtj/perl-plack-app-
 Storage-Abstract-0.002                  https://github.com/bbrtj/perl-storage-abstract/issues/1
 Protocol-FIX-0.08                       https://github.com/deriv-com/perl-Protocol-FIX/issues/23
 SPVM-Eg-0.017                           156117
+SPVM-Resource-Zlib-V1_2_11-0.03         156118
