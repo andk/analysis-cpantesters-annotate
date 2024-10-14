@@ -343,7 +343,7 @@ Package-Watchdog-0.09                   81568
 POE-Component-Client-BigBrother-1.00    81572
 POE-Component-Client-SMTP-0.22          not a randomization problem it seems
 MooseX-Net-API-0.12                     deprecated; see Net::HTTP::API
-Net-Bot-IRC-NumericCodes-0.05           81591
+Net-Bot-IRC-NumericCodes-1.00           81591
 Su-0.110                                81595
 Class-Trait-0.31                        81598
 App-Hachero-0.13                        81604
