@@ -7963,3 +7963,4 @@ Dyn-0.05                                https://github.com/sanko/Dyn.pm/issues/1
 Linux-Unshare-1.2                       156092
 SPVM-Resource-Re2-V2022_06_01-0.06      156093
 Dist-Zilla-PluginBundle-Author-TABULO-1.000014 156104
+Dist-Zilla-Plugin-SyncCPANfile-0.04     https://github.com/PerlServices/Dist-Zilla-Plugin-SyncCPANfile/issues/7
