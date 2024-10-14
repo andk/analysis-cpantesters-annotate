@@ -7972,3 +7972,4 @@ At-0.18                                 https://github.com/sanko/At.pm/issues/1
 MVC-Neaf-0.2901                         https://github.com/dallaylaen/perl-mvc-neaf/issues/4
 Neovim-Ext-0.06                         https://github.com/jacquesg/p5-Neovim-Ext/issues/7
 Mojo-Base-Tiny-0.06                     https://github.com/Tekki/mojo-base-tiny/issues/2
+LaTeXML-0.8.8                           https://github.com/brucemiller/LaTeXML/issues/2427
