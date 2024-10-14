@@ -7966,3 +7966,4 @@ Dist-Zilla-PluginBundle-Author-TABULO-1.000014 156104
 Dist-Zilla-Plugin-SyncCPANfile-0.04     https://github.com/PerlServices/Dist-Zilla-Plugin-SyncCPANfile/issues/7
 App-sdview-Output-HTML-0.02             156105
 JSON-Schema-Modern-0.592                https://github.com/karenetheridge/JSON-Schema-Modern/issues/85
+Lingy-0.1.19                            https://github.com/lingy-lang/lingy/issues/59
