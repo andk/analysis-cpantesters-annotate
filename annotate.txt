@@ -6500,7 +6500,7 @@ Tickit-Widget-ScrollBox-0.11            140138
 App-Sqitch-v1.2.1                       https://github.com/sqitchers/sqitch/issues/597
 Cookie-v0.1.2                           140140
 IO-Async-0.800                          140143
-Crypt-OpenSSL-CA-0.91                   140144
+Crypt-OpenSSL-CA-0.91                   140144,156138
 DateTime-Tiny-1.07                      https://github.com/dagolden/DateTime-Tiny/issues/2
 HTML-T5-0.010                           140167
 Promise-ES6-0.25                        https://github.com/FGasper/p5-Promise-ES6/issues/12
