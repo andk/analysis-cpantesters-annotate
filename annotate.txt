@@ -3730,7 +3730,7 @@ POE-Component-IRC-Plugin-RTorrentStatus-0.17 127395
 Kasago-0.29                             127396
 MooseX-Workers-0.24                     127397
 WWW-Mechanize-Plugin-AutoWrite-0.06     127399,128844
-HTML-CalendarMonth-2.04                 127411
+HTML-CalendarMonth-2.04                 127411,156141
 Dancer2-Session-CHI-0.02                https://github.com/cromedome/dancer2-session-chi/issues/2
 Badger-0.13                             119422,127427
 Astro-FITS-CFITSIO-1.12                 127312
