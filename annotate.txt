@@ -7207,7 +7207,7 @@ Mojolicious-Plugin-OpenAPI-Modern-0.004 https://github.com/karenetheridge/Mojoli
 Amazon-API-2.0.1                        https://github.com/rlauer6/perl-Amazon-API/issues/3,https://github.com/rlauer6/perl-Amazon-API/issues/4
 Devel-MAT-0.49                          146630
 Inline-WebChat-0.62                     146631
-CSS-DOM-0.17                            https://github.com/Perl/perl5/issues/20782
+CSS-DOM-0.17                            https://github.com/Perl/perl5/issues/20782,146661
 DBM-Deep-2.0016                         https://github.com/Perl/perl5/issues/20782
 Data-Clone-0.004                        https://github.com/Perl/perl5/issues/20782,148415
 Perl-Builtins-0.04                      146678
