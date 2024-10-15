@@ -7984,3 +7984,4 @@ Web-Microformats2-0.511                 https://github.com/jmacdotorg/microforma
 Object-Meta-1.0.0                       156119
 LogFilter-0.13                          156120
 Icon-FamFamFam-Silk-0.002001003         156121
+Captcha-reCAPTCHA-V3-0.05               https://github.com/worthmine/Captcha-reCAPTCHA-V3/issues/5
