@@ -7988,3 +7988,4 @@ Captcha-reCAPTCHA-V3-0.05               https://github.com/worthmine/Captcha-reC
 Earth-0.04                              156139
 Future-Workflow-0.01                    156142
 Mac-PropertyList-SAX-1.001              156143
+MooseX-LocalAttribute-0.05              https://github.com/simbabque/MooseX-LocalAttribute/issues/6
