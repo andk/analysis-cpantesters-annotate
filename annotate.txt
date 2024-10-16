@@ -7992,3 +7992,4 @@ MooseX-LocalAttribute-0.05              https://github.com/simbabque/MooseX-Loca
 Net-Async-WebService-lxd-0.03           156144
 Term-ANSIColorx-ColorNicknames-2.7193   156151
 Test-WWW-Simple-0.41                    142012,142663
+Xporter-0.1.2                           149231
