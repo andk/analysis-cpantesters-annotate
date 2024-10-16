@@ -8003,3 +8003,10 @@ App-ClusterSSH-4.17                     https://github.com/duncs/clusterssh/issu
 Ascii-Text-Image-0.03                   156156
 Image-Base-GD-16                        156172
 WWW-Correios-CEP-1.044                  https://github.com/renatocron/WWW--Correios--CEP/issues/12
+Software-Catalog-SW-bulwark-qt-0.008    156175
+Software-Catalog-SW-dummy-undownloadable-0.004 156175
+Software-Catalog-SW-filezilla-0.003     156175
+Software-Catalog-SW-firefox-0.007       156175
+Software-Catalog-SW-phpmyadmin-0.004    156175
+Software-Catalog-SW-zcoin-qt-0.008      156175
+Software-Catalog-SW-zotero-0.006        156175
