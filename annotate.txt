@@ -8000,3 +8000,4 @@ Alien-Gimp-0.10                         156152
 Alien-proj-1.27                         https://github.com/shawnlaffan/perl-alien-proj/issues/17
 App-eachperl-0.11                       156153
 App-ClusterSSH-4.17                     https://github.com/duncs/clusterssh/issues/162,https://github.com/duncs/clusterssh/issues/163
+Ascii-Text-Image-0.03                   156156
