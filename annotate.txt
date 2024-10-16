@@ -8011,3 +8011,4 @@ Software-Catalog-SW-phpmyadmin-0.004    156175
 Software-Catalog-SW-zcoin-qt-0.008      156175
 Software-Catalog-SW-zotero-0.006        156175
 Web-DataService-0.42                    156176
+WebService-Pixela-0.021                 https://github.com/AnaTofuZ/p5-WebService-Pixela/issues/new
