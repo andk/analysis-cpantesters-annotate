@@ -7996,3 +7996,4 @@ Xporter-0.1.2                           149231
 Assert-Refute-0.17                      https://github.com/dallaylaen/assert-refute-perl/issues/5
 Text-Password-AutoMigration-0.41        https://github.com/worthmine/Text-Password-AutoMigration/issues/12
 Alien-curl-0.11                         https://github.com/PerlAlien/Alien-curl/issues/21
+Alien-Gimp-0.10                         156152
