@@ -7991,3 +7991,4 @@ Mac-PropertyList-SAX-1.001              156143
 MooseX-LocalAttribute-0.05              https://github.com/simbabque/MooseX-LocalAttribute/issues/6
 Net-Async-WebService-lxd-0.03           156144
 Term-ANSIColorx-ColorNicknames-2.7193   156151
+Test-WWW-Simple-0.41                    142012
