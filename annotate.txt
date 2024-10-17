@@ -6932,7 +6932,7 @@ File-AptFetch-v0.1.14                   https://github.com/Perl/perl5/issues/202
 Log-Log4perl-1.56                       https://github.com/Perl/perl5/issues/20207,https://github.com/mschilli/log4perl/pull/119
 Quote-Code-1.0102                       https://github.com/Perl/perl5/issues/20346
 BenchmarkAnything-Schema-0.004          https://github.com/Perl/perl5/issues/20346
-Mojolicious-Plugin-RenderCGI-0.102      https://github.com/Perl/perl5/issues/20346
+Mojolicious-Plugin-RenderCGI-0.102      https://github.com/Perl/perl5/issues/20346,156196
 Devel-Caller-2.06                       https://github.com/Perl/perl5/issues/20114
 Bio-ToolBox-1.69                        144444,144445
 Future-AsyncAwait-0.59                  144446
