@@ -7516,7 +7516,7 @@ Mail-Builder-2.13                       150118
 Bot-BasicBot-Pluggable-1.30             151002
 Experian-IDAuth-2.53                    https://github.com/binary-com/perl-experian-idauth/issues/27,https://github.com/deriv-com/perl-experian-idauth/issues/29
 File-PM2File-0.08                       150975
-Mail-GPG-1.0.12                         127756
+Mail-GPG-1.0.12                         127756,156197
 Tcl-1.29                                151003
 Net-Curl-0.55                           https://github.com/sparky/perl-Net-Curl/issues/75
 Spreadsheet-Read-0.89                   https://github.com/Tux/Spreadsheet-Read/issues/52
