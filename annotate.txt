@@ -8024,3 +8024,4 @@ App-SCM-Digest-0.13                     156205
 Device-Cdio-v2.0.0                      https://github.com/rocky/Perl-Device-Cdio/issues/7
 Getopt-Config-FromPod-v0.0.4            124662
 GlusterFS-GFAPI-FFI-0.4                 156206
+HTML-Strip-Whitespace-0.2.2             https://github.com/shlomif/perl-html-strip-whitespace/issues/2
