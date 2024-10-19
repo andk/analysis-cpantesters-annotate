@@ -8030,3 +8030,4 @@ MIDI-RtMidi-FFI-0.06                    https://github.com/jbarrett/MIDI-RtMidi-
 Net-Azure-NotificationHubs-0.08         https://github.com/ytnobody/p5-Net-Azure-NotifcationHubs/issues/7
 API-DirectAdmin-0.09                    156213
 App-JobLog-1.042                        156214
+Reindeer-0.020                          https://github.com/rsrchboy/reindeer/issues/15
