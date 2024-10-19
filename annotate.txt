@@ -8039,3 +8039,4 @@ Hyperscan-0.04                          156217
 Types-Algebraic-0.07                    https://github.com/Eckankar/Types-Algebraic/issues/7
 XML-Simple-Sugar-v1.1.2                 https://github.com/Camspi/XML-Simple-Sugar/issues/2
 lc_time-0.15                            156218
+App-rs-v2.1.2                           https://github.com/057a3dd61f99517a3afea0051a49cb27994f94d/rslinux/issues/6
