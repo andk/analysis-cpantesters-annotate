@@ -8045,3 +8045,4 @@ App-ClusterSSH-4.18                     https://github.com/duncs/clusterssh/issu
 Mail-SpamAssassin-4.0.1                 https://bz.apache.org/SpamAssassin/show_bug.cgi?id=8252
 Getopt-Compact-WithCmd-0.22             https://github.com/xaicron/p5-Getopt-Compact-WithCmd/issues/2
 App-PerlPackage2PlantUMLClassDiagram-0.02 https://github.com/hitode909/App-PerlPackage2PlantUMLClassDiagram/issues/4
+Class-DBI-ViewLoader-0.06               156225
