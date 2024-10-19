@@ -8077,3 +8077,4 @@ Object-Pad-SlotAttr-Trigger-0.05        156248
 Regexp-Compare-0.33                     156249
 IO-Pty-Easy-0.10                        https://github.com/doy/io-pty-easy/issues/3
 Perl-Lexer-0.36                         https://github.com/tokuhirom/Perl-Lexer/issues/12
+Text-AAlib-0.07                         https://github.com/syohex/p5-Text-AAlib/issues/2
