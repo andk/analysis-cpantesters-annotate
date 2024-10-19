@@ -8033,3 +8033,4 @@ App-JobLog-1.042                        156214
 Reindeer-0.020                          https://github.com/rsrchboy/reindeer/issues/15
 Redis-Namespace-0.13                    https://github.com/shogo82148/Redis-Namespace/issues/33
 Test-XS-Check-0.01                      https://github.com/houseabsolute/Test-XS-Check/issues/1
+invoker-0.36                            156216
