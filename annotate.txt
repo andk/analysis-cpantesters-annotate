@@ -8046,3 +8046,4 @@ Mail-SpamAssassin-4.0.1                 https://bz.apache.org/SpamAssassin/show_
 Getopt-Compact-WithCmd-0.22             https://github.com/xaicron/p5-Getopt-Compact-WithCmd/issues/2
 App-PerlPackage2PlantUMLClassDiagram-0.02 https://github.com/hitode909/App-PerlPackage2PlantUMLClassDiagram/issues/4
 Class-DBI-ViewLoader-0.06               156225
+Crypt-NaCl-Sodium-1.0.8.0               https://github.com/ajgb/crypt-nacl-sodium/issues/12
