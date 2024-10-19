@@ -8075,3 +8075,4 @@ Hijk-0.28                               https://github.com/gugod/Hijk/issues/28
 IO-SocketAlarm-0.003                    https://github.com/IntelliTree/perl-IO-SocketAlarm/issues/1
 Object-Pad-SlotAttr-Trigger-0.05        156248
 Regexp-Compare-0.33                     156249
+IO-Pty-Easy-0.10                        https://github.com/doy/io-pty-easy/issues/3
