@@ -8035,3 +8035,4 @@ Redis-Namespace-0.13                    https://github.com/shogo82148/Redis-Name
 Test-XS-Check-0.01                      https://github.com/houseabsolute/Test-XS-Check/issues/1
 invoker-0.36                            156216
 Algorithm-Heapify-XS-0.04               https://github.com/demerphq/Algorithm-Heapify-XS/issues/2
+Hyperscan-0.04                          156217
