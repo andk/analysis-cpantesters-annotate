@@ -8071,3 +8071,4 @@ RPM2-1.4                                156244
 Rose-DB-Object-0.820                    156245
 WWW-canihazip-0.01                      156246
 Forks-Queue-0.15                        156247
+Hijk-0.28                               https://github.com/gugod/Hijk/issues/28
