@@ -8043,3 +8043,4 @@ App-rs-v2.1.2                           https://github.com/057a3dd61f99517a3afea
 SPVM-AI-Util-0.01                       156224
 App-ClusterSSH-4.18                     https://github.com/duncs/clusterssh/issues/148
 Mail-SpamAssassin-4.0.1                 https://bz.apache.org/SpamAssassin/show_bug.cgi?id=8252
+Getopt-Compact-WithCmd-0.22             https://github.com/xaicron/p5-Getopt-Compact-WithCmd/issues/2
