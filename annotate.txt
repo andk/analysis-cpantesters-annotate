@@ -8038,3 +8038,4 @@ Algorithm-Heapify-XS-0.04               https://github.com/demerphq/Algorithm-He
 Hyperscan-0.04                          156217
 Types-Algebraic-0.07                    https://github.com/Eckankar/Types-Algebraic/issues/7
 XML-Simple-Sugar-v1.1.2                 https://github.com/Camspi/XML-Simple-Sugar/issues/2
+lc_time-0.15                            156218
