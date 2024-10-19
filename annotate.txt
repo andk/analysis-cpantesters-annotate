@@ -1487,7 +1487,7 @@ mocked-0.09                             112463
 ShipIt-0.60                             112501
 Storable-AMF-1.08                       112502
 WebService-MoviePosterDB-0.18           112507
-SGML-Parser-OpenSP-0.994                112508
+SGML-Parser-OpenSP-0.994                112508,148488
 Tapper-Testplan-4.1.2                   112509
 Tapper-Notification-4.1.1               112510
 DBD-PgLite-0.11                         112536,112537
