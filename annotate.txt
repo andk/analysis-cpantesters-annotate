@@ -8050,3 +8050,4 @@ Crypt-NaCl-Sodium-1.0.8.0               https://github.com/ajgb/crypt-nacl-sodiu
 Devel-Unwind-0.013                      156227
 Image-Seek-0.06                         https://github.com/wollmers/Image-Seek/issues/3
 Beam-Make-0.003                         https://github.com/preaction/Beam-Make/issues/1
+Package-Subroutine-v0.22.1              156228
