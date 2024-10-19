@@ -8036,3 +8036,4 @@ Test-XS-Check-0.01                      https://github.com/houseabsolute/Test-XS
 invoker-0.36                            156216
 Algorithm-Heapify-XS-0.04               https://github.com/demerphq/Algorithm-Heapify-XS/issues/2
 Hyperscan-0.04                          156217
+Types-Algebraic-0.07                    https://github.com/Eckankar/Types-Algebraic/issues/7
