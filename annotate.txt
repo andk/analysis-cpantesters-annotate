@@ -8091,3 +8091,4 @@ WWW-Wikipedia-2.05                      156266
 Dist-Zilla-Plugin-Test-Portability-2.001002 156268
 re-engine-Hyperscan-0.01                156269
 Crypt-Libmcrypt-1.0.5                   156270
+CSS-SpriteMaker-1.01                    156271
