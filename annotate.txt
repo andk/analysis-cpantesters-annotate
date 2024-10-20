@@ -8094,3 +8094,4 @@ Crypt-Libmcrypt-1.0.5                   156270
 CSS-SpriteMaker-1.01                    156271
 Image-Magick-Safer-0.07                 https://github.com/payprop/image-magick-safer/issues/3
 MarpaX-Database-Terminfo-0.012          156272
+WWW-Postmark-1.000001                   https://github.com/ido50/WWW-Postmark/issues/6
