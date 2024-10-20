@@ -8079,3 +8079,4 @@ IO-Pty-Easy-0.10                        https://github.com/doy/io-pty-easy/issue
 Perl-Lexer-0.36                         https://github.com/tokuhirom/Perl-Lexer/issues/12
 Text-AAlib-0.07                         https://github.com/syohex/p5-Text-AAlib/issues/2
 Alien-Leptonica-0.007                   156258
+WWW-Shorten-SapoPuny-0.04               156259
