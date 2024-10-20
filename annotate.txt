@@ -8084,3 +8084,4 @@ WebService-Async-UserAgent-0.006        https://github.com/team-at-cpan/WebServi
 XML-LibXML-jQuery-0.08                  https://github.com/cafe01/xml-libxml-jquery/issues/2
 Syntax-Feature-QwComments-v1.14.0       147486
 Centrifugo-Client-1.05                  156261
+Graph-SomeUtils-0.20                    156262
