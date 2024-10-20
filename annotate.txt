@@ -8089,3 +8089,4 @@ Zabbix-ServerScript-0.14                https://github.com/Akint/Zabbix-ServerSc
 PHP-Serialization-XS-0.10               156265
 WWW-Wikipedia-2.05                      156266
 Dist-Zilla-Plugin-Test-Portability-2.001002 156268
+re-engine-Hyperscan-0.01                156269
