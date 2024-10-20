@@ -8085,3 +8085,4 @@ XML-LibXML-jQuery-0.08                  https://github.com/cafe01/xml-libxml-jqu
 Syntax-Feature-QwComments-v1.14.0       147486
 Centrifugo-Client-1.05                  156261
 Graph-SomeUtils-0.20                    156262
+Zabbix-ServerScript-0.14                https://github.com/Akint/Zabbix-ServerScript/issues/7
