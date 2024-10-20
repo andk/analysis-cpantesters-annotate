@@ -7095,7 +7095,7 @@ UML-Class-Simple-0.22                   144937
 Webservice-InterMine-1.0405             https://github.com/Perl/perl5/issues/20447,144956
 App-ipchgmon-1.0.6                      144972
 Bio-Cigar-1.02                          144973
-Git-Repository-1.325                    144889
+Git-Repository-1.325                    144889,155717
 Git-Repository-Plugin-Dirty-0.01        144985
 Git-Sub-0.163320                        144986
 Syntax-Operator-In-0.03                 144990
