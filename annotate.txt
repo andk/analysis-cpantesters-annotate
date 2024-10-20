@@ -7142,7 +7142,7 @@ Archive-Any-0.0946                      https://github.com/oalders/archive-any/i
 XML-Loy-0.51                            https://github.com/Akron/XML-Loy/issues/5
 filename-v0.20.060                      https://github.com/Perl/perl5/issues/20659
 Lemonldap-NG-Handler-2.0.15.1           https://github.com/Perl/perl5/issues/20346
-Module-Reader-0.003003                  https://github.com/Perl/perl5/issues/20664
+Module-Reader-0.003003                  https://github.com/Perl/perl5/issues/20664,148979
 Valiant-0.001017                        https://github.com/jjn1056/Valiant/issues/9
 Date-Extract-PERLANCAR-0.002            145811
 Passwd-Unix-1.08                        145815
