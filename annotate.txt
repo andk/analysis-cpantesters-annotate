@@ -8081,3 +8081,4 @@ Text-AAlib-0.07                         https://github.com/syohex/p5-Text-AAlib/
 Alien-Leptonica-0.007                   156258
 WWW-Shorten-SapoPuny-0.04               156259
 WebService-Async-UserAgent-0.006        https://github.com/team-at-cpan/WebService-Async-UserAgent/issues/2
+XML-LibXML-jQuery-0.08                  https://github.com/cafe01/xml-libxml-jquery/issues/2
