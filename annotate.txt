@@ -8096,3 +8096,4 @@ Image-Magick-Safer-0.07                 https://github.com/payprop/image-magick-
 MarpaX-Database-Terminfo-0.012          156272
 WWW-Postmark-1.000001                   https://github.com/ido50/WWW-Postmark/issues/6
 re-engine-Hyperscan-0.03                https://github.com/rurban/re-engine-Hyperscan/issues/2
+Xerarch-0.01                            156294
