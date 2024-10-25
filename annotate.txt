@@ -8102,3 +8102,4 @@ Module-Pluggable-6.1                    156312
 Bio-GenomeMap-0.03                      156323
 Map-Tube-Milan-0.008                    https://github.com/mfontani/Map-Tube-Milan/issues/4
 App-Greple-msdoc-1.06                   https://github.com/kaz-utashiro/greple-msdoc/issues/1
+Module-Pluggable-6.2                    156361
