@@ -8120,3 +8120,4 @@ App-MechaCPAN-0.30                      https://github.com/atrodo/App-MechaCPAN/
 superclass-0.003                        https://github.com/dagolden/superclass/issues/5
 MooseX-Role-MongoDB-1.000               https://github.com/dagolden/MooseX-Role-MongoDB/issues/4
 DBIx-QuickORM-0.000003                  https://github.com/exodist/DBIx-QuickORM/issues/18
+MD5-2.03                                156477
