@@ -8116,3 +8116,4 @@ Reindeer-0.020                          https://github.com/rsrchboy/reindeer/iss
 Crypt-MatrixSSL3-v3.9.3                 https://github.com/Perl/perl5/issues/22705
 Jojo-Base-0.7.0                         https://github.com/aferreira/cpan-Jojo-Base/issues/3
 Device-FTDI-0.14                        https://github.com/leonerd/perl-Device-FTDI/issues/7
+App-MechaCPAN-0.30                      https://github.com/atrodo/App-MechaCPAN/issues/25
