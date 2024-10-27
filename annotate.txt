@@ -8118,3 +8118,4 @@ Jojo-Base-0.7.0                         https://github.com/aferreira/cpan-Jojo-B
 Device-FTDI-0.14                        https://github.com/leonerd/perl-Device-FTDI/issues/7
 App-MechaCPAN-0.30                      https://github.com/atrodo/App-MechaCPAN/issues/25
 superclass-0.003                        https://github.com/dagolden/superclass/issues/5
+MooseX-Role-MongoDB-1.000               https://github.com/dagolden/MooseX-Role-MongoDB/issues/4
