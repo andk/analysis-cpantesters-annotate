@@ -8112,3 +8112,4 @@ LWP-ConsoleLogger-1.000001              https://github.com/libwww-perl/WWW-Mecha
 Test-NoLeaks-0.06                       https://github.com/Perl/perl5/issues/22704
 PDK-DBI-0.003                           156474
 PDK-Utils-0.003                         156475
+Reindeer-0.020                          https://github.com/rsrchboy/reindeer/issues/16
