@@ -8117,3 +8117,4 @@ Crypt-MatrixSSL3-v3.9.3                 https://github.com/Perl/perl5/issues/227
 Jojo-Base-0.7.0                         https://github.com/aferreira/cpan-Jojo-Base/issues/3
 Device-FTDI-0.14                        https://github.com/leonerd/perl-Device-FTDI/issues/7
 App-MechaCPAN-0.30                      https://github.com/atrodo/App-MechaCPAN/issues/25
+superclass-0.003                        https://github.com/dagolden/superclass/issues/5
