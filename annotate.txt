@@ -8121,3 +8121,4 @@ superclass-0.003                        https://github.com/dagolden/superclass/i
 MooseX-Role-MongoDB-1.000               https://github.com/dagolden/MooseX-Role-MongoDB/issues/4
 DBIx-QuickORM-0.000003                  https://github.com/exodist/DBIx-QuickORM/issues/18
 MD5-2.03                                156477
+Ark-1.22                                https://github.com/ark-framework/ark/issues/15
