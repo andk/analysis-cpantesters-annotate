@@ -8108,3 +8108,4 @@ Cache-Memcached-PDeque-0.02             156382,156383
 DBIx-QuickORM-0.000001                  https://github.com/exodist/DBIx-QuickORM/issues/3
 Net-Prometheus-0.14                     156384
 DBIx-QuickORM-0.000002                  https://github.com/exodist/DBIx-QuickORM/issues/14,https://github.com/exodist/DBIx-QuickORM/issues/15,https://github.com/exodist/DBIx-QuickORM/issues/16
+LWP-ConsoleLogger-1.000001              https://github.com/libwww-perl/WWW-Mechanize/issues/382
