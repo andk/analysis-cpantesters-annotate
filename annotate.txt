@@ -8109,3 +8109,4 @@ DBIx-QuickORM-0.000001                  https://github.com/exodist/DBIx-QuickORM
 Net-Prometheus-0.14                     156384
 DBIx-QuickORM-0.000002                  https://github.com/exodist/DBIx-QuickORM/issues/14,https://github.com/exodist/DBIx-QuickORM/issues/15,https://github.com/exodist/DBIx-QuickORM/issues/16
 LWP-ConsoleLogger-1.000001              https://github.com/libwww-perl/WWW-Mechanize/issues/382
+Test-NoLeaks-0.06                       https://github.com/Perl/perl5/issues/22704
