@@ -3284,7 +3284,7 @@ MooseX-Atom-0.02                        123867
 App-sdif-3.2.3                          https://github.com/kaz-utashiro/sdif-tools/issues/2
 WWW-Freshmeat-0.22                      123889
 FSM-Basic-0.14                          123894
-DBIx-Class-Candy-0.005003               https://rt.perl.org/rt3/Ticket/Display.html?id=132594
+DBIx-Class-Candy-0.005003               https://rt.perl.org/rt3/Ticket/Display.html?id=132594,https://github.com/frioux/DBIx-Class-Candy/issues/18
 Regexp-Common-2017060201                https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Syntax-Keyword-Junction-0.003008        https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 JavaScript-Prepare-v0.1                 https://rt.perl.org/rt3/Ticket/Display.html?id=132594
