@@ -8119,3 +8119,4 @@ Device-FTDI-0.14                        https://github.com/leonerd/perl-Device-F
 App-MechaCPAN-0.30                      https://github.com/atrodo/App-MechaCPAN/issues/25
 superclass-0.003                        https://github.com/dagolden/superclass/issues/5
 MooseX-Role-MongoDB-1.000               https://github.com/dagolden/MooseX-Role-MongoDB/issues/4
+DBIx-QuickORM-0.000003                  https://github.com/exodist/DBIx-QuickORM/issues/18
