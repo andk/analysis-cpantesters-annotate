@@ -8123,3 +8123,4 @@ DBIx-QuickORM-0.000003                  https://github.com/exodist/DBIx-QuickORM
 MD5-2.03                                156477
 Ark-1.22                                https://github.com/ark-framework/ark/issues/15
 MooX-TaggedAttributes-0.18              156478
+Crypt-DSA-1.17                          156495
