@@ -8126,3 +8126,4 @@ MooX-TaggedAttributes-0.18              156478
 Crypt-DSA-1.17                          156495
 MetaCPAN-Client-2.032000                https://github.com/metacpan/MetaCPAN-Client/issues/126
 Parallel-Map-Segmented-0.4.0            156510
+Audio-Nama-1.505                        156570
