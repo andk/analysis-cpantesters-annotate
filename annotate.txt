@@ -8128,3 +8128,4 @@ MetaCPAN-Client-2.032000                https://github.com/metacpan/MetaCPAN-Cli
 Parallel-Map-Segmented-0.4.0            156510
 Audio-Nama-1.505                        156570,156571
 SpeL-Wizard-20241023.0918               156573
+Term-ANSIColor-Simple-0.10              156574
