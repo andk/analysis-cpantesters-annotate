@@ -8104,7 +8104,7 @@ Map-Tube-Milan-0.008                    https://github.com/mfontani/Map-Tube-Mil
 App-Greple-msdoc-1.06                   https://github.com/kaz-utashiro/greple-msdoc/issues/1
 Module-Pluggable-6.2                    156361
 PDL-Graphics-Simple-1.015               https://github.com/PDLPorters/PDL-Graphics-Simple/issues/10
-Cache-Memcached-PDeque-0.02             156382,156383
+Cache-Memcached-PDeque-0.03             156382,156383
 DBIx-QuickORM-0.000001                  https://github.com/exodist/DBIx-QuickORM/issues/3
 Net-Prometheus-0.14                     156384
 DBIx-QuickORM-0.000002                  https://github.com/exodist/DBIx-QuickORM/issues/14,https://github.com/exodist/DBIx-QuickORM/issues/15,https://github.com/exodist/DBIx-QuickORM/issues/16
