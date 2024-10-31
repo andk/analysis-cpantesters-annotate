@@ -8136,3 +8136,4 @@ OAuth-Lite-1.35                         156578
 Perl6-Controls-0.000007                 156579
 Web-oEmbed-0.04                         156580
 Plack-App-FakeApache1-0.0.6             https://github.com/chizmw/plack-app-fakeapache1/issues/18
+Rex-1.14.3.1-TRIAL                      https://github.com/RexOps/Rex/issues/1624
