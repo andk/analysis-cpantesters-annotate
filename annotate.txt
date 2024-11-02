@@ -8141,3 +8141,4 @@ Physics-Unit-0.60                       https://github.com/Klortho/Physics-Unit/
 Bio-MUST-Drivers-0.242720               156785
 Daje-Generate-0.05                      156789
 DateTime-Format-Duration-ISO8601-0.008  156790
+Getopt-Auto-2.0                         156791
