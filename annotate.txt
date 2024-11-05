@@ -8146,3 +8146,4 @@ Net-Async-OpenExchRates-0.004           https://github.com/vnealv/Net-Async-Open
 Object-Lvalue-v0.1.0                    156792
 HashDataRoles-Standard-0.005            156830
 JSON-Schema-Modern-0.594                https://github.com/karenetheridge/JSON-Schema-Modern/issues/87
+PayProp-API-Public-Client-0.04          https://github.com/payprop/api-client-public-module/issues/6
