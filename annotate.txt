@@ -8144,3 +8144,4 @@ DateTime-Format-Duration-ISO8601-0.008  156790
 Getopt-Auto-2.0                         156791
 Net-Async-OpenExchRates-0.004           https://github.com/vnealv/Net-Async-OpenExchRates/issues/1
 Object-Lvalue-v0.1.0                    156792
+HashDataRoles-Standard-0.005            156830
