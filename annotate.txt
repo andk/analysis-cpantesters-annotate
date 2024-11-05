@@ -8145,3 +8145,4 @@ Getopt-Auto-2.0                         156791
 Net-Async-OpenExchRates-0.004           https://github.com/vnealv/Net-Async-OpenExchRates/issues/1
 Object-Lvalue-v0.1.0                    156792
 HashDataRoles-Standard-0.005            156830
+JSON-Schema-Modern-0.594                https://github.com/karenetheridge/JSON-Schema-Modern/issues/87
