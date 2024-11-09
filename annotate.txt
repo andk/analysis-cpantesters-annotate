@@ -8149,3 +8149,4 @@ JSON-Schema-Modern-0.594                https://github.com/karenetheridge/JSON-S
 PayProp-API-Public-Client-0.04          https://github.com/payprop/api-client-public-module/issues/6
 RecentInfo-Manager-0.03                 https://github.com/Corion/RecentInfo-Manager/issues/1
 PDL-IO-CSV-0.011                        https://github.com/kmx/pdl-io-csv/issues/3
+Geo-Leaflet-0.01                        https://github.com/mrdvt92/perl-Geo-Leaflet/issues/1
