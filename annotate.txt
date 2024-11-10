@@ -8013,7 +8013,7 @@ Software-Catalog-SW-zotero-0.006        156175
 Software-Catalog-SW-kdenlive-0.001      156175
 Web-DataService-0.42                    156176
 WebService-Pixela-0.021                 https://github.com/AnaTofuZ/p5-WebService-Pixela/issues/10
-Net-AMQP-RabbitMQ-2.40013               https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq/issues/170
+Net-AMQP-RabbitMQ-2.40014               https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq/issues/170
 Object-Pad-SlotAttr-Final-0.04          156177
 Clone-Any-1.01                          156178
 DateLocale-1.46                         156184
