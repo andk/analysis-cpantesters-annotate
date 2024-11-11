@@ -8113,7 +8113,7 @@ Test-NoLeaks-0.06                       https://github.com/Perl/perl5/issues/227
 PDK-DBI-0.003                           156474
 PDK-Utils-0.003                         156475
 Reindeer-0.020                          https://github.com/rsrchboy/reindeer/issues/16
-Crypt-MatrixSSL3-v3.9.3                 https://github.com/Perl/perl5/issues/22705
+Crypt-MatrixSSL3-v3.9.4                 https://github.com/Perl/perl5/issues/22705
 Jojo-Base-0.7.0                         https://github.com/aferreira/cpan-Jojo-Base/issues/3
 Device-FTDI-0.14                        https://github.com/leonerd/perl-Device-FTDI/issues/7
 App-MechaCPAN-0.30                      https://github.com/atrodo/App-MechaCPAN/issues/25
