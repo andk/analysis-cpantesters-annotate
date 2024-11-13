@@ -8154,3 +8154,4 @@ Map-Tube-Glasgow-v0.71.0                156980
 Mojo-UserAgent-Role-TotalTimeout-v0.0.1 https://gitlab.com/karjala/mojo-useragent-role-total_timeout/-/issues/1
 Test-Class-Moose-0.99                   https://github.com/houseabsolute/test-class-moose/issues/114
 App-LinkSite-0.0.10                     157067
+Crypt-Bear-0.001                        https://github.com/Leont/crypt-bear/issues/2
