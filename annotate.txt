@@ -8156,3 +8156,4 @@ Test-Class-Moose-0.99                   https://github.com/houseabsolute/test-cl
 App-LinkSite-0.0.10                     157067
 Crypt-Bear-0.001                        https://github.com/Leont/crypt-bear/issues/2
 Muster-0.92                             157069
+Module-ScanDeps-Static-1.005            157187
