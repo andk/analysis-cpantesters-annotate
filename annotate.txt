@@ -8159,3 +8159,4 @@ Muster-0.92                             157069
 Module-ScanDeps-Static-1.005            157187
 Map-Tube-Plugin-FuzzyFind-v0.81.0       157188
 Object-Pad-0.815                        157189
+Mail-BIMI-3.20241111                    https://github.com/marcbradshaw/mail-bimi/issues/5,https://github.com/marcbradshaw/mail-bimi/issues/10
