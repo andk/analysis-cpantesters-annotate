@@ -8164,3 +8164,4 @@ Template-Plexsite-v0.1.0                157190
 JSON-Schema-Tiny-0.027                  https://github.com/karenetheridge/JSON-Schema-Tiny/issues/8
 STIX-1.00                               157279
 Sentry-SDK-1.3.8                        https://github.com/heiseonline/perl-sentry-sdk/issues/29
+Scope-Upper-0.34                        154985
