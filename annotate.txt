@@ -8168,3 +8168,4 @@ Scope-Upper-0.34                        154985
 UserAgent-Any-JSON-0.04                 https://github.com/mkende/perl_user_agent_any_json/issues/1
 App-Stouch-0.01                         https://codeberg.org/1-1sam/stouch/issues/1
 Crypt-Fernet-0.03                       157496
+Crypt-OpenSSL-DSA-0.20                  150489
