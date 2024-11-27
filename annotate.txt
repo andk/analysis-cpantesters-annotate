@@ -3737,7 +3737,7 @@ Astro-FITS-CFITSIO-1.12                 127312
 Config-Model-Xorg-1.115                 127431
 Crypt-RSA-1.99                          127436
 Devel-Chitin-0.17                       127437,127438,127439
-Math-Pari-2.030518                      127442
+Math-Pari-2.030523                      127442,157497
 qbit-2.6                                127443
 Net-LastFM-0.36                         127446
 Net-Statsd-Client-Telegraf-0.1          https://github.com/pierre-vigier/Net-Statsd-Client-Telegraf/issues/1
