@@ -8166,3 +8166,4 @@ STIX-1.00                               157279
 Sentry-SDK-1.3.8                        https://github.com/heiseonline/perl-sentry-sdk/issues/29
 Scope-Upper-0.34                        154985
 UserAgent-Any-JSON-0.04                 https://github.com/mkende/perl_user_agent_any_json/issues/1
+App-Stouch-0.01                         https://codeberg.org/1-1sam/stouch/issues/1
