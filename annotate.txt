@@ -8175,3 +8175,4 @@ Web-Components-0.12.5                   157517
 Dist-Maker-0.10                         157553
 String-Diff-0.08                        157577
 Role-Inspector-0.006                    157581
+GD-Barcode-2.00                         https://github.com/mbeijen/GD-Barcode/issues/8
