@@ -8179,3 +8179,4 @@ GD-Barcode-2.00                         https://github.com/mbeijen/GD-Barcode/is
 Map-Tube-3.78                           157584
 String-Diff-0.09                        157585
 JSON-Hyper-0.011                        157586
+HTML-HTML5-Writer-0.201                 157587
