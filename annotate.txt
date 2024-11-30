@@ -8178,3 +8178,4 @@ Role-Inspector-0.006                    157581
 GD-Barcode-2.00                         https://github.com/mbeijen/GD-Barcode/issues/8
 Map-Tube-3.78                           157584
 String-Diff-0.09                        157585
+JSON-Hyper-0.011                        157586
