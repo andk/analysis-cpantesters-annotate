@@ -8174,3 +8174,4 @@ Math-Symbolic-Custom-Polynomial-0.1     157516
 Web-Components-0.12.5                   157517
 Dist-Maker-0.10                         157553
 String-Diff-0.08                        157577
+Role-Inspector-0.006                    157581
