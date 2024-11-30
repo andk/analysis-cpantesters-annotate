@@ -3502,7 +3502,7 @@ PlantUML-ClassDiagram-Parse-0.1         https://github.com/Kesin11/plantuml_clas
 Riji-v0.9.8                             https://github.com/Songmu/p5-Riji/issues/20
 Stacktrace-Configurable-0.06            https://github.com/tfoertsch/Stacktrace-Configurable/issues/1
 Try-Lite-0.0.3                          https://github.com/yappo/p5-Try-Lite/issues/4
-Alien-RRDtool-0.06                      124928
+Alien-RRDtool-0.06                      124928,157582
 Device-CableModem-Motorola-SB4200-0.12  124929
 GD-Thumbnail-1.42                       123535
 FFmpeg-Thumbnail-0.02                   103159,124945
