@@ -3826,7 +3826,7 @@ RPC-XML-0.82                            120472,131866
 Mojolicious-Plugin-CGI-0.39             https://github.com/jhthorsen/mojolicious-plugin-cgi/issues/30
 IPC-Shareable-0.61                      91197,91841,131379
 Net-SAML2-0.17                          127710
-Flickr-API2-2.50                        127711
+Flickr-API2-2.50                        127711,157579
 tk-zinc-3.303                           127714
 App-Guiio-0.991                         127715
 Mac-MissileLauncher-0.01                127716
