@@ -8181,3 +8181,4 @@ String-Diff-0.09                        157585
 JSON-Hyper-0.011                        157586
 HTML-HTML5-Writer-0.201                 157587
 WebService-S3-Tiny-0.003                https://github.com/cv-library/WebService-S3-Tiny/issues/7
+App-Changelog-1.0.1                     157624
