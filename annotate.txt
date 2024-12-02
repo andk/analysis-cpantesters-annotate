@@ -8183,3 +8183,4 @@ HTML-HTML5-Writer-0.201                 157587
 WebService-S3-Tiny-0.003                https://github.com/cv-library/WebService-S3-Tiny/issues/7
 App-Changelog-1.0.1                     157624
 Music-Dice-0.0104                       157625
+Benchmark-DKbench-2.9                   157626
