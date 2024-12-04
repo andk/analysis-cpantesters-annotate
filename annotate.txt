@@ -8187,3 +8187,4 @@ Benchmark-DKbench-2.9                   157626
 OpenMP-Simple-0.1.4                     157627,154473,157628,157629
 Crypt-Lucifer-0.1                       https://github.com/Perl/perl5/issues/22820
 Circle-Common-0.05                      157698
+Circle-Miner-0.01                       157699
