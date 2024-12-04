@@ -7558,7 +7558,7 @@ Terse-0.23                              151226
 Tickit-Widget-Table-0.216               151229
 Params-Validate-Dependencies-1.41       https://github.com/DrHyde/perl-modules-Params-Validate-Dependencies/issues/28
 Search-Elasticsearch-Client-7_0-8.12    https://github.com/elastic/elasticsearch-perl/issues/240
-SVGPDF-0.084                            151331
+SVGPDF-0.089                            151331
 POSIX-RT-Signal-0.016                   https://github.com/Leont/posix-rt-signal/issues/1
 Dist-Setup-0.04                         https://github.com/mkende/perl-dist-setup/issues/2
 Dist-Setup-0.05                         https://github.com/mkende/perl-dist-setup/issues/3
