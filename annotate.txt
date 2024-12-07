@@ -8190,3 +8190,4 @@ Circle-Common-0.05                      157698
 Circle-Miner-0.01                       157699
 Spreadsheet-HTML-1.22                   157737
 POE-Component-IRC-6.93                  157738
+Test-POE-Client-TCP-1.26                157739
