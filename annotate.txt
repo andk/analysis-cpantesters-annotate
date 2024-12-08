@@ -8182,7 +8182,7 @@ JSON-Hyper-0.011                        157586
 HTML-HTML5-Writer-0.201                 157587
 WebService-S3-Tiny-0.003                https://github.com/cv-library/WebService-S3-Tiny/issues/7
 App-Changelog-1.0.1                     157624
-Music-Dice-0.0105                       157625
+Music-Dice-0.0200                       157625
 Benchmark-DKbench-2.9                   157626
 OpenMP-Simple-0.1.4                     157627,154473,157628,157629
 Crypt-Lucifer-0.1                       https://github.com/Perl/perl5/issues/22820
