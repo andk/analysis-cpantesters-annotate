@@ -3320,7 +3320,7 @@ Perinci-Sub-DepChecker-0.11             https://rt.perl.org/rt3/Ticket/Display.h
 Perl-Stripper-0.10                      https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 Unix-Passwd-File-0.250                  https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 autodie-2.29                            https://rt.perl.org/rt3/Ticket/Display.html?id=132594
-lexical-underscore-0.004                https://rt.perl.org/rt3/Ticket/Display.html?id=132594
+lexical-underscore-0.004                https://rt.perl.org/rt3/Ticket/Display.html?id=132594,157814
 Smart-Match-0.008                       https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 threads-lite-0.034                      https://rt.perl.org/rt3/Ticket/Display.html?id=132594
 SVN-Notify-2.86                         https://rt.perl.org/Public/Bug/Display.html?id=132252
