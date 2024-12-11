@@ -8192,3 +8192,4 @@ Spreadsheet-HTML-1.22                   157737
 POE-Component-IRC-6.93                  157738
 Test-POE-Client-TCP-1.26                157739
 POE-Component-IRC-Plugin-WWW-Reddit-TIL-0.09 https://github.com/aggrolite/POE-Component-IRC-Plugin-WWW-Reddit-TIL/issues/3
+App-perl-distrolint-0.07                157810
