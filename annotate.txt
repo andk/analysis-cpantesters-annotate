@@ -8196,4 +8196,4 @@ App-perl-distrolint-0.07                157810
 Daje-Tools-Filechanged-0.01             https://github.com/janeskil1525/Daje-Tools-Filechanged/issues/1
 Parallel-WorkUnit-2.243450              https://github.com/jmaslak/Parallel-WorkUnit/issues/1
 YAGL-0.1                                157811,157812,157826
-Daje-Plugin-GenerateSQL-0.02            https://github.com/janeskil1525/Daje-Plugin-GenerateSQL/issues/1
+Daje-Plugin-GenerateSQL-0.02            https://github.com/janeskil1525/Daje-Plugin-GenerateSQL/issues/1,https://github.com/janeskil1525/Daje-Plugin-GenerateSQL/issues/2
