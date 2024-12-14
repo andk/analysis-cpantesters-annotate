@@ -8197,3 +8197,4 @@ Daje-Tools-Filechanged-0.01             https://github.com/janeskil1525/Daje-Too
 Parallel-WorkUnit-2.243450              https://github.com/jmaslak/Parallel-WorkUnit/issues/1
 YAGL-0.1                                157811,157812,157826
 Daje-Plugin-GenerateSQL-0.02            https://github.com/janeskil1525/Daje-Plugin-GenerateSQL/issues/1,https://github.com/janeskil1525/Daje-Plugin-GenerateSQL/issues/2
+Daje-Plugin-GeneratePerl-0.03           https://github.com/janeskil1525/Daje-Plugin-GeneratePerl/issues/1
