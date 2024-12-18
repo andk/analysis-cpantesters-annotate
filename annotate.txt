@@ -8203,3 +8203,4 @@ Data-Validate-WithYAML-Plugin-Phone-0.06 https://github.com/reneeb/Data-Validate
 Data-Dumper-Interp-7.011                https://github.com/jimav/Data-Dumper-Interp/issues/3
 Syntax-Keyword-Assert-0.15              https://github.com/kfly8/Syntax-Keyword-Assert/issues/10
 Data-URIID-v0.11                        157959
+Spreadsheet-Edit-1000.023               https://github.com/jimav/Spreadsheet-Edit/issues/4
