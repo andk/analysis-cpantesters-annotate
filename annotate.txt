@@ -8200,3 +8200,4 @@ Daje-Plugin-GenerateSQL-0.02            https://github.com/janeskil1525/Daje-Plu
 Daje-Plugin-GeneratePerl-0.03           https://github.com/janeskil1525/Daje-Plugin-GeneratePerl/issues/1
 Text-Table-Boxed-1.002                  https://github.com/jimav/Text-Table-Boxed/issues/1
 Data-Validate-WithYAML-Plugin-Phone-0.06 https://github.com/reneeb/Data-Validate-WithYAML-Plugin-Phone/issues/5
+Data-Dumper-Interp-7.011                https://github.com/jimav/Data-Dumper-Interp/issues/3
