@@ -8216,3 +8216,4 @@ Map-Tube-Minsk-0.06                     https://github.com/michal-josef-spacek/M
 Map-Tube-NYC-0.70                       157756
 Map-Tube-Moscow-0.09                    https://github.com/michal-josef-spacek/Map-Tube-Moscow/issues/4
 Map-Tube-Nanjing-0.04                   158041
+Map-Tube-NizhnyNovgorod-0.03            158042
