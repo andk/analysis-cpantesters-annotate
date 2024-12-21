@@ -8158,7 +8158,7 @@ Crypt-Bear-0.001                        https://github.com/Leont/crypt-bear/issu
 Muster-0.92                             157069
 Module-ScanDeps-Static-1.005            157187
 Map-Tube-Plugin-FuzzyFind-v0.81.0       157188
-Object-Pad-0.815                        157189
+Object-Pad-0.817                        157189
 Mail-BIMI-3.20241209                    https://github.com/marcbradshaw/mail-bimi/issues/10
 Template-Plexsite-v0.1.0                157190
 JSON-Schema-Tiny-0.027                  https://github.com/karenetheridge/JSON-Schema-Tiny/issues/8
