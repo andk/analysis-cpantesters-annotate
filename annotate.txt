@@ -8211,3 +8211,4 @@ Map-Tube-Bielefeld-2020.0330            https://github.com/vpeil/perl-map-tube-b
 Map-Tube-Bucharest-0.11                 https://github.com/michal-josef-spacek/Map-Tube-Bucharest/issues/3
 Map-Tube-KualaLumpur-0.06               158040
 Map-Tube-Madrid-0.39                    157754
+Map-Tube-Malaga-0.16                    https://github.com/michal-josef-spacek/Map-Tube-Malaga/issues/2
