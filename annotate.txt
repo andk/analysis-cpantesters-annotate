@@ -8214,3 +8214,4 @@ Map-Tube-Madrid-0.39                    157754
 Map-Tube-Malaga-0.16                    https://github.com/michal-josef-spacek/Map-Tube-Malaga/issues/2
 Map-Tube-Minsk-0.06                     https://github.com/michal-josef-spacek/Map-Tube-Minsk/issues/2
 Map-Tube-NYC-0.70                       157756
+Map-Tube-Moscow-0.09                    https://github.com/michal-josef-spacek/Map-Tube-Moscow/issues/4
