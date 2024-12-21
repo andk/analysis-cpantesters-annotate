@@ -8218,3 +8218,4 @@ Map-Tube-Moscow-0.09                    https://github.com/michal-josef-spacek/M
 Map-Tube-Nanjing-0.04                   158041
 Map-Tube-NizhnyNovgorod-0.03            158042
 Map-Tube-Novosibirsk-0.03               158043
+Map-Tube-Prague-0.15                    103078
