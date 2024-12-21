@@ -8208,3 +8208,4 @@ Data-Section-Pluggable-0.04             https://github.com/uperl/Data-Section-Pl
 Math-NLopt-0.05                         158038,158039
 Map-Tube-Barcelona-0.76                 157755
 Map-Tube-Bielefeld-2020.0330            https://github.com/vpeil/perl-map-tube-bielefeld/issues/4
+Map-Tube-Bucharest-0.11                 https://github.com/michal-josef-spacek/Map-Tube-Bucharest/issues/3
