@@ -8206,3 +8206,4 @@ Data-URIID-v0.11                        157959
 Spreadsheet-Edit-1000.023               https://github.com/jimav/Spreadsheet-Edit/issues/4
 Data-Section-Pluggable-0.04             https://github.com/uperl/Data-Section-Pluggable/issues/7
 Math-NLopt-0.05                         158038,158039
+Map-Tube-Barcelona-0.76                 157755
