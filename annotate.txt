@@ -8204,3 +8204,4 @@ Data-Dumper-Interp-7.011                https://github.com/jimav/Data-Dumper-Int
 Syntax-Keyword-Assert-0.16              https://github.com/kfly8/Syntax-Keyword-Assert/issues/10
 Data-URIID-v0.11                        157959
 Spreadsheet-Edit-1000.023               https://github.com/jimav/Spreadsheet-Edit/issues/4
+Data-Section-Pluggable-0.04             https://github.com/uperl/Data-Section-Pluggable/issues/7
