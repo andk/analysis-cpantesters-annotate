@@ -8222,3 +8222,4 @@ Map-Tube-Prague-0.15                    103078
 Map-Tube-SaintPetersburg-0.06           158044
 App-Device-Chip-UI-0.01                 158055
 Catalyst-View-EmbeddedPerl-PerRequest-0.001016 158057
+PGPLOT-2.35                             https://github.com/PDLPorters/perl5-PGPLOT/issues/17
