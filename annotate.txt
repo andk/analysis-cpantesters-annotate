@@ -8221,3 +8221,4 @@ Map-Tube-Novosibirsk-0.03               158043
 Map-Tube-Prague-0.15                    103078
 Map-Tube-SaintPetersburg-0.06           158044
 App-Device-Chip-UI-0.01                 158055
+Catalyst-View-EmbeddedPerl-PerRequest-0.001016 158057
