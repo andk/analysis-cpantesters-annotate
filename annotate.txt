@@ -8228,3 +8228,4 @@ Daje-Workflow-Database-Model-0.07       https://github.com/janeskil1525/Daje-Wor
 XS-Parse-Sublike-0.32                   158225
 Devel-Size-0.84                         158226
 OpenMP-Simple-0.1.7                     157627,158227,157628
+kura-0.08                               https://github.com/kfly8/kura/issues/9
