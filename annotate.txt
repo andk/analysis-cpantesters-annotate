@@ -8151,7 +8151,7 @@ RecentInfo-Manager-0.03                 https://github.com/Corion/RecentInfo-Man
 PDL-IO-CSV-0.011                        https://github.com/kmx/pdl-io-csv/issues/3
 Geo-Leaflet-0.01                        https://github.com/mrdvt92/perl-Geo-Leaflet/issues/1
 Map-Tube-Glasgow-v0.71.0                156980
-Mojo-UserAgent-Role-TotalTimeout-v0.0.1 https://gitlab.com/karjala/mojo-useragent-role-total_timeout/-/issues/1
+Mojo-UserAgent-Role-TotalTimeout-v0.0.2 https://gitlab.com/karjala/mojo-useragent-role-total_timeout/-/issues/1
 Test-Class-Moose-0.99                   https://github.com/houseabsolute/test-class-moose/issues/114
 App-LinkSite-0.0.11                     157067
 Crypt-Bear-0.001                        https://github.com/Leont/crypt-bear/issues/2
