@@ -8234,3 +8234,4 @@ JSON-SL-1.0.7                           158228
 XDR-Parse-1.0.0                         158229
 MooseX-Getopt-0.76                      158253
 Crypt-URandom-0.41                      https://github.com/david-dick/crypt-urandom/issues/6
+Hash-Match-v0.8.1                       https://github.com/robrwo/Hash-Match/issues/8
