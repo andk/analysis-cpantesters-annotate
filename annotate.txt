@@ -8236,7 +8236,7 @@ MooseX-Getopt-0.76                      158253
 Crypt-URandom-0.42                      https://github.com/david-dick/crypt-urandom/issues/6
 Hash-Match-v0.8.1                       https://github.com/robrwo/Hash-Match/issues/8
 MooseX-Getopt-0.77                      158295
-PDL-2.097                               https://github.com/PDLPorters/pdl/issues/514
+PDL-2.098                               https://github.com/PDLPorters/pdl/issues/514
 Test-Warnings-0.034                     158296
 DateTime-Format-RelativeTime-v0.1.2     https://gitlab.com/jackdeguest/DateTime-Format-RelativeTime/-/issues/1
 DateTime-Locale-FromCLDR-v0.6.0         https://gitlab.com/jackdeguest/DateTime-Locale-FromCLDR/-/issues/1
