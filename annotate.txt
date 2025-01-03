@@ -8236,3 +8236,4 @@ MooseX-Getopt-0.76                      158253
 Crypt-URandom-0.42                      https://github.com/david-dick/crypt-urandom/issues/6
 Hash-Match-v0.8.1                       https://github.com/robrwo/Hash-Match/issues/8
 MooseX-Getopt-0.77                      158295
+PDL-2.097                               https://github.com/PDLPorters/pdl/issues/514
