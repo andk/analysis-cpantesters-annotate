@@ -8242,3 +8242,4 @@ DateTime-Format-RelativeTime-v0.1.2     https://gitlab.com/jackdeguest/DateTime-
 DateTime-Locale-FromCLDR-v0.6.0         https://gitlab.com/jackdeguest/DateTime-Locale-FromCLDR/-/issues/1
 Locale-Unicode-Data-v1.3.0              https://gitlab.com/jackdeguest/Locale-Unicode-Data/-/issues/2
 V-0.20                                  158303
+Daje-Workflow-Loader-0.05               https://github.com/janeskil1525/Daje-Workflow-Loader/issues/1
