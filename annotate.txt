@@ -8245,3 +8245,4 @@ V-0.20                                  158303
 Daje-Workflow-Loader-0.05               https://github.com/janeskil1525/Daje-Workflow-Loader/issues/1
 Grammar-Improver-0.01                   158361
 App-Sqitch-v1.5.0                       https://github.com/sqitchers/sqitch/issues/858
+HTML-T5-0.013                           https://github.com/shlomif/html-tidy5/issues/8
