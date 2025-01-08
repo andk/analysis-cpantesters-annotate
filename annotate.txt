@@ -8246,3 +8246,4 @@ Daje-Workflow-Loader-0.05               https://github.com/janeskil1525/Daje-Wor
 Grammar-Improver-0.01                   158361
 App-Sqitch-v1.5.0                       https://github.com/sqitchers/sqitch/issues/858
 HTML-T5-0.013                           https://github.com/shlomif/html-tidy5/issues/8
+SMS-Send-Kannel-SMSbox-0.07             https://github.com/mrdvt92/perl-SMS-Send-Kannel-SMSbox/issues/1
