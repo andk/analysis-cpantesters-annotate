@@ -8252,3 +8252,4 @@ OIDC-Client-0.01                        https://github.com/sebmourlhou/oidc-clie
 SQL-Statement-1.414                     158434
 libintl-perl-1.34                       https://github.com/gflohr/libintl-perl/issues/17
 Perinci-Sub-DepChecker-0.128            147858
+Catmandu-1.2022                         https://github.com/LibreCat/Catmandu/issues/402
