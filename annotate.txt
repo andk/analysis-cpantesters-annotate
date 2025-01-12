@@ -8254,3 +8254,4 @@ libintl-perl-1.34                       https://github.com/gflohr/libintl-perl/i
 Perinci-Sub-DepChecker-0.128            147858
 Catmandu-1.2022                         https://github.com/LibreCat/Catmandu/issues/402
 Time-Normalize-0.09                     158449
+App-RL-0.3.0                            https://github.com/wang-q/App-RL/issues/2
