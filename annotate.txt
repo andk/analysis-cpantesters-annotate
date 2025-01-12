@@ -7255,7 +7255,6 @@ MooX-Press-0.086                        https://github.com/Perl/perl5/issues/210
 DNS-WorldWideDns-0.0102                 147640
 App-BPOMUtils-Table-FoodType-0.019      147673
 Test-Auto-0.14                          147857
-Perinci-Sub-DepChecker-0.125            147858
 experimentals-0.019                     147648
 DBIx-Inspector-0.12                     https://github.com/tokuhirom/DBIx-Inspector/issues/9
 CGI-Application-Plugin-OpenTracing-DataDog-v0.1.0 148088
@@ -8252,3 +8251,4 @@ BsDiPa-0.5.2                            158433
 OIDC-Client-0.01                        https://github.com/sebmourlhou/oidc-client/issues/2
 SQL-Statement-1.414                     158434
 libintl-perl-1.34                       https://github.com/gflohr/libintl-perl/issues/17
+Perinci-Sub-DepChecker-0.128            147858
