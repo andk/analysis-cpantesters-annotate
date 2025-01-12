@@ -8223,7 +8223,7 @@ App-Device-Chip-UI-0.01                 158055
 Catalyst-View-EmbeddedPerl-PerRequest-0.001016 158057
 PGPLOT-2.35                             https://github.com/PDLPorters/perl5-PGPLOT/issues/17
 Spreadsheet-Edit-1000.025               https://github.com/jimav/Spreadsheet-Edit/issues/5
-Daje-Workflow-Database-Model-0.08       https://github.com/janeskil1525/Daje-Workflow-Database-Model/issues/2
+Daje-Workflow-Database-Model-0.14       https://github.com/janeskil1525/Daje-Workflow-Database-Model/issues/2
 XS-Parse-Sublike-0.32                   158225
 Devel-Size-0.84                         158226
 OpenMP-Simple-0.1.7                     157627,158227,157628
