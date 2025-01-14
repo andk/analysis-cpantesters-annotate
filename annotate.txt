@@ -8255,3 +8255,4 @@ Perinci-Sub-DepChecker-0.128            147858
 Catmandu-1.2022                         https://github.com/LibreCat/Catmandu/issues/402
 Time-Normalize-0.09                     158449
 App-RL-0.3.0                            https://github.com/wang-q/App-RL/issues/2
+Daje-Generate-Templates-0.02            https://github.com/janeskil1525/Daje-Generate-Templates/issues/1
