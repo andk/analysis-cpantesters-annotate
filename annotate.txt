@@ -8261,3 +8261,4 @@ XS-Parse-Sublike-0.36                   158542
 CXC-PDL-Bin1D-0.27                      158544
 Test-YAFT-1.0.1                         https://github.com/happy-barney/perl-Test-YAFT/issues/6
 Attean-0.034                            https://github.com/kasei/attean/issues/172
+File-stat2-0.03                         158551
