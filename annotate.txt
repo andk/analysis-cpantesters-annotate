@@ -8263,3 +8263,4 @@ Test-YAFT-1.0.1                         https://github.com/happy-barney/perl-Tes
 Attean-0.034                            https://github.com/kasei/attean/issues/172
 File-stat2-0.03                         158551,158552
 Math-Symbolic-Custom-Factor-0.1         https://github.com/mjohnson108/p5-msc-factor/issues/1
+Catalyst-View-EmbeddedPerl-PerRequest-ValiantRole-0.001006 https://github.com/jjn1056/Catalyst-View-EmbeddedPerl-PerRequest-ValiantRole/issues/1
