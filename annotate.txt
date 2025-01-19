@@ -8256,7 +8256,7 @@ Catmandu-1.2022                         https://github.com/LibreCat/Catmandu/iss
 Time-Normalize-0.09                     158449
 App-RL-0.3.0                            https://github.com/wang-q/App-RL/issues/2
 Daje-Generate-Templates-0.02            https://github.com/janeskil1525/Daje-Generate-Templates/issues/1
-Daje-Workflow-GenerateSQL-Activity-0.03 https://github.com/janeskil1525/Daje-Workflow-GenerateSQL-Activity/issues/1
+Daje-Workflow-GenerateSQL-Activity-0.08 https://github.com/janeskil1525/Daje-Workflow-GenerateSQL-Activity/issues/1
 XS-Parse-Sublike-0.36                   158542
 CXC-PDL-Bin1D-0.27                      158544
 Test-YAFT-1.0.1                         https://github.com/happy-barney/perl-Test-YAFT/issues/6
