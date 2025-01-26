@@ -8265,5 +8265,5 @@ File-stat2-0.03                         158551,158552
 Math-Symbolic-Custom-Factor-0.1         https://github.com/mjohnson108/p5-msc-factor/issues/1
 Catalyst-View-EmbeddedPerl-PerRequest-ValiantRole-0.001006 https://github.com/jjn1056/Catalyst-View-EmbeddedPerl-PerRequest-ValiantRole/issues/1
 Test-ManyParams-0.10                    158564
-Daje-Workflow-Savefile-Activity-0.01    https://github.com/janeskil1525/Daje-Workflow-Savefile-Activity/issues/1
+Daje-Workflow-Savefile-Activity-0.04    https://github.com/janeskil1525/Daje-Workflow-Savefile-Activity/issues/1
 Perl-Lexer-0.37                         https://github.com/tokuhirom/Perl-Lexer/issues/13
