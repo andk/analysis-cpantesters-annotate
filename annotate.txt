@@ -8267,3 +8267,4 @@ Catalyst-View-EmbeddedPerl-PerRequest-ValiantRole-0.001006 https://github.com/jj
 Test-ManyParams-0.10                    158564
 Daje-Workflow-Savefile-Activity-0.04    https://github.com/janeskil1525/Daje-Workflow-Savefile-Activity/issues/1
 Perl-Lexer-0.37                         https://github.com/tokuhirom/Perl-Lexer/issues/13
+Geo-Location-IP-0.001                   https://github.com/voegelas/Geo-Location-IP/issues/1
