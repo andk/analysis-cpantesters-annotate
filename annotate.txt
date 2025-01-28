@@ -8269,3 +8269,4 @@ Daje-Workflow-Savefile-Activity-0.04    https://github.com/janeskil1525/Daje-Wor
 Perl-Lexer-0.37                         https://github.com/tokuhirom/Perl-Lexer/issues/13
 Geo-Location-IP-0.001                   https://github.com/voegelas/Geo-Location-IP/issues/1
 Advanced-Config-1.10                    158670
+DBIx-Migration-0.08                     158672
