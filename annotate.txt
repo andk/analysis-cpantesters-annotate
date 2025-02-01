@@ -8275,3 +8275,4 @@ Data-Record-Serialize-2.00              158697
 Data-Record-Serialize-Encode-dbi-1.07   158698
 JSON-Schema-Modern-0.600                https://github.com/karenetheridge/JSON-Schema-Modern/issues/91
 Math-MPFR-4.34                          158699
+Langertha-0.007                         158700
