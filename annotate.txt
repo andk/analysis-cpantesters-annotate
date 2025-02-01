@@ -8271,3 +8271,4 @@ Geo-Location-IP-0.001                   https://github.com/voegelas/Geo-Location
 Advanced-Config-1.10                    158670
 DBIx-Migration-0.08                     158672
 smallnum-XS-0.02                        158695
+Data-Record-Serialize-2.00              158697
