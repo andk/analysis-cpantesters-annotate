@@ -8272,3 +8272,4 @@ Advanced-Config-1.10                    158670
 DBIx-Migration-0.08                     158672
 smallnum-XS-0.02                        158695
 Data-Record-Serialize-2.00              158697
+Data-Record-Serialize-Encode-dbi-1.07   158698
