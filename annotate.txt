@@ -8126,7 +8126,7 @@ Crypt-DSA-1.17                          156495
 MetaCPAN-Client-2.032000                https://github.com/metacpan/MetaCPAN-Client/issues/126
 Parallel-Map-Segmented-0.4.1            156510
 Audio-Nama-1.505                        156570,156571
-SpeL-Wizard-20241023.0918               156573
+SpeL-Wizard-20250129.1405               156573
 Term-ANSIColor-Simple-0.10              156574
 SYBER/Test-Catch-2.0.1.tar.gz           https://github.com/Perl/perl5/issues/22713
 SYBER/next-XS-1.0.7.tar.gz              https://github.com/Perl/perl5/issues/22713
