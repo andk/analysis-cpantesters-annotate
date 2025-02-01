@@ -8279,3 +8279,4 @@ Langertha-0.007                         158700
 Math-Units-1.3                          158701
 Test-Mojo-Role-OpenAPI-Modern-0.007     https://github.com/karenetheridge/Test-Mojo-Role-OpenAPI-Modern/issues/5
 Net-Domain-Parts-0.04                   https://github.com/stevieb9/net-domain-parts/issues/2
+Text-HTML-Turndown-0.01                 https://github.com/Corion/Text-HTML-Turndown/issues/1
