@@ -8284,3 +8284,4 @@ Bash-Completion-Plugins-pinto-0.004     158726
 Map-Tube-Moscow-0.10                    https://github.com/michal-josef-spacek/Map-Tube-Moscow/issues/6
 Acme-Crap-0.001002                      158771
 Acme-Class-Std-0.01                     158774
+Algorithm-DLX-0.02                      158810
