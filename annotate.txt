@@ -8286,3 +8286,4 @@ Acme-Crap-0.001002                      158771
 Acme-Class-Std-0.01                     158774
 Algorithm-DLX-0.02                      158810
 Signal-Info-0.001                       https://github.com/Leont/signal-info/issues/1
+Qiime2-Artifact-0.10.7                  158838
