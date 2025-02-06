@@ -8168,7 +8168,7 @@ UserAgent-Any-JSON-0.04                 https://github.com/mkende/perl_user_agen
 App-Stouch-0.01                         https://codeberg.org/1-1sam/stouch/issues/1
 Crypt-Fernet-0.03                       157496
 Crypt-OpenSSL-DSA-0.20                  150489
-Time-Precise-1.0012                     157515
+Time-Precise-1.0014                     157515
 Math-Symbolic-Custom-Polynomial-0.1     157516
 Web-Components-0.12.6                   157517
 Dist-Maker-0.10                         157553
