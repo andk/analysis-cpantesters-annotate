@@ -7531,7 +7531,7 @@ Devel-MAT-Tool-Object-Pad-0.02          151048
 Plack-App-Register-0.03                 https://github.com/kazeburo/Cookie-Baker/issues/17
 App-RunStopRun-0.09                     151056
 Locale-CLDR-Locales-En-v0.40.0          https://github.com/ThePilgrim/perlcldr/issues/43
-Math-MPC-1.31                           151057
+Math-MPC-1.33                           151057
 WebService-SlimTimer-0.005              151064
 File-Find-Fast-0.4.0                    151097
 mojo-util-collection-v0.0.10            https://gitlab.com/AuroraSoftware/mojo-util-collection/-/issues/2
