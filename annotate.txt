@@ -8297,3 +8297,4 @@ Number-Equation-XS-0.02                 159212,159213
 GitHub-Actions-0.2.2                    https://github.com/JJ/perl-GitHub-Actions/issues/27
 AtteanX-Store-DBI-0.002                 https://github.com/kasei/atteanx-store-dbi/issues/7
 Log-ger-For-Class-0.005                 159475
+AnyEvent-Filesys-Watcher-v0.1.1         https://github.com/gflohr/AnyEvent-Filesys-Watcher/issues/53
