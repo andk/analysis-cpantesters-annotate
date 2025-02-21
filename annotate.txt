@@ -8304,3 +8304,4 @@ App-ReslirpTunnel-0.04                  159756
 JavaScript-Duktape-XS-0.000081          159759
 Net-Amazon-S3-0.991                     112288
 AtomicParsley-Command-1.153400          https://github.com/andrewrjones/perl5-AtomicParsley-Command/issues/9
+Map-Tube-3.96                           159900
