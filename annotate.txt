@@ -8302,3 +8302,4 @@ App-ReslirpTunnel-0.02                  159719
 Net-Server-2.014                        154333
 App-ReslirpTunnel-0.04                  159756
 JavaScript-Duktape-XS-0.000081          159759
+Net-Amazon-S3                           112288
