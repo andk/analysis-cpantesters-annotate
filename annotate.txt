@@ -8226,7 +8226,7 @@ Spreadsheet-Edit-1000.025               https://github.com/jimav/Spreadsheet-Edi
 Daje-Workflow-Database-Model-0.15       https://github.com/janeskil1525/Daje-Workflow-Database-Model/issues/2
 XS-Parse-Sublike-0.32                   158225
 Devel-Size-0.84                         158226
-OpenMP-Simple-0.1.7                     157627,158227,157628
+OpenMP-Simple-0.1.8                     157627,158227,157628
 kura-0.08                               https://github.com/kfly8/kura/issues/9
 CGI-Info-0.87                           https://github.com/nigelhorne/CGI-Info/issues/20
 JSON-SL-1.0.7                           158228
@@ -8304,7 +8304,7 @@ App-ReslirpTunnel-0.04                  159756
 JavaScript-Duktape-XS-0.000081          159759
 Net-Amazon-S3-0.991                     112288
 AtomicParsley-Command-1.153400          https://github.com/andrewrjones/perl5-AtomicParsley-Command/issues/9
-Map-Tube-3.96                           159900
+Map-Tube-3.96                           159900,159941
 App-jupiter-1.08                        159901
 CSAF-0.25                               https://github.com/giterlizzi/perl-CSAF/issues/6
 Module-Signature-0.89                   https://github.com/audreyt/module-signature/issues/39
