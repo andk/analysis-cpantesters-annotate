@@ -8152,7 +8152,7 @@ Geo-Leaflet-0.01                        https://github.com/mrdvt92/perl-Geo-Leaf
 Map-Tube-Glasgow-v0.71.0                156980
 Mojo-UserAgent-Role-TotalTimeout-v0.0.2 https://gitlab.com/karjala/mojo-useragent-role-total_timeout/-/issues/1
 Test-Class-Moose-0.99                   https://github.com/houseabsolute/test-class-moose/issues/114
-App-LinkSite-0.0.11                     157067
+App-LinkSite-0.0.12                     157067
 Crypt-Bear-0.001                        https://github.com/Leont/crypt-bear/issues/2
 Muster-0.92                             157069
 Module-ScanDeps-Static-1.005            157187
