@@ -8310,3 +8310,4 @@ CSAF-0.25                               https://github.com/giterlizzi/perl-CSAF/
 Module-Signature-0.89                   https://github.com/audreyt/module-signature/issues/39
 Bitcoin-Secp256k1-0.004                 https://github.com/Perl-Bitcoin/Bitcoin-Secp256k1/issues/1
 DateTime-Format-ISO8601-0.17            https://github.com/houseabsolute/DateTime-Format-ISO8601/issues/16
+Map-Tube-3.97                           160042
