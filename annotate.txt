@@ -8312,7 +8312,7 @@ Bitcoin-Secp256k1-0.004                 https://github.com/Perl-Bitcoin/Bitcoin-
 DateTime-Format-ISO8601-0.17            https://github.com/houseabsolute/DateTime-Format-ISO8601/issues/16
 Map-Tube-3.97                           160042
 Net-Whois-IP-1.19                       160043
-Math-GMPq-0.58                          160044,160045
+Math-GMPq-0.59                          160045
 Math-MPFR-4.35                          160048
 Astro-ADS-1.90                          https://github.com/duffee/astro-ads/issues/31
 FU-0.1                                  160343
