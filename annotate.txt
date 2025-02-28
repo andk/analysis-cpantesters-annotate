@@ -7469,7 +7469,7 @@ Games-Simutrans-Pakset-0.02             150935
 Mojo-Run3-1.03                          https://github.com/jhthorsen/mojo-run3/issues/2
 Net-AMQP-RabbitMQ-2.40010               https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq/issues/240
 POE-Component-Curl-Multi-1.00           150936
-Pg-Explain-2.7                          https://gitlab.com/depesz/Pg--Explain/-/issues/14
+Pg-Explain-2.8                          https://gitlab.com/depesz/Pg--Explain/-/issues/14
 TAP-Formatter-Camelcade-2023.1          https://github.com/Camelcade/TAP-Formatter-Camelcade/issues/14
 Glib-Ex-ObjectBits-16                   150938
 IO-Async-Loop-POE-0.06                  150939
