@@ -8320,3 +8320,4 @@ Math-Basic-XS-0.01                      160344
 Tk-CodeText-0.64                        https://github.com/haje61/Tk-CodeText/issues/5
 overload-substr-0.03                    160458
 Geo-Inverse-0.08                        https://github.com/mrdvt92/perl-Geo-Inverse/issues/2
+AI-Ollama-Client-0.04                   https://github.com/Corion/AI-Ollama-Client/issues/3
