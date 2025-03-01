@@ -8321,3 +8321,4 @@ Tk-CodeText-0.64                        https://github.com/haje61/Tk-CodeText/is
 overload-substr-0.03                    160458
 Geo-Inverse-0.08                        https://github.com/mrdvt92/perl-Geo-Inverse/issues/2
 AI-Ollama-Client-0.04                   https://github.com/Corion/AI-Ollama-Client/issues/3
+Term-TermKey-0.18                       160567
