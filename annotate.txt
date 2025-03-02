@@ -8322,3 +8322,4 @@ overload-substr-0.03                    160458
 Geo-Inverse-0.08                        https://github.com/mrdvt92/perl-Geo-Inverse/issues/2
 AI-Ollama-Client-0.04                   https://github.com/Corion/AI-Ollama-Client/issues/3
 BSON-v1.12.2                            160684,https://github.com/Perl/perl5/issues/22868
+POE-Component-Basement-0.01             159755,https://github.com/Perl/perl5/issues/23015
