@@ -3200,7 +3200,7 @@ Class-Declare-Attributes-0.12           123669
 DBM-Deep-2.0014                         123811,https://rt.perl.org/Public/Bug/Display.html?id=132493
 AnyEvent-HTTP-2.23                      https://rt.perl.org/Public/Bug/Display.html?id=132142,https://www.nntp.perl.org/group/perl.perl5.porters/2017/11/msg247426.html
 Devel-TraceMethods-1.00                 123667
-Log-Trace-1.070                         49409,https://rt.perl.org/Public/Bug/Display.html?id=132252
+Log-Trace-1.070                         49409,https://rt.perl.org/Public/Bug/Display.html?id=132252,https://github.com/Perl/perl5/issues/23015
 Perl-Critic-More-1.003                  123847
 Alien-LZO-0.02                          123851
 IPC-Cache-0.02                          123852,131250
