@@ -8325,3 +8325,4 @@ BSON-v1.12.2                            160684,https://github.com/Perl/perl5/iss
 POE-Component-Basement-0.01             159755,https://github.com/Perl/perl5/issues/23015
 Symbol-Get-0.12                         https://github.com/FGasper/p5-Symbol-Get/issues/4,https://github.com/Perl/perl5/issues/23015
 Test-Sims-20180103                      https://github.com/schwern/Test-Sims/pull/3,https://github.com/Perl/perl5/issues/23015
+XML-Declare-0.06                        159604,https://github.com/Perl/perl5/issues/23008
