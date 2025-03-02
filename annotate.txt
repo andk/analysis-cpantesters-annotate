@@ -8025,7 +8025,7 @@ Getopt-Config-FromPod-v0.0.4            124662
 GlusterFS-GFAPI-FFI-0.4                 156206
 HTML-Strip-Whitespace-0.2.2             https://github.com/shlomif/perl-html-strip-whitespace/issues/2
 ISAL-Crypto-0.01                        156208
-MIDI-RtMidi-FFI-0.06                    https://github.com/jbarrett/MIDI-RtMidi-FFI/issues/35
+MIDI-RtMidi-FFI-0.08                    https://github.com/jbarrett/MIDI-RtMidi-FFI/issues/35
 Net-Azure-NotificationHubs-0.08         https://github.com/ytnobody/p5-Net-Azure-NotifcationHubs/issues/7
 API-DirectAdmin-0.09                    156213
 App-JobLog-1.042                        156214
