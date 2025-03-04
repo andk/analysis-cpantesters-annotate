@@ -8327,3 +8327,4 @@ Symbol-Get-0.12                         https://github.com/FGasper/p5-Symbol-Get
 Test-Sims-20180103                      https://github.com/schwern/Test-Sims/pull/3,https://github.com/Perl/perl5/issues/23015
 XML-Declare-0.06                        159604,https://github.com/Perl/perl5/issues/23008
 Statistics-CaseResampling-0.15          157217,https://github.com/Perl/perl5/issues/22687
+Export-These-v0.2.1                     https://github.com/Perl/perl5/issues/23065
