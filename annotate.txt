@@ -8329,3 +8329,4 @@ XML-Declare-0.06                        159604,https://github.com/Perl/perl5/iss
 Statistics-CaseResampling-0.15          157217,https://github.com/Perl/perl5/issues/22687
 Export-These-v0.2.1                     https://github.com/Perl/perl5/issues/23065
 Data-Sah-Coerce-0.054                   https://github.com/Perl/perl5/issues/23054
+Test-LWP-UserAgent-0.036                161079
