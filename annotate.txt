@@ -8331,3 +8331,5 @@ Export-These-v0.2.1                     https://github.com/Perl/perl5/issues/230
 Data-Sah-Coerce-0.054                   https://github.com/Perl/perl5/issues/23054
 Test-LWP-UserAgent-0.036                161079
 Crypt-SMIME-0.30                        https://github.com/Perl/perl5/issues/23074
+App-Greple-stripe-1.01                  https://github.com/kaz-utashiro/greple-stripe/issues/1
+Zonemaster-LDNS-4.1.0                   https://github.com/zonemaster/zonemaster-ldns/issues/221,https://github.com/zonemaster/zonemaster-ldns/issues/222
