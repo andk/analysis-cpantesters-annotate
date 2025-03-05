@@ -8334,3 +8334,4 @@ Crypt-SMIME-0.30                        https://github.com/Perl/perl5/issues/230
 App-Greple-stripe-1.01                  https://github.com/kaz-utashiro/greple-stripe/issues/1
 Zonemaster-LDNS-4.1.0                   https://github.com/zonemaster/zonemaster-ldns/issues/221,https://github.com/zonemaster/zonemaster-ldns/issues/222
 OpenMP-Simple-0.2.0                     157627
+Bitcoin-Secp256k1-0.005                 https://github.com/Perl-Bitcoin/Bitcoin-Secp256k1/issues/2
