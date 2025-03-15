@@ -8338,3 +8338,4 @@ Bitcoin-Secp256k1-0.005                 https://github.com/Perl-Bitcoin/Bitcoin-
 Promise-Me-v0.5.0                       https://gitlab.com/jackdeguest/Promise-Me/-/issues/4
 Tripletail-0.68                         162743
 File-Find-Mason-0.0.2                   163009
+CSS-Inliner-4024                        163010
