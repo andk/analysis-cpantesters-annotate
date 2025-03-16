@@ -8340,3 +8340,4 @@ Tripletail-0.68                         162743
 File-Find-Mason-0.0.2                   163009
 CSS-Inliner-4024                        163010
 Crypt-URandom-0.53                      https://github.com/david-dick/crypt-urandom/issues/18
+Unicode-NoFancyPants-0.001              163123
