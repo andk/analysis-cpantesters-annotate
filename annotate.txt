@@ -8342,3 +8342,4 @@ CSS-Inliner-4024                        163010
 Crypt-URandom-0.53                      https://github.com/david-dick/crypt-urandom/issues/18
 Unicode-NoFancyPants-0.001              163123
 Module-Generic-v0.39.0                  https://gitlab.com/jackdeguest/Module-Generic/-/issues/11
+YATT-Lite-0.122                         163393
