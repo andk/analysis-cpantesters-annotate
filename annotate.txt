@@ -8358,3 +8358,4 @@ XML-LibXML-2.0210                       156899,157693
 JQ-Lite-0.05                            163613
 Math-Pari-2.030523                      163579
 Devel-Module-Trace-0.02                 163614
+CryptX-0.085                            https://github.com/DCIT/perl-CryptX/issues/118
