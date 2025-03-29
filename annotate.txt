@@ -8352,3 +8352,4 @@ MARC-Convert-Wikidata-0.26              https://github.com/michal-josef-spacek/M
 Mail-Alias-LocalFile-0.01               https://github.com/usna78/Mail-Alias-LocalFile/issues/2
 Math-BigInt-BitVect-1.25                163611
 Math-Symbolic-Custom-ToTallString-0.1   https://github.com/mjohnson108/p5-msc-totallstring/issues/1
+Sys-Async-Virt-v0.0.17                  163612
