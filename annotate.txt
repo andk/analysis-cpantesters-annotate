@@ -8343,3 +8343,4 @@ Crypt-URandom-0.53                      https://github.com/david-dick/crypt-uran
 Unicode-NoFancyPants-0.001              163123
 Module-Generic-v0.39.0                  https://gitlab.com/jackdeguest/Module-Generic/-/issues/11
 YATT-Lite-0.122                         163393
+Circle-Node-0.05                        163608
