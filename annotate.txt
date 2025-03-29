@@ -8346,3 +8346,4 @@ YATT-Lite-0.122                         163393
 Circle-Node-0.05                        163608
 Acme-GLOINBG-Utils-0.05                 163609
 Circle-Block-0.05                       163610
+Circle-Wallet-0.05                      163610
