@@ -8354,3 +8354,4 @@ Math-BigInt-BitVect-1.25                163611
 Math-Symbolic-Custom-ToTallString-0.1   https://github.com/mjohnson108/p5-msc-totallstring/issues/1
 Sys-Async-Virt-v0.0.17                  163612
 Sys-Cmd-0.99.1                          https://github.com/mlawren/p5-Sys-Cmd/issues/6
+XML-LibXML-2.0210                       156899,157693
