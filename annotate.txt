@@ -8361,3 +8361,4 @@ Devel-Module-Trace-0.02                 163614
 CryptX-0.085                            https://github.com/DCIT/perl-CryptX/issues/118
 OMOP-CSV-Validator-0.01                 https://github.com/mrueda/omop-csv-validator/issues/1
 Package-Subroutine-v0.22.4              163617
+JQ-Lite-0.09                            163618
