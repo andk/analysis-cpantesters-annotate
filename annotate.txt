@@ -8359,3 +8359,4 @@ JQ-Lite-0.05                            163613
 Math-Pari-2.030523                      163579
 Devel-Module-Trace-0.02                 163614
 CryptX-0.085                            https://github.com/DCIT/perl-CryptX/issues/118
+OMOP-CSV-Validator-0.01                 https://github.com/mrueda/omop-csv-validator/issues/1
