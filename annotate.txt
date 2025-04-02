@@ -8365,3 +8365,4 @@ JQ-Lite-0.09                            163618
 MIDI-Drummer-Tiny-0.6005                163627
 String-Fuzzy-v0.1.0                     https://gitlab.com/jackdeguest/String-Fuzzy/-/issues/1
 Type-Guess-0.004                        163630
+Dist-Zilla-Role-Tempdir-1.001003        https://github.com/kentnl/Dist-Zilla-Role-Tempdir/issues/2
