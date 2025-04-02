@@ -8366,3 +8366,4 @@ MIDI-Drummer-Tiny-0.6005                163627
 String-Fuzzy-v0.1.0                     https://gitlab.com/jackdeguest/String-Fuzzy/-/issues/1
 Type-Guess-0.004                        163630
 Dist-Zilla-Role-Tempdir-1.001003        https://github.com/kentnl/Dist-Zilla-Role-Tempdir/issues/2
+Net-RDAP-Server-0.04                    https://github.com/gbxyz/p5-net-rdap-server/issues/1,https://github.com/gbxyz/p5-net-rdap-server/issues/2
