@@ -3932,7 +3932,7 @@ IO-Socket-Socks-Wrapper-0.17            127911,149885
 Log-Dispatch-Tk-1.9                     127912
 Log-Journald-0.30                       127913
 Mojo-UserAgent-Cached-1.06              127914
-Moonshine-Magic-0.07                    127915
+Moonshine-Magic-0.08                    127915
 SQL-Translator-Producer-GraphQL-0.04    https://github.com/graphql-perl/SQL-Translator-Producer-GraphQL/issues/1
 Respite-0.2                             https://github.com/Jayceh/Respite/issues/17
 CGI-Ex-2.47                             https://github.com/ljepson/CGI-Ex/issues/16
