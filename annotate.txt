@@ -8370,3 +8370,4 @@ Net-RDAP-Server-0.04                    https://github.com/gbxyz/p5-net-rdap-ser
 SBOM-CycloneDX-1.03                     https://github.com/giterlizzi/perl-SBOM-CycloneDX/issues/1
 SMS-AQL-1.02                            https://github.com/bigpresh/SMS-AQL/issues/4
 App-sitelenmute-3.03                    163755
+Config-Model-Itself-2.024               https://github.com/dod38fr/config-model-itself/issues/7
