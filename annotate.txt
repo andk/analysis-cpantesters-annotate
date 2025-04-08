@@ -8373,3 +8373,4 @@ App-sitelenmute-3.03                    163755
 Config-Model-Itself-2.024               https://github.com/dod38fr/config-model-itself/issues/7
 DBIx-Migration-0.26                     https://github.com/XSven/perl-dbix-migration/issues/1
 XML-Parser-2.47                         https://github.com/cpan-authors/XML-Parser/issues/104
+Path-Tiny-0.148                         https://github.com/dagolden/Path-Tiny/issues/303
