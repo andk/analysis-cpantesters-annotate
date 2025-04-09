@@ -8375,3 +8375,4 @@ DBIx-Migration-0.26                     https://github.com/XSven/perl-dbix-migra
 XML-Parser-2.47                         https://github.com/cpan-authors/XML-Parser/issues/104
 Path-Tiny-0.148                         https://github.com/dagolden/Path-Tiny/issues/303
 Lemonldap-NG-Common-2.21.0              https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng/-/issues/3362
+Devel-ModuleDumper-0.03                 https://github.com/bayashi/Devel-ModuleDumper/issues/1
