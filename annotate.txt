@@ -8376,3 +8376,4 @@ XML-Parser-2.47                         https://github.com/cpan-authors/XML-Pars
 Path-Tiny-0.148                         https://github.com/dagolden/Path-Tiny/issues/303
 Lemonldap-NG-Common-2.21.0              https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng/-/issues/3362
 Devel-ModuleDumper-0.03                 https://github.com/bayashi/Devel-ModuleDumper/issues/1
+Data-Reuse-0.13                         163977
