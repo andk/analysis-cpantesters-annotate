@@ -8377,3 +8377,4 @@ Path-Tiny-0.148                         https://github.com/dagolden/Path-Tiny/is
 Lemonldap-NG-Common-2.21.0              https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng/-/issues/3362
 Devel-ModuleDumper-0.03                 https://github.com/bayashi/Devel-ModuleDumper/issues/1
 Data-Reuse-0.13                         163977
+Lab-Measurement-3.930                   https://github.com/lab-measurement/Lab-Measurement/issues/90
