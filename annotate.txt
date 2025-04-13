@@ -7413,7 +7413,7 @@ Crypt-OpenSSL-PKCS12-1.9                https://github.com/dsully/perl-crypt-ope
 Code-TidyAll-0.84                       https://github.com/houseabsolute/perl-code-tidyall/issues/110,https://github.com/houseabsolute/perl-code-tidyall/issues/118,https://github.com/houseabsolute/perl-code-tidyall/issues/129
 Do-1.88                                 150848
 IOLayer-Base64-0.03                     150849
-IOLayer-MD5-0.02                        150850
+IOLayer-MD5-0.03                        150850
 Promise-ES6-0.28                        https://github.com/FGasper/p5-Promise-ES6/issues/14
 http-session-0.50                       https://github.com/tokuhirom/http-session/issues/10
 Catalyst-Controller-DBIC-API-2.008001   150855
