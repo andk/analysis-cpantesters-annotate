@@ -8378,3 +8378,4 @@ Lemonldap-NG-Common-2.21.0              https://gitlab.ow2.org/lemonldap-ng/lemo
 Devel-ModuleDumper-0.03                 https://github.com/bayashi/Devel-ModuleDumper/issues/1
 Data-Reuse-0.13                         163977
 Lab-Measurement-3.930                   https://github.com/lab-measurement/Lab-Measurement/issues/90
+CAD-OpenSCAD-0.13                       164048
