@@ -8382,3 +8382,4 @@ CAD-OpenSCAD-0.13                       164048
 Perlanet-v3.3.1                         https://github.com/davorg-cpan/perlanet/issues/37
 SPVM-MIME-Base64-1.003                  164049
 Perl-Lexer-0.38                         https://github.com/tokuhirom/Perl-Lexer/issues/14
+DBIx-TempDB-0.16                        https://github.com/jhthorsen/dbix-tempdb/issues/10
