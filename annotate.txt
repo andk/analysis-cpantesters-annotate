@@ -8385,3 +8385,4 @@ Perl-Lexer-0.38                         https://github.com/tokuhirom/Perl-Lexer/
 DBIx-TempDB-0.16                        https://github.com/jhthorsen/dbix-tempdb/issues/10
 qbit-2.8                                164092
 Acme-Emoticarp-0.02                     164104,164105
+Devel-ModuleBreaker-0.03                164130
