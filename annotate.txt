@@ -8354,7 +8354,7 @@ Math-BigInt-BitVect-1.25                163611
 Math-Symbolic-Custom-ToTallString-0.1   https://github.com/mjohnson108/p5-msc-totallstring/issues/1
 Sys-Async-Virt-v0.0.17                  163612
 Sys-Cmd-0.99.1                          https://github.com/mlawren/p5-Sys-Cmd/issues/6
-XML-LibXML-2.0210                       156899,157693
+XML-LibXML-2.0210                       156899,157693,164141
 JQ-Lite-0.05                            163613
 Math-Pari-2.030523                      163579
 Devel-Module-Trace-0.02                 163614
@@ -8386,5 +8386,4 @@ DBIx-TempDB-0.16                        https://github.com/jhthorsen/dbix-tempdb
 qbit-2.8                                164092
 Acme-Emoticarp-0.02                     164104,164105
 Devel-ModuleBreaker-0.03                164130
-XML-LibXML-2.0210                       164141
 PDL-IO-DBI-0.012                        https://github.com/kmx/pdl-io-dbi/issues/3
