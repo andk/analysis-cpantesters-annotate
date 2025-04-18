@@ -8387,3 +8387,5 @@ qbit-2.8                                164092
 Acme-Emoticarp-0.02                     164104,164105
 Devel-ModuleBreaker-0.03                164130
 PDL-IO-DBI-0.012                        https://github.com/kmx/pdl-io-dbi/issues/3
+WebService-OpenSky-0.4                  https://github.com/Ovid/opensky-api/issues/2
+OpenSky-API-0.005                       https://github.com/Ovid/opensky-api/issues/2
