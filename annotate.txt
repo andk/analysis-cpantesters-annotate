@@ -8390,3 +8390,4 @@ PDL-IO-DBI-0.012                        https://github.com/kmx/pdl-io-dbi/issues
 WebService-OpenSky-0.4                  https://github.com/Ovid/opensky-api/issues/2
 OpenSky-API-0.005                       https://github.com/Ovid/opensky-api/issues/2
 bare-0.02                               164228
+Exporter-5.78                           https://github.com/Perl/perl5/issues/23206
