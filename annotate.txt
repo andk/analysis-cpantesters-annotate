@@ -6610,7 +6610,7 @@ Sleep-0.0.4                             141410
 Pod-Elemental-Transformer-Splint-0.1202 https://github.com/Csson/p5-Pod-Elemental-Transformer-Splint/issues/5
 Lingua-PT-PLNbase-0.28                  141411
 GDGraph-1.54                            140940
-ODS-0.04                                141426
+ODS-0.05                                141426
 Phone-Valid-International-Loose-0.02    141427
 mro-EVERY-v0.1.2                        141433
 R-YapRI-0.09                            141438
