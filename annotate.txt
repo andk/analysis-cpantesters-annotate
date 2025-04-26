@@ -8395,3 +8395,4 @@ InterMine-TypeLibrary-0.9701            164337
 DateTime-Ordinal-0.05                   164348
 MIDI-Drummer-Tiny-0.6010                164350
 Unicode-Precis-Preparation-2025.004     164451
+SlapbirdAPM-Agent-CGI-0.02              https://github.com/mollusc-labs/slapbird/issues/22
