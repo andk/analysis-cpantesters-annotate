@@ -3886,7 +3886,7 @@ Pod-Tree-1.25                           https://github.com/szabgab/Pod-Tree/issu
 Algorithm-Cluster-1.59                  120442
 POE-Component-DirWatch-0.300004         127804
 Sys-HostIP-2.100                        https://github.com/xsawyerx/sys-hostip/issues/17
-Image-Scale-0.14                        119094
+Image-Scale-0.14                        119094,164478
 AnyEvent-WebSocket-Client-0.49          https://github.com/plicease/AnyEvent-WebSocket-Client/issues/41
 App-CharmKit-2.11                       127823
 SRU-1.01                                https://github.com/bricas/sru-perl/issues/6
