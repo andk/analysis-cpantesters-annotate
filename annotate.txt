@@ -8396,3 +8396,4 @@ DateTime-Ordinal-0.05                   164348
 MIDI-Drummer-Tiny-0.6010                164350
 Unicode-Precis-Preparation-2025.004     164451
 SlapbirdAPM-Agent-CGI-0.02              https://github.com/mollusc-labs/slapbird/issues/22
+Map-Tube-Beijing-v0.12.5                164577
