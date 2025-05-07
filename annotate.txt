@@ -7410,7 +7410,7 @@ App-ipchgmon-1.0.7                      150838,156082
 Business-PayPal-0.20                    150839
 Crypt-LibSCEP-0.09                      150840
 Crypt-OpenSSL-PKCS12-1.9                https://github.com/dsully/perl-crypt-openssl-pkcs12/issues/40
-Code-TidyAll-0.84                       https://github.com/houseabsolute/perl-code-tidyall/issues/110,https://github.com/houseabsolute/perl-code-tidyall/issues/118,https://github.com/houseabsolute/perl-code-tidyall/issues/129
+Code-TidyAll-0.85                       https://github.com/houseabsolute/perl-code-tidyall/issues/110,https://github.com/houseabsolute/perl-code-tidyall/issues/118,https://github.com/houseabsolute/perl-code-tidyall/issues/129
 Do-1.88                                 150848
 IOLayer-Base64-0.03                     150849
 IOLayer-MD5-0.03                        150850
