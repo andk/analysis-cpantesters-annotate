@@ -8403,3 +8403,4 @@ Perl-Types-0.100                        https://gitlab.com/perl-types/perl-types
 Test2-Plugin-DBBreak-0.200002           https://github.com/kcaran/Test2-Plugin-DBBreak/issues/1
 Tk-ListBrowser-0.05                     https://github.com/haje61/Tk-ListBrowser/issues/1
 Math-NumberBase-XS-0.0202               165038
+Data-RenderAsTree-1.03                  165069
