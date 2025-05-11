@@ -7643,7 +7643,7 @@ Data-LnArray-XS-0.03                    154366,154367,154369
 Sub-Private-0.03                        154368
 Device-Serial-SLuRM-0.07                154370
 IO-Socket-SSL-2.087                     https://github.com/noxxi/p5-io-socket-ssl/issues/157
-Data-LnArray-XS-0.06                    154378
+Data-LnArray-XS-0.11                    154378
 ExtUtils-Builder-Compiler-0.009         https://github.com/Leont/extutils-builder-compiler/issues/1
 ExtUtils-Builder-Compiler-0.010         https://github.com/Leont/extutils-builder-compiler/issues/2
 Astro-MoonPhase-Simple-0.02             154400,154401
