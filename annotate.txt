@@ -8406,3 +8406,4 @@ Math-NumberBase-XS-0.0202               165038
 Data-RenderAsTree-1.03                  165069
 Business-CyberSource-0.010008           https://github.com/hostgator/Business-CyberSource/issues/17
 Acme-Tools-0.27                         165141
+CAD-OpenSCAD-0.16                       165186
