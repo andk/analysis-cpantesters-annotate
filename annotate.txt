@@ -8293,7 +8293,7 @@ Sereal-Encoder-5.004                    https://github.com/Sereal/Sereal/issues/
 Switch-Back-0.000004                    159007
 Colouring-In-XS-0.07                    159070
 Moonshine-Element-0.12                  159166
-Number-Equation-XS-0.04                 159212,159213
+Number-Equation-XS-0.05                 159212,159213
 GitHub-Actions-0.2.2                    https://github.com/JJ/perl-GitHub-Actions/issues/27
 AtteanX-Store-DBI-0.002                 https://github.com/kasei/atteanx-store-dbi/issues/7
 Log-ger-For-Class-0.005                 159475
