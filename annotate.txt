@@ -8411,3 +8411,4 @@ Code-TidyAll-Plugin-Test-Vars-0.04      165190
 App-BlurFill-0.0.2                      https://github.com/davorg-cpan/app-blurfill/issues/1
 BDB-1.92                                165355
 Log-Abstraction-0.13                    165420
+Catalyst-Plugin-OIDC-0.02               https://github.com/sebmourlhou/catalyst-plugin-oidc/issues/1
