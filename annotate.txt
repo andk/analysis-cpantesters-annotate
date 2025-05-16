@@ -8412,3 +8412,4 @@ App-BlurFill-0.0.2                      https://github.com/davorg-cpan/app-blurf
 BDB-1.92                                165355
 Log-Abstraction-0.13                    165420
 Catalyst-Plugin-OIDC-0.02               https://github.com/sebmourlhou/catalyst-plugin-oidc/issues/1
+Config-Abstraction-0.25                 https://github.com/nigelhorne/Config-Abstraction/issues/1
