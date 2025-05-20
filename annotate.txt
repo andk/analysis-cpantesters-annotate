@@ -8415,3 +8415,4 @@ Catalyst-Plugin-OIDC-0.02               https://github.com/sebmourlhou/catalyst-
 Config-Abstraction-0.25                 https://github.com/nigelhorne/Config-Abstraction/issues/1
 Crop-Config-0.1.25                      165462
 Class-Debug-0.03                        165480
+GitHub-Crud-20250518                    https://github.com/philiprbrenan/GitHubCrud/issues/2
