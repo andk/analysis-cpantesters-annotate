@@ -8420,3 +8420,4 @@ Sub-WrapInType-0.08                     https://github.com/ybrliiu/p5-Sub-WrapIn
 Doubly-Linked-0.10                      165712
 Crop-0.1.27                             165814
 File-URIList-v0.01                      165815
+Perl-APIReference-0.23                  165816
