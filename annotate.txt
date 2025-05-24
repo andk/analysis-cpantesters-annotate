@@ -8418,3 +8418,4 @@ Class-Debug-0.03                        165480
 GitHub-Crud-20250518                    https://github.com/philiprbrenan/GitHubCrud/issues/2
 Sub-WrapInType-0.08                     https://github.com/ybrliiu/p5-Sub-WrapInType/issues/9
 Doubly-Linked-0.10                      165712
+Crop-0.1.27                             165814
