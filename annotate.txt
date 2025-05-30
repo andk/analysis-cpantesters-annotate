@@ -7253,7 +7253,7 @@ Math-BigInt-GMPz-0.0011                 147612
 Type-Tiny-Signatures-0.08               147639
 MooX-Press-0.086                        https://github.com/Perl/perl5/issues/21006
 DNS-WorldWideDns-0.0102                 147640
-App-BPOMUtils-Table-FoodType-0.020      147673
+App-BPOMUtils-Table-FoodType-0.021      147673
 Test-Auto-0.14                          147857
 experimentals-0.019                     147648
 DBIx-Inspector-0.12                     https://github.com/tokuhirom/DBIx-Inspector/issues/9
