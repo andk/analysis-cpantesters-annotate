@@ -6838,7 +6838,7 @@ Test2-Tools-HTTP-UA-Mojo-0.04           https://github.com/uperl/Test2-Tools-HTT
 MooX-Purple-0.17                        142845
 Excel-Writer-XLSX-Simple-Tabs-0.02      https://github.com/mrdvt92/perl-Excel-Writer-XLSX-Simple-Tabs/issues/1
 Power-Outlet-0.44                       https://github.com/mrdvt92/perl-Power-Outlet/issues/1
-Crypt-Random-1.54                       142879
+Crypt-Random-1.57                       142879
 Perl-Critic-Mardem-0.02                 142880
 Dancer2-Plugin-Passphrase-3.4.0         deprecated
 Git-MoreHooks-0.015                     142950,142951
