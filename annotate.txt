@@ -8431,3 +8431,4 @@ Net-ACME2-0.35                          https://github.com/FGasper/p5-Net-ACME2/
 Crypt-RSA-Blind-1.021                   166515
 JSON-Schema-Modern-0.611                https://github.com/karenetheridge/JSON-Schema-Modern/issues/93
 SPVM-Sys-0.546                          https://github.com/yuki-kimoto/SPVM-Sys/issues/95,https://github.com/yuki-kimoto/SPVM-Sys/issues/96
+WWW-LetsEncrypt-0.002                   https://github.com/dreamhost/perl-www-letsencrypt/issues/2
