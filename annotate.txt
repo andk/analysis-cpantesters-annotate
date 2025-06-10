@@ -4314,7 +4314,7 @@ DBIx-Class-Migration-0.070              https://github.com/jjn1056/DBIx-Class-Mi
 MariaDB-NonBlocking-0.26                128884
 POSIX-1003-0.98                         123109,132306
 Slack-WebHook-0.001                     128903
-Net-IDN-Encode-2.500                    https://github.com/cfaerber/Net-IDN-Encode/pull/8,https://rt.perl.org/Public/Bug/Display.html?id=133860,129588
+Net-IDN-Encode-2.500                    https://github.com/cfaerber/Net-IDN-Encode/pull/8,https://rt.perl.org/Public/Bug/Display.html?id=133860,129588,149108
 DNS-Unbound-0.01                        128910
 Dancer-Plugin-Auth-Extensible-1.00      128911
 Dancer-Plugin-PageHistory-0.102         https://github.com/SysPete/Dancer-Plugin-PageHistory/issues/1
