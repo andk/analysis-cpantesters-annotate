@@ -8435,3 +8435,4 @@ WWW-LetsEncrypt-0.002                   https://github.com/dreamhost/perl-www-le
 Pod-L10N-1.07                           https://github.com/argrath/Pod-L10N/issues/3
 PGP-Sign-1.04                           166746
 Crypt-LE-0.39                           167308
+Config-Abstraction-0.30                 https://github.com/nigelhorne/Config-Abstraction/issues/4
