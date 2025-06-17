@@ -8436,3 +8436,4 @@ Pod-L10N-1.07                           https://github.com/argrath/Pod-L10N/issu
 PGP-Sign-1.04                           166746
 Crypt-LE-0.39                           167308
 Config-Abstraction-0.30                 https://github.com/nigelhorne/Config-Abstraction/issues/4
+Database-Abstraction-0.27               https://github.com/nigelhorne/Database-Abstraction/issues/5
