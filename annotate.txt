@@ -8437,3 +8437,4 @@ PGP-Sign-1.04                           166746
 Crypt-LE-0.39                           167308
 Config-Abstraction-0.30                 https://github.com/nigelhorne/Config-Abstraction/issues/4
 Database-Abstraction-0.27               https://github.com/nigelhorne/Database-Abstraction/issues/5
+Log-Any-1.718                           https://github.com/preaction/Log-Any/issues/110
