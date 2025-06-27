@@ -8443,3 +8443,4 @@ Bio-MUST-Apps-OmpaPa-0.251770           167817
 DBIx-Class-FilterColumn-ByType-1.251750 167818
 DBIx-QuickORM-0.000015                  https://github.com/exodist/DBIx-QuickORM/issues/25
 Geo-GDAL-FFI-0.13                       https://github.com/ajolma/Geo-GDAL-FFI/issues/84
+Reactive-Core-0.103                     https://github.com/ReactivePL/Core/issues/1
