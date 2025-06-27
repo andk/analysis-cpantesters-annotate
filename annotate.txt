@@ -3527,7 +3527,7 @@ BenchmarkAnything-Storage-Frontend-Lib-0.022 116664
 CPP-panda-lib-1.1.2                     125080
 WWW-EZTV-0.07                           https://github.com/diegok/www-eztv/issues/2
 Linux-DVB-1.03                          124165
-Net-Z3950-ZOOM-1.30                     125116
+Net-Z3950-ZOOM-1.32                     125116
 WWW-UsePerl-Journal-0.26                125119
 File-Copy-Recursive-0.41                125135
 Lexical-SealRequireHints-0.011          https://rt.perl.org/Ticket/Display.html?id=133135
