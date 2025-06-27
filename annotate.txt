@@ -8450,3 +8450,4 @@ SPVM-File-Spec-0.089                    167820
 SPVM-Go-0.009                           167821
 SPVM-HTTP-Tiny-0.012                    167822
 Term-Maze-0.01                          167823
+WWW-Noss-1.03                           https://codeberg.org/1-1sam/noss/issues/2
