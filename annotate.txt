@@ -8447,3 +8447,4 @@ Reactive-Core-0.103                     https://github.com/ReactivePL/Core/issue
 SPVM-0.990075                           https://github.com/yuki-kimoto/SPVM/issues/758
 SPVM-File-Basename-0.044                167819
 SPVM-File-Spec-0.089                    167820
+SPVM-Go-0.009                           167821
