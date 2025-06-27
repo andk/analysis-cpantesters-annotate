@@ -8441,3 +8441,4 @@ Log-Any-1.718                           https://github.com/preaction/Log-Any/iss
 App-rdapper-1.13                        https://github.com/gbxyz/rdapper/issues/13
 Bio-MUST-Apps-OmpaPa-0.251770           167817
 DBIx-Class-FilterColumn-ByType-1.251750 167818
+DBIx-QuickORM-0.000015                  https://github.com/exodist/DBIx-QuickORM/issues/25
