@@ -6882,7 +6882,7 @@ Test-Rsyslog-0.06                       143631,https://github.com/Perl/perl5/iss
 Char-Replace-0.005                      https://github.com/atoomic/Char-Replace/issues/3
 Text-PO-v0.1.7                          https://gitlab.com/jackdeguest/Text-PO/-/issues/4
 Types-ReadOnly-0.003                    143710
-YAML-Syck-1.34                          https://github.com/Perl/perl5/issues/19939
+YAML-Syck-1.34                          https://github.com/Perl/perl5/issues/19939,https://github.com/cpan-authors/YAML-Syck/issues/61
 JSON-JQ-0.08                            https://github.com/dxma/perl5-json-jq/issues/13
 PDL-IO-Touchstone-1.001                 https://github.com/KJ7LNW/perl-PDL-IO-Touchstone/issues/1
 Plack-App-Tags-HTML-0.05                https://github.com/michal-josef-spacek/Plack-App-Tags-HTML/issues/1
