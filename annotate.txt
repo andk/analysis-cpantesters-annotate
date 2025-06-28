@@ -3158,7 +3158,7 @@ lsn-data-hub-05.00297                   no bugtracker, unescaped left brace in r
 Tk-StatusBar-0.04                       123473
 Business-OnlinePayment-CardConnect-0.004 123475
 Test-Taint-1.06                         119897
-Bit-Vector-7.4                          https://rt.perl.org/Ticket/Display.html?id=132385
+Bit-Vector-7.4                          https://rt.perl.org/Ticket/Display.html?id=132385,165142
 Javascript-Closure-0.09                 117455
 IPC-System-Simple-1.25                  https://github.com/pjf/ipc-system-simple/issues/21
 UNIVERSAL-isa-1.20171012                https://rt.perl.org/Ticket/Display.html?id=132395
