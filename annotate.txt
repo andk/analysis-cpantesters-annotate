@@ -8452,3 +8452,4 @@ SPVM-HTTP-Tiny-0.012                    167822
 Term-Maze-0.01                          167823
 WWW-Noss-1.03                           https://codeberg.org/1-1sam/noss/issues/2
 App-BS-0                                167834
+Daje-Plugin-Apploader-0.01              https://github.com/janeskil1525/Daje-Plugin-Apploader/issues/1
