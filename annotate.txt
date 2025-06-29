@@ -8489,3 +8489,4 @@ Data-Undump-0.15                        167871
 Map-Tube-KualaLumpur-0.07               https://github.com/michal-josef-spacek/Map-Tube-KualaLumpur/issues/2
 Net-Azure-NotificationHubs-0.09         https://github.com/ytnobody/p5-Net-Azure-NotifcationHubs/issues/8
 GnuPG-Interface-1.04                    167872
+Net-DNS-Resolver-Unbound-1.32           167874
