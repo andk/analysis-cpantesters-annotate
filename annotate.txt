@@ -8476,3 +8476,4 @@ Test-TAPv13-0.003                       167849
 Text-Treesitter-0.13                    167852
 Types-JSONSchema-0.001000               167854
 WWW-Mechanize-PhantomJS-0.25            https://github.com/Corion/www-mechanize-phantomjs/issues/20
+Future-XS-0.13                          167857
