@@ -8480,3 +8480,4 @@ Future-XS-0.13                          167857
 Net-Patricia-1.23                       167861
 PDF-API2-Resource-XObject-Image-Imager-0.01 167863
 Pinto-Remote-SelfContained-1.001        https://github.com/reyjrar/Pinto-Remote-SelfContained/issues/4
+SemanticWeb-Schema-v23.0.0              https://github.com/robrwo/SemanticWeb-Schema/issues/7
