@@ -7405,7 +7405,7 @@ Math-Currency-0.53                      https://github.com/mschout/perl-math-cur
 MediaWiki-Bot-5.007000                  https://github.com/MediaWiki-Bot/MediaWiki-Bot/issues/108
 App-SpeedTest-0.28                      https://github.com/Tux/speedtest/issues/15
 App-ptimeout-1.0.2                      https://github.com/DrHyde/perl-modules-App-ptimeout/issues/5
-Alien-pkgconf-0.19                      https://github.com/PerlPkgConfig/perl-PkgConfig/issues/60
+Alien-pkgconf-0.20                      https://github.com/PerlAlien/Alien-pkgconf/issues/21
 App-ipchgmon-1.0.7                      150838,156082
 Business-PayPal-0.20                    150839
 Crypt-LibSCEP-0.09                      150840
