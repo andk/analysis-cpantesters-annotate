@@ -8458,3 +8458,4 @@ Lemonldap-NG-Common-2.21.1              https://gitlab.ow2.org/lemonldap-ng/lemo
 Locale-Places-0.15                      https://github.com/nigelhorne/Locale-Places/issues/13
 SPVM-Mojolicious-0.002                  167835
 Basic-Types-XS-0.11                     167838
+App-bsky-0.04                           https://github.com/sanko/App-bsky/issues/1
