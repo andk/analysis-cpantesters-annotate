@@ -8466,3 +8466,4 @@ Daje-Plugin-Login-0.02                  https://github.com/janeskil1525/Daje-Plu
 Daje-Workflow-Client-Activity-0.03      https://github.com/janeskil1525/Daje-Workflow-Client-Activity/issues/1
 Daje-Workflow-GeneratePerl-Activity-0.12 https://github.com/janeskil1525/Daje-Workflow-GeneratePerl-Activity/issues/1
 Daje-Workflow-GenerateSchema-Activity-0.16 https://github.com/janeskil1525/Daje-Workflow-GenerateSchema-Activity/issues/1
+App-GitHub-Repository-v0.0.6            167844
