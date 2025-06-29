@@ -8484,3 +8484,4 @@ SemanticWeb-Schema-v23.0.0              https://github.com/robrwo/SemanticWeb-Sc
 Spreadsheet-Read-0.93                   https://github.com/Tux/Spreadsheet-Read/issues/56
 Test-FITesque-RDF-0.10                  https://github.com/perlrdf/p5-test-fitesque-rdf/issues/15
 Test-MemoryGrowth-0.05                  167864
+WebSocket-v0.2.1                        https://gitlab.com/jackdeguest/WebSocket/-/issues/1
