@@ -8495,3 +8495,4 @@ Map-Tube-Nanjing-0.05                   159292
 Map-Tube-Singapore-0.05                 159291
 Map-Tube-Sofia-0.10                     https://github.com/michal-josef-spacek/Map-Tube-Sofia/issues/4
 PHP-Serialization-XS-0.11               167875
+Metabrik-1.41                           167876
