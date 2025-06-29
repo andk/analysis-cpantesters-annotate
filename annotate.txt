@@ -8482,3 +8482,4 @@ PDF-API2-Resource-XObject-Image-Imager-0.01 167863
 Pinto-Remote-SelfContained-1.001        https://github.com/reyjrar/Pinto-Remote-SelfContained/issues/4
 SemanticWeb-Schema-v23.0.0              https://github.com/robrwo/SemanticWeb-Schema/issues/7
 Spreadsheet-Read-0.93                   https://github.com/Tux/Spreadsheet-Read/issues/56
+Test-FITesque-RDF-0.10                  https://github.com/perlrdf/p5-test-fitesque-rdf/issues/15
