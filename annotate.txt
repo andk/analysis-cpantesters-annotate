@@ -8493,3 +8493,4 @@ Net-DNS-Resolver-Unbound-1.32           167874
 Plate-1.7                               https://github.com/vlyon/Plate/issues/5
 Map-Tube-Nanjing-0.05                   159292
 Map-Tube-Singapore-0.05                 159291
+Map-Tube-Sofia-0.10                     https://github.com/michal-josef-spacek/Map-Tube-Sofia/issues/4
