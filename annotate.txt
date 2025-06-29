@@ -8478,3 +8478,4 @@ Types-JSONSchema-0.001000               167854
 WWW-Mechanize-PhantomJS-0.25            https://github.com/Corion/www-mechanize-phantomjs/issues/20
 Future-XS-0.13                          167857
 Net-Patricia-1.23                       167861
+PDF-API2-Resource-XObject-Image-Imager-0.01 167863
