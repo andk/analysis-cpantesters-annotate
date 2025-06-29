@@ -8491,3 +8491,4 @@ Net-Azure-NotificationHubs-0.09         https://github.com/ytnobody/p5-Net-Azure
 GnuPG-Interface-1.04                    167872
 Net-DNS-Resolver-Unbound-1.32           167874
 Plate-1.7                               https://github.com/vlyon/Plate/issues/5
+Map-Tube-Nanjing-0.05                   159292
