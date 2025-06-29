@@ -8462,3 +8462,4 @@ App-bsky-0.04                           https://github.com/sanko/App-bsky/issues
 Audio-Nama-1.600                        167841
 Business-LetterWriter-0.09              167842
 Chipcard-PCSC-v1.4.16                   167843
+Daje-Plugin-Login-0.02                  https://github.com/janeskil1525/Daje-Plugin-Login/issues/1
