@@ -8500,3 +8500,4 @@ Regexp-Compare-0.35                     167877
 App-remotediff-1.16                     https://github.com/kal247/App-remotediff/issues/3
 Term-ReadLine-Gnu-1.46                  https://github.com/hirooih/perl-trg/issues/33
 App-LXC-Container-0.41                  https://gitlab.com/thdorner/lxc-container/-/issues/8
+App-NutrientUtils-0.001                 167897
