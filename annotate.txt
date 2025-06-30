@@ -8502,3 +8502,4 @@ Term-ReadLine-Gnu-1.46                  https://github.com/hirooih/perl-trg/issu
 App-LXC-Container-0.41                  https://gitlab.com/thdorner/lxc-container/-/issues/8
 App-NutrientUtils-0.001                 167897
 Mojolicious-Plugin-Cron-Scheduler-0.02  https://github.com/tyrrminal/mojolicious-plugin-cron-scheduler/issues/3
+Net-Async-Ping-0.004001                 https://github.com/frioux/Net-Async-Ping/issues/8
