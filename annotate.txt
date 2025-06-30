@@ -8504,3 +8504,4 @@ App-NutrientUtils-0.001                 167897
 Mojolicious-Plugin-Cron-Scheduler-0.02  https://github.com/tyrrminal/mojolicious-plugin-cron-scheduler/issues/3
 Net-Async-Ping-0.004001                 https://github.com/frioux/Net-Async-Ping/issues/8
 Tradestie-WSBetsAPI-0.001               167900
+Alien-Box2D-0.106                       167902
