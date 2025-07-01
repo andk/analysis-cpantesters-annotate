@@ -8512,3 +8512,5 @@ Crypt-Blowfish-Mod-0.05                 167906
 Bib-CrossRef-0.12                       167920
 re-engine-Lua-0.19                      167921
 EPublisher-Source-Plugin-PerltutsCom-0.7 https://github.com/reneeb/EPublisher-Source-Plugin-PerltutsCom/issues/6
+Inline-Ruby-0.11                        167922
+Mojo-ACME-0.13                          https://github.com/jberger/Mojo-ACME/issues/15
