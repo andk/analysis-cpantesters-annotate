@@ -8515,3 +8515,4 @@ EPublisher-Source-Plugin-PerltutsCom-0.7 https://github.com/reneeb/EPublisher-So
 Inline-Ruby-0.11                        167922
 Mojo-ACME-0.13                          https://github.com/jberger/Mojo-ACME/issues/15
 Text-Diff-Unified-XS-0.09               https://github.com/pine/p5-Text-Diff-Unified-XS/issues/3
+Kubectl-CLIWrapper-0.06                 https://github.com/pplu/kubectl-cliwrapper/issues/8
