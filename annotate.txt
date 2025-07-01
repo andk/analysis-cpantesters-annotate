@@ -8514,3 +8514,4 @@ re-engine-Lua-0.19                      167921
 EPublisher-Source-Plugin-PerltutsCom-0.7 https://github.com/reneeb/EPublisher-Source-Plugin-PerltutsCom/issues/6
 Inline-Ruby-0.11                        167922
 Mojo-ACME-0.13                          https://github.com/jberger/Mojo-ACME/issues/15
+Text-Diff-Unified-XS-0.09               https://github.com/pine/p5-Text-Diff-Unified-XS/issues/3
