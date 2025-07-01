@@ -8518,3 +8518,4 @@ Text-Diff-Unified-XS-0.09               https://github.com/pine/p5-Text-Diff-Uni
 Kubectl-CLIWrapper-0.06                 https://github.com/pplu/kubectl-cliwrapper/issues/8
 Class-Plain-0.06                        155236
 X11-XCB-0.23                            https://github.com/zhmylove/X11-XCB/issues/1
+DBD-mysql-5.012                         https://github.com/perl5-dbi/DBD-mysql/issues/479
