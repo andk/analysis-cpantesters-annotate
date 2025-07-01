@@ -8519,3 +8519,4 @@ Kubectl-CLIWrapper-0.06                 https://github.com/pplu/kubectl-cliwrapp
 Class-Plain-0.06                        155236
 X11-XCB-0.23                            https://github.com/zhmylove/X11-XCB/issues/1
 DBD-mysql-5.012                         https://github.com/perl5-dbi/DBD-mysql/issues/479
+libwww-perl-6.79                        https://github.com/libwww-perl/libwww-perl/issues/477
