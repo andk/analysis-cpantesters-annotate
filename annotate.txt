@@ -8521,3 +8521,4 @@ X11-XCB-0.23                            https://github.com/zhmylove/X11-XCB/issu
 DBD-mysql-5.012                         https://github.com/perl5-dbi/DBD-mysql/issues/479
 libwww-perl-6.79                        https://github.com/libwww-perl/libwww-perl/issues/477
 MusicBrainz-DiscID-0.06                 https://github.com/njh/perl-musicbrainz-discid/issues/10
+AtteanX-Parser-JSONLD-0.001             https://github.com/kasei/atteanx-parser-jsonld/issues/5
