@@ -8510,3 +8510,4 @@ Crypt-OpenSSL-EC-1.32                   164982
 Thrift-XS-1.04                          167904
 Crypt-Blowfish-Mod-0.05                 167906
 Bib-CrossRef-0.12                       167920
+re-engine-Lua-0.19                      167921
