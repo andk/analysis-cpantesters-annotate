@@ -8508,3 +8508,5 @@ Alien-Box2D-0.106                       167902
 Audio-Scan-1.01                         167903
 Crypt-OpenSSL-EC-1.32                   164982
 Thrift-XS-1.04                          167904
+Crypt-Blowfish-Mod-0.05                 167906
+Bib-CrossRef-0.12                       167920
