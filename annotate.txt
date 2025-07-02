@@ -8524,3 +8524,4 @@ MusicBrainz-DiscID-0.06                 https://github.com/njh/perl-musicbrainz-
 AtteanX-Parser-JSONLD-0.001             https://github.com/kasei/atteanx-parser-jsonld/issues/5
 App-ProxyThat-0.001                     https://github.com/simbabque/App-ProxyThat/issues/3
 AtteanX-Store-LMDB-0.001                https://github.com/kasei/atteanx-store-lmdb/issues/3
+Geo-Compass-Variation-1.06              https://github.com/stevieb9/geo-compass-variation/issues/10
