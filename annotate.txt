@@ -8523,3 +8523,4 @@ libwww-perl-6.79                        https://github.com/libwww-perl/libwww-pe
 MusicBrainz-DiscID-0.06                 https://github.com/njh/perl-musicbrainz-discid/issues/10
 AtteanX-Parser-JSONLD-0.001             https://github.com/kasei/atteanx-parser-jsonld/issues/5
 App-ProxyThat-0.001                     https://github.com/simbabque/App-ProxyThat/issues/3
+AtteanX-Store-LMDB-0.001                https://github.com/kasei/atteanx-store-lmdb/issues/3
