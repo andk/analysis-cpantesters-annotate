@@ -8525,3 +8525,4 @@ AtteanX-Parser-JSONLD-0.001             https://github.com/kasei/atteanx-parser-
 App-ProxyThat-0.001                     https://github.com/simbabque/App-ProxyThat/issues/3
 AtteanX-Store-LMDB-0.001                https://github.com/kasei/atteanx-store-lmdb/issues/3
 Geo-Compass-Variation-1.06              https://github.com/stevieb9/geo-compass-variation/issues/10
+LMDB_File-0.14                          167941
