@@ -8527,3 +8527,4 @@ AtteanX-Store-LMDB-0.001                https://github.com/kasei/atteanx-store-l
 Geo-Compass-Variation-1.06              https://github.com/stevieb9/geo-compass-variation/issues/10
 LMDB_File-0.14                          167941
 HTML-HTMLDoc-0.21                       https://github.com/ericschernoff/HTMLDoc/issues/5
+WebService-Simple-0.25                  https://github.com/yusukebe/WebService-Simple/issues/10
