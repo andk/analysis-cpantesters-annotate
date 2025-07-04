@@ -8530,3 +8530,4 @@ HTML-HTMLDoc-0.21                       https://github.com/ericschernoff/HTMLDoc
 WebService-Simple-0.25                  https://github.com/yusukebe/WebService-Simple/issues/10
 Business-KontoCheck-6.15                https://sourceforge.net/p/kontocheck/bugs/23/
 Time-Zone-Olson-0.46                    https://github.com/david-dick/time-zone-olson/issues/4
+UV-2.000                                https://github.com/p5-UV/p5-UV/issues/40
