@@ -7677,7 +7677,7 @@ Mouse-v2.5.10                           154700
 Net-Z3950-SimpleServer-1.28             154702
 Data-Dump-Color-0.251                   154776
 Net-OpenSSH-More-1.00                   154777
-CVSS-1.13                               https://github.com/giterlizzi/perl-CVSS/issues/2,https://github.com/giterlizzi/perl-CVSS/issues/4
+CVSS-1.14                               https://github.com/giterlizzi/perl-CVSS/issues/2
 DBIx-Squirrel-1.2.8                     154907
 Device-AVR-UPDI-0.16                    154908
 Font-PCF-0.04                           154909
