@@ -4600,7 +4600,7 @@ Data-BinaryBuffer-0.005                 https://github.com/vovkasm/data-binarybu
 ExtUtils-ModuleMaker-TT-0.94            https://github.com/dagolden/ExtUtils-ModuleMaker-TT/issues/1,https://github.com/dagolden/ExtUtils-ModuleMaker-TT/issues/2,https://github.com/dagolden/ExtUtils-ModuleMaker-TT/issues/3
 Fetch-Image-1.000000                    https://github.com/markwellis/fetch-image/issues/1
 Crypt-NSS-X509-0.05                     https://github.com/0xxon/perl-nss/issues/3
-Net-DNS-Paranoid-0.08                   https://github.com/tokuhirom/Net-DNS-Paranoid/issues/2,https://github.com/tokuhirom/Net-DNS-Paranoid/issues/4
+Net-DNS-Paranoid-0.11                   https://github.com/tokuhirom/Net-DNS-Paranoid/issues/2,https://github.com/tokuhirom/Net-DNS-Paranoid/issues/4
 Tk-DateEntry-1.42                       129385
 Dita-GB-Standard-20190503               129364
 Gtk3-0.038                              125376,131730
