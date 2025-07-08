@@ -8538,3 +8538,4 @@ Crypt-Sodium-XS-0.000021                168042
 DBD-PgAsync-0.6.0                       168043
 Net-HTTP-6.23                           https://github.com/libwww-perl/Net-HTTP/issues/84
 DBD-KB-3.18.5                           168061
+Math-MPFR-4.41                          168062
