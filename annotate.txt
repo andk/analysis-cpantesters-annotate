@@ -8534,3 +8534,4 @@ UV-2.000                                https://github.com/p5-UV/p5-UV/issues/40
 WebService-GoogleAPI-Client-0.27        https://github.com/rabbiveesh/WebService-GoogleAPI-Client/issues/8
 Mo-utils-CSS-0.11                       https://github.com/michal-josef-spacek/Mo-utils-CSS/issues/2
 Data-Power-FaultDetectorBase-0.01       168041
+Crypt-Sodium-XS-0.000021                168042
