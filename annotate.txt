@@ -8552,3 +8552,4 @@ XML-Sig-OO-0.009                        168083
 Daje-Plugin-Signup-0.02                 https://github.com/janeskil1525/Daje-Plugin-Signup/issues/1
 Net-OAuth-0.31                          168084
 PDL-Drawing-Prima-0.19                  168090
+Pod-L10N-1.08                           https://github.com/argrath/Pod-L10N/issues/5
