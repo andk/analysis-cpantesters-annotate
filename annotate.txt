@@ -8540,3 +8540,4 @@ Net-HTTP-6.23                           https://github.com/libwww-perl/Net-HTTP/
 DBD-KB-3.18.5                           168061
 Math-MPFR-4.42                          168062
 Term-ANSIEncode-1.13                    168078
+Crypt-OpenSSL-BaseFunc-0.039            https://github.com/abbypan/Crypt-OpenSSL-BaseFunc/issues/6
