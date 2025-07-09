@@ -8548,3 +8548,4 @@ Google-API-Client-0.15                  https://github.com/comewalk/google-api-p
 HTML-TagReader-1.13                     114594
 Linux-WireGuard-0.03                    https://github.com/FGasper/p5-Linux-WireGuard/issues/2
 Session-Token-1.503                     https://github.com/hoytech/Session-Token/issues/5
+XML-Sig-OO-0.009                        168083
