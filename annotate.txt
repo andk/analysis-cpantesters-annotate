@@ -8546,3 +8546,4 @@ App-Git-Perl-0.1.15                     https://github.com/nedzadhrnjica/App-Git
 DNS-LDNS-0.63                           168080
 Google-API-Client-0.15                  https://github.com/comewalk/google-api-perl-client/issues/31
 HTML-TagReader-1.13                     114594
+Linux-WireGuard-0.03                    https://github.com/FGasper/p5-Linux-WireGuard/issues/2
