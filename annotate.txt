@@ -8550,3 +8550,4 @@ Linux-WireGuard-0.03                    https://github.com/FGasper/p5-Linux-Wire
 Session-Token-1.503                     https://github.com/hoytech/Session-Token/issues/5
 XML-Sig-OO-0.009                        168083
 Daje-Plugin-Signup-0.02                 https://github.com/janeskil1525/Daje-Plugin-Signup/issues/1
+Net-OAuth-0.31                          168084
