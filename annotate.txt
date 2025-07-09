@@ -8399,7 +8399,7 @@ SlapbirdAPM-Agent-CGI-0.02              https://github.com/mollusc-labs/slapbird
 Map-Tube-Beijing-v0.12.5                164577
 DateTime-Locale-FromCLDR-v0.7.0         https://gitlab.com/jackdeguest/DateTime-Locale-FromCLDR/-/issues/3
 App-Image-Generator-0.06                https://github.com/michal-josef-spacek/App-Image-Generator/issues/1,https://github.com/michal-josef-spacek/App-Image-Generator/issues/2
-Perl-Types-0.100                        https://gitlab.com/perl-types/perl-types/-/issues/2,https://gitlab.com/perl-types/perl-types/-/issues/3
+Perl-Types-0.210                        https://gitlab.com/perl-types/perl-types/-/issues/2,https://gitlab.com/perl-types/perl-types/-/issues/3
 Test2-Plugin-DBBreak-0.200002           https://github.com/kcaran/Test2-Plugin-DBBreak/issues/1
 Tk-ListBrowser-0.05                     https://github.com/haje61/Tk-ListBrowser/issues/1
 Math-NumberBase-XS-0.0202               165038
