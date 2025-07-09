@@ -8539,3 +8539,4 @@ DBD-PgAsync-0.6.0                       168043
 Net-HTTP-6.23                           https://github.com/libwww-perl/Net-HTTP/issues/84
 DBD-KB-3.18.5                           168061
 Math-MPFR-4.42                          168062
+Term-ANSIEncode-1.13                    168078
