@@ -8545,3 +8545,4 @@ App-find2perl-1.005                     168079
 App-Git-Perl-0.1.15                     https://github.com/nedzadhrnjica/App-Git-Perl/issues/1
 DNS-LDNS-0.63                           168080
 Google-API-Client-0.15                  https://github.com/comewalk/google-api-perl-client/issues/31
+HTML-TagReader-1.13                     114594
