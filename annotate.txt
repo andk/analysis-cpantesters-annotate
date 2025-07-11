@@ -8554,3 +8554,4 @@ Net-OAuth-0.31                          168084
 PDL-Drawing-Prima-0.19                  168090
 Pod-L10N-1.08                           https://github.com/argrath/Pod-L10N/issues/5
 Data-OFN-Common-0.02                    https://github.com/michal-josef-spacek/Data-OFN-Common/issues/1
+SVGPDF-0.091                            https://github.com/sciurius/perl-SVGPDF/issues/11
