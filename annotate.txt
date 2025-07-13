@@ -8557,3 +8557,4 @@ Data-OFN-Common-0.02                    https://github.com/michal-josef-spacek/D
 SVGPDF-0.091                            https://github.com/sciurius/perl-SVGPDF/issues/11
 Net-Async-ArtNet-0.04                   168153
 Mojo-File-Role-HomeDir-0.002            168156
+Mojo-File-Role-JSON-0.001               168157
