@@ -8454,7 +8454,7 @@ WWW-Noss-1.03                           https://codeberg.org/1-1sam/noss/issues/
 App-BS-0                                167834
 Daje-Plugin-Apploader-0.01              https://github.com/janeskil1525/Daje-Plugin-Apploader/issues/1
 Daje-Tools-JWT-0.01                     https://github.com/janeskil1525/Daje-Tools-JWT/issues/1
-Lemonldap-NG-Common-2.21.1              https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng/-/issues/3422
+Lemonldap-NG-Common-2.21.2              https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng/-/issues/3422
 Locale-Places-0.15                      https://github.com/nigelhorne/Locale-Places/issues/13
 SPVM-Mojolicious-0.003                  167835
 Basic-Types-XS-0.11                     167838
