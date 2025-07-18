@@ -8535,7 +8535,7 @@ WebService-GoogleAPI-Client-0.27        https://github.com/rabbiveesh/WebService
 Mo-utils-CSS-0.11                       https://github.com/michal-josef-spacek/Mo-utils-CSS/issues/2
 Data-Power-FaultDetectorBase-0.01       168041
 Crypt-Sodium-XS-0.000021                168042
-DBD-PgAsync-0.6.0                       168043
+DBD-PgAsync-0.7.1                       168043
 Net-HTTP-6.23                           https://github.com/libwww-perl/Net-HTTP/issues/84
 DBD-KB-3.18.5                           168061
 Math-MPFR-4.42                          168062
