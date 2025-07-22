@@ -8539,7 +8539,7 @@ DBD-PgAsync-0.7.2                       168043
 Net-HTTP-6.23                           https://github.com/libwww-perl/Net-HTTP/issues/84
 DBD-KB-3.18.5                           168061
 Math-MPFR-4.42                          168062
-Term-ANSIEncode-1.14                    168078
+Term-ANSIEncode-1.17                    168078
 Crypt-OpenSSL-BaseFunc-0.039            https://github.com/abbypan/Crypt-OpenSSL-BaseFunc/issues/6
 App-find2perl-1.005                     168079
 App-Git-Perl-0.1.15                     https://github.com/nedzadhrnjica/App-Git-Perl/issues/1
