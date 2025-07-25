@@ -8565,3 +8565,4 @@ DBD-Pg-3.18.0                           https://github.com/bucardo/dbdpg/issues/
 autobox-Text-0.002                      168174
 CXC-DB-DDL-0.20                         168276
 Pikeo-API-1.01                          168417
+WebService-Viddler-0.10                 168418
