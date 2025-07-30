@@ -8570,3 +8570,4 @@ Geo-Address-Parser-0.02                 https://github.com/nigelhorne/Geo-Addres
 Crypt-TEA_PP-0.0308                     168482
 Cookie-v0.3.8                           https://gitlab.com/jackdeguest/Cookie/-/issues/4
 HTTP-Promise-v0.5.3                     https://gitlab.com/jackdeguest/HTTP-Promise/-/issues/5
+App-rdapper-1.18                        https://github.com/gbxyz/rdapper/issues/19
