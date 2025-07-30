@@ -8569,3 +8569,4 @@ WebService-Viddler-0.10                 168418
 Geo-Address-Parser-0.02                 https://github.com/nigelhorne/Geo-Address-Parser/issues/2
 Crypt-TEA_PP-0.0308                     168482
 Cookie-v0.3.8                           https://gitlab.com/jackdeguest/Cookie/-/issues/4
+HTTP-Promise-v0.5.3                     https://gitlab.com/jackdeguest/HTTP-Promise/-/issues/5
