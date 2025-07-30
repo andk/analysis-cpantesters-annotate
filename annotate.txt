@@ -8573,3 +8573,4 @@ HTTP-Promise-v0.5.3                     https://gitlab.com/jackdeguest/HTTP-Prom
 App-rdapper-1.18                        https://github.com/gbxyz/rdapper/issues/19
 Data-HexConverter-0.02                  168532
 SPVM-Net-SSLeay-0.036                   168533
+Net-RDAP-0.40                           https://github.com/gbxyz/perl-net-rdap/issues/15
