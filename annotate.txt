@@ -8571,7 +8571,7 @@ Crypt-TEA_PP-0.0308                     168482
 Cookie-v0.3.8                           https://gitlab.com/jackdeguest/Cookie/-/issues/4
 HTTP-Promise-v0.5.3                     https://gitlab.com/jackdeguest/HTTP-Promise/-/issues/5
 App-rdapper-1.18                        https://github.com/gbxyz/rdapper/issues/19
-Data-HexConverter-0.02                  168532
+Data-HexConverter-0.04                  168532
 SPVM-Net-SSLeay-0.036                   168533
 Net-RDAP-0.40                           https://github.com/gbxyz/perl-net-rdap/issues/15
 Sys-Export-0.001                        https://github.com/nrdvana/perl-Sys-Export/issues/1
