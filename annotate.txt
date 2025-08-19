@@ -8581,3 +8581,4 @@ CGI-Info-1.06                           https://github.com/nigelhorne/CGI-Info/i
 Backup-Hanoi-0.005                      168860
 App-Unding-0.012                        168874
 Object-Configure-0.12                   https://github.com/nigelhorne/Object-Configure/issues/2
+Math-Formula-0.17                       168964
