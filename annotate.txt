@@ -8430,7 +8430,7 @@ Google-SAML-Response-0.14               https://github.com/mannih/Google-SAML-Re
 Net-ACME2-0.35                          https://github.com/FGasper/p5-Net-ACME2/issues/13
 Crypt-RSA-Blind-1.021                   166515
 JSON-Schema-Modern-0.617                https://github.com/karenetheridge/JSON-Schema-Modern/issues/93
-SPVM-Sys-0.546                          https://github.com/yuki-kimoto/SPVM-Sys/issues/95,https://github.com/yuki-kimoto/SPVM-Sys/issues/96
+SPVM-Sys-0.550                          https://github.com/yuki-kimoto/SPVM-Sys/issues/95
 WWW-LetsEncrypt-0.002                   https://github.com/dreamhost/perl-www-letsencrypt/issues/2
 Pod-L10N-1.07                           https://github.com/argrath/Pod-L10N/issues/3
 PGP-Sign-1.04                           166746
