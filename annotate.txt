@@ -8586,3 +8586,4 @@ Data-Text-0.18                          168965
 PLS-0.906                               169080
 Graphics-Toolkit-Color-1.92             169094
 Term-ANSIEncode-1.25                    169267
+re-engine-GNU-0.027                     https://github.com/Perl/perl5/issues/23660
