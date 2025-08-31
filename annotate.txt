@@ -8456,7 +8456,7 @@ Daje-Plugin-Apploader-0.01              https://github.com/janeskil1525/Daje-Plu
 Daje-Tools-JWT-0.01                     https://github.com/janeskil1525/Daje-Tools-JWT/issues/1
 Lemonldap-NG-Common-2.21.2              https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng/-/issues/3422
 Locale-Places-0.15                      https://github.com/nigelhorne/Locale-Places/issues/13
-SPVM-Mojolicious-0.014                  167835
+SPVM-Mojolicious-0.016                  167835
 Basic-Types-XS-0.11                     167838
 App-bsky-0.04                           https://github.com/sanko/App-bsky/issues/1
 Audio-Nama-1.600                        167841
