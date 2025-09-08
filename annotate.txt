@@ -8590,3 +8590,4 @@ re-engine-GNU-0.027                     https://github.com/Perl/perl5/issues/236
 App-rdapper-1.19                        https://github.com/gbxyz/rdapper/issues/23
 Bit-Set-0.04                            169620
 Config-Abstraction-0.34                 https://github.com/nigelhorne/Config-Abstraction/issues/6
+Daje-Plugin-Tools-0.02                  https://github.com/janeskil1525/Daje-Plugin-Tools/issues/1
