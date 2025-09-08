@@ -8591,4 +8591,4 @@ App-rdapper-1.19                        https://github.com/gbxyz/rdapper/issues/
 Bit-Set-0.04                            169620
 Config-Abstraction-0.34                 https://github.com/nigelhorne/Config-Abstraction/issues/6
 Daje-Plugin-Tools-0.03                  https://github.com/janeskil1525/Daje-Plugin-Tools/issues/1
-Module-Generic-v0.39.0                  https://gitlab.com/jackdeguest/Module-Generic/-/issues/14
+Module-Generic-v1.0.5                   https://gitlab.com/jackdeguest/Module-Generic/-/issues/14
