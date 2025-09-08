@@ -8589,3 +8589,4 @@ Term-ANSIEncode-1.25                    169267
 re-engine-GNU-0.027                     https://github.com/Perl/perl5/issues/23660
 App-rdapper-1.19                        https://github.com/gbxyz/rdapper/issues/23
 Bit-Set-0.04                            169620
+Config-Abstraction-0.34                 https://github.com/nigelhorne/Config-Abstraction/issues/6
