@@ -8596,3 +8596,4 @@ Net-SSLeay-1.94                         https://github.com/radiator-software/p5-
 OpenAPI-Modern-0.093                    https://github.com/karenetheridge/OpenAPI-Modern/issues/93
 Time-ParseDate-2015.103                 169624,169625
 Zabbix7-API-1.1                         https://github.com/scotticles/perl-zabbix7-api/issues/1
+Graphics-Penplotter-GcodeXY-v0.5.12     169628
