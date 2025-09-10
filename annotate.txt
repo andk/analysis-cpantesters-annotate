@@ -8598,3 +8598,4 @@ Time-ParseDate-2015.103                 169624,169625
 Zabbix7-API-1.1                         https://github.com/scotticles/perl-zabbix7-api/issues/1
 Graphics-Penplotter-GcodeXY-v0.5.12     169628
 Graphics-Framebuffer-6.71               169629
+Text-Diff-Unified-XS-0.10               https://github.com/pine/p5-Text-Diff-Unified-XS/issues/10
