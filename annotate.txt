@@ -8599,3 +8599,4 @@ Zabbix7-API-1.1                         https://github.com/scotticles/perl-zabbi
 Graphics-Penplotter-GcodeXY-v0.5.12     169628
 Graphics-Framebuffer-6.71               169629
 Text-Diff-Unified-XS-0.10               https://github.com/pine/p5-Text-Diff-Unified-XS/issues/10
+Daje-0.05                               https://github.com/janeskil1525/Daje/issues/1
