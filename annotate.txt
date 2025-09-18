@@ -8606,3 +8606,4 @@ PDK-DBI-0.005                           169882
 PDK-Utils-0.005                         169883
 Term-ANSIEncode-1.28                    169884
 CGI-Lingua-0.75                         https://github.com/nigelhorne/CGI-Lingua/issues/31
+Syntax-Keyword-Try-0.30                 170089
