@@ -8608,3 +8608,4 @@ Term-ANSIEncode-1.28                    169884
 CGI-Lingua-0.75                         https://github.com/nigelhorne/CGI-Lingua/issues/31
 Syntax-Keyword-Try-0.30                 170089
 Vigil-Calendar-2.1.1                    170094
+XS-Log-1.05                             170095
