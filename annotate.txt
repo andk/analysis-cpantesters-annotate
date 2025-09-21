@@ -8609,3 +8609,4 @@ CGI-Lingua-0.75                         https://github.com/nigelhorne/CGI-Lingua
 Syntax-Keyword-Try-0.30                 170089
 Vigil-Calendar-2.1.1                    170094
 XS-Log-1.05                             170095
+MOP4Import-Declare-0.070                170241
