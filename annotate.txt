@@ -7933,7 +7933,7 @@ Hades-Realm-Rope-0.03                   156066
 Locales-0.34                            156067
 Map-Tube-Plugin-FuzzyFind-0.08          156068
 Test-utf8-1.02                          154915
-EV-4.34                                 156069,https://github.com/Perl/perl5/issues/22353
+EV-4.36                                 156069,https://github.com/Perl/perl5/issues/22353
 HEAT-Crypto-0.07                        https://github.com/tomushkin/heat-perl/pull/1,https://github.com/Perl/perl5/issues/22380
 marc-mir-0.4                            156071
 Perinci-To-Doc-0.881                    156072
