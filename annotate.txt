@@ -8613,3 +8613,4 @@ MOP4Import-Declare-0.070                170241
 Test-HTTPStatus-2.11                    170244
 Attribute-Validate-v0.0.1               https://github.com/sergiotarxz/Perl-Attribute-Validate/issues/1
 Iterator-Flex-0.31                      170420
+Minima-v0.7.0                           https://github.com/tessarin/Minima/issues/1
