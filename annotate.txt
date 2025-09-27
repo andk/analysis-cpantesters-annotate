@@ -8604,7 +8604,7 @@ Graphics-Penplotter-GcodeXY-v0.5.13     169880
 OODoc-3.03                              169881
 PDK-DBI-0.005                           169882
 PDK-Utils-0.005                         169883
-Term-ANSIEncode-1.28                    169884
+Term-ANSIEncode-1.29                    169884
 CGI-Lingua-0.75                         https://github.com/nigelhorne/CGI-Lingua/issues/31
 Syntax-Keyword-Try-0.30                 170089
 Vigil-Calendar-2.1.1                    170094
