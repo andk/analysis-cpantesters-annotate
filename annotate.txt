@@ -8615,3 +8615,4 @@ Attribute-Validate-v0.0.1               https://github.com/sergiotarxz/Perl-Attr
 Iterator-Flex-0.31                      170420
 Minima-v0.7.0                           https://github.com/tessarin/Minima/issues/1,https://github.com/tessarin/Minima/issues/2
 XS-Log-1.12                             170421
+CLI-Simple-1.0.6                        https://github.com/rlauer6/perl-CLI-Simple/issues/4
