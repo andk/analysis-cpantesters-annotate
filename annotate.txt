@@ -7528,7 +7528,7 @@ REST-Client-281                         https://github.com/milescrawford/cpan-re
 Thread-CSP-0.012                        https://github.com/Leont/threads-csp/issues/5
 Promise-Me-v0.4.8                       https://gitlab.com/jackdeguest/Promise-Me/-/issues/3
 Devel-MAT-Tool-Object-Pad-0.02          151048
-Plack-App-Register-0.03                 https://github.com/kazeburo/Cookie-Baker/issues/17
+Plack-App-Register-0.05                 https://github.com/kazeburo/Cookie-Baker/issues/17
 App-RunStopRun-0.09                     151056
 Locale-CLDR-Locales-En-v0.40.0          https://github.com/ThePilgrim/perlcldr/issues/43
 Math-MPC-1.33                           151057
