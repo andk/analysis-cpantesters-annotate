@@ -8601,7 +8601,7 @@ Graphics-Framebuffer-6.71               169629
 Text-Diff-Unified-XS-0.10               https://github.com/pine/p5-Text-Diff-Unified-XS/issues/10
 Daje-0.05                               https://github.com/janeskil1525/Daje/issues/1
 Graphics-Penplotter-GcodeXY-v0.5.13     169880
-OODoc-3.03                              169881
+OODoc-3.04                              169881
 PDK-DBI-0.005                           169882
 PDK-Utils-0.005                         169883
 Term-ANSIEncode-1.29                    169884
