@@ -8617,3 +8617,4 @@ Minima-v0.7.0                           https://github.com/tessarin/Minima/issue
 XS-Log-1.12                             170421
 CLI-Simple-1.0.6                        https://github.com/rlauer6/perl-CLI-Simple/issues/4
 MARC-Validator-0.02                     https://github.com/michal-josef-spacek/MARC-Validator/issues/1
+App-Test-Generator-0.06                 https://github.com/nigelhorne/App-Test-Generator/issues/3
