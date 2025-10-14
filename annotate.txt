@@ -8621,3 +8621,4 @@ App-Test-Generator-0.06                 https://github.com/nigelhorne/App-Test-G
 SPVM-File-Basename-0.045                170846
 SPVM-File-Find-0.033                    170847
 SPVM-IO-0.242                           170848
+SPVM-IO-Socket-SSL-0.013                170849
