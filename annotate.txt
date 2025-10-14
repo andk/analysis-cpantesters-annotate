@@ -8619,3 +8619,4 @@ CLI-Simple-1.0.6                        https://github.com/rlauer6/perl-CLI-Simp
 MARC-Validator-0.02                     https://github.com/michal-josef-spacek/MARC-Validator/issues/1
 App-Test-Generator-0.06                 https://github.com/nigelhorne/App-Test-Generator/issues/3
 SPVM-File-Basename-0.045                170846
+SPVM-File-Find-0.033                    170847
