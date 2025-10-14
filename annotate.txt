@@ -8627,3 +8627,4 @@ SPVM-Time-Piece-0.006                   170851
 Task-MemManager-Device-0.02             170852
 KRYDE/Perl-Critic-Pulp-100              170860
 HTTP-Promise-v0.7.0                     https://gitlab.com/jackdeguest/HTTP-Promise/-/issues/6,https://gitlab.com/jackdeguest/HTTP-Promise/-/issues/7
+Perl-Types-0.400                        https://gitlab.com/perl-types/perl-types/-/issues/3
