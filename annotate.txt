@@ -8642,3 +8642,4 @@ HTTP-Promise-v0.7.1                     https://gitlab.com/jackdeguest/HTTP-Prom
 IO-Trace-0.021                          171025
 Lemonldap-NG-Common-2.22.0              https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng/-/issues/3489,https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng/-/issues/3490
 Matplotlib-Simple-0.02                  171026
+WebDyne-2.014                           171027
