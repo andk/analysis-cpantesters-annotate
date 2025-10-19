@@ -8633,3 +8633,4 @@ SPVM-File-Path-0.015                    170906
 App-Test-Generator-0.08                 171007
 SPVM-File-Temp-0.029                    170907
 Term-ANSIEncode-1.33                    171023
+Astro-ADS-1.91                          https://github.com/duffee/astro-ads/issues/32
