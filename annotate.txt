@@ -8397,7 +8397,7 @@ MIDI-Drummer-Tiny-0.6010                164350
 Unicode-Precis-Preparation-2025.004     164451
 SlapbirdAPM-Agent-CGI-0.02              https://github.com/mollusc-labs/slapbird/issues/22
 Map-Tube-Beijing-v0.12.5                164577
-DateTime-Locale-FromCLDR-v0.7.0         https://gitlab.com/jackdeguest/DateTime-Locale-FromCLDR/-/issues/3
+DateTime-Locale-FromCLDR-v0.8.0         https://gitlab.com/jackdeguest/DateTime-Locale-FromCLDR/-/issues/3
 App-Image-Generator-0.06                https://github.com/michal-josef-spacek/App-Image-Generator/issues/1,https://github.com/michal-josef-spacek/App-Image-Generator/issues/2
 Perl-Types-0.300                        https://gitlab.com/perl-types/perl-types/-/issues/2,https://gitlab.com/perl-types/perl-types/-/issues/3,https://gitlab.com/perl-types/perl-types/-/issues/4
 Test2-Plugin-DBBreak-0.200002           https://github.com/kcaran/Test2-Plugin-DBBreak/issues/1
