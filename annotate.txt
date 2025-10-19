@@ -8635,3 +8635,4 @@ SPVM-File-Temp-0.029                    170907
 Term-ANSIEncode-1.33                    171023
 Astro-ADS-1.91                          https://github.com/duffee/astro-ads/issues/32
 DBD-DuckDB-0.14                         https://github.com/giterlizzi/perl-DBD-DuckDB/issues/50
+Daje-Workflow-0.18                      https://github.com/janeskil1525/Daje-Workflow/issues/1
