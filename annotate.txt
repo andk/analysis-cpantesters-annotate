@@ -8643,3 +8643,4 @@ IO-Trace-0.021                          171025
 Lemonldap-NG-Common-2.22.0              https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng/-/issues/3489,https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng/-/issues/3490
 Matplotlib-Simple-0.02                  171026
 WebDyne-2.014                           171027
+Daje-Database-Model-0.06                https://github.com/janeskil1525/Daje-Database-Model/issues/1
