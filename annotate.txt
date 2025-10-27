@@ -7088,7 +7088,7 @@ Alien-libdeflate-0.03                   https://github.com/kiwiroy/alien-libdefl
 FunctionalPerl-0.72.66                  144932
 Devel-WatchVars-v1.0.5                  https://github.com/Perl/perl5/issues/20384
 Dyn-0.03                                https://github.com/sanko/Dyn.pm/issues/5
-Moonshine-Util-0.08                     124162
+Moonshine-Util-0.10                     124162
 Promise-AsyncAwait-0.01                 144935
 Geo-Gpx-1.06                            144936
 UML-Class-Simple-0.22                   144937
