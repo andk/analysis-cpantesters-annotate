@@ -8622,7 +8622,7 @@ SPVM-File-Basename-0.045                170846
 SPVM-File-Find-0.033                    170847
 SPVM-IO-0.242                           170848
 SPVM-IO-Socket-SSL-0.013                170849
-SPVM-Mojolicious-0.030                  170850
+SPVM-Mojolicious-0.031                  170850
 SPVM-Time-Piece-0.006                   170851
 Task-MemManager-Device-0.02             170852
 KRYDE/Perl-Critic-Pulp-100              170860
