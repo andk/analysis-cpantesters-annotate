@@ -8648,3 +8648,4 @@ libwww-perl-6.80                        https://github.com/libwww-perl/libwww-pe
 XS-Framework-1.6.1                      171202
 App-perlbrew-1.02                       https://github.com/gugod/App-perlbrew/issues/852
 Business-ES-NIF-0.15                    171244
+Cron-Toolkit-0.04                       171245
