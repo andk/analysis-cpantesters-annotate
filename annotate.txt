@@ -8323,7 +8323,7 @@ Geo-Inverse-0.08                        https://github.com/mrdvt92/perl-Geo-Inve
 AI-Ollama-Client-0.04                   https://github.com/Corion/AI-Ollama-Client/issues/3
 BSON-v1.12.2                            160684,https://github.com/Perl/perl5/issues/22868
 POE-Component-Basement-0.01             159755,https://github.com/Perl/perl5/issues/23015
-Symbol-Get-0.12                         https://github.com/FGasper/p5-Symbol-Get/issues/4,https://github.com/Perl/perl5/issues/23015
+Symbol-Get-0.12                         https://github.com/FGasper/p5-Symbol-Get/issues/4,https://github.com/Perl/perl5/issues/23015,https://github.com/Perl/perl5/issues/23131,https://github.com/FGasper/p5-Symbol-Get/issues/6
 Test-Sims-20180103                      https://github.com/schwern/Test-Sims/pull/3,https://github.com/Perl/perl5/issues/23015
 XML-Declare-0.06                        159604,https://github.com/Perl/perl5/issues/23008
 Statistics-CaseResampling-0.15          157217,https://github.com/Perl/perl5/issues/22687
