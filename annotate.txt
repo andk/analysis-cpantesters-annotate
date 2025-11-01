@@ -8657,3 +8657,4 @@ Image-Bitmap2Paths-0.01                 171248
 MikroTik-Client-v0.611                  https://github.com/anparker/mikrotik-client/issues/4
 JQ-Lite-1.32                            https://github.com/kawamurashingo/JQ-Lite/issues/296
 Mouse-v2.6.0                            https://github.com/xslate/p5-Mouse/issues/126
+Params-Validate-Strict-0.23             171339
