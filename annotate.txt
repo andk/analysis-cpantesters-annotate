@@ -8659,3 +8659,4 @@ JQ-Lite-1.32                            https://github.com/kawamurashingo/JQ-Lit
 Mouse-v2.6.0                            https://github.com/xslate/p5-Mouse/issues/126
 Params-Validate-Strict-0.23             171339
 Data-Random-String-Matches-0.04         171399
+Dancer2-Plugin-LogReport-2.01           171523
