@@ -8660,3 +8660,4 @@ Mouse-v2.6.0                            https://github.com/xslate/p5-Mouse/issue
 Params-Validate-Strict-0.23             171339
 Data-Random-String-Matches-0.04         171399
 Dancer2-Plugin-LogReport-2.01           171523
+Package-Stash-XS-0.30                   https://github.com/Perl/perl5/issues/23903
