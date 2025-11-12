@@ -8666,3 +8666,4 @@ Test-JSON-Schema-Acceptance-1.031       https://github.com/karenetheridge/Test-J
 Geo-Geos-1.0.7                          171614
 CGI-Lingua-0.78                         171642
 MouseX-OO_Modulino-0.01                 https://github.com/hkoba/perl-MouseX-OO_Modulino/issues/1
+Dev-Util-v2.17.17                       171646
