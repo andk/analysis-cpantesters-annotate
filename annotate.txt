@@ -8664,3 +8664,4 @@ Package-Stash-XS-0.30                   https://github.com/Perl/perl5/issues/239
 JSON-Schema-Validate-v0.1.0             https://gitlab.com/jackdeguest/json-schema-validate/-/issues/1
 Test-JSON-Schema-Acceptance-1.031       https://github.com/karenetheridge/Test-JSON-Schema-Acceptance/issues/25
 Geo-Geos-1.0.7                          171614
+CGI-Lingua-0.78                         171642
