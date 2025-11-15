@@ -8662,7 +8662,7 @@ Data-Random-String-Matches-0.04         171399
 Dancer2-Plugin-LogReport-2.01           171523
 Package-Stash-XS-0.30                   https://github.com/Perl/perl5/issues/23903
 JSON-Schema-Validate-v0.1.0             https://gitlab.com/jackdeguest/json-schema-validate/-/issues/1
-Test-JSON-Schema-Acceptance-1.031       https://github.com/karenetheridge/Test-JSON-Schema-Acceptance/issues/25
+Test-JSON-Schema-Acceptance-1.034       https://github.com/karenetheridge/Test-JSON-Schema-Acceptance/issues/25
 Geo-Geos-1.0.7                          171614
 CGI-Lingua-0.79                         171642
 MouseX-OO_Modulino-0.03                 https://github.com/hkoba/perl-MouseX-OO_Modulino/issues/1
