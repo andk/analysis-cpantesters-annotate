@@ -8671,3 +8671,4 @@ Sub-HandlesVia-0.050006                 https://github.com/tobyink/p5-sub-handle
 Dev-Util-v2.18.26                       171687,171688
 Perl-Download-FTP-0.06                  171689
 Bitcoin-Crypto-4.002                    https://github.com/Perl-Bitcoin/Bitcoin-Crypto/issues/21
+Dev-Util-v2.18.31                       171694
