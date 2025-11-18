@@ -8674,3 +8674,4 @@ Bitcoin-Crypto-4.002                    https://github.com/Perl-Bitcoin/Bitcoin-
 Dev-Util-v2.18.31                       171694
 Dev-Util-v2.18.35                       171701
 JSON-Schema-Validate-v0.4.1             https://gitlab.com/jackdeguest/json-schema-validate/-/issues/3
+Crypt-SecretBuffer-0.008                https://github.com/nrdvana/perl-Crypt-SecretBuffer/issues/8
