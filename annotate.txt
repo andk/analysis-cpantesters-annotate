@@ -8673,4 +8673,4 @@ Perl-Download-FTP-0.06                  171689
 Bitcoin-Crypto-4.002                    https://github.com/Perl-Bitcoin/Bitcoin-Crypto/issues/21
 Dev-Util-v2.18.31                       171694
 Dev-Util-v2.18.35                       171701
-JSON-Schema-Validate-v0.4.0             https://gitlab.com/jackdeguest/json-schema-validate/-/issues/2
+JSON-Schema-Validate-v0.4.1             https://gitlab.com/jackdeguest/json-schema-validate/-/issues/3
