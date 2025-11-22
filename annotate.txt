@@ -8679,3 +8679,4 @@ Data-HexConverter-0.64                  171773
 SPVM-Mojolicious-0.032                  171774
 Dancer2-Plugin-WebService-4.8.1         171775
 HTML-FromMail-3.00                      https://github.com/markov2/perl5-HTML-FromMail/issues/1
+Crypt-SecretBuffer-0.009                https://github.com/nrdvana/perl-Crypt-SecretBuffer/issues/9
