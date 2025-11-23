@@ -8681,3 +8681,4 @@ Dancer2-Plugin-WebService-4.8.1         171775
 HTML-FromMail-3.00                      https://github.com/markov2/perl5-HTML-FromMail/issues/1
 Crypt-SecretBuffer-0.009                https://github.com/nrdvana/perl-Crypt-SecretBuffer/issues/9
 YAML-Syck-1.36                          https://github.com/cpan-authors/YAML-Syck/issues/61
+Crypt-xxHash-0.08                       https://github.com/KalessinD/perl_crypt_xxhash/issues/5
