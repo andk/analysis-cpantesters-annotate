@@ -7651,7 +7651,7 @@ Dist-Build-0.006                        https://github.com/Leont/dist-build/issu
 Locale-Places-0.13                      https://github.com/nigelhorne/Locale-Places/issues/9
 App-diff_spreadsheets-1.022             https://github.com/jimav/App-diff_spreadsheets/issues/1
 App-sdview-0.18                         154453
-Data-Checks-0.10                        154454
+Data-Checks-0.11                        154454
 File-Copy-clonefile-v0.0.5              https://github.com/skaji/perl-File-Copy-clonefile/issues/3
 Dist-Zilla-PluginBundle-Author-GETTY-0.120 154455
 Convert-Pheno-0.28                      https://github.com/CNAG-Biomedical-Informatics/convert-pheno/issues/2
