@@ -8590,7 +8590,7 @@ re-engine-GNU-0.027                     https://github.com/Perl/perl5/issues/236
 App-rdapper-1.19                        https://github.com/gbxyz/rdapper/issues/23
 Bit-Set-0.05                            169620
 Config-Abstraction-0.34                 https://github.com/nigelhorne/Config-Abstraction/issues/6
-Daje-Plugin-Tools-0.17                  https://github.com/janeskil1525/Daje-Plugin-Tools/issues/1
+Daje-Plugin-Tools-0.18                  https://github.com/janeskil1525/Daje-Plugin-Tools/issues/1
 Module-Generic-v1.0.5                   https://gitlab.com/jackdeguest/Module-Generic/-/issues/14
 Net-SSLeay-1.94                         https://github.com/radiator-software/p5-net-ssleay/issues/513,https://github.com/radiator-software/p5-net-ssleay/pull/520
 OpenAPI-Modern-0.093                    https://github.com/karenetheridge/OpenAPI-Modern/issues/93
