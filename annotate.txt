@@ -8690,3 +8690,4 @@ Date-Age-0.06                           171913
 Const-XS-1.03                           171976
 MOP4Import-Declare-0.071_003            172096
 Daje-Plugin-workflow-0.15               https://github.com/janeskil1525/Daje-Plugin-Workflow/issues/1
+Mail-Box-4.00                           https://github.com/markov2/perl5-Mail-Box/issues/4
