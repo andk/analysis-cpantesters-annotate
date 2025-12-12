@@ -8694,3 +8694,4 @@ Mail-Box-4.00                           https://github.com/markov2/perl5-Mail-Bo
 Mail-Message-4.00                       https://github.com/markov2/perl5-Mail-Message/issues/26
 SPVM-Regex-0.255                        172226
 Test-RedisServer-0.23                   https://github.com/typester/Test-RedisServer/issues/19
+BACnet-0.03                             172227
