@@ -8696,3 +8696,4 @@ SPVM-Regex-0.255                        172226
 Test-RedisServer-0.23                   https://github.com/typester/Test-RedisServer/issues/19
 BACnet-0.03                             172227
 Env-Assert-0.013                        172228
+Syntax-Keyword-Assert-0.18              https://github.com/kfly8/Syntax-Keyword-Assert/issues/15
