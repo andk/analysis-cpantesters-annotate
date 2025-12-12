@@ -8620,7 +8620,7 @@ MARC-Validator-0.02                     https://github.com/michal-josef-spacek/M
 App-Test-Generator-0.06                 https://github.com/nigelhorne/App-Test-Generator/issues/3
 SPVM-File-Basename-0.045                170846
 SPVM-File-Find-0.033                    170847
-SPVM-IO-0.242                           170848
+SPVM-IO-0.243                           170848
 SPVM-IO-Socket-SSL-0.013                170849
 SPVM-Mojolicious-0.031                  170850
 SPVM-Time-Piece-0.006                   170851
