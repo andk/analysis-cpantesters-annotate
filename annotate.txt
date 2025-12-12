@@ -8693,3 +8693,4 @@ Daje-Plugin-workflow-0.15               https://github.com/janeskil1525/Daje-Plu
 Mail-Box-4.00                           https://github.com/markov2/perl5-Mail-Box/issues/4
 Mail-Message-4.00                       https://github.com/markov2/perl5-Mail-Message/issues/26
 SPVM-Regex-0.255                        172226
+Test-RedisServer-0.23                   https://github.com/typester/Test-RedisServer/issues/19
