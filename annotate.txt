@@ -7657,7 +7657,7 @@ Dist-Zilla-PluginBundle-Author-GETTY-0.120 154455
 Convert-Pheno-0.28                      https://github.com/CNAG-Biomedical-Informatics/convert-pheno/issues/2
 Tk-Terminal-0.02                        154471
 OpenMP-Simple-0.1.2                     154472,154473,151997
-Dpkg-1.23.0                             144412,146261
+Dpkg-1.23.1                             144412,146261
 IO-Async-Loop-Epoll-FD-0.004            https://github.com/Leont/io-async-loop-epoll-fd/issues/1
 Parallel-TaskExecutor-0.04              154480
 Test-Strict-0.53                        https://github.com/manwar/Test-Strict/issues/36
