@@ -8701,3 +8701,4 @@ WWW-Suffit-1.09                         172229
 Class-XSConstructor-0.013               172230
 sealed-v8.1.4                           172294
 OpenAPI-Modern-0.116                    https://github.com/karenetheridge/OpenAPI-Modern/issues/98
+App-ArduinoBuilder-0.08                 https://github.com/mkende/arduino_builder/issues/1
