@@ -8704,3 +8704,4 @@ OpenAPI-Modern-0.116                    https://github.com/karenetheridge/OpenAP
 App-ArduinoBuilder-0.08                 https://github.com/mkende/arduino_builder/issues/1
 Games-ScottAdams-0.04                   172380
 Graphics-ColorNames-Mozilla-0.11        149090
+Device-Firmata-0.69                     172382,https://github.com/Perl/perl5/issues/24013
