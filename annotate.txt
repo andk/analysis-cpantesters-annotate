@@ -8703,3 +8703,4 @@ sealed-v8.1.4                           172294
 OpenAPI-Modern-0.116                    https://github.com/karenetheridge/OpenAPI-Modern/issues/98
 App-ArduinoBuilder-0.08                 https://github.com/mkende/arduino_builder/issues/1
 Games-ScottAdams-0.04                   172380
+Graphics-ColorNames-Mozilla-0.11        149090
