@@ -8708,3 +8708,4 @@ Device-Firmata-0.69                     172382,https://github.com/Perl/perl5/iss
 Amazon-CloudFront-SignedURL-0.03        https://github.com/zoncoen/Amazon-CloudFront-SignedURL/issues/1
 Log-Fine-0.65                           172395
 Supervisord-Client-0.22                 https://github.com/Perl/perl5/issues/24013,https://github.com/samuelckaufman/Supervisord-Client/pull/2
+XML-Sig-OO-0.010                        172407
