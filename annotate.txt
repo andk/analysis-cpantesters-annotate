@@ -8714,3 +8714,4 @@ Net-pWhoIs-1.2.0                        149214
 Template-Plugin-Autoformat-2.77         https://github.com/karpet/template-plugin-autoformat/issues/8
 Locale-XGettext-0.8                     https://github.com/gflohr/Locale-XGettext/issues/8
 Process-Results-0.2                     172419
+Time-HiRes-Sleep-Until-0.09             https://github.com/mrdvt92/perl-Time-HiRes-Sleep-Until/issues/1
