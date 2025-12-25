@@ -8715,3 +8715,4 @@ Template-Plugin-Autoformat-2.77         https://github.com/karpet/template-plugi
 Locale-XGettext-0.8                     https://github.com/gflohr/Locale-XGettext/issues/8
 Process-Results-0.2                     172419
 Time-HiRes-Sleep-Until-0.09             https://github.com/mrdvt92/perl-Time-HiRes-Sleep-Until/issues/1
+Net-Async-Tangence-0.16                 172425,https://github.com/Perl/perl5/issues/24013
