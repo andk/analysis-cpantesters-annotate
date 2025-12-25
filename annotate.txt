@@ -8709,3 +8709,8 @@ Amazon-CloudFront-SignedURL-0.03        https://github.com/zoncoen/Amazon-CloudF
 Log-Fine-0.65                           172395
 Supervisord-Client-0.22                 https://github.com/Perl/perl5/issues/24013,https://github.com/samuelckaufman/Supervisord-Client/pull/2
 XML-Sig-OO-0.010                        172407
+Template-Plugin-Page-0.10               172408
+Net-pWhoIs-1.2.0                        149214
+Template-Plugin-Autoformat-2.77         https://github.com/karpet/template-plugin-autoformat/issues/8
+Locale-XGettext-0.8                     https://github.com/gflohr/Locale-XGettext/issues/8
+Process-Results-0.2                     172419
