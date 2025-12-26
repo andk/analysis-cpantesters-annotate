@@ -8720,3 +8720,4 @@ Shipment-3.10                           https://github.com/pullingshots/Shipment
 WebSource-2.4.5                         172431
 XML-Compile-WSS-Signature-2.04          https://github.com/cpan-authors/Crypt-OpenSSL-RSA/issues/61,172432
 TheEye-0.5                              https://github.com/norbu09/TheEye/issues/1
+App-Trace-0.50                          https://rt.cpan.org/Ticket/Display.html?id=149114
