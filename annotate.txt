@@ -8732,3 +8732,4 @@ Test-WWW-Mechanize-Driver-1.0           172451
 CatalystX-Example-YUIUploader-0.02      172452
 HTML-Robot-Scrapper-0.11                172454
 Elive-1.37                              172456
+Queue-Priority-1                        149542
