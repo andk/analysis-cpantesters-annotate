@@ -8733,3 +8733,4 @@ CatalystX-Example-YUIUploader-0.02      172452
 HTML-Robot-Scrapper-0.11                172454
 Elive-1.37                              172456
 Queue-Priority-1                        149542
+Device-Osram-Lightify-0.7.1             172445
