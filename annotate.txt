@@ -8722,3 +8722,4 @@ XML-Compile-WSS-Signature-2.04          https://github.com/cpan-authors/Crypt-Op
 TheEye-0.5                              https://github.com/norbu09/TheEye/issues/1
 App-Trace-0.50                          https://rt.cpan.org/Ticket/Display.html?id=149114
 CatalystX-CRUD-Model-RDBO-0.302         172440,https://github.com/Perl/perl5/issues/24013
+Mail-Summary-0.02                       172441
