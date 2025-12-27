@@ -8729,3 +8729,4 @@ diffReps-1.55.3                         172444
 Dancer2-Plugin-MarkdownFilesToHTML-0.017 https://github.com/sdondley/Dancer2-Plugin-MarkdownFilesToHTML/issues/4
 Amazon-SQS-ProducerConsumer-0.04        149583
 Test-WWW-Mechanize-Driver-1.0           172451
+CatalystX-Example-YUIUploader-0.02      172452
