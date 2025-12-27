@@ -8724,3 +8724,4 @@ App-Trace-0.50                          https://rt.cpan.org/Ticket/Display.html?
 CatalystX-CRUD-Model-RDBO-0.302         172440,https://github.com/Perl/perl5/issues/24013
 Mail-Summary-0.02                       172441
 RFID-Matrics-0.002                      172442
+Acme-Cow-0.2                            172443
