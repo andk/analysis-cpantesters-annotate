@@ -8734,3 +8734,4 @@ HTML-Robot-Scrapper-0.11                172454
 Elive-1.37                              172456
 Queue-Priority-1                        149542
 Device-Osram-Lightify-0.7.1             172445
+Catalyst-Controller-Combine-0.15        172466,https://github.com/Perl/perl5/issues/24013
