@@ -8737,3 +8737,4 @@ Device-Osram-Lightify-0.7.1             172445
 Catalyst-Controller-Combine-0.15        172466,https://github.com/Perl/perl5/issues/24013
 MooseX-Getopt-Defanged-v1.18.0          172468
 Google-SAML-Response-0.15               https://github.com/mannih/Google-SAML-Response/issues/4
+LWP-JSON-Tiny-0.014                     172473
