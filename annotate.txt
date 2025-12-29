@@ -8739,3 +8739,4 @@ MooseX-Getopt-Defanged-v1.18.0          172468
 Google-SAML-Response-0.15               https://github.com/mannih/Google-SAML-Response/issues/4
 LWP-JSON-Tiny-0.014                     172473
 Dancer2-Logger-LogAny-0.9912            https://github.com/1nickt/Dancer2-Logger-LogAny/issues/2
+Dancer2-Plugin-Etcd-0.011               172478
