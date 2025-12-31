@@ -8745,3 +8745,4 @@ Catalyst-Plugin-Mode-0.03               172490
 Net-Daemon-SSL-1.0                      172496
 VM-EC2-1.28                             149235
 Parallel-Benchmark-0.10                 https://github.com/fujiwara/p5-Parallel-Benchmark/issues/2
+TinyDNS-Reader-0.7.7                    172515
