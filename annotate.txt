@@ -8635,7 +8635,7 @@ SPVM-File-Temp-0.029                    170907
 Term-ANSIEncode-1.33                    171023
 Astro-ADS-1.91                          https://github.com/duffee/astro-ads/issues/32
 DBD-DuckDB-0.14                         https://github.com/giterlizzi/perl-DBD-DuckDB/issues/50
-Daje-Workflow-0.24                      https://github.com/janeskil1525/Daje-Workflow/issues/1
+Daje-Workflow-0.25                      https://github.com/janeskil1525/Daje-Workflow/issues/1
 DateTime-Format-RelativeTime-v0.2.0     https://gitlab.com/jackdeguest/DateTime-Format-RelativeTime/-/issues/2
 Filename-Timestamp-0.003                171024
 HTTP-Promise-v0.7.1                     https://gitlab.com/jackdeguest/HTTP-Promise/-/issues/5
