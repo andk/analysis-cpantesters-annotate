@@ -8748,3 +8748,4 @@ Parallel-Benchmark-0.10                 https://github.com/fujiwara/p5-Parallel-
 TinyDNS-Reader-0.7.7                    172515
 WebService-Hexonet-Connector-v2.10.4    172517
 Rose-HTMLx-Form-DBIC-0.08               172527
+Thread-Apartment-0.51                   149322
