@@ -8447,7 +8447,7 @@ Reactive-Core-0.103                     https://github.com/ReactivePL/Core/issue
 SPVM-0.990109                           https://github.com/yuki-kimoto/SPVM/issues/758
 SPVM-File-Basename-0.044                167819
 SPVM-File-Spec-0.089                    167820
-SPVM-Go-0.014                           167821
+SPVM-Go-0.016                           167821
 SPVM-HTTP-Tiny-0.012                    167822
 Term-Maze-0.01                          167823
 WWW-Noss-1.03                           https://codeberg.org/1-1sam/noss/issues/2
