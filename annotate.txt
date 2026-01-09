@@ -8750,3 +8750,4 @@ WebService-Hexonet-Connector-v2.10.4    172517
 Rose-HTMLx-Form-DBIC-0.08               172527
 Thread-Apartment-0.51                   149322
 Catalyst-Plugin-Email-Japanese-0.07     172532
+Class-XSConstructor-0.016002            https://github.com/tobyink/p5-class-xsconstructor/issues/7
