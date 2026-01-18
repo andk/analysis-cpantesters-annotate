@@ -8752,3 +8752,4 @@ Thread-Apartment-0.51                   149322
 Catalyst-Plugin-Email-Japanese-0.07     172532
 Class-XSConstructor-0.016002            https://github.com/tobyink/p5-class-xsconstructor/issues/7
 MooX-XSConstructor-0.003000             172711
+Data-Filter-Abstract-0.005              172763
