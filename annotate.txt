@@ -8759,4 +8759,4 @@ DBIx-Class-Async-0.41                   https://github.com/manwar/DBIx-Class-Asy
 Future-Batch-XS-0.02                    172815
 Future-IO-Impl-Glib-0.03                172816
 Future-IO-Impl-Ppoll-0.03               172817
-Future-IO-Impl-UV-0.07                  172818
+Future-IO-Impl-UV-0.07                  172818,172819
