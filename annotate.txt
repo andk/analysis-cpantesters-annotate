@@ -8758,3 +8758,4 @@ Marlin-Antlers-0.003000                 https://github.com/tobyink/p5-marlin-ant
 DBIx-Class-Async-0.41                   https://github.com/manwar/DBIx-Class-Async/issues/4,https://github.com/manwar/DBIx-Class-Async/issues/5
 Future-Batch-XS-0.02                    172815
 Future-IO-Impl-Glib-0.03                172816
+Future-IO-Impl-Ppoll-0.03               172817
