@@ -8757,3 +8757,4 @@ IO-Async-0.805                          172790
 Marlin-Antlers-0.003000                 https://github.com/tobyink/p5-marlin-antlers/issues/1
 DBIx-Class-Async-0.41                   https://github.com/manwar/DBIx-Class-Async/issues/4,https://github.com/manwar/DBIx-Class-Async/issues/5
 Future-Batch-XS-0.02                    172815
+Future-IO-Impl-Glib-0.03                172816
