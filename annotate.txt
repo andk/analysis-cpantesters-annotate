@@ -8444,7 +8444,7 @@ DBIx-Class-FilterColumn-ByType-1.251750 167818
 DBIx-QuickORM-0.000015                  https://github.com/exodist/DBIx-QuickORM/issues/25
 Geo-GDAL-FFI-0.13                       https://github.com/ajolma/Geo-GDAL-FFI/issues/84
 Reactive-Core-0.103                     https://github.com/ReactivePL/Core/issues/1
-SPVM-0.990112                           https://github.com/yuki-kimoto/SPVM/issues/758
+SPVM-0.990113                           https://github.com/yuki-kimoto/SPVM/issues/758
 SPVM-File-Basename-0.044                167819
 SPVM-File-Spec-0.089                    167820
 SPVM-Go-0.016                           167821
