@@ -8652,7 +8652,7 @@ Cron-Toolkit-0.04                       171245
 Daje-Database-Migrator-1.00             https://github.com/janeskil1525/Daje-Database-Migrator/issues/1
 Data-Tranco-0.003                       171246
 DBIx-DataModel-3.13                     171247
-Geo-GDAL-FFI-0.14                       https://github.com/ajolma/Geo-GDAL-FFI/issues/94
+Geo-GDAL-FFI-0.15                       https://github.com/ajolma/Geo-GDAL-FFI/issues/94
 Image-Bitmap2Paths-0.01                 171248
 MikroTik-Client-v0.611                  https://github.com/anparker/mikrotik-client/issues/4
 JQ-Lite-1.32                            https://github.com/kawamurashingo/JQ-Lite/issues/296
