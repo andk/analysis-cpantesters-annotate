@@ -8691,7 +8691,7 @@ Const-XS-1.03                           171976
 MOP4Import-Declare-0.071_003            172096
 Daje-Plugin-workflow-0.20               https://github.com/janeskil1525/Daje-Plugin-Workflow/issues/1
 Mail-Box-4.00                           https://github.com/markov2/perl5-Mail-Box/issues/4
-Mail-Message-4.00                       https://github.com/markov2/perl5-Mail-Message/issues/27
+Mail-Message-4.02                       https://github.com/markov2/perl5-Mail-Message/issues/27
 SPVM-Regex-0.255                        172226
 Test-RedisServer-0.23                   https://github.com/typester/Test-RedisServer/issues/19
 BACnet-0.03                             172227
