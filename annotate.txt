@@ -8756,7 +8756,7 @@ Data-Filter-Abstract-0.005              172763
 IO-Async-0.805                          172790
 Marlin-Antlers-0.003000                 https://github.com/tobyink/p5-marlin-antlers/issues/1
 DBIx-Class-Async-0.48                   https://github.com/manwar/DBIx-Class-Async/issues/4,https://github.com/manwar/DBIx-Class-Async/issues/5
-Future-Batch-XS-0.02                    172815
+Future-Batch-XS-0.03                    172815
 Future-IO-Impl-Glib-0.03                172816
 Future-IO-Impl-Ppoll-0.03               172817
 Future-IO-Impl-UV-0.07                  172818,172819
@@ -8765,3 +8765,4 @@ Term-ANSIEncode-1.85                    172821
 HTTP-Cookies-Mozilla-2.036              172823
 JQ-Lite-2.26                            172824
 Class-XSConstructor-0.023001            172826,172853
+ExtUtils-XSOne-0.02                     172854
