@@ -8764,4 +8764,4 @@ Marlin-0.020002                         https://github.com/tobyink/p5-marlin/iss
 Term-ANSIEncode-1.85                    172821
 HTTP-Cookies-Mozilla-2.036              172823
 JQ-Lite-2.26                            172824
-Class-XSConstructor-0.022002            172826
+Class-XSConstructor-0.023001            172826,172853
