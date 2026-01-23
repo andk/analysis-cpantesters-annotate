@@ -640,7 +640,7 @@ SUPER-1.20120705                        https://github.com/Test-More/test-more/i
 Class-Data-ConfigHash-0.00002           https://github.com/Test-More/test-more/issues/475
 Graphics-Color-0.29                     https://github.com/Test-More/test-more/issues/478
 Test-Leaner-0.05                        https://github.com/Test-More/test-more/issues/484
-Parse-RPN-2.88                          88671,151017
+Parse-RPN-2.89                          88671,151017
 Acme-PrettyCure-0.1                     https://github.com/kan/p5-acme-prettycure/issues/5
 Acme-Study-Perl-0.0.2                   https://github.com/Test-More/test-more/issues/487
 File-Rsync-0.44                         38938 (this is about 0.43 but maybe also about 0.44?)
