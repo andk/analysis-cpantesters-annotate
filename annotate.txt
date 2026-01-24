@@ -8767,3 +8767,4 @@ JQ-Lite-2.26                            172824
 Class-XSConstructor-0.023001            172826,172853
 ExtUtils-XSOne-0.02                     172854
 At-1.0                                  https://github.com/sanko/At.pm/issues/2
+CLI-Cmdline-1.25                        https://github.com/HansH111/CLI-Cmdline.pm/issues/1
