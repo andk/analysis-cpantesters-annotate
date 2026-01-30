@@ -8380,7 +8380,7 @@ Data-Reuse-0.13                         163977
 Lab-Measurement-3.930                   https://github.com/lab-measurement/Lab-Measurement/issues/90
 CAD-OpenSCAD-0.13                       164048
 Perlanet-v3.3.4                         https://github.com/davorg-cpan/perlanet/issues/37
-SPVM-MIME-Base64-1.003                  164049
+SPVM-MIME-Base64-1.005                  164049
 Perl-Lexer-0.38                         https://github.com/tokuhirom/Perl-Lexer/issues/14
 DBIx-TempDB-0.16                        https://github.com/jhthorsen/dbix-tempdb/issues/10
 qbit-2.8                                164092
