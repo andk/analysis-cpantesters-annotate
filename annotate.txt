@@ -8774,3 +8774,4 @@ Hypersonic-0.11                         172982
 XS-JIT-0.14                             172983,172992
 Beam-Wire-1.028                         https://github.com/preaction/Beam-Wire/issues/88
 Sub-HandlesVia-XS-0.002000              172991
+CPAN-Meta-2.150012                      172996
