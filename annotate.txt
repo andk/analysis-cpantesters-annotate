@@ -8776,3 +8776,4 @@ Beam-Wire-1.028                         https://github.com/preaction/Beam-Wire/i
 Sub-HandlesVia-XS-0.002000              172991
 CPAN-Meta-2.150012                      172996
 App-optex-up-1.05                       172997
+App-optex-1.0601                        https://github.com/kaz-utashiro/optex/issues/8
