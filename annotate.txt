@@ -8772,3 +8772,4 @@ Time-Spec-0.006                         https://github.com/Leont/time-spec/issue
 Object-Meta-1.1.1                       https://github.com/bodo-hugo-barwich/object-meta/issues/6
 Hypersonic-0.11                         172982
 XS-JIT-0.13                             172983
+Beam-Wire-1.028                         https://github.com/preaction/Beam-Wire/issues/88
