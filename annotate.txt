@@ -8773,3 +8773,4 @@ Object-Meta-1.1.1                       https://github.com/bodo-hugo-barwich/obj
 Hypersonic-0.11                         172982
 XS-JIT-0.13                             172983
 Beam-Wire-1.028                         https://github.com/preaction/Beam-Wire/issues/88
+Sub-HandlesVia-XS-0.002000              172991
