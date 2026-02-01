@@ -8779,3 +8779,4 @@ App-optex-up-1.05                       172997
 App-optex-1.0601                        https://github.com/kaz-utashiro/optex/issues/8
 JSON-WebToken-0.10                      https://github.com/xaicron/p5-JSON-WebToken/issues/16
 Types-Capabilities-0.004000             https://github.com/tobyink/p5-types-capabilities/issues/1
+Hash-Util-Set-XS-0.06                   https://github.com/chansen/p5-hash-util-set-xs/issues/1
