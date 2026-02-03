@@ -8784,3 +8784,4 @@ Sub-HandlesVia-XS-0.003000              https://github.com/tobyink/p5-sub-handle
 Text-ANSI-Fold-Util-1.05                https://github.com/tecolicom/Text-ANSI-Fold-Util/issues/1
 Devel-CallParser-0.002                  147376
 PAGI-0.001016                           https://github.com/jjn1056/pagi/issues/34
+Filename-Media-Info-0.002               173035
