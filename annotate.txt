@@ -8790,3 +8790,4 @@ Git-Server-0.036                        173041
 IO-Trace-0.023                          173042
 SPVM-HTTP-Tiny-0.016                    173043
 Ancient-0.17                            173044
+Sub-HandlesVia-0.053004                 https://github.com/tobyink/p5-sub-handlesvia/issues/21
