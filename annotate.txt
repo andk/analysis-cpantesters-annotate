@@ -8780,3 +8780,4 @@ App-optex-1.0601                        https://github.com/kaz-utashiro/optex/is
 JSON-WebToken-0.10                      https://github.com/xaicron/p5-JSON-WebToken/issues/16
 Types-Capabilities-0.004000             https://github.com/tobyink/p5-types-capabilities/issues/1
 Hash-Util-Set-XS-0.06                   https://github.com/chansen/p5-hash-util-set-xs/issues/1
+Sub-HandlesVia-XS-0.003000              https://github.com/tobyink/p5-sub-handlesvia-xs/issues/1
