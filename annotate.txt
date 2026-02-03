@@ -8782,3 +8782,4 @@ Types-Capabilities-0.004000             https://github.com/tobyink/p5-types-capa
 Hash-Util-Set-XS-0.06                   https://github.com/chansen/p5-hash-util-set-xs/issues/1
 Sub-HandlesVia-XS-0.003000              https://github.com/tobyink/p5-sub-handlesvia-xs/issues/1
 Text-ANSI-Fold-Util-1.05                https://github.com/tecolicom/Text-ANSI-Fold-Util/issues/1
+Devel-CallParser-0.002                  147376
