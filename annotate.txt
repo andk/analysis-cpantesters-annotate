@@ -8793,3 +8793,4 @@ Ancient-0.17                            173044
 Sub-HandlesVia-0.053004                 https://github.com/tobyink/p5-sub-handlesvia/issues/21
 URI-Shortener-1.005                     https://github.com/Troglodyne-Internet-Widgets/URI-Shorten/issues/1
 libintl-perl-1.36                       173097
+Graphics-Layout-Kiwisolver-0.002        173106
