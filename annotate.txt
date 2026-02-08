@@ -8755,7 +8755,7 @@ MooX-XSConstructor-0.003000             172711
 Data-Filter-Abstract-0.005              172763
 IO-Async-0.805                          172790
 Marlin-Antlers-0.003000                 https://github.com/tobyink/p5-marlin-antlers/issues/1
-DBIx-Class-Async-0.52                   https://github.com/manwar/DBIx-Class-Async/issues/4,https://github.com/manwar/DBIx-Class-Async/issues/5,https://github.com/manwar/DBIx-Class-Async/issues/9
+DBIx-Class-Async-0.55                   https://github.com/manwar/DBIx-Class-Async/issues/4,https://github.com/manwar/DBIx-Class-Async/issues/5,https://github.com/manwar/DBIx-Class-Async/issues/9
 Future-Batch-XS-0.03                    172815
 Future-IO-Impl-Glib-0.03                172816
 Future-IO-Impl-Ppoll-0.03               172817
