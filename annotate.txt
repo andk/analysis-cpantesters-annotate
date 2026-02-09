@@ -8794,3 +8794,4 @@ Sub-HandlesVia-0.053004                 https://github.com/tobyink/p5-sub-handle
 URI-Shortener-1.005                     https://github.com/Troglodyne-Internet-Widgets/URI-Shorten/issues/1
 libintl-perl-1.36                       173097
 Graphics-Layout-Kiwisolver-0.002        173106
+Intertangle-API-Kiwisolver-0.001        173110
