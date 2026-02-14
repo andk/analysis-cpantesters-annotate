@@ -8795,3 +8795,4 @@ URI-Shortener-1.005                     https://github.com/Troglodyne-Internet-W
 libintl-perl-1.36                       173097
 Graphics-Layout-Kiwisolver-0.002        173106
 Intertangle-API-Kiwisolver-0.001        173110
+LWP-Protocol-https-6.14                 https://github.com/libwww-perl/LWP-Protocol-https/issues/80
