@@ -8453,7 +8453,7 @@ Term-Maze-0.01                          167823
 WWW-Noss-1.03                           https://codeberg.org/1-1sam/noss/issues/2
 App-BS-0                                167834
 Daje-Plugin-Apploader-0.01              https://github.com/janeskil1525/Daje-Plugin-Apploader/issues/1
-Daje-Tools-JWT-0.01                     https://github.com/janeskil1525/Daje-Tools-JWT/issues/1
+Daje-Tools-JWT-0.10                     https://github.com/janeskil1525/Daje-Tools-JWT/issues/1
 Lemonldap-NG-Common-2.21.3              https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng/-/issues/3422
 Locale-Places-0.16                      https://github.com/nigelhorne/Locale-Places/issues/13
 SPVM-Mojolicious-0.016                  167835
