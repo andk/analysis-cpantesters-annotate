@@ -8764,7 +8764,7 @@ Marlin-0.022000                         https://github.com/tobyink/p5-marlin/iss
 Term-ANSIEncode-1.88                    172821
 HTTP-Cookies-Mozilla-2.036              172823
 JQ-Lite-2.33                            172824
-Class-XSConstructor-0.023004            172826,172853
+Class-XSConstructor-0.023006            172826,172853
 ExtUtils-XSOne-0.02                     172854
 At-1.0                                  https://github.com/sanko/At.pm/issues/2
 CLI-Cmdline-1.25                        https://github.com/HansH111/CLI-Cmdline.pm/issues/1
