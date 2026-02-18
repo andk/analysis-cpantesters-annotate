@@ -8798,3 +8798,4 @@ Intertangle-API-Kiwisolver-0.001        173110
 LWP-Protocol-https-6.14                 https://github.com/libwww-perl/LWP-Protocol-https/issues/80
 Google-RestApi-2.1.0                    173217
 JE-0.066                                172287,https://github.com/Perl/perl5/issues/24009
+EBook-Ishmael-2.00                      https://codeberg.org/1-1sam/ishmael/issues/7
