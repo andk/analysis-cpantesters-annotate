@@ -8801,3 +8801,4 @@ JE-0.066                                172287,https://github.com/Perl/perl5/iss
 EBook-Ishmael-2.00                      https://codeberg.org/1-1sam/ishmael/issues/7
 Mo-utils-Number-0.09                    https://github.com/michal-josef-spacek/Mo-utils-Number/issues/1
 Yote-SQLObjectStore-0.04                173377
+DBD-Mock-Session-GenerateFixtures-1     https://github.com/DragosTrif/DBD-Fixtures/issues/1
