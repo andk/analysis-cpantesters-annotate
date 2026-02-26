@@ -8572,7 +8572,7 @@ Cookie-v0.3.8                           https://gitlab.com/jackdeguest/Cookie/-/
 HTTP-Promise-v0.5.3                     https://gitlab.com/jackdeguest/HTTP-Promise/-/issues/5
 App-rdapper-1.18                        https://github.com/gbxyz/rdapper/issues/19
 Data-HexConverter-0.04                  168532
-SPVM-Net-SSLeay-0.042                   168533
+SPVM-Net-SSLeay-0.043                   168533
 Net-RDAP-0.40                           https://github.com/gbxyz/perl-net-rdap/issues/15
 Sys-Export-0.001                        https://github.com/nrdvana/perl-Sys-Export/issues/1
 Net-Proxmox-VE-0.41                     https://github.com/djzort/proxmox-ve-api-perl/issues/33
