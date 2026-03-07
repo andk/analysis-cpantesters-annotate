@@ -8806,3 +8806,4 @@ GD-Persian-0.9                          https://github.com/Perl/perl5/issues/242
 Langertha-0.302                         https://github.com/Getty/langertha/issues/1
 Container-Builder-0.08                  https://github.com/adriaandens/Container-Builder/issues/1
 Feersum-1.506_13                        173576
+Config-Model-2.158                      https://github.com/dod38fr/config-model/issues/36
