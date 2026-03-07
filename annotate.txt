@@ -8808,4 +8808,4 @@ Container-Builder-0.08                  https://github.com/adriaandens/Container
 Feersum-1.506_13                        173576
 Config-Model-2.158                      https://github.com/dod38fr/config-model/issues/36
 Config-Model-Itself-2.026               https://github.com/dod38fr/config-model-itself/issues/8
-Data-ZPath-0.001000                     https://github.com/tobyink/p5-data-zpath/issues/22
+Data-ZPath-0.001000                     https://github.com/tobyink/p5-data-zpath/issues/22,https://github.com/tobyink/p5-data-zpath/issues/23
