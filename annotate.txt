@@ -8811,3 +8811,4 @@ Config-Model-Itself-2.026               https://github.com/dod38fr/config-model-
 Data-ZPath-0.001000                     https://github.com/tobyink/p5-data-zpath/issues/22,https://github.com/tobyink/p5-data-zpath/issues/23
 IO-Socket-HappyEyeballs-0.002           https://github.com/Getty/p5-io-socket-happyeyeballs/issues/1
 MCP-K8s-0.002                           https://github.com/Getty/p5-mcp-k8s/issues/1
+Claude-Agent-0.13                       172985
