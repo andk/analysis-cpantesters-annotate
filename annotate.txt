@@ -8803,7 +8803,7 @@ Mo-utils-Number-0.09                    https://github.com/michal-josef-spacek/M
 Yote-SQLObjectStore-0.05                173377
 DBD-Mock-Session-GenerateFixtures-1     https://github.com/DragosTrif/DBD-Fixtures/issues/1
 GD-Persian-0.9                          https://github.com/Perl/perl5/issues/24231
-Langertha-0.304                         https://github.com/Getty/langertha/issues/1
+Langertha-0.305                         https://github.com/Getty/langertha/issues/1
 Container-Builder-0.08                  https://github.com/adriaandens/Container-Builder/issues/1
 Feersum-1.506_13                        173576
 Config-Model-2.158                      https://github.com/dod38fr/config-model/issues/36
