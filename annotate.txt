@@ -8818,3 +8818,4 @@ SPVM-Compress-Raw-Zlib-0.008            173708
 SPVM-Unicode-Normalize-0.009            173709
 DBIx-Class-MockData-0.02                https://github.com/manwar/DBIx-Class-MockData/issues/1
 Module-Generic-v1.2.2                   https://gitlab.com/jackdeguest/Module-Generic/-/issues/16
+IO-K8s-1.008                            https://github.com/pplu/io-k8s-p5/issues/6
