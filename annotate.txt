@@ -8826,3 +8826,4 @@ Business-NAB-0.03                       173719
 Loop-Util-0.001000                      173721
 Finance-Currency-Convert-BCA-0.156      173741
 DBIx-Class-MockData-0.03                https://github.com/manwar/DBIx-Class-MockData/issues/2
+Pod-Example-0.15                        https://github.com/michal-josef-spacek/Pod-Example/issues/1
