@@ -8828,3 +8828,4 @@ Finance-Currency-Convert-BCA-0.156      173741
 DBIx-Class-MockData-0.03                https://github.com/manwar/DBIx-Class-MockData/issues/2
 Pod-Example-0.15                        https://github.com/michal-josef-spacek/Pod-Example/issues/1
 Linux-Event-Fork-0.007                  https://github.com/haxmeister/perl-linux-event-fork/issues/1
+Acme-ExtUtils-XSOne-Test-Calculator-0.01 173772
