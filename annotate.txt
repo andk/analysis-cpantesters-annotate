@@ -8833,3 +8833,4 @@ DBD-Pg-3.19.0                           https://github.com/bucardo/dbdpg/issues/
 Data-NestedKey-1.0.7                    https://github.com/rlauer6/data-nestedkey/issues/1
 EV-Pg-0.02                              https://github.com/vividsnow/perl5-ev-pg/issues/1
 JSON-Schema-Modern-0.633                https://github.com/karenetheridge/JSON-Schema-Modern/issues/98
+Mojo-File-ChangeNotify-0.03             https://github.com/Corion/Mojo-File-ChangeNotify/issues/1
