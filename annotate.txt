@@ -8837,3 +8837,4 @@ Mojo-File-ChangeNotify-0.03             https://github.com/Corion/Mojo-File-Chan
 XML-PugiXML-0.02                        https://github.com/vividsnow/perl5-xml-pugixml/issues/1
 Data-HashMap-0.03                       173777
 Remote-Perl-0.004                       173778
+App-mailmake-v0.1.2                     https://gitlab.com/jackdeguest/App-mailmake/-/work_items/2
