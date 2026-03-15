@@ -8830,3 +8830,4 @@ Pod-Example-0.15                        https://github.com/michal-josef-spacek/P
 Linux-Event-Fork-0.007                  https://github.com/haxmeister/perl-linux-event-fork/issues/1
 Acme-ExtUtils-XSOne-Test-Calculator-0.01 173772
 DBD-Pg-3.19.0                           https://github.com/bucardo/dbdpg/issues/169
+Data-NestedKey-1.0.7                    https://github.com/rlauer6/data-nestedkey/issues/1
