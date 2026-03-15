@@ -8829,3 +8829,4 @@ DBIx-Class-MockData-0.03                https://github.com/manwar/DBIx-Class-Moc
 Pod-Example-0.15                        https://github.com/michal-josef-spacek/Pod-Example/issues/1
 Linux-Event-Fork-0.007                  https://github.com/haxmeister/perl-linux-event-fork/issues/1
 Acme-ExtUtils-XSOne-Test-Calculator-0.01 173772
+DBD-Pg-3.19.0                           https://github.com/bucardo/dbdpg/issues/169
