@@ -8840,3 +8840,4 @@ Remote-Perl-0.004                       173778
 App-mailmake-v0.1.2                     https://gitlab.com/jackdeguest/App-mailmake/-/work_items/2
 WWW-VastAI-0.001                        https://github.com/Getty/p5-www-vastai/issues/1
 HTTP-XSHeaders-0.500000                 https://github.com/p5pclub/http-xsheaders/issues/15
+Linux-Event-Stream-0.002                173784
