@@ -2923,7 +2923,7 @@ Kwiki-OpenSearch-0.02                   121995
 Kwiki-PageInclude-0.02                  121996
 Kwiki-Prototype-0.01                    57880
 Mail-Message-Attachment-Stripper-1.01   121997
-Kwiki-Edit-AdvisoryLock-0.01            57880
+Kwiki-Edit-AdvisoryLock-0.01            57879
 Kwiki-Edit-ContentionManagement-0.01    57880
 Kwiki-Formatter-Note-0.01               57880
 Kwiki-QuickWAFL-0.02                    57880
