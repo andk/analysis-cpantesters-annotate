@@ -8843,3 +8843,4 @@ HTTP-XSHeaders-0.500000                 https://github.com/p5pclub/http-xsheader
 Linux-Event-Stream-0.002                173784
 Acme-JWT-0.04                           173789
 App-CPAN-Dependents-1.001               https://github.com/Grinnz/App-CPAN-Dependents/issues/1
+WebService-Async-Segment-0.001          173863
