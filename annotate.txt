@@ -8846,3 +8846,4 @@ App-CPAN-Dependents-1.001               https://github.com/Grinnz/App-CPAN-Depen
 WebService-Async-Segment-0.001          173863
 DBIx-SearchBuilder-1.83                 173881
 IO-AsyncX-Sendfile-0.003                173882
+XML-Parser-2.49                         https://github.com/cpan-authors/XML-Parser/issues/174
