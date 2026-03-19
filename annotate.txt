@@ -8818,7 +8818,7 @@ SPVM-Compress-Raw-Zlib-0.008            173708
 SPVM-Unicode-Normalize-0.009            173709
 DBIx-Class-MockData-0.02                https://github.com/manwar/DBIx-Class-MockData/issues/1
 Module-Generic-v1.2.2                   https://gitlab.com/jackdeguest/Module-Generic/-/issues/16
-IO-K8s-1.008                            https://github.com/pplu/io-k8s-p5/issues/6
+IO-K8s-1.009                            https://github.com/pplu/io-k8s-p5/issues/6
 App-mailmake-v0.1.1                     https://gitlab.com/jackdeguest/App-mailmake/-/work_items/1
 Device-Chip-SSD1306-0.15                173717
 DeyeCloud-Client-0.0.2                  173718
