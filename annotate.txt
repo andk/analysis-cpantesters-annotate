@@ -8852,3 +8852,4 @@ App-karr-0.003                          https://github.com/Getty/p5-app-karr/iss
 CXC-PDL-Bin1D-0.28                      173918
 IO-Stty-0.05                            https://github.com/cpan-authors/IO-Stty/issues/16
 PlackX-Framework-0.26                   https://github.com/dstroma/PlackX-Framework/issues/1
+Dancer2-2.1.0                           https://github.com/PerlDancer/Dancer2/issues/1787
