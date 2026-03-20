@@ -8850,3 +8850,4 @@ XML-Parser-2.49                         https://github.com/cpan-authors/XML-Pars
 Music-Percussion-Tabla-0.0704           173907
 App-karr-0.003                          https://github.com/Getty/p5-app-karr/issues/1
 CXC-PDL-Bin1D-0.28                      173918
+IO-Stty-0.05                            https://github.com/cpan-authors/IO-Stty/issues/16
