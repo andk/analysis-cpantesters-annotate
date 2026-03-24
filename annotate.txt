@@ -8831,7 +8831,7 @@ Linux-Event-Fork-0.007                  https://github.com/haxmeister/perl-linux
 Acme-ExtUtils-XSOne-Test-Calculator-0.01 173772
 DBD-Pg-3.19.0                           https://github.com/bucardo/dbdpg/issues/169
 Data-NestedKey-1.0.7                    https://github.com/rlauer6/data-nestedkey/issues/1
-EV-Pg-0.03                              https://github.com/vividsnow/perl5-ev-pg/issues/1
+EV-Pg-0.04                              https://github.com/vividsnow/perl5-ev-pg/issues/1
 JSON-Schema-Modern-0.633                https://github.com/karenetheridge/JSON-Schema-Modern/issues/98
 Mojo-File-ChangeNotify-0.03             https://github.com/Corion/Mojo-File-ChangeNotify/issues/1,https://github.com/Corion/Mojo-File-ChangeNotify/issues/2
 XML-PugiXML-0.02                        https://github.com/vividsnow/perl5-xml-pugixml/issues/1
