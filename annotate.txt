@@ -8856,3 +8856,4 @@ Dancer2-2.1.0                           https://github.com/PerlDancer/Dancer2/is
 Apache-LogFormat-Compiler-0.36          https://github.com/kazeburo/Apache-LogFormat-Compiler/issues/17
 YAML-Syck-1.38                          https://github.com/cpan-authors/YAML-Syck/issues/138
 Crypt-Bear-0.003                        https://github.com/Leont/crypt-bear/issues/3
+Text-VimColor-0.29                      173992
