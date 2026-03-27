@@ -5369,7 +5369,7 @@ Pod-Site-0.56                           https://github.com/perl-pod/pod-site/iss
 Test-Fixture-DBI-0.09                   https://github.com/zigorou/p5-test-fixture-dbi/issues/6
 Bio-Cigar-1.01                          https://github.com/MullinsLab/Bio-Cigar/issues/1
 Config-UCL-0.05                         131765
-Lingua-RUS-Number-0.2603230             131766
+Lingua-RUS-Number-0.2603260             131766
 OpenTracing-Implementation-DataDog-0.02 131767,131768
 QMake-Project-0.85                      131769
 Forecast-IO-0.21                        86798
