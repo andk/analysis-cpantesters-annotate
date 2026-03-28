@@ -6766,7 +6766,7 @@ Plack-App-Data-Printer-0.02             https://github.com/michal-josef-spacek/P
 Games-Dice-Loaded-0.002                 142198
 Graph-SocialMap-0.12                    142255
 Log-OK-v0.1.0                           142261
-NIST-NVD-1.02.01                        142268
+NIST-NVD-1.02.01                        142268,150949,174343
 Math-Geometry-Voronoi-1.3               142277
 DBIx-SchemaChecksum-1.104               https://github.com/domm/DBIx-SchemaChecksum/issues/5
 Code-TidyAll-0.82                       https://github.com/houseabsolute/perl-code-tidyall/issues/112,https://github.com/houseabsolute/perl-code-tidyall/issues/113
@@ -7492,7 +7492,6 @@ Web-Request-0.11                        https://github.com/doy/web-request/issue
 WebService-Rollbar-Notifier-1.002010    https://github.com/zoffixznet/WebService-Rollbar-Notifier/issues/14
 IO-Async-SSL-0.25                       150945
 YAMLScript-Lingy-0.2.1                  https://github.com/ingydotnet/yamlscript-lingy-pm/issues/1
-NIST-NVD-1.02.01                        150949
 App-perlvars-0.000004                   https://github.com/perl-ide/App-perlvars/issues/4
 SDL-2.548                               https://github.com/PerlGameDev/SDL/issues/303
 Bloom16-0.01                            147667,150951
