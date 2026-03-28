@@ -8862,3 +8862,4 @@ Marketplace-Ebay-0.200                  174379
 Net-DNS-SPF-Expander-0.021              https://github.com/amiri/Net-DNS-SPF-Expander/issues/9
 Parse-Syslog-Line-6.2                   https://github.com/reyjrar/Parse-Syslog-Line/issues/22
 Loo-0.08                                174380,174381
+Sledge-Plugin-JSON-0.01                 66911
