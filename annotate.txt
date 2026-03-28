@@ -8857,3 +8857,4 @@ YAML-Syck-1.38                          https://github.com/cpan-authors/YAML-Syc
 Crypt-Bear-0.003                        https://github.com/Leont/crypt-bear/issues/3
 Text-VimColor-0.29                      173992
 Data-HashMap-Shared-0.02                174288
+Catalyst-Plugin-PageCache-0.32          174378
