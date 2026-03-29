@@ -4374,7 +4374,7 @@ Reconcile-Accounts-Vin-1.03             129050
 Lingua-EN-Phoneme-0.01                  129051,46605,129439
 Sailthru-Client-2.3.0                   112895
 tkShortcuts-1.00a                       129052
-XML-Literal-0.02                        129053
+XML-Literal-0.02                        129053,174453
 Freq-0.22                               129054
 Email-Template-0.02                     129055
 Net-MSN-1.022                           129056
