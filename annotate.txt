@@ -8869,3 +8869,4 @@ Devel-NYTProf-6.15                      https://github.com/timbunce/devel-nytpro
 Developer-Dashboard-0.88                https://github.com/manif3station/developer-dashboard/issues/2
 Test2-Harness-2.000009                  https://github.com/Test-More/Test2-Harness/issues/363
 XML-RSS-LibXML-0.3105                   https://github.com/lestrrat-p5/XML-RSS-LibXML/issues/9
+Async-Microservice-0.08                 https://github.com/jozef/Async-Microservice/issues/2
