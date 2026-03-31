@@ -8876,3 +8876,4 @@ IPC-Run-20260322.0                      https://github.com/cpan-authors/IPC-Run/
 Lingua-RUS-Num2Word-0.2603300           174513
 NKC-Transform-BIBFRAME2MARC-0.05        174514
 NKC-Transform-MARC2BIBFRAME-0.04        https://github.com/michal-josef-spacek/NKC-Transform-MARC2BIBFRAME/issues/1
+Net-WebSocket-EVx-0.19                  174515
