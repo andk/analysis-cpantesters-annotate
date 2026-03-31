@@ -8866,3 +8866,4 @@ Sledge-Plugin-JSON-0.01                 66911
 IPC-Manager-0.000009                    https://github.com/exodist/IPC-Manager/issues/1
 App-prepare4release-0.01                https://github.com/neo1ite/prepare4release/issues/1
 Devel-NYTProf-6.15                      https://github.com/timbunce/devel-nytprof/issues/234
+Developer-Dashboard-0.88                https://github.com/manif3station/developer-dashboard/issues/2
