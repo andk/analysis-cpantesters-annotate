@@ -8396,7 +8396,7 @@ MIDI-Drummer-Tiny-0.6010                164350
 Unicode-Precis-Preparation-2025.004     164451
 SlapbirdAPM-Agent-CGI-0.02              https://github.com/mollusc-labs/slapbird/issues/22
 Map-Tube-Beijing-v0.12.5                164577
-DateTime-Locale-FromCLDR-v0.8.0         https://gitlab.com/jackdeguest/DateTime-Locale-FromCLDR/-/issues/3
+DateTime-Locale-FromCLDR-v0.8.0         https://gitlab.com/jackdeguest/DateTime-Locale-FromCLDR/-/issues/3,https://gitlab.com/jackdeguest/DateTime-Locale-FromCLDR/-/work_items/4
 App-Image-Generator-0.06                https://github.com/michal-josef-spacek/App-Image-Generator/issues/1,https://github.com/michal-josef-spacek/App-Image-Generator/issues/2
 Perl-Types-0.300                        https://gitlab.com/perl-types/perl-types/-/issues/2,https://gitlab.com/perl-types/perl-types/-/issues/3,https://gitlab.com/perl-types/perl-types/-/issues/4
 Test2-Plugin-DBBreak-0.200002           https://github.com/kcaran/Test2-Plugin-DBBreak/issues/1
@@ -8871,3 +8871,4 @@ Test2-Harness-2.000009                  https://github.com/Test-More/Test2-Harne
 XML-RSS-LibXML-0.3105                   https://github.com/lestrrat-p5/XML-RSS-LibXML/issues/9
 Async-Microservice-0.08                 https://github.com/jozef/Async-Microservice/issues/2
 Cookie-v0.3.10                          https://gitlab.com/jackdeguest/Cookie/-/work_items/5
+Getopt-Yath-2.000008                    https://github.com/Test-More/Getopt-Yath/issues/1
