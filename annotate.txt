@@ -8882,3 +8882,4 @@ YAML-PP-v0.39.0                         https://github.com/Perl/perl5/issues/243
 Dancer2-Template-Simple-2.0.0           174609,174610
 ClarID-Tools-0.03                       https://github.com/CNAG-Biomedical-Informatics/clarid-tools/issues/3
 Object-Proto-0.03                       174613
+Linux-Event-Listen-0.016                https://github.com/haxmeister/perl-linux-event-listen/issues/1
