@@ -8884,3 +8884,4 @@ ClarID-Tools-0.03                       https://github.com/CNAG-Biomedical-Infor
 Object-Proto-0.05                       174613
 Linux-Event-Listen-0.016                https://github.com/haxmeister/perl-linux-event-listen/issues/1
 NetBox-Client-0.1.7                     174625
+Text-Stencil-0.01                       https://github.com/vividsnow/perl5-text-stencil/issues/1
