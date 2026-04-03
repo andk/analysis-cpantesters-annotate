@@ -8879,3 +8879,4 @@ NKC-Transform-MARC2BIBFRAME-0.04        https://github.com/michal-josef-spacek/N
 Net-WebSocket-EVx-0.19                  174515
 PDF-Sign-0.01                           174516
 YAML-PP-v0.39.0                         https://github.com/Perl/perl5/issues/24302
+Dancer2-Template-Simple-2.0.0           174609
