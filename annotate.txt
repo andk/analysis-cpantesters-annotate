@@ -8861,7 +8861,7 @@ Catalyst-Plugin-PageCache-0.32          174378
 Marketplace-Ebay-0.200                  174379
 Net-DNS-SPF-Expander-0.021              https://github.com/amiri/Net-DNS-SPF-Expander/issues/9
 Parse-Syslog-Line-6.2                   https://github.com/reyjrar/Parse-Syslog-Line/issues/22
-Loo-0.08                                174380,174381
+Loo-0.10                                174381
 Sledge-Plugin-JSON-0.01                 66911
 IPC-Manager-0.000009                    https://github.com/exodist/IPC-Manager/issues/1
 App-prepare4release-0.01                https://github.com/neo1ite/prepare4release/issues/1
