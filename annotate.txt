@@ -8890,3 +8890,4 @@ Math-GMPf-0.54                          174627
 EV-Websockets-0.04                      174650
 Search-Xapian-1.2.25.6                  https://trac.xapian.org/ticket/851
 XS-JIT-0.15                             174651
+Lingua-LO-NLP-v1.0.3                    174653
