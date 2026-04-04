@@ -8889,3 +8889,4 @@ Legba-0.04                              174626
 Math-GMPf-0.54                          174627
 EV-Websockets-0.04                      174650
 Search-Xapian-1.2.25.6                  https://trac.xapian.org/ticket/851
+XS-JIT-0.15                             174651
