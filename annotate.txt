@@ -8892,3 +8892,4 @@ Search-Xapian-1.2.25.6                  https://trac.xapian.org/ticket/851
 XS-JIT-0.15                             174651
 Lingua-LO-NLP-v1.0.3                    174653
 EV-Websockets-0.05                      https://github.com/vividsnow/perl5-ev-websockets/issues/1
+Langertha-0.308                         https://github.com/Getty/langertha/issues/2
