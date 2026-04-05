@@ -8893,3 +8893,4 @@ XS-JIT-0.15                             174651
 Lingua-LO-NLP-v1.0.3                    174653
 EV-Websockets-0.05                      https://github.com/vividsnow/perl5-ev-websockets/issues/1
 Langertha-0.308                         https://github.com/Getty/langertha/issues/2
+Alien-libssh-0.001                      https://github.com/Getty/p5-alien-libssh/issues/1
