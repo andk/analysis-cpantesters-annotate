@@ -8901,3 +8901,4 @@ Chandra-0.13                            174903
 Chandra-Game-Tetris-0.02                174904
 Crypt-OpenSSL3-0.003                    174905
 IO-Uring-0.013                          https://github.com/Leont/io-uring/issues/6
+Net-CalDAVTalk-0.13                     174906
