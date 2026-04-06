@@ -8864,7 +8864,7 @@ Parse-Syslog-Line-6.2                   https://github.com/reyjrar/Parse-Syslog-
 Loo-0.10                                174381
 Sledge-Plugin-JSON-0.01                 66911
 IPC-Manager-0.000009                    https://github.com/exodist/IPC-Manager/issues/1
-App-prepare4release-0.01                https://github.com/neo1ite/prepare4release/issues/1
+App-prepare4release-0.02                https://github.com/neo1ite/prepare4release/issues/1
 Devel-NYTProf-6.15                      https://github.com/timbunce/devel-nytprof/issues/234
 Developer-Dashboard-1.33                https://github.com/manif3station/developer-dashboard/issues/2,https://github.com/manif3station/developer-dashboard/issues/3
 Test2-Harness-2.000009                  https://github.com/Test-More/Test2-Harness/issues/363
