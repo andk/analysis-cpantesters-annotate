@@ -8899,3 +8899,4 @@ Net-LibSSH-0.002                        https://github.com/Getty/p5-net-libssh/i
 Dios-0.002014                           174803
 Chandra-0.13                            174903
 Chandra-Game-Tetris-0.02                174904
+Crypt-OpenSSL3-0.003                    174905
