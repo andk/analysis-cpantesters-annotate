@@ -8897,7 +8897,7 @@ Alien-libssh-0.001                      https://github.com/Getty/p5-alien-libssh
 Object-Proto-Sugar-0.03                 174793
 Net-LibSSH-0.002                        https://github.com/Getty/p5-net-libssh/issues/1
 Dios-0.002014                           174803,https://github.com/Perl/perl5/issues/24338
-Chandra-0.13                            174903
+Chandra-0.14                            174903
 Chandra-Game-Tetris-0.02                174904
 Crypt-OpenSSL3-0.003                    174905
 IO-Uring-0.013                          https://github.com/Leont/io-uring/issues/6
