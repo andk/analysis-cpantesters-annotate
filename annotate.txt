@@ -8903,3 +8903,4 @@ Crypt-OpenSSL3-0.003                    174905
 IO-Uring-0.013                          https://github.com/Leont/io-uring/issues/6
 Net-CalDAVTalk-0.13                     174906
 Alien-DuckDB-0.03                       https://github.com/perigrin/Alien-DuckDB/issues/2,https://github.com/perigrin/Alien-DuckDB/issues/3
+App-Critique-0.05                       175027
