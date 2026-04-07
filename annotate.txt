@@ -8909,3 +8909,4 @@ App-RecordStream-4.0.25                 175030
 CPAN-Testers-Common-Article-0.47        175031
 Chandra-0.15                            175033
 Crypt-Perl-0.38                         175034
+DBD-DuckDB-0.16                         https://github.com/giterlizzi/perl-DBD-DuckDB/issues/53
