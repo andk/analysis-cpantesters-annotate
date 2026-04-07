@@ -8918,3 +8918,4 @@ Statistics-Basic-1.6611                 175044
 Timer-Simple-1.006                      175045
 Alien-Tidyp-v1.4.7                      175047
 BBS-Universal-0.023                     175049
+Math-Vector-Real-XS-0.10                154221
