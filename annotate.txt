@@ -8914,3 +8914,4 @@ HTTP-Promise-v0.7.3                     https://gitlab.com/jackdeguest/HTTP-Prom
 HackaMol-0.053                          175036
 Net-Routing-0.44                        175040
 Perinci-CmdLine-Lite-1.929              175043
+Statistics-Basic-1.6611                 175044
