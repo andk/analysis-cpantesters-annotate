@@ -8905,3 +8905,4 @@ Net-CalDAVTalk-0.13                     174906
 Alien-DuckDB-0.03                       https://github.com/perigrin/Alien-DuckDB/issues/2,https://github.com/perigrin/Alien-DuckDB/issues/3
 App-Critique-0.05                       175027
 App-Licensecheck-v3.3.10                175029
+App-RecordStream-4.0.25                 175030
