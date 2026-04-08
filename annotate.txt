@@ -8921,3 +8921,4 @@ BBS-Universal-0.023                     175049
 Math-Vector-Real-XS-0.10                154221
 SPVM-0.990156                           https://github.com/yuki-kimoto/SPVM/issues/856
 JSON-YY-0.01                            175093
+SPVM-Sys-0.564                          https://github.com/yuki-kimoto/SPVM-Sys/issues/111
