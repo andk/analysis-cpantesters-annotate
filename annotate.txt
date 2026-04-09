@@ -8863,7 +8863,7 @@ Net-DNS-SPF-Expander-0.021              https://github.com/amiri/Net-DNS-SPF-Exp
 Parse-Syslog-Line-6.2                   https://github.com/reyjrar/Parse-Syslog-Line/issues/22
 Loo-0.10                                174381
 Sledge-Plugin-JSON-0.01                 66911
-IPC-Manager-0.000013                    https://github.com/exodist/IPC-Manager/issues/1
+IPC-Manager-0.000014                    https://github.com/exodist/IPC-Manager/issues/1
 App-prepare4release-0.03                https://github.com/neo1ite/prepare4release/issues/1
 Devel-NYTProf-6.15                      https://github.com/timbunce/devel-nytprof/issues/234
 Developer-Dashboard-1.33                https://github.com/manif3station/developer-dashboard/issues/2,https://github.com/manif3station/developer-dashboard/issues/3
