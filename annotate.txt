@@ -8924,4 +8924,4 @@ JSON-YY-0.02                            175093
 SPVM-Sys-0.564                          https://github.com/yuki-kimoto/SPVM-Sys/issues/111
 Chandra-0.19                            175225
 Object-Proto-Sugar-0.04                 175226
-
+Future-IO-Resolver-0.04                 175315,175316,175317,175318
