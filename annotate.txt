@@ -8638,7 +8638,7 @@ Daje-Workflow-0.25                      https://github.com/janeskil1525/Daje-Wor
 DateTime-Format-RelativeTime-v0.2.0     https://gitlab.com/jackdeguest/DateTime-Format-RelativeTime/-/issues/2
 Filename-Timestamp-0.003                171024
 HTTP-Promise-v0.7.1                     https://gitlab.com/jackdeguest/HTTP-Promise/-/issues/5
-IO-Trace-0.024                          171025
+IO-Trace-0.025                          171025
 Lemonldap-NG-Common-2.22.0              https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng/-/issues/3489,https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng/-/issues/3490
 Matplotlib-Simple-0.02                  171026
 WebDyne-2.014                           171027
