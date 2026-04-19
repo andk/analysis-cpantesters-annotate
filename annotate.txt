@@ -8933,3 +8933,4 @@ DateTime-Format-Unicode-v0.3.0          https://gitlab.com/jackdeguest/DateTime-
 Google-RestApi-2.2.2                    176374,176375
 SPVM-0.990162                           https://github.com/yuki-kimoto/SPVM/issues/857
 SVGPDF-0.092                            https://github.com/sciurius/perl-SVGPDF/issues/13
+SimpleMock-0.04                         176376
