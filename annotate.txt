@@ -8934,3 +8934,4 @@ Google-RestApi-2.2.2                    176374,176375
 SPVM-0.990162                           https://github.com/yuki-kimoto/SPVM/issues/857,https://github.com/yuki-kimoto/SPVM/issues/856
 SVGPDF-0.092                            https://github.com/sciurius/perl-SVGPDF/issues/13
 SimpleMock-0.04                         176376
+Chandra-0.23                            176377
