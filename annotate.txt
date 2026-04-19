@@ -8928,3 +8928,4 @@ Future-IO-Resolver-0.04                 175315,175316,175317,175318
 Geo-Address-Parser-Country-0.02         175526
 Meetup-API-0.02                         https://github.com/Corion/Meetup-API/issues/3
 Email-Abuse-Investigator-0.07           176347
+Convert-Pheno-0.31                      https://github.com/CNAG-Biomedical-Informatics/convert-pheno/issues/5
