@@ -8935,3 +8935,4 @@ SPVM-0.990162                           https://github.com/yuki-kimoto/SPVM/issu
 SVGPDF-0.092                            https://github.com/sciurius/perl-SVGPDF/issues/13
 SimpleMock-0.04                         176376
 Chandra-0.23                            176377
+Net-Async-Kubernetes-0.007              https://github.com/Getty/p5-net-async-kubernetes/issues/2
