@@ -8937,3 +8937,4 @@ SimpleMock-0.04                         176376
 Chandra-0.23                            176377
 Net-Async-Kubernetes-0.007              https://github.com/Getty/p5-net-async-kubernetes/issues/2
 Class-Mite-v0.1.1                       https://github.com/manwar/Class-Mite/issues/3
+NKC-Transform-BIBFRAME2MARC-0.07        https://github.com/michal-josef-spacek/NKC-Transform-BIBFRAME2MARC/issues/2
