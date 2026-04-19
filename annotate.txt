@@ -8553,7 +8553,7 @@ Net-OAuth-0.31                          168084
 PDL-Drawing-Prima-0.19                  168090
 Pod-L10N-1.08                           https://github.com/argrath/Pod-L10N/issues/5
 Data-OFN-Common-0.02                    https://github.com/michal-josef-spacek/Data-OFN-Common/issues/1
-SVGPDF-0.092                            https://github.com/sciurius/perl-SVGPDF/issues/11
+SVGPDF-0.091                            https://github.com/sciurius/perl-SVGPDF/issues/11
 Net-Async-ArtNet-0.04                   168153
 Mojo-File-Role-HomeDir-0.002            168156
 Mojo-File-Role-JSON-0.001               168157
@@ -8932,3 +8932,4 @@ Convert-Pheno-0.31                      https://github.com/CNAG-Biomedical-Infor
 DateTime-Format-Unicode-v0.3.0          https://gitlab.com/jackdeguest/DateTime-Format-Unicode/-/work_items/1
 Google-RestApi-2.2.2                    176374,176375
 SPVM-0.990162                           https://github.com/yuki-kimoto/SPVM/issues/857
+SVGPDF-0.092                            https://github.com/sciurius/perl-SVGPDF/issues/13
