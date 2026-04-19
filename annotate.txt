@@ -8941,3 +8941,4 @@ NKC-Transform-BIBFRAME2MARC-0.07        https://github.com/michal-josef-spacek/N
 Data-Pool-Shared-0.02                   176378
 SPVM-Resource-SQLite-0.003              176379
 Sort-DJB-0.2                            176380
+WebService-Bugzilla-0.001               https://github.com/djzort/perl-WebService-Bugzilla/issues/1
