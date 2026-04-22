@@ -8944,3 +8944,4 @@ Sort-DJB-0.2                            176380
 WebService-Bugzilla-0.001               https://github.com/djzort/perl-WebService-Bugzilla/issues/1
 App-aep-0.013                           176381
 Chart-v2.403.9                          174510
+Locale-Simple-0.108                     https://github.com/Getty/locale-simple/issues/4
