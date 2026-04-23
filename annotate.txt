@@ -8949,4 +8949,4 @@ SPVM-0.990165                           https://github.com/yuki-kimoto/SPVM/issu
 Async-Redis-0.001007                    https://github.com/jjn1056/Async-Redis/issues/11
 IO-Tty-1.28                             https://github.com/cpan-authors/IO-Tty/issues/87
 Locale-Unicode-Data-v1.8.2              https://gitlab.com/jackdeguest/Locale-Unicode-Data/-/work_items/5
-Crypt-OpenSSL-RSA-0.38                  https://github.com/cpan-authors/Crypt-OpenSSL-RSA/issues/174
+Crypt-OpenSSL-RSA-0.38                  https://github.com/cpan-authors/Crypt-OpenSSL-RSA/issues/174,https://github.com/cpan-authors/Crypt-OpenSSL-RSA/issues/175
