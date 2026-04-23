@@ -8948,3 +8948,4 @@ Locale-Simple-0.108                     https://github.com/Getty/locale-simple/i
 SPVM-0.990165                           https://github.com/yuki-kimoto/SPVM/issues/861
 Async-Redis-0.001007                    https://github.com/jjn1056/Async-Redis/issues/11
 IO-Tty-1.28                             https://github.com/cpan-authors/IO-Tty/issues/87
+Locale-Unicode-Data-v1.8.2              https://gitlab.com/jackdeguest/Locale-Unicode-Data/-/work_items/5
