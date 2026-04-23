@@ -8944,7 +8944,7 @@ Sort-DJB-0.2                            176380
 WebService-Bugzilla-0.001               https://github.com/djzort/perl-WebService-Bugzilla/issues/1
 App-aep-0.013                           176381
 Chart-v2.403.9                          174510
-Locale-Simple-0.108                     https://github.com/Getty/locale-simple/issues/4
+Locale-Simple-0.109                     https://github.com/Getty/locale-simple/issues/4
 SPVM-0.990165                           https://github.com/yuki-kimoto/SPVM/issues/861
 Async-Redis-0.001007                    https://github.com/jjn1056/Async-Redis/issues/11
 IO-Tty-1.28                             https://github.com/cpan-authors/IO-Tty/issues/87
