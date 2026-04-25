@@ -8951,3 +8951,4 @@ IO-Tty-1.28                             https://github.com/cpan-authors/IO-Tty/i
 Locale-Unicode-Data-v1.8.2              https://gitlab.com/jackdeguest/Locale-Unicode-Data/-/work_items/5
 Crypt-OpenSSL-RSA-0.38                  https://github.com/cpan-authors/Crypt-OpenSSL-RSA/issues/174,https://github.com/cpan-authors/Crypt-OpenSSL-RSA/issues/175
 Acme-ComeFrom-0.11                      172285
+Project-Euler-0.20                      https://github.com/cpan-authors/TimeDate/issues/125
