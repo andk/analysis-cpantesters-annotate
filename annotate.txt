@@ -8952,3 +8952,4 @@ Locale-Unicode-Data-v1.8.2              https://gitlab.com/jackdeguest/Locale-Un
 Crypt-OpenSSL-RSA-0.38                  https://github.com/cpan-authors/Crypt-OpenSSL-RSA/issues/174,https://github.com/cpan-authors/Crypt-OpenSSL-RSA/issues/175
 Acme-ComeFrom-0.11                      172285
 Project-Euler-0.20                      https://github.com/cpan-authors/TimeDate/issues/125,176785
+Package-Subroutine-v0.23.1              176870
