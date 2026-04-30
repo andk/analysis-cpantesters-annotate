@@ -8955,3 +8955,4 @@ Project-Euler-0.20                      https://github.com/cpan-authors/TimeDate
 Package-Subroutine-v0.23.1              176870
 Atomic-Pipe-0.028                       https://github.com/exodist/Atomic-Pipe/issues/4
 Command-Run-1.00                        https://github.com/tecolicom/Command-Run/issues/1
+IPC-Manager-Client-SharedMem-0.000027   https://github.com/exodist/IPC-Manager-Client-SharedMem/issues/1
