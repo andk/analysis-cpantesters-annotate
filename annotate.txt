@@ -8953,3 +8953,4 @@ Crypt-OpenSSL-RSA-0.38                  https://github.com/cpan-authors/Crypt-Op
 Acme-ComeFrom-0.11                      172285
 Project-Euler-0.20                      https://github.com/cpan-authors/TimeDate/issues/125,176785
 Package-Subroutine-v0.23.1              176870
+Atomic-Pipe-0.028                       https://github.com/exodist/Atomic-Pipe/issues/4
