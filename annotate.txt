@@ -8958,3 +8958,4 @@ Command-Run-1.00                        https://github.com/tecolicom/Command-Run
 IPC-Manager-Client-SharedMem-0.000027   https://github.com/exodist/IPC-Manager-Client-SharedMem/issues/1
 PAX-0.031                               https://github.com/manif3station/PAX/issues/1,https://github.com/manif3station/PAX/issues/3
 DateTime-Format-RelativeTime-v0.2.1     https://gitlab.com/jackdeguest/DateTime-Format-RelativeTime/-/work_items/3
+Compile-Generators-0.11                 172286
