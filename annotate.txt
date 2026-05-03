@@ -8960,3 +8960,4 @@ PAX-0.031                               https://github.com/manif3station/PAX/iss
 DateTime-Format-RelativeTime-v0.2.1     https://gitlab.com/jackdeguest/DateTime-Format-RelativeTime/-/work_items/3
 Compile-Generators-0.11                 172286
 Acme-Gosub-0.1.9                        https://github.com/shlomif/perl-acme-gosub/issues/1
+PerlX-AsyncAwait-0.001003               172290
