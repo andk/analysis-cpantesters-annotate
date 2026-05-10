@@ -8966,3 +8966,4 @@ Stancer-1.0.3                           https://gitlab.com/wearestancer/library/
 Archive-Lha-0.13                        https://github.com/nicomen/archive-lha/issues/1
 lazy-1.000001                           https://github.com/oalders/lazy/issues/36
 App-rdapper-1.25                        https://github.com/gbxyz/rdapper/issues/27
+File-Raw-JSON-0.01                      177496
