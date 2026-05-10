@@ -8969,3 +8969,4 @@ App-rdapper-1.25                        https://github.com/gbxyz/rdapper/issues/
 File-Raw-JSON-0.01                      177496
 Genealogy-Occupation-0.01               177497
 Hypersonic-0.13                         177498,177499
+Mojo-DOM-Role-AttrAccessors-0.001       177500
