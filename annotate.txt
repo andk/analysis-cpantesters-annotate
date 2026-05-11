@@ -8977,3 +8977,4 @@ OMOP-CSV-Validator-0.04                 https://github.com/CNAG-Biomedical-Infor
 Test-Mockingbird-0.10                   https://github.com/nigelhorne/Test-Mockingbird/issues/6
 BsDiPa-0.9.1                            177504
 Net-Ping-2.76                           https://github.com/rurban/Net-Ping/issues/34
+File-Raw-JSON-0.02                      177515
