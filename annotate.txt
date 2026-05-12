@@ -8981,3 +8981,4 @@ File-Raw-JSON-0.02                      177515
 Exception-ThrowUnless-1.12              117660
 Plack-Middleware-Static-Precompressed-1.002 177546
 Stats-LikeR-0.01                        https://github.com/hhg7/stats/issues/1,https://github.com/hhg7/stats/issues/2
+TOML-Tiny-0.21                          https://github.com/sysread/TOML-Tiny/issues/46
