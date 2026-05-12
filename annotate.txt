@@ -8979,3 +8979,4 @@ BsDiPa-0.9.1                            177504
 Net-Ping-2.76                           https://github.com/rurban/Net-Ping/issues/34
 File-Raw-JSON-0.02                      177515
 Exception-ThrowUnless-1.12              117660
+Plack-Middleware-Static-Precompressed-1.002 177546
