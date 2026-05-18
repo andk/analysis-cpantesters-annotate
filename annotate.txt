@@ -8968,7 +8968,7 @@ lazy-1.000001                           https://github.com/oalders/lazy/issues/3
 App-rdapper-1.25                        https://github.com/gbxyz/rdapper/issues/27
 File-Raw-JSON-0.01                      177496
 Genealogy-Occupation-0.01               177497
-Hypersonic-0.13                         177498,177499
+Hypersonic-0.14                         177498,177499
 Mojo-DOM-Role-AttrAccessors-0.001       177500,177501
 Alien-uPB-Core-0.20                     https://github.com/mbarbon/alien-upb/issues/8
 Google-ProtocolBuffers-Dynamic-0.43     https://github.com/mbarbon/google-protobuf-dynamic/issues/51
