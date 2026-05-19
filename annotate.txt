@@ -8986,3 +8986,4 @@ Cron-Toolkit-1.01                       https://github.com/nathanielgraham/cron-
 Net-RCON-Minecraft-0.04                 https://github.com/rjt-pl/Net-RCON-Minecraft/issues/1
 Genealogy-Relationship-Name-0.02        177649
 Stats-LikeR-0.05                        https://github.com/hhg7/stats/issues/3
+Chandra-0.25                            177742
