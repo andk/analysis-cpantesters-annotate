@@ -8993,3 +8993,4 @@ ClickHouse-Encoder-0.01                 https://github.com/vividsnow/perl5-click
 Log-Abstraction-0.29                    178070
 Catalyst-Plugin-OpenIDConnect-0.09      https://github.com/tfrayner/catalyst-plugin-openidconnect/issues/9
 SignalWire-2.0.2                        178113
+Cache-FastMmap-1.62                     https://github.com/robmueller/cache-fastmmap/issues/27
