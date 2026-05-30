@@ -8985,7 +8985,7 @@ TOML-Tiny-0.21                          https://github.com/sysread/TOML-Tiny/iss
 Cron-Toolkit-1.01                       https://github.com/nathanielgraham/cron-toolkit-perl/issues/2
 Net-RCON-Minecraft-0.04                 https://github.com/rjt-pl/Net-RCON-Minecraft/issues/1
 Genealogy-Relationship-Name-0.02        177649
-Stats-LikeR-0.07                        https://github.com/hhg7/stats/issues/3
+Stats-LikeR-0.08                        https://github.com/hhg7/stats/issues/3
 Chandra-0.25                            177742
 WWW-Shorten-URLchen-v0.0.4              177801
 Gears-0.102                             https://github.com/Thunderhorse-Framework/Gears/issues/1
