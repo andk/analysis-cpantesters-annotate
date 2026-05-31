@@ -8995,3 +8995,4 @@ Catalyst-Plugin-OpenIDConnect-0.09      https://github.com/tfrayner/catalyst-plu
 SignalWire-2.0.2                        178113
 Cache-FastMmap-1.62                     https://github.com/robmueller/cache-fastmmap/issues/27
 Zuzu-0.001001                           https://github.com/zuzuscript/zuzu-perl/issues/1
+Protocol-Tus-0.003                      https://codeberg.org/polettix/Protocol-Tus/issues/1
