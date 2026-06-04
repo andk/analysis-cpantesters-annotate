@@ -9000,3 +9000,4 @@ Catalyst-Plugin-OpenIDConnect-0.11      https://github.com/tfrayner/catalyst-plu
 Lemonldap-NG-Manager-2.23.0             https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng/-/work_items/3617
 Markdown-Simple-0.13                    178319
 JSON-YY-0.05                            178379
+XML-PugiXML-0.06                        https://github.com/vividsnow/perl5-xml-pugixml/issues/2
