@@ -9005,3 +9005,4 @@ OSPF-LSDB-1.19                          178427
 EV-cares-0.03                           https://github.com/vividsnow/perl5-ev-cares/issues/1
 Zuzu-0.001005                           https://github.com/zuzuscript/zuzu-perl/issues/2
 EV-ClickHouse-0.05                      https://github.com/vividsnow/perl5-ev-clickhouse/issues/1
+HTTP-Handy-1.06                         https://rt.cpan.org/Ticket/Display.html?id=178466
