@@ -9003,3 +9003,4 @@ JSON-YY-0.05                            178379
 XML-PugiXML-0.06                        https://github.com/vividsnow/perl5-xml-pugixml/issues/2
 OSPF-LSDB-1.19                          178427
 EV-cares-0.03                           https://github.com/vividsnow/perl5-ev-cares/issues/1
+Zuzu-0.001005                           https://github.com/zuzuscript/zuzu-perl/issues/2
