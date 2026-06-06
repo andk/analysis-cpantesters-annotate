@@ -9006,3 +9006,4 @@ EV-cares-0.03                           https://github.com/vividsnow/perl5-ev-ca
 Zuzu-0.001005                           https://github.com/zuzuscript/zuzu-perl/issues/2
 EV-ClickHouse-0.05                      https://github.com/vividsnow/perl5-ev-clickhouse/issues/1
 HTTP-Handy-1.06                         178466
+Sys-Export-0.004                        https://github.com/nrdvana/perl-Sys-Export/issues/2
