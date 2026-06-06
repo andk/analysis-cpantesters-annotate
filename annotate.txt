@@ -9011,3 +9011,4 @@ Object-Configure-0.21                   https://github.com/nigelhorne/Object-Con
 Photonic-0.024                          https://github.com/wlmb/Photonic/issues/26
 Tickit-0.77                             124668
 CBOR-XS-1.87                            178469
+JSON-Any-1.40                           deprecated
