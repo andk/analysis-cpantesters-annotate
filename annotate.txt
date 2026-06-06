@@ -9018,3 +9018,4 @@ Object-HashBase-0.016                   https://github.com/Test-More/Object-Hash
 WWW-MailboxOrg-0.100                    https://github.com/Getty/p5-www-mailboxorg/issues/1
 Mojolicious-Plugin-Statsd-0.06          https://github.com/robrwo/perl-Mojolicious-Plugin-Statsd/issues/1
 Audio-Nama-1.603                        178472
+Net-OpenSSH-More-1.01                   https://github.com/Troglodyne-Internet-Widgets/perl-Net-Openssh-More/issues/1
