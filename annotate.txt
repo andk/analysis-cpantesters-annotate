@@ -9010,3 +9010,4 @@ Sys-Export-0.004                        https://github.com/nrdvana/perl-Sys-Expo
 Object-Configure-0.21                   https://github.com/nigelhorne/Object-Configure/issues/4
 Photonic-0.024                          https://github.com/wlmb/Photonic/issues/26
 Tickit-0.77                             124668
+CBOR-XS-1.87                            178469
