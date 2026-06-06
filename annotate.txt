@@ -9015,3 +9015,4 @@ JSON-Any-1.40                           deprecated
 Git-Libgit2-0.004                       https://github.com/Getty/p5-git-libgit2/issues/1
 SIRTX-Font-v0.07                        178470
 Object-HashBase-0.016                   https://github.com/Test-More/Object-HashBase/issues/5
+WWW-MailboxOrg-0.100                    https://github.com/Getty/p5-www-mailboxorg/issues/1
