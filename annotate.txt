@@ -9016,3 +9016,4 @@ Git-Libgit2-0.004                       https://github.com/Getty/p5-git-libgit2/
 SIRTX-Font-v0.07                        178470
 Object-HashBase-0.016                   https://github.com/Test-More/Object-HashBase/issues/5
 WWW-MailboxOrg-0.100                    https://github.com/Getty/p5-www-mailboxorg/issues/1
+Mojolicious-Plugin-Statsd-0.06          https://github.com/robrwo/perl-Mojolicious-Plugin-Statsd/issues/1
