@@ -9021,3 +9021,4 @@ Audio-Nama-1.603                        178472
 Net-OpenSSH-More-1.01                   https://github.com/Troglodyne-Internet-Widgets/perl-Net-Openssh-More/issues/1
 Module-CPANTS-Analyse-1.02              https://github.com/cpants/Module-CPANTS-Analyse/issues/52
 DBD-CSV-0.62                            https://github.com/perl5-dbi/DBD-CSV/issues/12
+DBIx-Class-Schema-GraphQL-v0.0.2        https://github.com/manwar/DBIx-Class-Schema-GraphQL/issues/1
