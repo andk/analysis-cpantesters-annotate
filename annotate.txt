@@ -9020,3 +9020,4 @@ Mojolicious-Plugin-Statsd-0.06          https://github.com/robrwo/perl-Mojolicio
 Audio-Nama-1.603                        178472
 Net-OpenSSH-More-1.01                   https://github.com/Troglodyne-Internet-Widgets/perl-Net-Openssh-More/issues/1
 Module-CPANTS-Analyse-1.02              https://github.com/cpants/Module-CPANTS-Analyse/issues/52
+DBD-CSV-0.62                            https://github.com/perl5-dbi/DBD-CSV/issues/12
