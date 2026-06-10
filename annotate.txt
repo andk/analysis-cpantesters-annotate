@@ -9023,6 +9023,6 @@ Module-CPANTS-Analyse-1.02              https://github.com/cpants/Module-CPANTS-
 DBD-CSV-0.62                            https://github.com/perl5-dbi/DBD-CSV/issues/12
 DBIx-Class-Schema-GraphQL-v0.0.2        https://github.com/manwar/DBIx-Class-Schema-GraphQL/issues/1
 Sys-Export-0.005                        https://github.com/nrdvana/perl-Sys-Export/issues/3
-Zuzu-0.002000                           https://github.com/zuzuscript/zuzu-perl/issues/3
+Zuzu-0.003000                           https://github.com/zuzuscript/zuzu-perl/issues/3
 Tvh-Htsp-Client-0.03                    178569
 Cpanel-JSON-XS-4.42                     https://github.com/rurban/Cpanel-JSON-XS/issues/247
