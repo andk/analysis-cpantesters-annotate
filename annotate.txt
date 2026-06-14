@@ -9032,3 +9032,4 @@ Amazon-S3-Lite-1.1.5                    https://github.com/rlauer6/Amazon-S3-Lit
 Zuzu-0.004000                           https://github.com/zuzuscript/zuzu-perl/issues/4
 Email-Abuse-Investigator-0.10           https://github.com/nigelhorne/Email-Abuse-Investigator/issues/1
 Mojolicious-Plugin-Fondation-0.01       https://github.com/Dabg/Mojolicious-Plugin-Fondation/issues/1
+Params-Validate-Strict-0.34             https://github.com/nigelhorne/Params-Validate-Strict/issues/3
