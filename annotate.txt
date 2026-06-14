@@ -9034,3 +9034,4 @@ Email-Abuse-Investigator-0.10           https://github.com/nigelhorne/Email-Abus
 Mojolicious-Plugin-Fondation-0.01       https://github.com/Dabg/Mojolicious-Plugin-Fondation/issues/1
 Params-Validate-Strict-0.34             https://github.com/nigelhorne/Params-Validate-Strict/issues/3
 Test-Valgrind-1.19                      149286
+Protobuf-0.03                           https://rt.cpan.org/Ticket/Display.html?id=178734
