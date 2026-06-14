@@ -9035,3 +9035,4 @@ Mojolicious-Plugin-Fondation-0.01       https://github.com/Dabg/Mojolicious-Plug
 Params-Validate-Strict-0.34             https://github.com/nigelhorne/Params-Validate-Strict/issues/3
 Test-Valgrind-1.19                      149286
 Protobuf-0.03                           178734
+Mojo-PrettyTidy-0.02                    https://github.com/Harryb382003/PrettyTidy/issues/1
