@@ -8527,7 +8527,7 @@ Geo-Compass-Variation-1.06              https://github.com/stevieb9/geo-compass-
 LMDB_File-0.14                          167941
 HTML-HTMLDoc-0.22                       https://github.com/ericschernoff/HTMLDoc/issues/5
 WebService-Simple-0.25                  https://github.com/yusukebe/WebService-Simple/issues/10
-Business-KontoCheck-6.15                https://sourceforge.net/p/kontocheck/bugs/23/
+Business-KontoCheck-6.16                https://sourceforge.net/p/kontocheck/bugs/23/
 Time-Zone-Olson-0.46                    https://github.com/david-dick/time-zone-olson/issues/4
 UV-2.000                                https://github.com/p5-UV/p5-UV/issues/40
 WebService-GoogleAPI-Client-0.27        https://github.com/rabbiveesh/WebService-GoogleAPI-Client/issues/8
