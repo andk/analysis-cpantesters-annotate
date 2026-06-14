@@ -9028,3 +9028,4 @@ Tvh-Htsp-Client-0.03                    178569
 Cpanel-JSON-XS-4.42                     https://github.com/rurban/Cpanel-JSON-XS/issues/247
 Stats-LikeR-0.14                        https://github.com/hhg7/stats/issues/1
 Class-Abstract-0.02                     178677
+Amazon-S3-Lite-1.1.5                    https://github.com/rlauer6/Amazon-S3-Lite/issues/1
