@@ -8153,7 +8153,7 @@ Mojo-UserAgent-Role-TotalTimeout-v0.0.2 https://gitlab.com/karjala/mojo-useragen
 Test-Class-Moose-0.99                   https://github.com/houseabsolute/test-class-moose/issues/114
 App-LinkSite-0.0.13                     157067
 Crypt-Bear-0.001                        https://github.com/Leont/crypt-bear/issues/2
-Muster-0.9501                           157069
+Muster-0.96                             157069
 Module-ScanDeps-Static-1.005            157187
 Map-Tube-Plugin-FuzzyFind-v0.81.0       157188
 Object-Pad-0.817                        157189
