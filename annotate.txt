@@ -9045,3 +9045,4 @@ Email-Abuse-Investigator-0.11           https://github.com/nigelhorne/Email-Abus
 Time-Nanos-v0.1.2                       179601
 POSIX-RT-Timer-0.023                    https://github.com/Leont/posix-rt-timer/issues/2
 Params-Validate-Strict-0.34             179617
+Mojolicious-Plugin-BarefootJS-0.15.1    https://github.com/piconic-ai/barefootjs/issues/1958
