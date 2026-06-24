@@ -9047,3 +9047,4 @@ POSIX-RT-Timer-0.023                    https://github.com/Leont/posix-rt-timer/
 Params-Validate-Strict-0.34             179617
 Mojolicious-Plugin-BarefootJS-0.15.1    https://github.com/piconic-ai/barefootjs/issues/1958
 Template-Plugin-ForumCode-0.0.5         179635
+DBIO-0.900000                           https://codeberg.org/dbio/dbio/issues/4
