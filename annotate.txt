@@ -9050,3 +9050,4 @@ Template-Plugin-ForumCode-0.0.5         179635
 DBIO-0.900000                           https://codeberg.org/dbio/dbio/issues/4
 DBIO-Firebird-0.900000                  https://codeberg.org/dbio/dbio-firebird/issues/1
 DBIO-MSSQL-0.900000                     https://codeberg.org/dbio/dbio-mssql/issues/1
+DBIO-MySQL-0.900000                     https://codeberg.org/dbio/dbio-mysql/issues/1
