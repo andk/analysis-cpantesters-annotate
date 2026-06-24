@@ -9021,7 +9021,7 @@ Audio-Nama-1.603                        178472
 Net-OpenSSH-More-1.01                   https://github.com/Troglodyne-Internet-Widgets/perl-Net-Openssh-More/issues/1
 Module-CPANTS-Analyse-1.02              https://github.com/cpants/Module-CPANTS-Analyse/issues/52
 DBD-CSV-0.62                            https://github.com/perl5-dbi/DBD-CSV/issues/12
-DBIx-Class-Schema-GraphQL-v0.0.2        https://github.com/manwar/DBIx-Class-Schema-GraphQL/issues/1
+DBIx-Class-Schema-GraphQL-v0.0.3        https://github.com/manwar/DBIx-Class-Schema-GraphQL/issues/1
 Sys-Export-0.005                        https://github.com/nrdvana/perl-Sys-Export/issues/3
 Zuzu-0.003000                           https://github.com/zuzuscript/zuzu-perl/issues/3
 Tvh-Htsp-Client-0.03                    178569
