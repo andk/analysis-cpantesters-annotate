@@ -9052,3 +9052,4 @@ DBIO-Firebird-0.900000                  https://codeberg.org/dbio/dbio-firebird/
 DBIO-MSSQL-0.900000                     https://codeberg.org/dbio/dbio-mssql/issues/1
 DBIO-MySQL-0.900000                     https://codeberg.org/dbio/dbio-mysql/issues/1
 DBIO-PostgreSQL-0.900000                https://codeberg.org/dbio/dbio-postgresql/issues/1
+DBIO-SQLite-0.900000                    https://codeberg.org/dbio/dbio-sqlite/issues/1
