@@ -3859,7 +3859,7 @@ CPAN-Testers-Reports-Query-JSON-0.04    127749
 Data-FlexSerializer-1.10                127750
 DBD-SQLcipher-0.03_0019                 127751
 LaTeXML-Plugin-latexmls-1.4.3           127752
-JSON-Any-1.39                           127753
+JSON-Any-1.41                           127753
 POE-Component-Server-Bayeux-0.04        127754
 REST-Neo4p-0.3020                       https://rt.perl.org/rt3/Ticket/Display.html?id=132594,127755
 POE-Filter-JSON-Incr-0.03               117578,131348
