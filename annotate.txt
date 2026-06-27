@@ -9053,3 +9053,4 @@ DBIO-MSSQL-0.900000                     https://codeberg.org/dbio/dbio-mssql/iss
 DBIO-MySQL-0.900000                     https://codeberg.org/dbio/dbio-mysql/issues/1
 DBIO-PostgreSQL-0.900000                https://codeberg.org/dbio/dbio-postgresql/issues/1
 DBIO-SQLite-0.900000                    https://codeberg.org/dbio/dbio-sqlite/issues/1
+Config-IniFiles-3.002000                https://github.com/shlomif/perl-Config-IniFiles/issues/15
