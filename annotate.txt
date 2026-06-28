@@ -9062,3 +9062,4 @@ WWW-Google-Cloud-Auth-ServiceAccount-1.000002 https://github.com/larion/www-goog
 File-LibMagic-1.23                      https://github.com/houseabsolute/File-LibMagic/issues/31
 MCP-Run-0.103                           https://github.com/Getty/p5-mcp-run/issues/1
 Stats-LikeR-0.17                        https://github.com/hhg7/stats/issues/4
+PDF-Make-0.03                           179734
