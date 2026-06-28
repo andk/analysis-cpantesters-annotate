@@ -9056,3 +9056,4 @@ DBIO-SQLite-0.900000                    https://codeberg.org/dbio/dbio-sqlite/is
 Config-IniFiles-3.002000                https://github.com/shlomif/perl-Config-IniFiles/issues/15
 Net-Async-Crawl4AI-0.001                179729
 Net-Curl-0.58                           https://github.com/sparky/perl-Net-Curl/issues/90
+App-MechaCPAN-0.31                      https://github.com/atrodo/App-MechaCPAN/issues/26
