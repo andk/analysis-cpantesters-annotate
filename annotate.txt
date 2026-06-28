@@ -9054,3 +9054,4 @@ DBIO-MySQL-0.900000                     https://codeberg.org/dbio/dbio-mysql/iss
 DBIO-PostgreSQL-0.900000                https://codeberg.org/dbio/dbio-postgresql/issues/1
 DBIO-SQLite-0.900000                    https://codeberg.org/dbio/dbio-sqlite/issues/1
 Config-IniFiles-3.002000                https://github.com/shlomif/perl-Config-IniFiles/issues/15
+Net-Async-Crawl4AI-0.001                179729
