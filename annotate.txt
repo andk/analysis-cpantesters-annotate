@@ -9061,3 +9061,4 @@ Net-Async-MCP-0.002                     https://github.com/Getty/p5-net-async-mc
 WWW-Google-Cloud-Auth-ServiceAccount-1.000002 https://github.com/larion/www-google-cloud-auth-serviceaccount/issues/3
 File-LibMagic-1.23                      https://github.com/houseabsolute/File-LibMagic/issues/31
 MCP-Run-0.103                           https://github.com/Getty/p5-mcp-run/issues/1
+Stats-LikeR-0.17                        https://github.com/hhg7/stats/issues/4
