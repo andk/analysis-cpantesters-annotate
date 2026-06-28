@@ -9059,3 +9059,4 @@ Net-Curl-0.58                           https://github.com/sparky/perl-Net-Curl/
 App-MechaCPAN-0.31                      https://github.com/atrodo/App-MechaCPAN/issues/26
 Net-Async-MCP-0.002                     https://github.com/Getty/p5-net-async-mcp/issues/1
 WWW-Google-Cloud-Auth-ServiceAccount-1.000002 https://github.com/larion/www-google-cloud-auth-serviceaccount/issues/3
+File-LibMagic-1.23                      https://github.com/houseabsolute/File-LibMagic/issues/31
