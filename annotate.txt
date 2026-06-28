@@ -9058,3 +9058,4 @@ Net-Async-Crawl4AI-0.001                179729
 Net-Curl-0.58                           https://github.com/sparky/perl-Net-Curl/issues/90
 App-MechaCPAN-0.31                      https://github.com/atrodo/App-MechaCPAN/issues/26
 Net-Async-MCP-0.002                     https://github.com/Getty/p5-net-async-mcp/issues/1
+WWW-Google-Cloud-Auth-ServiceAccount-1.000002 https://github.com/larion/www-google-cloud-auth-serviceaccount/issues/3
