@@ -9064,3 +9064,4 @@ MCP-Run-0.103                           https://github.com/Getty/p5-mcp-run/issu
 Stats-LikeR-0.17                        https://github.com/hhg7/stats/issues/4
 PDF-Make-0.03                           179734
 Test-Mojo-Role-OpenAPI-Modern-0.012     https://github.com/karenetheridge/Test-Mojo-Role-OpenAPI-Modern/issues/6
+URI-ParseSearchString-More-0.19         https://github.com/oalders/uri-parsesearchstring-more/issues/16
