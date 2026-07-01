@@ -9070,3 +9070,4 @@ Acme-Insult-Evil-1.1                    179826
 Aion-Fs-0.2.4                           https://github.com/darviarush/perl-aion-fs/issues/1
 Alien-cargo-0.03                        https://github.com/PerlAlien/Alien-cargo/issues/4
 App-bcrypt-1.002                        https://github.com/briandfoy/app-bcrypt/issues/1
+Authen-SASL-XS-1.02                     https://github.com/perl-authen-sasl/perl-authen-sasl-xs/issues/6
