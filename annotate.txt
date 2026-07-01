@@ -8962,7 +8962,7 @@ Compile-Generators-0.11                 172286
 Acme-Gosub-0.1.9                        https://github.com/shlomif/perl-acme-gosub/issues/1
 PerlX-AsyncAwait-0.001003               172290
 Business-ISBN-3.013                     https://github.com/briandfoy/business-isbn/issues/27
-Stancer-1.0.3                           https://gitlab.com/wearestancer/library/lib-perl/-/work_items?sort=created_date&state=opened&first_page_size=20&show=eyJpaWQiOiIxIiwiZnVsbF9wYXRoIjoid2VhcmVzdGFuY2VyL2xpYnJhcnkvbGliLXBlcmwiLCJpZCI6MTg5NzUzMjg4fQ%3D%3D
+Stancer-1.0.3                           https://gitlab.com/wearestancer/library/lib-perl/-/work_items/1
 Archive-Lha-0.13                        https://github.com/nicomen/archive-lha/issues/1
 lazy-1.000001                           https://github.com/oalders/lazy/issues/36
 App-rdapper-1.25                        https://github.com/gbxyz/rdapper/issues/27
