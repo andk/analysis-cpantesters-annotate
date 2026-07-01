@@ -5086,7 +5086,7 @@ XML-Grammar-Fiction-0.18.2              131155
 MooseX-Types-Parameterizable-0.08       75119
 Plerd-1.811                             https://github.com/jmacdotorg/plerd/issues/42
 Crypt-MatrixSSL3-v3.9.2                 https://github.com/powerman/perl-Crypt-MatrixSSL3/issues/43
-RPM4-0.39                               131159
+RPM4-0.47                               131159
 Excel-Template-XLSX-v1.1.0              130912
 HTML-ExtractContent-0.12                https://github.com/tarao/perl5-HTML-ExtractContent/issues/4
 Mojo-File-Role-Digest-0.02              https://github.com/Tekki/mojo-file-role-digest/issues/3
