@@ -9073,3 +9073,4 @@ App-bcrypt-1.002                        https://github.com/briandfoy/app-bcrypt/
 Authen-SASL-XS-1.02                     https://github.com/perl-authen-sasl/perl-authen-sasl-xs/issues/6
 Amon2-Lite-0.13                         https://github.com/tokuhirom/Amon2-Lite/issues/7
 App-Sqitch-v1.6.1                       https://github.com/sqitchers/sqitch/issues/921
+CGI-Lingua-0.80                         https://github.com/nigelhorne/CGI-Lingua/issues/38
