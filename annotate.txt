@@ -4264,7 +4264,7 @@ Test-Nightly-0.03                       128798
 Test-AutoBuild-1.2.4                    95924
 Template-TAL-0.91                       128800
 Games-EveOnline-API-0.08                deprecated,https://github.com/bluefeet/Games-EveOnline-API/issues/6,https://github.com/bluefeet/Games-EveOnline-API/issues/8
-Plack-Middleware-Session-0.33           https://github.com/plack/Plack-Middleware-Session/issues/41
+Plack-Middleware-Session-0.36           https://github.com/plack/Plack-Middleware-Session/issues/41
 Tcl-pTk-0.96                            128803,128804
 Template-Plugin-EnvHash-1.06            128805
 Term-ReadLine-Gnu-1.36                  128806
