@@ -9082,3 +9082,4 @@ WebService-RTMAgent-0.603               https://github.com/rjbs/WebService-RTMAg
 XML-Loy-0.52                            https://github.com/Akron/XML-Loy/issues/6
 Alien-Boost-ProgramOptions-1.7          179863
 Alien-MuPDF-0.012                       https://github.com/PerlGfx/p5-Alien-MuPDF/issues/58
+Net-LibNFS-0.05                         https://github.com/FGasper/p5-Net-LibNFS/issues/13
