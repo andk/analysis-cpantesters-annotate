@@ -9075,3 +9075,4 @@ Amon2-Lite-0.13                         https://github.com/tokuhirom/Amon2-Lite/
 App-Sqitch-v1.6.1                       https://github.com/sqitchers/sqitch/issues/921
 CGI-Lingua-0.80                         https://github.com/nigelhorne/CGI-Lingua/issues/38
 Future-IO-Impl-AnyEvent-0.02            https://github.com/mkende/perl_future_io_impl_any_event/issues/1
+Data-Text-0.19                          179857
