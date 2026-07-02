@@ -9078,3 +9078,4 @@ Future-IO-Impl-AnyEvent-0.02            https://github.com/mkende/perl_future_io
 Data-Text-0.19                          179857
 Archive-SCS-1.10                        https://github.com/nautofon/Archive-SCS/issues/2
 Time-TAI-Simple-1.16                    179861
+WebService-RTMAgent-0.603               https://github.com/rjbs/WebService-RTMAgent/issues/2
