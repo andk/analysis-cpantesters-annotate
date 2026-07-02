@@ -9081,3 +9081,4 @@ Time-TAI-Simple-1.16                    179861
 WebService-RTMAgent-0.603               https://github.com/rjbs/WebService-RTMAgent/issues/2
 XML-Loy-0.52                            https://github.com/Akron/XML-Loy/issues/6
 Alien-Boost-ProgramOptions-1.7          179863
+Alien-MuPDF-0.012                       https://github.com/PerlGfx/p5-Alien-MuPDF/issues/58
