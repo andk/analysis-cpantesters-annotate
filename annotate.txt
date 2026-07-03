@@ -9085,3 +9085,4 @@ Alien-MuPDF-0.012                       https://github.com/PerlGfx/p5-Alien-MuPD
 Net-LibNFS-0.05                         https://github.com/FGasper/p5-Net-LibNFS/issues/13
 RL-0.09                                 https://github.com/zorgnax/perlreadline/issues/1
 Data-BloomFilter-Shared-0.01            https://github.com/vividsnow/perl5-data-bloomfilter-shared/issues/1
+Data-SpatialHash-Shared-0.01            https://github.com/vividsnow/perl5-data-spatialhash-shared/issues/1
