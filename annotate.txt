@@ -9086,3 +9086,4 @@ Net-LibNFS-0.05                         https://github.com/FGasper/p5-Net-LibNFS
 RL-0.09                                 https://github.com/zorgnax/perlreadline/issues/1
 Data-BloomFilter-Shared-0.01            https://github.com/vividsnow/perl5-data-bloomfilter-shared/issues/1
 Data-SpatialHash-Shared-0.01            https://github.com/vividsnow/perl5-data-spatialhash-shared/issues/1
+Dezi-App-0.017                          https://github.com/karpet/dezi-app/issues/30
