@@ -9089,3 +9089,4 @@ Data-SpatialHash-Shared-0.01            https://github.com/vividsnow/perl5-data-
 Dezi-App-0.017                          https://github.com/karpet/dezi-app/issues/30
 Net-HTTP2-0.02                          https://github.com/FGasper/p5-Net-HTTP2/issues/1
 Params-Signature-0.05                   179869
+Plack-Middleware-Precompressed-1.104    177209
