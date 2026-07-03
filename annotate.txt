@@ -9091,3 +9091,4 @@ Net-HTTP2-0.02                          https://github.com/FGasper/p5-Net-HTTP2/
 Params-Signature-0.05                   179869
 Plack-Middleware-Precompressed-1.104    177209
 Plack-Middleware-Static-Minifier-0.09   https://github.com/bayashi/Plack-Middleware-Static-Minifier/issues/5
+Text-AsciidocDown-0.1.0                 https://github.com/spatocs/asciidoc-down/issues/1
