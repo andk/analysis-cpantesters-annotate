@@ -9087,3 +9087,4 @@ RL-0.09                                 https://github.com/zorgnax/perlreadline/
 Data-BloomFilter-Shared-0.01            https://github.com/vividsnow/perl5-data-bloomfilter-shared/issues/1
 Data-SpatialHash-Shared-0.01            https://github.com/vividsnow/perl5-data-spatialhash-shared/issues/1
 Dezi-App-0.017                          https://github.com/karpet/dezi-app/issues/30
+Net-HTTP2-0.02                          https://github.com/FGasper/p5-Net-HTTP2/issues/1
