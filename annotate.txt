@@ -9093,5 +9093,5 @@ Plack-Middleware-Precompressed-1.104    177209
 Plack-Middleware-Static-Minifier-0.09   https://github.com/bayashi/Plack-Middleware-Static-Minifier/issues/5
 Text-AsciidocDown-0.1.0                 https://github.com/spatocs/asciidoc-down/issues/1
 MCDB_File-0.0108                        https://github.com/gstrauss/mcdb/issues/15
-Algorithm-Classifier-IsolationForest-0.3.0 https://github.com/LilithSec/Algorithm-Classifier-IsolationForest/issues/1
+Algorithm-Classifier-IsolationForest-0.4.0 https://github.com/LilithSec/Algorithm-Classifier-IsolationForest/issues/1
 IO-Compress-2.222                       https://github.com/pmqs/IO-Compress/issues/79
