@@ -9096,3 +9096,4 @@ MCDB_File-0.0108                        https://github.com/gstrauss/mcdb/issues/
 Algorithm-Classifier-IsolationForest-0.4.0 https://github.com/LilithSec/Algorithm-Classifier-IsolationForest/issues/1
 IO-Compress-2.222                       https://github.com/pmqs/IO-Compress/issues/79
 Algorithm-Time-ToNumber-0.1.1           179887
+Aion-Telemetry-0.0.1                    https://github.com/darviarush/perl-aion-telemetry/issues/1
