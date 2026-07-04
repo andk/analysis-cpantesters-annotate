@@ -9095,3 +9095,4 @@ Text-AsciidocDown-0.1.0                 https://github.com/spatocs/asciidoc-down
 MCDB_File-0.0108                        https://github.com/gstrauss/mcdb/issues/15
 Algorithm-Classifier-IsolationForest-0.4.0 https://github.com/LilithSec/Algorithm-Classifier-IsolationForest/issues/1
 IO-Compress-2.222                       https://github.com/pmqs/IO-Compress/issues/79
+Algorithm-Time-ToNumber-0.1.1           179887
