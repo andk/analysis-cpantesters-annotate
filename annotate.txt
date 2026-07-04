@@ -9102,3 +9102,4 @@ Map-Tube-Sydney-1.0.1                   https://github.com/earlybean4/Map-Tube-S
 Curses-1.46                             179891
 File-Raw-Archive-0.01                   179892
 Plack-App-MCCS-2.002000                 https://github.com/ido50/mccs/issues/6
+Object-Remote-0.005000                  https://github.com/p5sagit/Object-Remote/issues/3
