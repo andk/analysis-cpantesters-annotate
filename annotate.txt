@@ -9098,3 +9098,4 @@ IO-Compress-2.222                       https://github.com/pmqs/IO-Compress/issu
 Algorithm-Time-ToNumber-0.1.1           179887
 Aion-Telemetry-0.0.1                    https://github.com/darviarush/perl-aion-telemetry/issues/1
 Alien-PlantUML-0.01                     https://github.com/Qanu/p5-Alien-PlantUML/issues/3
+Map-Tube-Sydney-1.0.1                   https://github.com/earlybean4/Map-Tube-Sydney/issues/6
