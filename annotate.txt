@@ -9106,3 +9106,4 @@ Object-Remote-0.005000                  https://github.com/p5sagit/Object-Remote
 Test-DiagINC-0.010                      https://github.com/dagolden/Test-DiagINC/issues/10
 App-Cpanx-1.00                          https://github.com/zorgnax/cpanx/issues/1
 App-Elog-0.08                           https://github.com/zorgnax/elog/issues/4
+Tk-FileBrowser-0.13                     https://github.com/haje61/Tk-FileBrowser/issues/1
