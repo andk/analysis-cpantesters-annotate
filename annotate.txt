@@ -9110,3 +9110,4 @@ Tk-FileBrowser-0.13                     https://github.com/haje61/Tk-FileBrowser
 Business-LegalRepData-0.06              179907
 CPAN-InGit-0.003                        https://github.com/nrdvana/perl-CPAN-InGit/issues/1
 CPAN-Maker-Bootstrapper-2.0.4           https://github.com/rlauer6/CPAN-Maker-Bootstrapper/issues/1
+HTML-OSM-0.09                           179908
