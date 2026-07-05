@@ -9105,3 +9105,4 @@ Plack-App-MCCS-2.002000                 https://github.com/ido50/mccs/issues/6
 Object-Remote-0.005000                  https://github.com/p5sagit/Object-Remote/issues/3
 Test-DiagINC-0.010                      https://github.com/dagolden/Test-DiagINC/issues/10
 App-Cpanx-1.00                          https://github.com/zorgnax/cpanx/issues/1
+App-Elog-0.08                           https://github.com/zorgnax/elog/issues/4
