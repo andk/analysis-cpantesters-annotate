@@ -9112,3 +9112,4 @@ CPAN-InGit-0.003                        https://github.com/nrdvana/perl-CPAN-InG
 CPAN-Maker-Bootstrapper-2.0.4           https://github.com/rlauer6/CPAN-Maker-Bootstrapper/issues/1
 HTML-OSM-0.09                           179908
 Crypt-OpenSSL3-0.010                    https://github.com/Leont/crypt-openssl3/issues/5
+Test-Strict-0.54                        https://github.com/manwar/Test-Strict/issues/38
