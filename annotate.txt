@@ -9114,3 +9114,4 @@ HTML-OSM-0.09                           179908
 Crypt-OpenSSL3-0.010                    https://github.com/Leont/crypt-openssl3/issues/5
 Test-Strict-0.54                        https://github.com/manwar/Test-Strict/issues/38
 Imager-File-TIFF-1.005                  https://github.com/tonycoz/imager/issues/565
+Class-Simple-Cached-0.06                https://github.com/nigelhorne/Class-Simple-Cached/issues/7
