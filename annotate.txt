@@ -9121,3 +9121,4 @@ Net-Blossom-0.001000                    https://github.com/NicholasBHubbard/Net-
 Log-Abstraction-0.33                    180018
 Net-Nostr-Core-1.001002                 180019
 Data-Queue-Shared-0.06                  180020
+App-Test-Generator-0.42                 https://github.com/nigelhorne/App-Test-Generator/issues/8
