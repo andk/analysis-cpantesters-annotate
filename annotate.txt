@@ -9120,3 +9120,4 @@ Lingua-String-0.06                      https://github.com/nigelhorne/Lingua-Tex
 Net-Blossom-0.001000                    https://github.com/NicholasBHubbard/Net-Blossom/issues/1
 Log-Abstraction-0.33                    180018
 Net-Nostr-Core-1.001002                 180019
+Data-Queue-Shared-0.06                  180020
