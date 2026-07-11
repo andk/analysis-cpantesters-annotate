@@ -9126,3 +9126,4 @@ App-bcrypt-1.003                        https://github.com/briandfoy/app-bcrypt/
 IO-Async-Loop-Uring-0.004               https://github.com/Leont/io-async-loop-uring/issues/1
 Lingua-Text-0.08                        https://github.com/nigelhorne/Lingua-Text/issues/16
 Net-Nostr-2.002000                      180021
+Net-SIP-0.840                           https://github.com/noxxi/p5-net-sip/issues/73
