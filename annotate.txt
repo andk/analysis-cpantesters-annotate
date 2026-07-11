@@ -9119,3 +9119,4 @@ Data-Commons-Image-0.07                 https://github.com/michal-josef-spacek/D
 Lingua-String-0.06                      https://github.com/nigelhorne/Lingua-Text/issues/16
 Net-Blossom-0.001000                    https://github.com/NicholasBHubbard/Net-Blossom/issues/1
 Log-Abstraction-0.33                    180018
+Net-Nostr-Core-1.001002                 180019
