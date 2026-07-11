@@ -9124,3 +9124,4 @@ Data-Queue-Shared-0.06                  180020
 App-Test-Generator-0.42                 https://github.com/nigelhorne/App-Test-Generator/issues/8
 App-bcrypt-1.003                        https://github.com/briandfoy/app-bcrypt/issues/2
 IO-Async-Loop-Uring-0.004               https://github.com/Leont/io-async-loop-uring/issues/1
+Lingua-Text-0.08                        https://github.com/nigelhorne/Lingua-Text/issues/16
