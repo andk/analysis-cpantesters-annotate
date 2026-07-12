@@ -9137,3 +9137,4 @@ Dist-Surveyor-0.022                     180039
 Dancer2-Plugin-FlashNote-0.03           https://github.com/smith153/Dancer2-Plugin-FlashNote/issues/1
 TDB_File-0.96a                          72382
 TDB_FileX-0.97                          180040
+Imager-File-WEBP-0.006                  180041
