@@ -9131,3 +9131,4 @@ Params-Get-0.15                         180031
 Params-Validate-Strict-0.35             180032
 WWW-Pastebin-PastebinCa-Create-0.004    180038
 Class-Debug-0.07                        https://github.com/nigelhorne/Object-Configure/issues/7
+Mojolicious-Plugin-OAuth2-Server-0.52   https://github.com/payprop/mojolicious-plugin-oauth2-server/issues/30
