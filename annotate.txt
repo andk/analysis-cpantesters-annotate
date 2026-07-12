@@ -9140,3 +9140,4 @@ TDB_FileX-0.97                          180040
 Imager-File-WEBP-0.006                  180041
 OpenAPI-Modern-0.140                    https://github.com/karenetheridge/OpenAPI-Modern/issues/101
 Chandra-Markdown-0.01                   180044
+Mojolicious-Plugin-Fondation-Model-DBIx-Async-0.03 https://github.com/Dabg/Mojolicious-Plugin-Fondation-Model-DBIx-Async/issues/1
