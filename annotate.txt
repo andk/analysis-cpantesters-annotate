@@ -9139,3 +9139,4 @@ TDB_File-0.96a                          72382
 TDB_FileX-0.97                          180040
 Imager-File-WEBP-0.006                  180041
 OpenAPI-Modern-0.140                    https://github.com/karenetheridge/OpenAPI-Modern/issues/101
+Chandra-Markdown-0.01                   180044
