@@ -9037,7 +9037,7 @@ Test-Valgrind-1.19                      149286
 Protobuf-0.03                           178734
 Mojo-PrettyTidy-0.02                    https://github.com/Harryb382003/PrettyTidy/issues/1
 RPi-SysInfo-1.02                        https://github.com/stevieb9/rpi-sysinfo/issues/2
-DBIx-Class-Async-v1.0.4                 https://github.com/manwar/DBIx-Class-Async/issues/12
+DBIx-Class-Async-v1.0.5                 https://github.com/manwar/DBIx-Class-Async/issues/12
 POSIX-RT-Timer-0.022                    https://github.com/Leont/posix-rt-timer/issues/1
 SPVM-Sys-0.570                          https://github.com/yuki-kimoto/SPVM-Sys/issues/113
 Data-Dump-Streamer-2.42                 129668
