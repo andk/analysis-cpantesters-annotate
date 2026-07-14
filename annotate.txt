@@ -9146,3 +9146,4 @@ Array-Join-0.003                        180067
 Aion-Surf-0.0.3                         https://github.com/darviarush/perl-aion-surf/issues/1
 App-nup-1.07                            https://github.com/tecolicom/App-nup/issues/1
 Async-Event-Interval-1.14               https://github.com/stevieb9/async-event-interval/issues/20
+Class-Simple-Readonly-Cached-0.12       https://github.com/nigelhorne/Class-Simple-Readonly-Cached/issues/12
