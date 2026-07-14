@@ -9144,3 +9144,4 @@ Mojolicious-Plugin-Fondation-Model-DBIx-Async-0.03 https://github.com/Dabg/Mojol
 YAML-AppConfig-0.19                     180050
 Array-Join-0.003                        180067
 Aion-Surf-0.0.3                         https://github.com/darviarush/perl-aion-surf/issues/1
+App-nup-1.07                            https://github.com/tecolicom/App-nup/issues/1
