@@ -9151,3 +9151,4 @@ DBIO-0.900002                           https://codeberg.org/dbio/dbio/issues/7
 Mojo-SQLite-Database-Role-InsertHelpers-0.001 180068
 Mojolicious-Plugin-Fondation-Asset-0.03 https://github.com/Dabg/Mojolicious-Plugin-Fondation-Asset/issues/1
 WWW-HTMLTagAttributeCounter-0.0105      180069
+Mojolicious-Plugin-Fondation-Asset-0.03 180072
