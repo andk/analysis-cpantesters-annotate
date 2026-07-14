@@ -9149,3 +9149,4 @@ Async-Event-Interval-1.14               https://github.com/stevieb9/async-event-
 Class-Simple-Readonly-Cached-0.12       https://github.com/nigelhorne/Class-Simple-Readonly-Cached/issues/12
 DBIO-0.900002                           https://codeberg.org/dbio/dbio/issues/7
 Mojo-SQLite-Database-Role-InsertHelpers-0.001 180068
+Mojolicious-Plugin-Fondation-Asset-0.03 https://github.com/Dabg/Mojolicious-Plugin-Fondation-Asset/issues/1
