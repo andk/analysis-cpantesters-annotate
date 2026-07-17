@@ -9155,3 +9155,4 @@ Mojolicious-Plugin-Fondation-Asset-0.03 180072
 Google-Auth-0.02                        180084
 Game-TileMap-Pathfinding-0.001          https://github.com/bbrtj/perl-game-tilemap-pathfinding/issues/1
 BarefootJS-Backend-Xslate-0.21.0        https://github.com/piconic-ai/barefootjs/issues/2305
+Config-Resolver-1.0.10                  https://github.com/rlauer6/Config-Resolver/issues/1
