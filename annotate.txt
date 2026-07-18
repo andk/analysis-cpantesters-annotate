@@ -9158,3 +9158,4 @@ BarefootJS-Backend-Xslate-0.21.0        https://github.com/piconic-ai/barefootjs
 Config-Resolver-1.0.10                  https://github.com/rlauer6/Config-Resolver/issues/1
 Benchmark-DKbench-3.02                  https://github.com/dkechag/Benchmark-DKbench/issues/4
 Business-Legal-0.04                     180135
+CPAN-Maker-2.0.3                        https://github.com/rlauer6/CPAN-Maker/issues/3
