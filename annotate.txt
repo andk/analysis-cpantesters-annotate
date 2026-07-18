@@ -9164,3 +9164,4 @@ Protobuf-0.06                           180139,178734
 SDL3-v0.0.3                             https://github.com/Perl-SDL3/SDL3.pm/issues/1
 NepaliDateTime-0.02                     https://github.com/sumanstats/NepaliDateTime/issues/1
 Dancer2-Plugin-JobScheduler-0.006       https://github.com/mikkoi/Dancer2-Plugin-JobScheduler/issues/1
+Text-Markup-0.41                        180140
