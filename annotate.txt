@@ -9160,6 +9160,6 @@ Benchmark-DKbench-3.02                  https://github.com/dkechag/Benchmark-DKb
 Business-Legal-0.04                     180135
 CPAN-Maker-2.0.3                        https://github.com/rlauer6/CPAN-Maker/issues/3
 Number-Finance-Human-0.001              180137,180138
-Protobuf-0.06                           180139
+Protobuf-0.06                           180139,178734
 SDL3-v0.0.3                             https://github.com/Perl-SDL3/SDL3.pm/issues/1
 NepaliDateTime-0.02                     https://github.com/sumanstats/NepaliDateTime/issues/1
