@@ -9168,3 +9168,4 @@ Text-Markup-0.41                        180140,180141
 Module-Starter-Protobuf-0.02            180143
 TableDataRole-Source-DBI-0.026          https://github.com/perlancar/perl-TableDataRole-Source-DBI/issues/1
 WWW-MetaForge-0.002                     https://github.com/Getty/p5-www-metaforge/issues/1
+Alien-Bit-0.09                          https://github.com/chrisarg/Alien-Bit/issues/1
