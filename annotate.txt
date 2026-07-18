@@ -9161,3 +9161,4 @@ Business-Legal-0.04                     180135
 CPAN-Maker-2.0.3                        https://github.com/rlauer6/CPAN-Maker/issues/3
 Number-Finance-Human-0.001              180137,180138
 Protobuf-0.06                           180139
+SDL3-v0.0.3                             https://github.com/Perl-SDL3/SDL3.pm/issues/1
