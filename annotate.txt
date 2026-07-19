@@ -9173,3 +9173,4 @@ Alien-Brotli-v0.2.2                     https://github.com/robrwo/perl-Alien-Bro
 DateTime-Format-Genealogy-0.12          https://github.com/nigelhorne/DateTime-Format-Genealogy/issues/11
 CBOR-Free-0.34                          https://github.com/FGasper/p5-CBOR-Free/issues/13
 Google-Auth-0.03                        180157
+Schedule-Cron-1.05                      https://github.com/NicholasBHubbard/schedule-cron/issues/12
