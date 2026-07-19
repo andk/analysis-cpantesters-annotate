@@ -9174,3 +9174,4 @@ DateTime-Format-Genealogy-0.12          https://github.com/nigelhorne/DateTime-F
 CBOR-Free-0.34                          https://github.com/FGasper/p5-CBOR-Free/issues/13
 Google-Auth-0.03                        180157
 Schedule-Cron-1.05                      https://github.com/NicholasBHubbard/schedule-cron/issues/12
+Slovo-2023.03.22                        https://github.com/kberov/Slovo/issues/48
