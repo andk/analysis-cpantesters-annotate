@@ -9171,3 +9171,4 @@ WWW-MetaForge-0.002                     https://github.com/Getty/p5-www-metaforg
 Alien-Bit-0.09                          https://github.com/chrisarg/Alien-Bit/issues/1
 Alien-Brotli-v0.2.2                     https://github.com/robrwo/perl-Alien-Brotli/issues/9
 DateTime-Format-Genealogy-0.12          https://github.com/nigelhorne/DateTime-Format-Genealogy/issues/11
+CBOR-Free-0.34                          https://github.com/FGasper/p5-CBOR-Free/issues/13
