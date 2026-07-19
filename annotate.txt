@@ -8154,7 +8154,7 @@ Test-Class-Moose-0.99                   https://github.com/houseabsolute/test-cl
 App-LinkSite-0.0.13                     157067
 Crypt-Bear-0.001                        https://github.com/Leont/crypt-bear/issues/2
 Muster-0.96                             157069
-Module-ScanDeps-Static-1.005            157187
+Module-ScanDeps-Static-1.8.1            157187
 Map-Tube-Plugin-FuzzyFind-v0.81.0       157188
 Object-Pad-0.817                        157189
 Mail-BIMI-3.20260203                    https://github.com/marcbradshaw/mail-bimi/issues/10
