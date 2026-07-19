@@ -9175,3 +9175,4 @@ CBOR-Free-0.34                          https://github.com/FGasper/p5-CBOR-Free/
 Google-Auth-0.03                        180157
 Schedule-Cron-1.05                      https://github.com/NicholasBHubbard/schedule-cron/issues/12
 Slovo-2023.03.22                        https://github.com/kberov/Slovo/issues/48
+EV-4.37                                 180160
