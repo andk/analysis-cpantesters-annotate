@@ -9178,3 +9178,4 @@ Slovo-2023.03.22                        https://github.com/kberov/Slovo/issues/4
 EV-4.37                                 180160
 LibUI-0.02                              https://github.com/sanko/LibUI.pm/issues/5
 Net-NfDump-1.33                         180161
+NOLookup-1.38.0                         180167
