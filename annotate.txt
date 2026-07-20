@@ -9180,3 +9180,4 @@ LibUI-0.02                              https://github.com/sanko/LibUI.pm/issues
 Net-NfDump-1.33                         180161
 NOLookup-1.38.0                         180167
 WWW-Mechanize-Shell-0.62                https://github.com/Corion/WWW-Mechanize-Shell/issues/7
+CBOR-Free-0.35                          https://github.com/FGasper/p5-CBOR-Free/issues/15
