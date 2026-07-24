@@ -8997,7 +8997,7 @@ Cache-FastMmap-1.62                     https://github.com/robmueller/cache-fast
 Zuzu-0.001001                           https://github.com/zuzuscript/zuzu-perl/issues/1
 Protocol-Tus-0.003                      https://codeberg.org/polettix/Protocol-Tus/issues/1
 Catalyst-Plugin-OpenIDConnect-0.11      https://github.com/tfrayner/catalyst-plugin-openidconnect/issues/12
-Lemonldap-NG-Manager-2.23.0             https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng/-/work_items/3617
+Lemonldap-NG-Manager-2.23.1             https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng/-/work_items/3617
 Markdown-Simple-0.13                    178319
 JSON-YY-0.05                            178379
 XML-PugiXML-0.06                        https://github.com/vividsnow/perl5-xml-pugixml/issues/2
