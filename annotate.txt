@@ -9186,3 +9186,4 @@ GraphQL-Houtou-0.02                     https://github.com/AnaTofuZ/GraphQL-Hout
 Catalyst-View-EmbeddedPerl-PerRequest-0.001021 https://github.com/jjn1056/Template-EmbeddedPerl/issues/3
 EV-Memcached-0.05                       https://github.com/vividsnow/perl5-ev-memcached/issues/1
 Mail-MIMEDefang-3.7.1                   https://github.com/The-McGrail-Foundation/MIMEDefang/issues/85
+Map-Tube-Plugin-Graph-v1.1.0            https://github.com/manwar/Map-Tube-Plugin-Graph/issues/7
