@@ -9004,7 +9004,7 @@ XML-PugiXML-0.06                        https://github.com/vividsnow/perl5-xml-p
 OSPF-LSDB-1.19                          178427
 EV-cares-0.03                           https://github.com/vividsnow/perl5-ev-cares/issues/1
 Zuzu-0.001005                           https://github.com/zuzuscript/zuzu-perl/issues/2
-EV-ClickHouse-0.05                      https://github.com/vividsnow/perl5-ev-clickhouse/issues/1
+EV-ClickHouse-0.06                      https://github.com/vividsnow/perl5-ev-clickhouse/issues/1
 HTTP-Handy-1.06                         178466
 Sys-Export-0.004                        https://github.com/nrdvana/perl-Sys-Export/issues/2
 Object-Configure-0.21                   https://github.com/nigelhorne/Object-Configure/issues/4
