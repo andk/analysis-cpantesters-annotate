@@ -9121,7 +9121,7 @@ Net-Blossom-0.001001                    https://github.com/NicholasBHubbard/Net-
 Log-Abstraction-0.33                    180018
 Net-Nostr-Core-1.001002                 180019
 Data-Queue-Shared-0.06                  180020
-App-Test-Generator-0.42                 https://github.com/nigelhorne/App-Test-Generator/issues/8
+App-Test-Generator-0.44                 https://github.com/nigelhorne/App-Test-Generator/issues/8
 App-bcrypt-1.003                        https://github.com/briandfoy/app-bcrypt/issues/2
 IO-Async-Loop-Uring-0.004               https://github.com/Leont/io-async-loop-uring/issues/1
 Lingua-Text-0.08                        https://github.com/nigelhorne/Lingua-Text/issues/16
