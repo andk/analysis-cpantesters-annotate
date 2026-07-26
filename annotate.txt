@@ -9189,3 +9189,4 @@ Mail-MIMEDefang-3.7.1                   https://github.com/The-McGrail-Foundatio
 Map-Tube-Plugin-Graph-v1.1.0            https://github.com/manwar/Map-Tube-Plugin-Graph/issues/7
 POSIX-2008-0.27                         180248
 Schedule-Cron-1.06                      https://github.com/NicholasBHubbard/schedule-cron/issues/13
+XML-Twig-3.54                           https://github.com/mirod/xmltwig/issues/46
