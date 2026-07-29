@@ -9165,7 +9165,7 @@ SDL3-v0.0.3                             https://github.com/Perl-SDL3/SDL3.pm/iss
 NepaliDateTime-0.02                     https://github.com/sumanstats/NepaliDateTime/issues/1
 Dancer2-Plugin-JobScheduler-0.006       https://github.com/mikkoi/Dancer2-Plugin-JobScheduler/issues/1
 Text-Markup-0.41                        180140,180141
-Module-Starter-Protobuf-0.03            180143
+Module-Starter-Protobuf-0.04            180143
 TableDataRole-Source-DBI-0.026          https://github.com/perlancar/perl-TableDataRole-Source-DBI/issues/1
 WWW-MetaForge-0.002                     https://github.com/Getty/p5-www-metaforge/issues/1
 Alien-Bit-0.09                          https://github.com/chrisarg/Alien-Bit/issues/1
