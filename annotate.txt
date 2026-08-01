@@ -9201,3 +9201,4 @@ Net-Connection-Match-0.5.1              180538
 SION-0.01                               https://github.com/dankogai/p5-sion/issues/2
 Net-SAML2-0.88                          https://github.com/perl-net-saml2/perl-Net-SAML2/issues/248
 App-plx-0.902004                        https://github.com/shadowcat-mst/plx/issues/12
+Map-Tube-Plugin-Graph-v1.1.1            https://github.com/manwar/Map-Tube-Plugin-Graph/issues/8
