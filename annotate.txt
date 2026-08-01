@@ -9196,3 +9196,4 @@ Params-Validate-Strict-0.37             180032
 Net-Dict-2.22                           https://github.com/neilb/Net-Dict/issues/7
 Proc-ProcessTable-ncps-0.2.1            https://github.com/VVelox/Proc-ProcessTable-ncps/issues/1
 App-SlideServer-0.003                   https://github.com/nrdvana/perl-App-SlideServer/issues/5
+MooX-Role-SEOTags-1.2.1                 https://github.com/davorg-cpan/moox-role-seotags/issues/10
