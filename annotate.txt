@@ -9199,3 +9199,4 @@ App-SlideServer-0.003                   https://github.com/nrdvana/perl-App-Slid
 MooX-Role-SEOTags-1.2.1                 https://github.com/davorg-cpan/moox-role-seotags/issues/10
 Net-Connection-Match-0.5.1              180538
 SION-0.01                               https://github.com/dankogai/p5-sion/issues/2
+Net-SAML2-0.88                          https://github.com/perl-net-saml2/perl-Net-SAML2/issues/248
