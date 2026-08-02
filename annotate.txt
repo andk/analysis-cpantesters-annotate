@@ -9203,3 +9203,4 @@ Net-SAML2-0.88                          https://github.com/perl-net-saml2/perl-N
 App-plx-0.902004                        https://github.com/shadowcat-mst/plx/issues/12
 Map-Tube-Plugin-Graph-v1.1.1            https://github.com/manwar/Map-Tube-Plugin-Graph/issues/8
 PApp-SQL-2.002                          https://github.com/perl5-dbi/dbi/issues/186
+Google-ISBNNumbers-1.01                 https://github.com/ericschernoff/Google-ISBNNumbers/issues/2
