@@ -9206,3 +9206,4 @@ PApp-SQL-2.002                          https://github.com/perl5-dbi/dbi/issues/
 Google-ISBNNumbers-1.01                 https://github.com/ericschernoff/Google-ISBNNumbers/issues/2
 File-Process-1.0.0                      https://github.com/rlauer6/File-Process/issues/1
 File-SOPS-0.002                         https://github.com/Getty/p5-file-sops/issues/1
+Hash-SharedMem-0.006                    180631
