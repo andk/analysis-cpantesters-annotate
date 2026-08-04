@@ -9207,3 +9207,4 @@ Google-ISBNNumbers-1.01                 https://github.com/ericschernoff/Google-
 File-Process-1.0.0                      https://github.com/rlauer6/File-Process/issues/1
 File-SOPS-0.002                         https://github.com/Getty/p5-file-sops/issues/1
 Hash-SharedMem-0.006                    180631
+App-sdif-4.48                           https://github.com/kaz-utashiro/sdif-tools/issues/8
