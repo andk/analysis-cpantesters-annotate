@@ -9209,3 +9209,4 @@ File-SOPS-0.002                         https://github.com/Getty/p5-file-sops/is
 Hash-SharedMem-0.006                    180631
 App-sdif-4.48                           https://github.com/kaz-utashiro/sdif-tools/issues/8
 OpenAPI-Modern-0.145                    https://github.com/karenetheridge/OpenAPI-Modern/issues/102
+WebService-OurWorldInData-0.04          https://github.com/duffee/perl-OurWorldInData/issues/14
