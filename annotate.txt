@@ -9208,3 +9208,4 @@ File-Process-1.0.0                      https://github.com/rlauer6/File-Process/
 File-SOPS-0.002                         https://github.com/Getty/p5-file-sops/issues/1
 Hash-SharedMem-0.006                    180631
 App-sdif-4.48                           https://github.com/kaz-utashiro/sdif-tools/issues/8
+OpenAPI-Modern-0.145                    https://github.com/karenetheridge/OpenAPI-Modern/issues/102
