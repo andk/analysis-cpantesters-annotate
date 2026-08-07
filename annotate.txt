@@ -9213,3 +9213,4 @@ WebService-OurWorldInData-0.04          https://github.com/duffee/perl-OurWorldI
 JSON-Schema-Fast-0.05                   180681
 SSVC-1.00                               https://github.com/giterlizzi/perl-SSVC/issues/1
 App-perlimports-0.000061                https://github.com/perl-ide/App-perlimports/issues/174
+POE-Component-Server-JSONUnix-0.2.0     180697
