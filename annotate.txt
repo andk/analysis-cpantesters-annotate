@@ -9218,3 +9218,4 @@ Imager-1.034                            https://github.com/tonycoz/imager/issues
 Lugh-0.12                               180701
 Amazon-API-2.4.6                        https://github.com/rlauer6/Amazon-API/issues/7
 Catalyst-View-ChromePDF-v0.1.1          https://github.com/robrwo/perl-Catalyst-View-ChromePDF/issues/2
+DBIx-Loop-0.02                          180707
