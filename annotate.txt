@@ -9216,3 +9216,4 @@ App-perlimports-0.000061                https://github.com/perl-ide/App-perlimpo
 POE-Component-Server-JSONUnix-0.2.0     180697
 Imager-1.034                            https://github.com/tonycoz/imager/issues/569
 Lugh-0.12                               180701
+Amazon-API-2.4.6                        https://github.com/rlauer6/Amazon-API/issues/7
