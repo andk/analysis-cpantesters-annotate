@@ -9224,3 +9224,4 @@ IO-K8s-1.105                            https://github.com/pplu/io-k8s-p5/issues
 Net-Firewall-BlockerHelper-0.2.0        https://github.com/LilithSec/Net-Firewall-BlockerHelper/issues/1
 Protocol-Sys-Virt-v12.6.0               https://github.com/ehuelsmann/perl-protocol-sys-virt/issues/3
 Punk-0.04                               180709
+Punk-Queue-0.01                         180710
