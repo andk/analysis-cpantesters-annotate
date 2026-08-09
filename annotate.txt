@@ -9221,3 +9221,4 @@ Catalyst-View-ChromePDF-v0.1.1          https://github.com/robrwo/perl-Catalyst-
 DBIx-Loop-0.02                          180707
 Fetch-0.11                              180708
 IO-K8s-1.105                            https://github.com/pplu/io-k8s-p5/issues/7
+Net-Firewall-BlockerHelper-0.2.0        https://github.com/LilithSec/Net-Firewall-BlockerHelper/issues/1
