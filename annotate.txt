@@ -9230,3 +9230,4 @@ WebService-OurWorldInData-0.06          https://github.com/duffee/perl-OurWorldI
 MCP-Run-0.105                           https://github.com/Getty/p5-mcp-run/issues/2
 Lemonldap-NG-Common-2.23.3              https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng/-/work_items/3692
 Google-Auth-0.12                        180794
+IO-K8s-1.107                            https://github.com/pplu/io-k8s-p5/issues/8
