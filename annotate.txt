@@ -9228,3 +9228,4 @@ Punk-Queue-0.01                         180710
 WebDyne-3.011                           https://github.com/aspeer/WebDyne/issues/12
 WebService-OurWorldInData-0.06          https://github.com/duffee/perl-OurWorldInData/issues/17
 MCP-Run-0.105                           https://github.com/Getty/p5-mcp-run/issues/2
+Lemonldap-NG-Common-2.23.3              https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng/-/work_items/3692
