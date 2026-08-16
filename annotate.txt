@@ -9233,3 +9233,4 @@ Google-Auth-0.12                        180794
 IO-K8s-1.107                            https://github.com/pplu/io-k8s-p5/issues/8
 GD-2.90                                 https://github.com/lstein/Perl-GD/issues/68
 MCP-Run-0.106                           https://github.com/Getty/p5-mcp-run/issues/3
+Net-Async-MCP-0.004                     https://github.com/Getty/p5-net-async-mcp/issues/2
