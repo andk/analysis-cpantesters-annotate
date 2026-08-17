@@ -9242,4 +9242,4 @@ Data-Smile-XS-0.001000                  180810
 Hyperman-0.21                           180813
 Template-Stencil-0.07                   180814
 Mojolicious-Plugin-Fondation-CSRF-0.01  https://github.com/Dabg/Mojolicious-Plugin-Fondation-CSRF/issues/1
-Proc-ProcessTable-ncps-0.2.2            180821
+Proc-ProcessTable-ncps-0.2.2            180821,https://github.com/VVelox/Proc-ProcessTable-ncps/issues/2
