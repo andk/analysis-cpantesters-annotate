@@ -9246,3 +9246,4 @@ Proc-ProcessTable-ncps-0.2.2            180821,https://github.com/VVelox/Proc-Pr
 Reverse-Proxy-0.04                      180900
 Digest-PBKDF2-0.013                     https://github.com/amiri/Digest-PBKDF2/issues/4
 Fugu-0.1.2                              180917
+Mail-DWIM-0.11                          180918
