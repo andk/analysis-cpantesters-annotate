@@ -9248,3 +9248,4 @@ Digest-PBKDF2-0.013                     https://github.com/amiri/Digest-PBKDF2/i
 Fugu-0.1.2                              180917
 Mail-DWIM-0.11                          180918
 Lingua-Text-0.09                        https://github.com/nigelhorne/Lingua-Text/issues/18
+Math-Histo-0.1.0                        https://github.com/tsee/libhisto/issues/1
