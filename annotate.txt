@@ -9253,3 +9253,4 @@ HTTP-API-Client-1.26                    https://github.com/mvu8912/perl5-http-ap
 Punk-0.28                               181001
 Physics-Etch-0.01                       https://github.com/jtrujil43/Physics-Etch/issues/1
 Physics-Electrodeposition-1.00          181004
+Crypt-Image-0.15                        https://github.com/manwar/Crypt-Image/issues/3
