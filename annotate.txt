@@ -9251,3 +9251,4 @@ Lingua-Text-0.09                        https://github.com/nigelhorne/Lingua-Tex
 Math-Histo-0.2.0                        https://github.com/tsee/libhisto/issues/1
 HTTP-API-Client-1.26                    https://github.com/mvu8912/perl5-http-api-client/issues/1
 Punk-0.28                               181001
+Physics-Etch-0.01                       https://github.com/jtrujil43/Physics-Etch/issues/1
