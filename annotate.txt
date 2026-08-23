@@ -9256,3 +9256,4 @@ Physics-Electrodeposition-1.00          181004
 Crypt-Image-0.15                        https://github.com/manwar/Crypt-Image/issues/3
 Uniform-1.03                            https://github.com/haxmeister/perl-Uniform/issues/1
 Database-Abstraction-0.38               https://github.com/nigelhorne/Database-Abstraction/issues/13
+PlackX-Framework-0.33                   https://github.com/dstroma/PlackX-Framework/issues/2
