@@ -9254,3 +9254,4 @@ Punk-0.28                               181001
 Physics-Etch-0.01                       https://github.com/jtrujil43/Physics-Etch/issues/1
 Physics-Electrodeposition-1.00          181004
 Crypt-Image-0.15                        https://github.com/manwar/Crypt-Image/issues/3
+Uniform-1.03                            https://github.com/haxmeister/perl-Uniform/issues/1
