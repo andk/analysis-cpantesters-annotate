@@ -9258,3 +9258,4 @@ Uniform-1.03                            https://github.com/haxmeister/perl-Unifo
 Database-Abstraction-0.38               https://github.com/nigelhorne/Database-Abstraction/issues/13
 PlackX-Framework-0.33                   https://github.com/dstroma/PlackX-Framework/issues/2
 Uniform-HTMX-Dancer2-1.00               https://github.com/haxmeister/perl-Uniform-HTMX-Dancer2/issues/1
+CGI-Info-1.14                           https://github.com/nigelhorne/CGI-Info/issues/38
