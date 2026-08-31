@@ -9260,3 +9260,4 @@ PlackX-Framework-0.33                   https://github.com/dstroma/PlackX-Framew
 Uniform-HTMX-Dancer2-1.00               https://github.com/haxmeister/perl-Uniform-HTMX-Dancer2/issues/1
 CGI-Info-1.14                           https://github.com/nigelhorne/CGI-Info/issues/38
 PDL-Fit-Levmar-0.0110                   https://github.com/PDLPorters/PDL-Fit-Levmar/issues/12
+CPAN-Meta-2.150014                      https://github.com/Perl-Toolchain-Gang/CPAN-Meta/issues/154
