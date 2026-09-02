@@ -9263,3 +9263,4 @@ PDL-Fit-Levmar-0.0110                   https://github.com/PDLPorters/PDL-Fit-Le
 CPAN-Meta-2.150014                      https://github.com/Perl-Toolchain-Gang/CPAN-Meta/issues/154
 Crypt-JWS-OpenSSL-0.003                 https://github.com/markdootson/crypt-jws-openssl-perl/issues/6
 App-Tarotplane-2.02                     https://github.com/Perl/perl5/issues/24786
+Text-Beautify-0.08                      https://github.com/Perl/perl5/issues/24789
