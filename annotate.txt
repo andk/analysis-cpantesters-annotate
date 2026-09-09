@@ -9119,7 +9119,7 @@ Data-Commons-Image-0.07                 https://github.com/michal-josef-spacek/D
 Lingua-String-0.06                      https://github.com/nigelhorne/Lingua-Text/issues/16
 Net-Blossom-0.001001                    https://github.com/NicholasBHubbard/Net-Blossom/issues/1
 Log-Abstraction-0.33                    180018
-Net-Nostr-Core-1.001002                 180019
+Net-Nostr-Core-1.002000                 180019
 Data-Queue-Shared-0.06                  180020
 App-Test-Generator-0.44                 https://github.com/nigelhorne/App-Test-Generator/issues/8
 App-bcrypt-1.003                        https://github.com/briandfoy/app-bcrypt/issues/2
