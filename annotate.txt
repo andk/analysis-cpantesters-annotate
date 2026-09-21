@@ -9271,3 +9271,4 @@ CAE-Nastran-Nasmod-0.26                 https://github.com/Perl/perl5/issues/247
 Frozen-0.06                             181363
 Punk-OpenTelemetry-0.10                 181428
 JQ-XS-2.02                              https://github.com/rouzier/JQ-XS/issues/2
+App-karr-0.601                          https://github.com/Getty/karr/issues/7
