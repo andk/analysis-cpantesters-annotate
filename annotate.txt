@@ -9277,3 +9277,4 @@ Google-RestApi-2.2.4                    https://github.com/mvsjes2/p5-google-res
 Getopt-Pad-0.04                         https://github.com/davenonymous/perl-getopt-pad/issues/1
 Amazon-API-Help-1.0.3                   https://github.com/rlauer6/Amazon-API-Help/issues/1
 Mail-Milter-Authentication-4.20261001   https://github.com/fastmail/authentication_milter/issues/185
+Mixin-ExtraFields-0.140003              https://github.com/rjbs/Mixin-ExtraFields/issues/2
