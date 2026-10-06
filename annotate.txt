@@ -9278,3 +9278,4 @@ Getopt-Pad-0.04                         https://github.com/davenonymous/perl-get
 Amazon-API-Help-1.0.3                   https://github.com/rlauer6/Amazon-API-Help/issues/1
 Mail-Milter-Authentication-4.20261001   https://github.com/fastmail/authentication_milter/issues/185
 Mixin-ExtraFields-0.140003              https://github.com/rjbs/Mixin-ExtraFields/issues/2
+Devel-Scope-0.12                        https://github.com/Perl/perl5/issues/24909
