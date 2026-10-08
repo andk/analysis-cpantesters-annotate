@@ -9280,3 +9280,4 @@ Mail-Milter-Authentication-4.20261001   https://github.com/fastmail/authenticati
 Mixin-ExtraFields-0.140003              https://github.com/rjbs/Mixin-ExtraFields/issues/2
 Devel-Scope-0.12                        https://github.com/Perl/perl5/issues/24909
 App-perlimports-0.000066                https://github.com/perl-ide/App-perlimports/issues/202
+Dancer2-Plugin-TemplateFlute-0.202      https://github.com/interchange/Dancer2-Plugin-TemplateFlute/issues/2
