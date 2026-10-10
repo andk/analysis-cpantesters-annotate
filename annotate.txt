@@ -9281,3 +9281,4 @@ Mixin-ExtraFields-0.140003              https://github.com/rjbs/Mixin-ExtraField
 Devel-Scope-0.12                        https://github.com/Perl/perl5/issues/24909
 App-perlimports-0.000066                https://github.com/perl-ide/App-perlimports/issues/202
 Dancer2-Plugin-TemplateFlute-0.202      https://github.com/interchange/Dancer2-Plugin-TemplateFlute/issues/2
+App-Test-Generator-0.47                 https://github.com/Perl/perl5/issues/24933,https://github.com/nigelhorne/App-Test-Generator/issues/11
