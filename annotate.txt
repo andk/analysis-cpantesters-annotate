@@ -9288,3 +9288,4 @@ Mail-DKIM2-0.18                         https://github.com/dkim2wg/interop/issue
 Net-CalDAV-FindEntry-0.01               https://github.com/Corion/Net-CalDAV-FindEntry/issues/1
 Peta-NN-0.2610090                       181856
 Speak-1.06                              181857
+Test-Log-Abstraction-0.002.0            https://github.com/nigelhorne/Test-Log-Abstraction/issues/1
