@@ -9287,3 +9287,4 @@ BarefootJS-0.39.5                       https://github.com/piconic-ai/barefootjs
 Mail-DKIM2-0.18                         https://github.com/dkim2wg/interop/issues/10
 Net-CalDAV-FindEntry-0.01               https://github.com/Corion/Net-CalDAV-FindEntry/issues/1
 Peta-NN-0.2610090                       181856
+Speak-1.06                              181857
