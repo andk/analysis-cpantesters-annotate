@@ -9292,3 +9292,4 @@ Test-Log-Abstraction-0.002.0            https://github.com/nigelhorne/Test-Log-A
 Developer-Dashboard-5.73                https://github.com/manif3station/developer-dashboard/issues/59
 Hyperman-0.56                           181858
 App-FuguBench-0.1.1                     181859
+App-FuguVM-0.3.1                        181860
