@@ -9294,3 +9294,4 @@ Hyperman-0.56                           181858
 App-FuguBench-0.1.1                     181859
 App-FuguVM-0.3.1                        181860
 App-Syslogd-0.002.0                     https://github.com/nigelhorne/syslogd/issues/1
+Term-Fabulous-0.01                      https://github.com/davenonymous/perl-term-fabulous/issues/1
