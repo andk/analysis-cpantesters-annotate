@@ -9284,3 +9284,4 @@ Dancer2-Plugin-TemplateFlute-0.202      https://github.com/interchange/Dancer2-P
 App-Test-Generator-0.47                 https://github.com/Perl/perl5/issues/24933,https://github.com/nigelhorne/App-Test-Generator/issues/11
 App-FuguWeb-0.8.1                       181855
 BarefootJS-0.39.5                       https://github.com/piconic-ai/barefootjs/issues/3445
+Mail-DKIM2-0.18                         https://github.com/dkim2wg/interop/issues/10
