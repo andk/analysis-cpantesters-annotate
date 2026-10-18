@@ -9298,3 +9298,4 @@ Term-Fabulous-0.01                      https://github.com/davenonymous/perl-ter
 Text-KDL-XS-0.002                       https://github.com/davenonymous/perl-kdl-xs/issues/1
 Math-SZaru-0.03                         181951
 Term-Fabulous-0.03                      https://github.com/davenonymous/perl-term-fabulous/issues/2
+Text-Fab-0.03                           182020
