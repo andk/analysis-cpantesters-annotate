@@ -9282,7 +9282,7 @@ Devel-Scope-0.12                        https://github.com/Perl/perl5/issues/249
 App-perlimports-0.000066                https://github.com/perl-ide/App-perlimports/issues/202
 Dancer2-Plugin-TemplateFlute-0.202      https://github.com/interchange/Dancer2-Plugin-TemplateFlute/issues/2
 App-Test-Generator-0.47                 https://github.com/Perl/perl5/issues/24933,https://github.com/nigelhorne/App-Test-Generator/issues/11
-App-FuguWeb-0.8.1                       181855
+App-FuguWeb-0.9.0                       181855
 BarefootJS-0.39.5                       https://github.com/piconic-ai/barefootjs/issues/3445
 Mail-DKIM2-0.18                         https://github.com/dkim2wg/interop/issues/10
 Net-CalDAV-FindEntry-0.01               https://github.com/Corion/Net-CalDAV-FindEntry/issues/1
