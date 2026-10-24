@@ -9305,5 +9305,5 @@ ZX81-Tape-0.005                         182081
 Sub-Daemon-0.12                         182084
 File-SOPS-0.005                         https://github.com/Getty/p5-file-sops/issues/2
 WWW-Hetzner-0.102                       https://github.com/Getty/p5-www-hetzner/issues/1
-Web-Simple-0.034                        https://github.com/p5sagit/Web-Simple/issues/1
+Web-Simple-0.035                        https://github.com/p5sagit/Web-Simple/issues/1
 Net-Async-Kubernetes-0.011              https://github.com/Getty/p5-net-async-kubernetes/issues/3
