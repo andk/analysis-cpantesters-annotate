@@ -9308,3 +9308,4 @@ WWW-Hetzner-0.102                       https://github.com/Getty/p5-www-hetzner/
 Web-Simple-0.035                        https://github.com/p5sagit/Web-Simple/issues/1
 Net-Async-Kubernetes-0.011              https://github.com/Getty/p5-net-async-kubernetes/issues/3
 Matplotlib-Simple-0.322                 https://github.com/hhg7/MatPlotLib-Simple/issues/2
+Text-JSContact-0.04                     182160
