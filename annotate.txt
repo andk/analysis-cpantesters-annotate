@@ -9310,3 +9310,4 @@ Net-Async-Kubernetes-0.011              https://github.com/Getty/p5-net-async-ku
 Matplotlib-Simple-0.322                 https://github.com/hhg7/MatPlotLib-Simple/issues/2
 Text-JSContact-0.04                     182160
 App-FileSync-0.001.2                    https://github.com/nigelhorne/App-FileSync/issues/4
+ClickHouse-Encoder-0.03                 https://github.com/vividsnow/perl5-clickhouse-encoder/issues/2
