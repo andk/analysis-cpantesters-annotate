@@ -9312,3 +9312,4 @@ Text-JSContact-0.04                     182160
 App-FileSync-0.001.2                    https://github.com/nigelhorne/App-FileSync/issues/4
 ClickHouse-Encoder-0.03                 https://github.com/vividsnow/perl5-clickhouse-encoder/issues/2
 IO-K8s-1.111                            https://github.com/pplu/io-k8s-p5/issues/9
+IO-K8s-Deprecated-1.111                 https://github.com/Getty/io-k8s-p5-deprecated/issues/1
