@@ -9317,3 +9317,4 @@ Locale-Unicode-RBNF-v0.1.0              https://gitlab.com/deguest/Locale-Unicod
 Skilletor-0.001                         182268
 Test-Log-Abstraction-0.002.1            https://github.com/nigelhorne/Test-Log-Abstraction/issues/3
 EV-Gearman-0.03                         https://github.com/vividsnow/perl5-ev-gearman/issues/1
+EV-MariaDB-0.09                         https://github.com/vividsnow/perl5-ev-mariadb/issues/1
