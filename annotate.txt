@@ -9324,3 +9324,4 @@ Discord-Client-0.001                    https://github.com/viasnake/Discord-Clie
 Kubernetes-REST-1.110                   https://github.com/pplu/kubernetes-rest/issues/4
 Proc-Spawner-0.04                       182479
 Promise-Me-v0.6.1                       https://gitlab.com/deguest/Promise-Me/-/work_items/6
+YATT-Lite-0.200                         https://github.com/hkoba/yatt_lite/issues/309
