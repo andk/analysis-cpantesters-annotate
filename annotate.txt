@@ -9325,3 +9325,4 @@ Kubernetes-REST-1.110                   https://github.com/pplu/kubernetes-rest/
 Proc-Spawner-0.04                       182479
 Promise-Me-v0.6.1                       https://gitlab.com/deguest/Promise-Me/-/work_items/6
 YATT-Lite-0.200                         https://github.com/hkoba/yatt_lite/issues/309,https://github.com/hkoba/yatt_lite/issues/310
+FindBin-libs-v5.1.5                     182480
