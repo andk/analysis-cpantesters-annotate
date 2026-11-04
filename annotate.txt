@@ -9319,3 +9319,4 @@ Test-Log-Abstraction-0.002.1            https://github.com/nigelhorne/Test-Log-A
 EV-Gearman-0.03                         https://github.com/vividsnow/perl5-ev-gearman/issues/1
 EV-MariaDB-0.09                         https://github.com/vividsnow/perl5-ev-mariadb/issues/1
 App-ansifold-1.37                       https://github.com/tecolicom/App-ansifold/issues/3
+BarefootJS-0.40.2                       https://github.com/piconic-ai/barefootjs/issues/3872
