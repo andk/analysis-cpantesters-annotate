@@ -9327,3 +9327,4 @@ Promise-Me-v0.6.1                       https://gitlab.com/deguest/Promise-Me/-/
 YATT-Lite-0.200                         https://github.com/hkoba/yatt_lite/issues/309,https://github.com/hkoba/yatt_lite/issues/310
 FindBin-libs-v5.1.5                     182480
 Mail-MIMEDefang-3.7.2                   https://github.com/The-McGrail-Foundation/MIMEDefang/issues/90
+Class-Abstract-0.03                     https://github.com/nigelhorne/Class-Abstract/issues/3
