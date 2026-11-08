@@ -9332,3 +9332,4 @@ DBD-Mock-Session-GenerateFixtures-1.16  https://github.com/DragosTrif/DBD-Fixtur
 Data-JSEmail-0.06                       182808
 Database-BI-0.021.0                     https://github.com/nigelhorne/Database-BI/issues/6
 Run-0.07                                https://github.com/ilyaz-ai/run/issues/1
+Proc-Spawner-0.09                       182809
