@@ -9329,3 +9329,4 @@ FindBin-libs-v5.1.5                     182480
 Mail-MIMEDefang-3.7.2                   https://github.com/The-McGrail-Foundation/MIMEDefang/issues/90
 Class-Abstract-0.03                     https://github.com/nigelhorne/Class-Abstract/issues/3
 DBD-Mock-Session-GenerateFixtures-1.16  https://github.com/DragosTrif/DBD-Fixtures/issues/3
+Data-JSEmail-0.06                       182808
