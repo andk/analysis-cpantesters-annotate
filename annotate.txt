@@ -9338,3 +9338,4 @@ Monitoring-Sneck-Checks-0.1.1           https://github.com/VVelox/Monitoring-Sne
 App-nup-1.13                            https://github.com/tecolicom/App-nup/issues/2
 Mail-Milter-Authentication-4.20261111   https://github.com/fastmail/authentication_milter/issues/188
 Map-Tube-Generic-v0.2.0                 https://github.com/gwselke/Map-Tube-Generic/issues/1
+CallBackery-0.62.1                      https://github.com/oetiker/callbackery/issues/248
