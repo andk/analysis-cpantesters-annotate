@@ -9345,3 +9345,4 @@ ClamAV-Clamd-0.09                       182940
 Plack-1.0057                            https://github.com/plack/Plack/issues/727
 Net-UPnP-1.4.9                          182942,182943
 Cpanel-JSON-XS-4.81                     https://github.com/rurban/Cpanel-JSON-XS/issues/262
+Text-JSCalendar-0.11                    182953
