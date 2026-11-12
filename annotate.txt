@@ -9334,7 +9334,7 @@ Database-BI-0.021.0                     https://github.com/nigelhorne/Database-B
 Run-0.07                                https://github.com/ilyaz-ai/run/issues/1
 Proc-Spawner-0.09                       182809
 Langertha-0.505                         https://github.com/Getty/langertha/issues/5,https://github.com/Getty/langertha/issues/6
-Monitoring-Sneck-Checks-0.1.1           https://github.com/VVelox/Monitoring-Sneck-Checks/issues/1
+Monitoring-Sneck-Checks-0.2.0           https://github.com/VVelox/Monitoring-Sneck-Checks/issues/1
 App-nup-1.13                            https://github.com/tecolicom/App-nup/issues/2
 Mail-Milter-Authentication-4.20261111   https://github.com/fastmail/authentication_milter/issues/188
 Map-Tube-Generic-v0.2.1                 https://github.com/gwselke/Map-Tube-Generic/issues/1
