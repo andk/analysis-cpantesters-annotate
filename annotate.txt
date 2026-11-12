@@ -9308,7 +9308,7 @@ WWW-Hetzner-0.102                       https://github.com/Getty/p5-www-hetzner/
 Web-Simple-0.037                        https://github.com/p5sagit/Web-Simple/issues/1
 Net-Async-Kubernetes-0.011              https://github.com/Getty/p5-net-async-kubernetes/issues/3
 Matplotlib-Simple-0.322                 https://github.com/hhg7/MatPlotLib-Simple/issues/2
-Text-JSContact-0.04                     182160
+Text-JSContact-0.07                     182160
 App-FileSync-0.001.2                    https://github.com/nigelhorne/App-FileSync/issues/4
 ClickHouse-Encoder-0.03                 https://github.com/vividsnow/perl5-clickhouse-encoder/issues/2
 IO-K8s-1.111                            https://github.com/pplu/io-k8s-p5/issues/9
