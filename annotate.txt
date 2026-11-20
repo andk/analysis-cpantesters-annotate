@@ -9234,7 +9234,7 @@ IO-K8s-1.107                            https://github.com/pplu/io-k8s-p5/issues
 GD-2.90                                 https://github.com/lstein/Perl-GD/issues/68
 MCP-Run-0.106                           https://github.com/Getty/p5-mcp-run/issues/3
 Net-Async-MCP-0.004                     https://github.com/Getty/p5-net-async-mcp/issues/2
-Net-OAuth-0.32                          https://github.com/vurtdev/Net-OAuth/issues/12
+Net-OAuth-0.33                          https://github.com/vurtdev/Net-OAuth/issues/12
 PDF-Make-0.10                           180805
 Syntax-Highlight-Basic-0.1.2            180806
 Data-Smile-0.001000                     180808
