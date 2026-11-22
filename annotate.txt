@@ -9362,3 +9362,4 @@ EV-mysql-0.01                           https://github.com/vividsnow/perl5-ev-my
 Mail-MIMEDefang-3.8.0                   https://github.com/The-McGrail-Foundation/MIMEDefang/issues/91
 GD-2.91                                 https://github.com/lstein/Perl-GD/issues/71
 Module-Build-SysPath-0.20               https://github.com/jozef/Module-Build-SysPath/issues/6
+Test-Permissions-0.001.2                https://github.com/nigelhorne/Test-Permissions/issues/1
