@@ -9351,3 +9351,4 @@ Bijection-XS-0.12                       183040
 Test-Fork-0.02                          https://github.com/Perl/perl5/issues/24889,181697
 Image-ExifTool-13.55                    https://github.com/Perl/perl5/issues/25091
 App-csvtool-0.05                        183417
+DBIO-SQLite-0.900007                    https://codeberg.org/dbio/dbio-sqlite/issues/3
