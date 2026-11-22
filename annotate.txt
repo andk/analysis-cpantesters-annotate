@@ -9359,3 +9359,4 @@ Dist-Zilla-PluginBundle-Author-GETTY-0.329 https://github.com/Getty/p5-dist-zill
 Feature-Compat-Defer-0.02               https://github.com/Perl/perl5/issues/24826
 Skilletor-0.008000                      https://github.com/Getty/skilletor/issues/4
 EV-mysql-0.01                           https://github.com/vividsnow/perl5-ev-mysql/issues/1
+Mail-MIMEDefang-3.8.0                   https://github.com/The-McGrail-Foundation/MIMEDefang/issues/91
