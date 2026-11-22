@@ -9354,3 +9354,4 @@ App-csvtool-0.05                        183417
 DBIO-SQLite-0.900007                    https://codeberg.org/dbio/dbio-sqlite/issues/3
 DBIx-Class-0.082844                     183427
 Data-Dump-1.26                          https://github.com/garu/data-dump/pull/4
+Data-TagDB-v0.16                        183428
