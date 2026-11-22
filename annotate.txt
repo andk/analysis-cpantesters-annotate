@@ -9356,3 +9356,4 @@ DBIx-Class-0.082844                     183427
 Data-Dump-1.26                          https://github.com/garu/data-dump/pull/4
 Data-TagDB-v0.16                        183428
 Dist-Zilla-PluginBundle-Author-GETTY-0.329 https://github.com/Getty/p5-dist-zilla-pluginbundle-author-getty/issues/6
+Feature-Compat-Defer-0.02               https://github.com/Perl/perl5/issues/24826
