@@ -9360,3 +9360,4 @@ Feature-Compat-Defer-0.02               https://github.com/Perl/perl5/issues/248
 Skilletor-0.008000                      https://github.com/Getty/skilletor/issues/4
 EV-mysql-0.01                           https://github.com/vividsnow/perl5-ev-mysql/issues/1
 Mail-MIMEDefang-3.8.0                   https://github.com/The-McGrail-Foundation/MIMEDefang/issues/91
+GD-2.91                                 https://github.com/lstein/Perl-GD/issues/71
