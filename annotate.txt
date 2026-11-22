@@ -9352,3 +9352,4 @@ Test-Fork-0.02                          https://github.com/Perl/perl5/issues/248
 Image-ExifTool-13.55                    https://github.com/Perl/perl5/issues/25091
 App-csvtool-0.05                        183417
 DBIO-SQLite-0.900007                    https://codeberg.org/dbio/dbio-sqlite/issues/3
+DBIx-Class-0.082844                     183427
