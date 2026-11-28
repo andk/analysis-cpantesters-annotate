@@ -9366,3 +9366,4 @@ Test-Permissions-0.001.2                https://github.com/nigelhorne/Test-Permi
 Data-Queue-Shared-0.12                  https://github.com/vividsnow/perl5-data-queue-shared/issues/1
 Text-ANSI-Image-0.02                    https://github.com/tecolicom/Text-ANSI-Image/issues/1
 Sereal-Decoder-7.008                    https://github.com/Sereal/Sereal/issues/352,https://github.com/Sereal/Sereal/issues/353
+Class-Shared-0.001.0                    https://github.com/nigelhorne/Class-Shared/issues/1
